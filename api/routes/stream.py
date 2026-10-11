@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/stream", tags=["Streaming"])
 
 
-async def _resolve_storage_chat_id(message_id: int, pool: TelegramClientPool) -> int:
+async def _resolve_storage_chat_id(message_id: int, pool: TelegramClientPool, video_id: Optional[str] = None) -> int:
     """Resolve the Telegram chat used for this stored video before falling back to current config.
 
     Per-video chat metadata lets previously uploaded videos keep working after the
@@ -34,6 +34,8 @@ async def _resolve_storage_chat_id(message_id: int, pool: TelegramClientPool) ->
                 )
                 .order_by(VideoStorage.updated_at.desc())
             )
+            if video_id:
+                stmt = stmt.where(VideoStorage.video_id == video_id)
             result = await db.execute(stmt)
             row = result.first()
             if row:
@@ -60,12 +62,13 @@ def _content_disposition(file_name: str) -> str:
 async def head_telegram_video_stream(
     message_id: int,
     request: Request,
+    video_id: Optional[str] = None,
 ):
     """
     Returns media metadata headers for Telegram stream (used by video players to probe content length).
     """
     pool = TelegramClientPool.get_instance()
-    chat_id = await _resolve_storage_chat_id(message_id, pool)
+    chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
     try:
         media, file_size, mime_type = await pool.get_media_info(chat_id, message_id)
@@ -91,13 +94,14 @@ async def stream_telegram_video(
     message_id: int,
     request: Request,
     range: Optional[str] = Header(None),
+    video_id: Optional[str] = None,
 ):
     """
     High-Performance Zero-Disk Telegram Video Stream Proxy.
     Supports HTTP Byte-Ranges (206 Partial Content) for instant HTML5 video seeking.
     """
     pool = TelegramClientPool.get_instance()
-    chat_id = await _resolve_storage_chat_id(message_id, pool)
+    chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
     try:
         media, file_size, mime_type = await pool.get_media_info(chat_id, message_id)
