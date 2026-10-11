@@ -4,6 +4,7 @@ from sqlalchemy import select, and_
 from sqlalchemy.orm import selectinload
 
 from db.connection import get_db_dependency
+from api.playback_tokens import create_playback_token
 from db.models import (
     Lecture, Video, PDF, Subject, Folder, Batch,
     PublicationStatus, Playlist, PlaylistItem,
@@ -123,7 +124,8 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
             if st.status in ("READY", "PROCESSING", VideoStorageStatus.READY.value, VideoStorageStatus.PROCESSING.value):
                 if st.provider in ("telegram", "telegram_stream"):
                     msg_id = st.provider_video_id
-                    tg_url = f"/api/v1/stream/tg/{msg_id}?video_id={video.id}"
+                    playback_token = create_playback_token(video.id, int(msg_id))
+                    tg_url = f"/api/v1/stream/tg/{msg_id}?video_id={video.id}&token={playback_token}"
                     stream_url = tg_url
                     playback_url = tg_url
                     hls_url = None

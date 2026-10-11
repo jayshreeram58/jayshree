@@ -82,8 +82,11 @@ async def test_fastapi_stream_endpoint_range_requests():
         with patch.object(pool, "get_media_info", new=AsyncMock(return_value=(mock_media, 5000000, "video/mp4"))), \
              patch.object(pool, "stream_range", side_effect=fake_stream_range):
 
-            # 1. Test HEAD metadata request
-            head_res = await client.head("/api/v1/stream/tg/998877")
+            # 1. Test HEAD metadata request with a valid short-lived playback token
+            from api.playback_tokens import create_playback_token
+            token = create_playback_token("test-video", 998877)
+            stream_url = f"/api/v1/stream/tg/998877?video_id=test-video&token={token}"
+            head_res = await client.head(stream_url)
             assert head_res.status_code == 200
             assert head_res.headers.get("Accept-Ranges") == "bytes"
             assert head_res.headers.get("Content-Length") == "5000000"
@@ -92,7 +95,7 @@ async def test_fastapi_stream_endpoint_range_requests():
             assert "🔥" not in head_res.headers.get("Content-Disposition")
 
             # 2. Test Range request: bytes=0-1048575 (First 1MB)
-            range_res = await client.get("/api/v1/stream/tg/998877", headers={"Range": "bytes=0-1048575"})
+            range_res = await client.get(stream_url, headers={"Range": "bytes=0-1048575"})
             assert range_res.status_code == 206
             assert "filename*=UTF-8''" in range_res.headers.get("Content-Disposition")
             assert "🔥" not in range_res.headers.get("Content-Disposition")
@@ -101,15 +104,24 @@ async def test_fastapi_stream_endpoint_range_requests():
             assert len(range_res.content) == 1048576
 
             # 3. Test Range request: Seeking to middle bytes=2000000-2999999
-            seek_res = await client.get("/api/v1/stream/tg/998877", headers={"Range": "bytes=2000000-2999999"})
+            seek_res = await client.get(stream_url, headers={"Range": "bytes=2000000-2999999"})
             assert seek_res.status_code == 206
             assert seek_res.headers.get("Content-Range") == "bytes 2000000-2999999/5000000"
             assert seek_res.headers.get("Content-Length") == "1000000"
             assert len(seek_res.content) == 1000000
 
             # 4. Test Invalid Range out of bounds
-            bad_range_res = await client.get("/api/v1/stream/tg/998877", headers={"Range": "bytes=6000000-7000000"})
+            bad_range_res = await client.get(stream_url, headers={"Range": "bytes=6000000-7000000"})
             assert bad_range_res.status_code == 416
+
+
+
+@pytest.mark.asyncio
+async def test_stream_rejects_missing_or_invalid_playback_token():
+    transport = ASGITransport(app=app)
+    async with AsyncClient(transport=transport, base_url="http://test") as client:
+        response = await client.get("/api/v1/stream/tg/998877?video_id=test-video")
+        assert response.status_code == 403
 
 
 @pytest.mark.asyncio
@@ -196,8 +208,8 @@ async def test_lecture_access_returns_telegram_stream_url():
         assert data["has_video"] is True
         assert data["storage_provider"] == "telegram"
         assert data["youtube_video_id"] is None
-        assert data["stream_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
-        assert data["playback_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
+        assert data["stream_url"].startswith(f"/api/v1/stream/tg/554433?video_id={video_rec_id}&token=")
+        assert data["playback_url"] == data["stream_url"]
         assert data["embed_url"] is None
 
 

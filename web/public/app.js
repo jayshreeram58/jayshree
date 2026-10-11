@@ -5,6 +5,34 @@
  * ==============================================================================
  */
 
+// Lightweight UI deterrents only. Browser DevTools cannot be reliably disabled by a website.
+(function installPlaybackDeterrents() {
+  document.addEventListener('contextmenu', (event) => {
+    if (event.target && (event.target.closest('video') || event.target.closest('#player-container'))) {
+      event.preventDefault();
+    }
+  }, true);
+
+  document.addEventListener('keydown', (event) => {
+    const key = (event.key || '').toLowerCase();
+    const blocked =
+      key === 'f12' ||
+      (event.ctrlKey && event.shiftKey && ['i', 'j', 'c'].includes(key)) ||
+      (event.ctrlKey && ['u', 's'].includes(key));
+    if (blocked) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+  }, true);
+
+  // Discourage casual text selection/copy only inside the video player, not the whole site.
+  document.addEventListener('dragstart', (event) => {
+    if (event.target && event.target.closest && event.target.closest('#player-container')) {
+      event.preventDefault();
+    }
+  }, true);
+})();
+
 // Application State Store
 const state = {
   activeTab: 'home',

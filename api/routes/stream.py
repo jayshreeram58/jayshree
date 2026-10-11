@@ -10,6 +10,7 @@ from db.connection import get_db_session
 from db.models import Video, VideoStorage
 
 from config.settings import OWNER_ID
+from api.playback_tokens import verify_playback_token
 from storage.telegram_stream.client_pool import TelegramClientPool
 
 logger = logging.getLogger(__name__)
@@ -63,10 +64,13 @@ async def head_telegram_video_stream(
     message_id: int,
     request: Request,
     video_id: Optional[str] = None,
+    token: Optional[str] = None,
 ):
     """
     Returns media metadata headers for Telegram stream (used by video players to probe content length).
     """
+    if not verify_playback_token(token, video_id, message_id):
+        raise HTTPException(status_code=403, detail="Playback link expired or invalid. Reopen the lecture.")
     pool = TelegramClientPool.get_instance()
     chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
@@ -79,7 +83,7 @@ async def head_telegram_video_stream(
             "Content-Length": str(file_size),
             "Content-Type": mime_type or "video/mp4",
             "Content-Disposition": _content_disposition(file_name),
-            "Cache-Control": "public, max-age=86400",
+            "Cache-Control": "private, no-store, max-age=0",
             "Access-Control-Allow-Origin": "*",
             "Access-Control-Allow-Headers": "*",
         }
@@ -95,11 +99,14 @@ async def stream_telegram_video(
     request: Request,
     range: Optional[str] = Header(None),
     video_id: Optional[str] = None,
+    token: Optional[str] = None,
 ):
     """
     High-Performance Zero-Disk Telegram Video Stream Proxy.
     Supports HTTP Byte-Ranges (206 Partial Content) for instant HTML5 video seeking.
     """
+    if not verify_playback_token(token, video_id, message_id):
+        raise HTTPException(status_code=403, detail="Playback link expired or invalid. Reopen the lecture.")
     pool = TelegramClientPool.get_instance()
     chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
@@ -118,7 +125,7 @@ async def stream_telegram_video(
         "Accept-Ranges": "bytes",
         "Content-Type": mime_type or "video/mp4",
         "Content-Disposition": _content_disposition(file_name),
-        "Cache-Control": "public, max-age=86400",
+        "Cache-Control": "private, no-store, max-age=0",
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Headers": "*",
     }
