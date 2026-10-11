@@ -231,3 +231,51 @@ def test_caption_formatter_html_escape_and_truncation():
     assert len(caption_long) <= 1024
     assert caption_long.endswith("∮◯🎓🔥</blockquote>")
 
+@pytest.mark.asyncio
+async def test_stream_range_uses_same_client_that_resolved_media():
+    """A media object resolved by a worker must be streamed by that same worker."""
+    pool = TelegramClientPool()
+    pool._is_started = True
+
+    first = MagicMock()
+    first.name = "first-client"
+    first.get_messages = AsyncMock(side_effect=RuntimeError("cannot access message"))
+    first.stream_media = MagicMock()
+
+    media = MagicMock()
+    media.file_size = 16
+    media.mime_type = "video/mp4"
+    media.file_name = "lecture.mp4"
+    message = MagicMock()
+    message.empty = False
+    message.video = media
+    message.document = None
+
+    second = MagicMock()
+    second.name = "second-client"
+    second.get_messages = AsyncMock(return_value=message)
+
+    async def chunks(*args, **kwargs):
+        yield b"0123456789abcdef"
+
+    second.stream_media = MagicMock(side_effect=chunks)
+    pool.clients = [first, second]
+
+    # Ensure this test exercises Telegram rather than the local header cache.
+    from storage.telegram_stream.client_pool import GLOBAL_HEADER_CACHE
+    GLOBAL_HEADER_CACHE.cache.clear()
+    GLOBAL_HEADER_CACHE.meta.clear()
+
+    received = b"".join([
+        chunk async for chunk in pool.stream_range(
+            chat_id=-1004469977085,
+            message_id=4,
+            start_byte=0,
+            end_byte=15,
+        )
+    ])
+
+    assert received == b"0123456789abcdef"
+    first.stream_media.assert_not_called()
+    second.stream_media.assert_called_once_with(media, offset=0, limit=2)
+
