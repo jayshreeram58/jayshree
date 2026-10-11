@@ -186,6 +186,7 @@ async def test_lecture_access_returns_telegram_stream_url():
         await db.commit()
 
         lec_id = lec_rec.id
+        video_rec_id = vid_rec.id
 
     transport = ASGITransport(app=app)
     async with AsyncClient(transport=transport, base_url="http://test") as client:
@@ -195,8 +196,8 @@ async def test_lecture_access_returns_telegram_stream_url():
         assert data["has_video"] is True
         assert data["storage_provider"] == "telegram"
         assert data["youtube_video_id"] is None
-        assert data["stream_url"] == "/api/v1/stream/tg/554433"
-        assert data["playback_url"] == "/api/v1/stream/tg/554433"
+        assert data["stream_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
+        assert data["playback_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
         assert data["embed_url"] is None
 
 
