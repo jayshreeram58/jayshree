@@ -4,6 +4,10 @@ from typing import Optional
 from urllib.parse import quote
 from fastapi import APIRouter, Request, Response, HTTPException, Header
 from fastapi.responses import StreamingResponse
+from sqlalchemy import select
+
+from db.connection import get_db_session
+from db.models import Video, VideoStorage
 
 from config.settings import OWNER_ID
 from storage.telegram_stream.client_pool import TelegramClientPool
@@ -11,6 +15,39 @@ from storage.telegram_stream.client_pool import TelegramClientPool
 logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/stream", tags=["Streaming"])
+
+
+async def _resolve_storage_chat_id(message_id: int, pool: TelegramClientPool, video_id: Optional[str] = None) -> int:
+    """Resolve the Telegram chat used for this stored video before falling back to current config.
+
+    Per-video chat metadata lets previously uploaded videos keep working after the
+    active storage channel is changed in the bot.
+    """
+    try:
+        async with get_db_session() as db:
+            stmt = (
+                select(VideoStorage, Video.telegram_chat_id)
+                .outerjoin(Video, Video.id == VideoStorage.video_id)
+                .where(
+                    VideoStorage.provider.in_(("telegram", "telegram_stream")),
+                    VideoStorage.provider_video_id == str(message_id),
+                )
+                .order_by(VideoStorage.updated_at.desc())
+            )
+            if video_id:
+                stmt = stmt.where(VideoStorage.video_id == video_id)
+            result = await db.execute(stmt)
+            row = result.first()
+            if row:
+                storage, video_chat_id = row
+                metadata = storage.metadata_json if isinstance(storage.metadata_json, dict) else {}
+                stored_chat_id = metadata.get("chat_id") or video_chat_id
+                if stored_chat_id is not None:
+                    return int(stored_chat_id)
+    except Exception:
+        logger.exception("[STREAM_CHAT_LOOKUP_ERR] msg_id=%s; falling back to active storage channel", message_id)
+
+    return int(pool.storage_chat_id or OWNER_ID)
 
 
 def _content_disposition(file_name: str) -> str:
@@ -25,12 +62,13 @@ def _content_disposition(file_name: str) -> str:
 async def head_telegram_video_stream(
     message_id: int,
     request: Request,
+    video_id: Optional[str] = None,
 ):
     """
     Returns media metadata headers for Telegram stream (used by video players to probe content length).
     """
     pool = TelegramClientPool.get_instance()
-    chat_id = pool.storage_chat_id or OWNER_ID
+    chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
     try:
         media, file_size, mime_type = await pool.get_media_info(chat_id, message_id)
@@ -56,13 +94,14 @@ async def stream_telegram_video(
     message_id: int,
     request: Request,
     range: Optional[str] = Header(None),
+    video_id: Optional[str] = None,
 ):
     """
     High-Performance Zero-Disk Telegram Video Stream Proxy.
     Supports HTTP Byte-Ranges (206 Partial Content) for instant HTML5 video seeking.
     """
     pool = TelegramClientPool.get_instance()
-    chat_id = pool.storage_chat_id or OWNER_ID
+    chat_id = await _resolve_storage_chat_id(message_id, pool, video_id)
 
     try:
         media, file_size, mime_type = await pool.get_media_info(chat_id, message_id)

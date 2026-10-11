@@ -123,7 +123,7 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
             if st.status in ("READY", "PROCESSING", VideoStorageStatus.READY.value, VideoStorageStatus.PROCESSING.value):
                 if st.provider in ("telegram", "telegram_stream"):
                     msg_id = st.provider_video_id
-                    tg_url = f"/api/v1/stream/tg/{msg_id}"
+                    tg_url = f"/api/v1/stream/tg/{msg_id}?video_id={video.id}"
                     stream_url = tg_url
                     playback_url = tg_url
                     hls_url = None

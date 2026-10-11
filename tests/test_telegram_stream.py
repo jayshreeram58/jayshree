@@ -113,6 +113,30 @@ async def test_fastapi_stream_endpoint_range_requests():
 
 
 @pytest.mark.asyncio
+async def test_stream_resolves_chat_id_saved_for_video():
+    from api.routes.stream import _resolve_storage_chat_id
+
+    pool = MagicMock()
+    pool.storage_chat_id = -1004341532959
+
+    storage = MagicMock()
+    storage.metadata_json = {"chat_id": "-1004469977085"}
+    query_result = MagicMock()
+    query_result.first.return_value = (storage, None)
+
+    session = MagicMock()
+    session.execute = AsyncMock(return_value=query_result)
+    context = MagicMock()
+    context.__aenter__ = AsyncMock(return_value=session)
+    context.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("api.routes.stream.get_db_session", return_value=context):
+        chat_id = await _resolve_storage_chat_id(3, pool)
+
+    assert chat_id == -1004469977085
+
+
+@pytest.mark.asyncio
 async def test_lecture_access_returns_telegram_stream_url():
     import uuid
     uid = uuid.uuid4().hex[:8]
@@ -162,6 +186,7 @@ async def test_lecture_access_returns_telegram_stream_url():
         await db.commit()
 
         lec_id = lec_rec.id
+        video_rec_id = vid_rec.id
 
     transport = ASGITransport(app=app)
     async with AsyncClient(transport=transport, base_url="http://test") as client:
@@ -171,8 +196,8 @@ async def test_lecture_access_returns_telegram_stream_url():
         assert data["has_video"] is True
         assert data["storage_provider"] == "telegram"
         assert data["youtube_video_id"] is None
-        assert data["stream_url"] == "/api/v1/stream/tg/554433"
-        assert data["playback_url"] == "/api/v1/stream/tg/554433"
+        assert data["stream_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
+        assert data["playback_url"] == f"/api/v1/stream/tg/554433?video_id={video_rec_id}"
         assert data["embed_url"] is None
 
 

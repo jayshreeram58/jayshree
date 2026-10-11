@@ -172,6 +172,10 @@ async def publish_video_to_telegram_stream_and_db(
             upload_completed_at=datetime.utcnow()
         )
 
+        # Keep the chat ID with the video; message IDs are only unique within a chat.
+        video.telegram_chat_id = storage_chat_id
+        video.telegram_message_id = storage_msg_id
+
         # Attach VideoStorage
         st_record = await repo.get_video_storage_by_provider(video.id, "telegram_stream")
         if not st_record:
@@ -194,6 +198,12 @@ async def publish_video_to_telegram_stream_and_db(
             st_record.remote_size = file_size
             st_record.remote_duration = float(duration)
             st_record.updated_at = datetime.utcnow()
+
+        st_record.metadata_json = {
+            **(st_record.metadata_json if isinstance(st_record.metadata_json, dict) else {}),
+            "chat_id": storage_chat_id,
+            "message_id": storage_msg_id,
+        }
 
         await repo.add_lecture_to_playlist(subj.id, lecture.id)
         await session.commit()
