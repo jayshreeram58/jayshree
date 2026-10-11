@@ -510,6 +510,19 @@ async def _persist_storage_success(
                 record.completed_at = now
                 if result.raw_metadata:
                     record.metadata_json = result.raw_metadata
+            # Persist the exact Telegram chat alongside the message ID. The active
+            # storage channel can change later, but existing lecture URLs must keep
+            # resolving to the channel where their media was uploaded.
+            if provider in ("telegram", "telegram_stream") and result.raw_metadata:
+                raw_chat_id = result.raw_metadata.get("chat_id")
+                raw_message_id = result.raw_metadata.get("message_id") or result.provider_video_id
+                video_rec = await session.get(Video, video_id)
+                if video_rec:
+                    if raw_chat_id is not None:
+                        video_rec.telegram_chat_id = int(raw_chat_id)
+                    if raw_message_id is not None:
+                        video_rec.telegram_message_id = int(raw_message_id)
+
             await session.flush()
     except Exception as db_e:
         logger.debug("[STORAGE] DB success persistence notice (%s): %s", provider, db_e)
