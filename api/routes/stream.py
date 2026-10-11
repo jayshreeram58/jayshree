@@ -1,6 +1,7 @@
 import re
 import logging
 from typing import Optional
+from urllib.parse import quote
 from fastapi import APIRouter, Request, Response, HTTPException, Header
 from fastapi.responses import StreamingResponse
 
@@ -10,6 +11,14 @@ from storage.telegram_stream.client_pool import TelegramClientPool
 logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/stream", tags=["Streaming"])
+
+
+def _content_disposition(file_name: str) -> str:
+    """Build an ASCII-safe Content-Disposition header while preserving Unicode filenames."""
+    # Keep a conservative ASCII fallback for clients that do not support filename*.
+    ascii_name = re.sub(r"[^A-Za-z0-9._-]", "_", file_name).strip("._") or "video.mp4"
+    encoded_name = quote(file_name, safe="")
+    return f'inline; filename="{ascii_name}"; filename*=UTF-8\'\'{encoded_name}'
 
 
 @router.head("/tg/{message_id}")
@@ -31,7 +40,7 @@ async def head_telegram_video_stream(
             "Accept-Ranges": "bytes",
             "Content-Length": str(file_size),
             "Content-Type": mime_type or "video/mp4",
-            "Content-Disposition": f'inline; filename="{file_name}"',
+            "Content-Disposition": _content_disposition(file_name),
             "Cache-Control": "public, max-age=86400",
             "Access-Control-Allow-Origin": "*",
             "Access-Control-Allow-Headers": "*",
@@ -69,7 +78,7 @@ async def stream_telegram_video(
     base_headers = {
         "Accept-Ranges": "bytes",
         "Content-Type": mime_type or "video/mp4",
-        "Content-Disposition": f'inline; filename="{file_name}"',
+        "Content-Disposition": _content_disposition(file_name),
         "Cache-Control": "public, max-age=86400",
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Headers": "*",

@@ -72,7 +72,7 @@ async def test_fastapi_stream_endpoint_range_requests():
         mock_media = MagicMock()
         mock_media.file_size = 5000000  # 5 MB
         mock_media.mime_type = "video/mp4"
-        mock_media.file_name = "lecture_998877.mp4"
+        mock_media.file_name = "∮◯⚡ Course Wallah 🎓🔥.mp4"
 
         async def fake_stream_range(chat_id, msg_id, start, end, chunk_size=1024*1024, media=None, **kwargs):
             # Yield simulated byte chunks
@@ -88,10 +88,14 @@ async def test_fastapi_stream_endpoint_range_requests():
             assert head_res.headers.get("Accept-Ranges") == "bytes"
             assert head_res.headers.get("Content-Length") == "5000000"
             assert "video/mp4" in head_res.headers.get("Content-Type")
+            assert "filename*=UTF-8''" in head_res.headers.get("Content-Disposition")
+            assert "🔥" not in head_res.headers.get("Content-Disposition")
 
             # 2. Test Range request: bytes=0-1048575 (First 1MB)
             range_res = await client.get("/api/v1/stream/tg/998877", headers={"Range": "bytes=0-1048575"})
             assert range_res.status_code == 206
+            assert "filename*=UTF-8''" in range_res.headers.get("Content-Disposition")
+            assert "🔥" not in range_res.headers.get("Content-Disposition")
             assert range_res.headers.get("Content-Range") == "bytes 0-1048575/5000000"
             assert range_res.headers.get("Content-Length") == "1048576"
             assert len(range_res.content) == 1048576
