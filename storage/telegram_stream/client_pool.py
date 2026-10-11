@@ -259,41 +259,45 @@ class TelegramClientPool:
             "file_name": getattr(media, "file_name", None) or Path(file_path).name,
         }
 
-    async def get_media_info(self, chat_id: int, message_id: int) -> Tuple[Any, int, str]:
+    async def _get_media_info_with_client(self, chat_id: int, message_id: int) -> Tuple[Client, Any, int, str]:
         """
-        Retrieves media metadata (file_id_obj, file_size, mime_type) for message.
+        Resolve a message and keep the client that resolved it together with its media.
+        Telegram media references may not be reusable across different client sessions.
         """
         cache_key = f"{chat_id}:{message_id}"
         cached_meta = GLOBAL_HEADER_CACHE.get_meta(cache_key)
 
         if not self._is_started or not self.clients:
             await self.start()
-
         if not self.clients:
             raise RuntimeError("Telegram streaming client pool is offline.")
 
-        msg = None
         last_err = None
         for client in self.clients:
             try:
                 msg = await client.get_messages(chat_id=chat_id, message_ids=message_id)
-                if msg and not msg.empty and (msg.video or msg.document):
-                    break
+                if not msg or msg.empty:
+                    continue
+                media = msg.video or msg.document
+                if not media:
+                    continue
+
+                file_size = getattr(media, "file_size", 0) or (cached_meta.get("file_size") if cached_meta else 0)
+                mime_type = getattr(media, "mime_type", None) or "video/mp4"
+                return client, media, file_size, mime_type
             except Exception as err:
                 last_err = err
-                continue
+                logger.debug("[TG_MEDIA_LOOKUP_RETRY] msg_id=%s client=%s error=%s",
+                             message_id, getattr(client, "name", "unknown"), err)
 
-        if not msg or msg.empty:
-            raise ValueError(f"Message {message_id} in chat {chat_id} not found on Telegram. ({last_err or 'Empty message'})")
+        raise ValueError(
+            f"Message {message_id} in chat {chat_id} not found or has no video media. "
+            f"Last Telegram error: {last_err or 'Empty/non-media message'}"
+        )
 
-        media = msg.video or msg.document
-        if not media:
-            raise ValueError(f"Message {message_id} does not contain video media.")
-
-        file_size = getattr(media, "file_size", 0) or (cached_meta.get("file_size") if cached_meta else 0)
-        mime_type = getattr(media, "mime_type", "video/mp4") or "video/mp4"
-        file_name = getattr(media, "file_name", "lecture.mp4") or "lecture.mp4"
-
+    async def get_media_info(self, chat_id: int, message_id: int) -> Tuple[Any, int, str]:
+        """Public metadata API retained for existing callers."""
+        _, media, file_size, mime_type = await self._get_media_info_with_client(chat_id, message_id)
         return media, file_size, mime_type
 
     async def stream_range(
@@ -326,13 +330,14 @@ class TelegramClientPool:
         if not self.clients:
             return
 
-        client = self.clients[0]
-        if not media:
-            try:
-                media, _, _ = await self.get_media_info(chat_id, message_id)
-            except Exception as get_err:
-                logger.warning(f"[STREAM_MEDIA_LOOKUP_ERR] msg_id={message_id}: {get_err}")
-                return
+        # Always resolve the media and stream it with the same client session.
+        # A media object fetched by a worker client is not guaranteed to work on clients[0].
+        try:
+            client, resolved_media, _, _ = await self._get_media_info_with_client(chat_id, message_id)
+            media = resolved_media
+        except Exception as get_err:
+            logger.exception("[STREAM_MEDIA_LOOKUP_ERR] chat_id=%s msg_id=%s", chat_id, message_id)
+            raise RuntimeError(f"Unable to resolve Telegram media for message {message_id}") from get_err
 
         # Pyrogram stream_media works with 1MB chunk offsets
         chunk_offset = math.floor(start_byte / (1024 * 1024))
@@ -369,5 +374,8 @@ class TelegramClientPool:
             logger.debug(f"[STREAM_CLIENT_DISCONNECT] Client closed stream early for msg_id={message_id}")
             return
         except Exception as stream_err:
-            logger.warning(f"[STREAM_CHUNK_ERR] msg_id={message_id}: {stream_err}")
-            return
+            logger.exception(
+                "[STREAM_CHUNK_ERR] chat_id=%s msg_id=%s client=%s",
+                chat_id, message_id, getattr(client, "name", "unknown")
+            )
+            raise RuntimeError(f"Telegram streaming failed for message {message_id}") from stream_err
