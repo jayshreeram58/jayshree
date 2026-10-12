@@ -5,27 +5,29 @@
  * ==============================================================================
  */
 
-// Lightweight UI deterrents only. Browser DevTools cannot be reliably disabled by a website.
+// Best-effort UI deterrents against casual inspection; these are not a security boundary.
+// Browser DevTools, network panels, screenshots, and requests cannot reliably be blocked by a website.
 (function installPlaybackDeterrents() {
+  // Disable the context menu across the site as a lightweight deterrent.
   document.addEventListener('contextmenu', (event) => {
-    if (event.target && (event.target.closest('video') || event.target.closest('#player-container'))) {
-      event.preventDefault();
-    }
+    event.preventDefault();
   }, true);
 
+  // Discourage common DevTools, view-source, save-page and print shortcuts.
+  // Users can still inspect requests through browser settings, remote tools, or other methods.
   document.addEventListener('keydown', (event) => {
     const key = (event.key || '').toLowerCase();
     const blocked =
       key === 'f12' ||
-      (event.ctrlKey && event.shiftKey && ['i', 'j', 'c'].includes(key)) ||
-      (event.ctrlKey && ['u', 's'].includes(key));
+      ((event.ctrlKey || event.metaKey) && event.shiftKey && ['i', 'j', 'c', 'k'].includes(key)) ||
+      ((event.ctrlKey || event.metaKey) && ['u', 's'].includes(key));
     if (blocked) {
       event.preventDefault();
       event.stopPropagation();
     }
   }, true);
 
-  // Discourage casual text selection/copy only inside the video player, not the whole site.
+  // Discourage dragging media out of the player.
   document.addEventListener('dragstart', (event) => {
     if (event.target && event.target.closest && event.target.closest('#player-container')) {
       event.preventDefault();
