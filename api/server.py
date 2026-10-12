@@ -90,6 +90,7 @@ web_build_dir = BASE_DIR / "web" / "public"
 web_build_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/static", StaticFiles(directory=str(web_build_dir)), name="static")
 
+@app.head("/health")
 @app.get("/health")
 async def health_check():
     return {
