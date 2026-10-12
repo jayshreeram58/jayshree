@@ -126,3 +126,41 @@ Deploy hote hi aapko kisi `.env` file ko baar-baar edit karne ki zaroorat nahi h
   * ✅ Student Problem & Support Ticket Resolution
   * ✅ Student Batch Access Grant / Revoke
   * ✅ Multi-Channel Quota Inspector
+
+
+---
+
+## 🟦 Koyeb Deployment (Website API + Telegram Bot + Worker)
+
+This repository's Dockerfile starts `python start.py`, which runs the FastAPI API, Telegram bot, and background worker under one supervisor. For a single Koyeb service:
+
+1. Create a Koyeb Web Service from this GitHub repository and keep the repository root as the build context so Koyeb uses the included `Dockerfile`.
+2. Set the run command to `python start.py --service all` only if your service's configuration overrides the Dockerfile command. Otherwise, leave the Dockerfile command unchanged.
+3. Configure the service's HTTP port as the port provided by Koyeb (`PORT`, default 8000 in this image) and expose that port publicly.
+4. Set the following environment variables in Koyeb's **Secrets / Environment variables**. Never commit real values into GitHub.
+
+| Variable | Required for | Notes |
+| --- | --- | --- |
+| `BOT_TOKEN` | Telegram bot | BotFather token; `BOT_1_TOKEN` is accepted as a fallback |
+| `API_ID` | Telegram bot/client | Numeric Telegram API ID from my.telegram.org |
+| `API_HASH` | Telegram bot/client | Telegram API hash |
+| `OWNER_ID` | Owner/admin defaults and Telegram storage fallback | Numeric Telegram user ID |
+| `ADMINS` | Admin commands | Comma-separated Telegram user IDs; include owner if needed |
+| `DATABASE_URL` | Persistent platform data | Use the existing PostgreSQL/Neon connection string; do not replace it with SQLite for an ephemeral deployment |
+| `SECRET_KEY` | JWT/security | Set a strong random secret |
+| `ADMIN_USERNAME`, `ADMIN_PASSWORD` | Admin login | Set unique production credentials |
+| `SECURITY_TEST_MODE` | API docs/security behavior | Set `false` in production |
+| `TELEGRAM_STORAGE_CHANNEL_ID` | Telegram-backed video storage | ID of the channel where the bot can access stored media |
+| `TELEGRAM_STREAM_ENABLED` | Video playback | Keep enabled only when Telegram streaming is configured |
+
+Add the existing provider credentials required by the features you actually use (for example B2 or media storage API keys). Keep all credentials in Koyeb secrets, not in source files or logs.
+
+### Verify after deployment
+
+- Open `https://YOUR-KOYEB-DOMAIN/health`; expect JSON with `"status": "healthy"`.
+- Check Koyeb runtime logs for `Bot successfully started as @...` and `Registered bot commands in Telegram scope successfully.`
+- In Telegram, open the configured bot and send `/start`, then test one owner/admin command.
+- Test a real lecture's video playback and seeking from the website; a healthy HTTP endpoint alone does not prove media streaming works.
+- Confirm the API and bot use the same PostgreSQL database and that the Telegram bot has access to the configured storage channel.
+
+The supervisor restarts the API, bot, or worker independently if one exits or crashes, so a bot startup issue should not intentionally bring down the student API. It cannot make a bot online when its credentials are missing or invalid; check the Koyeb logs and environment variables in that case.
