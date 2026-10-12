@@ -1,8 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Search, Sparkles, CheckCircle2, ShieldCheck, Flame, Play, BookOpen, Layers, Zap } from "lucide-react";
-import { CourseWallahLogo } from "@/components/brand/CourseWallahLogo";
+import { ArrowUpRight, BookOpen, CheckCircle2, Command, GraduationCap, Search, ShieldCheck, Sparkles, Zap } from "lucide-react";
 
 interface HeroSectionProps {
   searchQuery: string;
@@ -12,149 +11,86 @@ interface HeroSectionProps {
   batchCount: number;
 }
 
-export function HeroSection({
-  searchQuery,
-  setSearchQuery,
-  onSearchSubmit,
-  appCount,
-  batchCount,
-}: HeroSectionProps) {
-  const containerVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: {
-      opacity: 1,
-      y: 0,
-      transition: {
-        duration: 0.6,
-        staggerChildren: 0.15,
-      },
-    },
-  };
-
-  const itemVariants = {
-    hidden: { opacity: 0, y: 15 },
-    visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
-  };
-
+export function HeroSection({ searchQuery, setSearchQuery, onSearchSubmit, appCount, batchCount }: HeroSectionProps) {
   return (
-    <motion.section 
-      initial="hidden"
-      animate="visible"
-      variants={containerVariants}
-      className="relative overflow-hidden rounded-3xl cw-card-elevated p-8 sm:p-12 lg:p-16 border border-cw-border/80 shadow-2xl"
-    >
-      {/* Animated Glowing Background Ambient Orbs */}
-      <motion.div 
-        animate={{ 
-          scale: [1, 1.15, 1],
-          opacity: [0.15, 0.25, 0.15],
-          x: [0, 15, 0],
-          y: [0, -10, 0]
-        }}
-        transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
-        className="absolute top-0 right-0 -mt-24 -mr-24 w-[420px] h-[420px] rounded-full bg-gradient-to-br from-blue-600/30 to-cyan-500/20 blur-3xl pointer-events-none" 
-      />
-      
-      <motion.div 
-        animate={{ 
-          scale: [1, 1.2, 1],
-          opacity: [0.1, 0.2, 0.1],
-          x: [0, -15, 0],
-          y: [0, 15, 0]
-        }}
-        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
-        className="absolute bottom-0 left-0 -mb-24 -ml-24 w-[380px] h-[380px] rounded-full bg-gradient-to-tr from-indigo-600/25 to-blue-500/15 blur-3xl pointer-events-none" 
-      />
+    <section className="relative isolate overflow-hidden rounded-[2rem] border border-white/10 bg-[#0c1224] shadow-[0_30px_100px_-40px_rgba(37,99,235,.55)]">
+      <div aria-hidden="true" className="absolute inset-0 -z-10 overflow-hidden">
+        <div className="absolute -right-24 -top-36 h-[28rem] w-[28rem] rounded-full bg-blue-600/25 blur-[100px]" />
+        <div className="absolute -bottom-48 left-1/4 h-[25rem] w-[25rem] rounded-full bg-violet-600/20 blur-[100px]" />
+        <div className="absolute inset-0 opacity-[.14]" style={{ backgroundImage: "linear-gradient(rgba(148,163,184,.22) 1px, transparent 1px), linear-gradient(90deg, rgba(148,163,184,.22) 1px, transparent 1px)", backgroundSize: "36px 36px", maskImage: "linear-gradient(to bottom, black, transparent 90%)" }} />
+      </div>
 
-      <div className="relative z-10 max-w-3xl space-y-8">
-        {/* Animated Brand Pill */}
-        <motion.div variants={itemVariants} className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/25 text-xs font-bold text-cw-primary backdrop-blur-sm shadow-inner">
-          <span className="relative flex h-2 w-2">
-            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
-            <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
-          </span>
-          <Sparkles className="w-3.5 h-3.5 text-cw-primary" />
-          <span>India&apos;s High-Speed Engineering Learning Portal</span>
-        </motion.div>
+      <div className="grid gap-10 px-6 py-10 sm:px-10 sm:py-14 lg:grid-cols-[1.15fr_.85fr] lg:items-center lg:px-14 lg:py-16">
+        <motion.div initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .55 }} className="relative z-10">
+          <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-cyan-300/20 bg-cyan-300/[.07] px-3.5 py-2 text-[11px] font-bold uppercase tracking-[.16em] text-cyan-200">
+            <span className="relative flex h-2 w-2"><span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-70" /><span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-400" /></span>
+            Your learning space, upgraded
+          </div>
 
-        {/* Hero Title with Dynamic Gradient */}
-        <motion.div variants={itemVariants} className="space-y-3">
-          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
-            Learn with{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-indigo-300 drop-shadow-sm">
-              Course Wallah
-            </span>
+          <h1 className="max-w-3xl text-4xl font-black leading-[1.08] tracking-[-.045em] text-white sm:text-5xl lg:text-[4.1rem]">
+            Learn with focus.
+            <span className="mt-1 block bg-gradient-to-r from-cyan-300 via-blue-400 to-violet-400 bg-clip-text text-transparent">Grow without limits.</span>
           </h1>
-          <p className="text-sm sm:text-lg text-cw-muted leading-relaxed max-w-2xl font-normal">
-            Stream high-definition lectures with moving dynamic watermarks, instant lecture chapter navigation, and encrypted PDF study notes.
+          <p className="mt-6 max-w-xl text-sm leading-7 text-slate-300 sm:text-base">
+            Courses, structured batches, lecture streams and study notes — all in one calm, distraction-free workspace built for your next big goal.
           </p>
-        </motion.div>
 
-        {/* Hero Search Box with Micro-Interactions */}
-        <motion.form variants={itemVariants} onSubmit={onSearchSubmit} className="max-w-xl">
-          <div className="relative flex items-center group">
-            <Search className="w-5 h-5 absolute left-4 text-cw-muted group-focus-within:text-cw-primary transition-colors pointer-events-none" />
+          <form onSubmit={onSearchSubmit} className="mt-8 flex max-w-2xl items-center gap-2 rounded-2xl border border-white/10 bg-black/25 p-2 shadow-2xl shadow-black/20 backdrop-blur-xl focus-within:border-cyan-300/40">
+            <Search className="ml-3 h-5 w-5 shrink-0 text-slate-400" />
             <input
-              type="text"
-              placeholder="Search batches, subjects, chapters or notes..."
+              type="search"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-12 pr-28 py-3.5 bg-cw-surface/90 border border-cw-border rounded-2xl text-sm sm:text-base text-white placeholder-cw-muted focus:outline-none focus:border-cw-primary focus:ring-2 focus:ring-cw-primary/25 shadow-xl transition-all"
+              placeholder="Find a course, batch or subject…"
+              aria-label="Search courses, batches or subjects"
+              className="min-w-0 flex-1 bg-transparent px-1 py-3 text-sm text-white outline-none placeholder:text-slate-500"
             />
-            <motion.button
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.97 }}
-              type="submit"
-              className="absolute right-2 px-5 py-2 bg-cw-primary hover:bg-cw-primary-hover text-white text-xs sm:text-sm font-bold rounded-xl shadow-md shadow-blue-500/20 transition-all"
-            >
-              Search
-            </motion.button>
-          </div>
-        </motion.form>
+            <button type="submit" className="inline-flex shrink-0 items-center gap-2 rounded-xl bg-white px-4 py-3 text-xs font-extrabold text-slate-950 transition hover:bg-cyan-100 sm:px-5 sm:text-sm">
+              Explore <ArrowUpRight className="h-4 w-4" />
+            </button>
+          </form>
 
-        {/* Live Feature Highlights & Ambient Topic Tickers */}
-        <motion.div variants={itemVariants} className="space-y-4 pt-2">
-          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-xs sm:text-sm text-cw-text-secondary">
-            <div className="flex items-center gap-2.5 p-2.5 rounded-xl bg-cw-surface/50 border border-cw-border/60 backdrop-blur-sm">
-              <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-              <span className="font-medium">1080p HD Streaming</span>
-            </div>
-            <div className="flex items-center gap-2.5 p-2.5 rounded-xl bg-cw-surface/50 border border-cw-border/60 backdrop-blur-sm">
-              <ShieldCheck className="w-4 h-4 text-cyan-400 flex-shrink-0" />
-              <span className="font-medium">Encrypted Study Notes</span>
-            </div>
-            <div className="flex items-center gap-2.5 p-2.5 rounded-xl bg-cw-surface/50 border border-cw-border/60 backdrop-blur-sm col-span-2 sm:col-span-1">
-              <Zap className="w-4 h-4 text-amber-400 flex-shrink-0" />
-              <span className="font-medium">High-Speed Playback</span>
-            </div>
-          </div>
-
-          {/* Ambient Educational Keywords Ticker */}
-          <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-[11px] text-cw-muted">
-            <span className="font-bold text-cw-primary uppercase tracking-wider text-[10px] flex items-center gap-1">
-              <Sparkles className="w-3 h-3" /> Popular:
-            </span>
-            {[
-              "AI & ML",
-              "Engineering",
-              "Programming",
-              "Data Structures",
-              "Digital Electronics",
-              "Cloud Computing",
-              "Web Development",
-              "Python",
-              "Computer Science"
-            ].map((topic, idx) => (
-              <span
-                key={idx}
-                className="px-2.5 py-0.5 rounded-lg bg-cw-elevated border border-cw-border text-cw-text whitespace-nowrap hover:border-cw-primary/50 transition-colors"
-              >
-                {topic}
-              </span>
-            ))}
+          <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3 text-xs font-medium text-slate-400">
+            <span className="inline-flex items-center gap-2"><ShieldCheck className="h-4 w-4 text-emerald-300" /> Focus-first learning</span>
+            <span className="inline-flex items-center gap-2"><Zap className="h-4 w-4 text-amber-300" /> Quick access</span>
+            <span className="inline-flex items-center gap-2"><BookOpen className="h-4 w-4 text-cyan-300" /> Notes with lectures</span>
           </div>
         </motion.div>
+
+        <motion.div initial={{ opacity: 0, y: 22, scale: .98 }} animate={{ opacity: 1, y: 0, scale: 1 }} transition={{ duration: .65, delay: .12 }} className="relative mx-auto w-full max-w-md lg:ml-auto">
+          <div className="absolute -inset-4 rounded-[2rem] bg-gradient-to-br from-blue-500/20 via-transparent to-violet-500/20 blur-2xl" />
+          <div className="relative rounded-[1.7rem] border border-white/10 bg-slate-950/75 p-5 shadow-2xl backdrop-blur-2xl sm:p-6">
+            <div className="flex items-center justify-between border-b border-white/10 pb-5">
+              <div className="flex items-center gap-3">
+                <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-cyan-300 to-blue-600 text-slate-950 shadow-lg shadow-blue-500/20"><GraduationCap className="h-6 w-6" /></div>
+                <div><p className="text-sm font-bold text-white">Your learning hub</p><p className="mt-0.5 text-[11px] text-slate-500">One step at a time</p></div>
+              </div>
+              <span className="rounded-full border border-emerald-400/20 bg-emerald-400/10 px-2.5 py-1 text-[10px] font-bold text-emerald-300">READY TO LEARN</span>
+            </div>
+
+            <div className="mt-5 grid grid-cols-2 gap-3">
+              <div className="rounded-2xl border border-white/[.08] bg-white/[.035] p-4">
+                <div className="mb-4 flex h-9 w-9 items-center justify-center rounded-xl bg-blue-400/10 text-blue-300"><Command className="h-4 w-4" /></div>
+                <p className="text-2xl font-black tracking-tight text-white">{appCount}</p><p className="mt-1 text-xs text-slate-400">Learning tracks</p>
+              </div>
+              <div className="rounded-2xl border border-white/[.08] bg-white/[.035] p-4">
+                <div className="mb-4 flex h-9 w-9 items-center justify-center rounded-xl bg-violet-400/10 text-violet-300"><BookOpen className="h-4 w-4" /></div>
+                <p className="text-2xl font-black tracking-tight text-white">{batchCount}</p><p className="mt-1 text-xs text-slate-400">Available batches</p>
+              </div>
+            </div>
+
+            <div className="mt-4 rounded-2xl border border-blue-300/15 bg-gradient-to-r from-blue-500/10 to-violet-500/10 p-4">
+              <div className="flex items-start gap-3">
+                <div className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-cyan-300/10 text-cyan-200"><Sparkles className="h-4 w-4" /></div>
+                <div><p className="text-sm font-bold text-white">Made for your momentum</p><p className="mt-1 text-xs leading-5 text-slate-400">Pick a track, open a batch, and keep your learning organized from one place.</p></div>
+                <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-emerald-300" />
+              </div>
+            </div>
+            <div className="mt-5 flex items-center justify-between text-[10px] font-semibold uppercase tracking-[.15em] text-slate-500"><span>Course Wallah</span><span>Study • Practice • Progress</span></div>
+          </div>
+          <div className="absolute -bottom-4 -left-3 hidden items-center gap-2 rounded-2xl border border-white/10 bg-slate-900/90 px-4 py-3 shadow-xl backdrop-blur-xl sm:flex"><span className="h-2 w-2 rounded-full bg-emerald-400" /><span className="text-xs font-semibold text-slate-200">Your next chapter starts here</span></div>
+        </motion.div>
       </div>
-    </motion.section>
+    </section>
   );
 }

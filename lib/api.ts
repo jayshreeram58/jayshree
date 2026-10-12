@@ -9,6 +9,7 @@ import {
   AIResponse
 } from "./types";
 
+// Keep browser requests same-origin; vercel.json forwards /api/* to the live FastAPI backend.
 const API_BASE = "/api/v1";
 
 export function getStudentToken(): string | null {
