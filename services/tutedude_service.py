@@ -1,4 +1,6 @@
 import os
+import re
+import urllib.parse
 import json
 import logging
 from pathlib import Path
@@ -211,21 +213,44 @@ async def get_tutedude_app_object() -> Dict[str, Any]:
         "batches": batch_items
     }
 
+_LECTURE_TO_BATCH_MAP: Dict[str, str] = {}
+
 def _find_batch_for_lecture(lecture_id: str) -> Optional[Dict[str, Any]]:
-    """Locates the raw batch JSON containing this lecture ID."""
-    # format: td-{slug}-{idx}
-    if lecture_id.startswith("td-"):
-        parts = lecture_id.split("-")
-        if len(parts) >= 3:
-            slug = "-".join(parts[1:-1])
-            batch = _load_local_batch(slug)
-            if batch:
-                return batch
+    """Locates the raw batch JSON containing this lecture ID with O(1) lookup."""
+    if lecture_id in _LECTURE_TO_BATCH_MAP:
+        cached_batch_id = _LECTURE_TO_BATCH_MAP[lecture_id]
+        batch = _load_local_batch(cached_batch_id)
+        if batch:
+            return batch
+
+    # Check candidate batch slugs derived from lecture ID
+    candidates = []
+    if lecture_id.startswith("td-ass-"):
+        candidates.append(lecture_id[len("td-ass-"):].rsplit("-", 1)[0])
+    elif lecture_id.startswith("td-note-"):
+        candidates.append(lecture_id[len("td-note-"):].rsplit("-", 1)[0])
+    elif lecture_id.startswith("td-"):
+        candidates.append(lecture_id[len("td-"):].rsplit("-", 1)[0])
+    if "-" in lecture_id:
+        candidates.append(lecture_id.rsplit("-", 1)[0])
+
+    for slug in candidates:
+        batch = _load_local_batch(slug)
+        if batch:
+            for sec in batch.get("sections", []):
+                for lec in sec.get("lectures", []):
+                    if lec.get("id") == lecture_id:
+                        _LECTURE_TO_BATCH_MAP[lecture_id] = batch.get("batchId", slug)
+                        return batch
+                for note in sec.get("notes", []):
+                    if note.get("id") == lecture_id:
+                        _LECTURE_TO_BATCH_MAP[lecture_id] = batch.get("batchId", slug)
+                        return batch
 
     index = _load_local_index()
     for b_meta in index:
         bid = b_meta.get("batchId")
-        if not bid:
+        if not bid or bid in candidates:
             continue
         batch = _load_local_batch(bid)
         if not batch:
@@ -233,9 +258,11 @@ def _find_batch_for_lecture(lecture_id: str) -> Optional[Dict[str, Any]]:
         for sec in batch.get("sections", []):
             for lec in sec.get("lectures", []):
                 if lec.get("id") == lecture_id:
+                    _LECTURE_TO_BATCH_MAP[lecture_id] = bid
                     return batch
             for note in sec.get("notes", []):
                 if note.get("id") == lecture_id:
+                    _LECTURE_TO_BATCH_MAP[lecture_id] = bid
                     return batch
     return None
 
@@ -378,21 +405,35 @@ async def get_tutedude_lecture_access(lecture_id: str) -> Optional[Dict[str, Any
         for note in sec.get("notes", []):
             if note.get("id") == lecture_id:
                 note_url = note.get("url") or note.get("pdfUrl") or note.get("downloadUrl", "")
+                
+                # Transform Google Docs URL to export as direct binary PDF
+                pdf_target_url = note_url
+                if note_url and "docs.google.com/document" in note_url:
+                    pdf_target_url = re.sub(r'/edit.*', '/export?format=pdf', note_url)
+                    pdf_target_url = re.sub(r'/view.*', '/export?format=pdf', pdf_target_url)
+                elif note_url and "drive.google.com/file" in note_url:
+                    file_id_match = re.search(r'/d/([^/]+)', note_url)
+                    if file_id_match:
+                        pdf_target_url = f"https://drive.google.com/uc?export=download&id={file_id_match.group(1)}"
+
+                content_url = f"/api/v1/pdfs/{lecture_id}/content"
                 return {
                     "has_video": False,
                     "has_pdf": True,
-                    "title": note.get("title"),
+                    "title": note.get("title", "Assignment Document"),
                     "duration": 0,
                     "youtube_video_id": None,
                     "video_id": None,
                     "stream_url": None,
                     "playback_url": None,
-                    "player_url": note_url,
-                    "download_url": note_url,
+                    "player_url": content_url,
+                    "download_url": pdf_target_url,
                     "embed_url": None,
                     "storage_provider": "tutedude",
-                    "pdf_download_url": note_url,
-                    "access_url": note_url,
+                    "pdf_download_url": content_url,
+                    "source_pdf_url": pdf_target_url,
+                    "raw_document_url": note_url,
+                    "access_url": content_url,
                     "player_config": {
                         "autoplay": False,
                         "controls": True,

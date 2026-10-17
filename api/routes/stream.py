@@ -1,8 +1,10 @@
 import re
 import logging
 from typing import Optional
-from urllib.parse import quote
-from fastapi import APIRouter, Request, Response, HTTPException, Header
+from urllib.parse import quote, urljoin
+import urllib.parse
+import httpx
+from fastapi import APIRouter, Request, Response, HTTPException, Header, Query
 from fastapi.responses import StreamingResponse
 from sqlalchemy import select
 
@@ -172,3 +174,119 @@ async def stream_telegram_video(
         headers=partial_headers,
         media_type=mime_type or "video/mp4",
     )
+
+
+@router.get("/m3u8/proxy")
+@router.head("/m3u8/proxy")
+async def proxy_m3u8_stream(
+    request: Request,
+    url: str = Query(..., description="Target M3U8 playlist or video chunk URL"),
+):
+    """
+    Secure High-Performance Stream Proxy for HLS (.m3u8) Playlists & Video Segments (.ts).
+    Bypasses third-party CDN CORS restrictions (e.g. hranker.com / b-cdn.net) and ensures
+    seamless, zero-lag playback across all desktop and mobile browsers.
+    """
+    if not (url.startswith("http://") or url.startswith("https://")):
+        raise HTTPException(status_code=400, detail="Invalid upstream media URL")
+
+    # Construct upstream headers
+    parsed = urllib.parse.urlparse(url)
+    referer = f"{parsed.scheme}://{parsed.netloc}/"
+    if "hranker.com" in parsed.netloc:
+        referer = "https://www.selectionway.com/"
+
+    upstream_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": referer,
+        "Origin": referer.rstrip("/"),
+    }
+
+    client_range = request.headers.get("range")
+    if client_range:
+        upstream_headers["Range"] = client_range
+
+    try:
+        async with httpx.AsyncClient(timeout=25.0, follow_redirects=True) as client:
+            if request.method == "HEAD":
+                resp = await client.head(url, headers=upstream_headers)
+                return Response(
+                    status_code=resp.status_code,
+                    headers={
+                        "Content-Type": resp.headers.get("content-type", "application/vnd.apple.mpegurl"),
+                        "Content-Length": resp.headers.get("content-length", "0"),
+                        "Accept-Ranges": "bytes",
+                        "Access-Control-Allow-Origin": "*",
+                        "Access-Control-Allow-Headers": "*",
+                        "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+                    }
+                )
+
+            resp = await client.get(url, headers=upstream_headers)
+            if resp.status_code not in (200, 206):
+                logger.warning(f"[M3U8_PROXY] Upstream status {resp.status_code} for {url}")
+                raise HTTPException(status_code=resp.status_code, detail="Upstream media unavailable")
+
+            content_type = resp.headers.get("content-type", "").lower()
+            is_playlist = (".m3u8" in url.lower()) or ("mpegurl" in content_type) or (resp.content.startswith(b"#EXTM3U"))
+
+            if is_playlist:
+                base_url = url.rsplit("/", 1)[0] + "/"
+                text = resp.text
+                rewritten_lines = []
+                for line in text.splitlines():
+                    s = line.strip()
+                    if not s:
+                        rewritten_lines.append(line)
+                    elif s.startswith("#"):
+                        def repl(m):
+                            target = urljoin(base_url, m.group(1))
+                            return f'URI="/api/v1/stream/m3u8/proxy?url={quote(target, safe="")}"'
+                        new_line = re.sub(r'URI="([^"]+)"', repl, line)
+                        rewritten_lines.append(new_line)
+                    else:
+                        abs_target = urljoin(base_url, s)
+                        rewritten_lines.append(f"/api/v1/stream/m3u8/proxy?url={quote(abs_target, safe='')}")
+
+                rewritten_bytes = "\n".join(rewritten_lines).encode("utf-8")
+                return Response(
+                    content=rewritten_bytes,
+                    status_code=200,
+                    media_type="application/vnd.apple.mpegurl",
+                    headers={
+                        "Content-Type": "application/vnd.apple.mpegurl",
+                        "Content-Length": str(len(rewritten_bytes)),
+                        "Cache-Control": "public, max-age=600",
+                        "Access-Control-Allow-Origin": "*",
+                        "Access-Control-Allow-Headers": "*",
+                        "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+                        "X-Content-Type-Options": "nosniff",
+                    }
+                )
+
+            # Binary TS segment or media chunk
+            res_headers = {
+                "Content-Type": resp.headers.get("content-type", "video/mp2t"),
+                "Cache-Control": "public, max-age=86400",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Headers": "*",
+                "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+            }
+            if "content-range" in resp.headers:
+                res_headers["Content-Range"] = resp.headers["content-range"]
+            if "content-length" in resp.headers:
+                res_headers["Content-Length"] = resp.headers["content-length"]
+
+            return Response(
+                content=resp.content,
+                status_code=resp.status_code,
+                headers=res_headers
+            )
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"[M3U8_PROXY_ERR] {url}: {e}")
+        raise HTTPException(status_code=502, detail=f"Proxy error streaming media: {str(e)}")
+

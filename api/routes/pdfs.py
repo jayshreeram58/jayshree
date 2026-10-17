@@ -1,3 +1,4 @@
+import re
 import logging
 import asyncio
 import urllib.parse
@@ -21,14 +22,25 @@ async def proxy_pdf(url: str = Query(..., description="External PDF URL to proxy
     """
     Proxies external PDF documents securely to PDF.js canvas viewer.
     Bypasses third-party CDN CORS limitations and ensures immediate rendering.
+    Supports Google Docs, Google Drive, AppX, AWS S3, and Classplus PDFs.
     """
+    # Transform Google Docs URL to direct PDF export
+    target_url = url
+    if "docs.google.com/document" in target_url:
+        target_url = re.sub(r'/edit.*', '/export?format=pdf', target_url)
+        target_url = re.sub(r'/view.*', '/export?format=pdf', target_url)
+    elif "drive.google.com/file" in target_url:
+        file_id_match = re.search(r'/d/([^/]+)', target_url)
+        if file_id_match:
+            target_url = f"https://drive.google.com/uc?export=download&id={file_id_match.group(1)}"
+
     try:
-        async with httpx.AsyncClient(timeout=30.0, follow_redirects=True) as client:
+        async with httpx.AsyncClient(timeout=35.0, follow_redirects=True) as client:
             headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Referer": "https://appx.co.in/"
+                "Referer": "https://appx.co.in/" if "appx" in target_url else "https://selectionway.com/"
             }
-            resp = await client.get(url, headers=headers)
+            resp = await client.get(target_url, headers=headers)
             if resp.status_code != 200:
                 logger.warning(f"Failed to fetch remote PDF: status {resp.status_code}")
                 raise HTTPException(status_code=resp.status_code, detail="Unable to fetch remote PDF document")
@@ -157,8 +169,82 @@ async def get_pdf_access(lecture_id: str, db: AsyncSession = Depends(get_db_depe
 async def get_pdf_content(lecture_id: str, db: AsyncSession = Depends(get_db_dependency)):
     """
     Streams PDF content securely to PDF.js canvas viewer.
-    Eliminates all CORS restrictions and handles both B2 storage and external source URLs.
+    Eliminates all CORS restrictions and handles both dynamic services and database/B2 storage.
     """
+    dynamic_source_url = None
+    dynamic_title = None
+
+    # 1. Fast check for Selection Way dynamic notes
+    try:
+        from services.selection_way_service import get_selection_lecture_access
+        selection_access = await get_selection_lecture_access(lecture_id)
+        if selection_access and selection_access.get("has_pdf"):
+            dynamic_source_url = selection_access.get("source_pdf_url") or selection_access.get("download_url")
+            dynamic_title = selection_access.get("title", lecture_id)
+    except Exception as e:
+        logger.warning(f"Selection Way content check notice for {lecture_id}: {e}")
+
+    # 2. Fast check for Apna College dynamic notes
+    if not dynamic_source_url:
+        try:
+            from services.apna_college_service import get_apna_lecture_access
+            apna_access = await get_apna_lecture_access(lecture_id)
+            if apna_access and apna_access.get("has_pdf"):
+                dynamic_source_url = apna_access.get("source_pdf_url") or apna_access.get("download_url") or apna_access.get("pdf_download_url")
+                dynamic_title = apna_access.get("title", lecture_id)
+        except Exception as e:
+            logger.warning(f"Apna College content check notice for {lecture_id}: {e}")
+
+    # 3. Fast check for TuteDude dynamic assignments / notes
+    if not dynamic_source_url:
+        try:
+            from services.tutedude_service import get_tutedude_lecture_access
+            tutedude_access = await get_tutedude_lecture_access(lecture_id)
+            if tutedude_access and tutedude_access.get("has_pdf"):
+                dynamic_source_url = tutedude_access.get("source_pdf_url") or tutedude_access.get("download_url") or tutedude_access.get("raw_document_url")
+                dynamic_title = tutedude_access.get("title", lecture_id)
+        except Exception as e:
+            logger.warning(f"TuteDude content check notice for {lecture_id}: {e}")
+
+    # If dynamic PDF found, proxy and stream directly
+    if dynamic_source_url:
+        target_url = dynamic_source_url
+        if "docs.google.com/document" in target_url:
+            target_url = re.sub(r'/edit.*', '/export?format=pdf', target_url)
+            target_url = re.sub(r'/view.*', '/export?format=pdf', target_url)
+        elif "drive.google.com/file" in target_url:
+            file_id_match = re.search(r'/d/([^/]+)', target_url)
+            if file_id_match:
+                target_url = f"https://drive.google.com/uc?export=download&id={file_id_match.group(1)}"
+
+        try:
+            async with httpx.AsyncClient(timeout=35.0, follow_redirects=True) as client:
+                headers = {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://appx.co.in/" if "appx" in target_url else "https://selectionway.com/"
+                }
+                resp = await client.get(target_url, headers=headers)
+                if resp.status_code == 200 and resp.content:
+                    file_name = f"{dynamic_title}.pdf"
+                    ascii_filename = "".join(c if ord(c) < 128 and (c.isalnum() or c in ".-_ ") else "_" for c in file_name).strip("_")
+                    if not ascii_filename.endswith(".pdf"):
+                        ascii_filename += ".pdf"
+                    encoded_filename = urllib.parse.quote(file_name)
+
+                    return Response(
+                        content=resp.content,
+                        media_type="application/pdf",
+                        headers={
+                            "Content-Disposition": f'inline; filename="{ascii_filename}"; filename*=UTF-8\'\'{encoded_filename}',
+                            "Cache-Control": "public, max-age=86400",
+                            "Access-Control-Allow-Origin": "*",
+                            "Access-Control-Allow-Headers": "*",
+                            "X-Content-Type-Options": "nosniff"
+                        }
+                    )
+        except Exception as e:
+            logger.error(f"Failed to fetch dynamic document from {target_url}: {e}")
+
     stmt = (
         select(Lecture)
         .options(selectinload(Lecture.pdf))

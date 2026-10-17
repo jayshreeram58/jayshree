@@ -1,4 +1,6 @@
 import os
+import re
+import urllib.parse
 import json
 import logging
 from pathlib import Path
@@ -233,24 +235,40 @@ async def get_selection_way_app_object() -> Dict[str, Any]:
         "batches": batch_items
     }
 
+_LECTURE_TO_BATCH_MAP: Dict[str, str] = {}
+
 def _find_batch_for_lecture(lecture_id: str) -> Optional[Dict[str, Any]]:
-    """Locates the raw batch JSON containing this lecture/note ID."""
+    """Locates the raw batch JSON containing this lecture/note ID with O(1) lookup."""
+    if lecture_id in _LECTURE_TO_BATCH_MAP:
+        cached_batch_id = _LECTURE_TO_BATCH_MAP[lecture_id]
+        batch = _load_local_batch(cached_batch_id)
+        if batch:
+            return batch
+
+    # Check candidate batch IDs derived from lecture ID
+    candidates = []
+    if "-n-" in lecture_id:
+        candidates.append(lecture_id.split("-n-")[0])
     if "-" in lecture_id:
-        possible_batch_id = lecture_id.rsplit("-", 1)[0]
+        candidates.append(lecture_id.rsplit("-", 1)[0])
+
+    for possible_batch_id in candidates:
         batch = _load_local_batch(possible_batch_id)
         if batch:
             for sec in batch.get("sections", []):
                 for lec in sec.get("lectures", []):
                     if lec.get("id") == lecture_id:
+                        _LECTURE_TO_BATCH_MAP[lecture_id] = batch.get("batchId", possible_batch_id)
                         return batch
                 for note in sec.get("notes", []):
                     if note.get("id") == lecture_id:
+                        _LECTURE_TO_BATCH_MAP[lecture_id] = batch.get("batchId", possible_batch_id)
                         return batch
 
     index = _load_local_index()
     for b_meta in index:
         bid = b_meta.get("batchId")
-        if not bid:
+        if not bid or bid in candidates:
             continue
         batch = _load_local_batch(bid)
         if not batch:
@@ -258,9 +276,11 @@ def _find_batch_for_lecture(lecture_id: str) -> Optional[Dict[str, Any]]:
         for sec in batch.get("sections", []):
             for lec in sec.get("lectures", []):
                 if lec.get("id") == lecture_id:
+                    _LECTURE_TO_BATCH_MAP[lecture_id] = bid
                     return batch
             for note in sec.get("notes", []):
                 if note.get("id") == lecture_id:
+                    _LECTURE_TO_BATCH_MAP[lecture_id] = bid
                     return batch
     return None
 
@@ -376,20 +396,36 @@ async def get_selection_lecture_access(lecture_id: str) -> Optional[Dict[str, An
         for lec in sec.get("lectures", []):
             if lec.get("id") == lecture_id:
                 stream_url = lec.get("streamUrl") or lec.get("playerUrl") or lec.get("downloadUrl", "")
+                
+                # Check for YouTube URL
+                yt_id = None
+                if stream_url and ("youtube.com" in stream_url or "youtu.be" in stream_url):
+                    yt_match = re.search(r'(?:v=|\/|youtu\.be\/|embed\/)([A-Za-z0-9_-]{11})', stream_url)
+                    if yt_match:
+                        yt_id = yt_match.group(1)
+
                 is_m3u8 = bool(stream_url and (".m3u8" in stream_url))
+                
+                # Route .m3u8 streams through Course Wallah stream proxy to ensure 100% CORS compliance
+                playback_stream = stream_url
+                if is_m3u8 and stream_url:
+                    needs_proxy = any(dom in stream_url for dom in ["hranker.com", "b-cdn.net", "restreamer.in", "amazonaws.com"])
+                    if needs_proxy:
+                        playback_stream = f"/api/v1/stream/m3u8/proxy?url={urllib.parse.quote(stream_url, safe='')}"
+
                 return {
                     "has_video": True,
                     "has_pdf": False,
                     "title": lec.get("title"),
                     "duration": 2700,
-                    "youtube_video_id": None,
+                    "youtube_video_id": yt_id,
                     "video_id": None,
-                    "stream_url": stream_url,
-                    "playback_url": stream_url,
-                    "player_url": stream_url,
+                    "stream_url": None if yt_id else playback_stream,
+                    "playback_url": None if yt_id else playback_stream,
+                    "player_url": None if yt_id else playback_stream,
                     "download_url": stream_url,
-                    "embed_url": stream_url if not is_m3u8 else None,
-                    "storage_provider": "selection_way",
+                    "embed_url": None,
+                    "storage_provider": "selection_way" if not yt_id else "youtube",
                     "pdf_download_url": None,
                     "player_config": {
                         "autoplay": False,
@@ -401,6 +437,7 @@ async def get_selection_lecture_access(lecture_id: str) -> Optional[Dict[str, An
         for note in sec.get("notes", []):
             if note.get("id") == lecture_id:
                 note_url = note.get("url") or note.get("pdfUrl") or note.get("downloadUrl", "")
+                content_url = f"/api/v1/pdfs/{lecture_id}/content"
                 return {
                     "has_video": False,
                     "has_pdf": True,
@@ -410,12 +447,13 @@ async def get_selection_lecture_access(lecture_id: str) -> Optional[Dict[str, An
                     "video_id": None,
                     "stream_url": None,
                     "playback_url": None,
-                    "player_url": note_url,
+                    "player_url": content_url,
                     "download_url": note_url,
                     "embed_url": None,
                     "storage_provider": "selection_way",
-                    "pdf_download_url": note_url,
-                    "access_url": note_url,
+                    "pdf_download_url": content_url,
+                    "source_pdf_url": note_url,
+                    "access_url": content_url,
                     "player_config": {
                         "autoplay": False,
                         "controls": True,

@@ -1051,9 +1051,11 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
                 </div>
               </div>
             </div>
-          ` : ((isDirectHls || isDirectVideo) ? `
+          ` : (isDirectHls ? `
+            <video id="cw-plyr-element" class="plyr" playsinline controls preload="auto" crossorigin="anonymous" data-poster="${lecture.thumbnail_url || '/static/logo.png'}"></video>
+          ` : (isDirectVideo ? `
             <video id="cw-plyr-element" class="plyr" playsinline controls preload="metadata" data-poster="${lecture.thumbnail_url || '/static/logo.png'}">
-              <source src="${access.stream_url}" type="${isDirectHls ? 'application/x-mpegURL' : 'video/mp4'}" />
+              <source src="${access.stream_url}" type="video/mp4" />
             </video>
           ` : (hasYouTube ? `
             <div class="plyr__video-embed" id="cw-plyr-element">
@@ -1262,41 +1264,77 @@ function initPlyr(streamUrl) {
 
   // If HTML5 video with direct HLS stream (.m3u8)
   const isHlsStream = Boolean(streamUrl && (streamUrl.includes('.m3u8') || streamUrl.endsWith('.m3u8')));
-  if (el.tagName === 'VIDEO' && isHlsStream && typeof Hls !== 'undefined' && Hls.isSupported()) {
-    const hls = new Hls({
-      enableWorker: true,
-      lowLatencyMode: false,
-      backBufferLength: 90
-    });
-    hls.loadSource(streamUrl);
-    hls.attachMedia(el);
-    currentHlsInstance = hls;
+  if (el.tagName === 'VIDEO' && isHlsStream) {
+    if (typeof Hls !== 'undefined' && Hls.isSupported()) {
+      const hls = new Hls({
+        enableWorker: true,
+        lowLatencyMode: false,
+        backBufferLength: 90,
+        xhrSetup: function (xhr, url) {
+          xhr.withCredentials = false;
+        }
+      });
+      hls.loadSource(streamUrl);
+      hls.attachMedia(el);
+      currentHlsInstance = hls;
 
-    hls.on(Hls.Events.MANIFEST_PARSED, () => {
-      const availableQualities = hls.levels.map(l => l.height);
+      // Initialize Plyr instance immediately so player UI is always ready
       currentPlyrPlayer = new Plyr(el, {
         controls: plyrControls,
         settings: ['quality', 'speed', 'loop'],
-        quality: {
-          default: availableQualities[availableQualities.length - 1] || 720,
-          options: availableQualities,
-          forced: true,
-          onChange: (newQuality) => {
-            hls.levels.forEach((level, levelIndex) => {
-              if (level.height === newQuality) {
-                hls.currentLevel = levelIndex;
-              }
-            });
-            showToast(`Quality set to ${newQuality}p`);
-          }
-        },
         speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] },
         seekTime: 10,
         keyboard: { focused: true, global: true },
         tooltips: { controls: true, seek: true }
       });
-    });
-    return;
+
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        const availableQualities = hls.levels.map(l => l.height).filter(Boolean);
+        if (availableQualities.length && currentPlyrPlayer) {
+          currentPlyrPlayer.options.quality = {
+            default: availableQualities[availableQualities.length - 1] || 720,
+            options: availableQualities,
+            forced: true,
+            onChange: (newQuality) => {
+              hls.levels.forEach((level, levelIndex) => {
+                if (level.height === newQuality) {
+                  hls.currentLevel = levelIndex;
+                }
+              });
+              showToast(`Quality set to ${newQuality}p`);
+            }
+          };
+        }
+      });
+
+      hls.on(Hls.Events.ERROR, (event, data) => {
+        console.warn('HLS stream error:', data);
+        if (data.fatal) {
+          switch (data.type) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+              hls.startLoad();
+              break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+              hls.recoverMediaError();
+              break;
+            default:
+              hls.destroy();
+              break;
+          }
+        }
+      });
+      return;
+    } else if (el.canPlayType('application/vnd.apple.mpegurl')) {
+      // Native Safari / iOS HLS
+      el.src = streamUrl;
+      currentPlyrPlayer = new Plyr(el, {
+        controls: plyrControls,
+        settings: ['speed', 'loop'],
+        speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] },
+        seekTime: 10
+      });
+      return;
+    }
   }
 
   // Standard Plyr fallback
@@ -1426,11 +1464,21 @@ async function openPdfModal(pdfUrl, title) {
       throw new Error('PDF.js library not ready');
     }
   } catch (err) {
-    console.debug('PDF.js canvas renderer fallback to iframe:', err);
+    console.debug('PDF.js canvas renderer fallback:', err);
     const container = document.getElementById('cw-pdf-container');
     if (container) {
       container.innerHTML = `
-        <iframe src="${binaryPdfUrl}" style="width:100%; height:75vh; border:none; border-radius:12px;"></iframe>
+        <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:400px; padding:30px; text-align:center;">
+          <div style="font-size:48px; margin-bottom:16px;">📄</div>
+          <h3 style="color:#F8FAFC; margin-bottom:8px;">Document In-App Reader</h3>
+          <p style="color:#94A3B8; margin-bottom:20px; max-width:440px;">If this document preview is unavailable on your device, you can view or download it directly.</p>
+          <div style="display:flex; gap:12px; margin-bottom:20px;">
+            <a href="${binaryPdfUrl}" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:10px 22px; background:#6366F1; color:#fff; border-radius:8px; font-weight:600; font-size:14px; box-shadow: 0 4px 14px rgba(99,102,241,0.4);">
+              <span>Open Document Directly ↗</span>
+            </a>
+          </div>
+          <iframe src="${binaryPdfUrl}" style="width:100%; height:60vh; border:none; border-radius:12px; background:#0F172A;"></iframe>
+        </div>
       `;
     }
   }
