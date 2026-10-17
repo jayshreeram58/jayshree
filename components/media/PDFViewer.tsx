@@ -104,7 +104,18 @@ export function PDFViewer({
           </div>
         </div>
 
-        <div className="flex items-center gap-3 flex-shrink-0">
+        <div className="flex items-center gap-2 sm:gap-3 flex-shrink-0">
+          {downloadUrl && (
+            <a
+              href={downloadUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-emerald-600/20 hover:bg-emerald-600/30 border border-emerald-500/30 text-emerald-400 text-xs font-semibold transition-all"
+              title="Open or Download PDF"
+            >
+              <span>Download PDF</span>
+            </a>
+          )}
           <span className="hidden sm:inline-flex text-[11px] text-cw-muted font-mono px-2 py-0.5 rounded bg-cw-surface border border-cw-border">
             Session Active
           </span>

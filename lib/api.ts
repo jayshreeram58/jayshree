@@ -86,7 +86,7 @@ export const api = {
   getAppBatches: (slug: string) => request<BatchItem[]>(`/apps/${slug}/batches`),
   getBatchHierarchy: (slug: string) => request<BatchItem>(`/batches/${slug}`),
   getLecture: (id: string) => request<LectureItem>(`/lectures/${id}`),
-  getLectureAccess: (id: string) => request<{ video_id: string; embed_url: string; title: string; duration: number }>(`/lectures/${id}/access`),
+  getLectureAccess: (id: string) => request<{ video_id?: string; youtube_video_id?: string; stream_url?: string; playback_url?: string; player_url?: string; download_url?: string; embed_url?: string; storage_provider?: string; title?: string; duration?: number }>(`/lectures/${id}/access`),
   getPdfAccess: (id: string) => request<{ download_url: string; access_url?: string; file_name: string; page_count: number }>(`/pdfs/${id}/access`),
   search: (query: string) => request<{ query: string; results_count: number; apps: AppItem[]; batches: BatchItem[]; lectures: LectureItem[] }>(`/search?q=${encodeURIComponent(query)}`),
 

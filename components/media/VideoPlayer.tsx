@@ -12,7 +12,10 @@ import {
   Sliders, 
   Lock,
   Clock,
-  Sparkles
+  Sparkles,
+  Download,
+  Copy,
+  Check
 } from "lucide-react";
 
 export type PlayerSecurityState = 
@@ -25,7 +28,7 @@ export type PlayerSecurityState =
   | "NETWORK_ERROR";
 
 interface VideoPlayerProps {
-  videoId: string;
+  videoId?: string | null;
   provider?: string | null;
   playbackUrl?: string | null;
   title: string;
@@ -51,26 +54,117 @@ export function VideoPlayer({
   const [playbackSpeed, setPlaybackSpeed] = useState<string>("1x");
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [selectedQuality, setSelectedQuality] = useState<string>(quality || "1080p");
+  const [copied, setCopied] = useState(false);
   
   // Dynamic moving watermark state
   const [watermarkPos, setWatermarkPos] = useState({ top: "12%", left: "14%" });
   const [sessionTime, setSessionTime] = useState<string>("");
   const containerRef = useRef<HTMLDivElement>(null);
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const hlsRef = useRef<any>(null);
 
-  // Validate videoId on mount
+  const isDirectStream = Boolean(playbackUrl && playbackUrl.trim() !== "");
+  const isYouTube = Boolean(!isDirectStream && videoId && videoId.trim() !== "");
+
+  // Initialize playback (HLS / Native Video or YouTube)
   useEffect(() => {
-    if (!videoId || videoId.trim() === "") {
+    if (!isDirectStream && !isYouTube) {
       setPlayerState("VIDEO_UNAVAILABLE");
       return;
     }
-    // Simulate short-lived authorization handoff
-    setPlayerState("AUTHORIZING");
-    const authTimer = setTimeout(() => {
-      setPlayerState("READY");
-    }, 400);
 
-    return () => clearTimeout(authTimer);
-  }, [videoId]);
+    setPlayerState("AUTHORIZING");
+
+    if (isDirectStream && playbackUrl) {
+      const isM3u8 = playbackUrl.includes(".m3u8");
+      const videoEl = videoRef.current;
+
+      const initHls = () => {
+        if (!videoRef.current) return;
+        const v = videoRef.current;
+
+        if (isM3u8) {
+          // Native Safari / iOS HLS
+          if (v.canPlayType("application/vnd.apple.mpegurl")) {
+            v.src = playbackUrl;
+            v.onloadedmetadata = () => setPlayerState("READY");
+            v.onerror = () => setPlayerState("NETWORK_ERROR");
+          } else {
+            // HLS.js for Chrome, Edge, Firefox, Android
+            const setupHlsInstance = () => {
+              const HlsConstructor = (window as any).Hls;
+              if (HlsConstructor && HlsConstructor.isSupported()) {
+                if (hlsRef.current) {
+                  hlsRef.current.destroy();
+                }
+                const hls = new HlsConstructor({
+                  enableWorker: true,
+                  lowLatencyMode: true,
+                });
+                hls.loadSource(playbackUrl);
+                hls.attachMedia(v);
+                hls.on(HlsConstructor.Events.MANIFEST_PARSED, () => {
+                  setPlayerState("READY");
+                });
+                hls.on(HlsConstructor.Events.ERROR, (_: any, data: any) => {
+                  if (data && data.fatal) {
+                    setPlayerState("NETWORK_ERROR");
+                  }
+                });
+                hlsRef.current = hls;
+              } else {
+                v.src = playbackUrl;
+                setPlayerState("READY");
+              }
+            };
+
+            if ((window as any).Hls) {
+              setupHlsInstance();
+            } else {
+              const scriptId = "hls-js-cdn";
+              let existingScript = document.getElementById(scriptId) as HTMLScriptElement;
+              if (!existingScript) {
+                const script = document.createElement("script");
+                script.id = scriptId;
+                script.src = "https://cdn.jsdelivr.net/npm/hls.js@1.5.8/dist/hls.min.js";
+                script.onload = setupHlsInstance;
+                document.body.appendChild(script);
+              } else {
+                existingScript.addEventListener("load", setupHlsInstance);
+              }
+            }
+          }
+        } else {
+          // Direct MP4 / other video
+          v.src = playbackUrl;
+          v.onloadedmetadata = () => setPlayerState("READY");
+          v.onerror = () => setPlayerState("NETWORK_ERROR");
+        }
+      };
+
+      const timer = setTimeout(initHls, 200);
+      return () => {
+        clearTimeout(timer);
+        if (hlsRef.current) {
+          hlsRef.current.destroy();
+          hlsRef.current = null;
+        }
+      };
+    } else if (isYouTube) {
+      const authTimer = setTimeout(() => {
+        setPlayerState("READY");
+      }, 400);
+      return () => clearTimeout(authTimer);
+    }
+  }, [playbackUrl, videoId, isDirectStream, isYouTube]);
+
+  // Handle playback rate change on video element
+  useEffect(() => {
+    if (videoRef.current) {
+      const speed = parseFloat(playbackSpeed.replace("x", "")) || 1.0;
+      videoRef.current.playbackRate = speed;
+    }
+  }, [playbackSpeed]);
 
   // Moving watermark timer (shifts position every 9 seconds)
   useEffect(() => {
@@ -95,13 +189,11 @@ export function VideoPlayer({
     return () => clearInterval(interval);
   }, []);
 
-  // Keyboard and Right Click Deterrence inside player container
   const handleContextMenu = (e: React.MouseEvent) => {
     e.preventDefault();
   };
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    // Intercept common save and inspect keys within player scope
     if (
       (e.ctrlKey && (e.key === "s" || e.key === "S" || e.key === "u" || e.key === "U")) ||
       e.key === "F12"
@@ -122,8 +214,19 @@ export function VideoPlayer({
     }
   };
 
-  // Safe YouTube embed with privacy-enhanced mode and clean parameters
-  const embedUrl = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&modestbranding=1&rel=0&iv_load_policy=3&enablejsapi=1`;
+  const handleCopyLink = () => {
+    const url = playbackUrl || "";
+    if (url) {
+      navigator.clipboard.writeText(url).then(() => {
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+      });
+    }
+  };
+
+  const embedUrl = videoId 
+    ? `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&modestbranding=1&rel=0&iv_load_policy=3&enablejsapi=1` 
+    : "";
 
   return (
     <div 
@@ -143,7 +246,7 @@ export function VideoPlayer({
             <div className="w-12 h-12 rounded-full border-2 border-cw-primary border-t-transparent animate-spin mb-3" />
             <div className="flex items-center gap-2 text-xs font-bold text-cw-primary">
               <Lock className="w-3.5 h-3.5" />
-              <span>Verifying Stream Authorization...</span>
+              <span>Connecting Video Stream...</span>
             </div>
           </div>
         )}
@@ -159,25 +262,29 @@ export function VideoPlayer({
           </div>
         )}
 
-        {playerState === "AUTHORIZATION_FAILED" && (
+        {playerState === "NETWORK_ERROR" && (
           <div className="absolute inset-0 flex flex-col items-center justify-center bg-cw-surface p-6 text-center z-30 space-y-3">
-            <Lock className="w-12 h-12 text-rose-400" />
-            <h4 className="text-base font-bold text-white">Playback Authorization Required</h4>
+            <AlertTriangle className="w-12 h-12 text-rose-400" />
+            <h4 className="text-base font-bold text-white">Stream Loading Error</h4>
             <p className="text-xs text-cw-muted max-w-sm">
-              Your playback session could not be authenticated. Please refresh the page.
+              Unable to stream directly in browser. You can open or download the direct stream link below.
             </p>
-            <button
-              onClick={() => setPlayerState("AUTHORIZING")}
-              className="flex items-center gap-2 px-4 py-2 bg-cw-primary text-white text-xs font-bold rounded-xl"
-            >
-              <RefreshCw className="w-3.5 h-3.5" />
-              <span>Retry Stream</span>
-            </button>
+            {playbackUrl && (
+              <a
+                href={playbackUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 px-4 py-2 bg-cw-primary text-white text-xs font-bold rounded-xl"
+              >
+                <Download className="w-3.5 h-3.5" />
+                <span>Open Stream Link (VLC / Player)</span>
+              </a>
+            )}
           </div>
         )}
 
-        {/* Dynamic Moving Watermark Overlay (Anti-Screen Recording / Anti-Crop Deterrence) */}
-        {playerState === "READY" && (
+        {/* Dynamic Moving Watermark Overlay */}
+        {(playerState === "READY" || playerState === "PLAYING") && (
           <div 
             className="absolute z-10 pointer-events-none transition-all duration-1000 ease-in-out px-3 py-1 rounded-md bg-black/40 backdrop-blur-[2px] border border-white/10 text-[10px] sm:text-xs font-mono font-semibold text-white/50 tracking-wider shadow-sm"
             style={{
@@ -189,8 +296,22 @@ export function VideoPlayer({
           </div>
         )}
 
-        {/* Protected Video Embed IFrame */}
-        {videoId && (
+        {/* OPTION A: DIRECT HLS / MP4 HTML5 VIDEO PLAYER */}
+        {isDirectStream && (
+          <video
+            ref={videoRef}
+            controls
+            playsInline
+            controlsList="nodownload"
+            className="w-full h-full object-contain bg-black absolute inset-0 z-1"
+            onPlay={() => setPlayerState("PLAYING")}
+            onPause={() => setPlayerState("READY")}
+            onEnded={() => onNext && hasNext && onNext()}
+          />
+        )}
+
+        {/* OPTION B: YOUTUBE EMBED IFRAME */}
+        {isYouTube && embedUrl && (
           <iframe
             src={embedUrl}
             title={title}
@@ -202,18 +323,18 @@ export function VideoPlayer({
               }
             }}
             onError={() => setPlayerState("NETWORK_ERROR")}
-            className="w-full h-full border-0 absolute inset-0"
+            className="w-full h-full border-0 absolute inset-0 z-1"
           />
         )}
       </div>
 
-      {/* Stream Controls & Security Bar */}
+      {/* Stream Controls & Info Bar */}
       <div className="flex flex-wrap items-center justify-between gap-3 px-3 py-2 bg-cw-surface rounded-xl border border-cw-border text-xs text-cw-muted">
         {/* Security & Quality Badges */}
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5 text-emerald-400 font-semibold text-[11px]">
             <ShieldCheck className="w-3.5 h-3.5" />
-            <span>Authorized Playback</span>
+            <span>{provider === "wistia" ? "Wistia High-Speed HLS" : "Authorized Playback"}</span>
           </span>
           <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-cw-elevated border border-cw-border text-cw-primary font-bold">
             {selectedQuality}
@@ -221,7 +342,32 @@ export function VideoPlayer({
         </div>
 
         {/* Playback Settings & Controls */}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
+          {/* Direct Stream / Download Button */}
+          {playbackUrl && (
+            <div className="flex items-center gap-1.5">
+              <a
+                href={playbackUrl}
+                target="_blank"
+                rel="noreferrer"
+                download
+                className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-600/20 hover:bg-emerald-600/30 border border-emerald-500/30 text-emerald-400 text-[11px] font-medium transition-all"
+                title="Direct Stream / Download URL"
+              >
+                <Download className="w-3 h-3" />
+                <span>Stream / Download</span>
+              </a>
+              <button
+                onClick={handleCopyLink}
+                className="flex items-center gap-1 px-2 py-1 rounded-lg bg-cw-elevated hover:bg-cw-surface-hover border border-cw-border text-cw-text text-[11px] font-medium transition-all"
+                title="Copy direct stream link"
+              >
+                {copied ? <Check className="w-3 h-3 text-emerald-400" /> : <Copy className="w-3 h-3" />}
+                <span>{copied ? "Copied" : "Copy"}</span>
+              </button>
+            </div>
+          )}
+
           {/* Speed Selector */}
           <div className="flex items-center gap-1">
             <span className="text-[10px] text-cw-muted">Speed:</span>

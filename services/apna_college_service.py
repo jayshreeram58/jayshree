@@ -124,6 +124,7 @@ def format_apna_batch_for_platform(batch_raw: Dict[str, Any]) -> Dict[str, Any]:
         for l_idx, lec in enumerate(sec.get("lectures", []), start=1):
             total_lecs += 1
             lec_id = lec.get("id") or f"{batch_id}_l_{total_lecs}"
+            s_url = lec.get("streamUrl") or lec.get("playerUrl") or lec.get("downloadUrl", "")
             lectures_list.append({
                 "id": lec_id,
                 "title": lec.get("title", f"Lecture {l_idx}"),
@@ -132,7 +133,10 @@ def format_apna_batch_for_platform(batch_raw: Dict[str, Any]) -> Dict[str, Any]:
                 "duration_seconds": 1800,
                 "has_video": True,
                 "has_pdf": False,
-                "source_url": lec.get("streamUrl", ""),
+                "source_url": s_url,
+                "stream_url": s_url,
+                "player_url": s_url,
+                "download_url": s_url,
                 "source_pdf_url": None,
                 "thumbnail_url": thumbnail,
                 "created_at": "Updated"
@@ -141,6 +145,7 @@ def format_apna_batch_for_platform(batch_raw: Dict[str, Any]) -> Dict[str, Any]:
         for n_idx, note in enumerate(sec.get("notes", []), start=1):
             total_notes += 1
             note_id = note.get("id") or f"{batch_id}_n_{total_notes}"
+            n_url = note.get("url") or note.get("pdfUrl") or note.get("downloadUrl", "")
             lectures_list.append({
                 "id": note_id,
                 "title": note.get("title", f"Notes {n_idx}"),
@@ -150,7 +155,10 @@ def format_apna_batch_for_platform(batch_raw: Dict[str, Any]) -> Dict[str, Any]:
                 "has_video": False,
                 "has_pdf": True,
                 "source_url": None,
-                "source_pdf_url": note.get("url", ""),
+                "source_pdf_url": n_url,
+                "pdf_url": n_url,
+                "player_url": n_url,
+                "download_url": n_url,
                 "thumbnail_url": thumbnail,
                 "created_at": "Updated"
             })
@@ -270,6 +278,7 @@ async def get_apna_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
         sec_name = sec.get("sectionName", "General")
         for lec in sec.get("lectures", []):
             global_idx += 1
+            s_url = lec.get("streamUrl") or lec.get("playerUrl") or lec.get("downloadUrl", "")
             item = {
                 "id": lec.get("id") or f"{batch_id}_l_{global_idx}",
                 "title": lec.get("title", f"Lecture {global_idx}"),
@@ -277,7 +286,10 @@ async def get_apna_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
                 "has_video": True,
                 "has_pdf": False,
                 "section_name": sec_name,
-                "stream_url": lec.get("streamUrl", "")
+                "stream_url": s_url,
+                "player_url": s_url,
+                "download_url": s_url,
+                "source_url": s_url,
             }
             all_videos.append(item)
             if lec.get("id") == lecture_id or item["id"] == lecture_id:
@@ -286,6 +298,7 @@ async def get_apna_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
                 
         for note in sec.get("notes", []):
             global_idx += 1
+            n_url = note.get("url") or note.get("pdfUrl") or note.get("downloadUrl", "")
             if note.get("id") == lecture_id:
                 current_item = {
                     "id": note.get("id"),
@@ -294,7 +307,10 @@ async def get_apna_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
                     "has_video": False,
                     "has_pdf": True,
                     "section_name": sec_name,
-                    "source_pdf_url": note.get("url", "")
+                    "source_pdf_url": n_url,
+                    "pdf_url": n_url,
+                    "player_url": n_url,
+                    "download_url": n_url,
                 }
                 target_section_name = sec_name
 
@@ -327,6 +343,11 @@ async def get_apna_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
         "duration_seconds": 1800 if current_item.get("has_video") else 0,
         "has_video": current_item.get("has_video", False),
         "has_pdf": current_item.get("has_pdf", False),
+        "source_url": current_item.get("stream_url"),
+        "stream_url": current_item.get("stream_url"),
+        "player_url": current_item.get("player_url"),
+        "download_url": current_item.get("download_url"),
+        "source_pdf_url": current_item.get("source_pdf_url"),
         "folder_name": target_section_name,
         "subject_name": f"{batch_name} - Complete Curriculum",
         "batch_name": batch_name,
@@ -347,7 +368,7 @@ async def get_apna_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
     for sec in batch.get("sections", []):
         for lec in sec.get("lectures", []):
             if lec.get("id") == lecture_id:
-                stream_url = lec.get("streamUrl", "")
+                stream_url = lec.get("streamUrl") or lec.get("playerUrl") or lec.get("downloadUrl", "")
                 is_m3u8 = bool(stream_url and (".m3u8" in stream_url))
                 return {
                     "has_video": True,
@@ -355,8 +376,11 @@ async def get_apna_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
                     "title": lec.get("title"),
                     "duration": 1800,
                     "youtube_video_id": None,
-                    "stream_url": stream_url if is_m3u8 else None,
+                    "video_id": None,
+                    "stream_url": stream_url,
                     "playback_url": stream_url,
+                    "player_url": stream_url,
+                    "download_url": stream_url,
                     "embed_url": stream_url if not is_m3u8 else None,
                     "storage_provider": "wistia" if "wistia" in stream_url else "apna_college",
                     "pdf_download_url": None,
@@ -369,17 +393,22 @@ async def get_apna_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
                 }
         for note in sec.get("notes", []):
             if note.get("id") == lecture_id:
+                note_url = note.get("url") or note.get("pdfUrl") or note.get("downloadUrl", "")
                 return {
                     "has_video": False,
                     "has_pdf": True,
                     "title": note.get("title"),
                     "duration": 0,
                     "youtube_video_id": None,
+                    "video_id": None,
                     "stream_url": None,
                     "playback_url": None,
+                    "player_url": note_url,
+                    "download_url": note_url,
                     "embed_url": None,
                     "storage_provider": "apna_college",
-                    "pdf_download_url": note.get("url"),
+                    "pdf_download_url": note_url,
+                    "access_url": note_url,
                     "player_config": {
                         "autoplay": False,
                         "controls": True,

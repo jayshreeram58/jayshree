@@ -54,6 +54,25 @@ async def get_pdf_access(lecture_id: str, db: AsyncSession = Depends(get_db_depe
     """
     Generates a secure access URL for PDF notes.
     """
+    # 1. Fast check for Apna College dynamic notes
+    try:
+        from services.apna_college_service import get_apna_lecture_access
+        apna_access = await get_apna_lecture_access(lecture_id)
+        if apna_access and apna_access.get("has_pdf") and apna_access.get("pdf_download_url"):
+            pdf_url = apna_access["pdf_download_url"]
+            return {
+                "lecture_id": lecture_id,
+                "lecture_title": apna_access.get("title", "Notes PDF"),
+                "file_name": f"{lecture_id}.pdf",
+                "file_size": 0,
+                "page_count": 1,
+                "download_url": pdf_url,
+                "access_url": pdf_url,
+                "expires_in_seconds": 86400
+            }
+    except Exception as e:
+        logger.warning(f"Error checking Apna College for PDF {lecture_id}: {e}")
+
     stmt = (
         select(Lecture)
         .options(selectinload(Lecture.pdf))

@@ -109,7 +109,9 @@ export default function LectureViewPage() {
             /* STATE 1 & 2: VIDEO PLAYER AVAILABLE */
             <div className="space-y-4">
               <VideoPlayer
-                videoId={videoAccess.video_id}
+                videoId={videoAccess.youtube_video_id || videoAccess.video_id}
+                playbackUrl={videoAccess.stream_url || videoAccess.playback_url || videoAccess.player_url || videoAccess.download_url}
+                provider={videoAccess.storage_provider}
                 title={lecture.title}
               />
             </div>
@@ -138,6 +140,17 @@ export default function LectureViewPage() {
                   <FileText className="w-4 h-4" />
                   <span>Open PDF Notes</span>
                 </button>
+                {pdfAccess?.download_url && (
+                  <a
+                    href={pdfAccess.download_url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="flex items-center gap-2 px-5 py-3 bg-cw-elevated hover:bg-cw-surface-hover text-white font-bold text-sm rounded-xl border border-cw-border transition-all"
+                  >
+                    <Download className="w-4 h-4" />
+                    <span>Download PDF</span>
+                  </a>
+                )}
               </div>
             </div>
           ) : (
@@ -174,13 +187,26 @@ export default function LectureViewPage() {
               {/* Action Buttons */}
               <div className="flex items-center gap-3 flex-shrink-0">
                 {lecture.has_pdf && (
-                  <button
-                    onClick={() => setIsPdfModalOpen(true)}
-                    className="flex items-center gap-2 px-4 py-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-400 border border-emerald-500/30 text-xs sm:text-sm font-bold rounded-xl transition-all"
-                  >
-                    <FileText className="w-4 h-4" />
-                    <span>View Notes</span>
-                  </button>
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => setIsPdfModalOpen(true)}
+                      className="flex items-center gap-2 px-4 py-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-400 border border-emerald-500/30 text-xs sm:text-sm font-bold rounded-xl transition-all"
+                    >
+                      <FileText className="w-4 h-4" />
+                      <span>View Notes</span>
+                    </button>
+                    {pdfAccess?.download_url && (
+                      <a
+                        href={pdfAccess.download_url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="flex items-center gap-2 px-3 py-2 bg-cw-elevated hover:bg-cw-surface-hover text-white border border-cw-border text-xs sm:text-sm font-bold rounded-xl transition-all"
+                      >
+                        <Download className="w-4 h-4" />
+                        <span>Download</span>
+                      </a>
+                    )}
+                  </div>
                 )}
               </div>
             </div>
