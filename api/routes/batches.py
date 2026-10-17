@@ -20,6 +20,11 @@ from services.tutedude_service import (
     format_tutedude_batch_for_platform,
     is_tutedude_batch
 )
+from services.physics_wallah_service import (
+    fetch_batch_data as fetch_pw_batch_data,
+    format_pw_batch_for_platform,
+    is_pw_batch
+)
 
 router = APIRouter(prefix="/batches", tags=["Batches"])
 
@@ -29,7 +34,15 @@ async def get_batch_hierarchy(batch_id_or_slug: str, db: AsyncSession = Depends(
     Returns complete batch hierarchy: Subjects -> Folders / Units -> Lectures.
     Only PUBLISHED lectures are visible to normal students.
     """
-    # 1. Fast path for Selection Way batches
+    # 1. Fast path for Physics Wallah batches
+    try:
+        pw_data = await fetch_pw_batch_data(batch_id_or_slug)
+        if pw_data:
+            return format_pw_batch_for_platform(pw_data)
+    except Exception as e:
+        pass
+
+    # 2. Fast path for Selection Way batches
     try:
         selection_data = await fetch_selection_batch_data(batch_id_or_slug)
         if selection_data:
@@ -37,7 +50,7 @@ async def get_batch_hierarchy(batch_id_or_slug: str, db: AsyncSession = Depends(
     except Exception as e:
         pass
 
-    # 2. Fast path for Apna College batches
+    # 3. Fast path for Apna College batches
     try:
         apna_data = await fetch_apna_batch_data(batch_id_or_slug)
         if apna_data:
@@ -45,7 +58,7 @@ async def get_batch_hierarchy(batch_id_or_slug: str, db: AsyncSession = Depends(
     except Exception as e:
         pass
 
-    # 3. Fast path for TuteDude batches
+    # 4. Fast path for TuteDude batches
     try:
         tutedude_data = await fetch_tutedude_batch_data(batch_id_or_slug)
         if tutedude_data:

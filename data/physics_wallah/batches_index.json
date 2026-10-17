@@ -1,0 +1,62 @@
+[
+  {
+    "batchId": "698ad3519549b300a5e1cc6a",
+    "batchSlug": "arjuna-jee-2027",
+    "batchName": "Arjuna JEE 2027",
+    "category": "IIT-JEE",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb464a1b-1525-48df-8c4e-a7e607038bf7.jpeg",
+    "totalSections": 86,
+    "totalLectures": 845,
+    "totalNotes": 19
+  },
+  {
+    "batchId": "6779345c20fa0756e4a7fd08",
+    "batchSlug": "lakshya-jee-2027",
+    "batchName": "Lakshya JEE 2027",
+    "category": "IIT-JEE",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/840830ff-b6f8-41c0-b969-f7f31bad92db.jpeg",
+    "totalSections": 76,
+    "totalLectures": 638,
+    "totalNotes": 19
+  },
+  {
+    "batchId": "654ccf5aee945800189872dc",
+    "batchSlug": "parakram-gate-2025-computer-science-and-da",
+    "batchName": "Parakram GATE 2025 Computer Science and DA",
+    "category": "GATE",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 167,
+    "totalLectures": 745,
+    "totalNotes": 68
+  },
+  {
+    "batchId": "697cddabf050baa08837223e",
+    "batchSlug": "parishram-2027-class-12th",
+    "batchName": "PARISHRAM 2027 (Class 12th)",
+    "category": "SCHOOL PREPARATION",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/503428a1-41c2-4251-88b3-aa816ec9cffc.png",
+    "totalSections": 77,
+    "totalLectures": 496,
+    "totalNotes": 13
+  },
+  {
+    "batchId": "698ad35209494b495cfcc9c4",
+    "batchSlug": "prayas-2027",
+    "batchName": "Prayas 2027",
+    "category": "IIT-JEE",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6a95f5ca-dd0c-47a2-b208-02c695c0f037.png",
+    "totalSections": 42,
+    "totalLectures": 327,
+    "totalNotes": 10
+  },
+  {
+    "batchId": "69897f0a4c12aeb013d4ea52",
+    "batchSlug": "yakeen-2027",
+    "batchName": "Yakeen 2027",
+    "category": "NEET",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ae0f6c39-5c61-443e-8645-862da0d70c41.png",
+    "totalSections": 66,
+    "totalLectures": 412,
+    "totalNotes": 14
+  }
+]

@@ -250,6 +250,9 @@ async function handleRoute() {
       case 'apps':
         await renderAppsView(root);
         break;
+      case 'player':
+        await renderDirectPlayerStudio(root);
+        break;
       case 'community':
         renderCommunityView(root);
         break;
@@ -968,12 +971,18 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
     )
   );
   const mediaCmUrl = access.playback_url || (access.embed_url && !access.embed_url.includes('/embed-') ? access.embed_url : null) || (access.embed_url ? `https://media.cm/${access.embed_url.split('/embed-')[1]?.split('.html')[0]}` : null);
-  
   const isEmbed = Boolean(access.embed_url && !isMediaCm && !isTelegramStream);
   const effectiveEmbedUrl = access.embed_url;
-  const isDirectHls = Boolean(!isEmbed && !isMediaCm && !isTelegramStream && access.stream_url && (access.stream_url.includes('.m3u8') || access.stream_url.endsWith('.m3u8')));
-  const isDirectVideo = Boolean(isTelegramStream || (!isEmbed && !isMediaCm && access.stream_url && !isDirectHls));
-  const hasYouTube = Boolean(!isTelegramStream && !isEmbed && !isMediaCm && !isDirectHls && !isDirectVideo && access.youtube_video_id && !access.youtube_video_id.startsWith('cw_temp_') && !access.youtube_video_id.startsWith('yt_id_') && !access.youtube_video_id.startsWith('EXISTING_YT') && !access.youtube_video_id.startsWith('tg_') && access.youtube_video_id !== 'dQw4w9WgXcQ');
+  const isDash = Boolean(
+    !isEmbed && !isMediaCm && (
+      access.stream_type === 'dash' ||
+      (access.stream_url && (access.stream_url.includes('.mpd') || access.stream_url.includes('pearl.mscilearn.in'))) ||
+      (access.clear_keys && Object.keys(access.clear_keys).length > 0)
+    )
+  );
+  const isDirectHls = Boolean(!isEmbed && !isMediaCm && !isTelegramStream && !isDash && access.stream_url && (access.stream_url.includes('.m3u8') || access.stream_url.endsWith('.m3u8')));
+  const isDirectVideo = Boolean(isTelegramStream || (!isEmbed && !isMediaCm && access.stream_url && !isDirectHls && !isDash));
+  const hasYouTube = Boolean(!isTelegramStream && !isEmbed && !isMediaCm && !isDirectHls && !isDirectVideo && !isDash && access.youtube_video_id && !access.youtube_video_id.startsWith('cw_temp_') && !access.youtube_video_id.startsWith('yt_id_') && !access.youtube_video_id.startsWith('EXISTING_YT') && !access.youtube_video_id.startsWith('tg_') && access.youtube_video_id !== 'dQw4w9WgXcQ');
   const detectedQuality = (access.player_config && access.player_config.quality) ? access.player_config.quality : '1080p';
 
   container.innerHTML = `
@@ -1051,6 +1060,8 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
                 </div>
               </div>
             </div>
+          ` : (isDash ? `
+            <video id="cw-plyr-element" class="plyr" playsinline controls preload="auto" crossorigin="anonymous" data-poster="${lecture.thumbnail_url || '/static/logo.png'}"></video>
           ` : (isDirectHls ? `
             <video id="cw-plyr-element" class="plyr" playsinline controls preload="auto" crossorigin="anonymous" data-poster="${lecture.thumbnail_url || '/static/logo.png'}"></video>
           ` : (isDirectVideo ? `
@@ -1072,7 +1083,7 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
               <span style="font-weight:600; font-size:16px; color:#F8FAFC;">${escapeHtml(access.message || access.error || 'Video Stream Unavailable')}</span>
               <span style="font-size:13px; color:#94A3B8; margin-top:6px;">This lecture does not have an active video stream or is being processed.</span>
             </div>
-          `)))}
+          `)))))}
         </div>
       </div>
 
@@ -1162,10 +1173,10 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
     </div>
   `;
 
-  // Initialize Plyr instance if direct HLS, MP4 video, or YouTube
+  // Initialize Plyr / Shaka instance if DASH, HLS, MP4 video, or YouTube
   setTimeout(() => {
-    if (isDirectHls || isDirectVideo || hasYouTube) {
-      initPlyr(access.stream_url);
+    if (isDash || isDirectHls || isDirectVideo || hasYouTube) {
+      initPlyr(access.stream_url, access);
     }
   }, 100);
 }
@@ -1183,6 +1194,23 @@ function openCinemaPlayer(url) {
 }
 
 let currentHlsInstance = null;
+let currentShakaInstance = null;
+
+function appendQueryParams(uri, queryString) {
+  if (!queryString || !uri) return uri;
+  try {
+    const u = new URL(uri);
+    const qs = queryString.startsWith('?') ? queryString.slice(1) : queryString;
+    new URLSearchParams(qs).forEach((val, key) => {
+      if (!u.searchParams.has(key)) {
+        u.searchParams.set(key, val);
+      }
+    });
+    return u.toString();
+  } catch (e) {
+    return uri;
+  }
+}
 
 function togglePlayerPlayback() {
   if (currentPlyrPlayer) {
@@ -1234,7 +1262,7 @@ function setPlayerSpeed(speedVal) {
   showToast(`⚡ Playback speed set to ${speedVal}x`);
 }
 
-function initPlyr(streamUrl) {
+function initPlyr(streamUrl, access = {}) {
   if (currentPlyrPlayer) {
     try { currentPlyrPlayer.destroy(); } catch(e) {}
     currentPlyrPlayer = null;
@@ -1242,6 +1270,10 @@ function initPlyr(streamUrl) {
   if (currentHlsInstance) {
     try { currentHlsInstance.destroy(); } catch(e) {}
     currentHlsInstance = null;
+  }
+  if (currentShakaInstance) {
+    try { currentShakaInstance.destroy(); } catch(e) {}
+    currentShakaInstance = null;
   }
 
   const el = document.getElementById('cw-plyr-element');
@@ -1262,7 +1294,86 @@ function initPlyr(streamUrl) {
     'fullscreen'
   ];
 
-  // If HTML5 video with direct HLS stream (.m3u8)
+  // 1. Shaka Player for DASH (.mpd), Pearl MSCILearn proxy, or ClearKey DRM
+  const isDashStream = Boolean(
+    streamUrl && (
+      streamUrl.includes('.mpd') ||
+      streamUrl.includes('pearl.mscilearn.in') ||
+      access.stream_type === 'dash' ||
+      (access.clear_keys && Object.keys(access.clear_keys).length > 0)
+    )
+  );
+
+  if (el.tagName === 'VIDEO' && isDashStream) {
+    if (typeof shaka !== 'undefined') {
+      shaka.polyfill.installAll();
+      if (shaka.Player.isBrowserSupported()) {
+        const player = new shaka.Player(el);
+        currentShakaInstance = player;
+
+        // Configure ClearKey DRM
+        const clearKeys = access.clear_keys || {};
+        if (Object.keys(clearKeys).length > 0) {
+          player.configure({
+            drm: {
+              clearKeys: clearKeys
+            }
+          });
+        }
+
+        player.configure({
+          streaming: {
+            bufferingGoal: 30,
+            rebufferingGoal: 2,
+            jumpLargeGaps: true,
+            retryParameters: {
+              maxAttempts: 5,
+              baseDelay: 500,
+              backoffFactor: 1.5,
+              timeout: 30000
+            }
+          }
+        });
+
+        // Register request filter to append CloudFront signature query params to all chunk requests
+        try {
+          const urlObj = new URL(streamUrl);
+          const queryParams = urlObj.search;
+          const netEngine = player.getNetworkingEngine();
+          const RequestType = shaka.net.NetworkingEngine.RequestType;
+
+          netEngine.registerRequestFilter((type, request) => {
+            if (type === RequestType.SEGMENT || type === RequestType.MANIFEST) {
+              if (request.uris && Array.isArray(request.uris)) {
+                request.uris = request.uris.map(uri => appendQueryParams(uri, queryParams));
+              }
+            }
+          });
+        } catch (e) {
+          console.warn('[Shaka] Segment filter setup warning:', e);
+        }
+
+        currentPlyrPlayer = new Plyr(el, {
+          controls: plyrControls,
+          settings: ['quality', 'speed', 'loop'],
+          speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] },
+          seekTime: 10,
+          keyboard: { focused: true, global: true }
+        });
+
+        player.load(streamUrl).then(() => {
+          console.log('[Shaka] Stream playing via pearl.mscilearn.in zero-token proxy');
+          el.play().catch(() => {});
+        }).catch(err => {
+          console.error('[Shaka] Load error:', err);
+        });
+
+        return;
+      }
+    }
+  }
+
+  // 2. HTML5 video with direct HLS stream (.m3u8)
   const isHlsStream = Boolean(streamUrl && (streamUrl.includes('.m3u8') || streamUrl.endsWith('.m3u8')));
   if (el.tagName === 'VIDEO' && isHlsStream) {
     if (typeof Hls !== 'undefined' && Hls.isSupported()) {
@@ -2477,4 +2588,270 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
 }
+
+// ==============================================================================
+// DIRECT STREAM STUDIO — ZERO-TOKEN UNIVERSAL MSCILearn / PEARL PLAYER
+// ==============================================================================
+
+let studioShakaPlayer = null;
+let studioPlyrPlayer = null;
+let studioHlsPlayer = null;
+let studioResolvedStreamUrl = null;
+
+async function renderDirectPlayerStudio(container) {
+  container.innerHTML = `
+    <div class="studio-container" style="max-width: 1050px; margin: 0 auto; padding-bottom: 60px;">
+      
+      <!-- Studio Header -->
+      <div class="studio-header" style="margin-bottom: 24px; text-align: left;">
+        <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 8px;">
+          <div style="display:flex; align-items:center; gap:12px;">
+            <div style="width: 44px; height: 44px; border-radius: 12px; background: rgba(99, 102, 241, 0.15); border: 1px solid rgba(99, 102, 241, 0.3); display: flex; align-items: center; justify-content: center;">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="#6366F1"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+            </div>
+            <div>
+              <h1 style="font-size: 26px; font-weight: 800; color: var(--text-primary); margin: 0;">Direct Stream Studio</h1>
+              <p style="font-size: 13px; color: var(--text-secondary); margin: 2px 0 0;">Zero-Token Universal Player powered by Pearl MSCILearn Gateway</p>
+            </div>
+          </div>
+          <span style="display:inline-flex; align-items:center; gap:6px; font-size:11px; font-weight:700; color:#10B981; background:rgba(16, 185, 129, 0.1); border:1px solid rgba(16, 185, 129, 0.25); padding:6px 14px; border-radius:20px;">
+            <span style="width:7px; height:7px; border-radius:50%; background:#10B981; box-shadow:0 0 8px #10B981; animation:pulse 2s infinite;"></span>
+            PEARL PROXY ACTIVE
+          </span>
+        </div>
+      </div>
+
+      <!-- Input Card -->
+      <div class="studio-input-card" style="background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: 20px; padding: 24px; margin-bottom: 28px; box-shadow: var(--shadow-sm);">
+        <label style="display: block; font-size: 13px; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">
+          Paste Any Video or Lecture Link:
+        </label>
+        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+          <input 
+            type="text" 
+            id="studio-stream-input" 
+            placeholder="e.g. https://courseswala/play?batchId=... or .mpd or .m3u8 or mp4..." 
+            style="flex: 1; min-width: 280px; padding: 14px 18px; border-radius: 12px; border: 1px solid var(--border-subtle); background: var(--bg-elevated); color: var(--text-primary); font-size: 14px; outline: none; font-family: inherit;"
+            onkeypress="if(event.key === 'Enter') handleStudioPlay();"
+          />
+          <button 
+            class="btn-hero-primary" 
+            id="btn-studio-play"
+            onclick="handleStudioPlay()"
+            style="padding: 14px 28px; font-size: 14px; font-weight: 700; display: inline-flex; align-items: center; gap: 8px;"
+          >
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+            <span>Play Stream ⚡</span>
+          </button>
+        </div>
+
+        <!-- Quick Presets -->
+        <div style="margin-top: 16px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+          <span style="font-size: 12px; font-weight: 600; color: var(--text-muted);">Quick Presets:</span>
+          <button class="player-quality-pill" onclick="loadStudioPreset('pw-saleem')">⚡ PW Lakshya (Saleem Sir)</button>
+          <button class="player-quality-pill" onclick="loadStudioPreset('pw-gate')">⚡ PW GATE (Algorithms)</button>
+          <button class="player-quality-pill" onclick="loadStudioPreset('pw-yakeen')">⚡ PW Yakeen NEET</button>
+          <button class="player-quality-pill" onclick="loadStudioPreset('sw-demo')">⚡ Selection Way HLS</button>
+        </div>
+      </div>
+
+      <!-- Player Frame -->
+      <div class="as-player-card" id="studio-player-wrap" style="display: none; margin-bottom: 24px;">
+        <div class="as-player-header-row" style="padding: 16px 20px;">
+          <div class="as-player-app-left">
+            <img src="/static/logo.png" alt="Logo" class="as-player-app-avatar">
+            <div class="as-player-app-meta">
+              <h2 class="as-player-app-name" id="studio-player-title">Stream Studio Playback</h2>
+              <span class="as-player-app-secure" id="studio-player-status">● PEARL MSCILearn DIRECT STREAM ACTIVE</span>
+            </div>
+          </div>
+          <span class="subtag-pill" id="studio-stream-type-badge">DASH STREAM</span>
+        </div>
+
+        <div class="as-video-tablet-frame">
+          <div class="as-video-inner-wrap" id="studio-player-container">
+            <video id="studio-plyr-element" class="plyr" playsinline controls preload="auto" crossorigin="anonymous" data-poster="/static/logo.png"></video>
+          </div>
+        </div>
+
+        <!-- Metadata inspection box -->
+        <div style="padding: 18px 24px; border-top: 1px solid var(--border-subtle); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--text-muted);">
+          <div id="studio-meta-details">Streaming with Shaka Engine &amp; ClearKey Decryption</div>
+          <button class="player-quality-pill" onclick="copyStudioStreamUrl()">📋 Copy Stream URL</button>
+        </div>
+      </div>
+
+    </div>
+  `;
+}
+
+async function handleStudioPlay(presetUrl) {
+  const inputEl = document.getElementById('studio-stream-input');
+  const url = (presetUrl || (inputEl ? inputEl.value : '')).trim();
+  if (!url) {
+    showToast('⚠️ Please enter a video or stream URL');
+    return;
+  }
+
+  const btn = document.getElementById('btn-studio-play');
+  if (btn) btn.innerHTML = '<span>Resolving...</span>';
+
+  try {
+    showToast('⚡ Resolving stream via Pearl MSCILearn Gateway...');
+    const res = await fetch(`/api/v1/stream/resolve?url=${encodeURIComponent(url)}`);
+    if (!res.ok) throw new Error('Failed to resolve stream');
+    const data = await res.json();
+
+    if (!data.success || !data.stream_url) {
+      throw new Error(data.error || 'Video stream could not be resolved');
+    }
+
+    studioResolvedStreamUrl = data.stream_url;
+
+    const wrap = document.getElementById('studio-player-wrap');
+    if (wrap) wrap.style.display = 'block';
+
+    const titleEl = document.getElementById('studio-player-title');
+    if (titleEl) titleEl.innerText = data.title || 'Direct Stream Playback';
+
+    const typeBadge = document.getElementById('studio-stream-type-badge');
+    if (typeBadge) typeBadge.innerText = (data.stream_type || 'DIRECT').toUpperCase() + ' STREAM';
+
+    const metaEl = document.getElementById('studio-meta-details');
+    if (metaEl) {
+      const keysCount = Object.keys(data.clear_keys || {}).length;
+      metaEl.innerText = `Provider: ${data.storage_provider || 'Pearl MSCILearn'} | DRM: ${keysCount > 0 ? 'ClearKey Decrypted (' + keysCount + ' keys)' : 'Standard'} | Zero-Token Active`;
+    }
+
+    // Scroll player into view smoothly
+    wrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+    // Initialize Shaka or HLS on studio player element
+    initStudioPlayer(data);
+    showToast('🎉 Stream ready & playing!');
+  } catch (err) {
+    console.error('Studio play error:', err);
+    showToast(`❌ Error: ${err.message}`);
+  } finally {
+    if (btn) btn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Play Stream ⚡</span>';
+  }
+}
+
+function initStudioPlayer(data) {
+  if (studioPlyrPlayer) {
+    try { studioPlyrPlayer.destroy(); } catch(e) {}
+    studioPlyrPlayer = null;
+  }
+  if (studioShakaPlayer) {
+    try { studioShakaPlayer.destroy(); } catch(e) {}
+    studioShakaPlayer = null;
+  }
+  if (studioHlsPlayer) {
+    try { studioHlsPlayer.destroy(); } catch(e) {}
+    studioHlsPlayer = null;
+  }
+
+  const el = document.getElementById('studio-plyr-element');
+  if (!el) return;
+
+  const streamUrl = data.stream_url;
+  const isDash = Boolean(data.stream_type === 'dash' || streamUrl.includes('.mpd') || (data.clear_keys && Object.keys(data.clear_keys).length > 0));
+  const isHls = Boolean(data.stream_type === 'hls' || streamUrl.includes('.m3u8'));
+
+  const plyrControls = [
+    'play-large', 'play', 'rewind', 'fast-forward', 'progress',
+    'current-time', 'duration', 'mute', 'volume', 'settings', 'pip', 'fullscreen'
+  ];
+
+  if (isDash && typeof shaka !== 'undefined') {
+    shaka.polyfill.installAll();
+    if (shaka.Player.isBrowserSupported()) {
+      const player = new shaka.Player(el);
+      studioShakaPlayer = player;
+
+      const clearKeys = data.clear_keys || {};
+      if (Object.keys(clearKeys).length > 0) {
+        player.configure({
+          drm: { clearKeys: clearKeys }
+        });
+      }
+
+      player.configure({
+        streaming: {
+          bufferingGoal: 30,
+          rebufferingGoal: 2,
+          jumpLargeGaps: true,
+          retryParameters: { maxAttempts: 5, baseDelay: 500, backoffFactor: 1.5, timeout: 30000 }
+        }
+      });
+
+      try {
+        const urlObj = new URL(streamUrl);
+        const queryParams = urlObj.search;
+        const netEngine = player.getNetworkingEngine();
+        netEngine.registerRequestFilter((type, request) => {
+          if (type === shaka.net.NetworkingEngine.RequestType.SEGMENT || type === shaka.net.NetworkingEngine.RequestType.MANIFEST) {
+            if (request.uris && Array.isArray(request.uris)) {
+              request.uris = request.uris.map(uri => appendQueryParams(uri, queryParams));
+            }
+          }
+        });
+      } catch (e) {}
+
+      studioPlyrPlayer = new Plyr(el, {
+        controls: plyrControls,
+        settings: ['quality', 'speed', 'loop'],
+        speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] },
+        seekTime: 10,
+        keyboard: { focused: true, global: true }
+      });
+
+      player.load(streamUrl).then(() => {
+        el.play().catch(() => {});
+      }).catch(e => console.error('Studio shaka load err:', e));
+      return;
+    }
+  }
+
+  if (isHls && typeof Hls !== 'undefined' && Hls.isSupported()) {
+    const hls = new Hls({ enableWorker: true });
+    studioHlsPlayer = hls;
+    hls.loadSource(streamUrl);
+    hls.attachMedia(el);
+    studioPlyrPlayer = new Plyr(el, { controls: plyrControls });
+    hls.on(Hls.Events.MANIFEST_PARSED, () => el.play().catch(() => {}));
+    return;
+  }
+
+  // Fallback direct HTML5
+  el.src = streamUrl;
+  studioPlyrPlayer = new Plyr(el, { controls: plyrControls });
+  el.play().catch(() => {});
+}
+
+function loadStudioPreset(presetKey) {
+  const presets = {
+    'pw-saleem': 'https://courseswala/play?batchId=6779345c20fa0756e4a7fd08&subjectId=69beb1defa18934d859e3526&scheduleId=6ab41b42143ad72acbbe6111&topic=Moving%20Charges%20and%20Magnetism%20%3A%20KPP%2014%20Discussion',
+    'pw-gate': 'https://courseswala/play?batchId=654ccf5aee945800189872dc&subjectId=665a0825a58f7c0018fefcf5&scheduleId=66838382d6cfa900181ef035&topic=Algorithms%20Lecture',
+    'pw-yakeen': 'https://courseswala/play?batchId=69897f0a4c12aeb013d4ea52&subjectId=699e91b465da1f732aa85d57&scheduleId=69d664ad5afe48443c625405&topic=Demo%20Lecture%20By%20Siddharth%20Sharma%20Sir',
+    'sw-demo': 'https://v2024.hranker.com/f9bb3bc8836ecdd1da66cf8d805bf77c_hranker/hls/9f61b0386cfb33d456725833df0b33b0_1080p.m3u8'
+  };
+  const url = presets[presetKey];
+  if (url) {
+    const inputEl = document.getElementById('studio-stream-input');
+    if (inputEl) inputEl.value = url;
+    handleStudioPlay(url);
+  }
+}
+
+function copyStudioStreamUrl() {
+  if (studioResolvedStreamUrl) {
+    navigator.clipboard.writeText(studioResolvedStreamUrl).then(() => {
+      showToast('Copied direct stream URL! 📋');
+    });
+  } else {
+    showToast('No stream loaded yet');
+  }
+}
+
 

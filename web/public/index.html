@@ -20,6 +20,8 @@
   
   <!-- HLS.js for direct video streaming -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.8/dist/hls.min.js"></script>
+  <!-- Shaka Player for DASH (.mpd), ClearKey DRM & Pearl MSCILearn Streaming -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.compiled.js"></script>
   <!-- Plyr Video Player for Custom Clean Player (AS Multiverse Exact Design) -->
   <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
   <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
@@ -102,6 +104,10 @@
         <button class="nav-item" data-tab="apps" onclick="navigateToTab('apps')">
           <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
           <span>My Apps</span>
+        </button>
+        <button class="nav-item" data-tab="player" onclick="navigateToTab('player')">
+          <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          <span>Direct Player ⚡</span>
         </button>
         <button class="nav-item" data-tab="community" onclick="navigateToTab('community')">
           <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
@@ -231,6 +237,6 @@
   <!-- YouTube IFrame API -->
   <script src="https://www.youtube.com/iframe_api"></script>
   <!-- Main Single-Page App Logic -->
-  <script src="/static/app.js?v=3.4"></script>
+  <script src="/static/app.js?v=3.5"></script>
 </body>
 </html>

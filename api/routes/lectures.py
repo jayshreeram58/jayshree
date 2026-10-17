@@ -22,12 +22,24 @@ from services.tutedude_service import (
     get_tutedude_lecture_details,
     get_tutedude_lecture_access
 )
+from services.physics_wallah_service import (
+    get_pw_lecture_details,
+    get_pw_lecture_access
+)
 
 router = APIRouter(prefix="/lectures", tags=["Lectures"])
 
 @router.get("/{lecture_id}")
 async def get_lecture_details(lecture_id: str, db: AsyncSession = Depends(get_db_dependency)):
-    # 1. Fast check for Selection Way lectures
+    # 1. Fast check for Physics Wallah lectures
+    try:
+        pw_lec = await get_pw_lecture_details(lecture_id)
+        if pw_lec:
+            return pw_lec
+    except Exception:
+        pass
+
+    # 2. Fast check for Selection Way lectures
     try:
         selection_lec = await get_selection_lecture_details(lecture_id)
         if selection_lec:
@@ -35,7 +47,7 @@ async def get_lecture_details(lecture_id: str, db: AsyncSession = Depends(get_db
     except Exception:
         pass
 
-    # 2. Fast check for Apna College lectures (served from serverless API / local bundle)
+    # 3. Fast check for Apna College lectures (served from serverless API / local bundle)
     try:
         apna_lec = await get_apna_lecture_details(lecture_id)
         if apna_lec:
@@ -43,7 +55,7 @@ async def get_lecture_details(lecture_id: str, db: AsyncSession = Depends(get_db
     except Exception:
         pass
 
-    # 3. Fast check for TuteDude lectures
+    # 4. Fast check for TuteDude lectures
     try:
         tutedude_lec = await get_tutedude_lecture_details(lecture_id)
         if tutedude_lec:
@@ -125,7 +137,15 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
     Returns secure video playback access parameters for Course Wallah custom player.
     Never exposes internal tokens or storage credentials.
     """
-    # 1. Fast check for Selection Way playback access
+    # 1. Fast check for Physics Wallah playback access
+    try:
+        pw_access = await get_pw_lecture_access(lecture_id)
+        if pw_access:
+            return pw_access
+    except Exception:
+        pass
+
+    # 2. Fast check for Selection Way playback access
     try:
         selection_access = await get_selection_lecture_access(lecture_id)
         if selection_access:
@@ -133,7 +153,7 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
     except Exception:
         pass
 
-    # 2. Fast check for Apna College playback access
+    # 3. Fast check for Apna College playback access
     try:
         apna_access = await get_apna_lecture_access(lecture_id)
         if apna_access:
@@ -141,7 +161,7 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
     except Exception:
         pass
 
-    # 3. Fast check for TuteDude playback access
+    # 4. Fast check for TuteDude playback access
     try:
         tutedude_access = await get_tutedude_lecture_access(lecture_id)
         if tutedude_access:
