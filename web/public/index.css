@@ -3619,6 +3619,40 @@ body.theme-light .guidance-hint-item {
    CINEMA VIDEO PLAYER VIEW (AS MULTIVERSE EXACT TABLET DESIGN)
    ============================================================================== */
 
+/* Top Back Navigation Bar */
+.player-top-nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.player-top-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(99, 102, 241, 0.12);
+  border: 1px solid rgba(99, 102, 241, 0.28);
+  color: #A5B4FC;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.player-pulse-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22C55E;
+  box-shadow: 0 0 8px #22C55E;
+  display: inline-block;
+  animation: pulse-glow 2s infinite;
+}
+
 .as-player-card {
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
@@ -3732,6 +3766,10 @@ body.theme-light .guidance-hint-item {
 
 .as-player-subtag .subtag-playing {
   color: var(--text-muted);
+}
+
+.as-player-subtag .subtag-chapter {
+  color: #A5B4FC;
 }
 
 .as-player-title {
@@ -4951,23 +4989,106 @@ button, a, .tab-pill-btn, .btn-pdf-ctrl, .player-quality-pill, .player-speed-pil
     gap: 8px;
   }
 
+  /* Mobile-First Full-Width Comfortable Video Player */
   .as-player-card {
-    padding: 12px 8px;
-    border-radius: 14px;
-    gap: 12px;
+    padding: 0 !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    gap: 12px !important;
+    margin-bottom: 24px !important;
   }
 
-  .as-player-title {
-    font-size: 15.5px;
+  .player-top-nav-bar {
+    padding: 0 2px;
+    margin-bottom: 8px;
+    gap: 8px;
+  }
+
+  .player-top-badge {
+    font-size: 11px;
+    padding: 4px 10px;
+  }
+
+  .btn-sub-back {
+    padding: 6px 12px;
+    font-size: 12px;
   }
 
   .as-video-tablet-frame {
-    padding: 3px;
-    border-radius: 10px;
+    padding: 0 !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    border-radius: 14px !important;
+    background: #000000 !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7) !important;
+    width: 100% !important;
   }
 
   .as-video-inner-wrap {
-    border-radius: 8px;
+    border-radius: 13px !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+  }
+
+  .as-player-meta-wrap {
+    padding: 0 4px;
+    gap: 6px;
+  }
+
+  .as-player-title {
+    font-size: 16px !important;
+    line-height: 1.35 !important;
+    font-weight: 800 !important;
+  }
+
+  .as-player-subtag {
+    font-size: 10.5px !important;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .player-quick-bar {
+    padding: 8px 10px !important;
+    border-radius: 12px !important;
+    gap: 8px !important;
+  }
+
+  .player-quick-group {
+    gap: 5px !important;
+  }
+
+  .player-quality-pill, .player-speed-pill {
+    padding: 6px 10px !important;
+    font-size: 11px !important;
+    min-height: 32px !important;
+  }
+
+  .player-attached-note-banner {
+    padding: 12px 14px !important;
+    border-radius: 12px !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 10px !important;
+  }
+
+  .player-attached-note-banner .btn-attached-view {
+    width: 100% !important;
+    justify-content: center !important;
+    padding: 10px !important;
+  }
+
+  .player-prev-next-row {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 8px !important;
+  }
+
+  .btn-nav-lecture {
+    width: 100% !important;
+    text-align: center !important;
+    justify-content: center !important;
+    padding: 10px 14px !important;
+    font-size: 12px !important;
   }
 
   .note-card-actions {

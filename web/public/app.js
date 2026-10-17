@@ -251,7 +251,7 @@ async function handleRoute() {
         await renderAppsView(root);
         break;
       case 'player':
-        await renderDirectPlayerStudio(root);
+        await renderAppsView(root);
         break;
       case 'community':
         renderCommunityView(root);
@@ -477,10 +477,10 @@ async function renderHomeView(container) {
       </div>
     </div>
 
-    <!-- Global Academic Operations Telemetry Row -->
+    <!-- Platform Live Overview Row (Real Live Data) -->
     <div class="section-header-row">
-      <h2 class="section-heading">Global Academic Operations</h2>
-      <p class="section-subheading">Real-time telemetry and package deployment speeds.</p>
+      <h2 class="section-heading">Platform Live Overview</h2>
+      <p class="section-subheading">Verified study portals, complete course syllabi, and direct video lectures.</p>
     </div>
 
     <div class="telemetry-grid">
@@ -489,54 +489,54 @@ async function renderHomeView(container) {
           <div class="telemetry-icon-wrap">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
           </div>
-          <span class="telemetry-secure-tag">SECURE ↗</span>
+          <span class="telemetry-secure-tag">VERIFIED ↗</span>
         </div>
         <div>
-          <div class="telemetry-label">PREMIUM APPS</div>
-          <div class="telemetry-value">17 Unlocked</div>
-          <div class="telemetry-trend">● +4 Added This Month</div>
+          <div class="telemetry-label">ACTIVE PORTALS</div>
+          <div class="telemetry-value">${apps.length} Platforms</div>
+          <div class="telemetry-trend">● PW, Apna College, Selection Way & TuteDude</div>
         </div>
       </div>
 
       <div class="telemetry-card">
         <div class="telemetry-top">
           <div class="telemetry-icon-wrap">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
           </div>
-          <span class="telemetry-secure-tag">SECURE ↗</span>
+          <span class="telemetry-secure-tag">UPDATED ↗</span>
         </div>
         <div>
-          <div class="telemetry-label">TOTAL DOWNLOADS</div>
-          <div class="telemetry-value">5,00,000+</div>
-          <div class="telemetry-trend">● 99.9% Delivery Rate</div>
+          <div class="telemetry-label">AVAILABLE BATCHES</div>
+          <div class="telemetry-value">${apps.reduce((sum, a) => sum + (a.total_batches || (a.batches ? a.batches.length : 0)), 0)} Full Batches</div>
+          <div class="telemetry-trend">● Complete Chapters & Syllabus</div>
         </div>
       </div>
 
       <div class="telemetry-card">
         <div class="telemetry-top">
           <div class="telemetry-icon-wrap">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
           </div>
-          <span class="telemetry-secure-tag">SECURE ↗</span>
+          <span class="telemetry-secure-tag">FAST CDN ↗</span>
         </div>
         <div>
-          <div class="telemetry-label">ACTIVE ACADEMIC USERS</div>
-          <div class="telemetry-value">1,20,000+</div>
-          <div class="telemetry-trend">● 2,34,430 Active Today</div>
+          <div class="telemetry-label">VIDEO LECTURES</div>
+          <div class="telemetry-value">${apps.reduce((sum, a) => sum + (a.batches ? a.batches.reduce((bSum, b) => bSum + (b.total_videos || b.total_lectures || 0), 0) : 0), 0).toLocaleString()}+ Lessons</div>
+          <div class="telemetry-trend">● Direct In-App Playback</div>
         </div>
       </div>
 
       <div class="telemetry-card">
         <div class="telemetry-top">
           <div class="telemetry-icon-wrap">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"/><rect x="2" y="14" width="20" height="8" rx="2" ry="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
           </div>
-          <span class="telemetry-secure-tag">SECURE ↗</span>
+          <span class="telemetry-secure-tag">CLEAN PDF ↗</span>
         </div>
         <div>
-          <div class="telemetry-label">GLOBAL CDN SERVER</div>
-          <div class="telemetry-value">Online [Fast]</div>
-          <div class="telemetry-trend">● Ping 23ms • Up 100%</div>
+          <div class="telemetry-label">NOTES & DPPS</div>
+          <div class="telemetry-value">${apps.reduce((sum, a) => sum + (a.batches ? a.batches.reduce((bSum, b) => bSum + (b.total_pdfs || 0), 0) : 0), 0).toLocaleString()}+ Materials</div>
+          <div class="telemetry-trend">● Built-in Clean PDF Reader</div>
         </div>
       </div>
     </div>
@@ -589,44 +589,46 @@ function renderAppsCardsHtml(apps) {
   if (!apps || apps.length === 0) {
     return `<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">No study portals found.</div>`;
   }
-  return apps.map((app, idx) => `
-    <div class="app-card">
+  return apps.map((app, idx) => {
+    const batchCount = app.total_batches || (app.batches ? app.batches.length : 0);
+    const videoCount = app.batches ? app.batches.reduce((s, b) => s + (b.total_videos || b.total_lectures || 0), 0) : 0;
+    const pdfCount = app.batches ? app.batches.reduce((s, b) => s + (b.total_pdfs || 0), 0) : 0;
+
+    return `
+    <div class="app-card" onclick="navigateToApp('${app.slug || app.id}')">
       <div>
         <div class="app-card-header">
           <div class="app-icon-wrap">
             <img src="${app.icon_url || '/static/logo.png'}" alt="${app.name}" class="app-icon-img" onerror="this.src='/static/logo.png'">
           </div>
           <div class="app-header-meta">
-            <span class="app-tag-pill">${idx === 0 ? 'POPULAR' : 'HOT'}</span>
+            <span class="app-tag-pill">${idx === 0 ? 'FEATURED' : 'VERIFIED'}</span>
             <h3 class="app-title" title="${app.name}">${app.name}</h3>
-            <span class="app-dev-name">ARCHITECT: Nexora / CW</span>
+            <span class="app-dev-name">${escapeHtml(app.description ? app.description.slice(0, 50) + '...' : 'Verified Academic Study Portal')}</span>
           </div>
         </div>
 
         <div class="app-meta-pills">
-          <span class="meta-pill">📱 v5.02.7</span>
-          <span class="meta-pill">💾 24.96 MB</span>
+          <span class="meta-pill">📚 ${batchCount} Batches</span>
+          ${videoCount > 0 ? `<span class="meta-pill">🎬 ${videoCount.toLocaleString()} Lessons</span>` : ''}
+          ${pdfCount > 0 ? `<span class="meta-pill">📄 ${pdfCount} Notes</span>` : ''}
         </div>
       </div>
 
       <div>
         <div class="app-stats-row">
-          <span class="app-download-count">👥 1,00,000+ Downloads</span>
-          <span class="app-rating-badge">★ 4.9</span>
+          <span class="app-download-count" style="color:var(--accent-emerald); font-weight:700;">● Direct In-App Playback</span>
         </div>
 
         <div class="app-actions-row">
-          <button class="btn-app-study" onclick="navigateToApp('${app.slug || app.id}')">
-            <span>Let's Study</span>
-          </button>
-          <button class="btn-app-download" onclick="navigateToApp('${app.slug || app.id}')">
-            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            <span>Batches</span>
+          <button class="btn-app-study" onclick="event.stopPropagation(); navigateToApp('${app.slug || app.id}')">
+            <span>Explore Batches &rarr;</span>
           </button>
         </div>
       </div>
     </div>
-  `).join('');
+  `;
+  }).join('');
 }
 
 // 2. MY APPS VIEW
@@ -1005,43 +1007,22 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
   const detectedQuality = (access.player_config && access.player_config.quality) ? access.player_config.quality : '1080p';
 
   container.innerHTML = `
-    <!-- Top Back Navigation -->
-    <div class="batch-detail-header-row" style="margin-bottom: 20px;">
+    <!-- Top Back Navigation Bar -->
+    <div class="player-top-nav-bar">
       <button class="btn-sub-back" onclick="navigateToSubject('${appSlugOrId}', '${batchIdOrSlug}', '${subjectIdOrSlug}')">
         <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
-        <span>Back</span>
+        <span>Back to ${escapeHtml(lecture.subject_name || 'Subject')}</span>
       </button>
+      <div class="player-top-badge">
+        <span class="player-pulse-dot"></span>
+        <span>${escapeHtml(lecture.batch_name || 'Course Wallah')}</span>
+      </div>
     </div>
 
-    <!-- Main AS Multiverse Player Card -->
+    <!-- Main Player Card (Mobile-First Edge-to-Edge) -->
     <div class="as-player-card">
       
-      <!-- Top App Header Row -->
-      <div class="as-player-header-row">
-        <div class="as-player-app-left">
-          <img src="/static/logo.png" alt="App Logo" class="as-player-app-avatar" onerror="this.src='/static/logo.png'">
-          <div class="as-player-app-meta">
-            <h2 class="as-player-app-name">${lecture.batch_name || 'Course Wallah'}</h2>
-            <span class="as-player-app-secure">● SECURE CLIENT SESSION ACTIVE</span>
-          </div>
-        </div>
-        <button class="btn-show-announcement" onclick="showAnnouncementModal('${escapeHtml(lecture.batch_name || 'Batch Updates')}')">
-          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
-          <span>Show Announcement</span>
-        </button>
-      </div>
-
-      <!-- Video Meta Details -->
-      <div class="as-player-meta-wrap">
-        <div class="as-player-subtag">
-          <span class="subtag-pill">VIDEO LECTURE</span>
-          <span class="subtag-dot">•</span>
-          <span class="subtag-playing">${access.storage_provider ? `${access.storage_provider.toUpperCase()} SECURE STREAM` : 'NOW PLAYING'}</span>
-        </div>
-        <h1 class="as-player-title">${escapeHtml(lecture.title)}</h1>
-      </div>
-
-      <!-- Sleek Tablet Frame (Exact AS Multiverse Match) -->
+      <!-- 1. VIDEO PLAYER (First & Foremost, Full-Width Edge-to-Edge) -->
       <div class="as-video-tablet-frame">
         <div class="as-video-inner-wrap" id="player-container">
           ${isEmbed ? `
@@ -1106,10 +1087,21 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
         </div>
       </div>
 
-      <!-- Quick Quality & Playback Speed Bar -->
+      <!-- 2. Video Title & Meta Details (Directly Below Video) -->
+      <div class="as-player-meta-wrap">
+        <div class="as-player-subtag">
+          <span class="subtag-pill">${escapeHtml(lecture.batch_name || 'COURSE WALLAH')}</span>
+          ${lecture.folder_name ? `<span class="subtag-dot">•</span><span class="subtag-chapter">${escapeHtml(lecture.folder_name)}</span>` : ''}
+          <span class="subtag-dot">•</span>
+          <span class="subtag-playing">🟢 DIRECT HD STREAM</span>
+        </div>
+        <h1 class="as-player-title">${escapeHtml(lecture.title)}</h1>
+      </div>
+
+      <!-- 3. Quick Quality & Playback Speed Bar (Touch friendly on Mobile) -->
       <div class="player-quick-bar">
         <div class="player-quick-group">
-          <span class="player-quick-label">⚡ Stream Quality:</span>
+          <span class="player-quick-label">⚡ Quality:</span>
           <button class="player-quality-pill ${detectedQuality === '1080p' ? 'active' : ''}" onclick="setPlayerQuality('1080p')">1080p Full HD</button>
           <button class="player-quality-pill ${detectedQuality === '720p' ? 'active' : ''}" onclick="setPlayerQuality('720p')">720p HD</button>
           <button class="player-quality-pill ${detectedQuality === '480p' ? 'active' : ''}" onclick="setPlayerQuality('480p')">480p SD</button>
@@ -1124,51 +1116,35 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
         </div>
       </div>
 
-      <!-- AS Multiverse Social Promo Banner Card (Exact Screenshot Match) -->
-      <div class="as-promo-banner-card">
-        <div class="as-promo-left">
-          <div class="as-promo-icon-circle">🌐</div>
-          <div class="as-promo-text-wrap">
-            <div class="as-promo-title-row">
-              <span class="as-promo-name">Course Wallah Platform</span>
-              <span class="as-promo-domain">COURSEWALLAH.APP</span>
-              <span class="as-promo-tag">CENTRAL HUB</span>
-            </div>
-            <p class="as-promo-desc">Explore the verified educational cloud matrix hosting all secure digital portals, subject batches, notes, and study material.</p>
-          </div>
-        </div>
-        <a href="https://t.me/course_wallah_official_bot" target="_blank" class="btn-as-promo-action">Visit Platform &rarr;</a>
-      </div>
-
-      <!-- Attached Notes & DPP Banner (In-App Only) -->
-      ${access.pdf_download_url ? `
-        <div class="player-attached-note-banner" style="margin-top: 24px;">
+      <!-- 4. Attached Notes & DPP Banner (In-App Only) -->
+      ${access.pdf_download_url || (lecture.source_pdf_url || lecture.pdf_url) ? `
+        <div class="player-attached-note-banner">
           <div class="attached-note-left">
             <div class="note-icon-glow">📄</div>
             <div>
               <h4 class="attached-note-title">Companion Class Notes &amp; DPP</h4>
-              <span class="attached-note-sub">Official verified study material for this lecture &bull; In-App Reader Only</span>
+              <span class="attached-note-sub">Verified study material &bull; Click to open reader</span>
             </div>
           </div>
           <div class="attached-note-actions">
             <button class="btn-attached-view" onclick="openPdfModal('/api/v1/pdfs/${lectureId}/content', '${lecture.title.replace(/'/g, "\\'")}')">
               <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-              <span>Read Notes</span>
+              <span>Read Notes (PDF)</span>
             </button>
           </div>
         </div>
       ` : ''}
 
-      <!-- Sibling Prev / Next Navigation -->
-      <div class="player-prev-next-row" style="margin-top: 24px;">
+      <!-- 5. Sibling Prev / Next Navigation -->
+      <div class="player-prev-next-row">
         ${lecture.prev_lecture ? `
           <button class="btn-nav-lecture" onclick="navigateToLecture('${appSlugOrId}', '${batchIdOrSlug}', '${subjectIdOrSlug}', '${lecture.prev_lecture.id}')">
-            <span>&larr; Previous: #${lecture.prev_lecture.index} ${lecture.prev_lecture.title}</span>
+            <span>&larr; Previous: #${lecture.prev_lecture.index} ${escapeHtml(lecture.prev_lecture.title)}</span>
           </button>
         ` : '<div></div>'}
         ${lecture.next_lecture ? `
           <button class="btn-nav-lecture" onclick="navigateToLecture('${appSlugOrId}', '${batchIdOrSlug}', '${subjectIdOrSlug}', '${lecture.next_lecture.id}')">
-            <span>Next: #${lecture.next_lecture.index} ${lecture.next_lecture.title} &rarr;</span>
+            <span>Next: #${lecture.next_lecture.index} ${escapeHtml(lecture.next_lecture.title)} &rarr;</span>
           </button>
         ` : '<div></div>'}
       </div>
