@@ -1,0 +1,1730 @@
+{
+  "platform": "TuteDude",
+  "batchId": "terraform",
+  "batchSlug": "terraform",
+  "batchName": "Terraform",
+  "thumbnail": "https://www.tutedude.com/assets/avif/terraform.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/terraform",
+  "totalSections": 22,
+  "totalLectures": 153,
+  "totalNotes": 21,
+  "price": "699.00",
+  "category": "DevOps & Cloud",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-terraform-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Course Introduction",
+      "lectures": [
+        {
+          "id": "td-terraform-2",
+          "title": "Course Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nQmGJ4EHKp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nQmGJ4EHKp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nQmGJ4EHKp/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Terraform and IaC",
+      "lectures": [
+        {
+          "id": "td-terraform-3",
+          "title": "Terraform and IaC Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qjzjjCe2Hk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qjzjjCe2Hk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qjzjjCe2Hk/video.m3u8",
+          "duration": 46,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-4",
+          "title": "Stages of infrastructure provisioning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FAQbnDKHmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FAQbnDKHmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FAQbnDKHmJ/video.m3u8",
+          "duration": 344,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-5",
+          "title": "Introduction to IAC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e47gRu4Q7T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e47gRu4Q7T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e47gRu4Q7T/video.m3u8",
+          "duration": 1003,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-6",
+          "title": "Core concepts of IAC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPxbMNpfns/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPxbMNpfns/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPxbMNpfns/video.m3u8",
+          "duration": 393,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-7",
+          "title": "What is terraform?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aT5s8aZ496/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aT5s8aZ496/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aT5s8aZ496/video.m3u8",
+          "duration": 776,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-8",
+          "title": "Terraform best practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6mncmzzzJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6mncmzzzJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6mncmzzzJ/video.m3u8",
+          "duration": 251,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tools Download and Installations",
+      "lectures": [
+        {
+          "id": "td-terraform-9",
+          "title": "Installing Vs Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8HNyjMYPdZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8HNyjMYPdZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8HNyjMYPdZ/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-10",
+          "title": "Making an AWS account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EPRqz7QPnP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EPRqz7QPnP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EPRqz7QPnP/video.m3u8",
+          "duration": 170,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-11",
+          "title": "Creating EC2 instance and Installing Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QDPZS6y3Tq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QDPZS6y3Tq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QDPZS6y3Tq/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deeper Dive into Terraform",
+      "lectures": [
+        {
+          "id": "td-terraform-12",
+          "title": "Deeper Dive into Terraform Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gYsQCQ2eHd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gYsQCQ2eHd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gYsQCQ2eHd/video.m3u8",
+          "duration": 61,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-13",
+          "title": "What is HCL?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kYU78j8mQd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kYU78j8mQd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kYU78j8mQd/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-14",
+          "title": "Running terraform cli for the first time",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87Z5RphTbsc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87Z5RphTbsc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87Z5RphTbsc/video.m3u8",
+          "duration": 217,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-15",
+          "title": "Terraform workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ETQC4NC5uQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ETQC4NC5uQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ETQC4NC5uQ/video.m3u8",
+          "duration": 275,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-16",
+          "title": "Creating a simple S3 bucket using terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8atqERhKUpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8atqERhKUpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8atqERhKUpQ/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-17",
+          "title": "Terraform State",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44fjgJxDmr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44fjgJxDmr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44fjgJxDmr/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-18",
+          "title": "Hands On - Terraform State",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaaGcx7XXeP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaaGcx7XXeP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaaGcx7XXeP/video.m3u8",
+          "duration": 1855,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-19",
+          "title": "Backends in Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m2QRFJKDRc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m2QRFJKDRc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m2QRFJKDRc/video.m3u8",
+          "duration": 338,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-20",
+          "title": "Terraform Providers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DhXxAJYUTF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DhXxAJYUTF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DhXxAJYUTF/video.m3u8",
+          "duration": 470,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-21",
+          "title": "Creating versioned and locked infra",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r86sn8My6e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r86sn8My6e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r86sn8My6e/video.m3u8",
+          "duration": 1978,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-6",
+          "title": "Creating S3 bucket",
+          "url": "https://docs.google.com/document/d/1Q-FutDOsNA_6wlqvLfFGiAsNBGacutu1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Q-FutDOsNA_6wlqvLfFGiAsNBGacutu1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Q-FutDOsNA_6wlqvLfFGiAsNBGacutu1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Q-FutDOsNA_6wlqvLfFGiAsNBGacutu1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-terraform-7",
+          "title": "Create a simple s3 bucket using terraform",
+          "url": "https://docs.google.com/document/d/18--wv5zmYlsL8ZIQGuTCPfz1aPTJO1yk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18--wv5zmYlsL8ZIQGuTCPfz1aPTJO1yk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18--wv5zmYlsL8ZIQGuTCPfz1aPTJO1yk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18--wv5zmYlsL8ZIQGuTCPfz1aPTJO1yk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Understanding Resources",
+      "lectures": [
+        {
+          "id": "td-terraform-22",
+          "title": "Understanding Resources Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXpA62GX6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXpA62GX6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXpA62GX6A/video.m3u8",
+          "duration": 70,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-23",
+          "title": "AWS overview - what is AWS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jDPjmcnXhT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jDPjmcnXhT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jDPjmcnXhT/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-24",
+          "title": "AWS overview - EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Pz3Gj4GygQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Pz3Gj4GygQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Pz3Gj4GygQ/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-25",
+          "title": "AWS overview - S3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HPn38gNMam/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HPn38gNMam/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HPn38gNMam/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-26",
+          "title": "AWS overview - VPC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uukqJxbsJy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uukqJxbsJy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uukqJxbsJy/video.m3u8",
+          "duration": 225,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-27",
+          "title": "AWS overview - Lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pMc7yGehek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pMc7yGehek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pMc7yGehek/video.m3u8",
+          "duration": 149,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-28",
+          "title": "AWS overview - Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dajPxYs6Qt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dajPxYs6Qt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dajPxYs6Qt/video.m3u8",
+          "duration": 221,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-29",
+          "title": "AWS overview - ECS & EKS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxPbpPjz4nK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxPbpPjz4nK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxPbpPjz4nK/video.m3u8",
+          "duration": 235,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-30",
+          "title": "AWS key takeaways",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nZ4ERJNDGy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nZ4ERJNDGy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nZ4ERJNDGy/video.m3u8",
+          "duration": 254,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-31",
+          "title": "What is a terraform resource?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f7QcS2dGmF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f7QcS2dGmF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f7QcS2dGmF/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-32",
+          "title": "Resources components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/632ZD5HSsra/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/632ZD5HSsra/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/632ZD5HSsra/video.m3u8",
+          "duration": 889,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-33",
+          "title": "Project [VPC ARCHITECTURE] - overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/389rK3mcsYG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/389rK3mcsYG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/389rK3mcsYG/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-34",
+          "title": "Project [VPC ARCHITECTURE] - setting up tools (part-1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YesEuMGUy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YesEuMGUy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YesEuMGUy/video.m3u8",
+          "duration": 593,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-35",
+          "title": "Project [VPC ARCHITECTURE] - variables .tf (part-2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXtUTa72hpe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXtUTa72hpe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXtUTa72hpe/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-36",
+          "title": "Project [VPC ARCHITECTURE] - main.tf (part-3)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdyTMKAkg2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdyTMKAkg2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdyTMKAkg2/video.m3u8",
+          "duration": 1622,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-9",
+          "title": "Create a simple EC2 instance using terraform",
+          "url": "https://docs.google.com/document/d/1flIi7WhYlXoPxUyM5UYk2U51rt6u_0Cg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1flIi7WhYlXoPxUyM5UYk2U51rt6u_0Cg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1flIi7WhYlXoPxUyM5UYk2U51rt6u_0Cg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1flIi7WhYlXoPxUyM5UYk2U51rt6u_0Cg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-terraform-10",
+          "title": "Create a full VPC Architecture using Terraform",
+          "url": "https://docs.google.com/document/d/1YYR7d1LjSQFGIduSTzN2ZTdEHmRW7Xwo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YYR7d1LjSQFGIduSTzN2ZTdEHmRW7Xwo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YYR7d1LjSQFGIduSTzN2ZTdEHmRW7Xwo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YYR7d1LjSQFGIduSTzN2ZTdEHmRW7Xwo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "[PROJECT]: - Hosting S3 static website using terraform",
+      "lectures": [
+        {
+          "id": "td-terraform-37",
+          "title": "Project Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ25AFmXU8s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ25AFmXU8s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ25AFmXU8s/video.m3u8",
+          "duration": 861,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-38",
+          "title": "Hands On - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "duration": 1098,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-39",
+          "title": "Hands On - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xTAMThZ4tG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xTAMThZ4tG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xTAMThZ4tG/video.m3u8",
+          "duration": 791,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-40",
+          "title": "What we learnt?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37dqR2Qg5CZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37dqR2Qg5CZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37dqR2Qg5CZ/video.m3u8",
+          "duration": 166,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-12",
+          "title": "Host a static website on S3",
+          "url": "https://docs.google.com/document/d/1grFwM0EUsvy98GgWp9WckygU5UlAjIeN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1grFwM0EUsvy98GgWp9WckygU5UlAjIeN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1grFwM0EUsvy98GgWp9WckygU5UlAjIeN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1grFwM0EUsvy98GgWp9WckygU5UlAjIeN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Sources",
+      "lectures": [
+        {
+          "id": "td-terraform-41",
+          "title": "Data Sources Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATuSY7jBhRb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATuSY7jBhRb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATuSY7jBhRb/video.m3u8",
+          "duration": 40,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-42",
+          "title": "Data sources in terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARAGQgMugCb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARAGQgMugCb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARAGQgMugCb/video.m3u8",
+          "duration": 1089,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-43",
+          "title": "Hands On- Fetching AMI data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ezF6X9Fg2F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ezF6X9Fg2F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ezF6X9Fg2F/video.m3u8",
+          "duration": 839,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-44",
+          "title": "Hands On - Fetching account info and region",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EG8zBgHEC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EG8zBgHEC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EG8zBgHEC7/video.m3u8",
+          "duration": 853,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-45",
+          "title": "Hands On - Fetching VPC data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mtU9fj2f8D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mtU9fj2f8D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mtU9fj2f8D/video.m3u8",
+          "duration": 1097,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-46",
+          "title": "Hands On - Fetching availability zones",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbyQtd9Dym7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbyQtd9Dym7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbyQtd9Dym7/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-47",
+          "title": "Hands On - Creating IAM policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98AnYJcFX48/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98AnYJcFX48/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98AnYJcFX48/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-14",
+          "title": "Fetch AWS account information",
+          "url": "https://docs.google.com/document/d/1vBWM4vUfB0MNvEz0FcrcbvykjAIQAuYJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vBWM4vUfB0MNvEz0FcrcbvykjAIQAuYJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vBWM4vUfB0MNvEz0FcrcbvykjAIQAuYJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vBWM4vUfB0MNvEz0FcrcbvykjAIQAuYJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-terraform-15",
+          "title": "Create a custom IAM policy",
+          "url": "https://docs.google.com/document/d/1IwxpclIjHGDniWLXLBMdp8l93QPhGcwe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IwxpclIjHGDniWLXLBMdp8l93QPhGcwe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IwxpclIjHGDniWLXLBMdp8l93QPhGcwe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IwxpclIjHGDniWLXLBMdp8l93QPhGcwe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Input variables, locals and outputs",
+      "lectures": [
+        {
+          "id": "td-terraform-48",
+          "title": "Input variables, locals and outputs Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANUtQDBYptg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANUtQDBYptg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANUtQDBYptg/video.m3u8",
+          "duration": 64,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-49",
+          "title": "Input and Output variables in Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZn8M6PkAmE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZn8M6PkAmE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZn8M6PkAmE/video.m3u8",
+          "duration": 851,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-50",
+          "title": "Hands On - Types of variables - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zTk3atEeJz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zTk3atEeJz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zTk3atEeJz/video.m3u8",
+          "duration": 1895,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-51",
+          "title": "Hands On - Types of variables - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAXKnuu7R9h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAXKnuu7R9h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAXKnuu7R9h/video.m3u8",
+          "duration": 2042,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-52",
+          "title": "Working with .tfvars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJd2MtFaRt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJd2MtFaRt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJd2MtFaRt/video.m3u8",
+          "duration": 235,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-53",
+          "title": "Hands On - .tfvars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8",
+          "duration": 1098,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-54",
+          "title": "Working with locals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SPqBBQQqUn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SPqBBQQqUn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SPqBBQQqUn/video.m3u8",
+          "duration": 132,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-55",
+          "title": "Hands On - locals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RDK6ZCMC7P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RDK6ZCMC7P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RDK6ZCMC7P/video.m3u8",
+          "duration": 1028,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-56",
+          "title": "Working with outputs.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Km38J5FYHj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Km38J5FYHj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Km38J5FYHj/video.m3u8",
+          "duration": 103,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-57",
+          "title": "Hands On - outputs.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AfN3CSAJ4F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AfN3CSAJ4F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AfN3CSAJ4F/video.m3u8",
+          "duration": 1605,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-17",
+          "title": "Create an EC2 instance",
+          "url": "https://docs.google.com/document/d/1oGqv3_CTnRsM4c10Gpd_ZjRHPNmQ0xx9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1oGqv3_CTnRsM4c10Gpd_ZjRHPNmQ0xx9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1oGqv3_CTnRsM4c10Gpd_ZjRHPNmQ0xx9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1oGqv3_CTnRsM4c10Gpd_ZjRHPNmQ0xx9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Expressions and Functions",
+      "lectures": [
+        {
+          "id": "td-terraform-58",
+          "title": "Expressions and Functions Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93BcZUpD9m8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93BcZUpD9m8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93BcZUpD9m8/video.m3u8",
+          "duration": 64,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-59",
+          "title": "Operators in terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33gmegBDEFM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33gmegBDEFM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33gmegBDEFM/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-60",
+          "title": "Variables and arithmetic operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zZBbzMPZyS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zZBbzMPZyS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zZBbzMPZyS/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-61",
+          "title": "Comparison operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/973jnUXDHfa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/973jnUXDHfa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/973jnUXDHfa/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-62",
+          "title": "Logical operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89fbHm5fT85/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89fbHm5fT85/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89fbHm5fT85/video.m3u8",
+          "duration": 409,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-63",
+          "title": "Conditional operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42kTKcCqndU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42kTKcCqndU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42kTKcCqndU/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-64",
+          "title": "String operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqjERTp5aj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqjERTp5aj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqjERTp5aj/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-65",
+          "title": "Collection operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YYHKyyFZGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YYHKyyFZGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YYHKyyFZGE/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-66",
+          "title": "Operators real world examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FnauExPrH3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FnauExPrH3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FnauExPrH3/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-67",
+          "title": "Expressions and Transformations (Basic Lists)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NtgqT6Qz3D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NtgqT6Qz3D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NtgqT6Qz3D/video.m3u8",
+          "duration": 608,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-68",
+          "title": "Expressions and Transformations (Basic Maps)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kUa3JaCmHz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kUa3JaCmHz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kUa3JaCmHz/video.m3u8",
+          "duration": 568,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-69",
+          "title": "Basic Transformations using lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dT3yJSqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dT3yJSqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dT3yJSqf/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-70",
+          "title": "Key Transformations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sjp3EcrE7g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sjp3EcrE7g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sjp3EcrE7g/video.m3u8",
+          "duration": 611,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-71",
+          "title": "String Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CK2QJSHymB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CK2QJSHymB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CK2QJSHymB/video.m3u8",
+          "duration": 1091,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-72",
+          "title": "Number Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c4yShdxf7XT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c4yShdxf7XT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c4yShdxf7XT/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-73",
+          "title": "Collection Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b2mA7Jf42g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b2mA7Jf42g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b2mA7Jf42g/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-19",
+          "title": "Operators",
+          "url": "https://docs.google.com/document/d/1Zi4ryV_pyJf_0MiML-EtVxAaour2xFqr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Zi4ryV_pyJf_0MiML-EtVxAaour2xFqr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Zi4ryV_pyJf_0MiML-EtVxAaour2xFqr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Zi4ryV_pyJf_0MiML-EtVxAaour2xFqr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-terraform-20",
+          "title": "Expressions and Transformations",
+          "url": "https://docs.google.com/document/d/1MarpX6uK6BDYhs2VghYFMp6FhAnGIB0H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MarpX6uK6BDYhs2VghYFMp6FhAnGIB0H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MarpX6uK6BDYhs2VghYFMp6FhAnGIB0H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MarpX6uK6BDYhs2VghYFMp6FhAnGIB0H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-terraform-21",
+          "title": "Functions",
+          "url": "https://docs.google.com/document/d/1BkYAlxpXraGzNufSDFI3kZmPCGdCuljV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1BkYAlxpXraGzNufSDFI3kZmPCGdCuljV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1BkYAlxpXraGzNufSDFI3kZmPCGdCuljV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1BkYAlxpXraGzNufSDFI3kZmPCGdCuljV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Multi Resource Creation",
+      "lectures": [
+        {
+          "id": "td-terraform-74",
+          "title": "Multi Resource Creation Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qYCRgXSb7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qYCRgXSb7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qYCRgXSb7y/video.m3u8",
+          "duration": 92,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-75",
+          "title": "Creating VPC Architecture using Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfM5AY8G8X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfM5AY8G8X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfM5AY8G8X/video.m3u8",
+          "duration": 730,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-76",
+          "title": "[PART-1] Creating VPC infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YhUgpDg8C7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YhUgpDg8C7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YhUgpDg8C7/video.m3u8",
+          "duration": 1666,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-77",
+          "title": "[PART-2] Deploying EC2 servers on created VPC infra",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH8yYX7hQhD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH8yYX7hQhD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH8yYX7hQhD/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-78",
+          "title": "[PART-3] Deploying a web interface on created infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AczhrRk9PbY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AczhrRk9PbY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AczhrRk9PbY/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-79",
+          "title": "[PROJECT] - SNS notification application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ac2gPNjudf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ac2gPNjudf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ac2gPNjudf/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-80",
+          "title": "[PROJECT] - SNS app - Creating file structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bxGjYJTfbH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bxGjYJTfbH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bxGjYJTfbH/video.m3u8",
+          "duration": 509,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-81",
+          "title": "[PROJECT] - SNS app - Building \".tf\" files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXhuCBTGDTr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXhuCBTGDTr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXhuCBTGDTr/video.m3u8",
+          "duration": 955,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-82",
+          "title": "[PROJECT] - SNS app - Deploying App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndbZAXEq4y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndbZAXEq4y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndbZAXEq4y/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-23",
+          "title": "Draw Architecture",
+          "url": "https://docs.google.com/document/d/1Cs60gWDDPxYOMi5BTia6xo73X-zUoQrF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Cs60gWDDPxYOMi5BTia6xo73X-zUoQrF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Cs60gWDDPxYOMi5BTia6xo73X-zUoQrF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Cs60gWDDPxYOMi5BTia6xo73X-zUoQrF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "IAM through Terraform",
+      "lectures": [
+        {
+          "id": "td-terraform-83",
+          "title": "IAM through Terraform Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uctetz327R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uctetz327R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uctetz327R/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-84",
+          "title": "Creating users and Roles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fs6jKYtnTS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fs6jKYtnTS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fs6jKYtnTS/video.m3u8",
+          "duration": 350,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-85",
+          "title": "Deploying IAM users",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dSbddhA2Yj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dSbddhA2Yj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dSbddhA2Yj/video.m3u8",
+          "duration": 758,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-86",
+          "title": "Hands On: Code iam user -1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67RPYHd9PhE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67RPYHd9PhE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67RPYHd9PhE/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-87",
+          "title": "Hands On: code iam user -2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2MBZCEuYHb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2MBZCEuYHb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2MBZCEuYHb/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-88",
+          "title": "Hands On: code iam user -3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zg83Azb47h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zg83Azb47h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zg83Azb47h/video.m3u8",
+          "duration": 394,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-89",
+          "title": "Hands On: code iam role -1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/549xFrspbAh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/549xFrspbAh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/549xFrspbAh/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-90",
+          "title": "Hands On: code iam role -2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87DDxZ5ZD2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87DDxZ5ZD2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87DDxZ5ZD2b/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-91",
+          "title": "Hands On: code iam role -3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahc6x4ZeSdu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahc6x4ZeSdu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahc6x4ZeSdu/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-25",
+          "title": "Create a custom IAM role",
+          "url": "https://docs.google.com/document/d/16LXDnVnIZGqmlZowgumwV2Gwrf84rzyD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/16LXDnVnIZGqmlZowgumwV2Gwrf84rzyD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/16LXDnVnIZGqmlZowgumwV2Gwrf84rzyD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/16LXDnVnIZGqmlZowgumwV2Gwrf84rzyD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "[PROJECT]: - Managing users and roles through terraform",
+      "lectures": [
+        {
+          "id": "td-terraform-92",
+          "title": "Theory - Smart User Role Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R6SKxBmmK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R6SKxBmmK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R6SKxBmmK2/video.m3u8",
+          "duration": 672,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-93",
+          "title": "Hands On - Understanding code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBar5RzsRQb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBar5RzsRQb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBar5RzsRQb/video.m3u8",
+          "duration": 1184,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-94",
+          "title": "Hands On - Understanding code (users and outputs)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86eJsJ5AYsh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86eJsJ5AYsh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86eJsJ5AYsh/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-95",
+          "title": "Hands On - Project deployment (testing users)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpS9b79Rs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpS9b79Rs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpS9b79Rs/video.m3u8",
+          "duration": 956,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-27",
+          "title": "Smart user role management",
+          "url": "https://docs.google.com/document/d/1mfo0aCetd3H-O1F50TuuZ-erbK1KGK72/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1mfo0aCetd3H-O1F50TuuZ-erbK1KGK72/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1mfo0aCetd3H-O1F50TuuZ-erbK1KGK72/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1mfo0aCetd3H-O1F50TuuZ-erbK1KGK72/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terraform Modules",
+      "lectures": [
+        {
+          "id": "td-terraform-96",
+          "title": "Terraform Modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6ncsAYD9n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6ncsAYD9n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6ncsAYD9n/video.m3u8",
+          "duration": 834,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-97",
+          "title": "Hands On - Hello world module & common error fixing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyXRtTd7fg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyXRtTd7fg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyXRtTd7fg/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-98",
+          "title": "Hands On - Creating secure s3 bucket called 3 times using modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6abuEuq8D6P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6abuEuq8D6P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6abuEuq8D6P/video.m3u8",
+          "duration": 1346,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-99",
+          "title": "Hands On - Implementing modules that generate app config files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42m5zbKUGCa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42m5zbKUGCa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42m5zbKUGCa/video.m3u8",
+          "duration": 703,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-29",
+          "title": "Terraform module",
+          "url": "https://docs.google.com/document/d/1dcfAnXw0cQq_OLg4ubuMSxzYZtgzAsMj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dcfAnXw0cQq_OLg4ubuMSxzYZtgzAsMj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dcfAnXw0cQq_OLg4ubuMSxzYZtgzAsMj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dcfAnXw0cQq_OLg4ubuMSxzYZtgzAsMj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terraform Lifecycle Validations",
+      "lectures": [
+        {
+          "id": "td-terraform-100",
+          "title": "Terraform Lifecycle Validations Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CaDEm55zEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CaDEm55zEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CaDEm55zEp/video.m3u8",
+          "duration": 64,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-101",
+          "title": "Understanding lifecycle validations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CBbsbpkSGk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CBbsbpkSGk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CBbsbpkSGk/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-102",
+          "title": "Hands On - Preconditions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TPjrjsZFAN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TPjrjsZFAN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TPjrjsZFAN/video.m3u8",
+          "duration": 1045,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-103",
+          "title": "Hands On - Preconditions [more examples]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FrUrpfuCKr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FrUrpfuCKr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FrUrpfuCKr/video.m3u8",
+          "duration": 936,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-104",
+          "title": "Hands On - Postconditions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AHMrETdck/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AHMrETdck/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AHMrETdck/video.m3u8",
+          "duration": 1015,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-105",
+          "title": "Hands On - Check Blocks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzcZXQ63dE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzcZXQ63dE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzcZXQ63dE/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-106",
+          "title": "Miniproject - Implementing lifecycle validation on real infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9H2Qhf339z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9H2Qhf339z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9H2Qhf339z/video.m3u8",
+          "duration": 1244,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-31",
+          "title": "Lifecycle Validation",
+          "url": "https://docs.google.com/document/d/1nY9jw1zTlSysALa00F-VC5tObp-Muwqf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nY9jw1zTlSysALa00F-VC5tObp-Muwqf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nY9jw1zTlSysALa00F-VC5tObp-Muwqf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nY9jw1zTlSysALa00F-VC5tObp-Muwqf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terraform Workspace",
+      "lectures": [
+        {
+          "id": "td-terraform-107",
+          "title": "Terraform Workspace Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hg22U4K484/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hg22U4K484/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hg22U4K484/video.m3u8",
+          "duration": 63,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-108",
+          "title": "Terraform Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35SmpTCh3B4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35SmpTCh3B4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35SmpTCh3B4/video.m3u8",
+          "duration": 795,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-109",
+          "title": "Terraform Workspaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG4JayQ8af7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG4JayQ8af7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG4JayQ8af7/video.m3u8",
+          "duration": 786,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-110",
+          "title": "Hands On: - Creating and Managing Workspaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbCetBQPC4q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbCetBQPC4q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbCetBQPC4q/video.m3u8",
+          "duration": 1410,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-33",
+          "title": "Workspaces",
+          "url": "https://docs.google.com/document/d/1jfBhOLHdjXYc_esjwUB09opdAjhJK4gR/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jfBhOLHdjXYc_esjwUB09opdAjhJK4gR/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jfBhOLHdjXYc_esjwUB09opdAjhJK4gR/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jfBhOLHdjXYc_esjwUB09opdAjhJK4gR/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terraform State Management",
+      "lectures": [
+        {
+          "id": "td-terraform-111",
+          "title": "Terraform State Management Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66ssNXB6XEt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66ssNXB6XEt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66ssNXB6XEt/video.m3u8",
+          "duration": 60,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-112",
+          "title": "State Manipulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dd5hJqeE4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dd5hJqeE4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dd5hJqeE4k/video.m3u8",
+          "duration": 862,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-113",
+          "title": "Hands On - State Manipulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR5stTdxPrs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR5stTdxPrs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR5stTdxPrs/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-35",
+          "title": "TF State",
+          "url": "https://docs.google.com/document/d/1r57I9s0faZAcse9I8BDkTifYIKyeE9DZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1r57I9s0faZAcse9I8BDkTifYIKyeE9DZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1r57I9s0faZAcse9I8BDkTifYIKyeE9DZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1r57I9s0faZAcse9I8BDkTifYIKyeE9DZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Rise of OpenTofu",
+      "lectures": [
+        {
+          "id": "td-terraform-114",
+          "title": "Rise of OpenToFu",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RsP4J8JXj25/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RsP4J8JXj25/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RsP4J8JXj25/video.m3u8",
+          "duration": 1059,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-115",
+          "title": "Implementing OpenToFU",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RjjM5GQx6ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RjjM5GQx6ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RjjM5GQx6ad/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-37",
+          "title": "Open Tofu",
+          "url": "https://docs.google.com/document/d/1PseBqJ525z40RNlZFFzHWn_TTaxZohhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PseBqJ525z40RNlZFFzHWn_TTaxZohhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PseBqJ525z40RNlZFFzHWn_TTaxZohhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PseBqJ525z40RNlZFFzHWn_TTaxZohhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "[PROJECT]: - Constructing a Highly Available & Scalable Infrastructure",
+      "lectures": [
+        {
+          "id": "td-terraform-116",
+          "title": "Understanding the Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AaXMuaSC2M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AaXMuaSC2M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AaXMuaSC2M/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-117",
+          "title": "Understanding IaC files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSAQqyJ8bh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSAQqyJ8bh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSAQqyJ8bh/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-118",
+          "title": "Project Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY56nZpdRjs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY56nZpdRjs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY56nZpdRjs/video.m3u8",
+          "duration": 1458,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-39",
+          "title": "Create a Highly available & scalable infrastructure",
+          "url": "https://docs.google.com/document/d/1pSMkrQuDZp3cseP4S79OFOYXxNDzE0ib/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pSMkrQuDZp3cseP4S79OFOYXxNDzE0ib/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pSMkrQuDZp3cseP4S79OFOYXxNDzE0ib/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pSMkrQuDZp3cseP4S79OFOYXxNDzE0ib/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "[PROJECT]: - 3-Tier Web Infrastructure with Terraform",
+      "lectures": [
+        {
+          "id": "td-terraform-119",
+          "title": "What is a 3-Tier Web Architecture?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fJHhYzC8Cp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fJHhYzC8Cp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fJHhYzC8Cp/video.m3u8",
+          "duration": 1330,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-120",
+          "title": "Project Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N5DDxSCJkk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N5DDxSCJkk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N5DDxSCJkk/video.m3u8",
+          "duration": 1330,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-121",
+          "title": "Main.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47myXmCBFRJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47myXmCBFRJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47myXmCBFRJ/video.m3u8",
+          "duration": 77,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-122",
+          "title": "Variables.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zHXe9xqqeZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zHXe9xqqeZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zHXe9xqqeZ/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-123",
+          "title": "VPC.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xn6t6m5dGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xn6t6m5dGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xn6t6m5dGg/video.m3u8",
+          "duration": 470,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-124",
+          "title": "SG.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2FEjTbERU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2FEjTbERU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2FEjTbERU/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-125",
+          "title": "ALB.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K9tTu95xTR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K9tTu95xTR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K9tTu95xTR/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-126",
+          "title": "IAM.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BCY48rZsK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BCY48rZsK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BCY48rZsK2/video.m3u8",
+          "duration": 108,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-127",
+          "title": "S3.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MDUn56xdtB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MDUn56xdtB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MDUn56xdtB/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-128",
+          "title": "Database.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y6qdGDHx97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y6qdGDHx97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y6qdGDHx97/video.m3u8",
+          "duration": 206,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-129",
+          "title": "asg_backend.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ktg4Rbgxkq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ktg4Rbgxkq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ktg4Rbgxkq/video.m3u8",
+          "duration": 135,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-130",
+          "title": "asg_frontend.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzEPBJy7hF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzEPBJy7hF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzEPBJy7hF/video.m3u8",
+          "duration": 157,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-131",
+          "title": "outputs.tf & tfvars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GB9ferynJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GB9ferynJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GB9ferynJU/video.m3u8",
+          "duration": 142,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-132",
+          "title": "Project Deployment & Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74sHGPmMYYa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74sHGPmMYYa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74sHGPmMYYa/video.m3u8",
+          "duration": 1232,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-terraform-41",
+          "title": "3-Tier Web Infrastructure with Terraform",
+          "url": "https://drive.google.com/drive/folders/1OIoAg0twF24np-o_7YXcCv5JmsinYKhi?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/drive/folders/1OIoAg0twF24np-o_7YXcCv5JmsinYKhi?usp=drive_link",
+          "playerUrl": "https://drive.google.com/drive/folders/1OIoAg0twF24np-o_7YXcCv5JmsinYKhi?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/drive/folders/1OIoAg0twF24np-o_7YXcCv5JmsinYKhi?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Interview & Exam preparation",
+      "lectures": [
+        {
+          "id": "td-terraform-133",
+          "title": "Resume Workshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83HGQDJ3MUs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83HGQDJ3MUs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83HGQDJ3MUs/video.m3u8",
+          "duration": 1012,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-134",
+          "title": "Easy question set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PtRJAg7UPx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PtRJAg7UPx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PtRJAg7UPx/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-135",
+          "title": "Medium question set (part-1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SdR5pbKDFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SdR5pbKDFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SdR5pbKDFD/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-136",
+          "title": "Medium question set (part-2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC6XBXuMFjd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC6XBXuMFjd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC6XBXuMFjd/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-137",
+          "title": "Medium question set (part-3)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhcs9yJH9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhcs9yJH9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhcs9yJH9R/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-138",
+          "title": "Medium question set (part-4)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UgUe99fmJD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UgUe99fmJD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UgUe99fmJD/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-139",
+          "title": "Medium question set (part -5)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fsR7mtpjEQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fsR7mtpjEQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fsR7mtpjEQ/video.m3u8",
+          "duration": 879,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-140",
+          "title": "Advanced question set (part-1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gYZCQqxjMC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gYZCQqxjMC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gYZCQqxjMC/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Future Enhancements",
+      "lectures": [
+        {
+          "id": "td-terraform-141",
+          "title": "Future Enhancements Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ep6MxU9Fad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ep6MxU9Fad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ep6MxU9Fad/video.m3u8",
+          "duration": 74,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-142",
+          "title": "OpenToFu ecosystem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ98nmZrqXA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ98nmZrqXA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ98nmZrqXA/video.m3u8",
+          "duration": 518,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-143",
+          "title": "AI & Intelligent Automation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zMYKP2XBbS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zMYKP2XBbS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zMYKP2XBbS/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-144",
+          "title": "Improved State Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqbQYRcEUtG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqbQYRcEUtG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqbQYRcEUtG/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-145",
+          "title": "Enhanced Testing Framework",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6a2QhFCm6RH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6a2QhFCm6RH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6a2QhFCm6RH/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-146",
+          "title": "Modules & Reusability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/873fyyU4r4c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/873fyyU4r4c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/873fyyU4r4c/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-147",
+          "title": "Performance & Reusability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGSPrDzDGQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGSPrDzDGQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGSPrDzDGQ/video.m3u8",
+          "duration": 186,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-148",
+          "title": "Drift Detection & Remediation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUHy53aSek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUHy53aSek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUHy53aSek/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-149",
+          "title": "Multi Cloud & Hybrid Improvements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MjZH4EPxTbT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MjZH4EPxTbT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MjZH4EPxTbT/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-150",
+          "title": "Security Enhancements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r7RfUP6gaZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r7RfUP6gaZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r7RfUP6gaZ/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-151",
+          "title": "Developer Experience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brbPBanyP9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brbPBanyP9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brbPBanyP9/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-152",
+          "title": "Terraform Stacks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgPfHyKtRbB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgPfHyKtRbB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgPfHyKtRbB/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-terraform-153",
+          "title": "Cloud Cost Integration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yNkEfAXK887/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yNkEfAXK887/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yNkEfAXK887/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

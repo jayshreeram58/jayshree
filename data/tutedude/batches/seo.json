@@ -1,0 +1,452 @@
+{
+  "platform": "TuteDude",
+  "batchId": "seo",
+  "batchSlug": "seo",
+  "batchName": "Search Engine Optimization (SEO) Mastery",
+  "thumbnail": "https://www.tutedude.com/assets/avif/seo.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/seo",
+  "totalSections": 8,
+  "totalLectures": 42,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-seo-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics of SEO",
+      "lectures": [
+        {
+          "id": "td-seo-2",
+          "title": "What is SEO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AapCqf7xHfT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AapCqf7xHfT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AapCqf7xHfT/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-3",
+          "title": "Why Seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cZD85xPyFU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cZD85xPyFU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cZD85xPyFU/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-4",
+          "title": "What is search Engines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72GETrkFD7b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72GETrkFD7b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72GETrkFD7b/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-5",
+          "title": "Search engine Working",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "duration": 1137,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-6",
+          "title": "type of seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K3qgb7hPA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K3qgb7hPA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K3qgb7hPA/video.m3u8",
+          "duration": 956,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Keyword Research",
+      "lectures": [
+        {
+          "id": "td-seo-7",
+          "title": "Keyword Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/R2dgabuTKa4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/R2dgabuTKa4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/R2dgabuTKa4/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-8",
+          "title": "type of keywords",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Dhr34sqmN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Dhr34sqmN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Dhr34sqmN/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-9",
+          "title": "Importance of Keyword Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PRcZGYpJBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PRcZGYpJBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PRcZGYpJBr/video.m3u8",
+          "duration": 467,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-10",
+          "title": "How to do Keyword research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "duration": 220,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-11",
+          "title": "Keyword Research  - Google Keyword Planner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFpZxE7Phe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFpZxE7Phe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFpZxE7Phe/video.m3u8",
+          "duration": 1630,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-12",
+          "title": "Keyword Research - AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBJyzk5YHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBJyzk5YHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBJyzk5YHK/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "On-Page SEO",
+      "lectures": [
+        {
+          "id": "td-seo-13",
+          "title": "On Page importance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/985pDzdHhqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/985pDzdHhqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/985pDzdHhqf/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-14",
+          "title": "What is META tags_ Meta Tags Preview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UFAzZJHF28/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UFAzZJHF28/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UFAzZJHF28/video.m3u8",
+          "duration": 1856,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-15",
+          "title": "How to write effective meta title_ How to write convincing meta description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM54anxf5TT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM54anxf5TT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM54anxf5TT/video.m3u8",
+          "duration": 373,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-16",
+          "title": "Introduction to URL Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mFPCyaAxZG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mFPCyaAxZG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mFPCyaAxZG/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-17",
+          "title": "Types of URL Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76zchhEb774/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76zchhEb774/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76zchhEb774/video.m3u8",
+          "duration": 729,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-18",
+          "title": "What is W3c Validator & its uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYxyj49Txu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYxyj49Txu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYxyj49Txu/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-19",
+          "title": "Header Tags ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MT8s287FeT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MT8s287FeT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MT8s287FeT/video.m3u8",
+          "duration": 1195,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-20",
+          "title": "Image and Alt Tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFMCSGFzNt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFMCSGFzNt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFMCSGFzNt/video.m3u8",
+          "duration": 958,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-21",
+          "title": "Internal Linking in SEO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N7Xx7KxRKx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N7Xx7KxRKx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N7Xx7KxRKx/video.m3u8",
+          "duration": 1081,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-22",
+          "title": "Website Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YrDe65sZQ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YrDe65sZQ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YrDe65sZQ4/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-23",
+          "title": "Content Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frFRxBsZp9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frFRxBsZp9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frFRxBsZp9/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-24",
+          "title": "panda algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fhm92RUtME/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fhm92RUtME/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fhm92RUtME/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "On Page Analysis by AI ",
+      "lectures": [
+        {
+          "id": "td-seo-25",
+          "title": "On Page Analysis by AI ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rSc72SF2D7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rSc72SF2D7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rSc72SF2D7/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Technical SEO",
+      "lectures": [
+        {
+          "id": "td-seo-26",
+          "title": "What is technical seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/haCmdQxPAeg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/haCmdQxPAeg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/haCmdQxPAeg/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-27",
+          "title": "What is Broken Links",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qGg6AJ6azD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qGg6AJ6azD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qGg6AJ6azD/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-28",
+          "title": "Robots.txt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enrCsfFdnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enrCsfFdnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enrCsfFdnJ/video.m3u8",
+          "duration": 1329,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-29",
+          "title": "Canonical issue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDdXbDBBu4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDdXbDBBu4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDdXbDBBu4/video.m3u8",
+          "duration": 1330,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-30",
+          "title": "What is Sitemap (Sitemap.xml and sitemap)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADFFNFK5xJF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADFFNFK5xJF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADFFNFK5xJF/video.m3u8",
+          "duration": 1999,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-31",
+          "title": "Website Speed Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYmrAGgcZc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYmrAGgcZc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYmrAGgcZc/video.m3u8",
+          "duration": 1988,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SEO Analysis Tool",
+      "lectures": [
+        {
+          "id": "td-seo-32",
+          "title": "On page Analysis Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UKCashU2kt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UKCashU2kt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UKCashU2kt/video.m3u8",
+          "duration": 3503,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Off-Page SEO",
+      "lectures": [
+        {
+          "id": "td-seo-33",
+          "title": "What is Off Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Amk6uMr58rr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Amk6uMr58rr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Amk6uMr58rr/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-34",
+          "title": "What is Backlinks & its types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c4g8s5XUzf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c4g8s5XUzf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c4g8s5XUzf/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-35",
+          "title": "Backlinks Quality factors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hBjNGqrh6M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hBjNGqrh6M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hBjNGqrh6M/video.m3u8",
+          "duration": 1639,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-36",
+          "title": "Off Page Submission Activities",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TdaATFBSmgu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TdaATFBSmgu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TdaATFBSmgu/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-37",
+          "title": "Blog Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nqQTn5aNCG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nqQTn5aNCG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nqQTn5aNCG/video.m3u8",
+          "duration": 1889,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-38",
+          "title": "Article Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdmFKp5mzzX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdmFKp5mzzX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdmFKp5mzzX/video.m3u8",
+          "duration": 1658,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-39",
+          "title": "Classified Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cPsTebRcnE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cPsTebRcnE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cPsTebRcnE/video.m3u8",
+          "duration": 1451,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-40",
+          "title": "QA Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JHcNDBgbPZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JHcNDBgbPZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JHcNDBgbPZ/video.m3u8",
+          "duration": 1100,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-41",
+          "title": "PR Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kuk5scmzCT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kuk5scmzCT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kuk5scmzCT/video.m3u8",
+          "duration": 1160,
+          "type": "video"
+        },
+        {
+          "id": "td-seo-42",
+          "title": "Infographic Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sZ8mFZpHyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sZ8mFZpHyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sZ8mFZpHyf/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-seo-9",
+          "title": "Assignment SEO",
+          "url": "https://docs.google.com/document/d/1MFmMlNFQViiwE5EOijohe1TlEEG-42Z3/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1MFmMlNFQViiwE5EOijohe1TlEEG-42Z3/edit",
+          "playerUrl": "https://docs.google.com/document/d/1MFmMlNFQViiwE5EOijohe1TlEEG-42Z3/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1MFmMlNFQViiwE5EOijohe1TlEEG-42Z3/edit",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

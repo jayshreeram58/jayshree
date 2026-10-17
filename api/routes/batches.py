@@ -15,6 +15,11 @@ from services.selection_way_service import (
     format_selection_batch_for_platform,
     is_selection_way_batch
 )
+from services.tutedude_service import (
+    fetch_batch_data as fetch_tutedude_batch_data,
+    format_tutedude_batch_for_platform,
+    is_tutedude_batch
+)
 
 router = APIRouter(prefix="/batches", tags=["Batches"])
 
@@ -37,6 +42,14 @@ async def get_batch_hierarchy(batch_id_or_slug: str, db: AsyncSession = Depends(
         apna_data = await fetch_apna_batch_data(batch_id_or_slug)
         if apna_data:
             return format_apna_batch_for_platform(apna_data)
+    except Exception as e:
+        pass
+
+    # 3. Fast path for TuteDude batches
+    try:
+        tutedude_data = await fetch_tutedude_batch_data(batch_id_or_slug)
+        if tutedude_data:
+            return format_tutedude_batch_for_platform(tutedude_data)
     except Exception as e:
         pass
     stmt = (

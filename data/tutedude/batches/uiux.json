@@ -1,0 +1,1133 @@
+{
+  "platform": "TuteDude",
+  "batchId": "uiux",
+  "batchSlug": "uiux",
+  "batchName": "UI/UX",
+  "thumbnail": "https://www.tutedude.com/assets/avif/uiux.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/uiux",
+  "totalSections": 25,
+  "totalLectures": 97,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "design",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Tutedude Virtual Campus",
+      "lectures": [
+        {
+          "id": "td-uiux-1",
+          "title": "Tutedude Virtual Campus",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "duration": 221,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Demystifying UX Design",
+      "lectures": [
+        {
+          "id": "td-uiux-2",
+          "title": "What is UX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bAhqSC9PBub/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bAhqSC9PBub/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bAhqSC9PBub/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-3",
+          "title": "Key Principles of UX Design - Laws of UX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yGqgfdMeCmF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yGqgfdMeCmF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yGqgfdMeCmF/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-4",
+          "title": "Roles of UX Designer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyzmA9Y3Yj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyzmA9Y3Yj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyzmA9Y3Yj/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "The UX Problem-Solver's Toolkit",
+      "lectures": [
+        {
+          "id": "td-uiux-5",
+          "title": "Design Thinking (DD Method)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7JfYtdjcK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7JfYtdjcK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7JfYtdjcK/video.m3u8",
+          "duration": 1156,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-6",
+          "title": "Problem Identification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azFjMk7MdF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azFjMk7MdF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azFjMk7MdF/video.m3u8",
+          "duration": 1965,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-7",
+          "title": "Problem Statement Breakdown",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XHqRbsUbCT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XHqRbsUbCT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XHqRbsUbCT/video.m3u8",
+          "duration": 1070,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Walking in the Users Shoes",
+      "lectures": [
+        {
+          "id": "td-uiux-8",
+          "title": "What is User Research and Fundamentals of it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yGx8Hmh5Pb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yGx8Hmh5Pb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yGx8Hmh5Pb/video.m3u8",
+          "duration": 735,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-9",
+          "title": "Methods of User Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MDkhn4xnu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MDkhn4xnu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MDkhn4xnu9/video.m3u8",
+          "duration": 634,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-10",
+          "title": "Which UX Method to use ..When?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Sgp5z9QURC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Sgp5z9QURC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Sgp5z9QURC/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-11",
+          "title": "User Surveys",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P2gG44S6QS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P2gG44S6QS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P2gG44S6QS/video.m3u8",
+          "duration": 922,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-12",
+          "title": "User Interview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uTM7m8tadyx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uTM7m8tadyx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uTM7m8tadyx/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "The UX Analysts Approach",
+      "lectures": [
+        {
+          "id": "td-uiux-13",
+          "title": "Competitive Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CquqhEPFBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CquqhEPFBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CquqhEPFBK/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-14",
+          "title": "Market Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F4xZNz62sk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F4xZNz62sk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F4xZNz62sk/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-15",
+          "title": "Usability Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mpSqKbKjjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mpSqKbKjjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mpSqKbKjjU/video.m3u8",
+          "duration": 564,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-16",
+          "title": "Notetaking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKzySPx7U38/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKzySPx7U38/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKzySPx7U38/video.m3u8",
+          "duration": 143,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ideation for Exceptional Experiences",
+      "lectures": [
+        {
+          "id": "td-uiux-17",
+          "title": "What is a Design Strategy and how to create one",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMDBS6pfrus/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMDBS6pfrus/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMDBS6pfrus/video.m3u8",
+          "duration": 1451,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-18",
+          "title": "Ideation Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yUnMb2r4ah/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yUnMb2r4ah/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yUnMb2r4ah/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-19",
+          "title": "Userflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BejsjEaeSXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BejsjEaeSXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BejsjEaeSXm/video.m3u8",
+          "duration": 1354,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-20",
+          "title": "Information Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMjQZFDKXD9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMjQZFDKXD9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMjQZFDKXD9/video.m3u8",
+          "duration": 1247,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-uiux-7",
+          "title": "Assignment 1: Userflows",
+          "url": "https://docs.google.com/document/d/17d9UDM5JZndr_fEAxRI4BZt0iw70Lz326qm6G8pctP4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/17d9UDM5JZndr_fEAxRI4BZt0iw70Lz326qm6G8pctP4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/17d9UDM5JZndr_fEAxRI4BZt0iw70Lz326qm6G8pctP4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/17d9UDM5JZndr_fEAxRI4BZt0iw70Lz326qm6G8pctP4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-8",
+          "title": "Assignment 2: Sketching",
+          "url": "https://docs.google.com/document/d/1PEb7DnvTNKfnc114_3u0nD8adJkaKg5XWapgxSO5QSQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1PEb7DnvTNKfnc114_3u0nD8adJkaKg5XWapgxSO5QSQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1PEb7DnvTNKfnc114_3u0nD8adJkaKg5XWapgxSO5QSQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1PEb7DnvTNKfnc114_3u0nD8adJkaKg5XWapgxSO5QSQ/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-9",
+          "title": "Assignment 3: Sitemap",
+          "url": "https://docs.google.com/document/d/14T6v1cMeoAtSFq3zwtk85wrFkWH43dpmDDePyS3w674/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/14T6v1cMeoAtSFq3zwtk85wrFkWH43dpmDDePyS3w674/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/14T6v1cMeoAtSFq3zwtk85wrFkWH43dpmDDePyS3w674/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/14T6v1cMeoAtSFq3zwtk85wrFkWH43dpmDDePyS3w674/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Validating Design Decisions",
+      "lectures": [
+        {
+          "id": "td-uiux-21",
+          "title": "Usability Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CYa5BQE5gB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CYa5BQE5gB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CYa5BQE5gB/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-22",
+          "title": "AB Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Crysyx6s6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Crysyx6s6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Crysyx6s6A/video.m3u8",
+          "duration": 710,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mastering User Interface Design",
+      "lectures": [
+        {
+          "id": "td-uiux-23",
+          "title": "What is User Interface Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APYQY9JmzDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APYQY9JmzDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APYQY9JmzDh/video.m3u8",
+          "duration": 721,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-24",
+          "title": "Principles of UI Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtDFKamsf78/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtDFKamsf78/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtDFKamsf78/video.m3u8",
+          "duration": 979,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-25",
+          "title": "Color Theory for UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3dZGqJ9jZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3dZGqJ9jZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3dZGqJ9jZ/video.m3u8",
+          "duration": 1236,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-26",
+          "title": "Typography",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X996QDQY5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X996QDQY5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X996QDQY5B/video.m3u8",
+          "duration": 763,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-27",
+          "title": "Spacing and Grids",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43PUmaPABz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43PUmaPABz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43PUmaPABz7/video.m3u8",
+          "duration": 1479,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-28",
+          "title": "Wireframing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZxrpQyeS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZxrpQyeS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZxrpQyeS/video.m3u8",
+          "duration": 768,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-29",
+          "title": "UI Patterns and Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QurdmtudtT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QurdmtudtT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QurdmtudtT/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-30",
+          "title": "Interaction Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N2Ccyptmqk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N2Ccyptmqk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N2Ccyptmqk/video.m3u8",
+          "duration": 741,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intro to Figma",
+      "lectures": [
+        {
+          "id": "td-uiux-31",
+          "title": "Figma Essentials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34sfGuRTU3K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34sfGuRTU3K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34sfGuRTU3K/video.m3u8",
+          "duration": 3539,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-32",
+          "title": "Designing a simple login flow on Figma",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XQ7ycAr7zY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XQ7ycAr7zY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XQ7ycAr7zY/video.m3u8",
+          "duration": 979,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-33",
+          "title": "Designing a simple hero section on Figma",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FzGTA9eRUN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FzGTA9eRUN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FzGTA9eRUN/video.m3u8",
+          "duration": 976,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Figma",
+      "lectures": [
+        {
+          "id": "td-uiux-34",
+          "title": "Autolayout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QRmaJTA5ng/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QRmaJTA5ng/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QRmaJTA5ng/video.m3u8",
+          "duration": 3551,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-35",
+          "title": "Mastering UI Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUed4e9SQK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUed4e9SQK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUed4e9SQK/video.m3u8",
+          "duration": 2494,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-36",
+          "title": "Micro-Interactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BARAkdXaC3x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BARAkdXaC3x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BARAkdXaC3x/video.m3u8",
+          "duration": 2951,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-37",
+          "title": "Responsive Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NX53ySsQ4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NX53ySsQ4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NX53ySsQ4E/video.m3u8",
+          "duration": 2716,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-uiux-14",
+          "title": "Assignment 4: Intro to figma",
+          "url": "https://docs.google.com/document/d/1r0p3uiXfb8thAYZ68N7XoB7rYok5j2ieZgS1zcYUlG4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1r0p3uiXfb8thAYZ68N7XoB7rYok5j2ieZgS1zcYUlG4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1r0p3uiXfb8thAYZ68N7XoB7rYok5j2ieZgS1zcYUlG4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1r0p3uiXfb8thAYZ68N7XoB7rYok5j2ieZgS1zcYUlG4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-15",
+          "title": "Assignment 5: Low Fidelity",
+          "url": "https://docs.google.com/document/d/18P3XICCqlS784uiyD9lPndxxRXtwbzqIBbZQI3wrQpY/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/18P3XICCqlS784uiyD9lPndxxRXtwbzqIBbZQI3wrQpY/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/18P3XICCqlS784uiyD9lPndxxRXtwbzqIBbZQI3wrQpY/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/18P3XICCqlS784uiyD9lPndxxRXtwbzqIBbZQI3wrQpY/edit?tab=t.0",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-16",
+          "title": "Assignment 6: Spacing Grids",
+          "url": "https://docs.google.com/document/d/1geFQ6DNiJto8q2ff66kNqtr6jeH-Ej2G6hf_-HQHcag/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1geFQ6DNiJto8q2ff66kNqtr6jeH-Ej2G6hf_-HQHcag/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1geFQ6DNiJto8q2ff66kNqtr6jeH-Ej2G6hf_-HQHcag/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1geFQ6DNiJto8q2ff66kNqtr6jeH-Ej2G6hf_-HQHcag/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Cool stuff",
+      "lectures": [
+        {
+          "id": "td-uiux-38",
+          "title": "Design for smart watch and Smart TV",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eKgsf2gB56/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eKgsf2gB56/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eKgsf2gB56/video.m3u8",
+          "duration": 2354,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-39",
+          "title": "How to design Normal Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQHmGz2hzEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQHmGz2hzEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQHmGz2hzEp/video.m3u8",
+          "duration": 3711,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-40",
+          "title": "How to design Apps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zQ5tcq7zeeB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zQ5tcq7zeeB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zQ5tcq7zeeB/video.m3u8",
+          "duration": 151,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design System",
+      "lectures": [
+        {
+          "id": "td-uiux-41",
+          "title": "What is a Design System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5T8c3G85Zyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5T8c3G85Zyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5T8c3G85Zyf/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-42",
+          "title": "Showcasing Other Brands Design Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67sEm7SKFtp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67sEm7SKFtp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67sEm7SKFtp/video.m3u8",
+          "duration": 970,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-43",
+          "title": "Creating Your Own Design System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EdRuNy5qDF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EdRuNy5qDF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EdRuNy5qDF/video.m3u8",
+          "duration": 5788,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-44",
+          "title": "Documenting the Design System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9qE87xuUqn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9qE87xuUqn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9qE87xuUqn/video.m3u8",
+          "duration": 1664,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-uiux-19",
+          "title": "Assignment 7: Typography",
+          "url": "https://docs.google.com/document/d/1wAxDp-BV8rRaOs9j2KbPFXYkzwdyzxGrnpGlHAunNc4/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1wAxDp-BV8rRaOs9j2KbPFXYkzwdyzxGrnpGlHAunNc4/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1wAxDp-BV8rRaOs9j2KbPFXYkzwdyzxGrnpGlHAunNc4/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1wAxDp-BV8rRaOs9j2KbPFXYkzwdyzxGrnpGlHAunNc4/edit?tab=t.0",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-20",
+          "title": "Assignment 8: Colors",
+          "url": "https://docs.google.com/document/d/1xcnbHKRWFgMi1t-h-MLCSaA13xW811P9Avs6eYurHhk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1xcnbHKRWFgMi1t-h-MLCSaA13xW811P9Avs6eYurHhk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1xcnbHKRWFgMi1t-h-MLCSaA13xW811P9Avs6eYurHhk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1xcnbHKRWFgMi1t-h-MLCSaA13xW811P9Avs6eYurHhk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uiux-21",
+          "title": "Assignment 9: High Fidelity Design",
+          "url": "https://docs.google.com/document/d/1Ib9Et37F7mW4WIN63_zn4xkR7uUQMYJL7vjBq-3MN5Y/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Ib9Et37F7mW4WIN63_zn4xkR7uUQMYJL7vjBq-3MN5Y/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Ib9Et37F7mW4WIN63_zn4xkR7uUQMYJL7vjBq-3MN5Y/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Ib9Et37F7mW4WIN63_zn4xkR7uUQMYJL7vjBq-3MN5Y/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Developer Handoff",
+      "lectures": [
+        {
+          "id": "td-uiux-45",
+          "title": "What is a Developer Handoff",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFf6m4TqXb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFf6m4TqXb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFf6m4TqXb/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-46",
+          "title": "Designing a simple dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BNQd2FCz5x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BNQd2FCz5x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BNQd2FCz5x/video.m3u8",
+          "duration": 1574,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Portfolio Creation",
+      "lectures": [
+        {
+          "id": "td-uiux-47",
+          "title": "Portfolio Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGCMFkCK63/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGCMFkCK63/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGCMFkCK63/video.m3u8",
+          "duration": 464,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-48",
+          "title": "Case studies and job application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgMBAs8t4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgMBAs8t4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgMBAs8t4E/video.m3u8",
+          "duration": 1400,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design and Ideation using ChatGPT",
+      "lectures": [
+        {
+          "id": "td-uiux-49",
+          "title": "Finding Design Ideas using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SQg7kecCnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SQg7kecCnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SQg7kecCnC/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-50",
+          "title": "Creating a User Flow for a Real-World Use Case with ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BunaRdpZX6H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BunaRdpZX6H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BunaRdpZX6H/video.m3u8",
+          "duration": 682,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-51",
+          "title": "Creating a Sitemap for a Real-World Use Case with ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5caZfG3HbEJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5caZfG3HbEJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5caZfG3HbEJ/video.m3u8",
+          "duration": 440,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "User Research and Analysis Using ChatGPT",
+      "lectures": [
+        {
+          "id": "td-uiux-52",
+          "title": "User Surveys using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shbYNz4zSB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shbYNz4zSB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shbYNz4zSB/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-53",
+          "title": "User Interviews using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KT9xTXB4ZP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KT9xTXB4ZP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KT9xTXB4ZP/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-54",
+          "title": "User Persona using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qqSsdCtGhd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qqSsdCtGhd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qqSsdCtGhd/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-55",
+          "title": "User Journey Mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4aPGnspUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4aPGnspUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4aPGnspUc/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-56",
+          "title": "Empathy Mapping using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pKfBz3qT4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pKfBz3qT4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pKfBz3qT4/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI:UX Writing",
+      "lectures": [
+        {
+          "id": "td-uiux-57",
+          "title": "UX Writing using ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SacTRCF2Qe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SacTRCF2Qe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SacTRCF2Qe/video.m3u8",
+          "duration": 659,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-uiux-27",
+          "title": "Assignment 10: Case Study",
+          "url": "https://docs.google.com/document/d/1YHwkOdJ00qaYvAEw9RD6SQ-K9O0JbYcHuJtthXjEEA8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1YHwkOdJ00qaYvAEw9RD6SQ-K9O0JbYcHuJtthXjEEA8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1YHwkOdJ00qaYvAEw9RD6SQ-K9O0JbYcHuJtthXjEEA8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1YHwkOdJ00qaYvAEw9RD6SQ-K9O0JbYcHuJtthXjEEA8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Case Study, Resume and Portfolio",
+      "lectures": [
+        {
+          "id": "td-uiux-58",
+          "title": "Introduction to Project Sourcing & Frameworks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3srnDX3bM6E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3srnDX3bM6E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3srnDX3bM6E/video.m3u8",
+          "duration": 1537,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-59",
+          "title": "Strategies for Discovering High-Value Projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69cPYj7GfY4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69cPYj7GfY4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69cPYj7GfY4/video.m3u8",
+          "duration": 1398,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-60",
+          "title": "Project Execution & Core Case Study Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E7EkAgq2xc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E7EkAgq2xc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E7EkAgq2xc/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-61",
+          "title": "Ideal case study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQMjJMM8MT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQMjJMM8MT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQMjJMM8MT/video.m3u8",
+          "duration": 2018,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-62",
+          "title": "Resume Mastery: Structural Foundations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c9YPbe22RS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c9YPbe22RS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c9YPbe22RS/video.m3u8",
+          "duration": 828,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-63",
+          "title": "Formatting Your Resume (Top Section)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NMpsq7ZZ3y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NMpsq7ZZ3y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NMpsq7ZZ3y/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-64",
+          "title": "Crafting Impactful Content for Core Resume Sections",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7pftNGb7c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7pftNGb7c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7pftNGb7c/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-65",
+          "title": "The Ultimate Pre-Submission Resume Checklist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A24GK79JyGn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A24GK79JyGn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A24GK79JyGn/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-66",
+          "title": "Crucial Portfolio Mistakes to Avoid: Layout & Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF9JkgRqZFX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF9JkgRqZFX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF9JkgRqZFX/video.m3u8",
+          "duration": 608,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to crack Interview",
+      "lectures": [
+        {
+          "id": "td-uiux-67",
+          "title": "Optimizing Your LinkedIn Profile for Inbound Leads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3kRxDGJju/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3kRxDGJju/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3kRxDGJju/video.m3u8",
+          "duration": 1703,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-68",
+          "title": "Networking Frameworks: Reaching Out to Professionals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xEuRFJH2zh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xEuRFJH2zh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xEuRFJH2zh/video.m3u8",
+          "duration": 1791,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-69",
+          "title": "Cold Emailing Mastery: Subject Lines to Follow-Ups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74BAsgRnbu8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74BAsgRnbu8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74BAsgRnbu8/video.m3u8",
+          "duration": 1414,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-70",
+          "title": "Benchmarking Your Profile & Job Search Funnel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7eQDZNneu2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7eQDZNneu2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7eQDZNneu2/video.m3u8",
+          "duration": 648,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-71",
+          "title": "Tackling Technical & Practical Take-Home Assignments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6D778tZKXe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6D778tZKXe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6D778tZKXe/video.m3u8",
+          "duration": 2156,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-72",
+          "title": "Identifying Red Flags & Scam Interview Tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5amc88f4xtf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5amc88f4xtf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5amc88f4xtf/video.m3u8",
+          "duration": 1231,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-73",
+          "title": "Nailing the Initial Recruiter Intro Call",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R5cAx3uHps/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R5cAx3uHps/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R5cAx3uHps/video.m3u8",
+          "duration": 1274,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-74",
+          "title": "Deconstructing the Complete Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32KQ8bZN6jU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32KQ8bZN6jU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32KQ8bZN6jU/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-75",
+          "title": "Interviewing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PjECFZURr3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PjECFZURr3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PjECFZURr3/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI for Modern Designers",
+      "lectures": [
+        {
+          "id": "td-uiux-76",
+          "title": "Will-ai-replace-designers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GpkgYSCZX3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GpkgYSCZX3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GpkgYSCZX3/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-77",
+          "title": "Creativity-vs-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pG4M3Fn9Y7E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pG4M3Fn9Y7E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pG4M3Fn9Y7E/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-78",
+          "title": "Why-designers-who-ignore-ai-fall-behind",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gR4h2bCgCgf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gR4h2bCgCgf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gR4h2bCgCgf/video.m3u8",
+          "duration": 466,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-79",
+          "title": "How-top-designers-use-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brg8sNqmPf9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brg8sNqmPf9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brg8sNqmPf9/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design Research & Problem Framing",
+      "lectures": [
+        {
+          "id": "td-uiux-80",
+          "title": "Breaking-down-the-problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar3AfSa487d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar3AfSa487d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar3AfSa487d/video.m3u8",
+          "duration": 2519,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-81",
+          "title": "Secondary-research-and-mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tcs8badP6B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tcs8badP6B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tcs8badP6B/video.m3u8",
+          "duration": 1618,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-82",
+          "title": "Stress-testing-your-thinking-with-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syKB5tqMBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syKB5tqMBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syKB5tqMBr/video.m3u8",
+          "duration": 1760,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-83",
+          "title": "From-insights-to-requirements-and-ai-ready-briefs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeCHbCRqssN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeCHbCRqssN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeCHbCRqssN/video.m3u8",
+          "duration": 1803,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ideation & Concept Development",
+      "lectures": [
+        {
+          "id": "td-uiux-84",
+          "title": "Expanding-the-solution-space",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MANA2ps9fZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MANA2ps9fZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MANA2ps9fZ/video.m3u8",
+          "duration": 1880,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-85",
+          "title": "Structured-idea-generation-techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6raT4mbQzUY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6raT4mbQzUY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6raT4mbQzUY/video.m3u8",
+          "duration": 2294,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-86",
+          "title": "Evaluating-and-strengthening-concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzeH7H54xH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzeH7H54xH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzeH7H54xH/video.m3u8",
+          "duration": 1649,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-87",
+          "title": "Converging-toward-a-strong-direction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pUU728Cb3Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pUU728Cb3Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pUU728Cb3Y/video.m3u8",
+          "duration": 1529,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prototyping, Validation & UX Writing",
+      "lectures": [
+        {
+          "id": "td-uiux-88",
+          "title": "From-ideas-to-interface-products",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Q86qA46gA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Q86qA46gA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Q86qA46gA/video.m3u8",
+          "duration": 708,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-89",
+          "title": "Design-to-working-prototype",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bu69AJtcDhX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bu69AJtcDhX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bu69AJtcDhX/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-90",
+          "title": "Validating-flows-quickly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68ZXr4Xpbny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68ZXr4Xpbny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68ZXr4Xpbny/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-91",
+          "title": "Ux-writing-with-ai-crash-course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9grMA2TcqT7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9grMA2TcqT7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9grMA2TcqT7/video.m3u8",
+          "duration": 4805,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design Review & Optimization",
+      "lectures": [
+        {
+          "id": "td-uiux-92",
+          "title": "Ai-as-design-critic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hSGq6gfp96/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hSGq6gfp96/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hSGq6gfp96/video.m3u8",
+          "duration": 2952,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-93",
+          "title": "Accessibility-and-usability-checks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A37d6YdpqmS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A37d6YdpqmS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A37d6YdpqmS/video.m3u8",
+          "duration": 1274,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-94",
+          "title": "Data-driven-design-decisions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kNBAQdQa4R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kNBAQdQa4R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kNBAQdQa4R/video.m3u8",
+          "duration": 2538,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Portfolio Building & Career Growth",
+      "lectures": [
+        {
+          "id": "td-uiux-95",
+          "title": "Turning-your-work-into-a-casestudy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73FGnynDJ82/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73FGnynDJ82/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73FGnynDJ82/video.m3u8",
+          "duration": 5119,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-96",
+          "title": "Using-ai-to-improve-storytelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kATGSRCq7H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kATGSRCq7H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kATGSRCq7H/video.m3u8",
+          "duration": 1996,
+          "type": "video"
+        },
+        {
+          "id": "td-uiux-97",
+          "title": "Ai-as-your-career-assistant",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kZmpKrcUTP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kZmpKrcUTP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kZmpKrcUTP/video.m3u8",
+          "duration": 1780,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

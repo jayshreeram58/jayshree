@@ -1,0 +1,955 @@
+{
+  "platform": "TuteDude",
+  "batchId": "excel",
+  "batchSlug": "excel",
+  "batchName": "Excel",
+  "thumbnail": "https://www.tutedude.com/assets/avif/excel.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/excel",
+  "totalSections": 15,
+  "totalLectures": 70,
+  "totalNotes": 23,
+  "price": "699.00",
+  "category": "Data Science & Analytics",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-excel-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Ready for Excel – Setup, Workflow & Best Practices",
+      "lectures": [
+        {
+          "id": "td-excel-2",
+          "title": "Excel in Workplace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRqRgkes8t2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRqRgkes8t2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRqRgkes8t2/video.m3u8",
+          "duration": 1281,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-3",
+          "title": "Excel Interface and Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jRdNk2kGeT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jRdNk2kGeT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jRdNk2kGeT/video.m3u8",
+          "duration": 1643,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-4",
+          "title": "Excel Interface and Navigation with AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyUDNxK5xjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyUDNxK5xjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyUDNxK5xjU/video.m3u8",
+          "duration": 1978,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-5",
+          "title": "Data Entry & Basic formattting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MrAnpbkXrnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MrAnpbkXrnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MrAnpbkXrnJ/video.m3u8",
+          "duration": 2417,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-6",
+          "title": "Edit sheet, rows and columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78aFs4SRsb6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78aFs4SRsb6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78aFs4SRsb6/video.m3u8",
+          "duration": 1983,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-7",
+          "title": "Assignment: Excel Setup & Readiness Check",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Tj8ejbd2Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Tj8ejbd2Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Tj8ejbd2Q/video.m3u8",
+          "duration": 2089,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-3",
+          "title": "Fundamentals & Setup",
+          "url": "https://docs.google.com/document/d/1bU3RceyVNC7j4LagyhoMSD1VTRwVEDf3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1bU3RceyVNC7j4LagyhoMSD1VTRwVEDf3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1bU3RceyVNC7j4LagyhoMSD1VTRwVEDf3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1bU3RceyVNC7j4LagyhoMSD1VTRwVEDf3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Essential Formulas",
+      "lectures": [
+        {
+          "id": "td-excel-8",
+          "title": "Sum Function(Detailed)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GQaNZuxtyz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GQaNZuxtyz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GQaNZuxtyz/video.m3u8",
+          "duration": 1575,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-9",
+          "title": "Average Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5tPRTm42b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5tPRTm42b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5tPRTm42b/video.m3u8",
+          "duration": 1915,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-10",
+          "title": "Min and Max Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XgJRefnHjk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XgJRefnHjk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XgJRefnHjk/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-11",
+          "title": "COUNT Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63h7eFhsGGs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63h7eFhsGGs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63h7eFhsGGs/video.m3u8",
+          "duration": 1242,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-12",
+          "title": "COUNTA & COUNTIF Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66tm4FT5snH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66tm4FT5snH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66tm4FT5snH/video.m3u8",
+          "duration": 1207,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-13",
+          "title": "COUNTIFS Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TbqAPgKbED/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TbqAPgKbED/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TbqAPgKbED/video.m3u8",
+          "duration": 1324,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-14",
+          "title": "SUMIF Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DrPc8p8qn4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DrPc8p8qn4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DrPc8p8qn4/video.m3u8",
+          "duration": 1511,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-15",
+          "title": "SUMIFS Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STZEXgfhnX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STZEXgfhnX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STZEXgfhnX/video.m3u8",
+          "duration": 1383,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-16",
+          "title": "AVERAGEIF & AVERAGEIFS Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37qRnkM8HQp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37qRnkM8HQp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37qRnkM8HQp/video.m3u8",
+          "duration": 1418,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Handling",
+      "lectures": [
+        {
+          "id": "td-excel-17",
+          "title": "Excel Smart Selection & Paste Special",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9mJSk5nHzu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9mJSk5nHzu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9mJSk5nHzu/video.m3u8",
+          "duration": 1769,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-18",
+          "title": "Fill Handle, Flash Fill & Auto Fill",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJU7ygty36G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJU7ygty36G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJU7ygty36G/video.m3u8",
+          "duration": 854,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-19",
+          "title": "Excel Cell/Row Management & Go To Special",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSqdgr6Xq8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSqdgr6Xq8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSqdgr6Xq8/video.m3u8",
+          "duration": 3057,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-20",
+          "title": "Cell & Range Concepts Revisited with AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mHtm9eYBtd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mHtm9eYBtd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mHtm9eYBtd/video.m3u8",
+          "duration": 3067,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-21",
+          "title": "Assignment: Cell & Range Practice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nBrPrZ9TAr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nBrPrZ9TAr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nBrPrZ9TAr/video.m3u8",
+          "duration": 3018,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-6",
+          "title": "Evaluation Assignment (Cell & Data Handling)",
+          "url": "http://docs.google.com/document/d/1EL7kdXO4s3QvTpPvMgm6CWka2ARtez3u/edit",
+          "pdfUrl": "http://docs.google.com/document/d/1EL7kdXO4s3QvTpPvMgm6CWka2ARtez3u/edit",
+          "playerUrl": "http://docs.google.com/document/d/1EL7kdXO4s3QvTpPvMgm6CWka2ARtez3u/edit",
+          "downloadUrl": "http://docs.google.com/document/d/1EL7kdXO4s3QvTpPvMgm6CWka2ARtez3u/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-7",
+          "title": "Theory Assignment (Cell & Data Handling",
+          "url": "https://docs.google.com/document/d/1Gabbeq-PFXbwSSX7WdRC3Bo07_NaQe3D/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1Gabbeq-PFXbwSSX7WdRC3Bo07_NaQe3D/edit",
+          "playerUrl": "https://docs.google.com/document/d/1Gabbeq-PFXbwSSX7WdRC3Bo07_NaQe3D/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1Gabbeq-PFXbwSSX7WdRC3Bo07_NaQe3D/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Cleaning & Preparation",
+      "lectures": [
+        {
+          "id": "td-excel-22",
+          "title": "Text cleaning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m8Tp9rnKCK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m8Tp9rnKCK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m8Tp9rnKCK/video.m3u8",
+          "duration": 3027,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-23",
+          "title": "Find & Replace with Wildcards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jmBk7z39PH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jmBk7z39PH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jmBk7z39PH/video.m3u8",
+          "duration": 2781,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-24",
+          "title": "Handling Missing & Error Values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeyteDTryK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeyteDTryK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeyteDTryK/video.m3u8",
+          "duration": 1942,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-25",
+          "title": "Data Validation & Controlled Inputs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nEzaAnun7K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nEzaAnun7K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nEzaAnun7K/video.m3u8",
+          "duration": 3279,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-26",
+          "title": "Excel Data Cleaning using AI-Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gsQ925GhtdJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gsQ925GhtdJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gsQ925GhtdJ/video.m3u8",
+          "duration": 2208,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-27",
+          "title": "Excel Data Cleaning using AI-Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQrQfMd2TP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQrQfMd2TP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQrQfMd2TP/video.m3u8",
+          "duration": 1562,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-28",
+          "title": "Cleaning a Messy Sales Dataset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m65XS4yeCH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m65XS4yeCH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m65XS4yeCH/video.m3u8",
+          "duration": 3352,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-9",
+          "title": "Evaluation Assignment (Data Cleaning & Preparation",
+          "url": "https://docs.google.com/document/d/1GWp_0BivaP5KZcYFEMAsuUSOK3RRelvd/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1GWp_0BivaP5KZcYFEMAsuUSOK3RRelvd/edit",
+          "playerUrl": "https://docs.google.com/document/d/1GWp_0BivaP5KZcYFEMAsuUSOK3RRelvd/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1GWp_0BivaP5KZcYFEMAsuUSOK3RRelvd/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-10",
+          "title": "Theory Assignment (Data Cleaning & Preparation",
+          "url": "https://docs.google.com/document/d/1Y47wiGq8xCHGDb56mRhbUA6A2gwQnCRS/edit#heading=h.oijxep2z4y20",
+          "pdfUrl": "https://docs.google.com/document/d/1Y47wiGq8xCHGDb56mRhbUA6A2gwQnCRS/edit#heading=h.oijxep2z4y20",
+          "playerUrl": "https://docs.google.com/document/d/1Y47wiGq8xCHGDb56mRhbUA6A2gwQnCRS/edit#heading=h.oijxep2z4y20",
+          "downloadUrl": "https://docs.google.com/document/d/1Y47wiGq8xCHGDb56mRhbUA6A2gwQnCRS/edit#heading=h.oijxep2z4y20",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Logical & Lookup Functions",
+      "lectures": [
+        {
+          "id": "td-excel-29",
+          "title": "Logical Function-Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BmJkykEfrM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BmJkykEfrM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BmJkykEfrM/video.m3u8",
+          "duration": 3328,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-30",
+          "title": "Lookup Functions and its Limitations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XJUpxSJc3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XJUpxSJc3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XJUpxSJc3z/video.m3u8",
+          "duration": 3211,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-31",
+          "title": "Xlookup and Index+Match",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e22s3kAfJd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e22s3kAfJd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e22s3kAfJd/video.m3u8",
+          "duration": 2416,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-32",
+          "title": "Dynamic Lookup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zApqY8BAT6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zApqY8BAT6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zApqY8BAT6/video.m3u8",
+          "duration": 2551,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-33",
+          "title": "Lookup Logic using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DbGU4u3ZRh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DbGU4u3ZRh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DbGU4u3ZRh/video.m3u8",
+          "duration": 2838,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-34",
+          "title": "Banking Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c3yFYC3HFx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c3yFYC3HFx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c3yFYC3HFx/video.m3u8",
+          "duration": 2774,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-35",
+          "title": "Logical Funtions-Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yF52UZDbuY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yF52UZDbuY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yF52UZDbuY/video.m3u8",
+          "duration": 1368,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-12",
+          "title": " Evaluation Assignment (Excel Functions & Formula Intelligence)",
+          "url": "https://docs.google.com/document/d/1W9F_qdw8BE4gmjaTqHbbWRoTTKEk-7cF/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1W9F_qdw8BE4gmjaTqHbbWRoTTKEk-7cF/edit",
+          "playerUrl": "https://docs.google.com/document/d/1W9F_qdw8BE4gmjaTqHbbWRoTTKEk-7cF/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1W9F_qdw8BE4gmjaTqHbbWRoTTKEk-7cF/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-13",
+          "title": "Theory Assignment (Excel Functions & Formula Intelligence)",
+          "url": "https://docs.google.com/document/d/1KJDLT-IcEqDoBCG8opbwN74VLmCOTDij/edit#heading=h.5c7uknc14hre",
+          "pdfUrl": "https://docs.google.com/document/d/1KJDLT-IcEqDoBCG8opbwN74VLmCOTDij/edit#heading=h.5c7uknc14hre",
+          "playerUrl": "https://docs.google.com/document/d/1KJDLT-IcEqDoBCG8opbwN74VLmCOTDij/edit#heading=h.5c7uknc14hre",
+          "downloadUrl": "https://docs.google.com/document/d/1KJDLT-IcEqDoBCG8opbwN74VLmCOTDij/edit#heading=h.5c7uknc14hre",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Date, Time & Text Intelligence",
+      "lectures": [
+        {
+          "id": "td-excel-36",
+          "title": "Date Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H8kAjma48D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H8kAjma48D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H8kAjma48D/video.m3u8",
+          "duration": 2542,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-37",
+          "title": "Advanced Text Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S8HmZXdBhb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S8HmZXdBhb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S8HmZXdBhb/video.m3u8",
+          "duration": 2724,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-38",
+          "title": "Dynamic Array Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86UqHUjCq22/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86UqHUjCq22/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86UqHUjCq22/video.m3u8",
+          "duration": 3281,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-39",
+          "title": "Date, Text & Dynamic Formula Automation using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DBZyh4M8HY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DBZyh4M8HY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DBZyh4M8HY/video.m3u8",
+          "duration": 2653,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-40",
+          "title": "Monthly & Fiscal Regional Performance Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KAtMdZG5fS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KAtMdZG5fS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KAtMdZG5fS/video.m3u8",
+          "duration": 2891,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-15",
+          "title": " Evaluation Assignment (Date, Time & Text Intelligence)",
+          "url": "https://docs.google.com/document/d/1ZZb-HtUjdjfahZzGt--xWzdY_WGxR1wk/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1ZZb-HtUjdjfahZzGt--xWzdY_WGxR1wk/edit",
+          "playerUrl": "https://docs.google.com/document/d/1ZZb-HtUjdjfahZzGt--xWzdY_WGxR1wk/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1ZZb-HtUjdjfahZzGt--xWzdY_WGxR1wk/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-16",
+          "title": "Theory Assignment (Date, Time & Text Intelligence)",
+          "url": "https://docs.google.com/document/d/1j5yy8bkljqZlX80cW1bRBOeXIDHuog_8/edit#heading=h.r1k98lwlrel4",
+          "pdfUrl": "https://docs.google.com/document/d/1j5yy8bkljqZlX80cW1bRBOeXIDHuog_8/edit#heading=h.r1k98lwlrel4",
+          "playerUrl": "https://docs.google.com/document/d/1j5yy8bkljqZlX80cW1bRBOeXIDHuog_8/edit#heading=h.r1k98lwlrel4",
+          "downloadUrl": "https://docs.google.com/document/d/1j5yy8bkljqZlX80cW1bRBOeXIDHuog_8/edit#heading=h.r1k98lwlrel4",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pivot Tables & Pivot Charts",
+      "lectures": [
+        {
+          "id": "td-excel-41",
+          "title": "Pivot Table Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f7EpNrM8zDm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f7EpNrM8zDm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f7EpNrM8zDm/video.m3u8",
+          "duration": 2461,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-42",
+          "title": "Advanced Pivot Calculations & Grouping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82M2xZ9b6Mj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82M2xZ9b6Mj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82M2xZ9b6Mj/video.m3u8",
+          "duration": 1782,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-43",
+          "title": "Dashboard using Pivot Charts, Slicers and Timelines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pcXjXkEQca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pcXjXkEQca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pcXjXkEQca/video.m3u8",
+          "duration": 3082,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-44",
+          "title": "Generate Pivot Insights using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dENy9fPMBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dENy9fPMBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dENy9fPMBd/video.m3u8",
+          "duration": 3245,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-45",
+          "title": "Interactive E-commerce Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xxztyDp5dp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xxztyDp5dp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xxztyDp5dp/video.m3u8",
+          "duration": 1778,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-18",
+          "title": "Evaluation Assignment (Pivot Tables, Pivot Charts & Interactive Reporting)",
+          "url": "https://docs.google.com/document/d/1oLI052Bq-PbvkhCaUeC7t2CiwRaFH5kz/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1oLI052Bq-PbvkhCaUeC7t2CiwRaFH5kz/edit",
+          "playerUrl": "https://docs.google.com/document/d/1oLI052Bq-PbvkhCaUeC7t2CiwRaFH5kz/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1oLI052Bq-PbvkhCaUeC7t2CiwRaFH5kz/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-19",
+          "title": "Theory Assignment (Pivot Tables, Pivot Charts & Interactive Reporting)",
+          "url": "https://docs.google.com/document/d/1yqnh54zv89t3cuuhXCPdnes1jFgneUjL/edit#heading=h.kgglz7p1t9im",
+          "pdfUrl": "https://docs.google.com/document/d/1yqnh54zv89t3cuuhXCPdnes1jFgneUjL/edit#heading=h.kgglz7p1t9im",
+          "playerUrl": "https://docs.google.com/document/d/1yqnh54zv89t3cuuhXCPdnes1jFgneUjL/edit#heading=h.kgglz7p1t9im",
+          "downloadUrl": "https://docs.google.com/document/d/1yqnh54zv89t3cuuhXCPdnes1jFgneUjL/edit#heading=h.kgglz7p1t9im",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Dashboards & Data Storytelling",
+      "lectures": [
+        {
+          "id": "td-excel-46",
+          "title": "KPI Design & Advanced Conditional Formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3aesm7Ynz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3aesm7Ynz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3aesm7Ynz/video.m3u8",
+          "duration": 2710,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-47",
+          "title": "Building Dashboards using Slicers & Controls",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jZQerkj9Uj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jZQerkj9Uj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jZQerkj9Uj/video.m3u8",
+          "duration": 2505,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-48",
+          "title": "Improving Dashboard Design & Insights using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87dbskAeRzA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87dbskAeRzA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87dbskAeRzA/video.m3u8",
+          "duration": 2838,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-49",
+          "title": "Executive Healthcare Management Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UMAgNhZtNk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UMAgNhZtNk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UMAgNhZtNk/video.m3u8",
+          "duration": 2479,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-21",
+          "title": " Evaluation Assignment (Dashboards & Data Storytelling)",
+          "url": "https://docs.google.com/document/d/1ws20FsIr73IVX7Tr62n55jd3FhsDTEuY/edit#heading=h.7u59evia9rw4",
+          "pdfUrl": "https://docs.google.com/document/d/1ws20FsIr73IVX7Tr62n55jd3FhsDTEuY/edit#heading=h.7u59evia9rw4",
+          "playerUrl": "https://docs.google.com/document/d/1ws20FsIr73IVX7Tr62n55jd3FhsDTEuY/edit#heading=h.7u59evia9rw4",
+          "downloadUrl": "https://docs.google.com/document/d/1ws20FsIr73IVX7Tr62n55jd3FhsDTEuY/edit#heading=h.7u59evia9rw4",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-22",
+          "title": "Theory Assignment (Dashboards & Data Storytelling)",
+          "url": "https://docs.google.com/document/d/1KyqgZnH68GYXak531koqagGNiH0oYQlk/edit#heading=h.iooyml73uyi3",
+          "pdfUrl": "https://docs.google.com/document/d/1KyqgZnH68GYXak531koqagGNiH0oYQlk/edit#heading=h.iooyml73uyi3",
+          "playerUrl": "https://docs.google.com/document/d/1KyqgZnH68GYXak531koqagGNiH0oYQlk/edit#heading=h.iooyml73uyi3",
+          "downloadUrl": "https://docs.google.com/document/d/1KyqgZnH68GYXak531koqagGNiH0oYQlk/edit#heading=h.iooyml73uyi3",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Power Query & Automation",
+      "lectures": [
+        {
+          "id": "td-excel-50",
+          "title": "Power Query Fundamentals & Data Import",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JyrBrgC9XR7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JyrBrgC9XR7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JyrBrgC9XR7/video.m3u8",
+          "duration": 1811,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-51",
+          "title": "Advanced Data Cleaning & Transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Km72bJXtxg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Km72bJXtxg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Km72bJXtxg/video.m3u8",
+          "duration": 2561,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-52",
+          "title": "Automated & Refreshable Reports - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d5QRTeBfHk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d5QRTeBfHk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d5QRTeBfHk/video.m3u8",
+          "duration": 3340,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-53",
+          "title": "Automated & Refreshable Reports - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As5CcNdHdCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As5CcNdHdCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As5CcNdHdCp/video.m3u8",
+          "duration": 1732,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-54",
+          "title": "Power Query Workflows using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P9cEEUzz4u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P9cEEUzz4u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P9cEEUzz4u/video.m3u8",
+          "duration": 3256,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-55",
+          "title": "End_to_End_Case_Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YpyBrcNFn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YpyBrcNFn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YpyBrcNFn/video.m3u8",
+          "duration": 2352,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-24",
+          "title": "Evaluation Assignment (Power Query & Automation)",
+          "url": "https://docs.google.com/document/d/1gD2iOOtj_4YeynixXTW0BPv6XPQJQCS2/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1gD2iOOtj_4YeynixXTW0BPv6XPQJQCS2/edit",
+          "playerUrl": "https://docs.google.com/document/d/1gD2iOOtj_4YeynixXTW0BPv6XPQJQCS2/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1gD2iOOtj_4YeynixXTW0BPv6XPQJQCS2/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-25",
+          "title": " Theory Assignment (Power Query & Automation)",
+          "url": "https://docs.google.com/document/d/1I1-X44sF3256o7L99ZCR_jHMoLc0n-n9/edit#heading=h.lr0mwjbffwna",
+          "pdfUrl": "https://docs.google.com/document/d/1I1-X44sF3256o7L99ZCR_jHMoLc0n-n9/edit#heading=h.lr0mwjbffwna",
+          "playerUrl": "https://docs.google.com/document/d/1I1-X44sF3256o7L99ZCR_jHMoLc0n-n9/edit#heading=h.lr0mwjbffwna",
+          "downloadUrl": "https://docs.google.com/document/d/1I1-X44sF3256o7L99ZCR_jHMoLc0n-n9/edit#heading=h.lr0mwjbffwna",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Power Pivot, DAX & Data Modeling",
+      "lectures": [
+        {
+          "id": "td-excel-56",
+          "title": "Power Pivot and Relationship Modeling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EYfDmGPKTc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EYfDmGPKTc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EYfDmGPKTc/video.m3u8",
+          "duration": 2721,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-57",
+          "title": "DAX Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYaTNZ4cgY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYaTNZ4cgY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYaTNZ4cgY/video.m3u8",
+          "duration": 2541,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-58",
+          "title": "Understand DAX Measures using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NasRp52D44/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NasRp52D44/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NasRp52D44/video.m3u8",
+          "duration": 2701,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-59",
+          "title": "End-to-End case study using Power Pivot and DAX Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8b5n9Zqz95K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8b5n9Zqz95K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8b5n9Zqz95K/video.m3u8",
+          "duration": 3315,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-27",
+          "title": "Evaluation Assignment (Power Pivot, DAX & Data Modeling)",
+          "url": "https://docs.google.com/document/d/1jXK5PIxV_UpzhVnB8TzaFQOEs4ZL_nJA/edit#heading=h.ffufefqe0tt0",
+          "pdfUrl": "https://docs.google.com/document/d/1jXK5PIxV_UpzhVnB8TzaFQOEs4ZL_nJA/edit#heading=h.ffufefqe0tt0",
+          "playerUrl": "https://docs.google.com/document/d/1jXK5PIxV_UpzhVnB8TzaFQOEs4ZL_nJA/edit#heading=h.ffufefqe0tt0",
+          "downloadUrl": "https://docs.google.com/document/d/1jXK5PIxV_UpzhVnB8TzaFQOEs4ZL_nJA/edit#heading=h.ffufefqe0tt0",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-28",
+          "title": "Theory Assignment (Power Pivot, DAX & Data Modeling)",
+          "url": "https://docs.google.com/document/d/1J08A6Zcu6ma1gtkamDr1N7wdkrz2yKVu/edit#heading=h.44w6d8hsrcxd",
+          "pdfUrl": "https://docs.google.com/document/d/1J08A6Zcu6ma1gtkamDr1N7wdkrz2yKVu/edit#heading=h.44w6d8hsrcxd",
+          "playerUrl": "https://docs.google.com/document/d/1J08A6Zcu6ma1gtkamDr1N7wdkrz2yKVu/edit#heading=h.44w6d8hsrcxd",
+          "downloadUrl": "https://docs.google.com/document/d/1J08A6Zcu6ma1gtkamDr1N7wdkrz2yKVu/edit#heading=h.44w6d8hsrcxd",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Macro and VBA",
+      "lectures": [
+        {
+          "id": "td-excel-60",
+          "title": "Introduction to Macro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9as8F62G4h3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9as8F62G4h3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9as8F62G4h3/video.m3u8",
+          "duration": 2721,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-61",
+          "title": "VBA Funbdamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rkMxTETyb4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rkMxTETyb4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rkMxTETyb4/video.m3u8",
+          "duration": 1730,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-62",
+          "title": "VBA - Conditions and Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jDspYhkMS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jDspYhkMS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jDspYhkMS/video.m3u8",
+          "duration": 2413,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-63",
+          "title": "Excel Objects and Business Automation using VBA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YYgBR2jffr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YYgBR2jffr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YYgBR2jffr/video.m3u8",
+          "duration": 1621,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-64",
+          "title": "Reporting Automation Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZFKu9Up2N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZFKu9Up2N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZFKu9Up2N/video.m3u8",
+          "duration": 2264,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-30",
+          "title": "Evaluation Assignment (Macros & VBA)",
+          "url": "https://docs.google.com/document/d/1XTNwrUO4KY8SBSSNIaNI_YDqGZf3JhTF/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1XTNwrUO4KY8SBSSNIaNI_YDqGZf3JhTF/edit",
+          "playerUrl": "https://docs.google.com/document/d/1XTNwrUO4KY8SBSSNIaNI_YDqGZf3JhTF/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1XTNwrUO4KY8SBSSNIaNI_YDqGZf3JhTF/edit",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-31",
+          "title": " Theory Assignment (Macros & VBA)",
+          "url": "https://docs.google.com/document/d/1aenE_ZIktPGYx-gCiaj3cxLmS6w4cq2t/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1aenE_ZIktPGYx-gCiaj3cxLmS6w4cq2t/edit",
+          "playerUrl": "https://docs.google.com/document/d/1aenE_ZIktPGYx-gCiaj3cxLmS6w4cq2t/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1aenE_ZIktPGYx-gCiaj3cxLmS6w4cq2t/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Analysis using Claude",
+      "lectures": [
+        {
+          "id": "td-excel-65",
+          "title": "Analysis using Claude - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332azrxsaTU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332azrxsaTU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332azrxsaTU/video.m3u8",
+          "duration": 1987,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-66",
+          "title": "Analysis using Claude - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BJsG8mNZz3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BJsG8mNZz3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BJsG8mNZz3/video.m3u8",
+          "duration": 1872,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-33",
+          "title": "Evaluation Assignment (Analysis using Claude)",
+          "url": "https://docs.google.com/document/d/1IlR3J0s2Y_d6RYPqQS5-tMf9mMzeHWjB/edit#heading=h.1fahybjeex3k",
+          "pdfUrl": "https://docs.google.com/document/d/1IlR3J0s2Y_d6RYPqQS5-tMf9mMzeHWjB/edit#heading=h.1fahybjeex3k",
+          "playerUrl": "https://docs.google.com/document/d/1IlR3J0s2Y_d6RYPqQS5-tMf9mMzeHWjB/edit#heading=h.1fahybjeex3k",
+          "downloadUrl": "https://docs.google.com/document/d/1IlR3J0s2Y_d6RYPqQS5-tMf9mMzeHWjB/edit#heading=h.1fahybjeex3k",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-34",
+          "title": "Theory Assignment (Business Analysis using Claude)",
+          "url": "https://docs.google.com/document/d/1Yiv1U1D1hRaSHj1VcKsHuNvjUuYSk3RO/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1Yiv1U1D1hRaSHj1VcKsHuNvjUuYSk3RO/edit",
+          "playerUrl": "https://docs.google.com/document/d/1Yiv1U1D1hRaSHj1VcKsHuNvjUuYSk3RO/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1Yiv1U1D1hRaSHj1VcKsHuNvjUuYSk3RO/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "End-to-End Case Study using Copilot",
+      "lectures": [
+        {
+          "id": "td-excel-67",
+          "title": "End-to-End Case study using Co-pilot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X3MRQRfD6R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X3MRQRfD6R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X3MRQRfD6R/video.m3u8",
+          "duration": 1573,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Placement-ready Module",
+      "lectures": [
+        {
+          "id": "td-excel-68",
+          "title": "Session 1 - End to End Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QYbKNEGxYm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QYbKNEGxYm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QYbKNEGxYm/video.m3u8",
+          "duration": 970,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-69",
+          "title": "Session 2 - Resume Building",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBhutcQqDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBhutcQqDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBhutcQqDZ/video.m3u8",
+          "duration": 1180,
+          "type": "video"
+        },
+        {
+          "id": "td-excel-70",
+          "title": "Session 3 - Interview Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pMaBUjxFN3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pMaBUjxFN3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pMaBUjxFN3/video.m3u8",
+          "duration": 1300,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-excel-37",
+          "title": "Capstone Evaluation Assignment (Stock Market Analytics)",
+          "url": "https://docs.google.com/document/d/1XIOewf-OFoogkXJVZhAPSm_xSVrUxB4_/edit#heading=h.1z6hm49xd3zh",
+          "pdfUrl": "https://docs.google.com/document/d/1XIOewf-OFoogkXJVZhAPSm_xSVrUxB4_/edit#heading=h.1z6hm49xd3zh",
+          "playerUrl": "https://docs.google.com/document/d/1XIOewf-OFoogkXJVZhAPSm_xSVrUxB4_/edit#heading=h.1z6hm49xd3zh",
+          "downloadUrl": "https://docs.google.com/document/d/1XIOewf-OFoogkXJVZhAPSm_xSVrUxB4_/edit#heading=h.1z6hm49xd3zh",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-excel-38",
+          "title": "Theory Assignment (Microsoft Copilot & AI Productivity)",
+          "url": "https://docs.google.com/document/d/16iUsBGsxDGZdkYbVhg9L3Kf3AhtkimxJ/edit",
+          "pdfUrl": "https://docs.google.com/document/d/16iUsBGsxDGZdkYbVhg9L3Kf3AhtkimxJ/edit",
+          "playerUrl": "https://docs.google.com/document/d/16iUsBGsxDGZdkYbVhg9L3Kf3AhtkimxJ/edit",
+          "downloadUrl": "https://docs.google.com/document/d/16iUsBGsxDGZdkYbVhg9L3Kf3AhtkimxJ/edit",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

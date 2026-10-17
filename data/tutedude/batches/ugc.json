@@ -1,0 +1,504 @@
+{
+  "platform": "TuteDude",
+  "batchId": "ugc",
+  "batchSlug": "ugc",
+  "batchName": "UGC",
+  "thumbnail": "https://www.tutedude.com/assets/avif/ugc.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/ugc",
+  "totalSections": 7,
+  "totalLectures": 32,
+  "totalNotes": 17,
+  "price": "699.00",
+  "category": "Marketing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-ugc-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Understanding UGC",
+      "lectures": [
+        {
+          "id": "td-ugc-2",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cB3FqUExqp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cB3FqUExqp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cB3FqUExqp/video.m3u8",
+          "duration": 1564,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-3",
+          "title": "What is UGC ?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M3J26XCNdg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M3J26XCNdg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M3J26XCNdg/video.m3u8",
+          "duration": 2540,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-4",
+          "title": "UGC Creator VS Influencers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xU6nTf52A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xU6nTf52A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xU6nTf52A/video.m3u8",
+          "duration": 2004,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-5",
+          "title": "Do you need followers for UGC ?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ52dCBhCaB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ52dCBhCaB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ52dCBhCaB/video.m3u8",
+          "duration": 1825,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-6",
+          "title": "Types of UGC Video PART 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hx8UQQ5S7u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hx8UQQ5S7u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hx8UQQ5S7u/video.m3u8",
+          "duration": 2006,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-7",
+          "title": "Types of UGC Video PART 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R26psEYX6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R26psEYX6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R26psEYX6d/video.m3u8",
+          "duration": 1834,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-8",
+          "title": "Why brands pay UGC Creators ?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tqDtRTNrCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tqDtRTNrCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tqDtRTNrCP/video.m3u8",
+          "duration": 1395,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-9",
+          "title": "Beginner myths about UGC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A77XHPMHt5S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A77XHPMHt5S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A77XHPMHt5S/video.m3u8",
+          "duration": 1409,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-10",
+          "title": "UGC Opportunities",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CDhEFMmKX8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CDhEFMmKX8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CDhEFMmKX8/video.m3u8",
+          "duration": 1856,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ugc-3",
+          "title": "Define Your Learning Objectives.docx",
+          "url": "https://docs.google.com/document/d/1uQ73QH9aPyzKNdDklbvGQxH1b1w8B3gM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1uQ73QH9aPyzKNdDklbvGQxH1b1w8B3gM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1uQ73QH9aPyzKNdDklbvGQxH1b1w8B3gM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1uQ73QH9aPyzKNdDklbvGQxH1b1w8B3gM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-4",
+          "title": "Compare UGC Videos vs. Influencer Promotions.docx",
+          "url": "https://docs.google.com/document/d/1_GIh-8c0RiCSQziY3jjA3iB98rX3w-mN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_GIh-8c0RiCSQziY3jjA3iB98rX3w-mN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_GIh-8c0RiCSQziY3jjA3iB98rX3w-mN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_GIh-8c0RiCSQziY3jjA3iB98rX3w-mN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-5",
+          "title": "Analyze 5 UGC Creators",
+          "url": "https://docs.google.com/document/d/1-EnW44yDioh4BGpgzJrrBhesRThgLh2y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-EnW44yDioh4BGpgzJrrBhesRThgLh2y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-EnW44yDioh4BGpgzJrrBhesRThgLh2y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-EnW44yDioh4BGpgzJrrBhesRThgLh2y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-6",
+          "title": "Script Writing Practice",
+          "url": "https://docs.google.com/document/d/1pstO8mw6iVH_k3GrfkY25w_CbJ29xdsV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pstO8mw6iVH_k3GrfkY25w_CbJ29xdsV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pstO8mw6iVH_k3GrfkY25w_CbJ29xdsV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pstO8mw6iVH_k3GrfkY25w_CbJ29xdsV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-7",
+          "title": "Identify Your Biggest UGC Myth",
+          "url": "https://docs.google.com/document/d/1Sw-p2yMm2tW9WOLTMVpPEPcqbEWMz9uV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Sw-p2yMm2tW9WOLTMVpPEPcqbEWMz9uV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Sw-p2yMm2tW9WOLTMVpPEPcqbEWMz9uV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Sw-p2yMm2tW9WOLTMVpPEPcqbEWMz9uV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-8",
+          "title": "Research Brands Using UGC",
+          "url": "https://docs.google.com/document/d/1UYq6k6EKVN3IzxhPkXx9GXlq_SlVdzbN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UYq6k6EKVN3IzxhPkXx9GXlq_SlVdzbN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UYq6k6EKVN3IzxhPkXx9GXlq_SlVdzbN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UYq6k6EKVN3IzxhPkXx9GXlq_SlVdzbN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Building your UGC Identity",
+      "lectures": [
+        {
+          "id": "td-ugc-11",
+          "title": "Choosing Niches",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APaxkmHKuUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APaxkmHKuUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APaxkmHKuUE/video.m3u8",
+          "duration": 2476,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-12",
+          "title": "Natural Content Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcaHxJFybXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcaHxJFybXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcaHxJFybXX/video.m3u8",
+          "duration": 2166,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-13",
+          "title": "Becoming Confident on Camera",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKb8fMym95p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKb8fMym95p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKb8fMym95p/video.m3u8",
+          "duration": 1994,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-14",
+          "title": "Looking natural instead of Salesy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfEnRcTX9z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfEnRcTX9z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfEnRcTX9z/video.m3u8",
+          "duration": 1995,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-15",
+          "title": "Personal Branding for UGC Creators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fpHejtK3kHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fpHejtK3kHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fpHejtK3kHK/video.m3u8",
+          "duration": 2103,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ugc-10",
+          "title": "Build Your Brand List",
+          "url": "https://docs.google.com/document/d/149rbgbeTPzj1elUtfPlkq_7IH4jQjswk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/149rbgbeTPzj1elUtfPlkq_7IH4jQjswk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/149rbgbeTPzj1elUtfPlkq_7IH4jQjswk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/149rbgbeTPzj1elUtfPlkq_7IH4jQjswk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-11",
+          "title": "Create Recommendation Videos in Different Sty",
+          "url": "https://docs.google.com/document/d/1yESaHYj421Bf5Q7x3V8LV0oxJc68yP-W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1yESaHYj421Bf5Q7x3V8LV0oxJc68yP-W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1yESaHYj421Bf5Q7x3V8LV0oxJc68yP-W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1yESaHYj421Bf5Q7x3V8LV0oxJc68yP-W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-12",
+          "title": "Create a Product Review Video",
+          "url": "https://docs.google.com/document/d/1pETfO0rX_Nsl5PmUy9X9TVbZmrhH3ImT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pETfO0rX_Nsl5PmUy9X9TVbZmrhH3ImT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pETfO0rX_Nsl5PmUy9X9TVbZmrhH3ImT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pETfO0rX_Nsl5PmUy9X9TVbZmrhH3ImT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-13",
+          "title": "Optimize Your Creator Profile",
+          "url": "https://docs.google.com/document/d/13pmGXWsSWKAWCIwRO-4bvQpYGbSmHLZ9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13pmGXWsSWKAWCIwRO-4bvQpYGbSmHLZ9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13pmGXWsSWKAWCIwRO-4bvQpYGbSmHLZ9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13pmGXWsSWKAWCIwRO-4bvQpYGbSmHLZ9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "UGC Video Creation",
+      "lectures": [
+        {
+          "id": "td-ugc-16",
+          "title": "Hooks for UGC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DdMrzMEE6k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DdMrzMEE6k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DdMrzMEE6k/video.m3u8",
+          "duration": 2755,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-17",
+          "title": "Ad psychology and trust on camera",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jNNJJubKCe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jNNJJubKCe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jNNJJubKCe/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-18",
+          "title": "script writing and CTA writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpGQZnsurNS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpGQZnsurNS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpGQZnsurNS/video.m3u8",
+          "duration": 2361,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-19",
+          "title": "Storytelling in Ads PART 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtbpACeaaaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtbpACeaaaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtbpACeaaaC/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-20",
+          "title": "Storytelling in Ads PART 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AteSgQpbG4u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AteSgQpbG4u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AteSgQpbG4u/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-21",
+          "title": "Camera Angles, Lighting and Audio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rymNDBb86n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rymNDBb86n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rymNDBb86n/video.m3u8",
+          "duration": 2011,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-22",
+          "title": "Basics of Editing PART 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sMr9aMSSpR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sMr9aMSSpR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sMr9aMSSpR/video.m3u8",
+          "duration": 957,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-23",
+          "title": "Basics of Editing PART 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYR3QmfPDk6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYR3QmfPDk6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYR3QmfPDk6/video.m3u8",
+          "duration": 1373,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-24",
+          "title": "B Rolls and Filming in small spaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Atxdc8XsPbd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Atxdc8XsPbd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Atxdc8XsPbd/video.m3u8",
+          "duration": 1357,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ugc-15",
+          "title": "Hook Writing Practice.",
+          "url": "https://docs.google.com/document/d/1FNcRSKGJP-v_f6NnuvoF695kLKSFf_Vc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FNcRSKGJP-v_f6NnuvoF695kLKSFf_Vc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FNcRSKGJP-v_f6NnuvoF695kLKSFf_Vc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FNcRSKGJP-v_f6NnuvoF695kLKSFf_Vc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-16",
+          "title": "Create UGC Videos Using Four Core Elements",
+          "url": "https://docs.google.com/document/d/13KWyjmZFFW7PKrPq4ut7PcsA6ntvTG6V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13KWyjmZFFW7PKrPq4ut7PcsA6ntvTG6V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13KWyjmZFFW7PKrPq4ut7PcsA6ntvTG6V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13KWyjmZFFW7PKrPq4ut7PcsA6ntvTG6V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-17",
+          "title": "Storytelling Script Writing",
+          "url": "https://docs.google.com/document/d/1s5RANVkATBlnXCCqKuq29sVNcTSONg2t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1s5RANVkATBlnXCCqKuq29sVNcTSONg2t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1s5RANVkATBlnXCCqKuq29sVNcTSONg2t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1s5RANVkATBlnXCCqKuq29sVNcTSONg2t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-18",
+          "title": "Camera Angle Practice.",
+          "url": "https://docs.google.com/document/d/1TEI5fxD66UiZ3GdLWCZSib3RXZc1VPU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TEI5fxD66UiZ3GdLWCZSib3RXZc1VPU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TEI5fxD66UiZ3GdLWCZSib3RXZc1VPU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TEI5fxD66UiZ3GdLWCZSib3RXZc1VPU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ugc-19",
+          "title": "Editing Practice.",
+          "url": "https://docs.google.com/document/d/1CAnYH_637zr9OCJWWjn59_HI3Vku33Rr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1CAnYH_637zr9OCJWWjn59_HI3Vku33Rr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1CAnYH_637zr9OCJWWjn59_HI3Vku33Rr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1CAnYH_637zr9OCJWWjn59_HI3Vku33Rr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Portfolio and Brand Outreach",
+      "lectures": [
+        {
+          "id": "td-ugc-25",
+          "title": "UGC Portfolio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SAZuCfjQSG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SAZuCfjQSG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SAZuCfjQSG/video.m3u8",
+          "duration": 2415,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-26",
+          "title": "Pitching brands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtgDeRCmBF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtgDeRCmBF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtgDeRCmBF/video.m3u8",
+          "duration": 1366,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-27",
+          "title": "UGC Platforms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6JE2Ke6DSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6JE2Ke6DSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6JE2Ke6DSH/video.m3u8",
+          "duration": 2132,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ugc-21",
+          "title": "Join UGC Platforms.",
+          "url": "https://docs.google.com/document/d/1uLQf7lhOEd6bwyYBmVIA5HJ1WEcI8zSe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1uLQf7lhOEd6bwyYBmVIA5HJ1WEcI8zSe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1uLQf7lhOEd6bwyYBmVIA5HJ1WEcI8zSe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1uLQf7lhOEd6bwyYBmVIA5HJ1WEcI8zSe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pricing and Monetisation",
+      "lectures": [
+        {
+          "id": "td-ugc-28",
+          "title": "Pricing UGC videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G8ckuRse9z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G8ckuRse9z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G8ckuRse9z/video.m3u8",
+          "duration": 2221,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-29",
+          "title": "Contracts and Invoicing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XRXtGNnU3h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XRXtGNnU3h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XRXtGNnU3h/video.m3u8",
+          "duration": 1988,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ugc-23",
+          "title": "Create Your UGC Rate Card.",
+          "url": "https://docs.google.com/document/d/1MaV_njWr1tf3yaolJSyDdatXFNl5yqtC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MaV_njWr1tf3yaolJSyDdatXFNl5yqtC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MaV_njWr1tf3yaolJSyDdatXFNl5yqtC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MaV_njWr1tf3yaolJSyDdatXFNl5yqtC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Real Brand Workflow",
+      "lectures": [
+        {
+          "id": "td-ugc-30",
+          "title": "Brand Briefing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjyZrGHSzQY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjyZrGHSzQY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjyZrGHSzQY/video.m3u8",
+          "duration": 1962,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-31",
+          "title": "Revision process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRUGPSZgj6S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRUGPSZgj6S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRUGPSZgj6S/video.m3u8",
+          "duration": 1181,
+          "type": "video"
+        },
+        {
+          "id": "td-ugc-32",
+          "title": "Balancing Ethics and Earning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MfXG9zCQQF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MfXG9zCQQF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MfXG9zCQQF/video.m3u8",
+          "duration": 2251,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

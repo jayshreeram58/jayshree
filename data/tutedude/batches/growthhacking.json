@@ -1,0 +1,932 @@
+{
+  "platform": "TuteDude",
+  "batchId": "growthhacking",
+  "batchSlug": "growthhacking",
+  "batchName": "Growth Hacking",
+  "thumbnail": "https://www.tutedude.com/assets/avif/growthhacking.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/growthhacking",
+  "totalSections": 10,
+  "totalLectures": 84,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "Marketing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How Growth Actually Works",
+      "lectures": [
+        {
+          "id": "td-growthhacking-1",
+          "title": "Introduction to the course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JRXqUEspFz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JRXqUEspFz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JRXqUEspFz/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-2",
+          "title": "Growth is not Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ujfx4CpGRP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ujfx4CpGRP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ujfx4CpGRP/video.m3u8",
+          "duration": 2242,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-3",
+          "title": "The AARRR Framework - Your First Diagnostic Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3trQFeT4u5D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3trQFeT4u5D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3trQFeT4u5D/video.m3u8",
+          "duration": 2232,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-4",
+          "title": "How Consumer Startups Actually Grow - The Messy Reality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mF5TDypJ3R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mF5TDypJ3R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mF5TDypJ3R/video.m3u8",
+          "duration": 2381,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-5",
+          "title": "How Growth Teams Are Set Up Inside Startups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AYt2GzQXDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AYt2GzQXDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AYt2GzQXDG/video.m3u8",
+          "duration": 2560,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-6",
+          "title": "How Growth Teams Work With Product, Data & Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d2SuDsdDDc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d2SuDsdDDc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d2SuDsdDDc/video.m3u8",
+          "duration": 2542,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-7",
+          "title": "Teardown How Swiggy Grew City by City",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CzPucgKXJD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CzPucgKXJD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CzPucgKXJD/video.m3u8",
+          "duration": 2673,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-2",
+          "title": "AARRR_Funnel_Map.",
+          "url": "https://docs.google.com/document/d/1YT2ao7JgRvRS_Csr4hJovfE-V7fjRM6H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YT2ao7JgRvRS_Csr4hJovfE-V7fjRM6H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YT2ao7JgRvRS_Csr4hJovfE-V7fjRM6H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YT2ao7JgRvRS_Csr4hJovfE-V7fjRM6H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Consumer Psychology & User Behaviour",
+      "lectures": [
+        {
+          "id": "td-growthhacking-8",
+          "title": "How Users Actually Make Decisions (It's Not Rational)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UEb4hPnmx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UEb4hPnmx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UEb4hPnmx/video.m3u8",
+          "duration": 1741,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-9",
+          "title": "Friction - The Thing Quietly Killing Your Conversion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z8xDfaRYAk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z8xDfaRYAk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z8xDfaRYAk/video.m3u8",
+          "duration": 1801,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-10",
+          "title": "Habit Loops - How Apps Make Themselves Unforgettable",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4MF4XfxeA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4MF4XfxeA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4MF4XfxeA/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-11",
+          "title": "Trust, Urgency & Incentives - When They Work and When They Backfire",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mkjXH3q8XE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mkjXH3q8XE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mkjXH3q8XE/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-12",
+          "title": "Choice Architecture - What You Show Shapes What They Do",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHkU4XC6hF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHkU4XC6hF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHkU4XC6hF/video.m3u8",
+          "duration": 1873,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-13",
+          "title": "Behavioural Nudges - Small Design Choices With Big Impact",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AreyMxYAcTM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AreyMxYAcTM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AreyMxYAcTM/video.m3u8",
+          "duration": 1876,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-14",
+          "title": "OPERATOR REALITY Why Discounts Don't Build Loyalty",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HZ6g3ZUHJmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HZ6g3ZUHJmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HZ6g3ZUHJmJ/video.m3u8",
+          "duration": 1893,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-15",
+          "title": "Consumer Psychology Teardown Q-commerce, Food Delivery , Fintech",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88cPRGxDMn7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88cPRGxDMn7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88cPRGxDMn7/video.m3u8",
+          "duration": 2418,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-4",
+          "title": "Behavioural_Triggers",
+          "url": "https://docs.google.com/document/d/1OilJvXQk9o97LWnWBxZVccGQMgNIn9zo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1OilJvXQk9o97LWnWBxZVccGQMgNIn9zo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1OilJvXQk9o97LWnWBxZVccGQMgNIn9zo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1OilJvXQk9o97LWnWBxZVccGQMgNIn9zo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Metrics That Drive Decisions",
+      "lectures": [
+        {
+          "id": "td-growthhacking-16",
+          "title": "Metrics That Matter vs Metrics That Feel Good",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asz8TyD5Y5d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asz8TyD5Y5d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asz8TyD5Y5d/video.m3u8",
+          "duration": 2076,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-17",
+          "title": "Engagement Metrics DAU, WAU, MAU & Stickiness",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Btz2uqj34RS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Btz2uqj34RS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Btz2uqj34RS/video.m3u8",
+          "duration": 1945,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-18",
+          "title": "Cohort Analysis - The Chart That Shows You the Truth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZyCUUEaus7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZyCUUEaus7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZyCUUEaus7/video.m3u8",
+          "duration": 2407,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-19",
+          "title": "Funnel Metrics CTR, CVR, AOV and What Moves Them",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AFGdrhKCtX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AFGdrhKCtX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AFGdrhKCtX/video.m3u8",
+          "duration": 2140,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-20",
+          "title": "OPERATOR REALITY Why Higher CTR Can Reduce Revenue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gcNTU7R5aa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gcNTU7R5aa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gcNTU7R5aa/video.m3u8",
+          "duration": 1509,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-21",
+          "title": "Retention Curves - Reading the Shape, Not Just the Number",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFDm5bU5CB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFDm5bU5CB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFDm5bU5CB/video.m3u8",
+          "duration": 2097,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-22",
+          "title": "Incrementality & ROI - Did Your Campaign Actually Work",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRXcK8KN7d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRXcK8KN7d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRXcK8KN7d/video.m3u8",
+          "duration": 2055,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-23",
+          "title": "Pre Post, A B Logic & When Each Method Is Right",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB6h6jUTazz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB6h6jUTazz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB6h6jUTazz/video.m3u8",
+          "duration": 1643,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-24",
+          "title": "Workshop Diagnose a Real Funnel Dataset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8GSNcYbj4S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8GSNcYbj4S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8GSNcYbj4S/video.m3u8",
+          "duration": 1763,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-6",
+          "title": "Diagnose_Funnel_Leakage.",
+          "url": "https://docs.google.com/document/d/1mu7ZcZ8lv3Urq6M_2wlVaxGOE8bRcow1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1mu7ZcZ8lv3Urq6M_2wlVaxGOE8bRcow1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1mu7ZcZ8lv3Urq6M_2wlVaxGOE8bRcow1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1mu7ZcZ8lv3Urq6M_2wlVaxGOE8bRcow1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Acquisition That Doesn't Break the Bank",
+      "lectures": [
+        {
+          "id": "td-growthhacking-25",
+          "title": "Paid, Organic, Referral, Product-Led - Choosing Your Channel Mix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Exntq56bkf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Exntq56bkf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Exntq56bkf/video.m3u8",
+          "duration": 1832,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-26",
+          "title": "CAC, LTV & Payback - The Unit Economics of Acquisition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AufMAg9XhFj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AufMAg9XhFj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AufMAg9XhFj/video.m3u8",
+          "duration": 1995,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-27",
+          "title": "GTM for Consumer Startups - Launch Before You're Ready",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uEXdqrqNrE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uEXdqrqNrE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uEXdqrqNrE/video.m3u8",
+          "duration": 1583,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-28",
+          "title": "Organic Growth Loops vs Paid Growth Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fzkPJBxuSe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fzkPJBxuSe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fzkPJBxuSe/video.m3u8",
+          "duration": 1937,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-29",
+          "title": "Content as a Growth Channel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a6TGc69NfP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a6TGc69NfP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a6TGc69NfP/video.m3u8",
+          "duration": 2229,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-30",
+          "title": "SEO Fundamentals Earn Traffic without Paying for it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XKXhkGdrgH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XKXhkGdrgH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XKXhkGdrgH/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-31",
+          "title": "Influencer Marketing & Partnerships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/896QRkUyc5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/896QRkUyc5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/896QRkUyc5p/video.m3u8",
+          "duration": 2197,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-32",
+          "title": "Acquisition Teardown Swiggy Regional vs Udaan B2B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMGnMQ8BM8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMGnMQ8BM8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMGnMQ8BM8/video.m3u8",
+          "duration": 2688,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-8",
+          "title": "Design_Acquisition_Strategy.",
+          "url": "https://docs.google.com/document/d/1jQh8gViivcgljEc_UNRxASGnFE25L_yi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jQh8gViivcgljEc_UNRxASGnFE25L_yi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jQh8gViivcgljEc_UNRxASGnFE25L_yi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jQh8gViivcgljEc_UNRxASGnFE25L_yi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Activation & Onboarding Systems",
+      "lectures": [
+        {
+          "id": "td-growthhacking-33",
+          "title": "Activation Is Not the First Order - It's the First Habit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88qSm7EjfXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88qSm7EjfXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88qSm7EjfXX/video.m3u8",
+          "duration": 2268,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-34",
+          "title": "Discovery Optimisation - Can Users Find What They Came For",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PTtY29zxRC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PTtY29zxRC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PTtY29zxRC/video.m3u8",
+          "duration": 1603,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-35",
+          "title": "Reducing Activation Friction - Fix Before You Build",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t8SUYKuaq4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t8SUYKuaq4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t8SUYKuaq4/video.m3u8",
+          "duration": 1626,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-36",
+          "title": "Onboarding Teardown Swiggy, Zepto & an International App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C52CEr5PcPc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C52CEr5PcPc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C52CEr5PcPc/video.m3u8",
+          "duration": 1881,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-37",
+          "title": "Onboarding The First 7 Minutes That Decide Everything",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NPZHYFnSQk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NPZHYFnSQk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NPZHYFnSQk/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-10",
+          "title": "Onboarding_Audit.",
+          "url": "https://docs.google.com/document/d/1EGUcY2FVpg8-nQSkT1AQO77ADQdh2yVB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1EGUcY2FVpg8-nQSkT1AQO77ADQdh2yVB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1EGUcY2FVpg8-nQSkT1AQO77ADQdh2yVB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1EGUcY2FVpg8-nQSkT1AQO77ADQdh2yVB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Retention, CRM & Lifecycle Systems",
+      "lectures": [
+        {
+          "id": "td-growthhacking-38",
+          "title": "Why Retention Is the Only Growth Metric That Compounds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ntKrnRFbgZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ntKrnRFbgZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ntKrnRFbgZ/video.m3u8",
+          "duration": 1895,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-39",
+          "title": "CRM 101 - Channels, Reach & What Each One Is Actually Good For",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Usg2ZKrssh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Usg2ZKrssh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Usg2ZKrssh/video.m3u8",
+          "duration": 2242,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-40",
+          "title": "Segmentation - Stop Talking to Everyone the Same Way",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63taarpy24Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63taarpy24Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63taarpy24Y/video.m3u8",
+          "duration": 1995,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-41",
+          "title": "Lifecycle Mapping - The Right Message at the Right Moment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yYQTyq8zQF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yYQTyq8zQF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yYQTyq8zQF/video.m3u8",
+          "duration": 2352,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-42",
+          "title": "Push Notifications - Delivered, Opened, Tapped",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6jNYEjnCRq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6jNYEjnCRq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6jNYEjnCRq/video.m3u8",
+          "duration": 1654,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-43",
+          "title": "OPERATOR REALITY Why More Notifications Can Hurt Retention",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9q85zGgejyr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9q85zGgejyr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9q85zGgejyr/video.m3u8",
+          "duration": 1148,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-44",
+          "title": "Email for Retention - Still Powerful if You Know How",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pFTmch8k93/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pFTmch8k93/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pFTmch8k93/video.m3u8",
+          "duration": 2377,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-45",
+          "title": "WhatsApp as a Retention Channel - Powerful but Easy to Burn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjJbh2PyhhP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjJbh2PyhhP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjJbh2PyhhP/video.m3u8",
+          "duration": 1714,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-46",
+          "title": "Win-Back Campaigns - Getting Lapsed Users to Come Back",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9CKf2GEz8q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9CKf2GEz8q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9CKf2GEz8q/video.m3u8",
+          "duration": 2227,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-47",
+          "title": "Personalisation in CRM - From Segments to 1-to-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r47YPFfRH6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r47YPFfRH6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r47YPFfRH6/video.m3u8",
+          "duration": 1540,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-48",
+          "title": "Loyalty Systems - What Actually Builds Long-Term Retention",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fAkKqJ5TfT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fAkKqJ5TfT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fAkKqJ5TfT/video.m3u8",
+          "duration": 2057,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-49",
+          "title": "CRM Tools Landscape",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xDcB2DADQph/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xDcB2DADQph/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xDcB2DADQph/video.m3u8",
+          "duration": 2357,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-50",
+          "title": "Workshop Build a Full Lifecycle CRM Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZuSGCaUjf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZuSGCaUjf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZuSGCaUjf/video.m3u8",
+          "duration": 2119,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-12",
+          "title": "Lifecycle_Strategy.",
+          "url": "https://docs.google.com/document/d/1os2kjjhYg49hcMTHRuMgQmn8scaCIhYO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1os2kjjhYg49hcMTHRuMgQmn8scaCIhYO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1os2kjjhYg49hcMTHRuMgQmn8scaCIhYO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1os2kjjhYg49hcMTHRuMgQmn8scaCIhYO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Merchandising, Discovery & App Real Estate",
+      "lectures": [
+        {
+          "id": "td-growthhacking-51",
+          "title": "App Real Estate - The Most Contested Space in a Consumer Startup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cZrGkYJue7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cZrGkYJue7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cZrGkYJue7/video.m3u8",
+          "duration": 1648,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-52",
+          "title": "Viewport Engineering - What Users See Shapes What They Do",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bhxudNBRZg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bhxudNBRZg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bhxudNBRZg/video.m3u8",
+          "duration": 1638,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-53",
+          "title": "Scroll Behaviour - What Gets Seen, What Gets Skipped",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49SSHJnahYJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49SSHJnahYJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49SSHJnahYJ/video.m3u8",
+          "duration": 2300,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-54",
+          "title": "Widget Strategy - Building the Homepage That Sells",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QxkkUM6J6g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QxkkUM6J6g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QxkkUM6J6g/video.m3u8",
+          "duration": 1707,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-55",
+          "title": "Banner Hierarchy & CTR Psychology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUFPTUpZeF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUFPTUpZeF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUFPTUpZeF/video.m3u8",
+          "duration": 1719,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-56",
+          "title": "Why High CTR Can Reduce Revenue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tm3Ks5gNCX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tm3Ks5gNCX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tm3Ks5gNCX/video.m3u8",
+          "duration": 1196,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-57",
+          "title": "Carousel Psychology - Swipes, Stops & Engagement Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Exyqqx8BC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Exyqqx8BC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Exyqqx8BC/video.m3u8",
+          "duration": 2108,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-58",
+          "title": "Dynamic Slotting - Letting Data Decide the Shelf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sf2KhxX6Xd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sf2KhxX6Xd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sf2KhxX6Xd/video.m3u8",
+          "duration": 1578,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-59",
+          "title": "Category Spread & Discoverability Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JcZUqkjdKy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JcZUqkjdKy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JcZUqkjdKy/video.m3u8",
+          "duration": 2241,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-60",
+          "title": "JTBD + AOV Systems - Selling More Without Selling Harder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kMM436TCAT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kMM436TCAT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kMM436TCAT/video.m3u8",
+          "duration": 1545,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-61",
+          "title": "Personalisation Systems - How the App Learns What You Want",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdX7xZ7XZHu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdX7xZ7XZHu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdX7xZ7XZHu/video.m3u8",
+          "duration": 2042,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-62",
+          "title": "Merchandising Teardown Swiggy vs. Blinkit vs. Amazon",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mNzyt8hAu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mNzyt8hAu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mNzyt8hAu9/video.m3u8",
+          "duration": 1986,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-14",
+          "title": "Homepage_Merchandising_Redesign.",
+          "url": "https://docs.google.com/document/d/1kLYbtOi_3LBu9cOPHZcGjjmo4qjCP34c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kLYbtOi_3LBu9cOPHZcGjjmo4qjCP34c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kLYbtOi_3LBu9cOPHZcGjjmo4qjCP34c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kLYbtOi_3LBu9cOPHZcGjjmo4qjCP34c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Experimentation & CRO",
+      "lectures": [
+        {
+          "id": "td-growthhacking-63",
+          "title": "Why Most A B Tests Fail Before They Even Launch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e8A4nQ6kz4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e8A4nQ6kz4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e8A4nQ6kz4/video.m3u8",
+          "duration": 1525,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-64",
+          "title": "Writing a Sharp Hypothesis - The Skill That Separates Good Testers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63eGZDkarRs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63eGZDkarRs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63eGZDkarRs/video.m3u8",
+          "duration": 1311,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-65",
+          "title": "Designing an A B Test That Actually Teaches You Something",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY2AySp5jb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY2AySp5jb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY2AySp5jb/video.m3u8",
+          "duration": 2408,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-66",
+          "title": "Reading Test Results Without Fooling Yourself",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjMcjkXb6P4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjMcjkXb6P4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjMcjkXb6P4/video.m3u8",
+          "duration": 1757,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-67",
+          "title": "OPERATOR REALITY Why Great Experiments Fail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pJGqcksCSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pJGqcksCSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pJGqcksCSC/video.m3u8",
+          "duration": 1154,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-68",
+          "title": "CRO Systems - Building a High-Velocity Test Machine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N2DXUjKYcB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N2DXUjKYcB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N2DXUjKYcB/video.m3u8",
+          "duration": 1339,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-69",
+          "title": "Reverse A B & Natural Experiments - Testing When You Can't Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gA9jCBmuNu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gA9jCBmuNu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gA9jCBmuNu/video.m3u8",
+          "duration": 1372,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-70",
+          "title": "Personalisation Testing - When Every User Is the Experiment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUfqe47dCy4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUfqe47dCy4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUfqe47dCy4/video.m3u8",
+          "duration": 1589,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-71",
+          "title": "Workshop Build a 10-Experiment Roadmap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2dg92kAxQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2dg92kAxQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2dg92kAxQ6/video.m3u8",
+          "duration": 1870,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-16",
+          "title": "Experiment_Roadmap.",
+          "url": "https://docs.google.com/document/d/1CA5lqCHcFN-npA8QT7aNpp1AX5SaoDUj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1CA5lqCHcFN-npA8QT7aNpp1AX5SaoDUj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1CA5lqCHcFN-npA8QT7aNpp1AX5SaoDUj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1CA5lqCHcFN-npA8QT7aNpp1AX5SaoDUj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Marketplace Growth & Unit Economics",
+      "lectures": [
+        {
+          "id": "td-growthhacking-72",
+          "title": "How Two-Sided Marketplaces Actually Grow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ST7Mnt5Urp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ST7Mnt5Urp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ST7Mnt5Urp/video.m3u8",
+          "duration": 2359,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-73",
+          "title": "Contribution Margin - The Number Every Growth Person Should Know",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ps7uPdhrCE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ps7uPdhrCE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ps7uPdhrCE/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-74",
+          "title": "Pricing Experiments in a Marketplace - What Changes, What Breaks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YFCxTKYDzZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YFCxTKYDzZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YFCxTKYDzZ/video.m3u8",
+          "duration": 1725,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-75",
+          "title": "Supply Strategy, Category Economics & Expansion Decisions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3N9dQYjEQB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3N9dQYjEQB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3N9dQYjEQB/video.m3u8",
+          "duration": 1582,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-76",
+          "title": "Marketplace Growth Teardown Swiggy Delivery Economics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hFrcM89g5Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hFrcM89g5Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hFrcM89g5Q/video.m3u8",
+          "duration": 2702,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-18",
+          "title": "Optimise_Marketplace_Economics.",
+          "url": "https://docs.google.com/document/d/1FRXLszMHRvi3-45cbsi4cRVsuXJ2fZYh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FRXLszMHRvi3-45cbsi4cRVsuXJ2fZYh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FRXLszMHRvi3-45cbsi4cRVsuXJ2fZYh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FRXLszMHRvi3-45cbsi4cRVsuXJ2fZYh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Teardowns & Capstone",
+      "lectures": [
+        {
+          "id": "td-growthhacking-77",
+          "title": "Teardown How Swiggy Built a Growth System at Scale",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGTyE4xzMP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGTyE4xzMP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGTyE4xzMP/video.m3u8",
+          "duration": 2198,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-78",
+          "title": "Teardown Blinkit and the Q-Commerce Growth Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HyQb2BK397/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HyQb2BK397/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HyQb2BK397/video.m3u8",
+          "duration": 2425,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-79",
+          "title": "Teardown How Netflix Retains a Global Audience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4xZSNb4CQ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4xZSNb4CQ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4xZSNb4CQ3/video.m3u8",
+          "duration": 1512,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-80",
+          "title": "Teardown Amazon's Merchandising System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BCF44yTbxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BCF44yTbxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BCF44yTbxJ/video.m3u8",
+          "duration": 1954,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-81",
+          "title": "Teardown Zomato's Growth Playbook vs. Swiggy's",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqxgBbkyKBe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqxgBbkyKBe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqxgBbkyKBe/video.m3u8",
+          "duration": 1591,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-82",
+          "title": "How to Audit Any Growth System - The Operator's Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5uRafaM7J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5uRafaM7J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5uRafaM7J/video.m3u8",
+          "duration": 1718,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-83",
+          "title": "Operator Reality ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KJjSEZ2KRr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KJjSEZ2KRr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KJjSEZ2KRr/video.m3u8",
+          "duration": 2641,
+          "type": "video"
+        },
+        {
+          "id": "td-growthhacking-84",
+          "title": "Workshop The Growth Lead's Pressure Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NJhTGpSEkfS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NJhTGpSEkfS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NJhTGpSEkfS/video.m3u8",
+          "duration": 2694,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-growthhacking-20",
+          "title": "Capstone_Complete_Growth_Audit.",
+          "url": "https://docs.google.com/document/d/18abpg-a3C8YlzLO8WJQoJ5pSolY1CsMB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18abpg-a3C8YlzLO8WJQoJ5pSolY1CsMB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18abpg-a3C8YlzLO8WJQoJ5pSolY1CsMB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18abpg-a3C8YlzLO8WJQoJ5pSolY1CsMB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

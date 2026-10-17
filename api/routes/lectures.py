@@ -18,6 +18,10 @@ from services.selection_way_service import (
     get_selection_lecture_details,
     get_selection_lecture_access
 )
+from services.tutedude_service import (
+    get_tutedude_lecture_details,
+    get_tutedude_lecture_access
+)
 
 router = APIRouter(prefix="/lectures", tags=["Lectures"])
 
@@ -36,6 +40,14 @@ async def get_lecture_details(lecture_id: str, db: AsyncSession = Depends(get_db
         apna_lec = await get_apna_lecture_details(lecture_id)
         if apna_lec:
             return apna_lec
+    except Exception:
+        pass
+
+    # 3. Fast check for TuteDude lectures
+    try:
+        tutedude_lec = await get_tutedude_lecture_details(lecture_id)
+        if tutedude_lec:
+            return tutedude_lec
     except Exception:
         pass
 
@@ -126,6 +138,14 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
         apna_access = await get_apna_lecture_access(lecture_id)
         if apna_access:
             return apna_access
+    except Exception:
+        pass
+
+    # 3. Fast check for TuteDude playback access
+    try:
+        tutedude_access = await get_tutedude_lecture_access(lecture_id)
+        if tutedude_access:
+            return tutedude_access
     except Exception:
         pass
 

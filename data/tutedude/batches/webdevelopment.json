@@ -1,0 +1,1489 @@
+{
+  "platform": "TuteDude",
+  "batchId": "webdevelopment",
+  "batchSlug": "webdevelopment",
+  "batchName": "Web Development with PHP/MySQL",
+  "thumbnail": "https://www.tutedude.com/assets/avif/webdevelopment.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/webdevelopment",
+  "totalSections": 15,
+  "totalLectures": 147,
+  "totalNotes": 6,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "HTML",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-1",
+          "title": "Intro to HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tgHJmgtKqz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tgHJmgtKqz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tgHJmgtKqz/video.m3u8",
+          "duration": 721,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-2",
+          "title": "Head Tag in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eCTqnUdQgz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eCTqnUdQgz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eCTqnUdQgz/video.m3u8",
+          "duration": 1234,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-3",
+          "title": "Text Formatters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqgyxfKHrYJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqgyxfKHrYJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqgyxfKHrYJ/video.m3u8",
+          "duration": 1378,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-4",
+          "title": "Fundamentals of Web Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMaXbgqa9d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMaXbgqa9d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMaXbgqa9d/video.m3u8",
+          "duration": 1332,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-5",
+          "title": "Images in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4GPzP5NY9P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4GPzP5NY9P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4GPzP5NY9P/video.m3u8",
+          "duration": 1360,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-6",
+          "title": "Lists in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUHxXfp4ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUHxXfp4ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUHxXfp4ad/video.m3u8",
+          "duration": 1267,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-7",
+          "title": "Tables in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62c4SxNRb9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62c4SxNRb9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62c4SxNRb9D/video.m3u8",
+          "duration": 1448,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-8",
+          "title": "Web Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HampMXQCrpA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HampMXQCrpA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HampMXQCrpA/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-9",
+          "title": "Links in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/edp8nZs4udz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/edp8nZs4udz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/edp8nZs4udz/video.m3u8",
+          "duration": 1480,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-10",
+          "title": "Forms in HTML - 01",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SuYfMpeAAC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SuYfMpeAAC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SuYfMpeAAC/video.m3u8",
+          "duration": 2400,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-11",
+          "title": "Forms 2.2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4azdJHBDcKA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4azdJHBDcKA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4azdJHBDcKA/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-12",
+          "title": "Semantic Tags in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mp7xgAbyHR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mp7xgAbyHR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mp7xgAbyHR/video.m3u8",
+          "duration": 1501,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-13",
+          "title": "Hosting the application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdGCKBKFrk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdGCKBKFrk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdGCKBKFrk/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-2",
+          "title": "Assignment 1",
+          "url": "https://www.canva.com/design/DAG0tsNZwbs/HdWN0ouG-BmMSt9KgoT6Bg/edit?utm_content=DAG0tsNZwbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAG0tsNZwbs/HdWN0ouG-BmMSt9KgoT6Bg/edit?utm_content=DAG0tsNZwbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAG0tsNZwbs/HdWN0ouG-BmMSt9KgoT6Bg/edit?utm_content=DAG0tsNZwbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAG0tsNZwbs/HdWN0ouG-BmMSt9KgoT6Bg/edit?utm_content=DAG0tsNZwbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-14",
+          "title": "Intro to CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q4eNXmqmYk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q4eNXmqmYk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q4eNXmqmYk/video.m3u8",
+          "duration": 1541,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-15",
+          "title": "CSS Selectors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UM4HyyqTaj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UM4HyyqTaj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UM4HyyqTaj/video.m3u8",
+          "duration": 2491,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-16",
+          "title": "Colors in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pGmbpXGhGnQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pGmbpXGhGnQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pGmbpXGhGnQ/video.m3u8",
+          "duration": 1563,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-17",
+          "title": "Units in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hEHd4AxkE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hEHd4AxkE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hEHd4AxkE/video.m3u8",
+          "duration": 1889,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-18",
+          "title": "Box Model in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FTDN85j5tg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FTDN85j5tg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FTDN85j5tg/video.m3u8",
+          "duration": 1382,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-19",
+          "title": "Texts and Fonts in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gnbppYTgXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gnbppYTgXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gnbppYTgXZ/video.m3u8",
+          "duration": 2298,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-20",
+          "title": "Display in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xKn2uCnYT5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xKn2uCnYT5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xKn2uCnYT5/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-21",
+          "title": "Positions in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7KYkhu8tRa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7KYkhu8tRa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7KYkhu8tRa/video.m3u8",
+          "duration": 1442,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-22",
+          "title": "Overflow, Float and Clear in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SUnNRfRXtJF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SUnNRfRXtJF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SUnNRfRXtJF/video.m3u8",
+          "duration": 1328,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-23",
+          "title": "FlexBox in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GkX7JFxyaD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GkX7JFxyaD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GkX7JFxyaD/video.m3u8",
+          "duration": 2404,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-24",
+          "title": "Grid in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqfKhtQmPU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqfKhtQmPU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqfKhtQmPU/video.m3u8",
+          "duration": 2223,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-25",
+          "title": "Grid Portfolio in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8behFqCy8qA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8behFqCy8qA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8behFqCy8qA/video.m3u8",
+          "duration": 1682,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-26",
+          "title": "Media Queries in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeFy9cuxSY5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeFy9cuxSY5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeFy9cuxSY5/video.m3u8",
+          "duration": 1564,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-27",
+          "title": "CSS Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PTt9FaF8Qc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PTt9FaF8Qc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PTt9FaF8Qc/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-28",
+          "title": "Transform in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2N8JDAKPt7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2N8JDAKPt7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2N8JDAKPt7/video.m3u8",
+          "duration": 1519,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-29",
+          "title": "Tranistion in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgDayzbBr6H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgDayzbBr6H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgDayzbBr6H/video.m3u8",
+          "duration": 1818,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-30",
+          "title": "Keyframe Animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exz3Zbj9jH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exz3Zbj9jH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exz3Zbj9jH/video.m3u8",
+          "duration": 2282,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-4",
+          "title": "Assignment 2",
+          "url": "https://www.canva.com/design/DAG0tkiVXUk/r-PtZSjPlQfClwIk6e8c8g/edit?utm_content=DAG0tkiVXUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAG0tkiVXUk/r-PtZSjPlQfClwIk6e8c8g/edit?utm_content=DAG0tkiVXUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAG0tkiVXUk/r-PtZSjPlQfClwIk6e8c8g/edit?utm_content=DAG0tkiVXUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAG0tkiVXUk/r-PtZSjPlQfClwIk6e8c8g/edit?utm_content=DAG0tkiVXUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript-I",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-31",
+          "title": "Inline javascript",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bHbtGqPKn3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bHbtGqPKn3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bHbtGqPKn3c/video.m3u8",
+          "duration": 342,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-32",
+          "title": "Internal javascript",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/puHCYsB4kYD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/puHCYsB4kYD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/puHCYsB4kYD/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-33",
+          "title": "Accessing elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynZ7TY3kZm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynZ7TY3kZm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynZ7TY3kZm/video.m3u8",
+          "duration": 464,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-34",
+          "title": "Onclick event",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGJdTUDyKQu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGJdTUDyKQu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGJdTUDyKQu/video.m3u8",
+          "duration": 475,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-35",
+          "title": "Changing Website content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GdxaUTcfTr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GdxaUTcfTr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GdxaUTcfTr/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-36",
+          "title": "Manupulating styles with javascript",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4j34EQy6znG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4j34EQy6znG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4j34EQy6znG/video.m3u8",
+          "duration": 271,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-37",
+          "title": "Disappearing circles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tUD8GNb57s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tUD8GNb57s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tUD8GNb57s/video.m3u8",
+          "duration": 429,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-38",
+          "title": "Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HQymAp7kFS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HQymAp7kFS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HQymAp7kFS/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-39",
+          "title": "Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n9DXmPQ93p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n9DXmPQ93p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n9DXmPQ93p/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-40",
+          "title": "If statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKk7ZQH2KR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKk7ZQH2KR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKk7ZQH2KR/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-41",
+          "title": "Random number guessing game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UNf5AqzRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UNf5AqzRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UNf5AqzRH/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-42",
+          "title": "For loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kkXJadttgE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kkXJadttgE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kkXJadttgE/video.m3u8",
+          "duration": 749,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-43",
+          "title": "While loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FRY9SsyfjC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FRY9SsyfjC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FRY9SsyfjC/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-44",
+          "title": "PROJECT-Reaction tester project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s6xzxGKb87/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s6xzxGKb87/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s6xzxGKb87/video.m3u8",
+          "duration": 1358,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-45",
+          "title": "External javascript",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RRBd7qrNsR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RRBd7qrNsR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RRBd7qrNsR/video.m3u8",
+          "duration": 187,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JavaScript-II",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-46",
+          "title": "DOM intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HfgqfxtqRu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HfgqfxtqRu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HfgqfxtqRu/video.m3u8",
+          "duration": 929,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-47",
+          "title": "Naming conventions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EUmHb2uBjg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EUmHb2uBjg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EUmHb2uBjg/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-48",
+          "title": "String concat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ArhYxDQNhx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ArhYxDQNhx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ArhYxDQNhx/video.m3u8",
+          "duration": 196,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-49",
+          "title": "Length property in strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuU7RHRng7X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuU7RHRng7X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuU7RHRng7X/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-50",
+          "title": "Slicing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F5bG5pRh97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F5bG5pRh97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F5bG5pRh97/video.m3u8",
+          "duration": 248,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-51",
+          "title": "Changing Case of string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97tFGCaHNuS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97tFGCaHNuS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97tFGCaHNuS/video.m3u8",
+          "duration": 166,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-52",
+          "title": "Operators in js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jFpkUH6D4M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jFpkUH6D4M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jFpkUH6D4M/video.m3u8",
+          "duration": 2407,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-53",
+          "title": "Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uFRjzCbf4U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uFRjzCbf4U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uFRjzCbf4U/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-54",
+          "title": "Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332x6gQJypP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332x6gQJypP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332x6gQJypP/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-55",
+          "title": "How to add event listener in js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aub8rPDmz4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aub8rPDmz4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aub8rPDmz4/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-7",
+          "title": "Assignment 3",
+          "url": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit",
+          "pdfUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit",
+          "playerUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit",
+          "downloadUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "jQuery",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-56",
+          "title": "What is jQuery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gsYQ8DxKKb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gsYQ8DxKKb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gsYQ8DxKKb/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-57",
+          "title": "Including jQuery on our webpage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhCN3JrFT5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhCN3JrFT5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhCN3JrFT5/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-58",
+          "title": "Detecting a click",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8hjQk2ufCh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8hjQk2ufCh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8hjQk2ufCh/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-59",
+          "title": "Changing website content using jQuery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEd3yCRTzY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEd3yCRTzY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEd3yCRTzY/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-60",
+          "title": "Changing website styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkQjZQ6K2N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkQjZQ6K2N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkQjZQ6K2N/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-61",
+          "title": "Fading content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PTBBtHz9k2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PTBBtHz9k2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PTBBtHz9k2/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-62",
+          "title": "Regular expression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jrY7qT62Ny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jrY7qT62Ny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jrY7qT62Ny/video.m3u8",
+          "duration": 395,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-63",
+          "title": "PROJECT-Form Validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKPB6Z59hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKPB6Z59hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKPB6Z59hz/video.m3u8",
+          "duration": 2427,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-64",
+          "title": "Droppable",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAYbdJ4kZG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAYbdJ4kZG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAYbdJ4kZG/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-65",
+          "title": "Jqui widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fYt5JYm546/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fYt5JYm546/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fYt5JYm546/video.m3u8",
+          "duration": 395,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-9",
+          "title": "Assignment 4",
+          "url": "https://www.canva.com/design/DAGzaeKdkvM/Kfuzs-j0SkDH0zhkUvNEpg/edit?utm_content=DAGzaeKdkvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzaeKdkvM/Kfuzs-j0SkDH0zhkUvNEpg/edit?utm_content=DAGzaeKdkvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzaeKdkvM/Kfuzs-j0SkDH0zhkUvNEpg/edit?utm_content=DAGzaeKdkvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzaeKdkvM/Kfuzs-j0SkDH0zhkUvNEpg/edit?utm_content=DAGzaeKdkvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bootstrap",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-66",
+          "title": "Intro to Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PRsXdankAR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PRsXdankAR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PRsXdankAR/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-67",
+          "title": "Your first bootstrap site",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqsUtEDC7RU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqsUtEDC7RU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqsUtEDC7RU/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-68",
+          "title": "Grid",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UACbQcNRey/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UACbQcNRey/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UACbQcNRey/video.m3u8",
+          "duration": 762,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-69",
+          "title": "Bootstrap components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bC5xmfUEnk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bC5xmfUEnk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bC5xmfUEnk/video.m3u8",
+          "duration": 336,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-70",
+          "title": "Tables and Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JDcYRftM5d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JDcYRftM5d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JDcYRftM5d/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-71",
+          "title": "Modals,popover and tooltips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PbDRGhfjhT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PbDRGhfjhT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PbDRGhfjhT/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-72",
+          "title": "Scrollspy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4H47rbFrBsd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4H47rbFrBsd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4H47rbFrBsd/video.m3u8",
+          "duration": 586,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-73",
+          "title": "PROJECT-App landing project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b2ch8b7K8T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b2ch8b7K8T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b2ch8b7K8T/video.m3u8",
+          "duration": 1689,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-74",
+          "title": "Themes in bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8K9ctFHfa2s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8K9ctFHfa2s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8K9ctFHfa2s/video.m3u8",
+          "duration": 259,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-75",
+          "title": "Card in bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEnAjSGNqd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEnAjSGNqd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEnAjSGNqd/video.m3u8",
+          "duration": 507,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-11",
+          "title": "Assignment 5",
+          "url": "https://www.canva.com/design/DAGzaUmY120/aOKvZ0PxqDIDLRo2UEYN9Q/edit?utm_content=DAGzaUmY120&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzaUmY120/aOKvZ0PxqDIDLRo2UEYN9Q/edit?utm_content=DAGzaUmY120&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzaUmY120/aOKvZ0PxqDIDLRo2UEYN9Q/edit?utm_content=DAGzaUmY120&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzaUmY120/aOKvZ0PxqDIDLRo2UEYN9Q/edit?utm_content=DAGzaUmY120&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "The Killer Website(Frontend project)",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-76",
+          "title": "Setting up the folder structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gjYez2mU8c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gjYez2mU8c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gjYez2mU8c/video.m3u8",
+          "duration": 1250,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-77",
+          "title": "Responsive grid system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BperaaHGTBe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BperaaHGTBe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BperaaHGTBe/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-78",
+          "title": "Header section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdUnzbU5u39/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdUnzbU5u39/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdUnzbU5u39/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-79",
+          "title": "Header section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gtH8P93dSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gtH8P93dSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gtH8P93dSC/video.m3u8",
+          "duration": 1081,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-80",
+          "title": "Header section Part-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGYpm4H23C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGYpm4H23C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGYpm4H23C/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-81",
+          "title": "Feature section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a88hXRauE5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a88hXRauE5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a88hXRauE5/video.m3u8",
+          "duration": 678,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-82",
+          "title": "Feature section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p9ta99ktTF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p9ta99ktTF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p9ta99ktTF/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-83",
+          "title": "Creating Favorite meal section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nEMT26FF2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nEMT26FF2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nEMT26FF2/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-84",
+          "title": "Creating Favorite meal section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zubAnSj87/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zubAnSj87/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zubAnSj87/video.m3u8",
+          "duration": 552,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-85",
+          "title": "Creating how it works section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcgAUzE2xdQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcgAUzE2xdQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcgAUzE2xdQ/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-86",
+          "title": "Creating how it works section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jrQ6rbQH9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jrQ6rbQH9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jrQ6rbQH9/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-87",
+          "title": "Creating the city section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BysXCBqdkC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BysXCBqdkC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BysXCBqdkC/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-88",
+          "title": "Creating the city section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JqNBMpxQJ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JqNBMpxQJ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JqNBMpxQJ4/video.m3u8",
+          "duration": 750,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-89",
+          "title": "Creating Customer testimonial section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fz7Tp5EYKJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fz7Tp5EYKJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fz7Tp5EYKJ/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-90",
+          "title": "Creating Customer testimonial section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQJQ2Hn3hQY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQJQ2Hn3hQY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQJQ2Hn3hQY/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-91",
+          "title": "Creating Sign up section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tEJTdnEYbY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tEJTdnEYbY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tEJTdnEYbY/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-92",
+          "title": "Creating Sign up section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEcKYSxFCab/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEcKYSxFCab/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEcKYSxFCab/video.m3u8",
+          "duration": 756,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-93",
+          "title": "Creating the contact form section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xxx23HxACJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xxx23HxACJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xxx23HxACJ/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-94",
+          "title": "Creating the contact form section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMBDTyM698j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMBDTyM698j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMBDTyM698j/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-95",
+          "title": "Creating the footer section Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6xCgXqMGt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6xCgXqMGt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6xCgXqMGt/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-96",
+          "title": "Creating the footer section Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqRdahfjAd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqRdahfjAd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqRdahfjAd/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-97",
+          "title": "Making webpage responsive Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69eU6tg8Afe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69eU6tg8Afe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69eU6tg8Afe/video.m3u8",
+          "duration": 1023,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-98",
+          "title": "Making webpage responsive Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/peqmymtkb4a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/peqmymtkb4a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/peqmymtkb4a/video.m3u8",
+          "duration": 1119,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-99",
+          "title": "Including jquery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6f3h5CFg22U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6f3h5CFg22U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6f3h5CFg22U/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-100",
+          "title": "Scrolling effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NaJ9ZB2y2u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NaJ9ZB2y2u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NaJ9ZB2y2u/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-101",
+          "title": "Adding animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39NtHqQcdZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39NtHqQcdZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39NtHqQcdZ/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Hosting",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-102",
+          "title": "What is hosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gU2bPnSsFA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gU2bPnSsFA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gU2bPnSsFA/video.m3u8",
+          "duration": 288,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-103",
+          "title": "Hosting your website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S2dAFjHkAr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S2dAFjHkAr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S2dAFjHkAr/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Wordpress",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-104",
+          "title": "What is Wordpress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QsTsB26AsB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QsTsB26AsB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QsTsB26AsB/video.m3u8",
+          "duration": 402,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-105",
+          "title": "The wordpress dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcxCqYUBjGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcxCqYUBjGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcxCqYUBjGE/video.m3u8",
+          "duration": 922,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-106",
+          "title": "Wordpress themes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tCCEZmAnjq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tCCEZmAnjq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tCCEZmAnjq/video.m3u8",
+          "duration": 749,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-107",
+          "title": "PROJECT-Creating a Ecommerce website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpDeq4Yyj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpDeq4Yyj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpDeq4Yyj/video.m3u8",
+          "duration": 1404,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "PHP",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-108",
+          "title": "What is PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQBJFPYf26/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQBJFPYf26/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQBJFPYf26/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-109",
+          "title": "Hello world in PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94ubUggnzxq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94ubUggnzxq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94ubUggnzxq/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-110",
+          "title": "Variables in PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XspYtbdBU4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XspYtbdBU4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XspYtbdBU4/video.m3u8",
+          "duration": 389,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-111",
+          "title": "Arrays in PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55REmasqaJ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55REmasqaJ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55REmasqaJ2/video.m3u8",
+          "duration": 6015,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-112",
+          "title": "Conditional statements in PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GXa5npfRD7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GXa5npfRD7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GXa5npfRD7/video.m3u8",
+          "duration": 495,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-113",
+          "title": "For loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgDkhBejF57/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgDkhBejF57/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgDkhBejF57/video.m3u8",
+          "duration": 749,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-114",
+          "title": "While loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByzgrDyTfgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByzgrDyTfgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByzgrDyTfgM/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-115",
+          "title": "Get variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RC4HDee3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RC4HDee3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RC4HDee3c/video.m3u8",
+          "duration": 8360,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-116",
+          "title": "Post variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73RK9en8sZM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73RK9en8sZM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73RK9en8sZM/video.m3u8",
+          "duration": 648,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-117",
+          "title": "Sending mail with PHP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xU8ZdHjCJB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xU8ZdHjCJB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xU8ZdHjCJB/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-118",
+          "title": "PROJECT-Contact Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8njfXjjHJH7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8njfXjjHJH7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8njfXjjHJH7/video.m3u8",
+          "duration": 2122,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-119",
+          "title": "Getting content of other scripts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhHChgH4us7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhHChgH4us7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhHChgH4us7/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MySQL",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-120",
+          "title": "Introduction to MySQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeeCPZGstdj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeeCPZGstdj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeeCPZGstdj/video.m3u8",
+          "duration": 509,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-121",
+          "title": "Connecting with MySQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6axPBttchFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6axPBttchFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6axPBttchFr/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-122",
+          "title": "Insert and Update record",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhnEzA32fBu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhnEzA32fBu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhnEzA32fBu/video.m3u8",
+          "duration": 777,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-123",
+          "title": "Retriving data from database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfZ4EfPPjj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfZ4EfPPjj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfZ4EfPPjj/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-124",
+          "title": "Sign up form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NMkj6YTYb48/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NMkj6YTYb48/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NMkj6YTYb48/video.m3u8",
+          "duration": 1713,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-125",
+          "title": "Session Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gKBXtqJaYY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gKBXtqJaYY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gKBXtqJaYY/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-126",
+          "title": "Cookies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZxnyqZnTH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZxnyqZnTH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZxnyqZnTH/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-127",
+          "title": "Storing password securely",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC9FMKaHpca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC9FMKaHpca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC9FMKaHpca/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "API",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-128",
+          "title": "API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BESetJs89tZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BESetJs89tZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BESetJs89tZ/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-129",
+          "title": "Authentication and JSON",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZ55FjmN66/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZ55FjmN66/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZ55FjmN66/video.m3u8",
+          "duration": 241,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-130",
+          "title": "Using- open weather map API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/syA9r3Dhc7T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/syA9r3Dhc7T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/syA9r3Dhc7T/video.m3u8",
+          "duration": 950,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Git and Github",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-131",
+          "title": "Git",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a8JCezbG8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a8JCezbG8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a8JCezbG8R/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-132",
+          "title": "Version control using git",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARsuzKhPZX2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARsuzKhPZX2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARsuzKhPZX2/video.m3u8",
+          "duration": 874,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-133",
+          "title": "Github and remote repositories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/836gUnfhJq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/836gUnfhJq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/836gUnfhJq3/video.m3u8",
+          "duration": 531,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-134",
+          "title": "Clonning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q6UKHBAHn5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q6UKHBAHn5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q6UKHBAHn5/video.m3u8",
+          "duration": 225,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-135",
+          "title": "Forking and pulling request",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YG5hnGC6y8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YG5hnGC6y8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YG5hnGC6y8/video.m3u8",
+          "duration": 565,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mobile apps",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-136",
+          "title": "Intro to app js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RZ4Cufh2jQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RZ4Cufh2jQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RZ4Cufh2jQ/video.m3u8",
+          "duration": 168,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-137",
+          "title": "First webapp using App.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/438sFjtj4XZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/438sFjtj4XZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/438sFjtj4XZ/video.m3u8",
+          "duration": 1262,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-138",
+          "title": "Storing data using LocalStorage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRZJc59Dmb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRZJc59Dmb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRZJc59Dmb/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-139",
+          "title": "PROJECT-Color changing web app",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xzGhpyrTyy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xzGhpyrTyy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xzGhpyrTyy/video.m3u8",
+          "duration": 1545,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-140",
+          "title": "Accessing your app using PHONEGAP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xjTXXsngyb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xjTXXsngyb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xjTXXsngyb/video.m3u8",
+          "duration": 247,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python",
+      "lectures": [
+        {
+          "id": "td-webdevelopment-141",
+          "title": "Why python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64SmKMsHeZm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64SmKMsHeZm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64SmKMsHeZm/video.m3u8",
+          "duration": 201,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-142",
+          "title": "Hello world in python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qKhMnT6nFE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qKhMnT6nFE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qKhMnT6nFE/video.m3u8",
+          "duration": 231,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-143",
+          "title": "Variables and Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RKPxK885xM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RKPxK885xM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RKPxK885xM/video.m3u8",
+          "duration": 950,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-144",
+          "title": "Conditional statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dazxgaYK5g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dazxgaYK5g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dazxgaYK5g/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-145",
+          "title": "Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5anhssDJ7dp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5anhssDJ7dp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5anhssDJ7dp/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-146",
+          "title": "Functions in python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdBkYjCkDEd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdBkYjCkDEd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdBkYjCkDEd/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-webdevelopment-147",
+          "title": "PROJECT-Rock Paper Scissors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbcBRcgtmp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbcBRcgtmp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbcBRcgtmp/video.m3u8",
+          "duration": 1169,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-webdevelopment-21",
+          "title": "Final project",
+          "url": "https://docs.google.com/document/d/1nS-og-Hzgj61RpC9EwmTBNb0nRkMtYR6/edit?usp=sharing&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nS-og-Hzgj61RpC9EwmTBNb0nRkMtYR6/edit?usp=sharing&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nS-og-Hzgj61RpC9EwmTBNb0nRkMtYR6/edit?usp=sharing&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nS-og-Hzgj61RpC9EwmTBNb0nRkMtYR6/edit?usp=sharing&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

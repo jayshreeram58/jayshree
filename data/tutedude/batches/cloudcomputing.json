@@ -1,0 +1,3194 @@
+{
+  "platform": "TuteDude",
+  "batchId": "cloudcomputing",
+  "batchSlug": "cloudcomputing",
+  "batchName": "Cloud Computing",
+  "thumbnail": "https://www.tutedude.com/assets/avif/cloudcomputing.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/cloudcomputing",
+  "totalSections": 33,
+  "totalLectures": 330,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Course Overview",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-2",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52fJ7FQaZ5h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52fJ7FQaZ5h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52fJ7FQaZ5h/video.m3u8",
+          "duration": 106,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Creating an AWS Account",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-3",
+          "title": "Creating AWS Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QceGyhDKc4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QceGyhDKc4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QceGyhDKc4/video.m3u8",
+          "duration": 151,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Origin of Cloud Computing",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-4",
+          "title": "Origin of Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9cKem9gnrs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9cKem9gnrs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9cKem9gnrs/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-5",
+          "title": "Virtualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C5p48CjN9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C5p48CjN9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C5p48CjN9D/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-6",
+          "title": "Benefits of Virtualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E6UkBjeAUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E6UkBjeAUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E6UkBjeAUc/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-7",
+          "title": "Uses and Future aspects of cloud computing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83d7THb3Rsp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83d7THb3Rsp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83d7THb3Rsp/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Traditional IT Approach vs Cloud Computing",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-8",
+          "title": "Traditional IT approach overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EASky7aztb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EASky7aztb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EASky7aztb/video.m3u8",
+          "duration": 42,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-9",
+          "title": "Problems with traditional IT approach",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSBmeYRHzQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSBmeYRHzQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSBmeYRHzQ/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-10",
+          "title": "Cloud Computing Key Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sPQXJghjtP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sPQXJghjtP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sPQXJghjtP/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-11",
+          "title": "Benefits of cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GyD8xKA6PY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GyD8xKA6PY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GyD8xKA6PY/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-12",
+          "title": "Tabular Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADNy4hnKgBJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADNy4hnKgBJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADNy4hnKgBJ/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cloud Service Models",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-13",
+          "title": "Cloud Service Models Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YhsK6RZBz6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YhsK6RZBz6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YhsK6RZBz6/video.m3u8",
+          "duration": 83,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-14",
+          "title": "Infrastructure as a service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p8QgdFB7GB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p8QgdFB7GB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p8QgdFB7GB/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-15",
+          "title": "PaaS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33ejnqyTdeG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33ejnqyTdeG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33ejnqyTdeG/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-16",
+          "title": "SaaS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At3K23Ugm27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At3K23Ugm27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At3K23Ugm27/video.m3u8",
+          "duration": 281,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-17",
+          "title": "Tabular Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFmRPSP78K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFmRPSP78K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFmRPSP78K/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-18",
+          "title": "Other Services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkZkjMXKEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkZkjMXKEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkZkjMXKEr/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cloud deployment models",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-19",
+          "title": "Cloud deployment models Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gc36sf4tDr9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gc36sf4tDr9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gc36sf4tDr9/video.m3u8",
+          "duration": 67,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-20",
+          "title": "Cloud Deployment Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae4urj7mx92/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae4urj7mx92/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae4urj7mx92/video.m3u8",
+          "duration": 588,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-21",
+          "title": "Private Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sDuyXuR8X2H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sDuyXuR8X2H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sDuyXuR8X2H/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-22",
+          "title": "Hybrid Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ua5DQB8Ua9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ua5DQB8Ua9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ua5DQB8Ua9/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-23",
+          "title": "Community Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y2z97mXa8n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y2z97mXa8n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y2z97mXa8n/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cloud computing challenges",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-24",
+          "title": "Cloud computing challenges Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eSDujrUaYD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eSDujrUaYD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eSDujrUaYD/video.m3u8",
+          "duration": 98,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-25",
+          "title": "Challenge 1 Security",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SgQypjQQdD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SgQypjQQdD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SgQypjQQdD/video.m3u8",
+          "duration": 1060,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-26",
+          "title": "Challenge 2 Vendo Lock-in",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/astDsn7RhEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/astDsn7RhEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/astDsn7RhEp/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-27",
+          "title": "Challenge 3 Monitoring",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r5CNn4phZbX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r5CNn4phZbX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r5CNn4phZbX/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-28",
+          "title": "Challenge 4 Compliance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67ZYeY2Ryjp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67ZYeY2Ryjp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67ZYeY2Ryjp/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-29",
+          "title": "Challenge 5 Cost Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gmnYgPZG6f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gmnYgPZG6f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gmnYgPZG6f/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-30",
+          "title": "Challenge 6 Migration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HME4Aaqtbp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HME4Aaqtbp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HME4Aaqtbp/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-31",
+          "title": "Challenge 7 Automation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y7FuyUuAQQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y7FuyUuAQQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y7FuyUuAQQ/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-32",
+          "title": "Challenge 8 Performance & Latency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r3Ty55sD6B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r3Ty55sD6B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r3Ty55sD6B/video.m3u8",
+          "duration": 390,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Networking in cloud computing",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-33",
+          "title": "Networking in cloud computing Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kuaD925yxE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kuaD925yxE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kuaD925yxE/video.m3u8",
+          "duration": 104,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-34",
+          "title": "Networking fundamentals part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnzmQdadNQX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnzmQdadNQX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnzmQdadNQX/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-35",
+          "title": "Networking Fundamentals part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApmatjsNXN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApmatjsNXN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApmatjsNXN/video.m3u8",
+          "duration": 585,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-36",
+          "title": "Networking Devices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49hhJ96fB7S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49hhJ96fB7S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49hhJ96fB7S/video.m3u8",
+          "duration": 772,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-37",
+          "title": "Network Protocols Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zXQMb2JmTH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zXQMb2JmTH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zXQMb2JmTH/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-38",
+          "title": "Network Protocols Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9hf95Xp28/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9hf95Xp28/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9hf95Xp28/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-39",
+          "title": "Network design and architecure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHgTDxKNsDn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHgTDxKNsDn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHgTDxKNsDn/video.m3u8",
+          "duration": 1223,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-40",
+          "title": "Types of network architecture and best practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZcE78xcsUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZcE78xcsUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZcE78xcsUc/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-41",
+          "title": "Network Secuirty",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cYzpGEneSM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cYzpGEneSM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cYzpGEneSM/video.m3u8",
+          "duration": 382,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Security Best Practices",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-42",
+          "title": "Security Best Practices Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xks7J6Z3UN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xks7J6Z3UN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xks7J6Z3UN/video.m3u8",
+          "duration": 108,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-43",
+          "title": "Encryption - Made with Clipchamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCrPDB7huyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCrPDB7huyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCrPDB7huyf/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-44",
+          "title": "IAM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69SJqn9bFuU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69SJqn9bFuU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69SJqn9bFuU/video.m3u8",
+          "duration": 116,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-45",
+          "title": "Backup & High Availability - Made with Clipchamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hDx2urYAzb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hDx2urYAzb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hDx2urYAzb/video.m3u8",
+          "duration": 817,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-46",
+          "title": "Network Secuirty",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MZUP62xHtR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MZUP62xHtR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MZUP62xHtR/video.m3u8",
+          "duration": 382,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-47",
+          "title": "Account Management & Secuirty Services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HTZjF4CanJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HTZjF4CanJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HTZjF4CanJ/video.m3u8",
+          "duration": 429,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cloud Providers",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-48",
+          "title": "Cloud Providers Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXzgXn3QJm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXzgXn3QJm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXzgXn3QJm/video.m3u8",
+          "duration": 55,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-49",
+          "title": "AWS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax7tHCke3sy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax7tHCke3sy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax7tHCke3sy/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-50",
+          "title": "Microsoft Azure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BehAFYhyXC4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BehAFYhyXC4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BehAFYhyXC4/video.m3u8",
+          "duration": 127,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-51",
+          "title": "GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C897jpQpYTZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C897jpQpYTZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C897jpQpYTZ/video.m3u8",
+          "duration": 119,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-52",
+          "title": "IBM Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9stCRkHaKqS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9stCRkHaKqS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9stCRkHaKqS/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-53",
+          "title": "Oracle cloud infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMTYRjxJM8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMTYRjxJM8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMTYRjxJM8R/video.m3u8",
+          "duration": 110,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-54",
+          "title": "Ali Baba Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aCeFrrzqkP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aCeFrrzqkP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aCeFrrzqkP/video.m3u8",
+          "duration": 155,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-55",
+          "title": "Digital Ocean",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55tRFNTuaMM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55tRFNTuaMM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55tRFNTuaMM/video.m3u8",
+          "duration": 143,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to AWS",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-56",
+          "title": "Introduction to AWS Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RETmuryzXC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RETmuryzXC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RETmuryzXC/video.m3u8",
+          "duration": 60,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-57",
+          "title": "AWS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gGa55ZeYQj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gGa55ZeYQj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gGa55ZeYQj/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-58",
+          "title": "AWS Cloud History & Future",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aTrBnftUP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aTrBnftUP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aTrBnftUP/video.m3u8",
+          "duration": 199,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-59",
+          "title": "AWS Cloud Facts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85xMJUAm6TH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85xMJUAm6TH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85xMJUAm6TH/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-60",
+          "title": "AWS Regions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hy2zSmfpBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hy2zSmfpBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hy2zSmfpBC/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-61",
+          "title": "AWS Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZPsXtyXbJf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZPsXtyXbJf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZPsXtyXbJf/video.m3u8",
+          "duration": 293,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "IAM",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-62",
+          "title": "IAM Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjKX86ZAcAY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjKX86ZAcAY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjKX86ZAcAY/video.m3u8",
+          "duration": 74,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-63",
+          "title": "Users & Group",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bRFCG8ZZyN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bRFCG8ZZyN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bRFCG8ZZyN/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-64",
+          "title": "HandsOn IAM Users & Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgXaS8uBDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgXaS8uBDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgXaS8uBDG/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-65",
+          "title": "IAM Permissions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z92PThTXFH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z92PThTXFH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z92PThTXFH/video.m3u8",
+          "duration": 113,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-66",
+          "title": "IAM Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BTGcxn7Uh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BTGcxn7Uh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BTGcxn7Uh/video.m3u8",
+          "duration": 115,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-67",
+          "title": "IAM policy structure and password policy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsS86mmUtcE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsS86mmUtcE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsS86mmUtcE/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-68",
+          "title": "MFA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9utZgbrpNzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9utZgbrpNzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9utZgbrpNzh/video.m3u8",
+          "duration": 169,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-69",
+          "title": "Access to AWS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64Ncc8zGFfz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64Ncc8zGFfz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64Ncc8zGFfz/video.m3u8",
+          "duration": 290,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-70",
+          "title": "Hands ON MFA & Access Keys",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rmTZp4qdNDe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rmTZp4qdNDe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rmTZp4qdNDe/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-71",
+          "title": "IAM Roles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NNdxrprkGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NNdxrprkGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NNdxrprkGR/video.m3u8",
+          "duration": 141,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-72",
+          "title": "Hands ON IAM Roles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXr4drmMXU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXr4drmMXU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXr4drmMXU/video.m3u8",
+          "duration": 145,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-73",
+          "title": "IAM Secuirty Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pn9b6xksKf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pn9b6xksKf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pn9b6xksKf/video.m3u8",
+          "duration": 160,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-74",
+          "title": "Shared Responsibility Model for IAM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3HaaB6astN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3HaaB6astN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3HaaB6astN/video.m3u8",
+          "duration": 355,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "EC2",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-75",
+          "title": "EC2 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Epdt2ja2FPg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Epdt2ja2FPg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Epdt2ja2FPg/video.m3u8",
+          "duration": 70,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-76",
+          "title": "EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcBMNgetmB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcBMNgetmB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcBMNgetmB/video.m3u8",
+          "duration": 317,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-77",
+          "title": "Hands On Launching first EC2 instance - Made with Clipchamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85DfmczA3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85DfmczA3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85DfmczA3B/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-78",
+          "title": "EC2 instance type",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY5TStSyMF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY5TStSyMF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY5TStSyMF/video.m3u8",
+          "duration": 767,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-79",
+          "title": "Hands On instance types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S4XfKBqs2u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S4XfKBqs2u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S4XfKBqs2u/video.m3u8",
+          "duration": 193,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-80",
+          "title": "Security Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZeZPNgcyej/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZeZPNgcyej/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZeZPNgcyej/video.m3u8",
+          "duration": 179,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-81",
+          "title": "Hands On Security Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pnX2zSnnmT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pnX2zSnnmT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pnX2zSnnmT/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-82",
+          "title": "Security Group Properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nUQ7Qk2rkA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nUQ7Qk2rkA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nUQ7Qk2rkA/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-83",
+          "title": "Classic Ports",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjZRJPAeRGj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjZRJPAeRGj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjZRJPAeRGj/video.m3u8",
+          "duration": 119,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-84",
+          "title": "Public IP vs Private IP vs Elastic IP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQeAmRhGeyu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQeAmRhGeyu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQeAmRhGeyu/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-85",
+          "title": "Placement Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g25ZkGgQrnd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g25ZkGgQrnd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g25ZkGgQrnd/video.m3u8",
+          "duration": 838,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-86",
+          "title": "Hands On Placement Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P2yUK4N24F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P2yUK4N24F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P2yUK4N24F/video.m3u8",
+          "duration": 100,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-87",
+          "title": "ENIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EGUbD3CXNA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EGUbD3CXNA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EGUbD3CXNA/video.m3u8",
+          "duration": 179,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-88",
+          "title": "EC2 Hibernate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G9fAkqUYPT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G9fAkqUYPT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G9fAkqUYPT/video.m3u8",
+          "duration": 248,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-89",
+          "title": "Hands On EC2 Hibernate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CXNjjHY82e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CXNjjHY82e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CXNjjHY82e/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-90",
+          "title": "EC2 Purchasing Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c7JZr8TpCS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c7JZr8TpCS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c7JZr8TpCS/video.m3u8",
+          "duration": 1722,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-91",
+          "title": "EC2 Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RUMqECCPZx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RUMqECCPZx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RUMqECCPZx/video.m3u8",
+          "duration": 164,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-92",
+          "title": "Hands On EC2 Purchasing Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hbNRJcdk4AN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hbNRJcdk4AN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hbNRJcdk4AN/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-93",
+          "title": "AWS CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95B2MfjSHzM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95B2MfjSHzM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95B2MfjSHzM/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "EC2 instance storage",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-94",
+          "title": "EC2 instance storage Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UEpXYUGTDJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UEpXYUGTDJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UEpXYUGTDJ/video.m3u8",
+          "duration": 95,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-95",
+          "title": "EBS volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPkbtkJMz4r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPkbtkJMz4r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPkbtkJMz4r/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-96",
+          "title": "EBS Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deQnbFUkPfc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deQnbFUkPfc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deQnbFUkPfc/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-97",
+          "title": "EBS Snapshots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z3SySyXk53/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z3SySyXk53/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z3SySyXk53/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-98",
+          "title": "Hands On Multi-EBS volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bxsbhc6CD3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bxsbhc6CD3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bxsbhc6CD3/video.m3u8",
+          "duration": 598,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-99",
+          "title": "Hands On EBS Snapshots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdHZJ2Jc9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdHZJ2Jc9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdHZJ2Jc9D/video.m3u8",
+          "duration": 460,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-100",
+          "title": "AMI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjRhMaaJ4u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjRhMaaJ4u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjRhMaaJ4u/video.m3u8",
+          "duration": 475,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-101",
+          "title": "Instance store",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42j66MkMmSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42j66MkMmSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42j66MkMmSC/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-102",
+          "title": "EBS Volume Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ3sbNQbMQF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ3sbNQbMQF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ3sbNQbMQF/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-103",
+          "title": "EBS multi-attach",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkKbRhACK6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkKbRhACK6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkKbRhACK6/video.m3u8",
+          "duration": 184,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-104",
+          "title": "EBS encryption",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QCGtRMBxcU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QCGtRMBxcU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QCGtRMBxcU/video.m3u8",
+          "duration": 266,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-105",
+          "title": "EFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k8kDCMfzMbe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k8kDCMfzMbe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k8kDCMfzMbe/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-106",
+          "title": "EFS Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gFQHQaEFC4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gFQHQaEFC4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gFQHQaEFC4/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-107",
+          "title": "EFS vs EBS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RaXS8PTgFx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RaXS8PTgFx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RaXS8PTgFx/video.m3u8",
+          "duration": 500,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-108",
+          "title": "Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdnhxr4QRre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdnhxr4QRre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdnhxr4QRre/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Scalability & Load Balancing",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-109",
+          "title": "Scalability & Load Balancing Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArZugq2Cry9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArZugq2Cry9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArZugq2Cry9/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-110",
+          "title": "Scalability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BmYM3ttKKY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BmYM3ttKKY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BmYM3ttKKY/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-111",
+          "title": "High Availability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3EJRcAUZan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3EJRcAUZan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3EJRcAUZan/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-112",
+          "title": "Elasticity vs Scalability vs Agility",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678BjPZHjDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678BjPZHjDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678BjPZHjDh/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-113",
+          "title": "Load Balancing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6379gxZPEAR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6379gxZPEAR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6379gxZPEAR/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-114",
+          "title": "Application Load Balancer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Rprtz5Sqp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Rprtz5Sqp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Rprtz5Sqp/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-115",
+          "title": "Network Load Balancer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmhKky4cYRn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmhKky4cYRn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmhKky4cYRn/video.m3u8",
+          "duration": 189,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-116",
+          "title": "Gateway Load Balancer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bNXEBrur5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bNXEBrur5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bNXEBrur5H/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-117",
+          "title": "Classic Load Balancer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzusnXzpBzt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzusnXzpBzt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzusnXzpBzt/video.m3u8",
+          "duration": 122,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-118",
+          "title": "Load Balancing types Dedicated Cmomparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QF8KNEsrJy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QF8KNEsrJy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QF8KNEsrJy/video.m3u8",
+          "duration": 200,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-119",
+          "title": "Cross Zone Load Balancing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dn8U6pDFxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dn8U6pDFxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dn8U6pDFxG/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-120",
+          "title": "Hands On ALB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AuURcaayzK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AuURcaayzK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AuURcaayzK/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-121",
+          "title": "Hands On NLB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HHzGRRneE76/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HHzGRRneE76/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HHzGRRneE76/video.m3u8",
+          "duration": 278,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-122",
+          "title": "Sticky Sessions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Bgba3Qptha/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Bgba3Qptha/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Bgba3Qptha/video.m3u8",
+          "duration": 408,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-123",
+          "title": "Connection Draining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGMpAkRTuy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGMpAkRTuy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGMpAkRTuy/video.m3u8",
+          "duration": 169,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-124",
+          "title": "Auto Scaling Group",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JYq4MSpQ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JYq4MSpQ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JYq4MSpQ5/video.m3u8",
+          "duration": 598,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-125",
+          "title": "NOTE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EYg8NXscUY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EYg8NXscUY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EYg8NXscUY/video.m3u8",
+          "duration": 10,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-126",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUNrf5JeRY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUNrf5JeRY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUNrf5JeRY/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-127",
+          "title": "Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y5aCbFamXE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y5aCbFamXE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y5aCbFamXE/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "S3",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-128",
+          "title": "S3 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/478xQms4x7D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/478xQms4x7D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/478xQms4x7D/video.m3u8",
+          "duration": 60,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-129",
+          "title": "S3 Buckets & Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fSYn8razX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fSYn8razX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fSYn8razX7/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-130",
+          "title": "Hands on creating bucket and uploading objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z3EGHS7P4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z3EGHS7P4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z3EGHS7P4k/video.m3u8",
+          "duration": 520,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-131",
+          "title": "S3 Bucket Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p3eEPkbFQ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p3eEPkbFQ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p3eEPkbFQ5/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-132",
+          "title": "Hands On S3 bucket policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fpbGbE2UE4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fpbGbE2UE4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fpbGbE2UE4/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-133",
+          "title": "Static Website Hosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGXkRufh7JR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGXkRufh7JR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGXkRufh7JR/video.m3u8",
+          "duration": 134,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-134",
+          "title": "Hand On hosting a static website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4jZqFQb78/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4jZqFQb78/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4jZqFQb78/video.m3u8",
+          "duration": 182,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-135",
+          "title": "S3 versioning and Replication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjMZHKCXjN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjMZHKCXjN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjMZHKCXjN/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-136",
+          "title": "Hands On S3 Versioning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XAPYb54CQT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XAPYb54CQT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XAPYb54CQT/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-137",
+          "title": "Hands On S3 replication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQaFzCR2ynH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQaFzCR2ynH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQaFzCR2ynH/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-138",
+          "title": "S3 Storage Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjTebAYqz5h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjTebAYqz5h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjTebAYqz5h/video.m3u8",
+          "duration": 60,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-139",
+          "title": "Hands on S3 storage classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jHCcnuE4Bn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jHCcnuE4Bn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jHCcnuE4Bn/video.m3u8",
+          "duration": 466,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-140",
+          "title": "S3 Lifecycle Rules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8mt8AjmqX6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8mt8AjmqX6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8mt8AjmqX6/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-141",
+          "title": "Hands on S3 lifecycle rules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aeCZZY3aNZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aeCZZY3aNZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aeCZZY3aNZ/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-142",
+          "title": "S3 Performance Enhancers & Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57DfbGh9mfn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57DfbGh9mfn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57DfbGh9mfn/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-143",
+          "title": "S3 Batch Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRPB7ABHbD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRPB7ABHbD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRPB7ABHbD/video.m3u8",
+          "duration": 138,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-144",
+          "title": "S3 Requester Pays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/682xPkGsptB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/682xPkGsptB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/682xPkGsptB/video.m3u8",
+          "duration": 173,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-145",
+          "title": "Hands on requester pays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ehyejDJHbG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ehyejDJHbG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ehyejDJHbG/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-146",
+          "title": "S3 Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeD246mqcTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeD246mqcTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeD246mqcTk/video.m3u8",
+          "duration": 298,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-147",
+          "title": "S3 Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5urXc3DRr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5urXc3DRr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5urXc3DRr/video.m3u8",
+          "duration": 244,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "S3 Security",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-148",
+          "title": "S3 Security overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9ByqTQZde/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9ByqTQZde/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9ByqTQZde/video.m3u8",
+          "duration": 68,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-149",
+          "title": "S3 Encryption & types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AErU6yj3YfA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AErU6yj3YfA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AErU6yj3YfA/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-150",
+          "title": "Hands on S3 encryption",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnxsGYUDnzj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnxsGYUDnzj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnxsGYUDnzj/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-151",
+          "title": "S3 CORS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39SCtY6NH5R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39SCtY6NH5R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39SCtY6NH5R/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-152",
+          "title": "S3 MFA delete",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ThmxSjANqy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ThmxSjANqy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ThmxSjANqy/video.m3u8",
+          "duration": 138,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-153",
+          "title": "Hands on MFA Delete",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sFnkpxY7ZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sFnkpxY7ZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sFnkpxY7ZE/video.m3u8",
+          "duration": 687,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-154",
+          "title": "S3 Access logs warning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dQYgsJMZ64/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dQYgsJMZ64/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dQYgsJMZ64/video.m3u8",
+          "duration": 141,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-155",
+          "title": "S3 Pre-Signed URLs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jnU2M7XQZT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jnU2M7XQZT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jnU2M7XQZT/video.m3u8",
+          "duration": 288,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-156",
+          "title": "Hands on S3 Pre-Signed URLs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y2kyUkuMhh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y2kyUkuMhh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y2kyUkuMhh/video.m3u8",
+          "duration": 202,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-157",
+          "title": "S3 Object lock",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6crKdgsUyYr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6crKdgsUyYr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6crKdgsUyYr/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-158",
+          "title": "Hands on S3 Object Lock",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CAFM9AKGp4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CAFM9AKGp4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CAFM9AKGp4/video.m3u8",
+          "duration": 180,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-159",
+          "title": "S3 Access Points",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FNnyHxs9R4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FNnyHxs9R4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FNnyHxs9R4/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-160",
+          "title": "S3 Security Best Practices and Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jJHzhrp8xB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jJHzhrp8xB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jJHzhrp8xB/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AWS Snow Family",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-161",
+          "title": "AWS Snow Family Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pzX2f5D3E6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pzX2f5D3E6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pzX2f5D3E6/video.m3u8",
+          "duration": 78,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-162",
+          "title": "Snowball Edge",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxJbXYc3eQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxJbXYc3eQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxJbXYc3eQs/video.m3u8",
+          "duration": 450,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-163",
+          "title": "Edge Computing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3my9435rfT3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3my9435rfT3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3my9435rfT3/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-164",
+          "title": "Snowball Cone",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccugT3GC2n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccugT3GC2n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccugT3GC2n/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-165",
+          "title": "Snowmobile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695jt87aMfy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695jt87aMfy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695jt87aMfy/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-166",
+          "title": "Snow family pricing comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ARZkKEFQG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ARZkKEFQG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ARZkKEFQG/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-167",
+          "title": "Hands on Snow Family",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeDY3McN5N2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeDY3McN5N2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeDY3McN5N2/video.m3u8",
+          "duration": 870,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-168",
+          "title": "Snow Family best practices and shared responsibility model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tbHs4RZeus/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tbHs4RZeus/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tbHs4RZeus/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Databases and Analytics",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-169",
+          "title": "Databases and Analytics Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASamuTn44uC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASamuTn44uC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASamuTn44uC/video.m3u8",
+          "duration": 155,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-170",
+          "title": "Relational Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH3ZA7bp9JA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH3ZA7bp9JA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH3ZA7bp9JA/video.m3u8",
+          "duration": 393,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-171",
+          "title": "RDS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fSegCy3gRf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fSegCy3gRf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fSegCy3gRf/video.m3u8",
+          "duration": 1163,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-172",
+          "title": "hands on RDS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QqhaCpC8nJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QqhaCpC8nJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QqhaCpC8nJ/video.m3u8",
+          "duration": 833,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-173",
+          "title": "Amazon Aurora",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NBfTEC24rJC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NBfTEC24rJC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NBfTEC24rJC/video.m3u8",
+          "duration": 994,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-174",
+          "title": "Hands On Aurora",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHcycYACyC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHcycYACyC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHcycYACyC/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-175",
+          "title": "Dynamo DB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtU2GEHYqRB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtU2GEHYqRB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtU2GEHYqRB/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-176",
+          "title": "Dynamo DB hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCXxear7ZCM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCXxear7ZCM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCXxear7ZCM/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-177",
+          "title": "AWS EMR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gPDUGpA4TP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gPDUGpA4TP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gPDUGpA4TP/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-178",
+          "title": "Red Shift",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KmEGFeExmS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KmEGFeExmS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KmEGFeExmS/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-179",
+          "title": "Athena",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CeaqYbc4Y8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CeaqYbc4Y8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CeaqYbc4Y8/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-180",
+          "title": "Hands on Query S3 data through AWS Athena",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m7XPsT9pEK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m7XPsT9pEK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m7XPsT9pEK/video.m3u8",
+          "duration": 473,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-181",
+          "title": "Quick Sight",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z4XMuXQg4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z4XMuXQg4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z4XMuXQg4f/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-182",
+          "title": "AWS Neptune",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GTSn9PNff/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GTSn9PNff/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GTSn9PNff/video.m3u8",
+          "duration": 387,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-183",
+          "title": "Hands On Neptune",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xzpDebnyFH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xzpDebnyFH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xzpDebnyFH/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-184",
+          "title": "QLDB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cUSGCsFSnT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cUSGCsFSnT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cUSGCsFSnT/video.m3u8",
+          "duration": 252,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-185",
+          "title": "Amazon Managed Block Chain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36sAcZ9HZMP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36sAcZ9HZMP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36sAcZ9HZMP/video.m3u8",
+          "duration": 203,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-186",
+          "title": "Hands on QLDB & Managed block chain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmpusEB4b5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmpusEB4b5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmpusEB4b5/video.m3u8",
+          "duration": 313,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-187",
+          "title": "AWS Glue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xGyrDMYRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xGyrDMYRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xGyrDMYRG/video.m3u8",
+          "duration": 413,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-188",
+          "title": "Timestream",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HsCDnh7PFFn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HsCDnh7PFFn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HsCDnh7PFFn/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-189",
+          "title": "Hands On Timestream Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XZTgKdAEK88/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XZTgKdAEK88/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XZTgKdAEK88/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-190",
+          "title": "AWS DMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FEuK7ZQ6ep/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FEuK7ZQ6ep/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FEuK7ZQ6ep/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-191",
+          "title": "Hands on DMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DyhxE8sPAc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DyhxE8sPAc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DyhxE8sPAc/video.m3u8",
+          "duration": 259,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-192",
+          "title": "Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k7CehxS5E5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k7CehxS5E5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k7CehxS5E5/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Databases & Caching",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-193",
+          "title": "Databases & Caching Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC9qR2BNAh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC9qR2BNAh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC9qR2BNAh/video.m3u8",
+          "duration": 28,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-194",
+          "title": "RDS Proxy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HXtsNuJdKA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HXtsNuJdKA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HXtsNuJdKA/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-195",
+          "title": "Hands on Connecting to RDS MySQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtDNSzXUahM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtDNSzXUahM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtDNSzXUahM/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-196",
+          "title": "Aurora Advanced Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RdbZshx3pQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RdbZshx3pQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RdbZshx3pQ/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-197",
+          "title": "Elasti Cache",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzkbPY2DJDM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzkbPY2DJDM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzkbPY2DJDM/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-198",
+          "title": "Elasti Cache - Made with Clipchamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cR2AUxk399/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cR2AUxk399/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cR2AUxk399/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Containerization & Serverless Services",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-199",
+          "title": "Containerization & Serverless Services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ckym9z8PXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ckym9z8PXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ckym9z8PXZ/video.m3u8",
+          "duration": 69,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-200",
+          "title": "Docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2yDP85AQd5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2yDP85AQd5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2yDP85AQd5/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-201",
+          "title": "ECS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qrPMjxzKX5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qrPMjxzKX5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qrPMjxzKX5/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-202",
+          "title": "Hands On ECS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PYe8RJqKMG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PYe8RJqKMG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PYe8RJqKMG/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-203",
+          "title": "Fargate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dfak2EdRnT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dfak2EdRnT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dfak2EdRnT/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-204",
+          "title": "Hands on ECS with ec2 & fargate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMHb8XrnuP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMHb8XrnuP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMHb8XrnuP/video.m3u8",
+          "duration": 710,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-205",
+          "title": "ECR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uNDdZ228nm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uNDdZ228nm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uNDdZ228nm/video.m3u8",
+          "duration": 194,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-206",
+          "title": "Serverless",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yehzcqYrNq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yehzcqYrNq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yehzcqYrNq/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-207",
+          "title": "Lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sapm4eaBEe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sapm4eaBEe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sapm4eaBEe/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-208",
+          "title": "Hands On lambda function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HDkmy6bKuH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HDkmy6bKuH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HDkmy6bKuH/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-209",
+          "title": "s3 trigger lambda function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QPRjhkyH2S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QPRjhkyH2S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QPRjhkyH2S/video.m3u8",
+          "duration": 679,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-210",
+          "title": "EKS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5QF3NGae4U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5QF3NGae4U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5QF3NGae4U/video.m3u8",
+          "duration": 355,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-211",
+          "title": "Hands On EKS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAbUZXAJzgd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAbUZXAJzgd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAbUZXAJzgd/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-212",
+          "title": "Light Sail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t9PKyHuUcN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t9PKyHuUcN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t9PKyHuUcN/video.m3u8",
+          "duration": 203,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-213",
+          "title": "Hands On Light Sail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY3TbknH5FG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY3TbknH5FG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY3TbknH5FG/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-214",
+          "title": "API Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7dGkBux62u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7dGkBux62u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7dGkBux62u/video.m3u8",
+          "duration": 161,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-215",
+          "title": "Hands On api gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MPXbzcQz3r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MPXbzcQz3r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MPXbzcQz3r/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-216",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSsDPen7MT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSsDPen7MT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSsDPen7MT/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DNS Route 53",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-217",
+          "title": "DNS Route 53 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nxTPmZuSnX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nxTPmZuSnX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nxTPmZuSnX/video.m3u8",
+          "duration": 61,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-218",
+          "title": "DNS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D52HDTmMtF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D52HDTmMtF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D52HDTmMtF/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-219",
+          "title": "Route53",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn6rjPjqna/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn6rjPjqna/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn6rjPjqna/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-220",
+          "title": "Records Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u8dD9QMZXq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u8dD9QMZXq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u8dD9QMZXq/video.m3u8",
+          "duration": 215,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-221",
+          "title": "TTL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uR56XaYeKq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uR56XaYeKq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uR56XaYeKq/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-222",
+          "title": "Routing Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yYA763M2fM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yYA763M2fM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yYA763M2fM/video.m3u8",
+          "duration": 792,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-223",
+          "title": "Hands On Route 53",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rf9YX9m73e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rf9YX9m73e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rf9YX9m73e/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-224",
+          "title": "Best Practices & Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TErfbrn3mk2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TErfbrn3mk2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TErfbrn3mk2/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Global Services",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-225",
+          "title": "Global Services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kbmnm2htGb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kbmnm2htGb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kbmnm2htGb/video.m3u8",
+          "duration": 71,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-226",
+          "title": "Cloud Front",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92USUXChAkQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92USUXChAkQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92USUXChAkQ/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-227",
+          "title": "Global Accelerator Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HfSBaNnCCs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HfSBaNnCCs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HfSBaNnCCs/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-228",
+          "title": "Cloud Front vs Global Accelerator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dXsB28qX7G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dXsB28qX7G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dXsB28qX7G/video.m3u8",
+          "duration": 204,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-229",
+          "title": "Hands On CloudFront",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNtk2Zd67b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNtk2Zd67b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNtk2Zd67b/video.m3u8",
+          "duration": 220,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-230",
+          "title": "Hands On Global Accelerator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fMbqj4NjH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fMbqj4NjH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fMbqj4NjH/video.m3u8",
+          "duration": 145,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-231",
+          "title": "Local Zones",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yP6ttA63gEx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yP6ttA63gEx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yP6ttA63gEx/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-232",
+          "title": "S3 CORS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YS5rPFd2Jq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YS5rPFd2Jq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YS5rPFd2Jq/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-233",
+          "title": "aws wavelegth - Made with Clipchamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jTFYQxYsCu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jTFYQxYsCu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jTFYQxYsCu9/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Infrastructure creation & Management services",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-234",
+          "title": "Infrastructure creation & Management services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8p4MKH2dGAU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8p4MKH2dGAU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8p4MKH2dGAU/video.m3u8",
+          "duration": 61,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-235",
+          "title": "AWS Code Artifact",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65BxQsxM7cC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65BxQsxM7cC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65BxQsxM7cC/video.m3u8",
+          "duration": 593,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-236",
+          "title": "Cloud Formation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FerCUbypFc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FerCUbypFc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FerCUbypFc/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-237",
+          "title": "Dedicated pipeline/DevOps services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hYxQYybmnp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hYxQYybmnp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hYxQYybmnp/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-238",
+          "title": "Devops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd56rmjmKFt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd56rmjmKFt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd56rmjmKFt/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-239",
+          "title": "Elastic Beanstalk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3KzkDfky5C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3KzkDfky5C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3KzkDfky5C/video.m3u8",
+          "duration": 412,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-240",
+          "title": "Hands On Cloud Formation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KXr4afUxajG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KXr4afUxajG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KXr4afUxajG/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-241",
+          "title": "Hands On Elastic Beanstalk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s5G4JgnHaz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s5G4JgnHaz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s5G4JgnHaz/video.m3u8",
+          "duration": 520,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-242",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CzsAqEheGX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CzsAqEheGX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CzsAqEheGX/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Storage Advanced",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-243",
+          "title": "Storage Advanced Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx4keNQ6pp3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx4keNQ6pp3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx4keNQ6pp3/video.m3u8",
+          "duration": 65,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-244",
+          "title": "FSx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6PXDJSTgm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6PXDJSTgm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6PXDJSTgm/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-245",
+          "title": "Hands On FSx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rFCj5eBmsb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rFCj5eBmsb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rFCj5eBmsb/video.m3u8",
+          "duration": 755,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-246",
+          "title": "AWS File Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfYpkndacm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfYpkndacm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfYpkndacm/video.m3u8",
+          "duration": 1136,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-247",
+          "title": "Hands On Storage Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/defTgNaGrBH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/defTgNaGrBH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/defTgNaGrBH/video.m3u8",
+          "duration": 768,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-248",
+          "title": "Transfer Family",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxXf86unSKz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxXf86unSKz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxXf86unSKz/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-249",
+          "title": "Data Sync",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45DjeY7bXG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45DjeY7bXG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45DjeY7bXG4/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-250",
+          "title": "App2Container",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zSZNqs3nDD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zSZNqs3nDD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zSZNqs3nDD/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-251",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56AUcdfSJE7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56AUcdfSJE7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56AUcdfSJE7/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Monitoring",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-252",
+          "title": "Monitoring Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJcHffN4fS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJcHffN4fS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJcHffN4fS/video.m3u8",
+          "duration": 59,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-253",
+          "title": "Cloud Watch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkSBrgqzKbF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkSBrgqzKbF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkSBrgqzKbF/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-254",
+          "title": "Hands On Cloud Watch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bq3m4E7Myu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bq3m4E7Myu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bq3m4E7Myu/video.m3u8",
+          "duration": 281,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-255",
+          "title": "Cloud Trail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46mtQpAM7Cq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46mtQpAM7Cq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46mtQpAM7Cq/video.m3u8",
+          "duration": 358,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-256",
+          "title": "Hands On Cloud Trail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KMAuF38m4B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KMAuF38m4B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KMAuF38m4B/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-257",
+          "title": "Event Bridge",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnB2fuggaA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnB2fuggaA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnB2fuggaA/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-258",
+          "title": "AWS X-ray",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQHaTfyrxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQHaTfyrxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQHaTfyrxG/video.m3u8",
+          "duration": 283,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-259",
+          "title": "AWS Health Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8QR6XT9k8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8QR6XT9k8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8QR6XT9k8/video.m3u8",
+          "duration": 273,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-260",
+          "title": "Hands On AWS Health Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArfyU6nEeEM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArfyU6nEeEM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArfyU6nEeEM/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-261",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq2exu8yTCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq2exu8yTCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq2exu8yTCp/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decoupling",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-262",
+          "title": "Decoupling Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATkkfSZjT3b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATkkfSZjT3b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATkkfSZjT3b/video.m3u8",
+          "duration": 61,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-263",
+          "title": "Decoupling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmsYSZ24dX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmsYSZ24dX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmsYSZ24dX/video.m3u8",
+          "duration": 195,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-264",
+          "title": "SQS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ehFpfJqnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ehFpfJqnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ehFpfJqnC/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-265",
+          "title": "SNS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F8FB2U9uHD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F8FB2U9uHD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F8FB2U9uHD/video.m3u8",
+          "duration": 298,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-266",
+          "title": "Hands On SNS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ctmjkHZmCM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ctmjkHZmCM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ctmjkHZmCM/video.m3u8",
+          "duration": 70,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-267",
+          "title": "AWS Kinesis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DGnCR4et3j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DGnCR4et3j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DGnCR4et3j/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-268",
+          "title": "Kinesis Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gYgtydNxBN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gYgtydNxBN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gYgtydNxBN/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-269",
+          "title": "MQ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHArNcdYUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHArNcdYUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHArNcdYUz/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-270",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TKdqSfzAEJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TKdqSfzAEJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TKdqSfzAEJ/video.m3u8",
+          "duration": 177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Networking in AWS",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-271",
+          "title": "Networking 2 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pYuxKGQzCCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pYuxKGQzCCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pYuxKGQzCCp/video.m3u8",
+          "duration": 55,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-272",
+          "title": "VPC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjMpJFZTetC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjMpJFZTetC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjMpJFZTetC/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-273",
+          "title": "Hands On VPC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcQeDM4KcsE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcQeDM4KcsE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcQeDM4KcsE/video.m3u8",
+          "duration": 128,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-274",
+          "title": "VPC & Subnets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x433HFhnhN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x433HFhnhN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x433HFhnhN/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-275",
+          "title": "Hands On subnets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhM7CqHfF2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhM7CqHfF2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhM7CqHfF2/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-276",
+          "title": "VPC Flow Logs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFC5383xPz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFC5383xPz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFC5383xPz/video.m3u8",
+          "duration": 128,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-277",
+          "title": "Hands On Flow Logs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4kArTGjtdU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4kArTGjtdU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4kArTGjtdU/video.m3u8",
+          "duration": 174,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-278",
+          "title": "Internet Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ghYGQbmhby/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ghYGQbmhby/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ghYGQbmhby/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-279",
+          "title": "Hands On Internet Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E47eSXUY5x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E47eSXUY5x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E47eSXUY5x/video.m3u8",
+          "duration": 188,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-280",
+          "title": "VPC Peering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4CBz2DRUFe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4CBz2DRUFe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4CBz2DRUFe/video.m3u8",
+          "duration": 251,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-281",
+          "title": "Hands On VPC Peering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2e6EayzEk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2e6EayzEk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2e6EayzEk/video.m3u8",
+          "duration": 95,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-282",
+          "title": "Transit Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rMPBFGAXKQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rMPBFGAXKQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rMPBFGAXKQc/video.m3u8",
+          "duration": 288,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-283",
+          "title": "VPC End-Points",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zhnjfxF2BT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zhnjfxF2BT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zhnjfxF2BT/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-284",
+          "title": "Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nU4a8fGeTm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nU4a8fGeTm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nU4a8fGeTm/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI&ML services",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-285",
+          "title": "AI&ML services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YC7NBcDaxX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YC7NBcDaxX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YC7NBcDaxX/video.m3u8",
+          "duration": 66,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-286",
+          "title": "AWS Recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96XZq8BeBUA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96XZq8BeBUA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96XZq8BeBUA/video.m3u8",
+          "duration": 110,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-287",
+          "title": "Transcribe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNehu4Ua9f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNehu4Ua9f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNehu4Ua9f/video.m3u8",
+          "duration": 104,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-288",
+          "title": "Hands On Transcribe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5upruBGCXRf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5upruBGCXRf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5upruBGCXRf/video.m3u8",
+          "duration": 139,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-289",
+          "title": "AWS Polly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b98fRYHnNK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b98fRYHnNK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b98fRYHnNK/video.m3u8",
+          "duration": 68,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-290",
+          "title": "Hands On AWS Polly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52rPasqYdDC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52rPasqYdDC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52rPasqYdDC/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-291",
+          "title": "AWS Translate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ct6MfDQ2sj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ct6MfDQ2sj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ct6MfDQ2sj/video.m3u8",
+          "duration": 101,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-292",
+          "title": "AWS lex & Connect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K2cN73fadE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K2cN73fadE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K2cN73fadE/video.m3u8",
+          "duration": 122,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-293",
+          "title": "AWS Comprehend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UNAkpmgEp7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UNAkpmgEp7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UNAkpmgEp7/video.m3u8",
+          "duration": 126,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-294",
+          "title": "AWS Sagemaker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MtMSunuGM5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MtMSunuGM5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MtMSunuGM5/video.m3u8",
+          "duration": 109,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-295",
+          "title": "Forecast",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3StyyUpsn4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3StyyUpsn4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3StyyUpsn4/video.m3u8",
+          "duration": 132,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-296",
+          "title": "AWS Kendra",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9UfpmJYtAb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9UfpmJYtAb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9UfpmJYtAb/video.m3u8",
+          "duration": 156,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-297",
+          "title": "AWS Textract",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87yuPrP4urB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87yuPrP4urB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87yuPrP4urB/video.m3u8",
+          "duration": 103,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-298",
+          "title": "Services in short",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BszKuY7UkYC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BszKuY7UkYC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BszKuY7UkYC/video.m3u8",
+          "duration": 50,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-299",
+          "title": "Hands On Translate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuRXKnGz4yC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuRXKnGz4yC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuRXKnGz4yC/video.m3u8",
+          "duration": 113,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Security Services",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-300",
+          "title": "Security Services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jYzhYctrzP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jYzhYctrzP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jYzhYctrzP/video.m3u8",
+          "duration": 84,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-301",
+          "title": "DDoS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ysnmpRHGUm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ysnmpRHGUm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ysnmpRHGUm/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-302",
+          "title": "Hands On AWS Shield",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZsRmYRfBjt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZsRmYRfBjt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZsRmYRfBjt/video.m3u8",
+          "duration": 331,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-303",
+          "title": "Hands On WAF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjhZCCTKzB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjhZCCTKzB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjhZCCTKzB/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-304",
+          "title": "Network Firewall",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akp5BpCN2Q5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akp5BpCN2Q5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akp5BpCN2Q5/video.m3u8",
+          "duration": 272,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-305",
+          "title": "KMS & Cloud HSM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYBbdkpFxyQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYBbdkpFxyQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYBbdkpFxyQ/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-306",
+          "title": "Hands On KMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pRDmx2BAqa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pRDmx2BAqa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pRDmx2BAqa/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-307",
+          "title": "ACM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2HnEmtyQer/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2HnEmtyQer/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2HnEmtyQer/video.m3u8",
+          "duration": 116,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-308",
+          "title": "Secrets Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYqnfJEUgm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYqnfJEUgm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYqnfJEUgm/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-309",
+          "title": "Hands On Secrets Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRCqDPydAN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRCqDPydAN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRCqDPydAN/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-310",
+          "title": "Artifact",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXBbnS5KdQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXBbnS5KdQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXBbnS5KdQ6/video.m3u8",
+          "duration": 109,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-311",
+          "title": "Guard Duty",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnHsRCTFkE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnHsRCTFkE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnHsRCTFkE/video.m3u8",
+          "duration": 94,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-312",
+          "title": "Amazon Insepctor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxqxANXrfM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxqxANXrfM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxqxANXrfM/video.m3u8",
+          "duration": 154,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-313",
+          "title": "AWS Config",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdxKPqAhTXS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdxKPqAhTXS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdxKPqAhTXS/video.m3u8",
+          "duration": 107,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-314",
+          "title": "AWS Macie",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KxnhsR4h9d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KxnhsR4h9d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KxnhsR4h9d/video.m3u8",
+          "duration": 173,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-315",
+          "title": "AWS Detective",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zRDHZyZGp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zRDHZyZGp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zRDHZyZGp/video.m3u8",
+          "duration": 128,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-316",
+          "title": "AWS abuse",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMhC3C5SB6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMhC3C5SB6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMhC3C5SB6/video.m3u8",
+          "duration": 83,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-317",
+          "title": "Root User Privilages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxbRgEkKpRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxbRgEkKpRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxbRgEkKpRU/video.m3u8",
+          "duration": 184,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-318",
+          "title": "Shared Responsibility Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JbhdFbdr6g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JbhdFbdr6g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JbhdFbdr6g/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Management and Billing console",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-319",
+          "title": "Management and Billing console Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt22ubQT4Gk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt22ubQT4Gk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt22ubQT4Gk/video.m3u8",
+          "duration": 92,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-320",
+          "title": "AWS Organizations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FcTHmR4NJkG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FcTHmR4NJkG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FcTHmR4NJkG/video.m3u8",
+          "duration": 389,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-321",
+          "title": "SCPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RrsNSKN7cA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RrsNSKN7cA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RrsNSKN7cA/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-322",
+          "title": "Consolidated Billing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mJn3HDnub7N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mJn3HDnub7N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mJn3HDnub7N/video.m3u8",
+          "duration": 82,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-323",
+          "title": "AWS Control Tower",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpMmuTAJRUq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpMmuTAJRUq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpMmuTAJRUq/video.m3u8",
+          "duration": 127,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-324",
+          "title": "AWS Resource Access Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4rynfTXSB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4rynfTXSB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4rynfTXSB/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-325",
+          "title": "AWS Cost Explorer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUjNC3B5pn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUjNC3B5pn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUjNC3B5pn/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-326",
+          "title": "AWS Budgets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kgafM4Qcmt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kgafM4Qcmt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kgafM4Qcmt/video.m3u8",
+          "duration": 121,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-327",
+          "title": "AWS Cost Anomaly Detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdexcgqY9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdexcgqY9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdexcgqY9R/video.m3u8",
+          "duration": 108,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-328",
+          "title": "Hands On of full AWS Billing & Cost Management console",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HxM3b2CaSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HxM3b2CaSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HxM3b2CaSu/video.m3u8",
+          "duration": 520,
+          "type": "video"
+        },
+        {
+          "id": "td-cloudcomputing-329",
+          "title": "AWS Trusted Advisor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SqJ2GrxEtQR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SqJ2GrxEtQR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SqJ2GrxEtQR/video.m3u8",
+          "duration": 175,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cloudcomputing-33",
+          "title": "Deploy a Scalable Blog/personal web App",
+          "url": "https://docs.google.com/document/d/17POTS-_1qcK7BnXkZkl-8mDk29mA0sGNIojrqqY636I/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/17POTS-_1qcK7BnXkZkl-8mDk29mA0sGNIojrqqY636I/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/17POTS-_1qcK7BnXkZkl-8mDk29mA0sGNIojrqqY636I/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/17POTS-_1qcK7BnXkZkl-8mDk29mA0sGNIojrqqY636I/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to get certificate and Refund",
+      "lectures": [
+        {
+          "id": "td-cloudcomputing-330",
+          "title": "How to get certificate and Refund",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rx4beZ6JKN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rx4beZ6JKN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rx4beZ6JKN/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

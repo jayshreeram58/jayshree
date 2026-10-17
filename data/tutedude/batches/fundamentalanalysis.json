@@ -1,0 +1,377 @@
+{
+  "platform": "TuteDude",
+  "batchId": "fundamentalanalysis",
+  "batchSlug": "fundamentalanalysis",
+  "batchName": "Fundamental Analysis",
+  "thumbnail": "https://www.tutedude.com/assets/avif/fundamentalanalysis.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/fundamentalanalysis",
+  "totalSections": 6,
+  "totalLectures": 35,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "bussiness",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Overview",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-1",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JaY3R9e8DY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JaY3R9e8DY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JaY3R9e8DY/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-2",
+          "title": "TIPS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHumjSyGkcD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHumjSyGkcD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHumjSyGkcD/video.m3u8",
+          "duration": 649,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-3",
+          "title": "Introduction to the stock market",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYn3XmCKXsR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYn3XmCKXsR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYn3XmCKXsR/video.m3u8",
+          "duration": 275,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-4",
+          "title": "Risks and benefits, Reason behind movement of stock",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZEqtq7dah4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZEqtq7dah4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZEqtq7dah4/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-5",
+          "title": "Common Myths",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D9gxFfPnCq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D9gxFfPnCq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D9gxFfPnCq/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-6",
+          "title": "Avenues to Invest in the Stock Market",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqkFXGAeCz2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqkFXGAeCz2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqkFXGAeCz2/video.m3u8",
+          "duration": 1223,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-7",
+          "title": "Avenues to Invest in the Stock Market Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKcmx9DEbyK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKcmx9DEbyK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKcmx9DEbyK/video.m3u8",
+          "duration": 497,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-8",
+          "title": "Avenues to invest and Demat account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xgau9bz9M6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xgau9bz9M6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xgau9bz9M6/video.m3u8",
+          "duration": 1101,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-9",
+          "title": "Difference between Investing and Trading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3j3h23muT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3j3h23muT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3j3h23muT/video.m3u8",
+          "duration": 917,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-10",
+          "title": "Choosing the right Broker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RB6rQSpPJ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RB6rQSpPJ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RB6rQSpPJ9/video.m3u8",
+          "duration": 1410,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-11",
+          "title": "Types Of Investors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XQNe7nqMZ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XQNe7nqMZ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XQNe7nqMZ3/video.m3u8",
+          "duration": 579,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Economics 101",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-12",
+          "title": "Economics 101 topic 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tPRpmKGk4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tPRpmKGk4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tPRpmKGk4/video.m3u8",
+          "duration": 2087,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-13",
+          "title": "Effect of broader economy on the stock market",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xjfdyftR3r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xjfdyftR3r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xjfdyftR3r/video.m3u8",
+          "duration": 378,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-14",
+          "title": "Cycles of an economy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fmcSgrAAn9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fmcSgrAAn9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fmcSgrAAn9/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Fundamental Analysis",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-15",
+          "title": "What is Fundamental Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N5QmDHtyXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N5QmDHtyXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N5QmDHtyXX/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-16",
+          "title": "Introduction to fundamental analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52D9fm2sujy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52D9fm2sujy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52D9fm2sujy/video.m3u8",
+          "duration": 383,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-17",
+          "title": "Components of Fundamental Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mzxYUcp9S2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mzxYUcp9S2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mzxYUcp9S2/video.m3u8",
+          "duration": 945,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-18",
+          "title": "Industry Analysis, SWOT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5443Rsu3tbx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5443Rsu3tbx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5443Rsu3tbx/video.m3u8",
+          "duration": 1177,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-19",
+          "title": "Porter's Five Forces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2PXfZfx3dQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2PXfZfx3dQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2PXfZfx3dQ/video.m3u8",
+          "duration": 665,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-20",
+          "title": "BCG Matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYCP6Dmpdb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYCP6Dmpdb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYCP6Dmpdb/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-21",
+          "title": "Analyzing Financial Statements P&L",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39C2SUZuuN6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39C2SUZuuN6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39C2SUZuuN6/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-22",
+          "title": "Introduction to Balance Sheet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FcyszeFQp2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FcyszeFQp2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FcyszeFQp2/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-23",
+          "title": "Cash Flow Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgMXYkZf3F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgMXYkZf3F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgMXYkZf3F/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-24",
+          "title": "Ratios - Liquidity Ratios and Activity Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BK9FzeAbHt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BK9FzeAbHt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BK9FzeAbHt/video.m3u8",
+          "duration": 936,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-25",
+          "title": "Leverage Ratios and Profitability Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CtT9hexXeK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CtT9hexXeK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CtT9hexXeK/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-26",
+          "title": "Commonly used Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kBB2ESdBng/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kBB2ESdBng/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kBB2ESdBng/video.m3u8",
+          "duration": 1154,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-27",
+          "title": "Industries Specific Ratio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NnDnasaPQn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NnDnasaPQn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NnDnasaPQn/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-28",
+          "title": "Role of Dividends",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KdRgjg7Ngj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KdRgjg7Ngj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KdRgjg7Ngj/video.m3u8",
+          "duration": 814,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-29",
+          "title": "ITC Case Study Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G78AnedQ2D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G78AnedQ2D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G78AnedQ2D/video.m3u8",
+          "duration": 1546,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-30",
+          "title": "Case Study Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ps2S7z5yHJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ps2S7z5yHJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ps2S7z5yHJ/video.m3u8",
+          "duration": 1866,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-31",
+          "title": "HDFC Bank Case study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BpS9qqZMa9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BpS9qqZMa9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BpS9qqZMa9/video.m3u8",
+          "duration": 2040,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to analyse an IPO",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-32",
+          "title": "How to Analyze an IPO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Am87jtUskFn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Am87jtUskFn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Am87jtUskFn/video.m3u8",
+          "duration": 2601,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-33",
+          "title": "Happiest Mind IPO Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8fh8fmNz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8fh8fmNz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8fh8fmNz9/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Portfolio Management",
+      "lectures": [
+        {
+          "id": "td-fundamentalanalysis-34",
+          "title": "Portfolio Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCTbe8JSh9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCTbe8JSh9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCTbe8JSh9/video.m3u8",
+          "duration": 1192,
+          "type": "video"
+        },
+        {
+          "id": "td-fundamentalanalysis-35",
+          "title": "What next",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/569Fu7xMnJJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/569Fu7xMnJJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/569Fu7xMnJJ/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-fundamentalanalysis-7",
+          "title": "Final Assignment",
+          "url": "https://docs.google.com/document/d/1-t9ITro6VkbhtnCbD0-IMrLFnwRAVwUH/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1-t9ITro6VkbhtnCbD0-IMrLFnwRAVwUH/edit",
+          "playerUrl": "https://docs.google.com/document/d/1-t9ITro6VkbhtnCbD0-IMrLFnwRAVwUH/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1-t9ITro6VkbhtnCbD0-IMrLFnwRAVwUH/edit",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

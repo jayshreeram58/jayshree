@@ -1,0 +1,342 @@
+{
+  "platform": "TuteDude",
+  "batchId": "n8n",
+  "batchSlug": "n8n",
+  "batchName": "N8N Automation",
+  "thumbnail": "https://www.tutedude.com/assets/avif/n8n.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/n8n",
+  "totalSections": 6,
+  "totalLectures": 22,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "AI & Automation",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction To N8N",
+      "lectures": [
+        {
+          "id": "td-n8n-1",
+          "title": "What is N8N (And Why It’s Blowing Up)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-2",
+          "title": "Cloud vs Self-Hosted (Truth Nobody Tells You)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-3",
+          "title": "UI Deep Dive - Canvas Mastery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxYSpCkdqU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxYSpCkdqU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxYSpCkdqU/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-4",
+          "title": "Build Your First Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "duration": 1088,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basic Fundamentals",
+      "lectures": [
+        {
+          "id": "td-n8n-5",
+          "title": "Triggers Explained (Start of Every Automation)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "duration": 1813,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-6",
+          "title": "Thinking in Workflows (Not Nodes)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "duration": 1955,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-7",
+          "title": "Debugging Like a Pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "duration": 1847,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-8",
+          "title": "RSS Feed Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PupnNs5hrZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PupnNs5hrZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PupnNs5hrZ/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Nodes Mastery",
+      "lectures": [
+        {
+          "id": "td-n8n-9",
+          "title": "Learning JSON Without Headache",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "duration": 1043,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-10",
+          "title": "Set Node Data Control and Transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "duration": 1111,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-11",
+          "title": "IF & Switch (Decision Making)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "duration": 1129,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-12",
+          "title": "Expressions Mastery 101",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "duration": 1357,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Workflows Implementation",
+      "lectures": [
+        {
+          "id": "td-n8n-13",
+          "title": "Build AI Chat Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-14",
+          "title": "N8N API and HTTPS Requests Mastery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "duration": 1559,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-15",
+          "title": "AI Automated HR Candidate Analysis in n8n",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-16",
+          "title": "End to End Lead Generation Workflow Automation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "duration": 1605,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-n8n-5",
+          "title": "RSS Feed to Email_Telegram Notification Workflow",
+          "url": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-6",
+          "title": "Weather Alert Notification Workflow",
+          "url": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-7",
+          "title": "Webhook to Google Sheets Data Storage Workflo",
+          "url": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-8",
+          "title": "Lead Classification Workflow.",
+          "url": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-9",
+          "title": "Multi-Platform Notification Workflow.",
+          "url": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-10",
+          "title": "Product Price Drop Alert Workflow.",
+          "url": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-11",
+          "title": "Automated Customer Query Reply Workflow.",
+          "url": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "MCP Connectors (N8N)",
+      "lectures": [
+        {
+          "id": "td-n8n-17",
+          "title": "MCP Basics Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeuBU4tdxqm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeuBU4tdxqm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeuBU4tdxqm/video.m3u8",
+          "duration": 1689,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-18",
+          "title": "Connect n8n MCP Server to AI Apps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nkYpDuMuqqu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nkYpDuMuqqu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nkYpDuMuqqu/video.m3u8",
+          "duration": 1601,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-19",
+          "title": "N8N- The Real Talk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K6EatCuZXb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K6EatCuZXb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K6EatCuZXb/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capstone Projects",
+      "lectures": [
+        {
+          "id": "td-n8n-20",
+          "title": "Email Summary Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "duration": 749,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-21",
+          "title": "AI YouTube Script Generator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "duration": 1362,
+          "type": "video"
+        },
+        {
+          "id": "td-n8n-22",
+          "title": "AI Legal Contract Review Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-n8n-14",
+          "title": "AI Content Generator Workflow.",
+          "url": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-15",
+          "title": "Workflow Error Detection and Alert System.",
+          "url": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-n8n-16",
+          "title": "End-to-End Lead Capture and Qualification Workflow",
+          "url": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

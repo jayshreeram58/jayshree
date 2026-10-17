@@ -1,0 +1,1704 @@
+{
+  "platform": "TuteDude",
+  "batchId": "canva",
+  "batchSlug": "canva",
+  "batchName": "Canva",
+  "thumbnail": "https://www.tutedude.com/assets/avif/canva.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/canva",
+  "totalSections": 14,
+  "totalLectures": 134,
+  "totalNotes": 43,
+  "price": "699.00",
+  "category": "Design",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-canva-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Canva & Design Foundations",
+      "lectures": [
+        {
+          "id": "td-canva-2",
+          "title": "What is Canva & Why It’s So Popular",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ts7qEBDmXT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ts7qEBDmXT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ts7qEBDmXT/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-3",
+          "title": "Canva Free vs Canva Pro Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xhCX2xsj9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xhCX2xsj9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xhCX2xsj9/video.m3u8",
+          "duration": 1175,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-4",
+          "title": "Sign Up in Canva Web and App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PES3fH9kzB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PES3fH9kzB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PES3fH9kzB/video.m3u8",
+          "duration": 1033,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-5",
+          "title": "Understanding Canva Interface & Workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnUksaXTSk8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnUksaXTSk8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnUksaXTSk8/video.m3u8",
+          "duration": 2377,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-6",
+          "title": "Canvas Size & Design Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZMusktFCTGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZMusktFCTGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZMusktFCTGE/video.m3u8",
+          "duration": 1486,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-7",
+          "title": "Graphic Design Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpfxJfje9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpfxJfje9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpfxJfje9R/video.m3u8",
+          "duration": 1187,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-8",
+          "title": "The Principles and Elements of Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55sst2ty5Jx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55sst2ty5Jx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55sst2ty5Jx/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-9",
+          "title": "Understanding the Color Theory & Using Color Palettes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UjbqFBuGFf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UjbqFBuGFf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UjbqFBuGFf/video.m3u8",
+          "duration": 1303,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-10",
+          "title": "Typography Basic for Effective Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cmdHHn4f5T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cmdHHn4f5T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cmdHHn4f5T/video.m3u8",
+          "duration": 1540,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-11",
+          "title": "Brand Consistency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eTkDQPpDsP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eTkDQPpDsP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eTkDQPpDsP/video.m3u8",
+          "duration": 1769,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-3",
+          "title": "Canva Free vs Canva Pro Comparison",
+          "url": "https://docs.google.com/document/d/1Hq0-SUogkRTdNq3iNywYF5pOzvMwt6FI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Hq0-SUogkRTdNq3iNywYF5pOzvMwt6FI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Hq0-SUogkRTdNq3iNywYF5pOzvMwt6FI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Hq0-SUogkRTdNq3iNywYF5pOzvMwt6FI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-4",
+          "title": "Canvas Size & Design Types",
+          "url": "https://docs.google.com/document/d/12ehT6b0ddv9zb_J7h1TNX8CavBt3ha-c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12ehT6b0ddv9zb_J7h1TNX8CavBt3ha-c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12ehT6b0ddv9zb_J7h1TNX8CavBt3ha-c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12ehT6b0ddv9zb_J7h1TNX8CavBt3ha-c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-5",
+          "title": "Typography Basic for Effective Design",
+          "url": "https://docs.google.com/document/d/1xS_eAofMAyOeGw5LPTJ2-IYyDnqsDLdS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xS_eAofMAyOeGw5LPTJ2-IYyDnqsDLdS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xS_eAofMAyOeGw5LPTJ2-IYyDnqsDLdS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xS_eAofMAyOeGw5LPTJ2-IYyDnqsDLdS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Getting Started with Canva Tools",
+      "lectures": [
+        {
+          "id": "td-canva-12",
+          "title": "Working with Shapes & Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D4ytHkFe7r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D4ytHkFe7r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D4ytHkFe7r/video.m3u8",
+          "duration": 2360,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-13",
+          "title": "Exploring the Color Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKy9huTcN95/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKy9huTcN95/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKy9huTcN95/video.m3u8",
+          "duration": 831,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-14",
+          "title": "Alignment Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbgjsNcnPHk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbgjsNcnPHk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbgjsNcnPHk/video.m3u8",
+          "duration": 1149,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-15",
+          "title": "Using the Arrangement Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46n4KfTAZNy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46n4KfTAZNy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46n4KfTAZNy/video.m3u8",
+          "duration": 940,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-16",
+          "title": "Group, Ungroup, Lock & Unlock",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZUuRhp9Qqz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZUuRhp9Qqz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZUuRhp9Qqz/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-17",
+          "title": "Cut, Copy, Paste & Duplicate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XS6FaynENh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XS6FaynENh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XS6FaynENh/video.m3u8",
+          "duration": 738,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-18",
+          "title": "Exploring Text Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6knA6eej37x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6knA6eej37x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6knA6eej37x/video.m3u8",
+          "duration": 1193,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-19",
+          "title": "Applying Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dFTxuGg2x33/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dFTxuGg2x33/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dFTxuGg2x33/video.m3u8",
+          "duration": 1479,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-20",
+          "title": "Using White Board",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ftYYrgSRAr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ftYYrgSRAr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ftYYrgSRAr/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-21",
+          "title": "Exploring the Features of Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Pr3xCffBYh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Pr3xCffBYh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Pr3xCffBYh/video.m3u8",
+          "duration": 1962,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-22",
+          "title": "Uploading & Managing Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdQDfDXbMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdQDfDXbMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdQDfDXbMr/video.m3u8",
+          "duration": 1253,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-23",
+          "title": "Custom Background Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr6Ub4cr8n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr6Ub4cr8n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr6Ub4cr8n/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-24",
+          "title": "Using Frames & Grids",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA3qZNZXEX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA3qZNZXEX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA3qZNZXEX/video.m3u8",
+          "duration": 1931,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-25",
+          "title": "JPEG, PNG, SVG & PDF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj6BxXDeeYG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj6BxXDeeYG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj6BxXDeeYG/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-26",
+          "title": "How to Export",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e6rsdCB2jG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e6rsdCB2jG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e6rsdCB2jG/video.m3u8",
+          "duration": 2116,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-27",
+          "title": "Working with Photos (Photo Editing)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rh8tpX84HN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rh8tpX84HN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rh8tpX84HN/video.m3u8",
+          "duration": 3865,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-28",
+          "title": "Exploring the Apps Category Features of Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJ4Pn299EZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJ4Pn299EZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJ4Pn299EZ/video.m3u8",
+          "duration": 1965,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-29",
+          "title": "Creating Icons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qQ7R3HEynSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qQ7R3HEynSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qQ7R3HEynSd/video.m3u8",
+          "duration": 1646,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-30",
+          "title": "Using the Whiteboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KM7r722ffy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KM7r722ffy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KM7r722ffy/video.m3u8",
+          "duration": 1162,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-31",
+          "title": "Using the Doc in Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pNyKhEkF6j2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pNyKhEkF6j2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pNyKhEkF6j2/video.m3u8",
+          "duration": 1528,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-32",
+          "title": "Exploring Sheet for Data Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NamsMmg7jD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NamsMmg7jD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NamsMmg7jD/video.m3u8",
+          "duration": 2221,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-7",
+          "title": "Alignment Property",
+          "url": "https://docs.google.com/document/d/19200SuofSWi2yjRnNJcwDn1N741JZ6Ka/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19200SuofSWi2yjRnNJcwDn1N741JZ6Ka/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19200SuofSWi2yjRnNJcwDn1N741JZ6Ka/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19200SuofSWi2yjRnNJcwDn1N741JZ6Ka/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-8",
+          "title": "Creating Icons",
+          "url": "https://docs.google.com/document/d/13Sh0QJUyuLSEptAmLngDTsjExosYA1ol/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13Sh0QJUyuLSEptAmLngDTsjExosYA1ol/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13Sh0QJUyuLSEptAmLngDTsjExosYA1ol/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13Sh0QJUyuLSEptAmLngDTsjExosYA1ol/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-9",
+          "title": "Exploring Text Tool",
+          "url": "https://docs.google.com/document/d/1sIHk5iZ_jAEyx6vccljOXRmE4_Fo4xbQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1sIHk5iZ_jAEyx6vccljOXRmE4_Fo4xbQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1sIHk5iZ_jAEyx6vccljOXRmE4_Fo4xbQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1sIHk5iZ_jAEyx6vccljOXRmE4_Fo4xbQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-10",
+          "title": "Exploring the Features of Elements",
+          "url": "https://docs.google.com/document/d/1qMV-lVvTkb_83cV4N1ETsMYnt8Zt_ipU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1qMV-lVvTkb_83cV4N1ETsMYnt8Zt_ipU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1qMV-lVvTkb_83cV4N1ETsMYnt8Zt_ipU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1qMV-lVvTkb_83cV4N1ETsMYnt8Zt_ipU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Canva for Social Media Design",
+      "lectures": [
+        {
+          "id": "td-canva-33",
+          "title": "Instagram Post Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sc2MbhruKa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sc2MbhruKa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sc2MbhruKa/video.m3u8",
+          "duration": 3728,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-34",
+          "title": "Instagram Story",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjNBmr3b9M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjNBmr3b9M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjNBmr3b9M/video.m3u8",
+          "duration": 1923,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-35",
+          "title": "YouTube Thumbnail Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fy5dR3jgBk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fy5dR3jgBk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fy5dR3jgBk/video.m3u8",
+          "duration": 2927,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-36",
+          "title": "Facebook Cover Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tKA6T9eN9N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tKA6T9eN9N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tKA6T9eN9N/video.m3u8",
+          "duration": 2576,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-37",
+          "title": "LinkedIn Banner Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g9Q3hnYfJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g9Q3hnYfJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g9Q3hnYfJe/video.m3u8",
+          "duration": 1612,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-38",
+          "title": "Pinterest Pin Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSCHSnGtyXk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSCHSnGtyXk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSCHSnGtyXk/video.m3u8",
+          "duration": 1986,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-39",
+          "title": "Calendar Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMnn8zx6qH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMnn8zx6qH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMnn8zx6qH/video.m3u8",
+          "duration": 2061,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-40",
+          "title": "Email Graphics Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zyGJ77QJdr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zyGJ77QJdr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zyGJ77QJdr/video.m3u8",
+          "duration": 2363,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-41",
+          "title": "Google Web Ads Design for Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57rCpnSuyRc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57rCpnSuyRc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57rCpnSuyRc/video.m3u8",
+          "duration": 2585,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-42",
+          "title": "Photo Collage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2XE67z6PF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2XE67z6PF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2XE67z6PF/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-43",
+          "title": "Creating Presentation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKunyTA8Ce/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKunyTA8Ce/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKunyTA8Ce/video.m3u8",
+          "duration": 3393,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-44",
+          "title": "Creating with Website UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdTEq7EM4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdTEq7EM4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdTEq7EM4g/video.m3u8",
+          "duration": 2996,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-45",
+          "title": "Save the Date Card & Wedding Invites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUQYbhEZj47/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUQYbhEZj47/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUQYbhEZj47/video.m3u8",
+          "duration": 2500,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-12",
+          "title": "Email Graphics Design",
+          "url": "https://docs.google.com/document/d/1ss3B8z8dnOvgEiLBs0hE2VKQjipdxTb3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ss3B8z8dnOvgEiLBs0hE2VKQjipdxTb3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ss3B8z8dnOvgEiLBs0hE2VKQjipdxTb3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ss3B8z8dnOvgEiLBs0hE2VKQjipdxTb3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-13",
+          "title": "Instagram Post Design",
+          "url": "https://docs.google.com/document/d/1uWDqFjrjhKvJHeHy-SYVVBVY_Uc3rVSl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1uWDqFjrjhKvJHeHy-SYVVBVY_Uc3rVSl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1uWDqFjrjhKvJHeHy-SYVVBVY_Uc3rVSl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1uWDqFjrjhKvJHeHy-SYVVBVY_Uc3rVSl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-14",
+          "title": "Photo Collage",
+          "url": "https://docs.google.com/document/d/19VqI3GSE0_MhYb7MeLoSe7KCjsThbUP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19VqI3GSE0_MhYb7MeLoSe7KCjsThbUP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19VqI3GSE0_MhYb7MeLoSe7KCjsThbUP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19VqI3GSE0_MhYb7MeLoSe7KCjsThbUP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-15",
+          "title": "YouTube Thumbnail Design",
+          "url": "https://docs.google.com/document/d/1Mxe2R_4d55X69kspMO3a_efNeDrKYhjR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Mxe2R_4d55X69kspMO3a_efNeDrKYhjR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Mxe2R_4d55X69kspMO3a_efNeDrKYhjR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Mxe2R_4d55X69kspMO3a_efNeDrKYhjR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Print & Marketing Designs",
+      "lectures": [
+        {
+          "id": "td-canva-46",
+          "title": "Basics of Printing and Industry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9chKpePTSP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9chKpePTSP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9chKpePTSP/video.m3u8",
+          "duration": 3077,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-47",
+          "title": "Business Card Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UUGhUKzGUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UUGhUKzGUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UUGhUKzGUt/video.m3u8",
+          "duration": 2849,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-48",
+          "title": "ID Card Design Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TsCxJHZsqq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TsCxJHZsqq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TsCxJHZsqq/video.m3u8",
+          "duration": 3140,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-49",
+          "title": "Flyer Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DDHCmrDTxs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DDHCmrDTxs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DDHCmrDTxs/video.m3u8",
+          "duration": 3221,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-50",
+          "title": "Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esDKhXkxFK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esDKhXkxFK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esDKhXkxFK/video.m3u8",
+          "duration": 3705,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-51",
+          "title": "Design Brochure Step by step",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MNsjjakU75/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MNsjjakU75/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MNsjjakU75/video.m3u8",
+          "duration": 3885,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-52",
+          "title": "Menu Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33NUydNkg3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33NUydNkg3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33NUydNkg3z/video.m3u8",
+          "duration": 3335,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-53",
+          "title": "Certificate Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9BeuhEFtfp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9BeuhEFtfp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9BeuhEFtfp/video.m3u8",
+          "duration": 3076,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-54",
+          "title": "CoverPage Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZZefxdRy4FN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZZefxdRy4FN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZZefxdRy4FN/video.m3u8",
+          "duration": 2589,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-55",
+          "title": "Resume Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG3gGXYkNb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG3gGXYkNb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG3gGXYkNb/video.m3u8",
+          "duration": 2550,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-56",
+          "title": "Letter Head & Invoice Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tp53F7gyUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tp53F7gyUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tp53F7gyUM/video.m3u8",
+          "duration": 3413,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-57",
+          "title": "Invitation Card Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzgbpcBPXy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzgbpcBPXy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzgbpcBPXy/video.m3u8",
+          "duration": 2697,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-58",
+          "title": "Infographics Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cz6a36ttnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cz6a36ttnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cz6a36ttnC/video.m3u8",
+          "duration": 2208,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-17",
+          "title": "Business Card Design",
+          "url": "https://docs.google.com/document/d/1elIFfetQZI0C5sAHfiIjP_ONaqicr-dQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1elIFfetQZI0C5sAHfiIjP_ONaqicr-dQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1elIFfetQZI0C5sAHfiIjP_ONaqicr-dQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1elIFfetQZI0C5sAHfiIjP_ONaqicr-dQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-18",
+          "title": "Cover Page Design",
+          "url": "https://docs.google.com/document/d/1QZvzVLAoy5p60Sz45fQLN0WRzElsjIMM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QZvzVLAoy5p60Sz45fQLN0WRzElsjIMM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QZvzVLAoy5p60Sz45fQLN0WRzElsjIMM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QZvzVLAoy5p60Sz45fQLN0WRzElsjIMM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-19",
+          "title": "Infographics Design",
+          "url": "https://docs.google.com/document/d/1S0r7MplVpZT06JBZxTNs4DiYsFzvFz00/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1S0r7MplVpZT06JBZxTNs4DiYsFzvFz00/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1S0r7MplVpZT06JBZxTNs4DiYsFzvFz00/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1S0r7MplVpZT06JBZxTNs4DiYsFzvFz00/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-20",
+          "title": "Poster Design",
+          "url": "https://docs.google.com/document/d/1S6gH2UyXEAyq42Cw80U5Mr14wJ1rzeZw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1S6gH2UyXEAyq42Cw80U5Mr14wJ1rzeZw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1S6gH2UyXEAyq42Cw80U5Mr14wJ1rzeZw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1S6gH2UyXEAyq42Cw80U5Mr14wJ1rzeZw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Brand Design Contents in Canva",
+      "lectures": [
+        {
+          "id": "td-canva-59",
+          "title": "What is Branding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxpDGrTNXXj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxpDGrTNXXj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxpDGrTNXXj/video.m3u8",
+          "duration": 2799,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-60",
+          "title": "Logo Design Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9u5p9AHmpc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9u5p9AHmpc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9u5p9AHmpc/video.m3u8",
+          "duration": 1271,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-61",
+          "title": "Logo Design in Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pPkDg2kK8z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pPkDg2kK8z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pPkDg2kK8z/video.m3u8",
+          "duration": 2534,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-62",
+          "title": "Typography for Brands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zGG85r4mS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zGG85r4mS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zGG85r4mS/video.m3u8",
+          "duration": 2766,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-63",
+          "title": "Creating Brand Guidelines pdf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rrEXGnJupD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rrEXGnJupD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rrEXGnJupD/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-64",
+          "title": "Overview of Brand Package Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98tZEjPK8GB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98tZEjPK8GB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98tZEjPK8GB/video.m3u8",
+          "duration": 674,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-65",
+          "title": "Design Sample & Inspiration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2SxakhmNg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2SxakhmNg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2SxakhmNg/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-66",
+          "title": "Mockup for Presentation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XzAxxb6Z6h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XzAxxb6Z6h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XzAxxb6Z6h/video.m3u8",
+          "duration": 1408,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-22",
+          "title": "Logo Design in Canva",
+          "url": "https://docs.google.com/document/d/1XaW5f1Zykj5g2IqHDWZdASAO81li70cV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1XaW5f1Zykj5g2IqHDWZdASAO81li70cV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1XaW5f1Zykj5g2IqHDWZdASAO81li70cV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1XaW5f1Zykj5g2IqHDWZdASAO81li70cV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-23",
+          "title": "Mockup for Presentation",
+          "url": "https://docs.google.com/document/d/1kWvzfeFihGqe8wdb108hNzD7eY-T0wP7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kWvzfeFihGqe8wdb108hNzD7eY-T0wP7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kWvzfeFihGqe8wdb108hNzD7eY-T0wP7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kWvzfeFihGqe8wdb108hNzD7eY-T0wP7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Canva Video Editing",
+      "lectures": [
+        {
+          "id": "td-canva-67",
+          "title": "Working with Timeline and Exploring Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C8SNUpZn7s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C8SNUpZn7s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C8SNUpZn7s/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-68",
+          "title": "Adding Music & Audio Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sxcSbb7dBh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sxcSbb7dBh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sxcSbb7dBh/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-69",
+          "title": "Transitions, Effects & Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzxNgPxjRa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzxNgPxjRa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzxNgPxjRa/video.m3u8",
+          "duration": 1967,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-70",
+          "title": "Text Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3URYqRnAS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3URYqRnAS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3URYqRnAS/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-71",
+          "title": "Green Screen or Background Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5px7nAfc49b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5px7nAfc49b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5px7nAfc49b/video.m3u8",
+          "duration": 1109,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-72",
+          "title": "Creating the Video Collage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66mpZTccstk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66mpZTccstk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66mpZTccstk/video.m3u8",
+          "duration": 1103,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-73",
+          "title": "Invites Design Idea Discussion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rEF58DnCckD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rEF58DnCckD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rEF58DnCckD/video.m3u8",
+          "duration": 567,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-74",
+          "title": "Exploring the Video Mockups for Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFNuh7ejdhn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFNuh7ejdhn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFNuh7ejdhn/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-75",
+          "title": "Motion Banner Ads Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brgq7sR6rZg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brgq7sR6rZg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brgq7sR6rZg/video.m3u8",
+          "duration": 2851,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-76",
+          "title": "Customize and Exploring the AI Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2xD8UNJchP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2xD8UNJchP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2xD8UNJchP/video.m3u8",
+          "duration": 1975,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-77",
+          "title": "Export Settings for web & Print (Along with Basics for file formats)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDfpZKuhFM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDfpZKuhFM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDfpZKuhFM/video.m3u8",
+          "duration": 4368,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-78",
+          "title": "Using the Animated Presets & Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJ73pTqKKB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJ73pTqKKB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJ73pTqKKB/video.m3u8",
+          "duration": 1049,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-25",
+          "title": "Green Screen or Background Editing",
+          "url": "https://docs.google.com/document/d/1LGuQ5ICsLMLb-lLBzRhvv0IgGd0Q6Jsl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1LGuQ5ICsLMLb-lLBzRhvv0IgGd0Q6Jsl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1LGuQ5ICsLMLb-lLBzRhvv0IgGd0Q6Jsl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1LGuQ5ICsLMLb-lLBzRhvv0IgGd0Q6Jsl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-26",
+          "title": "Motion Banner Ads Design",
+          "url": "https://docs.google.com/document/d/1vF--43ZhF8J9GyWeA-7MocaKprQowTFh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vF--43ZhF8J9GyWeA-7MocaKprQowTFh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vF--43ZhF8J9GyWeA-7MocaKprQowTFh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vF--43ZhF8J9GyWeA-7MocaKprQowTFh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-27",
+          "title": "Text Animation",
+          "url": "https://docs.google.com/document/d/19mVjQcMoTR3ej0bUkofUPlTGCoOUncFn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19mVjQcMoTR3ej0bUkofUPlTGCoOUncFn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19mVjQcMoTR3ej0bUkofUPlTGCoOUncFn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19mVjQcMoTR3ej0bUkofUPlTGCoOUncFn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-28",
+          "title": "Transitions, Effects & Animation",
+          "url": "https://docs.google.com/document/d/1aAvFk__Gsr_YhS56jsm2XQmZtm4QbmJF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aAvFk__Gsr_YhS56jsm2XQmZtm4QbmJF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aAvFk__Gsr_YhS56jsm2XQmZtm4QbmJF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aAvFk__Gsr_YhS56jsm2XQmZtm4QbmJF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-29",
+          "title": "Using Animated Presets & Templates",
+          "url": "https://docs.google.com/document/d/174moMtwG9IQwwqxzMebmc68uFMjGvF_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/174moMtwG9IQwwqxzMebmc68uFMjGvF_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/174moMtwG9IQwwqxzMebmc68uFMjGvF_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/174moMtwG9IQwwqxzMebmc68uFMjGvF_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Canva for Freelancers",
+      "lectures": [
+        {
+          "id": "td-canva-79",
+          "title": "What is Freelancing & How it works",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFSPUUFxGBf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFSPUUFxGBf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFSPUUFxGBf/video.m3u8",
+          "duration": 3870,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-80",
+          "title": "Creating Presentation for Clients",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79MsuQJTmT7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79MsuQJTmT7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79MsuQJTmT7/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-81",
+          "title": "Sharing Designs Professionally",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6pgRushPmF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6pgRushPmF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6pgRushPmF/video.m3u8",
+          "duration": 2038,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-82",
+          "title": "Comment & Collaboration Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXD9BUUkej/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXD9BUUkej/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXD9BUUkej/video.m3u8",
+          "duration": 1907,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-83",
+          "title": "Pricing Strategy for Canva Designers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q7FKF9JnUD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q7FKF9JnUD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q7FKF9JnUD/video.m3u8",
+          "duration": 1455,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-84",
+          "title": "Finding Clients Using Social Media and Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HBh9ZnszxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HBh9ZnszxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HBh9ZnszxJ/video.m3u8",
+          "duration": 1457,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-85",
+          "title": "Important Websites for Assets & Resources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aqqfPYfqkk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aqqfPYfqkk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aqqfPYfqkk/video.m3u8",
+          "duration": 1719,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-86",
+          "title": "Portfolio & Design Inspiration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TyAtZDK7Xg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TyAtZDK7Xg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TyAtZDK7Xg/video.m3u8",
+          "duration": 2734,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Canva Techniques",
+      "lectures": [
+        {
+          "id": "td-canva-87",
+          "title": "Typography Tips & Tricks for Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5a5zRHs6p2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5a5zRHs6p2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5a5zRHs6p2/video.m3u8",
+          "duration": 3216,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-88",
+          "title": "Exploring the Apps for the Typography Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7crFqF3HuYM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7crFqF3HuYM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7crFqF3HuYM/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-89",
+          "title": "Creating Custom Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqba9EAzS9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqba9EAzS9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqba9EAzS9R/video.m3u8",
+          "duration": 3371,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-90",
+          "title": "Using AI Apps Features, to Enhance, Transparency & Frames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QEtFZgBCh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QEtFZgBCh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QEtFZgBCh/video.m3u8",
+          "duration": 3634,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-91",
+          "title": "Comparison of Apps & Canva Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp5fRjnSmUR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp5fRjnSmUR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp5fRjnSmUR/video.m3u8",
+          "duration": 1642,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-92",
+          "title": "Drawing and Pixel Art by using Apps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FEqhfYz77A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FEqhfYz77A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FEqhfYz77A/video.m3u8",
+          "duration": 2249,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-93",
+          "title": "Exploring Apps for Voice Modulation and Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geSr69ZuP3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geSr69ZuP3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geSr69ZuP3/video.m3u8",
+          "duration": 414,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-94",
+          "title": "Apps for Graphics Static and Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rYMcr8cSxh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rYMcr8cSxh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rYMcr8cSxh/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-95",
+          "title": "Working Faster with Shortcuts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAUZJUumEbh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAUZJUumEbh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAUZJUumEbh/video.m3u8",
+          "duration": 2941,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-96",
+          "title": "Mobile UI ProtoType Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RcMgNd28S9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RcMgNd28S9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RcMgNd28S9/video.m3u8",
+          "duration": 4087,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-97",
+          "title": "Content Creation Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZtF3ha74T7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZtF3ha74T7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZtF3ha74T7/video.m3u8",
+          "duration": 1636,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-32",
+          "title": "Working Faster with Shortcuts",
+          "url": "https://docs.google.com/document/d/1oLDbG2zJBigVhwgcW30be8MMbsM4GtST/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1oLDbG2zJBigVhwgcW30be8MMbsM4GtST/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1oLDbG2zJBigVhwgcW30be8MMbsM4GtST/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1oLDbG2zJBigVhwgcW30be8MMbsM4GtST/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-33",
+          "title": "Using AI Apps Features Enhance, Transparency & Frames",
+          "url": "https://docs.google.com/document/d/13sUvG8LTZKbAmE16qKeh_ZzaYBgiIUjP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13sUvG8LTZKbAmE16qKeh_ZzaYBgiIUjP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13sUvG8LTZKbAmE16qKeh_ZzaYBgiIUjP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13sUvG8LTZKbAmE16qKeh_ZzaYBgiIUjP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-34",
+          "title": "Typography Tips & Tricks for Design",
+          "url": "https://docs.google.com/document/d/1v-1OnyWn4XUA6Kx1xeuzk2fRvY_Sx77U/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1v-1OnyWn4XUA6Kx1xeuzk2fRvY_Sx77U/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1v-1OnyWn4XUA6Kx1xeuzk2fRvY_Sx77U/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1v-1OnyWn4XUA6Kx1xeuzk2fRvY_Sx77U/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-35",
+          "title": "Mobile UI Prototype Design",
+          "url": "https://docs.google.com/document/d/1Dc_rCNtGLSCfanw4Coj7CrwZKAWhLawJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Dc_rCNtGLSCfanw4Coj7CrwZKAWhLawJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Dc_rCNtGLSCfanw4Coj7CrwZKAWhLawJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Dc_rCNtGLSCfanw4Coj7CrwZKAWhLawJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Canva for Educators & Course Creators",
+      "lectures": [
+        {
+          "id": "td-canva-98",
+          "title": "Overview of Affinity Studio by Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTe5BKskff/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTe5BKskff/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTe5BKskff/video.m3u8",
+          "duration": 407,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-99",
+          "title": "Creating PPT for Courses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meGmnm6ruA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meGmnm6ruA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meGmnm6ruA/video.m3u8",
+          "duration": 3266,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-100",
+          "title": "Design Worksheets for Kids",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m3dBrtHraDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m3dBrtHraDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m3dBrtHraDh/video.m3u8",
+          "duration": 3451,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-101",
+          "title": "E-book Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7uExPC3QM9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7uExPC3QM9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7uExPC3QM9/video.m3u8",
+          "duration": 3789,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-102",
+          "title": "Design CoverPage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nuQGm7rc44/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nuQGm7rc44/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nuQGm7rc44/video.m3u8",
+          "duration": 2793,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-103",
+          "title": "Ads Design Idea Exploration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RzSKhJXe5f7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RzSKhJXe5f7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RzSKhJXe5f7/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Exporting & Optimization",
+      "lectures": [
+        {
+          "id": "td-canva-104",
+          "title": "PNG vs JPG vs PDF (Which to Use)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98eq9tRqPRX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98eq9tRqPRX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98eq9tRqPRX/video.m3u8",
+          "duration": 2389,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-105",
+          "title": "CMYK vs RGB (Understanding Color Modes)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSZ9tQE5sa2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSZ9tQE5sa2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSZ9tQE5sa2/video.m3u8",
+          "duration": 2673,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-106",
+          "title": "Print Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GExe8tM2uq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GExe8tM2uq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GExe8tM2uq/video.m3u8",
+          "duration": 2076,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-107",
+          "title": "Compressing Files Without Quality Loss",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmhRdgThmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmhRdgThmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmhRdgThmJ/video.m3u8",
+          "duration": 1575,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-108",
+          "title": "Exporting for Clients Professionally",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9ET5GFExc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9ET5GFExc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9ET5GFExc/video.m3u8",
+          "duration": 2261,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-38",
+          "title": "CMYK vs RGB Understanding",
+          "url": "https://docs.google.com/document/d/1iViERPg44eJkMvemUMF37yatYkAo_1rt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1iViERPg44eJkMvemUMF37yatYkAo_1rt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1iViERPg44eJkMvemUMF37yatYkAo_1rt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1iViERPg44eJkMvemUMF37yatYkAo_1rt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-39",
+          "title": "Compressing Files Without Quality Loss",
+          "url": "https://docs.google.com/document/d/1tFNvzmbbqcQis5tWJGfSYKsg1Evpymbw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tFNvzmbbqcQis5tWJGfSYKsg1Evpymbw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tFNvzmbbqcQis5tWJGfSYKsg1Evpymbw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tFNvzmbbqcQis5tWJGfSYKsg1Evpymbw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Capstone Projects & Concept Discussion",
+      "lectures": [
+        {
+          "id": "td-canva-109",
+          "title": "Complete Brand Kit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPxgBbBheJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPxgBbBheJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPxgBbBheJ/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-110",
+          "title": "Design Communication with Clients",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HTtEDQDXr2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HTtEDQDXr2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HTtEDQDXr2/video.m3u8",
+          "duration": 1868,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-111",
+          "title": "Client-Based Marketing Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jmrjB6TxRN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jmrjB6TxRN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jmrjB6TxRN/video.m3u8",
+          "duration": 3137,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-112",
+          "title": "Print & Digital Design Difference",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tn6k2rYRKn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tn6k2rYRKn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tn6k2rYRKn/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-113",
+          "title": "Launching of a New Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMzyrb7PNhB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMzyrb7PNhB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMzyrb7PNhB/video.m3u8",
+          "duration": 2731,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-114",
+          "title": "Types of Printer Used in the Industry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A3G4rCARhC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A3G4rCARhC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A3G4rCARhC/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-115",
+          "title": "How Design Influences Human Behavior",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SzmdTumFXE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SzmdTumFXE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SzmdTumFXE/video.m3u8",
+          "duration": 2114,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-116",
+          "title": "Fear of Being Judged",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AYzMaqB8Hu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AYzMaqB8Hu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AYzMaqB8Hu/video.m3u8",
+          "duration": 1818,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-117",
+          "title": "Build your Personal Brand",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZEhKtBJbaS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZEhKtBJbaS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZEhKtBJbaS/video.m3u8",
+          "duration": 2044,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-41",
+          "title": "Build your Personal Brand",
+          "url": "https://docs.google.com/document/d/1y7CKllbSvm-p9YIVse7BS8RiFxAHlf1N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1y7CKllbSvm-p9YIVse7BS8RiFxAHlf1N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1y7CKllbSvm-p9YIVse7BS8RiFxAHlf1N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1y7CKllbSvm-p9YIVse7BS8RiFxAHlf1N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-42",
+          "title": "Client-Based Marketing Campaign",
+          "url": "https://docs.google.com/document/d/1kDBGBe0goo-y3jRekhRTXEbAfhOWzBQH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kDBGBe0goo-y3jRekhRTXEbAfhOWzBQH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kDBGBe0goo-y3jRekhRTXEbAfhOWzBQH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kDBGBe0goo-y3jRekhRTXEbAfhOWzBQH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-43",
+          "title": "How Design Influences Human Behavior",
+          "url": "https://docs.google.com/document/d/1Shmfdpt7xyuiHU8OTzUcNmRieLjMXByB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Shmfdpt7xyuiHU8OTzUcNmRieLjMXByB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Shmfdpt7xyuiHU8OTzUcNmRieLjMXByB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Shmfdpt7xyuiHU8OTzUcNmRieLjMXByB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-44",
+          "title": "Print & Digital Design Difference",
+          "url": "https://docs.google.com/document/d/1JL1UrK3NnMWY33xkxtmPi1U3tbCD-NcV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JL1UrK3NnMWY33xkxtmPi1U3tbCD-NcV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JL1UrK3NnMWY33xkxtmPi1U3tbCD-NcV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JL1UrK3NnMWY33xkxtmPi1U3tbCD-NcV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Canva AI Features",
+      "lectures": [
+        {
+          "id": "td-canva-118",
+          "title": "Prompt Engineering for Better Results",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HncpKQ7qF8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HncpKQ7qF8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HncpKQ7qF8/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-119",
+          "title": "Creating Designs from Prompts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xJXRxGJFBG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xJXRxGJFBG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xJXRxGJFBG/video.m3u8",
+          "duration": 1286,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-120",
+          "title": "Image to Video Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Hny2ubazK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Hny2ubazK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Hny2ubazK2/video.m3u8",
+          "duration": 1258,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-121",
+          "title": "AI Content Writing with Magic Write",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc3yY8QGBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc3yY8QGBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc3yY8QGBd/video.m3u8",
+          "duration": 1011,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-122",
+          "title": "Writing Email or Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s2chhTyb3R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s2chhTyb3R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s2chhTyb3R/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-123",
+          "title": "Artistic Image Generation with Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACHcKmqh6QS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACHcKmqh6QS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACHcKmqh6QS/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-124",
+          "title": "Generator QR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KEC8NftzCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KEC8NftzCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KEC8NftzCY/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-125",
+          "title": "Exploring Magic Layer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHkuCnmNnh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHkuCnmNnh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHkuCnmNnh/video.m3u8",
+          "duration": 1554,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-126",
+          "title": "Extend the Image with Magic Extender",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62tkzG48MSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62tkzG48MSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62tkzG48MSH/video.m3u8",
+          "duration": 712,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-127",
+          "title": "Using AI for Enhancement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cxYs4U3Jg2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cxYs4U3Jg2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cxYs4U3Jg2/video.m3u8",
+          "duration": 1517,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-128",
+          "title": "Background Remover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBjsEAcupt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBjsEAcupt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBjsEAcupt/video.m3u8",
+          "duration": 1504,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-129",
+          "title": "Generate Background with A.I.",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hzXc9URz4M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hzXc9URz4M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hzXc9URz4M/video.m3u8",
+          "duration": 2175,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-130",
+          "title": "Generate Images of Character, Scenery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ6nd5U4z3q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ6nd5U4z3q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ6nd5U4z3q/video.m3u8",
+          "duration": 2962,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-131",
+          "title": "AI Avatar for Professional Look",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73x33HxuQeg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73x33HxuQeg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73x33HxuQeg/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-132",
+          "title": "Text to Video Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KNG2caHRcJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KNG2caHRcJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KNG2caHRcJ/video.m3u8",
+          "duration": 1386,
+          "type": "video"
+        },
+        {
+          "id": "td-canva-133",
+          "title": "Audio Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7p8agCyTnu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7p8agCyTnu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7p8agCyTnu/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-46",
+          "title": "One-Click Background Removal",
+          "url": "https://docs.google.com/document/d/1_wVsrBXDJ1E0HqajtFwxtYL-0Yr1QCqR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_wVsrBXDJ1E0HqajtFwxtYL-0Yr1QCqR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_wVsrBXDJ1E0HqajtFwxtYL-0Yr1QCqR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_wVsrBXDJ1E0HqajtFwxtYL-0Yr1QCqR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-47",
+          "title": "Writing Email or Essay",
+          "url": "https://docs.google.com/document/d/1bqfN-6if62RzYPlbNFkON0kq_GtzZKKh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1bqfN-6if62RzYPlbNFkON0kq_GtzZKKh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1bqfN-6if62RzYPlbNFkON0kq_GtzZKKh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1bqfN-6if62RzYPlbNFkON0kq_GtzZKKh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-48",
+          "title": "Image to Video Generation",
+          "url": "https://docs.google.com/document/d/1v9sxyka0y8BAG6nM9pWl6X08zZE7tBw7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1v9sxyka0y8BAG6nM9pWl6X08zZE7tBw7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1v9sxyka0y8BAG6nM9pWl6X08zZE7tBw7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1v9sxyka0y8BAG6nM9pWl6X08zZE7tBw7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-49",
+          "title": "Generate QR Code with AI Apps",
+          "url": "https://docs.google.com/document/d/1eHjxHmdB6vgpt04nLp-8ZNJIEci8CrC7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1eHjxHmdB6vgpt04nLp-8ZNJIEci8CrC7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1eHjxHmdB6vgpt04nLp-8ZNJIEci8CrC7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1eHjxHmdB6vgpt04nLp-8ZNJIEci8CrC7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-50",
+          "title": "Extend Image by Using Magic Extender",
+          "url": "https://docs.google.com/document/d/15dWrbOqCL3i7Rl7mQ_JC0kcI71wXoEw9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15dWrbOqCL3i7Rl7mQ_JC0kcI71wXoEw9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15dWrbOqCL3i7Rl7mQ_JC0kcI71wXoEw9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15dWrbOqCL3i7Rl7mQ_JC0kcI71wXoEw9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-51",
+          "title": "Exploring Magic Layer",
+          "url": "https://docs.google.com/document/d/1Wn0uAxIiAbPFYlVwlrCgWJTalaCqKD5d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Wn0uAxIiAbPFYlVwlrCgWJTalaCqKD5d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Wn0uAxIiAbPFYlVwlrCgWJTalaCqKD5d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Wn0uAxIiAbPFYlVwlrCgWJTalaCqKD5d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-52",
+          "title": "AI Avatar for Professional Look",
+          "url": "https://docs.google.com/document/d/1FEdwP08i-wDdfvbhE7JTkdrh7rhkTmmf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FEdwP08i-wDdfvbhE7JTkdrh7rhkTmmf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FEdwP08i-wDdfvbhE7JTkdrh7rhkTmmf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FEdwP08i-wDdfvbhE7JTkdrh7rhkTmmf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Placement",
+      "lectures": [
+        {
+          "id": "td-canva-134",
+          "title": "Interview Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4FuQXCdfan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4FuQXCdfan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4FuQXCdfan/video.m3u8",
+          "duration": 2780,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-canva-54",
+          "title": "Interview Preparation",
+          "url": "https://docs.google.com/document/d/1fYN_nFjzJ_8oezDYzdu9LlILyhtUZQcF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fYN_nFjzJ_8oezDYzdu9LlILyhtUZQcF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fYN_nFjzJ_8oezDYzdu9LlILyhtUZQcF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fYN_nFjzJ_8oezDYzdu9LlILyhtUZQcF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-55",
+          "title": "Creating Presentation for Clients",
+          "url": "https://docs.google.com/document/d/1pB7Xs2C7k9cMtq_2Ch-Gb_pKfGsXvuIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pB7Xs2C7k9cMtq_2Ch-Gb_pKfGsXvuIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pB7Xs2C7k9cMtq_2Ch-Gb_pKfGsXvuIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pB7Xs2C7k9cMtq_2Ch-Gb_pKfGsXvuIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-56",
+          "title": "Portfolio & Design Inspiration",
+          "url": "https://docs.google.com/document/d/1IH0r8LfMUNX9cly7LkuXpwhaRm8odmy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IH0r8LfMUNX9cly7LkuXpwhaRm8odmy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IH0r8LfMUNX9cly7LkuXpwhaRm8odmy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IH0r8LfMUNX9cly7LkuXpwhaRm8odmy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-canva-57",
+          "title": "Pricing Strategy for Canva Designers",
+          "url": "https://docs.google.com/document/d/1XoBXn1O-kvzFLatKEcOd-nNBL5VellQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1XoBXn1O-kvzFLatKEcOd-nNBL5VellQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1XoBXn1O-kvzFLatKEcOd-nNBL5VellQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1XoBXn1O-kvzFLatKEcOd-nNBL5VellQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

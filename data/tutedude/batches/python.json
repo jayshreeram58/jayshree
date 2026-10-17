@@ -1,0 +1,3767 @@
+{
+  "platform": "TuteDude",
+  "batchId": "python",
+  "batchSlug": "python",
+  "batchName": "Python",
+  "thumbnail": "https://www.tutedude.com/assets/avif/python.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/python",
+  "totalSections": 28,
+  "totalLectures": 387,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-python-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-python-2",
+          "title": "Installing Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zPHxS8bbFP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zPHxS8bbFP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zPHxS8bbFP/video.m3u8",
+          "duration": 424,
+          "type": "video"
+        },
+        {
+          "id": "td-python-3",
+          "title": "Installing Pycharm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3JaGfkrtuS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3JaGfkrtuS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3JaGfkrtuS/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-python-4",
+          "title": "Introduction to programming & Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67Nh7YXF6tH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67Nh7YXF6tH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67Nh7YXF6tH/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Basics",
+      "lectures": [
+        {
+          "id": "td-python-5",
+          "title": "Literals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eZhf7KcGbq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eZhf7KcGbq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eZhf7KcGbq/video.m3u8",
+          "duration": 1000,
+          "type": "video"
+        },
+        {
+          "id": "td-python-6",
+          "title": "Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUmZ5u5ppR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUmZ5u5ppR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUmZ5u5ppR/video.m3u8",
+          "duration": 691,
+          "type": "video"
+        },
+        {
+          "id": "td-python-7",
+          "title": "Keywords",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/773HqexPbFm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/773HqexPbFm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/773HqexPbFm/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-python-8",
+          "title": "Primitive Datatypes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QMRHTsmm46/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QMRHTsmm46/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QMRHTsmm46/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        },
+        {
+          "id": "td-python-9",
+          "title": "Basic operations with strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APHeF28X9QE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APHeF28X9QE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APHeF28X9QE/video.m3u8",
+          "duration": 1053,
+          "type": "video"
+        },
+        {
+          "id": "td-python-10",
+          "title": "Type conversion - int, float, str",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDYnMSAT9kC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDYnMSAT9kC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDYnMSAT9kC/video.m3u8",
+          "duration": 1034,
+          "type": "video"
+        },
+        {
+          "id": "td-python-11",
+          "title": "Type conversion - boolean",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jX9xcaNMBUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jX9xcaNMBUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jX9xcaNMBUE/video.m3u8",
+          "duration": 690,
+          "type": "video"
+        },
+        {
+          "id": "td-python-12",
+          "title": "Arithmetic & Assignment Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/769ExfH75A6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/769ExfH75A6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/769ExfH75A6/video.m3u8",
+          "duration": 951,
+          "type": "video"
+        },
+        {
+          "id": "td-python-13",
+          "title": "Comparison & Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pkUUuQbqrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pkUUuQbqrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pkUUuQbqrf/video.m3u8",
+          "duration": 1003,
+          "type": "video"
+        },
+        {
+          "id": "td-python-14",
+          "title": "Associativity & Precedence of operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tpMseAZ9tu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tpMseAZ9tu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tpMseAZ9tu/video.m3u8",
+          "duration": 1039,
+          "type": "video"
+        },
+        {
+          "id": "td-python-15",
+          "title": "Printing to console - the print() function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QtFapsNZPj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QtFapsNZPj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QtFapsNZPj/video.m3u8",
+          "duration": 992,
+          "type": "video"
+        },
+        {
+          "id": "td-python-16",
+          "title": "Taking input from user - the input() function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASHecasfYjT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASHecasfYjT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASHecasfYjT/video.m3u8",
+          "duration": 1001,
+          "type": "video"
+        },
+        {
+          "id": "td-python-17",
+          "title": "Getting started with PyCharm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FSnHyshePq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FSnHyshePq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FSnHyshePq/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-python-18",
+          "title": "Numeric functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MRGJ5FNHmD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MRGJ5FNHmD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MRGJ5FNHmD/video.m3u8",
+          "duration": 163,
+          "type": "video"
+        },
+        {
+          "id": "td-python-19",
+          "title": "Coding exercises",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64nD6S7e6y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64nD6S7e6y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64nD6S7e6y/video.m3u8",
+          "duration": 1108,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-4",
+          "title": "Basic Python Concepts",
+          "url": "https://docs.google.com/document/d/1M781QdFh97DWItEaJOuklNK7pfkHq5cud7-LPk78Guc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1M781QdFh97DWItEaJOuklNK7pfkHq5cud7-LPk78Guc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1M781QdFh97DWItEaJOuklNK7pfkHq5cud7-LPk78Guc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1M781QdFh97DWItEaJOuklNK7pfkHq5cud7-LPk78Guc/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Strings in Python",
+      "lectures": [
+        {
+          "id": "td-python-20",
+          "title": "Slicing in strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5243c2MCYjh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5243c2MCYjh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5243c2MCYjh/video.m3u8",
+          "duration": 1081,
+          "type": "video"
+        },
+        {
+          "id": "td-python-21",
+          "title": "fstring in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8utKXSJazkD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8utKXSJazkD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8utKXSJazkD/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-python-22",
+          "title": "Escape sequences",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HQbSHKNedT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HQbSHKNedT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HQbSHKNedT/video.m3u8",
+          "duration": 659,
+          "type": "video"
+        },
+        {
+          "id": "td-python-23",
+          "title": "Operations on strings - membership, strip, replace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rc23MhQefR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rc23MhQefR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rc23MhQefR/video.m3u8",
+          "duration": 1173,
+          "type": "video"
+        },
+        {
+          "id": "td-python-24",
+          "title": "Operations on strings - count, cases, start, end",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96EMaDjDg4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96EMaDjDg4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96EMaDjDg4g/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Lists in Python",
+      "lectures": [
+        {
+          "id": "td-python-25",
+          "title": "Lists Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DNcfTSzFxU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DNcfTSzFxU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DNcfTSzFxU/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        },
+        {
+          "id": "td-python-26",
+          "title": "List operations - slicing, concat, repeat, append, insert",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rdfea8UEfd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rdfea8UEfd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rdfea8UEfd/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-python-27",
+          "title": "List operations - extend, remove, pop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtyApFDGkz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtyApFDGkz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtyApFDGkz/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-python-28",
+          "title": "List operation - reverse, sort, count, membership",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paMXcH2435/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paMXcH2435/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paMXcH2435/video.m3u8",
+          "duration": 977,
+          "type": "video"
+        },
+        {
+          "id": "td-python-29",
+          "title": "Numerical operations on list elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mtum4xeQnc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mtum4xeQnc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mtum4xeQnc/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-python-30",
+          "title": "Nested lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xZ8Y9Zqu7B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xZ8Y9Zqu7B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xZ8Y9Zqu7B/video.m3u8",
+          "duration": 517,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tuples, Sets & Dictionaries",
+      "lectures": [
+        {
+          "id": "td-python-31",
+          "title": "Introducing tuples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K7y4JCgnKx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K7y4JCgnKx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K7y4JCgnKx/video.m3u8",
+          "duration": 1052,
+          "type": "video"
+        },
+        {
+          "id": "td-python-32",
+          "title": "Basic operations on tuples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gKeGsDFJPE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gKeGsDFJPE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gKeGsDFJPE/video.m3u8",
+          "duration": 1091,
+          "type": "video"
+        },
+        {
+          "id": "td-python-33",
+          "title": "Lists are mutable! Tuples are not",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbb5DzmGPU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbb5DzmGPU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbb5DzmGPU/video.m3u8",
+          "duration": 855,
+          "type": "video"
+        },
+        {
+          "id": "td-python-34",
+          "title": "Introducing sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MTPTqzMNKj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MTPTqzMNKj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MTPTqzMNKj/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-python-35",
+          "title": "Basic operations on sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nfTA2ckKRz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nfTA2ckKRz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nfTA2ckKRz/video.m3u8",
+          "duration": 1047,
+          "type": "video"
+        },
+        {
+          "id": "td-python-36",
+          "title": "Operations on sets - union, intersection, difference",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gs93DktJKP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gs93DktJKP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gs93DktJKP/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-python-37",
+          "title": "Is my set frozen!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6d5aDSFRn5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6d5aDSFRn5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6d5aDSFRn5H/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-python-38",
+          "title": "Introducing dictionaries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m2s9kd45uY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m2s9kd45uY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m2s9kd45uY/video.m3u8",
+          "duration": 881,
+          "type": "video"
+        },
+        {
+          "id": "td-python-39",
+          "title": "Operations on dict - updating and deleting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fSMgY7SJGX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fSMgY7SJGX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fSMgY7SJGX/video.m3u8",
+          "duration": 1108,
+          "type": "video"
+        },
+        {
+          "id": "td-python-40",
+          "title": "Working with keys & values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C4BSTeEAYE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C4BSTeEAYE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C4BSTeEAYE/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        },
+        {
+          "id": "td-python-41",
+          "title": "Is the copy shallow or deep",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQCjZ5EjXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQCjZ5EjXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQCjZ5EjXZ/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Control Statements",
+      "lectures": [
+        {
+          "id": "td-python-42",
+          "title": "The if block",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3n7NeBDJezX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3n7NeBDJezX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3n7NeBDJezX/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-python-43",
+          "title": "if else block",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QCKYu4nDR7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QCKYu4nDR7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QCKYu4nDR7/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        },
+        {
+          "id": "td-python-44",
+          "title": "if-elif-else",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dQDKJhyjeU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dQDKJhyjeU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dQDKJhyjeU/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-python-45",
+          "title": "Nested if statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KxXJR9peur/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KxXJR9peur/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KxXJR9peur/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-python-46",
+          "title": "The ternary Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63rNu8Abe8A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63rNu8Abe8A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63rNu8Abe8A/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Loops",
+      "lectures": [
+        {
+          "id": "td-python-47",
+          "title": "for loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DxhufCJRd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DxhufCJRd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DxhufCJRd/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        },
+        {
+          "id": "td-python-48",
+          "title": "For loops with strings and dict",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2cnhmBucA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2cnhmBucA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2cnhmBucA/video.m3u8",
+          "duration": 569,
+          "type": "video"
+        },
+        {
+          "id": "td-python-49",
+          "title": "The range() function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UZFpkyYyuB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UZFpkyYyuB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UZFpkyYyuB/video.m3u8",
+          "duration": 1684,
+          "type": "video"
+        },
+        {
+          "id": "td-python-50",
+          "title": "Total, highest and lowest using loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcBuKptGjB8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcBuKptGjB8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcBuKptGjB8/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-python-51",
+          "title": "continue and break",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yB4RQd5qEk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yB4RQd5qEk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yB4RQd5qEk/video.m3u8",
+          "duration": 463,
+          "type": "video"
+        },
+        {
+          "id": "td-python-52",
+          "title": "The while loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eRuDjJ9kEU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eRuDjJ9kEU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eRuDjJ9kEU/video.m3u8",
+          "duration": 357,
+          "type": "video"
+        },
+        {
+          "id": "td-python-53",
+          "title": "Infinite while loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJgeERsRkf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJgeERsRkf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJgeERsRkf/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        },
+        {
+          "id": "td-python-54",
+          "title": "random module",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGjxnsNyu29/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGjxnsNyu29/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGjxnsNyu29/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-python-55",
+          "title": "Nested loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83XjeATFk9a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83XjeATFk9a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83XjeATFk9a/video.m3u8",
+          "duration": 520,
+          "type": "video"
+        },
+        {
+          "id": "td-python-56",
+          "title": "Star pattern using for loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/F33muCkYxY9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/F33muCkYxY9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/F33muCkYxY9/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-python-57",
+          "title": "Exersice - Roll a dice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFQZth7FtM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFQZth7FtM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFQZth7FtM/video.m3u8",
+          "duration": 792,
+          "type": "video"
+        },
+        {
+          "id": "td-python-58",
+          "title": "Exercise - List & Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PK7fAMc6PT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PK7fAMc6PT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PK7fAMc6PT/video.m3u8",
+          "duration": 469,
+          "type": "video"
+        },
+        {
+          "id": "td-python-59",
+          "title": "Exercise - Loops & dictionaries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NXPKYu4sdM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NXPKYu4sdM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NXPKYu4sdM/video.m3u8",
+          "duration": 789,
+          "type": "video"
+        },
+        {
+          "id": "td-python-60",
+          "title": "Number guessing game - problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cu3cepZ25S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cu3cepZ25S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cu3cepZ25S/video.m3u8",
+          "duration": 174,
+          "type": "video"
+        },
+        {
+          "id": "td-python-61",
+          "title": "Number guessing game - solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sp6uEmsF47/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sp6uEmsF47/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sp6uEmsF47/video.m3u8",
+          "duration": 1313,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-10",
+          "title": "Control Structures in Python",
+          "url": "https://docs.google.com/document/d/14CyeZ2kMyJbds5b1TFwzrPcsYChR8PxrEtwjhbS51RA/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/14CyeZ2kMyJbds5b1TFwzrPcsYChR8PxrEtwjhbS51RA/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/14CyeZ2kMyJbds5b1TFwzrPcsYChR8PxrEtwjhbS51RA/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/14CyeZ2kMyJbds5b1TFwzrPcsYChR8PxrEtwjhbS51RA/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions & Modules",
+      "lectures": [
+        {
+          "id": "td-python-62",
+          "title": "Introduction to functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7994ZTSxsMu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7994ZTSxsMu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7994ZTSxsMu/video.m3u8",
+          "duration": 760,
+          "type": "video"
+        },
+        {
+          "id": "td-python-63",
+          "title": "User defined functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8fegMCGQXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8fegMCGQXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8fegMCGQXu/video.m3u8",
+          "duration": 718,
+          "type": "video"
+        },
+        {
+          "id": "td-python-64",
+          "title": "Returning values from function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ez2FKTDDQQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ez2FKTDDQQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ez2FKTDDQQ/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-python-65",
+          "title": "Types of arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmM8D76UNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmM8D76UNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmM8D76UNe/video.m3u8",
+          "duration": 907,
+          "type": "video"
+        },
+        {
+          "id": "td-python-66",
+          "title": "Variable length positional arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MgHf96FSmHB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MgHf96FSmHB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MgHf96FSmHB/video.m3u8",
+          "duration": 1005,
+          "type": "video"
+        },
+        {
+          "id": "td-python-67",
+          "title": "Variable length keywords arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84anMaSCjqq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84anMaSCjqq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84anMaSCjqq/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-python-68",
+          "title": "Docstrings in Python functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEnQd4fQFda/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEnQd4fQFda/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEnQd4fQFda/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        },
+        {
+          "id": "td-python-69",
+          "title": "Recursive functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDPsUbkqZ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDPsUbkqZ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDPsUbkqZ5/video.m3u8",
+          "duration": 1266,
+          "type": "video"
+        },
+        {
+          "id": "td-python-70",
+          "title": "Local and Global variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQhADrpY42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQhADrpY42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQhADrpY42/video.m3u8",
+          "duration": 265,
+          "type": "video"
+        },
+        {
+          "id": "td-python-71",
+          "title": "Function as an argument",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5AaEDAnMSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5AaEDAnMSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5AaEDAnMSC/video.m3u8",
+          "duration": 316,
+          "type": "video"
+        },
+        {
+          "id": "td-python-72",
+          "title": "Lambda function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfGdXYHRUgD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfGdXYHRUgD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfGdXYHRUgD/video.m3u8",
+          "duration": 239,
+          "type": "video"
+        },
+        {
+          "id": "td-python-73",
+          "title": "filter() and map() with lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cg9ss465c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cg9ss465c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cg9ss465c/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-python-74",
+          "title": "Modules in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQ6fyR53r7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQ6fyR53r7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQ6fyR53r7/video.m3u8",
+          "duration": 1023,
+          "type": "video"
+        },
+        {
+          "id": "td-python-75",
+          "title": "User defined modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXHbJgUXxr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXHbJgUXxr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXHbJgUXxr/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        },
+        {
+          "id": "td-python-76",
+          "title": "What is __name__",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rKFH3Sgq98/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rKFH3Sgq98/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rKFH3Sgq98/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-python-77",
+          "title": "A Simple banking application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zfBP6dKdJk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zfBP6dKdJk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zfBP6dKdJk/video.m3u8",
+          "duration": 2504,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-12",
+          "title": "Functions & Modules in Python",
+          "url": "https://docs.google.com/document/d/1FKz7SnHsTt2ujbanEQwPboZ0QpSwl2g4GnwpfgTzk6Y/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1FKz7SnHsTt2ujbanEQwPboZ0QpSwl2g4GnwpfgTzk6Y/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1FKz7SnHsTt2ujbanEQwPboZ0QpSwl2g4GnwpfgTzk6Y/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1FKz7SnHsTt2ujbanEQwPboZ0QpSwl2g4GnwpfgTzk6Y/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "File handling & Exception handling",
+      "lectures": [
+        {
+          "id": "td-python-78",
+          "title": "Introduction to File handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjekZSgTSka/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjekZSgTSka/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjekZSgTSka/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-python-79",
+          "title": "Creating files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S5kBquzKjm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S5kBquzKjm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S5kBquzKjm/video.m3u8",
+          "duration": 352,
+          "type": "video"
+        },
+        {
+          "id": "td-python-80",
+          "title": "The w mode",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rfKr8Bp58N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rfKr8Bp58N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rfKr8Bp58N/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        },
+        {
+          "id": "td-python-81",
+          "title": "Reading files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6yppmkxtp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6yppmkxtp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6yppmkxtp/video.m3u8",
+          "duration": 995,
+          "type": "video"
+        },
+        {
+          "id": "td-python-82",
+          "title": "Appending into a file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uGJgNCm9Yz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uGJgNCm9Yz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uGJgNCm9Yz/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-python-83",
+          "title": "The with statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Py2G6sx8mF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Py2G6sx8mF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Py2G6sx8mF/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-python-84",
+          "title": "Check if a file exists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yA9bpGBjbz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yA9bpGBjbz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yA9bpGBjbz/video.m3u8",
+          "duration": 593,
+          "type": "video"
+        },
+        {
+          "id": "td-python-85",
+          "title": "Common issues with file handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qe968qHXGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qe968qHXGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qe968qHXGR/video.m3u8",
+          "duration": 419,
+          "type": "video"
+        },
+        {
+          "id": "td-python-86",
+          "title": "Exception and try-except",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eY2GpaMH5K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eY2GpaMH5K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eY2GpaMH5K/video.m3u8",
+          "duration": 997,
+          "type": "video"
+        },
+        {
+          "id": "td-python-87",
+          "title": "Exception handling - else & finally",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAt53tZYkKJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAt53tZYkKJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAt53tZYkKJ/video.m3u8",
+          "duration": 1196,
+          "type": "video"
+        },
+        {
+          "id": "td-python-88",
+          "title": "Raising exceptions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58GnA4ufzq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58GnA4ufzq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58GnA4ufzq3/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-python-89",
+          "title": "The json module",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZBsZY8j6H2c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZBsZY8j6H2c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZBsZY8j6H2c/video.m3u8",
+          "duration": 979,
+          "type": "video"
+        },
+        {
+          "id": "td-python-90",
+          "title": "The pickle module",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXTQ9ZaKD26/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXTQ9ZaKD26/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXTQ9ZaKD26/video.m3u8",
+          "duration": 1270,
+          "type": "video"
+        },
+        {
+          "id": "td-python-91",
+          "title": "Pickle and exception handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YZX4qEbQxE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YZX4qEbQxE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YZX4qEbQxE/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-14",
+          "title": "Files, Exceptions, and Errors in Python",
+          "url": "https://docs.google.com/document/d/175kiYt16pO-cIINARSEQOzgI-9CV9Q-o6xJ13yIcCB0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/175kiYt16pO-cIINARSEQOzgI-9CV9Q-o6xJ13yIcCB0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/175kiYt16pO-cIINARSEQOzgI-9CV9Q-o6xJ13yIcCB0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/175kiYt16pO-cIINARSEQOzgI-9CV9Q-o6xJ13yIcCB0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Regular Expression",
+      "lectures": [
+        {
+          "id": "td-python-92",
+          "title": "Introduction to RegEx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqgR9Zrxn8g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqgR9Zrxn8g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqgR9Zrxn8g/video.m3u8",
+          "duration": 1139,
+          "type": "video"
+        },
+        {
+          "id": "td-python-93",
+          "title": "The dot metacharacter and character classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PTzSdjrZZGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PTzSdjrZZGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PTzSdjrZZGd/video.m3u8",
+          "duration": 832,
+          "type": "video"
+        },
+        {
+          "id": "td-python-94",
+          "title": "Special characters in regex",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YMupj3xbNf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YMupj3xbNf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YMupj3xbNf/video.m3u8",
+          "duration": 1139,
+          "type": "video"
+        },
+        {
+          "id": "td-python-95",
+          "title": "Quantifiers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m6xNFx3QmX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m6xNFx3QmX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m6xNFx3QmX/video.m3u8",
+          "duration": 591,
+          "type": "video"
+        },
+        {
+          "id": "td-python-96",
+          "title": "More metacharacters in regex",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n6TRdA3s7xJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n6TRdA3s7xJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n6TRdA3s7xJ/video.m3u8",
+          "duration": 519,
+          "type": "video"
+        },
+        {
+          "id": "td-python-97",
+          "title": "Finding all matches - findall, finditer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyUJEDrQfG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyUJEDrQfG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyUJEDrQfG/video.m3u8",
+          "duration": 798,
+          "type": "video"
+        },
+        {
+          "id": "td-python-98",
+          "title": "Substituting the pattern - sub()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATe8k3eMRmm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATe8k3eMRmm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATe8k3eMRmm/video.m3u8",
+          "duration": 677,
+          "type": "video"
+        },
+        {
+          "id": "td-python-99",
+          "title": "The compile function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93Hrr7pF2cu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93Hrr7pF2cu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93Hrr7pF2cu/video.m3u8",
+          "duration": 736,
+          "type": "video"
+        },
+        {
+          "id": "td-python-100",
+          "title": "Exercise - Finding valid emails",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cn7Re75qp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cn7Re75qp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Cn7Re75qp/video.m3u8",
+          "duration": 853,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-16",
+          "title": "Data Structures and Strings in Python",
+          "url": "https://docs.google.com/document/d/1NbsbbZRPulOHe9FqeB_-WEB-X_cDIIgeXePRZwvwspg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1NbsbbZRPulOHe9FqeB_-WEB-X_cDIIgeXePRZwvwspg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1NbsbbZRPulOHe9FqeB_-WEB-X_cDIIgeXePRZwvwspg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1NbsbbZRPulOHe9FqeB_-WEB-X_cDIIgeXePRZwvwspg/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Object Oriented Programming",
+      "lectures": [
+        {
+          "id": "td-python-101",
+          "title": "Introduction to OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZSsQQJhY9a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZSsQQJhY9a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZSsQQJhY9a/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        },
+        {
+          "id": "td-python-102",
+          "title": "What are classes and objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59hsuuz3sDU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59hsuuz3sDU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59hsuuz3sDU/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-python-103",
+          "title": "Creating classes and objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hXAgzKsTUx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hXAgzKsTUx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hXAgzKsTUx/video.m3u8",
+          "duration": 891,
+          "type": "video"
+        },
+        {
+          "id": "td-python-104",
+          "title": "What are attributes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFJfS7A7hn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFJfS7A7hn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFJfS7A7hn/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-python-105",
+          "title": "Instance methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpNuxNf9uyP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpNuxNf9uyP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpNuxNf9uyP/video.m3u8",
+          "duration": 1253,
+          "type": "video"
+        },
+        {
+          "id": "td-python-106",
+          "title": "Arguments in instance methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ydxBcjbeqm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ydxBcjbeqm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ydxBcjbeqm/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-python-107",
+          "title": "Initializer and Instance variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fa9RUSPkhU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fa9RUSPkhU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fa9RUSPkhU/video.m3u8",
+          "duration": 1243,
+          "type": "video"
+        },
+        {
+          "id": "td-python-108",
+          "title": "Class variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A25ZDbbjB4S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A25ZDbbjB4S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A25ZDbbjB4S/video.m3u8",
+          "duration": 505,
+          "type": "video"
+        },
+        {
+          "id": "td-python-109",
+          "title": "class methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGqs2nsJfc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGqs2nsJfc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGqs2nsJfc/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-python-110",
+          "title": "static methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n3gctCm6af/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n3gctCm6af/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n3gctCm6af/video.m3u8",
+          "duration": 798,
+          "type": "video"
+        },
+        {
+          "id": "td-python-111",
+          "title": "Mini Project - Phone Book Part - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4z7cx7PbjNP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4z7cx7PbjNP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4z7cx7PbjNP/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-python-112",
+          "title": "Mini Project - Phone Book Part - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYHzGxsMEru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYHzGxsMEru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYHzGxsMEru/video.m3u8",
+          "duration": 1107,
+          "type": "video"
+        },
+        {
+          "id": "td-python-113",
+          "title": "Inheritance introduction and single inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eChJPQMbHdR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eChJPQMbHdR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eChJPQMbHdR/video.m3u8",
+          "duration": 1059,
+          "type": "video"
+        },
+        {
+          "id": "td-python-114",
+          "title": "Single inheritance and initialization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YgG45yprbp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YgG45yprbp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YgG45yprbp/video.m3u8",
+          "duration": 1356,
+          "type": "video"
+        },
+        {
+          "id": "td-python-115",
+          "title": "Single inheritance - arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H6PFmmsZkk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H6PFmmsZkk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H6PFmmsZkk/video.m3u8",
+          "duration": 125,
+          "type": "video"
+        },
+        {
+          "id": "td-python-116",
+          "title": "Multiple Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HtCeK6TspZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HtCeK6TspZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HtCeK6TspZ/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-python-117",
+          "title": "Multilevel inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H3UthNh7Ny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H3UthNh7Ny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H3UthNh7Ny/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-python-118",
+          "title": "Introduction to polymorphism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r5budKeqYr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r5budKeqYr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r5budKeqYr/video.m3u8",
+          "duration": 236,
+          "type": "video"
+        },
+        {
+          "id": "td-python-119",
+          "title": "Polymorphism - operator overloading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRpJmmH3ft/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRpJmmH3ft/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRpJmmH3ft/video.m3u8",
+          "duration": 1101,
+          "type": "video"
+        },
+        {
+          "id": "td-python-120",
+          "title": "Polymorphism - method overloading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58MAK9gHxKk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58MAK9gHxKk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58MAK9gHxKk/video.m3u8",
+          "duration": 248,
+          "type": "video"
+        },
+        {
+          "id": "td-python-121",
+          "title": "Polymorphism - method overriding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68DHaYS9N8Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68DHaYS9N8Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68DHaYS9N8Q/video.m3u8",
+          "duration": 322,
+          "type": "video"
+        },
+        {
+          "id": "td-python-122",
+          "title": "Introduction of encapsulation and abstraction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3DKtBkJHcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3DKtBkJHcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3DKtBkJHcH/video.m3u8",
+          "duration": 114,
+          "type": "video"
+        },
+        {
+          "id": "td-python-123",
+          "title": "Abstract class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhEnbyG25D4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhEnbyG25D4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhEnbyG25D4/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-python-124",
+          "title": "Custom exception classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gHgc4X9hYy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gHgc4X9hYy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gHgc4X9hYy/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tkinter",
+      "lectures": [
+        {
+          "id": "td-python-125",
+          "title": "Introduction to GUI and tkinter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aBDTk6bF9m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aBDTk6bF9m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aBDTk6bF9m/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-python-126",
+          "title": "Label, title, minsize, pack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UEDbDYNfCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UEDbDYNfCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UEDbDYNfCP/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-python-127",
+          "title": "Button and change label text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9HFCEJ62Xx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9HFCEJ62Xx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9HFCEJ62Xx/video.m3u8",
+          "duration": 905,
+          "type": "video"
+        },
+        {
+          "id": "td-python-128",
+          "title": "The Entry component",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BntkmFEpyM6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BntkmFEpyM6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BntkmFEpyM6/video.m3u8",
+          "duration": 680,
+          "type": "video"
+        },
+        {
+          "id": "td-python-129",
+          "title": "What is ttk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pSNRETBkcrz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pSNRETBkcrz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pSNRETBkcrz/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-python-130",
+          "title": "Quitting the window",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qDkB5CCQGM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qDkB5CCQGM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qDkB5CCQGM/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-python-131",
+          "title": "Frames and background colors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zUbYHHRGjs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zUbYHHRGjs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zUbYHHRGjs/video.m3u8",
+          "duration": 1484,
+          "type": "video"
+        },
+        {
+          "id": "td-python-132",
+          "title": "Text, Separator and padding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Na4S9SeqJ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Na4S9SeqJ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Na4S9SeqJ6/video.m3u8",
+          "duration": 1638,
+          "type": "video"
+        },
+        {
+          "id": "td-python-133",
+          "title": "Checkbutton widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ptq6nDRTnb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ptq6nDRTnb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ptq6nDRTnb/video.m3u8",
+          "duration": 708,
+          "type": "video"
+        },
+        {
+          "id": "td-python-134",
+          "title": "Radiobutton widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sSrkhuEGTz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sSrkhuEGTz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sSrkhuEGTz/video.m3u8",
+          "duration": 506,
+          "type": "video"
+        },
+        {
+          "id": "td-python-135",
+          "title": "Checkbox and Listbox",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANNmNbxjFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANNmNbxjFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANNmNbxjFD/video.m3u8",
+          "duration": 1481,
+          "type": "video"
+        },
+        {
+          "id": "td-python-136",
+          "title": "Spinbox widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GAqECRnbj9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GAqECRnbj9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GAqECRnbj9/video.m3u8",
+          "duration": 836,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CALCULATOR USING TKINTER",
+      "lectures": [
+        {
+          "id": "td-python-137",
+          "title": "Calculator(1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PPNrj3EUpXA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PPNrj3EUpXA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PPNrj3EUpXA/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-python-138",
+          "title": "Calculator(2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Efkcejb29H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Efkcejb29H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Efkcejb29H/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-python-139",
+          "title": "Calculator(3)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JASeeJ4Bxr2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JASeeJ4Bxr2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JASeeJ4Bxr2/video.m3u8",
+          "duration": 794,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-20",
+          "title": "Tkinter calculator",
+          "url": "https://docs.google.com/document/d/1-9D9ZSJR2fw717B-g8Di2risn-9I6Ur7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-9D9ZSJR2fw717B-g8Di2risn-9I6Ur7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-9D9ZSJR2fw717B-g8Di2risn-9I6Ur7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-9D9ZSJR2fw717B-g8Di2risn-9I6Ur7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Building Database Apps with PostgreSQL & Python",
+      "lectures": [
+        {
+          "id": "td-python-140",
+          "title": "Introduction to data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bxQaEzKPyX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bxQaEzKPyX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bxQaEzKPyX/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-python-141",
+          "title": "Introduction to database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6EY6ukeFe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6EY6ukeFe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf6EY6ukeFe/video.m3u8",
+          "duration": 236,
+          "type": "video"
+        },
+        {
+          "id": "td-python-142",
+          "title": "Introduction to PostgreSQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8buAY9Tj7sC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8buAY9Tj7sC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8buAY9Tj7sC/video.m3u8",
+          "duration": 238,
+          "type": "video"
+        },
+        {
+          "id": "td-python-143",
+          "title": "Installing PostgreSQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4UNm5bxxCj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4UNm5bxxCj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4UNm5bxxCj/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-python-144",
+          "title": "Creating a database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q5yQrKP9gJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q5yQrKP9gJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q5yQrKP9gJ/video.m3u8",
+          "duration": 264,
+          "type": "video"
+        },
+        {
+          "id": "td-python-145",
+          "title": "Deleting a database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZrP87TjmsM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZrP87TjmsM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZrP87TjmsM/video.m3u8",
+          "duration": 125,
+          "type": "video"
+        },
+        {
+          "id": "td-python-146",
+          "title": "Creating table and adding data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gd8NE44N8c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gd8NE44N8c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gd8NE44N8c/video.m3u8",
+          "duration": 322,
+          "type": "video"
+        },
+        {
+          "id": "td-python-147",
+          "title": "Retrieving data from database and deleting contents in the table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkFfjRm5XRy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkFfjRm5XRy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkFfjRm5XRy/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-python-148",
+          "title": "Setting up virtualenv",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b2ukysdSpan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b2ukysdSpan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b2ukysdSpan/video.m3u8",
+          "duration": 513,
+          "type": "video"
+        },
+        {
+          "id": "td-python-149",
+          "title": "Installing psycopg2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpfdpkdReY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpfdpkdReY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpfdpkdReY/video.m3u8",
+          "duration": 162,
+          "type": "video"
+        },
+        {
+          "id": "td-python-150",
+          "title": "Connecting to the database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYguUdnFMZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYguUdnFMZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYguUdnFMZ/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-python-151",
+          "title": "Creating table using python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KYHb9Nu5RH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KYHb9Nu5RH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KYHb9Nu5RH/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-python-152",
+          "title": "Inserting the data using python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqueKr2fKq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqueKr2fKq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqueKr2fKq/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-python-153",
+          "title": "Extracting the data from the database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmYc9QNpgp5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmYc9QNpgp5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmYc9QNpgp5/video.m3u8",
+          "duration": 239,
+          "type": "video"
+        },
+        {
+          "id": "td-python-154",
+          "title": "Adding the input from the user",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eudGbnshDr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eudGbnshDr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eudGbnshDr/video.m3u8",
+          "duration": 344,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-22",
+          "title": "Implementing Database Operations using python",
+          "url": "https://docs.google.com/document/d/1_IkSOhbkftz3Jmwx_e-ieBbhoLXMICNk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_IkSOhbkftz3Jmwx_e-ieBbhoLXMICNk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_IkSOhbkftz3Jmwx_e-ieBbhoLXMICNk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_IkSOhbkftz3Jmwx_e-ieBbhoLXMICNk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "DATA ANALYSIS",
+      "lectures": [
+        {
+          "id": "td-python-155",
+          "title": "Data Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uRNch7haYH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uRNch7haYH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uRNch7haYH/video.m3u8",
+          "duration": 322,
+          "type": "video"
+        },
+        {
+          "id": "td-python-156",
+          "title": "Installing Anaconda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E84YeqAmA2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E84YeqAmA2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E84YeqAmA2/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-python-157",
+          "title": "Libraries important properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NsCtbpExme/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NsCtbpExme/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NsCtbpExme/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-python-158",
+          "title": "Importing csv file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D53y5hYebB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D53y5hYebB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D53y5hYebB/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-python-159",
+          "title": "Methods to view file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BSKFZZ6yKD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BSKFZZ6yKD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BSKFZZ6yKD/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-python-160",
+          "title": "Data cleaning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eJasQ8e25z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eJasQ8e25z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eJasQ8e25z/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-python-161",
+          "title": "Data Formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YCPudc2BDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YCPudc2BDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YCPudc2BDZ/video.m3u8",
+          "duration": 509,
+          "type": "video"
+        },
+        {
+          "id": "td-python-162",
+          "title": "Data normalization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRpygUUeHYy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRpygUUeHYy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRpygUUeHYy/video.m3u8",
+          "duration": 281,
+          "type": "video"
+        },
+        {
+          "id": "td-python-163",
+          "title": "Data Normalization 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sBxbRYJZXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sBxbRYJZXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sBxbRYJZXu/video.m3u8",
+          "duration": 527,
+          "type": "video"
+        },
+        {
+          "id": "td-python-164",
+          "title": "Binning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkCUDKk3Ut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkCUDKk3Ut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkCUDKk3Ut/video.m3u8",
+          "duration": 240,
+          "type": "video"
+        },
+        {
+          "id": "td-python-165",
+          "title": "Binning 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u8gN7Zm4AN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u8gN7Zm4AN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u8gN7Zm4AN/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-python-166",
+          "title": "Value counts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fj7SC2gmS5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fj7SC2gmS5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fj7SC2gmS5/video.m3u8",
+          "duration": 220,
+          "type": "video"
+        },
+        {
+          "id": "td-python-167",
+          "title": "Boxplot and Scatterplot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9mmMKG72x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9mmMKG72x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9mmMKG72x/video.m3u8",
+          "duration": 248,
+          "type": "video"
+        },
+        {
+          "id": "td-python-168",
+          "title": "Groupby",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9qm4X5ZYc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9qm4X5ZYc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9qm4X5ZYc/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        },
+        {
+          "id": "td-python-169",
+          "title": "Pivot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fjp7azUPkJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fjp7azUPkJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fjp7azUPkJ/video.m3u8",
+          "duration": 443,
+          "type": "video"
+        },
+        {
+          "id": "td-python-170",
+          "title": "Heat map 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHBnPCMKA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHBnPCMKA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHBnPCMKA4/video.m3u8",
+          "duration": 412,
+          "type": "video"
+        },
+        {
+          "id": "td-python-171",
+          "title": "Heat map 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TcNbXEmURD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TcNbXEmURD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TcNbXEmURD/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-python-172",
+          "title": "ANOVA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9ymzxtZSsy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9ymzxtZSsy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9ymzxtZSsy/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-python-173",
+          "title": "Correlation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G65JGk9bq6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G65JGk9bq6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G65JGk9bq6/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-python-174",
+          "title": "Correlation 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B62dxCzT4Yh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B62dxCzT4Yh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B62dxCzT4Yh/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-python-175",
+          "title": "Simple Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/udrJ6qGZKGU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/udrJ6qGZKGU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/udrJ6qGZKGU/video.m3u8",
+          "duration": 264,
+          "type": "video"
+        },
+        {
+          "id": "td-python-176",
+          "title": "Multiple Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YmzB6NqbyN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YmzB6NqbyN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YmzB6NqbyN/video.m3u8",
+          "duration": 227,
+          "type": "video"
+        },
+        {
+          "id": "td-python-177",
+          "title": "Simple Linear Regression using python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcBSxMrGyq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcBSxMrGyq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcBSxMrGyq/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-python-178",
+          "title": "Multiple Linear Regression using python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAeqk56U83T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAeqk56U83T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAeqk56U83T/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        },
+        {
+          "id": "td-python-179",
+          "title": "Regression Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qadXUBCxFJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qadXUBCxFJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qadXUBCxFJ/video.m3u8",
+          "duration": 279,
+          "type": "video"
+        },
+        {
+          "id": "td-python-180",
+          "title": "Residual plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79nyD8deQRT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79nyD8deQRT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79nyD8deQRT/video.m3u8",
+          "duration": 219,
+          "type": "video"
+        },
+        {
+          "id": "td-python-181",
+          "title": "Distribution plot 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bphCt8taQU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bphCt8taQU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bphCt8taQU/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-python-182",
+          "title": "Distribution plot 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46Uq4T934dc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46Uq4T934dc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46Uq4T934dc/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        },
+        {
+          "id": "td-python-183",
+          "title": "Polynomial Regression 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrfPZ9MTeND/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrfPZ9MTeND/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrfPZ9MTeND/video.m3u8",
+          "duration": 156,
+          "type": "video"
+        },
+        {
+          "id": "td-python-184",
+          "title": "Polynomial Regression 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K2cHNmzq4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K2cHNmzq4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K2cHNmzq4/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-python-185",
+          "title": "In Sample Evaluation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6zeAeDdmM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6zeAeDdmM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6zeAeDdmM/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-python-186",
+          "title": "Mean Squared Error",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5q8taGgeBUg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5q8taGgeBUg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5q8taGgeBUg/video.m3u8",
+          "duration": 298,
+          "type": "video"
+        },
+        {
+          "id": "td-python-187",
+          "title": "R Squared 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GxGfmkH9ZN2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GxGfmkH9ZN2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GxGfmkH9ZN2/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-python-188",
+          "title": "R Squared 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkhuuHBryr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkhuuHBryr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkhuuHBryr/video.m3u8",
+          "duration": 145,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Django",
+      "lectures": [
+        {
+          "id": "td-python-189",
+          "title": "Introduction to Django",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhMRAKRkdD2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhMRAKRkdD2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhMRAKRkdD2/video.m3u8",
+          "duration": 355,
+          "type": "video"
+        },
+        {
+          "id": "td-python-190",
+          "title": "Install Django",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ufTcdtkA9J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ufTcdtkA9J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ufTcdtkA9J/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        },
+        {
+          "id": "td-python-191",
+          "title": "Django Project Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak8SnTcPKUg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak8SnTcPKUg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak8SnTcPKUg/video.m3u8",
+          "duration": 140,
+          "type": "video"
+        },
+        {
+          "id": "td-python-192",
+          "title": "Creating a new django project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bj5Y8Ah6H3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bj5Y8Ah6H3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bj5Y8Ah6H3/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-python-193",
+          "title": "Understanding the Django project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948R5UEzeCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948R5UEzeCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948R5UEzeCp/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-python-194",
+          "title": "Start the development server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mkUGzZGx4S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mkUGzZGx4S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mkUGzZGx4S/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        },
+        {
+          "id": "td-python-195",
+          "title": "Django Apps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3edAnuA8Jbs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3edAnuA8Jbs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3edAnuA8Jbs/video.m3u8",
+          "duration": 764,
+          "type": "video"
+        },
+        {
+          "id": "td-python-196",
+          "title": "Urls & Views",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uu8bbUApQm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uu8bbUApQm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uu8bbUApQm/video.m3u8",
+          "duration": 1509,
+          "type": "video"
+        },
+        {
+          "id": "td-python-197",
+          "title": "Building a blog website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MspzHfA2xD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MspzHfA2xD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MspzHfA2xD/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        },
+        {
+          "id": "td-python-198",
+          "title": "Adding home page and other urls & views",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44aF7bBbJg8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44aF7bBbJg8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44aF7bBbJg8/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-python-199",
+          "title": "Dynamic Path Segments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn2t5HHUTfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn2t5HHUTfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn2t5HHUTfU/video.m3u8",
+          "duration": 1126,
+          "type": "video"
+        },
+        {
+          "id": "td-python-200",
+          "title": "Path converters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YGbHpqTC7J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YGbHpqTC7J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YGbHpqTC7J/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-python-201",
+          "title": "Slugs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TjgumG5DX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TjgumG5DX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TjgumG5DX/video.m3u8",
+          "duration": 627,
+          "type": "video"
+        },
+        {
+          "id": "td-python-202",
+          "title": "Returning html content as response",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ju6Rj3knqYS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ju6Rj3knqYS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ju6Rj3knqYS/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-python-203",
+          "title": "Making the code more dynamic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2zDecrN7z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2zDecrN7z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2zDecrN7z/video.m3u8",
+          "duration": 505,
+          "type": "video"
+        },
+        {
+          "id": "td-python-204",
+          "title": "Named urls & reverse()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84GKbFq75m7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84GKbFq75m7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84GKbFq75m7/video.m3u8",
+          "duration": 1664,
+          "type": "video"
+        },
+        {
+          "id": "td-python-205",
+          "title": "Introduction to Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32grxy2DqdE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32grxy2DqdE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32grxy2DqdE/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        },
+        {
+          "id": "td-python-206",
+          "title": "Creating & using templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8suTCD9Z7Sq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8suTCD9Z7Sq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8suTCD9Z7Sq/video.m3u8",
+          "duration": 1015,
+          "type": "video"
+        },
+        {
+          "id": "td-python-207",
+          "title": "Registering Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92rNRxe7nfH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92rNRxe7nfH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92rNRxe7nfH/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-python-208",
+          "title": "Rendering templates - best practice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPNnSdTqrmz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPNnSdTqrmz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPNnSdTqrmz/video.m3u8",
+          "duration": 720,
+          "type": "video"
+        },
+        {
+          "id": "td-python-209",
+          "title": "DTL & variable injection - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4CGsr3age/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4CGsr3age/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4CGsr3age/video.m3u8",
+          "duration": 1161,
+          "type": "video"
+        },
+        {
+          "id": "td-python-210",
+          "title": "DTL & variable injection - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASN2P2p4uSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASN2P2p4uSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASN2P2p4uSH/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-python-211",
+          "title": "Template filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PBhqbjNrXR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PBhqbjNrXR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PBhqbjNrXR/video.m3u8",
+          "duration": 652,
+          "type": "video"
+        },
+        {
+          "id": "td-python-212",
+          "title": "Template tags and the 'for' tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbREafjDKE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbREafjDKE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbREafjDKE/video.m3u8",
+          "duration": 1134,
+          "type": "video"
+        },
+        {
+          "id": "td-python-213",
+          "title": "Url tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bTM8U6ajKPG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bTM8U6ajKPG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bTM8U6ajKPG/video.m3u8",
+          "duration": 829,
+          "type": "video"
+        },
+        {
+          "id": "td-python-214",
+          "title": "The if tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FZJU7QYaE4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FZJU7QYaE4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FZJU7QYaE4/video.m3u8",
+          "duration": 711,
+          "type": "video"
+        },
+        {
+          "id": "td-python-215",
+          "title": "Inheritance in templates - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jEuDAQEMXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jEuDAQEMXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jEuDAQEMXu/video.m3u8",
+          "duration": 1346,
+          "type": "video"
+        },
+        {
+          "id": "td-python-216",
+          "title": "Inheritance in templates - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jmMdjP6nfB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jmMdjP6nfB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jmMdjP6nfB/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-python-217",
+          "title": "The include tag - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NzFJTFgQbk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NzFJTFgQbk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NzFJTFgQbk/video.m3u8",
+          "duration": 1080,
+          "type": "video"
+        },
+        {
+          "id": "td-python-218",
+          "title": "The include tag - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QeaJMDxybs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QeaJMDxybs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QeaJMDxybs/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-python-219",
+          "title": "The 404 template",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZDD6qN4dRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZDD6qN4dRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZDD6qN4dRG/video.m3u8",
+          "duration": 1118,
+          "type": "video"
+        },
+        {
+          "id": "td-python-220",
+          "title": "Static files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68M5QSUD7cp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68M5QSUD7cp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68M5QSUD7cp/video.m3u8",
+          "duration": 1542,
+          "type": "video"
+        },
+        {
+          "id": "td-python-221",
+          "title": "Global static files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8pTx8CgZaP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8pTx8CgZaP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8pTx8CgZaP/video.m3u8",
+          "duration": 1168,
+          "type": "video"
+        },
+        {
+          "id": "td-python-222",
+          "title": "Adding content to home page - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kXKgfy23Gch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kXKgfy23Gch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kXKgfy23Gch/video.m3u8",
+          "duration": 1374,
+          "type": "video"
+        },
+        {
+          "id": "td-python-223",
+          "title": "Adding content to home page - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3QhQu9x825/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3QhQu9x825/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3QhQu9x825/video.m3u8",
+          "duration": 570,
+          "type": "video"
+        },
+        {
+          "id": "td-python-224",
+          "title": "Adding images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pARGCb8cs6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pARGCb8cs6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pARGCb8cs6/video.m3u8",
+          "duration": 491,
+          "type": "video"
+        },
+        {
+          "id": "td-python-225",
+          "title": "Changes to allposts page - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GZdF4anHUT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GZdF4anHUT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GZdF4anHUT/video.m3u8",
+          "duration": 1002,
+          "type": "video"
+        },
+        {
+          "id": "td-python-226",
+          "title": "Changes to allposts page - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2g6mree5u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2g6mree5u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2g6mree5u/video.m3u8",
+          "duration": 379,
+          "type": "video"
+        },
+        {
+          "id": "td-python-227",
+          "title": "Changing the post data in views",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p7fBHFEGtQT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p7fBHFEGtQT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p7fBHFEGtQT/video.m3u8",
+          "duration": 1507,
+          "type": "video"
+        },
+        {
+          "id": "td-python-228",
+          "title": "Making index.html dynamic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez7et85aNP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez7et85aNP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez7et85aNP/video.m3u8",
+          "duration": 626,
+          "type": "video"
+        },
+        {
+          "id": "td-python-229",
+          "title": "The include tag revisted",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AE3arAZNmu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AE3arAZNmu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AE3arAZNmu/video.m3u8",
+          "duration": 559,
+          "type": "video"
+        },
+        {
+          "id": "td-python-230",
+          "title": "Generating url for allposts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44rFRbkKrEG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44rFRbkKrEG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44rFRbkKrEG/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-python-231",
+          "title": "Fixing individual post page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86h8CJpzR3f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86h8CJpzR3f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86h8CJpzR3f/video.m3u8",
+          "duration": 1391,
+          "type": "video"
+        },
+        {
+          "id": "td-python-232",
+          "title": "Data & Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eF6UADxAEc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eF6UADxAEc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eF6UADxAEc/video.m3u8",
+          "duration": 1381,
+          "type": "video"
+        },
+        {
+          "id": "td-python-233",
+          "title": "Migrations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fxs7FrZq9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fxs7FrZq9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fxs7FrZq9k/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-python-234",
+          "title": "Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFJ6C5xCKG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFJ6C5xCKG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFJ6C5xCKG/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-python-235",
+          "title": "Adding more models & relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5365Ba2JuMb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5365Ba2JuMb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5365Ba2JuMb/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-python-236",
+          "title": "Admin panel & adding models to it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psHZZME2RG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psHZZME2RG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psHZZME2RG/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-python-237",
+          "title": "Addind data via admin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gC5AxHGPMD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gC5AxHGPMD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gC5AxHGPMD/video.m3u8",
+          "duration": 941,
+          "type": "video"
+        },
+        {
+          "id": "td-python-238",
+          "title": "Configuring the admin panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Un6CaFrkZp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Un6CaFrkZp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Un6CaFrkZp/video.m3u8",
+          "duration": 778,
+          "type": "video"
+        },
+        {
+          "id": "td-python-239",
+          "title": "Auto-populating the slug field",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43BQdFUzqmt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43BQdFUzqmt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43BQdFUzqmt/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-python-240",
+          "title": "Quering data from DB - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXf8xaPPMF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXf8xaPPMF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXf8xaPPMF/video.m3u8",
+          "duration": 1160,
+          "type": "video"
+        },
+        {
+          "id": "td-python-241",
+          "title": "Quering data from DB - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PE6fRC68yDr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PE6fRC68yDr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PE6fRC68yDr/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-python-242",
+          "title": "Quering data from DB - 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYdy6dJmna/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYdy6dJmna/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYdy6dJmna/video.m3u8",
+          "duration": 1323,
+          "type": "video"
+        },
+        {
+          "id": "td-python-243",
+          "title": "Forms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeMD5aG5ruu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeMD5aG5ruu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeMD5aG5ruu/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-python-244",
+          "title": "The Form class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Yx7MXZsZs44/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Yx7MXZsZs44/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Yx7MXZsZs44/video.m3u8",
+          "duration": 1464,
+          "type": "video"
+        },
+        {
+          "id": "td-python-245",
+          "title": "Configuring the form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kZg6FbQrpM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kZg6FbQrpM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kZg6FbQrpM/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-python-246",
+          "title": "Saving the form data - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYY5PzGaefu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYY5PzGaefu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYY5PzGaefu/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        },
+        {
+          "id": "td-python-247",
+          "title": "CSRF token",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XYr7QE8JzNf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XYr7QE8JzNf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XYr7QE8JzNf/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-python-248",
+          "title": "Handling the submitted data - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q2DqsBNh6TG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q2DqsBNh6TG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q2DqsBNh6TG/video.m3u8",
+          "duration": 735,
+          "type": "video"
+        },
+        {
+          "id": "td-python-249",
+          "title": "Handling the submitted data - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQGEC3BGSD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQGEC3BGSD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQGEC3BGSD/video.m3u8",
+          "duration": 1157,
+          "type": "video"
+        },
+        {
+          "id": "td-python-250",
+          "title": "Saving the form data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TgQnQruS8q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TgQnQruS8q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TgQnQruS8q/video.m3u8",
+          "duration": 591,
+          "type": "video"
+        },
+        {
+          "id": "td-python-251",
+          "title": "Displaying the comment on the post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JdnNyuP9e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JdnNyuP9e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JdnNyuP9e/video.m3u8",
+          "duration": 1214,
+          "type": "video"
+        },
+        {
+          "id": "td-python-252",
+          "title": "Handling comments via admin & Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88AhukzcJ9N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88AhukzcJ9N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88AhukzcJ9N/video.m3u8",
+          "duration": 805,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "FLASK",
+      "lectures": [
+        {
+          "id": "td-python-253",
+          "title": "Introduction to Flask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC6jEcFJxJK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC6jEcFJxJK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC6jEcFJxJK/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        },
+        {
+          "id": "td-python-254",
+          "title": "Project setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NMEgDnJ9Cn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NMEgDnJ9Cn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NMEgDnJ9Cn/video.m3u8",
+          "duration": 818,
+          "type": "video"
+        },
+        {
+          "id": "td-python-255",
+          "title": "Routing in flask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zhYaqH2A3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zhYaqH2A3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zhYaqH2A3z/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-python-256",
+          "title": "Returning different response types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9HDf8cyhug/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9HDf8cyhug/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9HDf8cyhug/video.m3u8",
+          "duration": 503,
+          "type": "video"
+        },
+        {
+          "id": "td-python-257",
+          "title": "Static files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53tjfpT5Ghr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53tjfpT5Ghr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53tjfpT5Ghr/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        },
+        {
+          "id": "td-python-258",
+          "title": "Dynamic URLs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GC8JpyRARs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GC8JpyRARs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GC8JpyRARs/video.m3u8",
+          "duration": 1034,
+          "type": "video"
+        },
+        {
+          "id": "td-python-259",
+          "title": "Generating dynamic URLs and redirects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sdyEXKdrBf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sdyEXKdrBf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sdyEXKdrBf/video.m3u8",
+          "duration": 1088,
+          "type": "video"
+        },
+        {
+          "id": "td-python-260",
+          "title": "Templating with Jinja",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZgmakbZjMp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZgmakbZjMp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZgmakbZjMp/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        },
+        {
+          "id": "td-python-261",
+          "title": "Base template",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXk8GtKBqTp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXk8GtKBqTp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXk8GtKBqTp/video.m3u8",
+          "duration": 1173,
+          "type": "video"
+        },
+        {
+          "id": "td-python-262",
+          "title": "Inheriting templates - home page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB6C8rp7x8M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB6C8rp7x8M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB6C8rp7x8M/video.m3u8",
+          "duration": 1437,
+          "type": "video"
+        },
+        {
+          "id": "td-python-263",
+          "title": "Inheriting templates - dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbysnY3Fjx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbysnY3Fjx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbysnY3Fjx/video.m3u8",
+          "duration": 1243,
+          "type": "video"
+        },
+        {
+          "id": "td-python-264",
+          "title": "Inheriting templates - dashboard - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AppNH9Srcne/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AppNH9Srcne/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AppNH9Srcne/video.m3u8",
+          "duration": 1041,
+          "type": "video"
+        },
+        {
+          "id": "td-python-265",
+          "title": "Expense page template",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JP8XXSef8S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JP8XXSef8S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JP8XXSef8S/video.m3u8",
+          "duration": 1042,
+          "type": "video"
+        },
+        {
+          "id": "td-python-266",
+          "title": "Jinja filters and flash messages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHYrcUZRMz6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHYrcUZRMz6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHYrcUZRMz6/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-python-267",
+          "title": "WTForms - Register form - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UGUGgjYPZkC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UGUGgjYPZkC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UGUGgjYPZkC/video.m3u8",
+          "duration": 1461,
+          "type": "video"
+        },
+        {
+          "id": "td-python-268",
+          "title": "WTForms - Register form - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzJX79r3rQM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzJX79r3rQM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzJX79r3rQM/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-python-269",
+          "title": "Login & Expense forms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QP6bREcSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QP6bREcSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QP6bREcSz/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-python-270",
+          "title": "Adding expenses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3psjTEHsS5t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3psjTEHsS5t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3psjTEHsS5t/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-python-271",
+          "title": "Authentication - Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHrC8xq5eEy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHrC8xq5eEy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHrC8xq5eEy/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-python-272",
+          "title": "Authentication - Register view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hh42Bt4Rsy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hh42Bt4Rsy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hh42Bt4Rsy/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-python-273",
+          "title": "Authentication - Login view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HjUDj7hdJx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HjUDj7hdJx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HjUDj7hdJx/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-python-274",
+          "title": "Authentication - Logout view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qQpSgHtZUm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qQpSgHtZUm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qQpSgHtZUm/video.m3u8",
+          "duration": 259,
+          "type": "video"
+        },
+        {
+          "id": "td-python-275",
+          "title": "Authentication - Protected routes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cgR3BY5Njd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cgR3BY5Njd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cgR3BY5Njd/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-python-276",
+          "title": "Databases with SQLAlchemy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cekdCeYsqm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cekdCeYsqm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cekdCeYsqm/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        },
+        {
+          "id": "td-python-277",
+          "title": "Creating model classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pXM845cYtP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pXM845cYtP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pXM845cYtP/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-python-278",
+          "title": "Creating relationship and creating tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C29cfqtCT3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C29cfqtCT3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C29cfqtCT3/video.m3u8",
+          "duration": 1101,
+          "type": "video"
+        },
+        {
+          "id": "td-python-279",
+          "title": "Modifying the register and login views to use database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkpJtXn9kpb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkpJtXn9kpb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkpJtXn9kpb/video.m3u8",
+          "duration": 1035,
+          "type": "video"
+        },
+        {
+          "id": "td-python-280",
+          "title": "Modifying the dashboard and expenses views to use database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JnXJuU8t3y8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JnXJuU8t3y8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JnXJuU8t3y8/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-python-281",
+          "title": "Modifying the add expense view to use database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94DjdGJAkag/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94DjdGJAkag/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94DjdGJAkag/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-python-282",
+          "title": "Fetching a particular expense",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZZexUhggp6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZZexUhggp6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZZexUhggp6/video.m3u8",
+          "duration": 1227,
+          "type": "video"
+        },
+        {
+          "id": "td-python-283",
+          "title": "Deleting expenses & Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQNBKzee3Ys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQNBKzee3Ys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQNBKzee3Ys/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-26",
+          "title": "Flask registration form",
+          "url": "https://docs.google.com/document/d/1C0hIw394jyR6GvZnUUW3gxF8nKYDezoj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1C0hIw394jyR6GvZnUUW3gxF8nKYDezoj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1C0hIw394jyR6GvZnUUW3gxF8nKYDezoj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1C0hIw394jyR6GvZnUUW3gxF8nKYDezoj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "REST API's USING DJANGO",
+      "lectures": [
+        {
+          "id": "td-python-284",
+          "title": "API's and REST API's",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtYyDfnahuN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtYyDfnahuN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtYyDfnahuN/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-python-285",
+          "title": "Hello world using REST API's",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NsB9R9gCq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NsB9R9gCq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NsB9R9gCq3/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-python-286",
+          "title": "Creating model in the admin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nTnAZdNpCD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nTnAZdNpCD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nTnAZdNpCD/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-python-287",
+          "title": "Posting API's",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6PQ2ZAsTjZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6PQ2ZAsTjZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6PQ2ZAsTjZ/video.m3u8",
+          "duration": 754,
+          "type": "video"
+        },
+        {
+          "id": "td-python-288",
+          "title": "Segregating into pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XCt2aMXJ6E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XCt2aMXJ6E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XCt2aMXJ6E/video.m3u8",
+          "duration": 206,
+          "type": "video"
+        },
+        {
+          "id": "td-python-289",
+          "title": "Setting an authentication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umteBm7CJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umteBm7CJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umteBm7CJU/video.m3u8",
+          "duration": 217,
+          "type": "video"
+        },
+        {
+          "id": "td-python-290",
+          "title": "Adding username to the posts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3X56HqrY9kr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3X56HqrY9kr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3X56HqrY9kr/video.m3u8",
+          "duration": 687,
+          "type": "video"
+        },
+        {
+          "id": "td-python-291",
+          "title": "Adding permissions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KyJ58tutcB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KyJ58tutcB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KyJ58tutcB/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-python-292",
+          "title": "Filtering based on usernames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q5MNsQBTMU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q5MNsQBTMU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q5MNsQBTMU/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-python-293",
+          "title": "Search Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdFZ6AkDtZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdFZ6AkDtZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdFZ6AkDtZ/video.m3u8",
+          "duration": 214,
+          "type": "video"
+        },
+        {
+          "id": "td-python-294",
+          "title": "Filtering based on the date",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KzyuG7z4Kt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KzyuG7z4Kt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KzyuG7z4Kt/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-python-295",
+          "title": "Ordering filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UzsmG54JBB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UzsmG54JBB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UzsmG54JBB/video.m3u8",
+          "duration": 154,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-28",
+          "title": "Implementation of REST API USING DJANGO",
+          "url": "https://docs.google.com/document/d/1r9JWbLNkJB-PzKFyjFBA2ya4XaHNZwAFDZlzja_6-uo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1r9JWbLNkJB-PzKFyjFBA2ya4XaHNZwAFDZlzja_6-uo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1r9JWbLNkJB-PzKFyjFBA2ya4XaHNZwAFDZlzja_6-uo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1r9JWbLNkJB-PzKFyjFBA2ya4XaHNZwAFDZlzja_6-uo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Web Scraping",
+      "lectures": [
+        {
+          "id": "td-python-296",
+          "title": "Introduction and Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YFUzkk4QgG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YFUzkk4QgG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YFUzkk4QgG/video.m3u8",
+          "duration": 493,
+          "type": "video"
+        },
+        {
+          "id": "td-python-297",
+          "title": "Fetching a page & BeautifulSoup basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uHJXaxZYZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uHJXaxZYZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uHJXaxZYZR/video.m3u8",
+          "duration": 1773,
+          "type": "video"
+        },
+        {
+          "id": "td-python-298",
+          "title": "Scraping a real website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BBHg8pKTZ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BBHg8pKTZ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BBHg8pKTZ7/video.m3u8",
+          "duration": 1208,
+          "type": "video"
+        },
+        {
+          "id": "td-python-299",
+          "title": "Filtering Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z3HbMJtat5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z3HbMJtat5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z3HbMJtat5/video.m3u8",
+          "duration": 1051,
+          "type": "video"
+        },
+        {
+          "id": "td-python-300",
+          "title": "Creating functions for fetching page and parsing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XA54rhzmp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XA54rhzmp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XA54rhzmp/video.m3u8",
+          "duration": 1338,
+          "type": "video"
+        },
+        {
+          "id": "td-python-301",
+          "title": "Creating functions for filtering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QAQCfaGMSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QAQCfaGMSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QAQCfaGMSC/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-python-302",
+          "title": "Downloading images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gn769QNZUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gn769QNZUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gn769QNZUf/video.m3u8",
+          "duration": 941,
+          "type": "video"
+        },
+        {
+          "id": "td-python-303",
+          "title": "Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aU2NFAyMXP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aU2NFAyMXP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aU2NFAyMXP/video.m3u8",
+          "duration": 393,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "OpenCV using Python",
+      "lectures": [
+        {
+          "id": "td-python-304",
+          "title": "Computer vision & Open CV introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPSCPh5jg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPSCPh5jg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPSCPh5jg6/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-python-305",
+          "title": "Reading, displaying, writing images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyKS25zFru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyKS25zFru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyKS25zFru/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        },
+        {
+          "id": "td-python-306",
+          "title": "Color Spaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G4qfz8UBsZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G4qfz8UBsZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G4qfz8UBsZ/video.m3u8",
+          "duration": 731,
+          "type": "video"
+        },
+        {
+          "id": "td-python-307",
+          "title": "Resizing images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtXTucyXkx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtXTucyXkx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHtXTucyXkx/video.m3u8",
+          "duration": 1032,
+          "type": "video"
+        },
+        {
+          "id": "td-python-308",
+          "title": "Cropping & Flipping images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMPg6eBHfn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMPg6eBHfn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMPg6eBHfn/video.m3u8",
+          "duration": 440,
+          "type": "video"
+        },
+        {
+          "id": "td-python-309",
+          "title": "Rotating images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NeHhKrnjJ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NeHhKrnjJ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NeHhKrnjJ2/video.m3u8",
+          "duration": 1051,
+          "type": "video"
+        },
+        {
+          "id": "td-python-310",
+          "title": "Spliting and merging images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87N9hUYQNGK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87N9hUYQNGK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87N9hUYQNGK/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-python-311",
+          "title": "Basic arithmetic operation on images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstNczpm2Cb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstNczpm2Cb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstNczpm2Cb/video.m3u8",
+          "duration": 1353,
+          "type": "video"
+        },
+        {
+          "id": "td-python-312",
+          "title": "Drawing shapes & text in an image",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SynjrCcfjz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SynjrCcfjz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SynjrCcfjz/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        },
+        {
+          "id": "td-python-313",
+          "title": "Exercise - Shape & text on existing image",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAD8G7tnHJb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAD8G7tnHJb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAD8G7tnHJb/video.m3u8",
+          "duration": 680,
+          "type": "video"
+        },
+        {
+          "id": "td-python-314",
+          "title": "Thresholding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDRSFB8rAY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDRSFB8rAY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDRSFB8rAY/video.m3u8",
+          "duration": 1498,
+          "type": "video"
+        },
+        {
+          "id": "td-python-315",
+          "title": "Blurring",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SbmgJ9TXP8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SbmgJ9TXP8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SbmgJ9TXP8/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-python-316",
+          "title": "Morphological Operations - Erosion & Dilation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X977fJrhtK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X977fJrhtK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X977fJrhtK/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-python-317",
+          "title": "Morphological Operations - Opening, Closing & Edge detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZMpyFREkX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZMpyFREkX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZMpyFREkX7/video.m3u8",
+          "duration": 817,
+          "type": "video"
+        },
+        {
+          "id": "td-python-318",
+          "title": "Working with videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qk8ryFFZNs7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qk8ryFFZNs7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qk8ryFFZNs7/video.m3u8",
+          "duration": 1313,
+          "type": "video"
+        },
+        {
+          "id": "td-python-319",
+          "title": "Fetching video properties & writing a video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pjhGd6xx5Tj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pjhGd6xx5Tj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pjhGd6xx5Tj/video.m3u8",
+          "duration": 2263,
+          "type": "video"
+        },
+        {
+          "id": "td-python-320",
+          "title": "Accessing the webcam",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uxFZJY7JmJs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uxFZJY7JmJs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uxFZJY7JmJs/video.m3u8",
+          "duration": 1250,
+          "type": "video"
+        },
+        {
+          "id": "td-python-321",
+          "title": "Taking screenshot from webcam feed",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FngPbeJNcs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FngPbeJNcs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FngPbeJNcs/video.m3u8",
+          "duration": 550,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Automation using Selenium",
+      "lectures": [
+        {
+          "id": "td-python-322",
+          "title": "Introduction & Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92U9JQTUFK9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92U9JQTUFK9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92U9JQTUFK9/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-python-323",
+          "title": "Useful startup options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43fDjeRdnPb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43fDjeRdnPb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43fDjeRdnPb/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-python-324",
+          "title": "Finding elements on a website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEc8qXrU3T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEc8qXrU3T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEc8qXrU3T/video.m3u8",
+          "duration": 1634,
+          "type": "video"
+        },
+        {
+          "id": "td-python-325",
+          "title": "Automating Form Filling - Text & Dropdown",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEggkazmxRm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEggkazmxRm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEggkazmxRm/video.m3u8",
+          "duration": 1644,
+          "type": "video"
+        },
+        {
+          "id": "td-python-326",
+          "title": "Automating Form Filling - Dropdown",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a9zkdAKxF3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a9zkdAKxF3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a9zkdAKxF3/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-python-327",
+          "title": "Automating checkboxes and radio buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuhJA8FgDXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuhJA8FgDXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuhJA8FgDXX/video.m3u8",
+          "duration": 853,
+          "type": "video"
+        },
+        {
+          "id": "td-python-328",
+          "title": "Uploading files and Submit button",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xJ3HxF5q8j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xJ3HxF5q8j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xJ3HxF5q8j/video.m3u8",
+          "duration": 894,
+          "type": "video"
+        },
+        {
+          "id": "td-python-329",
+          "title": "Working with buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KUqgzqbhmQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KUqgzqbhmQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KUqgzqbhmQ/video.m3u8",
+          "duration": 672,
+          "type": "video"
+        },
+        {
+          "id": "td-python-330",
+          "title": "Automating navigations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM7h6Qp445/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM7h6Qp445/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM7h6Qp445/video.m3u8",
+          "duration": 1374,
+          "type": "video"
+        },
+        {
+          "id": "td-python-331",
+          "title": "Page refresh & wrap up",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XGtMqp3qJkY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XGtMqp3qJkY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XGtMqp3qJkY/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "TIPS AND TRICKS IN PROGRAMMING",
+      "lectures": [
+        {
+          "id": "td-python-332",
+          "title": "Tips to become a good programmer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HpumJbHyH5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HpumJbHyH5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HpumJbHyH5/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-python-333",
+          "title": "Logical Thinking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjPaaPCfZj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjPaaPCfZj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjPaaPCfZj/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-python-334",
+          "title": "Tips Techniques 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42cduEf7UKj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42cduEf7UKj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42cduEf7UKj/video.m3u8",
+          "duration": 240,
+          "type": "video"
+        },
+        {
+          "id": "td-python-335",
+          "title": "Tips Techniques 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJ3sHbc3bA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJ3sHbc3bA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJ3sHbc3bA/video.m3u8",
+          "duration": 222,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Network Programming In Python Using Sockets : Building A Chat Application",
+      "lectures": [
+        {
+          "id": "td-python-336",
+          "title": "IP Address",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZhxDmJBMYM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZhxDmJBMYM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZhxDmJBMYM/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-python-337",
+          "title": "Ports & Sockets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hs46HpxQzr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hs46HpxQzr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hs46HpxQzr/video.m3u8",
+          "duration": 750,
+          "type": "video"
+        },
+        {
+          "id": "td-python-338",
+          "title": "Creating A Client",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YgrGJRuHkJ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YgrGJRuHkJ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YgrGJRuHkJ7/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-python-339",
+          "title": "Sending Messages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmxEJpy9Zup/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmxEJpy9Zup/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmxEJpy9Zup/video.m3u8",
+          "duration": 473,
+          "type": "video"
+        },
+        {
+          "id": "td-python-340",
+          "title": "Using Buffer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57c4Y3qfN2y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57c4Y3qfN2y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57c4Y3qfN2y/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-python-341",
+          "title": "Building The Messaging Functionality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t8cNbKGZMe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t8cNbKGZMe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t8cNbKGZMe/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-python-342",
+          "title": "Sending Messages To Client",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qKggyycy2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qKggyycy2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qKggyycy2b/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-python-343",
+          "title": "Programming Send Functionality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FMFhjjbNx4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FMFhjjbNx4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FMFhjjbNx4/video.m3u8",
+          "duration": 586,
+          "type": "video"
+        },
+        {
+          "id": "td-python-344",
+          "title": "Completing Our Chat App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcAbp9ECEC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcAbp9ECEC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcAbp9ECEC/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-python-34",
+          "title": "Python Chat Application",
+          "url": "https://docs.google.com/document/d/1ddYuF9opkYI1mULEhDP10OCzW_IzY6eX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ddYuF9opkYI1mULEhDP10OCzW_IzY6eX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ddYuF9opkYI1mULEhDP10OCzW_IzY6eX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ddYuF9opkYI1mULEhDP10OCzW_IzY6eX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Miscellaneous Content",
+      "lectures": [
+        {
+          "id": "td-python-345",
+          "title": "Updating entries in Django with UpdateView",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pj7Eu6Tm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pj7Eu6Tm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pj7Eu6Tm3/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-python-346",
+          "title": "Bootstrap part 1: Introduction To Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DSTJrSaPs7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DSTJrSaPs7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DSTJrSaPs7/video.m3u8",
+          "duration": 144,
+          "type": "video"
+        },
+        {
+          "id": "td-python-347",
+          "title": "Bootstrap Part 2: Adding Bootstrap To Our Site",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6DeGB7jcz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6DeGB7jcz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6DeGB7jcz/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-python-348",
+          "title": "Bootstrap Part 3: Bootstrap Grid System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqpTcJaS3R5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqpTcJaS3R5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqpTcJaS3R5/video.m3u8",
+          "duration": 627,
+          "type": "video"
+        },
+        {
+          "id": "td-python-349",
+          "title": "Bootstrap Part 4: Grid Classes Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATeZ5cxSk9c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATeZ5cxSk9c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATeZ5cxSk9c/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-python-350",
+          "title": "Bootstrap Part 5: Grid Classes Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RccaruUXEq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RccaruUXEq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RccaruUXEq/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        },
+        {
+          "id": "td-python-351",
+          "title": "Bootstrap Part 6: Grid Column Offset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhUS5MqA3b5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhUS5MqA3b5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhUS5MqA3b5/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        },
+        {
+          "id": "td-python-352",
+          "title": "Bootstrap Part 7: Making Images Responsive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfeMnfKr53P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfeMnfKr53P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfeMnfKr53P/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-python-353",
+          "title": "Bootstrap Part 8: Nesting of Rows & Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMx8ZMZUtj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMx8ZMZUtj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMx8ZMZUtj/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Regular Expressions Revisited",
+      "lectures": [
+        {
+          "id": "td-python-354",
+          "title": "Introduction to Regular Expressions & Raw Strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KjySREk3zyE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KjySREk3zyE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KjySREk3zyE/video.m3u8",
+          "duration": 412,
+          "type": "video"
+        },
+        {
+          "id": "td-python-355",
+          "title": "Search & Match Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YAAnEPdM2Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YAAnEPdM2Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YAAnEPdM2Q/video.m3u8",
+          "duration": 507,
+          "type": "video"
+        },
+        {
+          "id": "td-python-356",
+          "title": "Introduction To Meta Characters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xD6AXBe9uF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xD6AXBe9uF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xD6AXBe9uF/video.m3u8",
+          "duration": 217,
+          "type": "video"
+        },
+        {
+          "id": "td-python-357",
+          "title": "Star Meta Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q9fEuqY4XY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q9fEuqY4XY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q9fEuqY4XY/video.m3u8",
+          "duration": 140,
+          "type": "video"
+        },
+        {
+          "id": "td-python-358",
+          "title": "Introduction To Plus Meta Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6pTjZhGCC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6pTjZhGCC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6pTjZhGCC/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-python-359",
+          "title": "Plus Meta Character Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FZm64Gqk4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FZm64Gqk4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FZm64Gqk4/video.m3u8",
+          "duration": 136,
+          "type": "video"
+        },
+        {
+          "id": "td-python-360",
+          "title": "Introduction To Curly Braces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48zDGdQYhge/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48zDGdQYhge/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48zDGdQYhge/video.m3u8",
+          "duration": 108,
+          "type": "video"
+        },
+        {
+          "id": "td-python-361",
+          "title": "Curly Braces Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HCRJBcrYCq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HCRJBcrYCq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HCRJBcrYCq/video.m3u8",
+          "duration": 203,
+          "type": "video"
+        },
+        {
+          "id": "td-python-362",
+          "title": "Introduction To Wildcard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAsEdPCKnjp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAsEdPCKnjp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAsEdPCKnjp/video.m3u8",
+          "duration": 96,
+          "type": "video"
+        },
+        {
+          "id": "td-python-363",
+          "title": "Wildcard Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA9BYghBbMs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA9BYghBbMs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA9BYghBbMs/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        },
+        {
+          "id": "td-python-364",
+          "title": "Optional Meta Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eTM5QFkgqq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eTM5QFkgqq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eTM5QFkgqq/video.m3u8",
+          "duration": 151,
+          "type": "video"
+        },
+        {
+          "id": "td-python-365",
+          "title": "Caret Meta Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BcE6psXkk6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BcE6psXkk6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BcE6psXkk6/video.m3u8",
+          "duration": 218,
+          "type": "video"
+        },
+        {
+          "id": "td-python-366",
+          "title": "Character Classes Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbFxuENBHh3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbFxuENBHh3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbFxuENBHh3/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-python-367",
+          "title": "Character Classes Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKDusSmduU6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKDusSmduU6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKDusSmduU6/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CONCLUSION",
+      "lectures": [
+        {
+          "id": "td-python-368",
+          "title": "Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az6hzQffnT9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az6hzQffnT9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az6hzQffnT9/video.m3u8",
+          "duration": 65,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Placement-ready module",
+      "lectures": [
+        {
+          "id": "td-python-369",
+          "title": "Hierable projects for Python - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JK2UrMZxNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JK2UrMZxNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JK2UrMZxNe/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-python-370",
+          "title": "Hierable projects for Python - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/adUbxPsUNE9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/adUbxPsUNE9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/adUbxPsUNE9/video.m3u8",
+          "duration": 1442,
+          "type": "video"
+        },
+        {
+          "id": "td-python-371",
+          "title": "Resume Mistakes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANyqx67qpjG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANyqx67qpjG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANyqx67qpjG/video.m3u8",
+          "duration": 950,
+          "type": "video"
+        },
+        {
+          "id": "td-python-372",
+          "title": "Ideal resume building",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZP23N5P5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZP23N5P5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZP23N5P5/video.m3u8",
+          "duration": 1042,
+          "type": "video"
+        },
+        {
+          "id": "td-python-373",
+          "title": "Portfolio Website Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PPE3R9XYep/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PPE3R9XYep/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PPE3R9XYep/video.m3u8",
+          "duration": 741,
+          "type": "video"
+        },
+        {
+          "id": "td-python-374",
+          "title": "How to create Portfolio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXMMpsejBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXMMpsejBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YXMMpsejBd/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-python-375",
+          "title": "Case Study Format - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fu5XtxUxg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fu5XtxUxg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fu5XtxUxg/video.m3u8",
+          "duration": 1059,
+          "type": "video"
+        },
+        {
+          "id": "td-python-376",
+          "title": "Case Study Format - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59kxPM68yJD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59kxPM68yJD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59kxPM68yJD/video.m3u8",
+          "duration": 1056,
+          "type": "video"
+        },
+        {
+          "id": "td-python-377",
+          "title": "Optimising Linkedin profile - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeFeuGTCe8h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeFeuGTCe8h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeFeuGTCe8h/video.m3u8",
+          "duration": 1316,
+          "type": "video"
+        },
+        {
+          "id": "td-python-378",
+          "title": "Optimising Linkedin profile - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndTpyMJtfu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndTpyMJtfu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndTpyMJtfu/video.m3u8",
+          "duration": 1162,
+          "type": "video"
+        },
+        {
+          "id": "td-python-379",
+          "title": "Interview Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8exHScdqzn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8exHScdqzn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8exHScdqzn/video.m3u8",
+          "duration": 1186,
+          "type": "video"
+        },
+        {
+          "id": "td-python-380",
+          "title": "The STAR Framework",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zrq24KqHyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zrq24KqHyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zrq24KqHyf/video.m3u8",
+          "duration": 867,
+          "type": "video"
+        },
+        {
+          "id": "td-python-381",
+          "title": "Mock Interview flow and self evaluation rubric",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fRY3J2UgzP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fRY3J2UgzP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fRY3J2UgzP/video.m3u8",
+          "duration": 858,
+          "type": "video"
+        },
+        {
+          "id": "td-python-382",
+          "title": "LinkedIn Outreach for referrals - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qaYCBaPce7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qaYCBaPce7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qaYCBaPce7/video.m3u8",
+          "duration": 1306,
+          "type": "video"
+        },
+        {
+          "id": "td-python-383",
+          "title": "LinkedIn Outreach for referrals - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76uZD38yNqz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76uZD38yNqz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76uZD38yNqz/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-python-384",
+          "title": "Stipend and Salary Negotiation - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eq8Ej8feAC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eq8Ej8feAC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eq8Ej8feAC/video.m3u8",
+          "duration": 1040,
+          "type": "video"
+        },
+        {
+          "id": "td-python-385",
+          "title": "Stipend and Salary Negotiation - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/499KSQtamqU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/499KSQtamqU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/499KSQtamqU/video.m3u8",
+          "duration": 738,
+          "type": "video"
+        },
+        {
+          "id": "td-python-386",
+          "title": "Professional Roadmap & Upskilling - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "duration": 1061,
+          "type": "video"
+        },
+        {
+          "id": "td-python-387",
+          "title": "Professional Roadmap & Upskilling - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47seNKXsAd6/video.m3u8",
+          "duration": 1061,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

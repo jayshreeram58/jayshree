@@ -1,0 +1,626 @@
+{
+  "platform": "TuteDude",
+  "batchId": "systemdesign",
+  "batchSlug": "systemdesign",
+  "batchName": "System Design",
+  "thumbnail": "https://www.tutedude.com/assets/avif/systemdesign.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/systemdesign",
+  "totalSections": 13,
+  "totalLectures": 58,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "System design",
+      "lectures": [
+        {
+          "id": "td-systemdesign-1",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eZJbc4rPY9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eZJbc4rPY9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eZJbc4rPY9/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Structures And Algorithms",
+      "lectures": [
+        {
+          "id": "td-systemdesign-2",
+          "title": "DataStrucutres-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U4kDPg8efq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U4kDPg8efq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U4kDPg8efq/video.m3u8",
+          "duration": 2870,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-3",
+          "title": "Data-Structure-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBJQnSmgrTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBJQnSmgrTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBJQnSmgrTk/video.m3u8",
+          "duration": 1979,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-4",
+          "title": "Data-Structure-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B248ydNuqTQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B248ydNuqTQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B248ydNuqTQ/video.m3u8",
+          "duration": 2377,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-5",
+          "title": "Data-Structure-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hdGGtGehxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hdGGtGehxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hdGGtGehxJ/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-systemdesign-6",
+          "title": "What is System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PcRfX4ugus/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PcRfX4ugus/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PcRfX4ugus/video.m3u8",
+          "duration": 1439,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-7",
+          "title": "System Design Begins !!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ns4TaMc4hj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ns4TaMc4hj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ns4TaMc4hj/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-8",
+          "title": "Types of Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QPAy6N85yj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QPAy6N85yj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QPAy6N85yj/video.m3u8",
+          "duration": 1797,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-9",
+          "title": "Framework of System Design Interviews",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Sp68Jsahf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Sp68Jsahf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Sp68Jsahf/video.m3u8",
+          "duration": 2770,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics Of System Interaction",
+      "lectures": [
+        {
+          "id": "td-systemdesign-10",
+          "title": "APi Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EgsXduN7ap/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EgsXduN7ap/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EgsXduN7ap/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-11",
+          "title": "HTTP vs HTTPS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KHHpmsQ7QJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KHHpmsQ7QJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KHHpmsQ7QJ/video.m3u8",
+          "duration": 517,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-12",
+          "title": "REST APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bg2acJSD27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bg2acJSD27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bg2acJSD27/video.m3u8",
+          "duration": 443,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-13",
+          "title": "Monolithic VS Microservice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p7etTUkmDr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p7etTUkmDr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p7etTUkmDr/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-14",
+          "title": "Horizontal and Vertical Scaling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae9knxFQSyx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae9knxFQSyx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae9knxFQSyx/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-15",
+          "title": "Reverse Proxy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ExB6KUe6Jz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ExB6KUe6Jz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ExB6KUe6Jz/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-16",
+          "title": "Rate Limiter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cXJ6Bxgme3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cXJ6Bxgme3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cXJ6Bxgme3/video.m3u8",
+          "duration": 4484,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Databases",
+      "lectures": [
+        {
+          "id": "td-systemdesign-17",
+          "title": "Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sMXHDn3XZy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sMXHDn3XZy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sMXHDn3XZy/video.m3u8",
+          "duration": 2024,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-18",
+          "title": "Database Partitioning and Sharding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUUJd8kN4Fj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUUJd8kN4Fj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUUJd8kN4Fj/video.m3u8",
+          "duration": 1905,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-19",
+          "title": "Database Replication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaGdRCmMjz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaGdRCmMjz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaGdRCmMjz/video.m3u8",
+          "duration": 1796,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-20",
+          "title": "Normal Forms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XK8fGn2DAh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XK8fGn2DAh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XK8fGn2DAh/video.m3u8",
+          "duration": 1371,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-21",
+          "title": "Indexing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhuEaHzEMD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhuEaHzEMD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhuEaHzEMD/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-22",
+          "title": "Non-Relational Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KFR8gFacXK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KFR8gFacXK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KFR8gFacXK/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-23",
+          "title": "Graph Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46qu9JxJpf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46qu9JxJpf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46qu9JxJpf/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-24",
+          "title": "Bloom Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37bbfx5e3He/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37bbfx5e3He/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37bbfx5e3He/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-25",
+          "title": "Merkle Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mGnxc8QFyp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mGnxc8QFyp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mGnxc8QFyp/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Load Balancers",
+      "lectures": [
+        {
+          "id": "td-systemdesign-26",
+          "title": "Load Balancers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67z6uk2c9ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67z6uk2c9ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67z6uk2c9ad/video.m3u8",
+          "duration": 2031,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Caching",
+      "lectures": [
+        {
+          "id": "td-systemdesign-27",
+          "title": "Caching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UseR2NGzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UseR2NGzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UseR2NGzs/video.m3u8",
+          "duration": 1330,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-28",
+          "title": "CDN in System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KJpuzq7tcT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KJpuzq7tcT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KJpuzq7tcT/video.m3u8",
+          "duration": 536,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capacity Estimation",
+      "lectures": [
+        {
+          "id": "td-systemdesign-29",
+          "title": "Capacity Estimation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkNr89fkKx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkNr89fkKx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkNr89fkKx/video.m3u8",
+          "duration": 1247,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-30",
+          "title": "Back of Enveloper Estimation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dNMsBcKmDE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dNMsBcKmDE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dNMsBcKmDE/video.m3u8",
+          "duration": 1596,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-31",
+          "title": "CAP Theorem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fgnYam8x52/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fgnYam8x52/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fgnYam8x52/video.m3u8",
+          "duration": 987,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-32",
+          "title": "Trade off in System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4paB2kjyh8E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4paB2kjyh8E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4paB2kjyh8E/video.m3u8",
+          "duration": 1501,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Message Queues",
+      "lectures": [
+        {
+          "id": "td-systemdesign-33",
+          "title": "Message Queues",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XU6GAsZjd7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XU6GAsZjd7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XU6GAsZjd7/video.m3u8",
+          "duration": 1076,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stateless And Stateful",
+      "lectures": [
+        {
+          "id": "td-systemdesign-34",
+          "title": "Stateless and Stateful Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPN99jYbG5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPN99jYbG5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPN99jYbG5/video.m3u8",
+          "duration": 583,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Encryption",
+      "lectures": [
+        {
+          "id": "td-systemdesign-35",
+          "title": "End to End Encryption",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF8GcHRPab/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF8GcHRPab/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF8GcHRPab/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "OSI Model",
+      "lectures": [
+        {
+          "id": "td-systemdesign-36",
+          "title": "Network Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S4YyCcFQdU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S4YyCcFQdU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S4YyCcFQdU/video.m3u8",
+          "duration": 703,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-37",
+          "title": "OSI Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4drUhZ2Rq7Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4drUhZ2Rq7Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4drUhZ2Rq7Q/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-38",
+          "title": "TCP and UDP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JZEApJ7gF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JZEApJ7gF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JZEApJ7gF6/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-39",
+          "title": "TCP IP Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DypGraCdgK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DypGraCdgK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DypGraCdgK/video.m3u8",
+          "duration": 1506,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-40",
+          "title": "What happens when you type url in browser",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BUeSx5ersj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BUeSx5ersj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BUeSx5ersj/video.m3u8",
+          "duration": 1618,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design Questions",
+      "lectures": [
+        {
+          "id": "td-systemdesign-41",
+          "title": "OSI Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bPukmTq8Ys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bPukmTq8Ys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bPukmTq8Ys/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-42",
+          "title": "Rate Limiter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97aeRDY6ySH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97aeRDY6ySH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97aeRDY6ySH/video.m3u8",
+          "duration": 4484,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-43",
+          "title": "Consistent Hashing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aj76KqdUs2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aj76KqdUs2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aj76KqdUs2/video.m3u8",
+          "duration": 1537,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-44",
+          "title": "Design Key-Value Store",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNG2tHJAbT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNG2tHJAbT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNG2tHJAbT/video.m3u8",
+          "duration": 5043,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-45",
+          "title": "Unique-Id Generator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XdyxeUXXD9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XdyxeUXXD9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XdyxeUXXD9/video.m3u8",
+          "duration": 1657,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-46",
+          "title": "URL Shortening System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFfdsqrMXTr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFfdsqrMXTr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFfdsqrMXTr/video.m3u8",
+          "duration": 3618,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-47",
+          "title": "Web Crawler",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y8SjhJsGs4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y8SjhJsGs4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y8SjhJsGs4/video.m3u8",
+          "duration": 2839,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-48",
+          "title": "Notification System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BE6J3K24Ca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BE6J3K24Ca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BE6J3K24Ca/video.m3u8",
+          "duration": 3649,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-49",
+          "title": "News Feed System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HCUSNdfERK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HCUSNdfERK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HCUSNdfERK/video.m3u8",
+          "duration": 2679,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-50",
+          "title": "chat system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmeKXaBkTJq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmeKXaBkTJq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmeKXaBkTJq/video.m3u8",
+          "duration": 4200,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-51",
+          "title": "Autocomplete search system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAqGH4djMC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAqGH4djMC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAqGH4djMC/video.m3u8",
+          "duration": 3358,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-52",
+          "title": "Design Youtube-Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E6JjZ3cnRB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E6JjZ3cnRB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E6JjZ3cnRB/video.m3u8",
+          "duration": 1976,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-53",
+          "title": "Design Youtube-Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7897dyU3Yj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7897dyU3Yj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7897dyU3Yj/video.m3u8",
+          "duration": 2073,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-54",
+          "title": "Design Google Drive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfhqU4X6Hja/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfhqU4X6Hja/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfhqU4X6Hja/video.m3u8",
+          "duration": 3220,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-55",
+          "title": "BookMyShow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hjk8KAENaR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hjk8KAENaR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hjk8KAENaR/video.m3u8",
+          "duration": 2099,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-56",
+          "title": "Netflix System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XrhthX5tdC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XrhthX5tdC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XrhthX5tdC/video.m3u8",
+          "duration": 2043,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-57",
+          "title": "Tik-Tok Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ANN8sD9Qe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ANN8sD9Qe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ANN8sD9Qe/video.m3u8",
+          "duration": 2980,
+          "type": "video"
+        },
+        {
+          "id": "td-systemdesign-58",
+          "title": "Uber System Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fRaUG6SCxC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fRaUG6SCxC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fRaUG6SCxC/video.m3u8",
+          "duration": 2736,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-systemdesign-14",
+          "title": "Assignment",
+          "url": "https://drive.google.com/file/d/15_v_vhEUCpzJlUpII7ZtiyczCtxJHPa-/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/15_v_vhEUCpzJlUpII7ZtiyczCtxJHPa-/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/15_v_vhEUCpzJlUpII7ZtiyczCtxJHPa-/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/15_v_vhEUCpzJlUpII7ZtiyczCtxJHPa-/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

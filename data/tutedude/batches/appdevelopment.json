@@ -1,0 +1,748 @@
+{
+  "platform": "TuteDude",
+  "batchId": "appdevelopment",
+  "batchSlug": "appdevelopment",
+  "batchName": "App Development",
+  "thumbnail": "https://www.tutedude.com/assets/avif/appdevelopment.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/appdevelopment",
+  "totalSections": 21,
+  "totalLectures": 64,
+  "totalNotes": 3,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intro To IDE And Installation",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-2",
+          "title": "Intro To IDE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJPcrZ2BSG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJPcrZ2BSG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJPcrZ2BSG/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-3",
+          "title": "Installing IDE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a4a9aHZ3Ya/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a4a9aHZ3Ya/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a4a9aHZ3Ya/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Conditional Statements, Functions And Arrays",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-4",
+          "title": "If-Else-Else If",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c568ZSHxN9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c568ZSHxN9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c568ZSHxN9/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-5",
+          "title": "When Statement, Lambda Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5P5bAyp7YY6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5P5bAyp7YY6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5P5bAyp7YY6/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-6",
+          "title": "Function And Suspend Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99k96SaH7UP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99k96SaH7UP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99k96SaH7UP/video.m3u8",
+          "duration": 1541,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-7",
+          "title": "Dispatcher Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89D7hs58EEt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89D7hs58EEt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89D7hs58EEt/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-8",
+          "title": "Arrays And List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PGC5GjH2Xx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PGC5GjH2Xx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PGC5GjH2Xx/video.m3u8",
+          "duration": 818,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-appdevelopment-4",
+          "title": "Assignment",
+          "url": "https://docs.google.com/document/d/1KYQH5B9Khyq2i4Xo0fwGXSdYddgoC9X7WEOdqIsQlz0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1KYQH5B9Khyq2i4Xo0fwGXSdYddgoC9X7WEOdqIsQlz0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1KYQH5B9Khyq2i4Xo0fwGXSdYddgoC9X7WEOdqIsQlz0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1KYQH5B9Khyq2i4Xo0fwGXSdYddgoC9X7WEOdqIsQlz0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "OOPs In Kotlin",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-9",
+          "title": "Classes And Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yqhgQhkNX4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yqhgQhkNX4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yqhgQhkNX4/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-10",
+          "title": "Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nuagRFPRJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nuagRFPRJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nuagRFPRJe/video.m3u8",
+          "duration": 1283,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-11",
+          "title": "Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBpHcmFt49g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBpHcmFt49g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBpHcmFt49g/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-12",
+          "title": "Encapsulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkbCJRCJdDa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkbCJRCJdDa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkbCJRCJdDa/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-13",
+          "title": "Polymorphism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQTKx9sXx8H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQTKx9sXx8H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQTKx9sXx8H/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-appdevelopment-6",
+          "title": "Assignment",
+          "url": "https://docs.google.com/document/d/15-XAfX058fGqgfuQAND3kPfVG32K3fEDwlC22lUlmL0/edit?usp=sharin",
+          "pdfUrl": "https://docs.google.com/document/d/15-XAfX058fGqgfuQAND3kPfVG32K3fEDwlC22lUlmL0/edit?usp=sharin",
+          "playerUrl": "https://docs.google.com/document/d/15-XAfX058fGqgfuQAND3kPfVG32K3fEDwlC22lUlmL0/edit?usp=sharin",
+          "downloadUrl": "https://docs.google.com/document/d/15-XAfX058fGqgfuQAND3kPfVG32K3fEDwlC22lUlmL0/edit?usp=sharin",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Intro To Basic UI Components",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-14",
+          "title": "Linear Layout And Button And Text View",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASU2nug4yRk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASU2nug4yRk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASU2nug4yRk/video.m3u8",
+          "duration": 1262,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-15",
+          "title": "Edit Text And Image View",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56S2cNyyC3h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56S2cNyyC3h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56S2cNyyC3h/video.m3u8",
+          "duration": 911,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-16",
+          "title": "Recycler View",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eE8AQhCj47/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eE8AQhCj47/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eE8AQhCj47/video.m3u8",
+          "duration": 2435,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-17",
+          "title": "Recycler View Outro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f8fNTy6dx2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f8fNTy6dx2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f8fNTy6dx2/video.m3u8",
+          "duration": 236,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Calculator App With Basic UI",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-18",
+          "title": "Calculator App Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Mm5GpPxaM5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Mm5GpPxaM5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Mm5GpPxaM5/video.m3u8",
+          "duration": 64,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-19",
+          "title": "Calculator App Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuRMjYfyfT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuRMjYfyfT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuRMjYfyfT/video.m3u8",
+          "duration": 1734,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-20",
+          "title": "Calculator App Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HkQGnYbphx2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HkQGnYbphx2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HkQGnYbphx2/video.m3u8",
+          "duration": 3211,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Activity Lifecycles And Toast In Kotlin",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-21",
+          "title": "Activity Life Cycles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2qMsnft5PU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2qMsnft5PU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2qMsnft5PU/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-22",
+          "title": "Custom Toast Message",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yhj3B5gxf5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yhj3B5gxf5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yhj3B5gxf5/video.m3u8",
+          "duration": 414,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intents And Navigation Inside App",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-23",
+          "title": "Intents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUbUzu2xE8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUbUzu2xE8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUbUzu2xE8/video.m3u8",
+          "duration": 2350,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-24",
+          "title": "NavGraph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhddqyHAbT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhddqyHAbT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhddqyHAbT/video.m3u8",
+          "duration": 1925,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Modern UI Components",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-25",
+          "title": "Modern UI (Bottom Nav And Side Nav Panel)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRB4DNFxYj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRB4DNFxYj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRB4DNFxYj/video.m3u8",
+          "duration": 4305,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "TODO App With MVVM",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-26",
+          "title": "ToDo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Au7mBqd9UYX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Au7mBqd9UYX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Au7mBqd9UYX/video.m3u8",
+          "duration": 3496,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "FitSync (Fitness Tracker App) With OSM And MVVM",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-27",
+          "title": "Fitness Tracker App Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83xCmqyaDcJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83xCmqyaDcJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83xCmqyaDcJ/video.m3u8",
+          "duration": 3442,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-28",
+          "title": "Fitness Tracker App Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br3z8jnExsQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br3z8jnExsQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br3z8jnExsQ/video.m3u8",
+          "duration": 2616,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-29",
+          "title": "Fitness Tracker App Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6naU2fT8Aab/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6naU2fT8Aab/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6naU2fT8Aab/video.m3u8",
+          "duration": 6639,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pocket Wise (Expense Tracker App) With MVVM And Room Database",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-30",
+          "title": "Expense Tracker App Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cNfnZHf68JY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cNfnZHf68JY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cNfnZHf68JY/video.m3u8",
+          "duration": 961,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-31",
+          "title": "Expense Tracker App Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84CgGN46sC2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84CgGN46sC2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84CgGN46sC2/video.m3u8",
+          "duration": 2742,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-32",
+          "title": "Expense Tracker App Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68YXXPNGBhb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68YXXPNGBhb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68YXXPNGBhb/video.m3u8",
+          "duration": 4431,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-33",
+          "title": "Expense Tracker App Part 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hUKUEaquz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hUKUEaquz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hUKUEaquz9/video.m3u8",
+          "duration": 4329,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-34",
+          "title": "Expense Tracker App Part 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A24rbQXfmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A24rbQXfmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A24rbQXfmJ/video.m3u8",
+          "duration": 2259,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Kotlin Concepts",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-35",
+          "title": "Flows In Kotlin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MX8Nnshm2S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MX8Nnshm2S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MX8Nnshm2S/video.m3u8",
+          "duration": 2892,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-36",
+          "title": "Higher Order Function And More",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nd6kcQ73jB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nd6kcQ73jB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nd6kcQ73jB/video.m3u8",
+          "duration": 2056,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-37",
+          "title": "Payment Gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pGs6Kumfuf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pGs6Kumfuf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pGs6Kumfuf/video.m3u8",
+          "duration": 2208,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "News Now (News App) With Dagger Hilt And Google Firebase",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-38",
+          "title": "News App Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xEExczu9NAr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xEExczu9NAr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xEExczu9NAr/video.m3u8",
+          "duration": 3951,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-39",
+          "title": "News App Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sHHNHZbqFa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sHHNHZbqFa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sHHNHZbqFa/video.m3u8",
+          "duration": 3906,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-40",
+          "title": "News App Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzXktMaAgxa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzXktMaAgxa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzXktMaAgxa/video.m3u8",
+          "duration": 2320,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-41",
+          "title": "News App Part 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SGGr9cBC6Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SGGr9cBC6Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SGGr9cBC6Z/video.m3u8",
+          "duration": 4701,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-42",
+          "title": "News App Part 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xFYy7craKb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xFYy7craKb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xFYy7craKb/video.m3u8",
+          "duration": 2735,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-43",
+          "title": "News App Part 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qEk34Ncd2F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qEk34Ncd2F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qEk34Ncd2F/video.m3u8",
+          "duration": 2663,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-44",
+          "title": "News App Part 7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EEQfgn7fRD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EEQfgn7fRD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EEQfgn7fRD/video.m3u8",
+          "duration": 3136,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-45",
+          "title": "News App Part 8",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjczqf4Cgg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjczqf4Cgg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjczqf4Cgg/video.m3u8",
+          "duration": 5340,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Skycast (Weather App) With API Call Using Retrofit And Okhttp, Google Firebase",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-46",
+          "title": "Weather App Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbdT6Jnd6S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbdT6Jnd6S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbdT6Jnd6S/video.m3u8",
+          "duration": 5111,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-47",
+          "title": "Weather App Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R4qAHx54gr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R4qAHx54gr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R4qAHx54gr/video.m3u8",
+          "duration": 1907,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-48",
+          "title": "Weather App Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PNjGCgxsyj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PNjGCgxsyj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PNjGCgxsyj/video.m3u8",
+          "duration": 5081,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-49",
+          "title": "Weather App Part 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzuECFapyJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzuECFapyJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzuECFapyJ/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-50",
+          "title": "Weather App Part 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qq8KQJP6gm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qq8KQJP6gm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qq8KQJP6gm/video.m3u8",
+          "duration": 3437,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-51",
+          "title": "Weather App Part 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zaKcgYGnAp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zaKcgYGnAp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zaKcgYGnAp/video.m3u8",
+          "duration": 2291,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Kotlin With Jetpack Compose",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-52",
+          "title": "Intro To Jetpack Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgPAAKHCth9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgPAAKHCth9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgPAAKHCth9/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "UI Components In Jetpack Compose",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-53",
+          "title": "Basic Views In Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MErEzMpg3d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MErEzMpg3d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MErEzMpg3d/video.m3u8",
+          "duration": 2940,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "UI App's using Jetpack compose",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-54",
+          "title": "Understanding compose UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZBgEx5mPbf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZBgEx5mPbf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZBgEx5mPbf/video.m3u8",
+          "duration": 5371,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-55",
+          "title": "Understanding navigation in Compose UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82KYhphUNBj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82KYhphUNBj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82KYhphUNBj/video.m3u8",
+          "duration": 7473,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Movie App using Koin and RxJava (single.zip) for synchronous API call",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-56",
+          "title": "Movie App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8za6EFuFnT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8za6EFuFnT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8za6EFuFnT/video.m3u8",
+          "duration": 11651,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recipe App using KOIN and KSP",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-57",
+          "title": "Setting up project and adding dependencies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y8PBtmknmcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y8PBtmknmcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y8PBtmknmcH/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-58",
+          "title": "Adding models and API Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cBCnFuczpc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cBCnFuczpc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cBCnFuczpc/video.m3u8",
+          "duration": 776,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-59",
+          "title": "Debugging and adding services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZqEGkYyQPH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZqEGkYyQPH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZqEGkYyQPH/video.m3u8",
+          "duration": 1986,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-60",
+          "title": "Add repository and it's implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GGYs24PtsE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GGYs24PtsE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GGYs24PtsE/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-61",
+          "title": "Understanding Navigation and UI Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcyBCRMJgFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcyBCRMJgFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcyBCRMJgFr/video.m3u8",
+          "duration": 1046,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-62",
+          "title": "Implementing and Explaining UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UYYT7z6yXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UYYT7z6yXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UYYT7z6yXD/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-appdevelopment-63",
+          "title": "Understanding Git command line and pushing code to git hub",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU4FdrAMGnk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU4FdrAMGnk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU4FdrAMGnk/video.m3u8",
+          "duration": 331,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Services in Android",
+      "lectures": [
+        {
+          "id": "td-appdevelopment-64",
+          "title": "Accessibility Services in android",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGYHjByuqP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGYHjByuqP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGYHjByuqP/video.m3u8",
+          "duration": 3902,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-appdevelopment-24",
+          "title": "Final Project: E-Commerce Platform Android Application",
+          "url": "https://docs.google.com/document/d/1MlTpGcIYNNTUggmfi3v2ofzlKVxrYbRNeReALk-8oKk/edit?tab=t.0#heading=h.eif26a6yixd4",
+          "pdfUrl": "https://docs.google.com/document/d/1MlTpGcIYNNTUggmfi3v2ofzlKVxrYbRNeReALk-8oKk/edit?tab=t.0#heading=h.eif26a6yixd4",
+          "playerUrl": "https://docs.google.com/document/d/1MlTpGcIYNNTUggmfi3v2ofzlKVxrYbRNeReALk-8oKk/edit?tab=t.0#heading=h.eif26a6yixd4",
+          "downloadUrl": "https://docs.google.com/document/d/1MlTpGcIYNNTUggmfi3v2ofzlKVxrYbRNeReALk-8oKk/edit?tab=t.0#heading=h.eif26a6yixd4",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

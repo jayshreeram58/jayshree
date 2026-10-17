@@ -1,0 +1,1148 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dsawithpython",
+  "batchSlug": "dsawithpython",
+  "batchName": "DSA with Python",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dsawithpython.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dsawithpython",
+  "totalSections": 13,
+  "totalLectures": 111,
+  "totalNotes": 6,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-2",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTKstKR9Xs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTKstKR9Xs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTKstKR9Xs/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics of Programming in Python",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-3",
+          "title": "Flowcharts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tZF53SBNAXb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tZF53SBNAXb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tZF53SBNAXb/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-4",
+          "title": "Variables and Data types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89MFkNndqKr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89MFkNndqKr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89MFkNndqKr/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-5",
+          "title": "Ref and Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yz898653Aq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yz898653Aq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yz898653Aq/video.m3u8",
+          "duration": 1124,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-6",
+          "title": "Conditional Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTjm9pKDBY2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTjm9pKDBY2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTjm9pKDBY2/video.m3u8",
+          "duration": 580,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-7",
+          "title": "Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTP8CPyhpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTP8CPyhpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTP8CPyhpQ/video.m3u8",
+          "duration": 1224,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-8",
+          "title": "Jump Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D5Hjy9GAzt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D5Hjy9GAzt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D5Hjy9GAzt/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-9",
+          "title": "Pattern Printing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnQYuPc6T5m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnQYuPc6T5m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnQYuPc6T5m/video.m3u8",
+          "duration": 1104,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-10",
+          "title": "Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XFhASmGc8U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XFhASmGc8U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XFhASmGc8U/video.m3u8",
+          "duration": 847,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-11",
+          "title": "Recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mnthbz3FGN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mnthbz3FGN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Mnthbz3FGN/video.m3u8",
+          "duration": 1570,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-12",
+          "title": "Scope",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C7jTBeSJGX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C7jTBeSJGX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C7jTBeSJGX/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-13",
+          "title": "List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HJFUPKaU8k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HJFUPKaU8k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HJFUPKaU8k/video.m3u8",
+          "duration": 1088,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-14",
+          "title": "List Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AZeBsEUQCm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AZeBsEUQCm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AZeBsEUQCm/video.m3u8",
+          "duration": 1950,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-15",
+          "title": "Slicing and List comprehension",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtXTBsSTT69/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtXTBsSTT69/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtXTBsSTT69/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-16",
+          "title": "2D Lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJe7jDszAY8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJe7jDszAY8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJe7jDszAY8/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-17",
+          "title": "Strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4chAUYa23dd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4chAUYa23dd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4chAUYa23dd/video.m3u8",
+          "duration": 1112,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-18",
+          "title": "Questions on Strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjb45NNjbhe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjb45NNjbhe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjb45NNjbhe/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-19",
+          "title": "Dictionary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUSPuFXrkK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUSPuFXrkK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUSPuFXrkK/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-20",
+          "title": "Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqE4EbRyDj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqE4EbRyDj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqE4EbRyDj/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-21",
+          "title": "Tuples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77KBdB4rb3Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77KBdB4rb3Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77KBdB4rb3Z/video.m3u8",
+          "duration": 570,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Array and String algorithms",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-22",
+          "title": "Kadane's Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QgDCu8u7nb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QgDCu8u7nb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QgDCu8u7nb/video.m3u8",
+          "duration": 1182,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-23",
+          "title": "2D Kadane's Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C4EpqgQRjB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C4EpqgQRjB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C4EpqgQRjB/video.m3u8",
+          "duration": 1462,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-24",
+          "title": "2SUM and 3SUM problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfRx4GQjSU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfRx4GQjSU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfRx4GQjSU/video.m3u8",
+          "duration": 1336,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-25",
+          "title": "DNF Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82SnqB5TgZS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82SnqB5TgZS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82SnqB5TgZS/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-26",
+          "title": "Moore's voting algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2jKDQFmFct/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2jKDQFmFct/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2jKDQFmFct/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-27",
+          "title": "Juggling Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4raZ2P7dnC6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4raZ2P7dnC6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4raZ2P7dnC6/video.m3u8",
+          "duration": 977,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-28",
+          "title": "KMP Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjHka5Xt4fF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjHka5Xt4fF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjHka5Xt4fF/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-29",
+          "title": "Miscellaneous Algorithms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8589sbeKmpt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8589sbeKmpt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8589sbeKmpt/video.m3u8",
+          "duration": 1270,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sorting and Complexities",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-30",
+          "title": "Time Complexity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9HJuxFpTn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9HJuxFpTn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e9HJuxFpTn/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-31",
+          "title": "Space Complexity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fJBG6arEJn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fJBG6arEJn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fJBG6arEJn/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-32",
+          "title": "Binary Search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36DZqUDFSec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36DZqUDFSec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36DZqUDFSec/video.m3u8",
+          "duration": 1210,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-33",
+          "title": "Bubble Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxYXcj6RTGC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxYXcj6RTGC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxYXcj6RTGC/video.m3u8",
+          "duration": 960,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-34",
+          "title": "Selection Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCD9HAYtqk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCD9HAYtqk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCD9HAYtqk/video.m3u8",
+          "duration": 548,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-35",
+          "title": "Insertion Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UYxASx24ZE8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UYxASx24ZE8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UYxASx24ZE8/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-36",
+          "title": "Quick Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hduzcXnYfy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hduzcXnYfy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hduzcXnYfy/video.m3u8",
+          "duration": 1014,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-37",
+          "title": "Merge Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkS5b3j7Myn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkS5b3j7Myn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkS5b3j7Myn/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oops",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-38",
+          "title": "Intro to OOPS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hkDSTpQsxh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hkDSTpQsxh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hkDSTpQsxh/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-39",
+          "title": "Constructor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73HctnKUbYH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73HctnKUbYH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73HctnKUbYH/video.m3u8",
+          "duration": 1090,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-40",
+          "title": "Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3z6MqbsBe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3z6MqbsBe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3z6MqbsBe/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-41",
+          "title": "Polymorphism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANmCm7xDpGn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANmCm7xDpGn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANmCm7xDpGn/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-42",
+          "title": "Encapsulation and abstraction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d5BYkDqbZT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d5BYkDqbZT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d5BYkDqbZT/video.m3u8",
+          "duration": 415,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-43",
+          "title": "Dunder/Magic methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYzCyeKtKEh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYzCyeKtKEh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYzCyeKtKEh/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-44",
+          "title": "Desiging a complex number class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bgMa5f5krC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bgMa5f5krC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bgMa5f5krC/video.m3u8",
+          "duration": 872,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linked List",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-45",
+          "title": "Linkedlist Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qG7nmMmMdS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qG7nmMmMdS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qG7nmMmMdS/video.m3u8",
+          "duration": 547,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-46",
+          "title": "Linkedlist Operations 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42abGJtq4m5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42abGJtq4m5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42abGJtq4m5/video.m3u8",
+          "duration": 981,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-47",
+          "title": "Linkedlist Operations 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tac9YKHNRS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tac9YKHNRS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tac9YKHNRS/video.m3u8",
+          "duration": 1214,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-48",
+          "title": "Questions on Linkedlist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f89xyZKZdC2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f89xyZKZdC2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f89xyZKZdC2/video.m3u8",
+          "duration": 1697,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-49",
+          "title": "Types of Linkedlist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6Dr54eD66/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6Dr54eD66/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6Dr54eD66/video.m3u8",
+          "duration": 1229,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-50",
+          "title": "Merge Sort for Linkedlist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSHyeC77cux/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSHyeC77cux/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSHyeC77cux/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stack and Queues",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-51",
+          "title": "Stack Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zSNFzpN7PJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zSNFzpN7PJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zSNFzpN7PJ/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-52",
+          "title": "Stack using Linkedlist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zHkKaxBPg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zHkKaxBPg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zHkKaxBPg/video.m3u8",
+          "duration": 714,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-53",
+          "title": "Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgxeRFnAP7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgxeRFnAP7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgxeRFnAP7y/video.m3u8",
+          "duration": 1515,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-54",
+          "title": "Notations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NzyRtzBRzd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NzyRtzBRzd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NzyRtzBRzd/video.m3u8",
+          "duration": 1367,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-55",
+          "title": "Largest Rect. in a Histogram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NUEzkEbjFn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NUEzkEbjFn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NUEzkEbjFn/video.m3u8",
+          "duration": 1748,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-56",
+          "title": "Rainwater Trapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NsqYPH9pPe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NsqYPH9pPe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NsqYPH9pPe/video.m3u8",
+          "duration": 961,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-57",
+          "title": "Queue Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mMDaSND3kr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mMDaSND3kr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mMDaSND3kr/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-58",
+          "title": "Stacks and Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXUnqNKcHQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXUnqNKcHQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXUnqNKcHQ/video.m3u8",
+          "duration": 1261,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-59",
+          "title": "Question on Queues",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQsgTu6pjT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQsgTu6pjT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQsgTu6pjT/video.m3u8",
+          "duration": 994,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Trees (including BST and Heaps)",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-60",
+          "title": "Intro to Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApKkkn3sRQ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApKkkn3sRQ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApKkkn3sRQ4/video.m3u8",
+          "duration": 1239,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-61",
+          "title": "Traversal of a Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hUzZFEcPm9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hUzZFEcPm9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hUzZFEcPm9/video.m3u8",
+          "duration": 1665,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-62",
+          "title": "Levelorder Traversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S2k3zHu22c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S2k3zHu22c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S2k3zHu22c/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-63",
+          "title": "Questions on Trees 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcFCeBY6kKc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcFCeBY6kKc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcFCeBY6kKc/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-64",
+          "title": "Left and Right view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fPr3Mdzyb5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fPr3Mdzyb5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fPr3Mdzyb5H/video.m3u8",
+          "duration": 1122,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-65",
+          "title": "Top and Bottom view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFfuEpBp34/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFfuEpBp34/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFfuEpBp34/video.m3u8",
+          "duration": 1174,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-66",
+          "title": "Construction of a Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7aAuHft9g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7aAuHft9g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7aAuHft9g/video.m3u8",
+          "duration": 1603,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-67",
+          "title": "Questions on Trees 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53QtkQ3rgPb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53QtkQ3rgPb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53QtkQ3rgPb/video.m3u8",
+          "duration": 1740,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-68",
+          "title": "Burning a Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4dYz2qqzP6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4dYz2qqzP6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4dYz2qqzP6/video.m3u8",
+          "duration": 1731,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-69",
+          "title": "Intro to BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pBxzagH9ZJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pBxzagH9ZJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pBxzagH9ZJ/video.m3u8",
+          "duration": 1109,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-70",
+          "title": "Insertion and Deletion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eHyKSYmbqQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eHyKSYmbqQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eHyKSYmbqQ/video.m3u8",
+          "duration": 2117,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-71",
+          "title": "Basic Problems on BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cb2fUQ72m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cb2fUQ72m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cb2fUQ72m/video.m3u8",
+          "duration": 1543,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-72",
+          "title": "Important Questions of BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7REaKG7TJHQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7REaKG7TJHQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7REaKG7TJHQ/video.m3u8",
+          "duration": 2274,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-73",
+          "title": "Balancing a BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ke7tymHJ4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ke7tymHJ4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ke7tymHJ4p/video.m3u8",
+          "duration": 1398,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-74",
+          "title": "Largest BST in a Binary Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYzNGBhDb7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYzNGBhDb7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYzNGBhDb7/video.m3u8",
+          "duration": 1630,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-75",
+          "title": "Heaps Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZUcx7QDf77/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZUcx7QDf77/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZUcx7QDf77/video.m3u8",
+          "duration": 1355,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-76",
+          "title": "Heaps Implemetation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFS9tAMXk3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFS9tAMXk3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFS9tAMXk3/video.m3u8",
+          "duration": 1279,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-77",
+          "title": "Heapify Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjrjzjMbket/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjrjzjMbket/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjrjzjMbket/video.m3u8",
+          "duration": 1027,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-78",
+          "title": "Heap Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gRNeeQRmTK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gRNeeQRmTK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gRNeeQRmTK/video.m3u8",
+          "duration": 640,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-79",
+          "title": "Questions on Heaps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GK95Nj29Ru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GK95Nj29Ru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GK95Nj29Ru/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-80",
+          "title": "Intro to Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdTMEaj3aUP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdTMEaj3aUP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdTMEaj3aUP/video.m3u8",
+          "duration": 1318,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-81",
+          "title": "DFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sx7n9bguAt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sx7n9bguAt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sx7n9bguAt/video.m3u8",
+          "duration": 1803,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-82",
+          "title": "BFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDqZJuY5cn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDqZJuY5cn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDqZJuY5cn/video.m3u8",
+          "duration": 851,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-83",
+          "title": "Cycle Detections in Undirected Graph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8CZgZqkcD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8CZgZqkcD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8CZgZqkcD/video.m3u8",
+          "duration": 1338,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-84",
+          "title": "Cycle Detections in Directed Graph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ejP8ECf5r9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ejP8ECf5r9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ejP8ECf5r9/video.m3u8",
+          "duration": 1410,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-85",
+          "title": "Minimum moves by a Knight",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gJuJB6su8a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gJuJB6su8a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gJuJB6su8a/video.m3u8",
+          "duration": 1686,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-86",
+          "title": "Wired Connections",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4TrdnuRZs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4TrdnuRZs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4TrdnuRZs/video.m3u8",
+          "duration": 1009,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-87",
+          "title": "Topological Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJH4fT8n6B2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJH4fT8n6B2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJH4fT8n6B2/video.m3u8",
+          "duration": 1946,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-88",
+          "title": "Dijkstra's Algorithn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CGjHRfzCubF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CGjHRfzCubF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CGjHRfzCubF/video.m3u8",
+          "duration": 1514,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-89",
+          "title": "MST using Prims's Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SCJHHKJDZq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SCJHHKJDZq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SCJHHKJDZq/video.m3u8",
+          "duration": 1428,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-90",
+          "title": "DSU for Kruskal's Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EN7guUU4JK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EN7guUU4JK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EN7guUU4JK/video.m3u8",
+          "duration": 1656,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-91",
+          "title": "Kruskal's Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8emJj3Gy9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8emJj3Gy9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB8emJj3Gy9/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-92",
+          "title": "Bellamn Ford Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bYhUtmjHZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bYhUtmjHZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bYhUtmjHZ/video.m3u8",
+          "duration": 1302,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-93",
+          "title": "Floyd Warshall Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMPRnRcKNr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMPRnRcKNr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMPRnRcKNr/video.m3u8",
+          "duration": 1196,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Greedy",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-94",
+          "title": "Intro to Greedy(Meeting Sch.)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH8g59rukn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH8g59rukn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH8g59rukn/video.m3u8",
+          "duration": 1068,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-95",
+          "title": "Fractional Knapsack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76sNayJduQb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76sNayJduQb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76sNayJduQb/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-96",
+          "title": "Questions on Greedy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RuJSahzH9m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RuJSahzH9m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RuJSahzH9m/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backtracking and DP",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-97",
+          "title": "Backtracking Intro(Rat in a maze)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX27eUBPphX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX27eUBPphX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX27eUBPphX/video.m3u8",
+          "duration": 1572,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-98",
+          "title": "N-Queen Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajdm8MAnhrB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajdm8MAnhrB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajdm8MAnhrB/video.m3u8",
+          "duration": 1417,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-99",
+          "title": "Intro to Dynamic Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ahhPFtGkY9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ahhPFtGkY9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ahhPFtGkY9/video.m3u8",
+          "duration": 1262,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-100",
+          "title": "Knapsack Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxrunSaA74/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxrunSaA74/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxrunSaA74/video.m3u8",
+          "duration": 2607,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-101",
+          "title": "Coin Change",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G4hdanc2py/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G4hdanc2py/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G4hdanc2py/video.m3u8",
+          "duration": 1840,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-102",
+          "title": "LCS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "duration": 1670,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-103",
+          "title": "LCS variations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5ejgrqGJc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5ejgrqGJc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5ejgrqGJc/video.m3u8",
+          "duration": 1393,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-104",
+          "title": "Questions on DP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrN4AyHu9xX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrN4AyHu9xX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrN4AyHu9xX/video.m3u8",
+          "duration": 1838,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-105",
+          "title": "Longest AP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PsszCfjf7U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PsszCfjf7U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PsszCfjf7U/video.m3u8",
+          "duration": 1433,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-106",
+          "title": "Catalan Number",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GC46ufB8X7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GC46ufB8X7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GC46ufB8X7/video.m3u8",
+          "duration": 1349,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-107",
+          "title": "Edit Distance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rryjzfAhCJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rryjzfAhCJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rryjzfAhCJ/video.m3u8",
+          "duration": 980,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-108",
+          "title": "Matrix chain multiplication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYfED6u9JYj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYfED6u9JYj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYfED6u9JYj/video.m3u8",
+          "duration": 2386,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Number Theory",
+      "lectures": [
+        {
+          "id": "td-dsawithpython-109",
+          "title": "Number Therory (Sieve of Erathosthenes)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bPefbSrGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bPefbSrGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bPefbSrGA/video.m3u8",
+          "duration": 1135,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-110",
+          "title": "GCD of 2 numbers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDuTQEj6qb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDuTQEj6qb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDuTQEj6qb/video.m3u8",
+          "duration": 281,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithpython-111",
+          "title": "Modulo Arithematic and Binary Exponentiation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An52GnMdtqH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An52GnMdtqH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An52GnMdtqH/video.m3u8",
+          "duration": 915,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dsawithpython-14",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithpython-15",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithpython-16",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithpython-17",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithpython-18",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithpython-19",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

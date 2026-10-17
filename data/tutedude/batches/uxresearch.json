@@ -1,0 +1,380 @@
+{
+  "platform": "TuteDude",
+  "batchId": "uxresearch",
+  "batchSlug": "uxresearch",
+  "batchName": "UX Research",
+  "thumbnail": "https://www.tutedude.com/assets/avif/uxresearch.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/uxresearch",
+  "totalSections": 8,
+  "totalLectures": 33,
+  "totalNotes": 2,
+  "price": "699.00",
+  "category": "visual_arts",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction To UX",
+      "lectures": [
+        {
+          "id": "td-uxresearch-1",
+          "title": "User Experience Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EgeZXGAdpPK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EgeZXGAdpPK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EgeZXGAdpPK/video.m3u8",
+          "duration": 874,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-2",
+          "title": "Brief history of UX design and Characteristics of good UX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e2ReJBPScg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e2ReJBPScg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e2ReJBPScg/video.m3u8",
+          "duration": 432,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-3",
+          "title": "What is Design Thinking Process?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x9A3n8fuxs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x9A3n8fuxs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x9A3n8fuxs/video.m3u8",
+          "duration": 684,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-4",
+          "title": "Roles of UX in Product Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SkyP4Kgdyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SkyP4Kgdyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SkyP4Kgdyf/video.m3u8",
+          "duration": 670,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "User Experience Research",
+      "lectures": [
+        {
+          "id": "td-uxresearch-5",
+          "title": "What is User Experience Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HNJbAaYsmSx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HNJbAaYsmSx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HNJbAaYsmSx/video.m3u8",
+          "duration": 703,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-6",
+          "title": "Types of UX Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TjRqQQ44Fj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TjRqQQ44Fj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TjRqQQ44Fj/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-7",
+          "title": "Primary UX Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ap246XT88B2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ap246XT88B2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ap246XT88B2/video.m3u8",
+          "duration": 1548,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-8",
+          "title": "Secondary Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQbcqm7yz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQbcqm7yz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQbcqm7yz/video.m3u8",
+          "duration": 1514,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-9",
+          "title": "Logical Fallacies and Biases in Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S9nznna3JT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S9nznna3JT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S9nznna3JT/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Define Stage",
+      "lectures": [
+        {
+          "id": "td-uxresearch-10",
+          "title": "What is DEFINE in UX Design Thinking Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HQRJcz8zsyd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HQRJcz8zsyd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HQRJcz8zsyd/video.m3u8",
+          "duration": 1424,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-11",
+          "title": "What is Empathy Mapping?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Jx7ghqy8un/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Jx7ghqy8un/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Jx7ghqy8un/video.m3u8",
+          "duration": 1305,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-12",
+          "title": "What are User Persona?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dpGDZp3dZ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dpGDZp3dZ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dpGDZp3dZ3/video.m3u8",
+          "duration": 1344,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-13",
+          "title": "What is a customer journey?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zrcaxQ3HZb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zrcaxQ3HZb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zrcaxQ3HZb/video.m3u8",
+          "duration": 1524,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-14",
+          "title": "Other Analysis Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zeUTNRM2Cx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zeUTNRM2Cx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zeUTNRM2Cx/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-15",
+          "title": "Problem that needs to be solved",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFx5zAh5J3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFx5zAh5J3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFx5zAh5J3/video.m3u8",
+          "duration": 737,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Information Architecture",
+      "lectures": [
+        {
+          "id": "td-uxresearch-16",
+          "title": "What is Ideation?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjXxedqpRJJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjXxedqpRJJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjXxedqpRJJ/video.m3u8",
+          "duration": 1696,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-17",
+          "title": "What is Information Architecture?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDa2HCq9FfF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDa2HCq9FfF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDa2HCq9FfF/video.m3u8",
+          "duration": 1298,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-18",
+          "title": "What is navigation in design?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kAnsxuDrDp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kAnsxuDrDp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kAnsxuDrDp/video.m3u8",
+          "duration": 1562,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-19",
+          "title": "Common navigation design pattern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NpGS3kkFqe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NpGS3kkFqe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NpGS3kkFqe/video.m3u8",
+          "duration": 1053,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-20",
+          "title": "Inclusive Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUaQFAGP8K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUaQFAGP8K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUaQFAGP8K/video.m3u8",
+          "duration": 1866,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design System",
+      "lectures": [
+        {
+          "id": "td-uxresearch-21",
+          "title": "What is a design system?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GUz5a5aKHa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GUz5a5aKHa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GUz5a5aKHa/video.m3u8",
+          "duration": 2084,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-22",
+          "title": "Approach a Design system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MqgcKAEkRX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MqgcKAEkRX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MqgcKAEkRX/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-23",
+          "title": "Wireframes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK6djZnAB4C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK6djZnAB4C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK6djZnAB4C/video.m3u8",
+          "duration": 2281,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "User Testing",
+      "lectures": [
+        {
+          "id": "td-uxresearch-24",
+          "title": "What is testing in design thinking process?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEJQJ2kmdru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEJQJ2kmdru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEJQJ2kmdru/video.m3u8",
+          "duration": 1689,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-25",
+          "title": "User Testing methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QqnaztQrcB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QqnaztQrcB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QqnaztQrcB/video.m3u8",
+          "duration": 1472,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-26",
+          "title": "Usability Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAq2XgBCmR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAq2XgBCmR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAq2XgBCmR/video.m3u8",
+          "duration": 1528,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-27",
+          "title": "Heuristic Evaluation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7ZFZFMJAn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7ZFZFMJAn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7ZFZFMJAn/video.m3u8",
+          "duration": 2263,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "UX Tools & Strategy",
+      "lectures": [
+        {
+          "id": "td-uxresearch-28",
+          "title": "UX Research UX Tools and Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B36N8FCkHCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B36N8FCkHCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B36N8FCkHCA/video.m3u8",
+          "duration": 2466,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-29",
+          "title": "What is UX strategy?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fXHTaETNUUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fXHTaETNUUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fXHTaETNUUc/video.m3u8",
+          "duration": 1464,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-30",
+          "title": "What is UX writing?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBqKmFNUaz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBqKmFNUaz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBqKmFNUaz/video.m3u8",
+          "duration": 1477,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-31",
+          "title": "Top UI UX Trends",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUsYck4CFNB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUsYck4CFNB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUsYck4CFNB/video.m3u8",
+          "duration": 1264,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "UX Case Study",
+      "lectures": [
+        {
+          "id": "td-uxresearch-32",
+          "title": "How to make UX Case study from Scratch?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7T9fQXAeFHp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7T9fQXAeFHp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7T9fQXAeFHp/video.m3u8",
+          "duration": 1590,
+          "type": "video"
+        },
+        {
+          "id": "td-uxresearch-33",
+          "title": "What is a UX case study?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uzqsygAj3P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uzqsygAj3P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uzqsygAj3P/video.m3u8",
+          "duration": 2987,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-uxresearch-9",
+          "title": "UX Case Study 1",
+          "url": "https://docs.google.com/document/d/1YLXgeSShrb0LarQDqw0-21rXk5HC7DkkjNvMvbVMUHo/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1YLXgeSShrb0LarQDqw0-21rXk5HC7DkkjNvMvbVMUHo/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1YLXgeSShrb0LarQDqw0-21rXk5HC7DkkjNvMvbVMUHo/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1YLXgeSShrb0LarQDqw0-21rXk5HC7DkkjNvMvbVMUHo/edit?tab=t.0",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-uxresearch-10",
+          "title": "UX Case Study 2",
+          "url": "https://docs.google.com/document/d/1kx78uQm6th21lApeKxTt81BvVedLPkcK0fT15S9IxRA/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1kx78uQm6th21lApeKxTt81BvVedLPkcK0fT15S9IxRA/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1kx78uQm6th21lApeKxTt81BvVedLPkcK0fT15S9IxRA/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1kx78uQm6th21lApeKxTt81BvVedLPkcK0fT15S9IxRA/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

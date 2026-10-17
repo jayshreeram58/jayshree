@@ -1,0 +1,1100 @@
+{
+  "platform": "TuteDude",
+  "batchId": "indesign",
+  "batchSlug": "indesign",
+  "batchName": "Adobe Indesign",
+  "thumbnail": "https://www.tutedude.com/assets/avif/indesign.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/indesign",
+  "totalSections": 17,
+  "totalLectures": 96,
+  "totalNotes": 12,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to Adobe InDesign",
+      "lectures": [
+        {
+          "id": "td-indesign-1",
+          "title": "What is Adobe InDesign & It's Role in Publishing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z5sK9sBrUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z5sK9sBrUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z5sK9sBrUz/video.m3u8",
+          "duration": 218,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-2",
+          "title": "Exploring  Homescreen Interface, Tools & Panels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6bCxdXUsAq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6bCxdXUsAq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6bCxdXUsAq/video.m3u8",
+          "duration": 465,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-3",
+          "title": "Optimization of Workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7KjGck5JM4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7KjGck5JM4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7KjGck5JM4/video.m3u8",
+          "duration": 1232,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-4",
+          "title": "Creating & Managing New Documents (Print, Web, Mobile)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqDBsmQDeC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqDBsmQDeC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqDBsmQDeC/video.m3u8",
+          "duration": 1504,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-5",
+          "title": "Setting Up Bleed, Slug, Margins, and Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mfXKP8gSuC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mfXKP8gSuC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mfXKP8gSuC/video.m3u8",
+          "duration": 1396,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-6",
+          "title": "Understanding File Formats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HRJmpzR88aD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HRJmpzR88aD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HRJmpzR88aD/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-2",
+          "title": "Understanding Interface & Workspace  ",
+          "url": "https://docs.google.com/document/d/1BKL-7ZTwmQLX7L8O_ZuYi-nHwUThjED-n2L80kryX1I/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1BKL-7ZTwmQLX7L8O_ZuYi-nHwUThjED-n2L80kryX1I/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1BKL-7ZTwmQLX7L8O_ZuYi-nHwUThjED-n2L80kryX1I/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1BKL-7ZTwmQLX7L8O_ZuYi-nHwUThjED-n2L80kryX1I/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Selection, Navigation & Basic Shapes",
+      "lectures": [
+        {
+          "id": "td-indesign-7",
+          "title": "Exploring the Selection Tool & Direct Selection Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cC8KdCDX52/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cC8KdCDX52/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cC8KdCDX52/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-8",
+          "title": "Basic Shapes and Their Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98X4MCnkHs7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98X4MCnkHs7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98X4MCnkHs7/video.m3u8",
+          "duration": 2295,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-9",
+          "title": "Exploring Group, Lock and Hide Option",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B89ASZxx5T9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B89ASZxx5T9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B89ASZxx5T9/video.m3u8",
+          "duration": 790,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-10",
+          "title": "Arranging the Shapes and Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a8mErjhBZYn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a8mErjhBZYn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a8mErjhBZYn/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-11",
+          "title": "Understanding the Alignment Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sGxkmjjJJ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sGxkmjjJJ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sGxkmjjJJ8/video.m3u8",
+          "duration": 2110,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-12",
+          "title": "Page Tool, Gap Tool, Hand Tool, Zoom Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D63aqpeHYE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D63aqpeHYE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D63aqpeHYE/video.m3u8",
+          "duration": 1068,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-4",
+          "title": "Document Setup & Margins",
+          "url": "https://docs.google.com/document/d/1qH3HC78mox3rMZyz63EEPV2yO3eho2fQshOPG_LBVQE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1qH3HC78mox3rMZyz63EEPV2yO3eho2fQshOPG_LBVQE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1qH3HC78mox3rMZyz63EEPV2yO3eho2fQshOPG_LBVQE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1qH3HC78mox3rMZyz63EEPV2yO3eho2fQshOPG_LBVQE/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-indesign-5",
+          "title": "Selection, Navigation & Basic Shapes",
+          "url": "https://docs.google.com/document/d/1_v8A5a4YOY88_vklAIy_l3xPb8IJfhkXNnryOOnh5eE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1_v8A5a4YOY88_vklAIy_l3xPb8IJfhkXNnryOOnh5eE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1_v8A5a4YOY88_vklAIy_l3xPb8IJfhkXNnryOOnh5eE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1_v8A5a4YOY88_vklAIy_l3xPb8IJfhkXNnryOOnh5eE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Type Tools Features",
+      "lectures": [
+        {
+          "id": "td-indesign-13",
+          "title": "Understanding the Type Tool & Type on a Path Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YnsMnGzxkM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YnsMnGzxkM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YnsMnGzxkM/video.m3u8",
+          "duration": 2265,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-14",
+          "title": "Type on a Path Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ECpMS5zMjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ECpMS5zMjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ECpMS5zMjU/video.m3u8",
+          "duration": 823,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-15",
+          "title": "Vertical Type Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae2ED4SRa7d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae2ED4SRa7d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae2ED4SRa7d/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-16",
+          "title": "Applying Textwrapping while working with paragraph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtU85aagRf6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtU85aagRf6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtU85aagRf6/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-7",
+          "title": "Text Frame & Threading",
+          "url": "https://docs.google.com/document/d/1ZFaRvo7tQjUn7WbdJmKX8O4u3mnRKneziL6yQK_8Rqw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ZFaRvo7tQjUn7WbdJmKX8O4u3mnRKneziL6yQK_8Rqw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ZFaRvo7tQjUn7WbdJmKX8O4u3mnRKneziL6yQK_8Rqw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ZFaRvo7tQjUn7WbdJmKX8O4u3mnRKneziL6yQK_8Rqw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-indesign-8",
+          "title": "Paragraph & Character Styles",
+          "url": "https://docs.google.com/document/d/1nD1sBg4cgVsv8vn4vd6rRAiMWZbbNHQllwP678YE-N0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1nD1sBg4cgVsv8vn4vd6rRAiMWZbbNHQllwP678YE-N0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1nD1sBg4cgVsv8vn4vd6rRAiMWZbbNHQllwP678YE-N0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1nD1sBg4cgVsv8vn4vd6rRAiMWZbbNHQllwP678YE-N0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Drawing & Shape Tools",
+      "lectures": [
+        {
+          "id": "td-indesign-17",
+          "title": "PenTool, Add Anchor and Delete Anchor Point Tool Feature",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sBeqAGd9Q4n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sBeqAGd9Q4n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sBeqAGd9Q4n/video.m3u8",
+          "duration": 1363,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-18",
+          "title": "PenTool UseCase with Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ubg9PncqcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ubg9PncqcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ubg9PncqcH/video.m3u8",
+          "duration": 1002,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-19",
+          "title": "Pencil Tool, Smooth Tool & Eraser Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5k59tUPrcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5k59tUPrcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5k59tUPrcZ/video.m3u8",
+          "duration": 394,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-20",
+          "title": "Scissors Tool, Free Transform Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44CmGMrMf5e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44CmGMrMf5e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44CmGMrMf5e/video.m3u8",
+          "duration": 1149,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-21",
+          "title": "Using Pathfinder to Manipulate Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdbBAzNPdp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdbBAzNPdp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdbBAzNPdp/video.m3u8",
+          "duration": 765,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-22",
+          "title": "Path Optimization Optijons (Join, Open, Close & Reverse Path)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AASsefX3pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AASsefX3pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AASsefX3pa/video.m3u8",
+          "duration": 1235,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-10",
+          "title": " Drawing and Shape Tools",
+          "url": "https://docs.google.com/document/d/1ewNVOh-59VPzaKU3Qq3S4YJXRmbgtNV-2ptNQRFFvJI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ewNVOh-59VPzaKU3Qq3S4YJXRmbgtNV-2ptNQRFFvJI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ewNVOh-59VPzaKU3Qq3S4YJXRmbgtNV-2ptNQRFFvJI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ewNVOh-59VPzaKU3Qq3S4YJXRmbgtNV-2ptNQRFFvJI/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Managing Frames, Content Collector Tool Set, Blur and Feather Feature",
+      "lectures": [
+        {
+          "id": "td-indesign-23",
+          "title": "Different Type of  Frame Tool (for Images)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsg2bQfZYbg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsg2bQfZYbg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsg2bQfZYbg/video.m3u8",
+          "duration": 2281,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-24",
+          "title": "Content Collector Tool & Content Placer Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qApFEdasQS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qApFEdasQS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qApFEdasQS/video.m3u8",
+          "duration": 1168,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-25",
+          "title": "Mange Opacity and Gradient Feather Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MJZrcBFRAX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MJZrcBFRAX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MJZrcBFRAX/video.m3u8",
+          "duration": 1074,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-12",
+          "title": " Image Placement & Fitting",
+          "url": "https://docs.google.com/document/d/1wqNDXciSG7SM9HPIPEKXFZlgDNMSDz_q9ztDOBU85E0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1wqNDXciSG7SM9HPIPEKXFZlgDNMSDz_q9ztDOBU85E0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1wqNDXciSG7SM9HPIPEKXFZlgDNMSDz_q9ztDOBU85E0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1wqNDXciSG7SM9HPIPEKXFZlgDNMSDz_q9ztDOBU85E0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Navigation & Measure Tools",
+      "lectures": [
+        {
+          "id": "td-indesign-26",
+          "title": "Understanding the Uses of Measure Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tsUTM6Msg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tsUTM6Msg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tsUTM6Msg6/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-27",
+          "title": "Working with Ruler, Guides & Grids Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UzxmmTn6as/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UzxmmTn6as/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UzxmmTn6as/video.m3u8",
+          "duration": 1211,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-28",
+          "title": "Working with Multiple Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSkc2eBhxTe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSkc2eBhxTe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSkc2eBhxTe/video.m3u8",
+          "duration": 1044,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-29",
+          "title": "Adding, Deleting and Arranging Multiple Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hjYGSXYa5J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hjYGSXYa5J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hjYGSXYa5J/video.m3u8",
+          "duration": 1359,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Applying Color & Effects",
+      "lectures": [
+        {
+          "id": "td-indesign-30",
+          "title": "Working with Solid & Gradient Color",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j2Q5C9yf5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j2Q5C9yf5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j2Q5C9yf5p/video.m3u8",
+          "duration": 2055,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-31",
+          "title": "Exploring the Color Theme Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drUtSPcpnT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drUtSPcpnT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drUtSPcpnT/video.m3u8",
+          "duration": 640,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-32",
+          "title": "Using Eyedropper Tool and Exploring Some Hidden Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THtndq5znb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THtndq5znb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THtndq5znb/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-33",
+          "title": "Note Tool (for annotations)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcrhJyDHCyY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcrhJyDHCyY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcrhJyDHCyY/video.m3u8",
+          "duration": 270,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-34",
+          "title": "Understanding the Effects for Graphics Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4JPX9yTaxz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4JPX9yTaxz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4JPX9yTaxz/video.m3u8",
+          "duration": 2178,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Document & Page Management",
+      "lectures": [
+        {
+          "id": "td-indesign-35",
+          "title": "Pages Panel Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J3646Cbper/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J3646Cbper/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J3646Cbper/video.m3u8",
+          "duration": 1734,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-36",
+          "title": "Master Sheets & Parent Pages Concept",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zFnsy2BQqy8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zFnsy2BQqy8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zFnsy2BQqy8/video.m3u8",
+          "duration": 2229,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-37",
+          "title": "Formating with Liquid Layouts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7RaFRgSbb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7RaFRgSbb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7RaFRgSbb/video.m3u8",
+          "duration": 1347,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-38",
+          "title": "Adjust Layout Feature",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yrd3c4DQnR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yrd3c4DQnR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yrd3c4DQnR/video.m3u8",
+          "duration": 965,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-39",
+          "title": "Sections & Numbering Styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc8mbg26cNr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc8mbg26cNr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc8mbg26cNr/video.m3u8",
+          "duration": 1465,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-40",
+          "title": "Multiple Page Sizes in One Document",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uEfX3gXRcR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uEfX3gXRcR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uEfX3gXRcR/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-16",
+          "title": "Navigation & Measure Tools - Precision Layout Practice",
+          "url": "https://docs.google.com/document/d/1G6FGsTDIQ4OXnXU85_V1Ve0rMWwfgQYAzFNZ8W6LEog/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1G6FGsTDIQ4OXnXU85_V1Ve0rMWwfgQYAzFNZ8W6LEog/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1G6FGsTDIQ4OXnXU85_V1Ve0rMWwfgQYAzFNZ8W6LEog/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1G6FGsTDIQ4OXnXU85_V1Ve0rMWwfgQYAzFNZ8W6LEog/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Typography & Advanced Text Handling",
+      "lectures": [
+        {
+          "id": "td-indesign-41",
+          "title": "Text Frames & Threading Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jkcMq7GAMu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jkcMq7GAMu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jkcMq7GAMu/video.m3u8",
+          "duration": 1149,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-42",
+          "title": "Character Formatting (Fonts, Kerning, Tracking)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CDp8Puagta/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CDp8Puagta/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CDp8Puagta/video.m3u8",
+          "duration": 535,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-43",
+          "title": "Converting Fonts to Outline and Adding ImageTexture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A73csJNbZ9S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A73csJNbZ9S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A73csJNbZ9S/video.m3u8",
+          "duration": 656,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-44",
+          "title": "OpenType Features, Glyphs & Special Characters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r6xeCNERT7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r6xeCNERT7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r6xeCNERT7/video.m3u8",
+          "duration": 575,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-45",
+          "title": "Exploring the Paragraph and Character Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gdra9QKgSB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gdra9QKgSB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gdra9QKgSB/video.m3u8",
+          "duration": 2012,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-46",
+          "title": "Explore the Line Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B72GyqK3KEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B72GyqK3KEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B72GyqK3KEu/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-47",
+          "title": "FindChange for Text Corrections",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATmFzTnXD5j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATmFzTnXD5j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATmFzTnXD5j/video.m3u8",
+          "duration": 958,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-18",
+          "title": "Text Wrap Practice",
+          "url": "https://docs.google.com/document/d/1NaK2Y4TMzFEM5A4yYw2RG5pGmY5fpszrg2KqBoysVI4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1NaK2Y4TMzFEM5A4yYw2RG5pGmY5fpszrg2KqBoysVI4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1NaK2Y4TMzFEM5A4yYw2RG5pGmY5fpszrg2KqBoysVI4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1NaK2Y4TMzFEM5A4yYw2RG5pGmY5fpszrg2KqBoysVI4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with Images & Graphics",
+      "lectures": [
+        {
+          "id": "td-indesign-48",
+          "title": "Importing & Placing Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tQ7fjz5KKc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tQ7fjz5KKc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tQ7fjz5KKc/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-49",
+          "title": "Links Panel & Relinking Missing Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73e7etyHzES/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73e7etyHzES/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73e7etyHzES/video.m3u8",
+          "duration": 984,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-50",
+          "title": "Image Fitting Options & Frame Adjustments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mF8uDtsr32/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mF8uDtsr32/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mF8uDtsr32/video.m3u8",
+          "duration": 690,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-51",
+          "title": "Anchored Objects & Inline Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAkrsdSKmf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAkrsdSKmf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAkrsdSKmf/video.m3u8",
+          "duration": 1459,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-52",
+          "title": "Frame Effects & Transparency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXbXd8xkEZs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXbXd8xkEZs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXbXd8xkEZs/video.m3u8",
+          "duration": 1149,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Color, Swatches & Effects",
+      "lectures": [
+        {
+          "id": "td-indesign-53",
+          "title": "CMYK, RGB & Spot Colors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpdsctTmcQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpdsctTmcQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpdsctTmcQ/video.m3u8",
+          "duration": 1073,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-54",
+          "title": "Creating & Managing Swatches",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YEg8eGMhySP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YEg8eGMhySP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YEg8eGMhySP/video.m3u8",
+          "duration": 1773,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-55",
+          "title": "Adding New Gradients to Swatches",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cfcYy7yeju/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cfcYy7yeju/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cfcYy7yeju/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-56",
+          "title": "Transparency & Blending Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BugbGQYCcry/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BugbGQYCcry/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BugbGQYCcry/video.m3u8",
+          "duration": 1131,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-57",
+          "title": "Object Styles for Consistency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FZb3kZZTKM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FZb3kZZTKM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FZb3kZZTKM/video.m3u8",
+          "duration": 1689,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-21",
+          "title": "Color, Swatches & Effects",
+          "url": "https://docs.google.com/document/d/1I9kKe34zCtKNWipWp9jF0uHj0PIQjodZp59NY7Xr2aI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1I9kKe34zCtKNWipWp9jF0uHj0PIQjodZp59NY7Xr2aI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1I9kKe34zCtKNWipWp9jF0uHj0PIQjodZp59NY7Xr2aI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1I9kKe34zCtKNWipWp9jF0uHj0PIQjodZp59NY7Xr2aI/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tables & Data Handling",
+      "lectures": [
+        {
+          "id": "td-indesign-58",
+          "title": "Creating & Formatting Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHcam5Y68fa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHcam5Y68fa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHcam5Y68fa/video.m3u8",
+          "duration": 2394,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-59",
+          "title": "Creating Table of Contents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ThYt4rjMxU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ThYt4rjMxU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ThYt4rjMxU/video.m3u8",
+          "duration": 978,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-60",
+          "title": "Design Calendear by using Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jrmG6rprdN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jrmG6rprdN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jrmG6rprdN/video.m3u8",
+          "duration": 1289,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-61",
+          "title": "Importing Tables from Excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855qMpxTJzE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855qMpxTJzE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855qMpxTJzE/video.m3u8",
+          "duration": 2177,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-62",
+          "title": "Learn to Design Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpcDFD8mRmA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpcDFD8mRmA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpcDFD8mRmA/video.m3u8",
+          "duration": 1603,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-63",
+          "title": "Table & Cell Styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CcZgGUp7q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CcZgGUp7q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CcZgGUp7q/video.m3u8",
+          "duration": 1159,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-64",
+          "title": "Design Certificates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XJfYZJuH6m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XJfYZJuH6m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XJfYZJuH6m/video.m3u8",
+          "duration": 2720,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-23",
+          "title": "Table Layout Design",
+          "url": "https://docs.google.com/document/d/1uni7enHYSjyFo3FlAa42v0tMnxJYyj1AmznTJSzUTXw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1uni7enHYSjyFo3FlAa42v0tMnxJYyj1AmznTJSzUTXw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1uni7enHYSjyFo3FlAa42v0tMnxJYyj1AmznTJSzUTXw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1uni7enHYSjyFo3FlAa42v0tMnxJYyj1AmznTJSzUTXw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Layout Techniques",
+      "lectures": [
+        {
+          "id": "td-indesign-65",
+          "title": "Layers & Organizing Design Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CG5EhnJhNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CG5EhnJhNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CG5EhnJhNe/video.m3u8",
+          "duration": 1400,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-66",
+          "title": "Understanding the Snippets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KHa8xn9Cuq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KHa8xn9Cuq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KHa8xn9Cuq/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-67",
+          "title": "Creating Object Grids & Uses of Step and Repeat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67zZr3jd2B3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67zZr3jd2B3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67zZr3jd2B3/video.m3u8",
+          "duration": 1138,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-68",
+          "title": "Create Infographics with Shapes & Styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZFAnYx8A37/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZFAnYx8A37/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZFAnYx8A37/video.m3u8",
+          "duration": 2167,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-indesign-69",
+          "title": "Business Card Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JJF9ndJham/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JJF9ndJham/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JJF9ndJham/video.m3u8",
+          "duration": 1931,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-70",
+          "title": "Understanding the Process of CoverPage Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PExeBApG3x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PExeBApG3x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PExeBApG3x/video.m3u8",
+          "duration": 1847,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-71",
+          "title": "Event Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrgRfCPKZr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrgRfCPKZr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrgRfCPKZr7/video.m3u8",
+          "duration": 3944,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-72",
+          "title": "Designing the Social Media Banner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PcX42fz3Yn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PcX42fz3Yn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PcX42fz3Yn/video.m3u8",
+          "duration": 3665,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-73",
+          "title": "Tri-Fold Leaflet Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uq7Ggggajp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uq7Ggggajp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uq7Ggggajp/video.m3u8",
+          "duration": 3197,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-74",
+          "title": "Restaurant Menu Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rdFeHraN29/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rdFeHraN29/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rdFeHraN29/video.m3u8",
+          "duration": 1670,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-75",
+          "title": "Flyer for Marketing Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqQAqUbn2U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqQAqUbn2U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqQAqUbn2U/video.m3u8",
+          "duration": 2625,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-76",
+          "title": "Resume Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/974YuxhDDSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/974YuxhDDSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/974YuxhDDSz/video.m3u8",
+          "duration": 2016,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-77",
+          "title": "How to Design Hoarding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T8msHE68Km/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T8msHE68Km/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T8msHE68Km/video.m3u8",
+          "duration": 3493,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-78",
+          "title": "Learn to Design Flex of Standee",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3TdNSfYkU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3TdNSfYkU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3TdNSfYkU/video.m3u8",
+          "duration": 4053,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-79",
+          "title": "NewsPaper Ads Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euusbypBgU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euusbypBgU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euusbypBgU/video.m3u8",
+          "duration": 2476,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-80",
+          "title": "Web Banner Ads Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bkCXYN4sXb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bkCXYN4sXb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bkCXYN4sXb/video.m3u8",
+          "duration": 3218,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Digital Publishing & Interactive Features",
+      "lectures": [
+        {
+          "id": "td-indesign-81",
+          "title": "Interactive PDFs (Buttons, Links, Forms)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9rYpt9qqD2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9rYpt9qqD2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9rYpt9qqD2/video.m3u8",
+          "duration": 2621,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-82",
+          "title": "Adding Audio, Video, Animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GCHK3urNee/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GCHK3urNee/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GCHK3urNee/video.m3u8",
+          "duration": 1690,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-83",
+          "title": "Accessibility & Inclusive Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kTYPPMYmtkf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kTYPPMYmtkf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kTYPPMYmtkf/video.m3u8",
+          "duration": 1745,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-84",
+          "title": "Customize and export the design documents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hNyq3S3hg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hNyq3S3hg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hNyq3S3hg6/video.m3u8",
+          "duration": 1389,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-85",
+          "title": "QR Code Generator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zBpHjgKpPD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zBpHjgKpPD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zBpHjgKpPD/video.m3u8",
+          "duration": 837,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-86",
+          "title": "Creating Hyperlink Design and Documents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mNMeezMNk5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mNMeezMNk5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mNMeezMNk5/video.m3u8",
+          "duration": 3122,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-87",
+          "title": "Creating Interactive Buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE3p97HMF6h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE3p97HMF6h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE3p97HMF6h/video.m3u8",
+          "duration": 2035,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-88",
+          "title": "Adding custom google map over the venue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JpgJEnMQdB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JpgJEnMQdB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JpgJEnMQdB/video.m3u8",
+          "duration": 1099,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prepress, Printing & Exporting",
+      "lectures": [
+        {
+          "id": "td-indesign-89",
+          "title": "Preflight Check & Fixing Errors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XYRN3yU7e6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XYRN3yU7e6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XYRN3yU7e6/video.m3u8",
+          "duration": 772,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-90",
+          "title": "Packaging Files (Fonts, Images, Assets)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FndqxMNyHn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FndqxMNyHn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FndqxMNyHn/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-91",
+          "title": "Print Export Settings (PDFX Standards)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43ZTt4Dc2ZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43ZTt4Dc2ZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43ZTt4Dc2ZE/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-92",
+          "title": "Exporting for Web & Social Media",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4MGHrBFaFY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4MGHrBFaFY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4MGHrBFaFY/video.m3u8",
+          "duration": 1313,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Collaboration & Workflow",
+      "lectures": [
+        {
+          "id": "td-indesign-93",
+          "title": "Adobe Integration & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKZRYZJydU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKZRYZJydU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKZRYZJydU/video.m3u8",
+          "duration": 444,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-94",
+          "title": "Import and Export from Other Softwares",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APSZSQSAN3K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APSZSQSAN3K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APSZSQSAN3K/video.m3u8",
+          "duration": 593,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-95",
+          "title": "Versioning & File Management Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PNqd8dcCj4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PNqd8dcCj4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PNqd8dcCj4/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-indesign-96",
+          "title": "Course Completion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nxB29RuuQN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nxB29RuuQN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nxB29RuuQN/video.m3u8",
+          "duration": 90,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-indesign-29",
+          "title": "Capstone Project - ",
+          "url": "https://docs.google.com/document/d/1s2fyOMM1N-YVp4O-f_uDPz5vmg1rKPm4KVRRkx0soPA/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1s2fyOMM1N-YVp4O-f_uDPz5vmg1rKPm4KVRRkx0soPA/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1s2fyOMM1N-YVp4O-f_uDPz5vmg1rKPm4KVRRkx0soPA/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1s2fyOMM1N-YVp4O-f_uDPz5vmg1rKPm4KVRRkx0soPA/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

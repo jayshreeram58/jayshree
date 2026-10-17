@@ -1,0 +1,1102 @@
+{
+  "platform": "TuteDude",
+  "batchId": "ethicalhacking",
+  "batchSlug": "ethicalhacking",
+  "batchName": "Ethical Hacking",
+  "thumbnail": "https://www.tutedude.com/assets/avif/ethicalhacking.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/ethicalhacking",
+  "totalSections": 22,
+  "totalLectures": 74,
+  "totalNotes": 30,
+  "price": "699.00",
+  "category": "Cyber Security",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Ethical Hacking",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-2",
+          "title": "Course Overview & Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YdTGdq7Phn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YdTGdq7Phn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YdTGdq7Phn/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-3",
+          "title": "Hacking Setup & Mindset",
+          "url": "https://docs.google.com/document/d/1tX0xnKJKNk5dPaqhPmxIvkPfMskxP5oS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tX0xnKJKNk5dPaqhPmxIvkPfMskxP5oS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tX0xnKJKNk5dPaqhPmxIvkPfMskxP5oS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tX0xnKJKNk5dPaqhPmxIvkPfMskxP5oS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Ethical Hacking Fundamentals",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-3",
+          "title": "Ethical hacking part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SmqrUDJY2c3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SmqrUDJY2c3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SmqrUDJY2c3/video.m3u8",
+          "duration": 1640,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-4",
+          "title": "CIA Triad Cyber Kill Chain & Cyber Domains",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ3shecspkr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ3shecspkr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ3shecspkr/video.m3u8",
+          "duration": 1301,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-5",
+          "title": "The Hackers Kill Chain",
+          "url": "https://docs.google.com/document/d/1f9HZWH-jiru9CLiWwZ7gWK0WR3CNcHjs/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1f9HZWH-jiru9CLiWwZ7gWK0WR3CNcHjs/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1f9HZWH-jiru9CLiWwZ7gWK0WR3CNcHjs/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1f9HZWH-jiru9CLiWwZ7gWK0WR3CNcHjs/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Setting Up the Hacker's Lab",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-5",
+          "title": "Intro to Virtualization & WSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zdcz4dkCUH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zdcz4dkCUH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zdcz4dkCUH/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-6",
+          "title": "Kali Linux Setup & Snapshot Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TXYEK74X6N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TXYEK74X6N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TXYEK74X6N/video.m3u8",
+          "duration": 832,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-7",
+          "title": "kali setup in wsl",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PrEYm3yAmbJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PrEYm3yAmbJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PrEYm3yAmbJ/video.m3u8",
+          "duration": 1385,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-7",
+          "title": "Defense and Frameworks",
+          "url": "https://docs.google.com/document/d/1OYsC95T2_LOJCelxnPPU8n_E0spwhhqn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1OYsC95T2_LOJCelxnPPU8n_E0spwhhqn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1OYsC95T2_LOJCelxnPPU8n_E0spwhhqn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1OYsC95T2_LOJCelxnPPU8n_E0spwhhqn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Master In kali LInux",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-8",
+          "title": "kali linux commands tutorial part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94kAcyq8XA8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94kAcyq8XA8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94kAcyq8XA8/video.m3u8",
+          "duration": 2485,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-9",
+          "title": "kali linux commands tutorial part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35kcsJX3Zs4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35kcsJX3Zs4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35kcsJX3Zs4/video.m3u8",
+          "duration": 3574,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-10",
+          "title": "kali linux commands tutorial part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXnK7uf4BK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXnK7uf4BK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXnK7uf4BK/video.m3u8",
+          "duration": 1966,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-9",
+          "title": "Master In kali LInux",
+          "url": "https://docs.google.com/document/d/1f-3K3bLUlhfDHfAkdNdedl6I9sdonT5A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1f-3K3bLUlhfDHfAkdNdedl6I9sdonT5A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1f-3K3bLUlhfDHfAkdNdedl6I9sdonT5A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1f-3K3bLUlhfDHfAkdNdedl6I9sdonT5A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Networking Fundamentals",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-11",
+          "title": "Networks IPs DNS & TCP UDP Protocols",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sk7zSfMTDQQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sk7zSfMTDQQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sk7zSfMTDQQ/video.m3u8",
+          "duration": 2562,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-12",
+          "title": "HTTP HTTPS Headers & Status Codes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApA9mBtnYch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApA9mBtnYch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApA9mBtnYch/video.m3u8",
+          "duration": 1812,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-11",
+          "title": "Linux Security and Networking",
+          "url": "https://docs.google.com/document/d/1IzVbgy-YIbfqU9EJUu5iJHOBFdINgvvV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IzVbgy-YIbfqU9EJUu5iJHOBFdINgvvV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IzVbgy-YIbfqU9EJUu5iJHOBFdINgvvV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IzVbgy-YIbfqU9EJUu5iJHOBFdINgvvV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Network Enumeration With Nmap & Zenmap",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-13",
+          "title": "Nmap part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MUdRTuNccj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MUdRTuNccj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MUdRTuNccj/video.m3u8",
+          "duration": 2874,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-14",
+          "title": "zenmap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AKapXrCS4u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AKapXrCS4u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AKapXrCS4u/video.m3u8",
+          "duration": 3074,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-13",
+          "title": "Deep Dive into Networking",
+          "url": "https://docs.google.com/document/d/1vv47WjMNXOtfW0iBIYy2uN8MU1Scbo0t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vv47WjMNXOtfW0iBIYy2uN8MU1Scbo0t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vv47WjMNXOtfW0iBIYy2uN8MU1Scbo0t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vv47WjMNXOtfW0iBIYy2uN8MU1Scbo0t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Web Architecture Basics",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-15",
+          "title": "Frontend vs Backend & Web App Behaviors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AtP7h39pPz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AtP7h39pPz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AtP7h39pPz/video.m3u8",
+          "duration": 1341,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-16",
+          "title": "Cookies&session&JWT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4nuTUTnf9H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4nuTUTnf9H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4nuTUTnf9H/video.m3u8",
+          "duration": 1570,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-17",
+          "title": "Same-Origin Policy (SOP) & CORS Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBh7dS9hrDC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBh7dS9hrDC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBh7dS9hrDC/video.m3u8",
+          "duration": 1337,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-15",
+          "title": "Advanced Nmap Scanning",
+          "url": "https://docs.google.com/document/d/15rI-d4vAQlrbW_LMw_4TO_Ug7HGQZhi9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15rI-d4vAQlrbW_LMw_4TO_Ug7HGQZhi9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15rI-d4vAQlrbW_LMw_4TO_Ug7HGQZhi9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15rI-d4vAQlrbW_LMw_4TO_Ug7HGQZhi9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-16",
+          "title": "Hacking Web Cookies and Sessions",
+          "url": "https://docs.google.com/document/d/1w-yMTCjyo6AA6OgItC_EciqnAA-JKbIU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1w-yMTCjyo6AA6OgItC_EciqnAA-JKbIU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1w-yMTCjyo6AA6OgItC_EciqnAA-JKbIU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1w-yMTCjyo6AA6OgItC_EciqnAA-JKbIU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "OSINT & Social Engineering",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-18",
+          "title": "Introduction to Social Engineering Attacks & Principles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EXG97xCMYG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EXG97xCMYG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EXG97xCMYG/video.m3u8",
+          "duration": 2080,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-19",
+          "title": "phishing demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55nPfxNuuep/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55nPfxNuuep/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55nPfxNuuep/video.m3u8",
+          "duration": 1165,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-20",
+          "title": "Practical OSINT Techniques & Real Targets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NsaABE7mjY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NsaABE7mjY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NsaABE7mjY/video.m3u8",
+          "duration": 2440,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-21",
+          "title": "username osint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2prczss3am/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2prczss3am/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2prczss3am/video.m3u8",
+          "duration": 1178,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-22",
+          "title": "shodan & maltego",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47QU25Pg5Qy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47QU25Pg5Qy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47QU25Pg5Qy/video.m3u8",
+          "duration": 2135,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-23",
+          "title": "osint toolkit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q4QqzscYMC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q4QqzscYMC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q4QqzscYMC/video.m3u8",
+          "duration": 2460,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-24",
+          "title": "Advanced Profile Tracing & OSINT Case Studies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2yBEJcejkm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2yBEJcejkm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2yBEJcejkm/video.m3u8",
+          "duration": 3042,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-18",
+          "title": "SOP and CORS Misconfigurations",
+          "url": "https://docs.google.com/document/d/1qTIrp_BFxiBvQJu8Lc5Z7kRA_FKdcp7G/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1qTIrp_BFxiBvQJu8Lc5Z7kRA_FKdcp7G/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1qTIrp_BFxiBvQJu8Lc5Z7kRA_FKdcp7G/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1qTIrp_BFxiBvQJu8Lc5Z7kRA_FKdcp7G/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-19",
+          "title": "Deep Open Source Intelligence (OSINT)",
+          "url": "https://docs.google.com/document/d/1UOILL-wsqVN-gdIhV0F89ECpU8D-DaIQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UOILL-wsqVN-gdIhV0F89ECpU8D-DaIQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UOILL-wsqVN-gdIhV0F89ECpU8D-DaIQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UOILL-wsqVN-gdIhV0F89ECpU8D-DaIQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-20",
+          "title": "Advanced Social Engineering",
+          "url": "https://docs.google.com/document/d/1o_gMzDAah5H0X3a9vfHkdSB3rONwB5UQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1o_gMzDAah5H0X3a9vfHkdSB3rONwB5UQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1o_gMzDAah5H0X3a9vfHkdSB3rONwB5UQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1o_gMzDAah5H0X3a9vfHkdSB3rONwB5UQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Recon & Information Gathering",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-25",
+          "title": "What is Recon",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gD4eCbYHxc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gD4eCbYHxc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gD4eCbYHxc/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-26",
+          "title": "Passive Recon: Shodan FOFA Github & Google Dorking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpH7nSe8AA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpH7nSe8AA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpH7nSe8AA/video.m3u8",
+          "duration": 3684,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-27",
+          "title": "Active Recon: Nmap Scanning & Subdomain Enumeration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DhRU3ADEfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DhRU3ADEfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DhRU3ADEfU/video.m3u8",
+          "duration": 3720,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-28",
+          "title": "Bug Bounty workflow Recon",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hyj9gPxjQPP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hyj9gPxjQPP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hyj9gPxjQPP/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-22",
+          "title": "Advanced Recon Workflow",
+          "url": "https://docs.google.com/document/d/169bMn37qKo6CUGR1joTwjajlZW63CcTp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/169bMn37qKo6CUGR1joTwjajlZW63CcTp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/169bMn37qKo6CUGR1joTwjajlZW63CcTp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/169bMn37qKo6CUGR1joTwjajlZW63CcTp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Automation & Vulnerability Fuzzing",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-29",
+          "title": "Automating Recon & Asset Discovery with Subfinder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4fNKaA8gy6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4fNKaA8gy6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4fNKaA8gy6/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-30",
+          "title": "Advanced Fuzzing & Directory Discovery with ffuf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9TqzMsY4KP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9TqzMsY4KP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9TqzMsY4KP/video.m3u8",
+          "duration": 2281,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-31",
+          "title": "Scanning at Scale with Nuclei",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az8epC8h7df/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az8epC8h7df/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az8epC8h7df/video.m3u8",
+          "duration": 2340,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-32",
+          "title": "cloud nuceli scan & tip",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXyEe3UAgr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXyEe3UAgr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXyEe3UAgr/video.m3u8",
+          "duration": 1481,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-24",
+          "title": "Fuzzing for Hidden Treasures",
+          "url": "https://docs.google.com/document/d/1rIILAavLg-mTVBX-Ubb406CJjP6Kt5mr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1rIILAavLg-mTVBX-Ubb406CJjP6Kt5mr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1rIILAavLg-mTVBX-Ubb406CJjP6Kt5mr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1rIILAavLg-mTVBX-Ubb406CJjP6Kt5mr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-25",
+          "title": "Vulnerability Scanning at Scale with",
+          "url": "https://docs.google.com/document/d/1b_teRy8f7B7TacpQfXZN2pKbVdMwEkCI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1b_teRy8f7B7TacpQfXZN2pKbVdMwEkCI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1b_teRy8f7B7TacpQfXZN2pKbVdMwEkCI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1b_teRy8f7B7TacpQfXZN2pKbVdMwEkCI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Mastering Burp Suite",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-33",
+          "title": "Installation Setup & Proxy Configuration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmyT9GXd3fm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmyT9GXd3fm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmyT9GXd3fm/video.m3u8",
+          "duration": 1530,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-34",
+          "title": "Deep Dive into Intercepting & HTTP Histories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEXrrpzdzD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEXrrpzdzD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEXrrpzdzD/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-35",
+          "title": "Mastering Repeater for Manual Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XGNENaXjXc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XGNENaXjXc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XGNENaXjXc/video.m3u8",
+          "duration": 2983,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-36",
+          "title": "Automating Attacks with Intruder & Extensions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FRkYZbDQz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FRkYZbDQz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FRkYZbDQz7/video.m3u8",
+          "duration": 671,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-27",
+          "title": "Burp Suite Proxy & Repeater Mastery",
+          "url": "https://docs.google.com/document/d/1wdtgiH7kDoKwHyoe0xipg8KFDeouan1X/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1wdtgiH7kDoKwHyoe0xipg8KFDeouan1X/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1wdtgiH7kDoKwHyoe0xipg8KFDeouan1X/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1wdtgiH7kDoKwHyoe0xipg8KFDeouan1X/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-28",
+          "title": "Bruteforcing with Burp Intruder",
+          "url": "https://docs.google.com/document/d/1e44Yr0m3LX338b_x4XzlHWB4daKFxGT_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1e44Yr0m3LX338b_x4XzlHWB4daKFxGT_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1e44Yr0m3LX338b_x4XzlHWB4daKFxGT_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1e44Yr0m3LX338b_x4XzlHWB4daKFxGT_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Network & Infrastructure Hacking",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-37",
+          "title": "Introduction to Nessus Vulnerability Scanner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q6US87k3hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q6US87k3hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q6US87k3hz/video.m3u8",
+          "duration": 1743,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-38",
+          "title": "Active Sniffing vs Passive Sniffing Deep Dive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKgU3rzEGnm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKgU3rzEGnm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKgU3rzEGnm/video.m3u8",
+          "duration": 1740,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-39",
+          "title": "DoS vs DDoS Attacks & Mitigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uyXSgz5sRC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uyXSgz5sRC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uyXSgz5sRC/video.m3u8",
+          "duration": 1576,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-40",
+          "title": "WiFi Hacking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g73CC2nzm6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g73CC2nzm6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g73CC2nzm6/video.m3u8",
+          "duration": 2290,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-41",
+          "title": "WiFi Security",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9979eKUmZfq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9979eKUmZfq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9979eKUmZfq/video.m3u8",
+          "duration": 746,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-42",
+          "title": "Wireless Information Gathering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34qTYsS9Hnq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34qTYsS9Hnq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34qTYsS9Hnq/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-43",
+          "title": "Understanding MITM Attacking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TYy3exEsXcA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TYy3exEsXcA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TYy3exEsXcA/video.m3u8",
+          "duration": 1012,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-44",
+          "title": "ARP Spoofing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8SB7TDAAFF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8SB7TDAAFF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8SB7TDAAFF/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-45",
+          "title": "Wireshark Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EcZdTRCXr6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EcZdTRCXr6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EcZdTRCXr6/video.m3u8",
+          "duration": 1434,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-46",
+          "title": "Honeypots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fk7AzbSEFzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fk7AzbSEFzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fk7AzbSEFzs/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-47",
+          "title": "Detecting and Preventing ARP Attacks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXtZGUgJUd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXtZGUgJUd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXtZGUgJUd/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-30",
+          "title": "Network Sniffing and MITM Attacks",
+          "url": "https://docs.google.com/document/d/15FCWCDT_tCB-BpA1j4SYE-ktzarQLPyW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15FCWCDT_tCB-BpA1j4SYE-ktzarQLPyW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15FCWCDT_tCB-BpA1j4SYE-ktzarQLPyW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15FCWCDT_tCB-BpA1j4SYE-ktzarQLPyW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-31",
+          "title": "DNS Spoofing and Phishing",
+          "url": "https://docs.google.com/document/d/1lfhn1iK4Er8Oypb635WhZ-ZssUFufW4T/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1lfhn1iK4Er8Oypb635WhZ-ZssUFufW4T/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1lfhn1iK4Er8Oypb635WhZ-ZssUFufW4T/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1lfhn1iK4Er8Oypb635WhZ-ZssUFufW4T/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Core Web Vulnerabilities",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-48",
+          "title": "Cross-Site Scripting (XSS) - Stored Reflected DOM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nhTgxeCY9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nhTgxeCY9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nhTgxeCY9R/video.m3u8",
+          "duration": 3071,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-49",
+          "title": "Advanced XSS Bypasses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xBxms3HSmM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xBxms3HSmM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xBxms3HSmM/video.m3u8",
+          "duration": 3921,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-50",
+          "title": "SQL Injection (SQLi) & Blind SQLi part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y3q645Q2uD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y3q645Q2uD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y3q645Q2uD/video.m3u8",
+          "duration": 2869,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-51",
+          "title": "SQL Injection (SQLi) & Blind SQLi",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tnKe5eJe9cX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tnKe5eJe9cX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tnKe5eJe9cX/video.m3u8",
+          "duration": 4413,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-52",
+          "title": "Local Remote File Inclusion (LFI & RFI) & File Uploads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THBcpGX68Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THBcpGX68Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THBcpGX68Q/video.m3u8",
+          "duration": 3301,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-53",
+          "title": "Server-Side Template Injection (SSTI) & Command Injection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASQYnm4kTEn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASQYnm4kTEn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASQYnm4kTEn/video.m3u8",
+          "duration": 2746,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-54",
+          "title": "Server-Side Request Forgery (SSRF) & Cloud Exploits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NTNFupCqxZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NTNFupCqxZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NTNFupCqxZ/video.m3u8",
+          "duration": 3802,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-55",
+          "title": "Cross-Site Request Forgery (CSRF) & Open Redirects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg2SCmCSRz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg2SCmCSRz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg2SCmCSRz/video.m3u8",
+          "duration": 2699,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-33",
+          "title": "Local Vulnerability Lab Setup (xss-lab)",
+          "url": "https://docs.google.com/document/d/1mq-m5T9soLNH7nXN5K1J52Kgr34UCPYR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1mq-m5T9soLNH7nXN5K1J52Kgr34UCPYR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1mq-m5T9soLNH7nXN5K1J52Kgr34UCPYR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1mq-m5T9soLNH7nXN5K1J52Kgr34UCPYR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-34",
+          "title": "Cross-Site Scripting (XSS) Exploitat",
+          "url": "https://docs.google.com/document/d/1mzmYe6zWdFEiW64gESjXaq1bsi1evQ3d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1mzmYe6zWdFEiW64gESjXaq1bsi1evQ3d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1mzmYe6zWdFEiW64gESjXaq1bsi1evQ3d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1mzmYe6zWdFEiW64gESjXaq1bsi1evQ3d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-35",
+          "title": "Local and Remote File Inclusion LFI",
+          "url": "https://docs.google.com/document/d/1X2CLYMb_YOId9TZbV_iuK8mWv8pHdo_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1X2CLYMb_YOId9TZbV_iuK8mWv8pHdo_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1X2CLYMb_YOId9TZbV_iuK8mWv8pHdo_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1X2CLYMb_YOId9TZbV_iuK8mWv8pHdo_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-36",
+          "title": "Cross-Site Request Forgery (CSRF)",
+          "url": "https://docs.google.com/document/d/1AK4lcYx76qHig3T49aiRnvaUssUTiHnC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1AK4lcYx76qHig3T49aiRnvaUssUTiHnC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1AK4lcYx76qHig3T49aiRnvaUssUTiHnC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1AK4lcYx76qHig3T49aiRnvaUssUTiHnC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-37",
+          "title": "SQL Injection (SQLi) - PortSwigger",
+          "url": "https://docs.google.com/document/d/1KEjj8sgcYwa7c2c-9b1GKbIfWBrJsE2J/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KEjj8sgcYwa7c2c-9b1GKbIfWBrJsE2J/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KEjj8sgcYwa7c2c-9b1GKbIfWBrJsE2J/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KEjj8sgcYwa7c2c-9b1GKbIfWBrJsE2J/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-38",
+          "title": "Server-Side Request Forgery (SSRF)",
+          "url": "https://docs.google.com/document/d/1tgW3aasxA5UO8xUe-Li5Tw2yDrYHYGy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tgW3aasxA5UO8xUe-Li5Tw2yDrYHYGy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tgW3aasxA5UO8xUe-Li5Tw2yDrYHYGy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tgW3aasxA5UO8xUe-Li5Tw2yDrYHYGy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Broken Access Control & IDOR",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-56",
+          "title": "Authentication vs Authorization & Privilege Escalation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b4NF5n9CBG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b4NF5n9CBG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b4NF5n9CBG/video.m3u8",
+          "duration": 1321,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-57",
+          "title": "Finding and Exploiting Advanced IDOR Bugs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UgUh7pBKus/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UgUh7pBKus/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UgUh7pBKus/video.m3u8",
+          "duration": 4082,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-40",
+          "title": "ShopNest Lab Setup & Broken Access",
+          "url": "https://docs.google.com/document/d/1P7gHnYZTUnKDnx5LXniGC_FXKfjyf4Aq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1P7gHnYZTUnKDnx5LXniGC_FXKfjyf4Aq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1P7gHnYZTUnKDnx5LXniGC_FXKfjyf4Aq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1P7gHnYZTUnKDnx5LXniGC_FXKfjyf4Aq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-ethicalhacking-41",
+          "title": "Insecure Direct Object References",
+          "url": "https://docs.google.com/document/d/1sLS8cDRQ_veFleeDuFrsWffTzB35vrsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1sLS8cDRQ_veFleeDuFrsWffTzB35vrsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1sLS8cDRQ_veFleeDuFrsWffTzB35vrsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1sLS8cDRQ_veFleeDuFrsWffTzB35vrsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Business Logic Vulnerabilities",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-58",
+          "title": "E-Commerce Exploits (Pricing Manipulation & Coupons)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GyXRxpnrYf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GyXRxpnrYf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GyXRxpnrYf/video.m3u8",
+          "duration": 3592,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-59",
+          "title": "Parameter Tampering Trust Issues & OTP Bypasses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xuFhPzzRakK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xuFhPzzRakK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xuFhPzzRakK/video.m3u8",
+          "duration": 2282,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-43",
+          "title": "Exploiting ShopNest Business Logic",
+          "url": "https://docs.google.com/document/d/1fAcE6dBWZYj0iYVUT9VLBxqjNKoLP-5f/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fAcE6dBWZYj0iYVUT9VLBxqjNKoLP-5f/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fAcE6dBWZYj0iYVUT9VLBxqjNKoLP-5f/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fAcE6dBWZYj0iYVUT9VLBxqjNKoLP-5f/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Cracking Passwords",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-60",
+          "title": "Understanding Encryption and Hashing Concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEx6eSYEGN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEx6eSYEGN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEx6eSYEGN/video.m3u8",
+          "duration": 1955,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-61",
+          "title": "Cracking Passwords",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73UzZYtg6RB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73UzZYtg6RB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73UzZYtg6RB/video.m3u8",
+          "duration": 2315,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI Assistance in Hacking",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-62",
+          "title": "Generating Custom Payloads & Bypasses with AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SFC3BTyTEX6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SFC3BTyTEX6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SFC3BTyTEX6/video.m3u8",
+          "duration": 3624,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-63",
+          "title": "Leveraging AI for Recon & Vulnerability Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d6EsFggNm8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d6EsFggNm8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d6EsFggNm8/video.m3u8",
+          "duration": 3019,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-64",
+          "title": "Building Custom Tools & Exploits via AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM7hqA7MmCR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM7hqA7MmCR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM7hqA7MmCR/video.m3u8",
+          "duration": 4214,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-46",
+          "title": "Leveraging AI for Payload Generation & Recon",
+          "url": "https://docs.google.com/document/d/1I-L7fTyetBD09GK-1qd-XfMHAmoDpDIF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1I-L7fTyetBD09GK-1qd-XfMHAmoDpDIF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1I-L7fTyetBD09GK-1qd-XfMHAmoDpDIF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1I-L7fTyetBD09GK-1qd-XfMHAmoDpDIF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Vulnerability Platforms & Reporting",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-65",
+          "title": "Platform Workflows Selection & Targeting Strategies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qzeEu8bm77F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qzeEu8bm77F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qzeEu8bm77F/video.m3u8",
+          "duration": 2510,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-66",
+          "title": "Step-by-Step Execution & Writing Professional Bug Reports",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2aMHSBX9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2aMHSBX9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2aMHSBX9D/video.m3u8",
+          "duration": 1777,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-48",
+          "title": "Bug Bounty Platforms & Report Writing",
+          "url": "https://docs.google.com/document/d/1SkoB63ZlbSOMHjDJEIAJwSCGzp88EuF7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SkoB63ZlbSOMHjDJEIAJwSCGzp88EuF7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SkoB63ZlbSOMHjDJEIAJwSCGzp88EuF7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SkoB63ZlbSOMHjDJEIAJwSCGzp88EuF7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Stay Updated & Daily Routine",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-67",
+          "title": "Cybersecurity Trends & Daily Discipline for Hackers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStEfH3hDME/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStEfH3hDME/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStEfH3hDME/video.m3u8",
+          "duration": 1186,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Placement ready Module",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-68",
+          "title": "How to get Placed",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JGnkSEMrhz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JGnkSEMrhz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JGnkSEMrhz/video.m3u8",
+          "duration": 1177,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-69",
+          "title": "Projects_Building",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59RrxA7zgmB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59RrxA7zgmB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59RrxA7zgmB/video.m3u8",
+          "duration": 3543,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-70",
+          "title": "Resume_Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDGHJTbSQR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDGHJTbSQR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDGHJTbSQR/video.m3u8",
+          "duration": 2047,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-71",
+          "title": "Portfolio_Building",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYdqNJc7Age/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYdqNJc7Age/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYdqNJc7Age/video.m3u8",
+          "duration": 2743,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-72",
+          "title": "Interview_Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteDC2BKp2c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteDC2BKp2c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteDC2BKp2c/video.m3u8",
+          "duration": 1316,
+          "type": "video"
+        },
+        {
+          "id": "td-ethicalhacking-73",
+          "title": "Using AI FOR JOBS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxhRpJPqXbJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxhRpJPqXbJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxhRpJPqXbJ/video.m3u8",
+          "duration": 1359,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-ethicalhacking-51",
+          "title": "Career Preparation & Hacker Lifestyle",
+          "url": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-ethicalhacking-74",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "duration": 221,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

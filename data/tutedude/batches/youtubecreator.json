@@ -1,0 +1,457 @@
+{
+  "platform": "TuteDude",
+  "batchId": "youtubecreator",
+  "batchSlug": "youtubecreator",
+  "batchName": "Youtube Content Creation",
+  "thumbnail": "https://www.tutedude.com/assets/avif/youtubecreator.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/youtubecreator",
+  "totalSections": 12,
+  "totalLectures": 29,
+  "totalNotes": 11,
+  "price": "699.00",
+  "category": "Marketing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to Course",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-1",
+          "title": "Introduction to Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AG534fdqkE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AG534fdqkE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AG534fdqkE/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics of Video Production",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-2",
+          "title": "Intro to YT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n6NJ6PJpn3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n6NJ6PJpn3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n6NJ6PJpn3/video.m3u8",
+          "duration": 1538,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-3",
+          "title": "Production",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YdJDZ7CJRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YdJDZ7CJRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YdJDZ7CJRG/video.m3u8",
+          "duration": 2119,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-4",
+          "title": "Post Production",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7SnPpHcnYg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7SnPpHcnYg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7SnPpHcnYg/video.m3u8",
+          "duration": 2650,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-5",
+          "title": "How to Implement 3 Stages in 3 Formats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fAThkhSCkN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fAThkhSCkN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fAThkhSCkN/video.m3u8",
+          "duration": 2222,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-6",
+          "title": "Pre - Production",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUHTebq4au7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUHTebq4au7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUHTebq4au7/video.m3u8",
+          "duration": 2019,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-3",
+          "title": "Quick Reel",
+          "url": "https://docs.google.com/document/d/1-v20cSrzFFj4LrUeIWZi5YB8jR3whxcY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-v20cSrzFFj4LrUeIWZi5YB8jR3whxcY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-v20cSrzFFj4LrUeIWZi5YB8jR3whxcY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-v20cSrzFFj4LrUeIWZi5YB8jR3whxcY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to Build Your Niche",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-7",
+          "title": "Niche & User Psychology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpcXmAnuqz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpcXmAnuqz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpcXmAnuqz/video.m3u8",
+          "duration": 1869,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-8",
+          "title": "How to Build Your Niche & Stand Out",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UURgqqD6gE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UURgqqD6gE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UURgqqD6gE/video.m3u8",
+          "duration": 2290,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-5",
+          "title": "Defining Your Niche and Sub Niches",
+          "url": "https://docs.google.com/document/d/1Xq23P1KREnhL0ChKooo1dwedtVUyHDa8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Xq23P1KREnhL0ChKooo1dwedtVUyHDa8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Xq23P1KREnhL0ChKooo1dwedtVUyHDa8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Xq23P1KREnhL0ChKooo1dwedtVUyHDa8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to Build a Channel",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-9",
+          "title": "Basic Information Before Channel Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nf7X2UAu93/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nf7X2UAu93/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nf7X2UAu93/video.m3u8",
+          "duration": 1636,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-10",
+          "title": "Step by Step Guide",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azp38kuCRp6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azp38kuCRp6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azp38kuCRp6/video.m3u8",
+          "duration": 2473,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-7",
+          "title": "Channel Identity and Discoverability",
+          "url": "https://docs.google.com/document/d/1r3YLUr7_T2yqK3BPLP_amgg2nw1iWcrg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1r3YLUr7_T2yqK3BPLP_amgg2nw1iWcrg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1r3YLUr7_T2yqK3BPLP_amgg2nw1iWcrg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1r3YLUr7_T2yqK3BPLP_amgg2nw1iWcrg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to Crack YT Shorts",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-11",
+          "title": "Uploading a YT Short",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fC8B6bds5Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fC8B6bds5Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fC8B6bds5Z/video.m3u8",
+          "duration": 1807,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-12",
+          "title": "YT Shorts Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuJHTsjqpfJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuJHTsjqpfJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuJHTsjqpfJ/video.m3u8",
+          "duration": 1550,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-13",
+          "title": "Advance Shorts Editing & Colour Grading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A525M3fBdkH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A525M3fBdkH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A525M3fBdkH/video.m3u8",
+          "duration": 1619,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-9",
+          "title": "Creating Your First Short Form Video",
+          "url": "https://docs.google.com/document/d/1KCyfBWdyBCLt2Jwd-lwIbul7inssqTfy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KCyfBWdyBCLt2Jwd-lwIbul7inssqTfy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KCyfBWdyBCLt2Jwd-lwIbul7inssqTfy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KCyfBWdyBCLt2Jwd-lwIbul7inssqTfy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "How to Crack YT Long Format",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-14",
+          "title": "Intro to Long Form Content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ5JpK8HAde/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ5JpK8HAde/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ5JpK8HAde/video.m3u8",
+          "duration": 2082,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-15",
+          "title": "Step by Step Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaC3HceUsCu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaC3HceUsCu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaC3HceUsCu/video.m3u8",
+          "duration": 2095,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-16",
+          "title": "Thumbnail Masterclass (Canva Tutorial)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n8SpSfmyGQJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n8SpSfmyGQJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n8SpSfmyGQJ/video.m3u8",
+          "duration": 2268,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-17",
+          "title": "Uploading a Video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7Fe5Kbu7pj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7Fe5Kbu7pj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7Fe5Kbu7pj/video.m3u8",
+          "duration": 2191,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-11",
+          "title": "Designing a High CTR Thumbnail",
+          "url": "https://docs.google.com/document/d/1Kg9qlCdaSEONEFkf3gnOEqII-vUSdMJO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Kg9qlCdaSEONEFkf3gnOEqII-vUSdMJO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Kg9qlCdaSEONEFkf3gnOEqII-vUSdMJO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Kg9qlCdaSEONEFkf3gnOEqII-vUSdMJO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-youtubecreator-12",
+          "title": "Long Format Video 40 to 60 Seconds",
+          "url": "https://docs.google.com/document/d/1716Iz0VF2wNYxmdt9qTPHrMD34uOEeEh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1716Iz0VF2wNYxmdt9qTPHrMD34uOEeEh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1716Iz0VF2wNYxmdt9qTPHrMD34uOEeEh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1716Iz0VF2wNYxmdt9qTPHrMD34uOEeEh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Understanding Copyright",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-18",
+          "title": "Types of Copyright & Community Guidelines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMRErEnyZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMRErEnyZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMRErEnyZ8/video.m3u8",
+          "duration": 1917,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-19",
+          "title": "Copyright Claims",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p6529cFD7r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p6529cFD7r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p6529cFD7r/video.m3u8",
+          "duration": 990,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-20",
+          "title": "Copyright Strikes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8ArESnBjA9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8ArESnBjA9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8ArESnBjA9/video.m3u8",
+          "duration": 1637,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-14",
+          "title": "YouTube Copyright and Rights Management Quiz",
+          "url": "https://docs.google.com/document/d/1ceL56dYJUebvk_sWlU2L2fY2mXT1fmK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ceL56dYJUebvk_sWlU2L2fY2mXT1fmK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ceL56dYJUebvk_sWlU2L2fY2mXT1fmK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ceL56dYJUebvk_sWlU2L2fY2mXT1fmK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Youtube Live",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-21",
+          "title": "Pre-Requisite for YT Live",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3eCKXyZtjG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3eCKXyZtjG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3eCKXyZtjG/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-22",
+          "title": "Prism Software Step by Step Guide",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEXcJd3bQN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEXcJd3bQN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEXcJd3bQN/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-16",
+          "title": "Setting Up and Broadcasting Your First YouTube Live",
+          "url": "https://docs.google.com/document/d/1YxiJw12hoKpz4xE97ENCPfcU4tuJBlkR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YxiJw12hoKpz4xE97ENCPfcU4tuJBlkR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YxiJw12hoKpz4xE97ENCPfcU4tuJBlkR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YxiJw12hoKpz4xE97ENCPfcU4tuJBlkR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "YT Monetisation",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-23",
+          "title": "Intro to Monetization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYGpJsjtJEs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYGpJsjtJEs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYGpJsjtJEs/video.m3u8",
+          "duration": 1160,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-24",
+          "title": "YPP & Other Sources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kBYFuGx5Ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kBYFuGx5Ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kBYFuGx5Ad/video.m3u8",
+          "duration": 1617,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-25",
+          "title": "Google Adsense",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82fuRUqSNEn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82fuRUqSNEn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82fuRUqSNEn/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-youtubecreator-26",
+          "title": "Us Tax Info Tutorial",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4K5kZBS7XgT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4K5kZBS7XgT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4K5kZBS7XgT/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-18",
+          "title": "Brand Outreach and Pitch Email",
+          "url": "https://docs.google.com/document/d/1T4r6YhxqrD7W5gcRjXReaP8CYLr9zRbB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1T4r6YhxqrD7W5gcRjXReaP8CYLr9zRbB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1T4r6YhxqrD7W5gcRjXReaP8CYLr9zRbB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1T4r6YhxqrD7W5gcRjXReaP8CYLr9zRbB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Practical Blueprint",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-27",
+          "title": "My Personal Blueprint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zxE7TTAQGh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zxE7TTAQGh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zxE7TTAQGh/video.m3u8",
+          "duration": 1638,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Importance of Mental Health",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-28",
+          "title": "Handling Hate My Personal Experience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACEYfpnEtK7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACEYfpnEtK7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACEYfpnEtK7/video.m3u8",
+          "duration": 1641,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-youtubecreator-21",
+          "title": "Competitive Analysis and Creator Breakdown",
+          "url": "https://docs.google.com/document/d/1Lj5p19SMlrh8mkdJGSpMflo7bAqqgNYq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Lj5p19SMlrh8mkdJGSpMflo7bAqqgNYq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Lj5p19SMlrh8mkdJGSpMflo7bAqqgNYq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Lj5p19SMlrh8mkdJGSpMflo7bAqqgNYq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-youtubecreator-22",
+          "title": "Creator Sustainability and Mental Health Action Plan",
+          "url": "https://docs.google.com/document/d/1EOT2OXHTT7XK934pCxsKlUo4_uAF9eKm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1EOT2OXHTT7XK934pCxsKlUo4_uAF9eKm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1EOT2OXHTT7XK934pCxsKlUo4_uAF9eKm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1EOT2OXHTT7XK934pCxsKlUo4_uAF9eKm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Personal Reflection & Guidance",
+      "lectures": [
+        {
+          "id": "td-youtubecreator-29",
+          "title": "My Biggest Mistake (Conclusion)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z6DUBjb4RN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z6DUBjb4RN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z6DUBjb4RN/video.m3u8",
+          "duration": 1839,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

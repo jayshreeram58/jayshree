@@ -1,0 +1,776 @@
+{
+  "platform": "TuteDude",
+  "batchId": "technicalanalysis",
+  "batchSlug": "technicalanalysis",
+  "batchName": "Technical Analysis",
+  "thumbnail": "https://www.tutedude.com/assets/avif/technicalanalysis.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/technicalanalysis",
+  "totalSections": 17,
+  "totalLectures": 72,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "bussiness",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to the Course",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-1",
+          "title": "Introduction to the Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QyBFsf4j5k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QyBFsf4j5k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QyBFsf4j5k/video.m3u8",
+          "duration": 236,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-2",
+          "title": "What is Technical Analysis and 3 assumptions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJC8ma64QSx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJC8ma64QSx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJC8ma64QSx/video.m3u8",
+          "duration": 257,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-3",
+          "title": "Difference Between Fundamental and Technical Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDcXEgNBGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDcXEgNBGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDcXEgNBGA/video.m3u8",
+          "duration": 193,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How To Become A Sucessful Trader",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-4",
+          "title": "How To Become A Sucessful Trader",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XxZkMBYuMT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XxZkMBYuMT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XxZkMBYuMT/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Become a billionaire with tips?",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-5",
+          "title": "Trading Tips Is A Scam",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s8NyjQ8m5N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s8NyjQ8m5N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s8NyjQ8m5N/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Types Of Chart",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-6",
+          "title": "Types Of Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bscq5gArY7H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bscq5gArY7H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bscq5gArY7H/video.m3u8",
+          "duration": 178,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tradingview Tour",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-7",
+          "title": "Tradingview Tour",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CyaJxcMcsD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CyaJxcMcsD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CyaJxcMcsD/video.m3u8",
+          "duration": 822,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "What Is Candle And Types Of Candle",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-8",
+          "title": "What Is Candle And Types Of Candle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjgyjqA9q52/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjgyjqA9q52/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjgyjqA9q52/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Types Of Trends",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-9",
+          "title": "Types Of Trends",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTGCKntDCq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTGCKntDCq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTGCKntDCq/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Candlestick Patterns",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-10",
+          "title": "Bull And Bear Marubozu",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABB4uFyfAkz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABB4uFyfAkz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABB4uFyfAkz/video.m3u8",
+          "duration": 1876,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-11",
+          "title": "Bullish Hammer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEjfUuCRqG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEjfUuCRqG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEjfUuCRqG/video.m3u8",
+          "duration": 1645,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-12",
+          "title": "Bearish Hammer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJgnJuzZCRN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJgnJuzZCRN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJgnJuzZCRN/video.m3u8",
+          "duration": 1410,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-13",
+          "title": "Doji And Spinning Top",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EgEmbHMnst/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EgEmbHMnst/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EgEmbHMnst/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-14",
+          "title": "Candle Pattern Bullish and Bearish Engulfing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5Y9pXh7AF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5Y9pXh7AF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5Y9pXh7AF/video.m3u8",
+          "duration": 2378,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-15",
+          "title": "Dark Cloud Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tnsmDnu2Ef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tnsmDnu2Ef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tnsmDnu2Ef/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-16",
+          "title": "Peircing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JPS3Tb37p8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JPS3Tb37p8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JPS3Tb37p8/video.m3u8",
+          "duration": 1215,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-17",
+          "title": "Morning Star",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NNQkDh8dKS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NNQkDh8dKS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NNQkDh8dKS/video.m3u8",
+          "duration": 1491,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-18",
+          "title": "Evening Star",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85buyrPXj9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85buyrPXj9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85buyrPXj9k/video.m3u8",
+          "duration": 1102,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Price Action Basics",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-19",
+          "title": "What is Price Action and its tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BP9MJTQFnXj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BP9MJTQFnXj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BP9MJTQFnXj/video.m3u8",
+          "duration": 124,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-20",
+          "title": "Support and Resistance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkNCRCaHy9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkNCRCaHy9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkNCRCaHy9/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-21",
+          "title": "Supply and Demand Zone",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pRxp6GRZp6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pRxp6GRZp6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pRxp6GRZp6/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-22",
+          "title": "Applying price action on charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2UDFNHe2x7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2UDFNHe2x7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2UDFNHe2x7/video.m3u8",
+          "duration": 959,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Chart Patterns",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-23",
+          "title": "Double Top",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RnQa5MQjRt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RnQa5MQjRt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RnQa5MQjRt/video.m3u8",
+          "duration": 1601,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-24",
+          "title": "Double Top on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZeybmhBMDj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZeybmhBMDj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZeybmhBMDj/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-25",
+          "title": "Double Bottom",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hqRsB4EQcn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hqRsB4EQcn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hqRsB4EQcn/video.m3u8",
+          "duration": 1302,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-26",
+          "title": "Double Bottom on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEfXS2UgJ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEfXS2UgJ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEfXS2UgJ4/video.m3u8",
+          "duration": 435,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-27",
+          "title": "Triple Top",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YAfzskhTsa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YAfzskhTsa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YAfzskhTsa/video.m3u8",
+          "duration": 1301,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-28",
+          "title": "Triple Top on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXJ77DmYkrn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXJ77DmYkrn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXJ77DmYkrn/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-29",
+          "title": "Triple Bottom",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XpUssZ5GHTq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XpUssZ5GHTq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XpUssZ5GHTq/video.m3u8",
+          "duration": 1236,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-30",
+          "title": "Triple Bottom on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83r4NY8y4pH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83r4NY8y4pH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83r4NY8y4pH/video.m3u8",
+          "duration": 326,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-31",
+          "title": "Head And Shoulder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RqHFu3npQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RqHFu3npQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RqHFu3npQE/video.m3u8",
+          "duration": 1224,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-32",
+          "title": "Head And Shoulder on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ACZ5hNEKUe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ACZ5hNEKUe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ACZ5hNEKUe/video.m3u8",
+          "duration": 267,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-33",
+          "title": "Inverse Head And Shoulder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EHm65CSkrP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EHm65CSkrP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EHm65CSkrP/video.m3u8",
+          "duration": 1179,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-34",
+          "title": "Inverse Head And Shoulder on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpkMAPJqGEQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpkMAPJqGEQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpkMAPJqGEQ/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-35",
+          "title": "Ascending Triangle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NktTGxnBRh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NktTGxnBRh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NktTGxnBRh/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-36",
+          "title": "Ascending Triangle on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tzS5hGe639/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tzS5hGe639/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tzS5hGe639/video.m3u8",
+          "duration": 313,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-37",
+          "title": "Descending Triangle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EAqUyhSKkZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EAqUyhSKkZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EAqUyhSKkZ/video.m3u8",
+          "duration": 1031,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-38",
+          "title": "Descending Triangle on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDu8CfHBTY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDu8CfHBTY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDu8CfHBTY/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-39",
+          "title": "Symmetrical Triangle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nY8Naz8QBxe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nY8Naz8QBxe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nY8Naz8QBxe/video.m3u8",
+          "duration": 1615,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-40",
+          "title": "Symmetrical Triangle on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9NAAUfXg4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9NAAUfXg4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9NAAUfXg4E/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-41",
+          "title": "Bull Flag And Pole",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dRtzxPsC8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dRtzxPsC8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dRtzxPsC8/video.m3u8",
+          "duration": 932,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-42",
+          "title": "Bull Flag And Pole on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eM2aD2UDF9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eM2aD2UDF9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eM2aD2UDF9/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-43",
+          "title": "Bear Flag And Pole",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5KPJukHZx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5KPJukHZx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5KPJukHZx/video.m3u8",
+          "duration": 688,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-44",
+          "title": "Bear Flag And Pole on Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7mA6MDCB7C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7mA6MDCB7C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7mA6MDCB7C/video.m3u8",
+          "duration": 286,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Price Action Advanced",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-45",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QKyRRZ6Ks/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QKyRRZ6Ks/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QKyRRZ6Ks/video.m3u8",
+          "duration": 75,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-46",
+          "title": "How To Use Trendlines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApmYtdbHdmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApmYtdbHdmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApmYtdbHdmJ/video.m3u8",
+          "duration": 1038,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-47",
+          "title": "Time Frames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbne7ZqSST/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbne7ZqSST/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbne7ZqSST/video.m3u8",
+          "duration": 515,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-48",
+          "title": "Breakout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7mDd6egJgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7mDd6egJgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7mDd6egJgh/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-49",
+          "title": "Reversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axbfyj3x5qF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axbfyj3x5qF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axbfyj3x5qF/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-50",
+          "title": "Retest",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpp2KbM5n3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpp2KbM5n3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpp2KbM5n3/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-51",
+          "title": "Swing Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJRszfNFz6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJRszfNFz6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJRszfNFz6/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-52",
+          "title": "Intraday Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrC9qXkR2x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrC9qXkR2x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrC9qXkR2x/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Technical Indicators",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-53",
+          "title": "RSI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59zMZmQ697S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59zMZmQ697S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59zMZmQ697S/video.m3u8",
+          "duration": 1161,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-54",
+          "title": "Rsi Divergence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6zkNRJgZ85/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6zkNRJgZ85/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6zkNRJgZ85/video.m3u8",
+          "duration": 1106,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-55",
+          "title": "Bollinger Bands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hsxuh6a5Kx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hsxuh6a5Kx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hsxuh6a5Kx/video.m3u8",
+          "duration": 1943,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-56",
+          "title": "Vwap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7MCNZ6TsxF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7MCNZ6TsxF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7MCNZ6TsxF/video.m3u8",
+          "duration": 1408,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-57",
+          "title": "Average Directional Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BzbyePArAK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BzbyePArAK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BzbyePArAK/video.m3u8",
+          "duration": 1211,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-58",
+          "title": "Pivot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEjHFE533aN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEjHFE533aN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEjHFE533aN/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-59",
+          "title": "Moving Averages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46D2Ch356Tb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46D2Ch356Tb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46D2Ch356Tb/video.m3u8",
+          "duration": 1317,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-60",
+          "title": "Fibonacci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXz3TuETkJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXz3TuETkJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXz3TuETkJ/video.m3u8",
+          "duration": 1042,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Quadrant 2 Risk Management",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-61",
+          "title": "Strict Stoploss",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgkbAU7yd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgkbAU7yd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgkbAU7yd/video.m3u8",
+          "duration": 1438,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-62",
+          "title": "Target",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9naj3fHJBjk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9naj3fHJBjk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9naj3fHJBjk/video.m3u8",
+          "duration": 694,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-63",
+          "title": "Risk Reward ratio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hCGfcRcgUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hCGfcRcgUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hCGfcRcgUc/video.m3u8",
+          "duration": 977,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-64",
+          "title": "Position Sizing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67UT52YzH2m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67UT52YzH2m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67UT52YzH2m/video.m3u8",
+          "duration": 460,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Quadrant 3 - Psycology",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-65",
+          "title": "Key points to take care of",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fygyPtHxa4F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fygyPtHxa4F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fygyPtHxa4F/video.m3u8",
+          "duration": 592,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-66",
+          "title": "Do's and Dont's",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UQn8jmxhsY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UQn8jmxhsY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UQn8jmxhsY/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-67",
+          "title": "Vicious Circle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5qsHYFj8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5qsHYFj8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5qsHYFj8R/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-68",
+          "title": "Journal Writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPJQpmGUXfK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPJQpmGUXfK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPJQpmGUXfK/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Quadrant 4 - Life Management",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-69",
+          "title": "Life Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzEPhUTxn9x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzEPhUTxn9x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzEPhUTxn9x/video.m3u8",
+          "duration": 584,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Live trading with Technical Analysis",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-70",
+          "title": "How To Apply Technical Analysis Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smd9kTgm75/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smd9kTgm75/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smd9kTgm75/video.m3u8",
+          "duration": 832,
+          "type": "video"
+        },
+        {
+          "id": "td-technicalanalysis-71",
+          "title": "How To Apply Technical Analysis Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQDPBQqj55K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQDPBQqj55K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQDPBQqj55K/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Conclusion",
+      "lectures": [
+        {
+          "id": "td-technicalanalysis-72",
+          "title": "Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBHdAZTHjm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBHdAZTHjm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBHdAZTHjm/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-technicalanalysis-18",
+          "title": "Candlestick Patterns in YES Bank",
+          "url": "https://docs.google.com/document/d/1H7XkmK3lXlzzETYRkhOCjxGSFwnZDauS/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1H7XkmK3lXlzzETYRkhOCjxGSFwnZDauS/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1H7XkmK3lXlzzETYRkhOCjxGSFwnZDauS/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1H7XkmK3lXlzzETYRkhOCjxGSFwnZDauS/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "platform": "TuteDude",
+  "batchId": "tableau",
+  "batchSlug": "tableau",
+  "batchName": "Tableau",
+  "thumbnail": "https://www.tutedude.com/assets/avif/tableau.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/tableau",
+  "totalSections": 12,
+  "totalLectures": 82,
+  "totalNotes": 4,
+  "price": "699.00",
+  "category": "it",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-tableau-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "It's super easy to get Started",
+      "lectures": [
+        {
+          "id": "td-tableau-2",
+          "title": "Tableau Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f5EZPyq358/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f5EZPyq358/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f5EZPyq358/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-3",
+          "title": "Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpmpQjtuCMH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpmpQjtuCMH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpmpQjtuCMH/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-4",
+          "title": "Excercise- Get Excited!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5FD6zkRm4P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5FD6zkRm4P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5FD6zkRm4P/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tableau Basics: Your First Bar chart",
+      "lectures": [
+        {
+          "id": "td-tableau-5",
+          "title": "The Business Challenge - Who Gets the Annual Reward",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KfE4SpDz3n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KfE4SpDz3n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KfE4SpDz3n/video.m3u8",
+          "duration": 127,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-6",
+          "title": "Connecting Tableau to a Data File - CSV File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hkp2qkdHgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hkp2qkdHgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hkp2qkdHgh/video.m3u8",
+          "duration": 330,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-7",
+          "title": "Navigating Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h2QZUq64Hx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h2QZUq64Hx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h2QZUq64Hx/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-8",
+          "title": "Creating Calculated Fields",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EGSgsBu9Mcz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EGSgsBu9Mcz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EGSgsBu9Mcz/video.m3u8",
+          "duration": 338,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-9",
+          "title": "Adding Colors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EyypCbA79A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EyypCbA79A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EyypCbA79A/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-10",
+          "title": "Adding Labels and Formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SfADn4nP6m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SfADn4nP6m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SfADn4nP6m/video.m3u8",
+          "duration": 465,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-11",
+          "title": "Exporting Your Worksheet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MahpT5FqmH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MahpT5FqmH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MahpT5FqmH/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Time series, Aggregation, and Filters",
+      "lectures": [
+        {
+          "id": "td-tableau-12",
+          "title": "Section Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GRDbAUNEFs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GRDbAUNEFs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GRDbAUNEFs/video.m3u8",
+          "duration": 102,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-13",
+          "title": "Working with Data Extracts in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pApYeyYhPF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pApYeyYhPF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pApYeyYhPF/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-14",
+          "title": "Working with Time Series",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98cqfxeCT7t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98cqfxeCT7t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98cqfxeCT7t/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-15",
+          "title": "Understanding Aggregation, Granularity and Level Of Detail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xfS5pp94Zg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xfS5pp94Zg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xfS5pp94Zg/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-16",
+          "title": "Creating an Area Chart & Learning About Highlighting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rfbFQgBJND/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rfbFQgBJND/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rfbFQgBJND/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-17",
+          "title": "Adding Filters and Quick Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cFryQtrzgm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cFryQtrzgm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cFryQtrzgm/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-tableau-5",
+          "title": "Bar Charts & Time Series",
+          "url": "https://docs.google.com/document/d/1i0ralTKlzAHFt8RVVGJjk7dij-ceGEs4/edit",
+          "pdfUrl": "https://docs.google.com/document/d/1i0ralTKlzAHFt8RVVGJjk7dij-ceGEs4/edit",
+          "playerUrl": "https://docs.google.com/document/d/1i0ralTKlzAHFt8RVVGJjk7dij-ceGEs4/edit",
+          "downloadUrl": "https://docs.google.com/document/d/1i0ralTKlzAHFt8RVVGJjk7dij-ceGEs4/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Maps, Scatterplots, and Your First Dashboard",
+      "lectures": [
+        {
+          "id": "td-tableau-18",
+          "title": "Section Intro 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSTkj26JG7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSTkj26JG7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSTkj26JG7/video.m3u8",
+          "duration": 71,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-19",
+          "title": "Relationship vs Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y2R3KtMn4u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y2R3KtMn4u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y2R3KtMn4u/video.m3u8",
+          "duration": 178,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-20",
+          "title": "Joining Data in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nyPBfAZRRp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nyPBfAZRRp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nyPBfAZRRp/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-21",
+          "title": "Creating a Map, Working with Hierarchies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxUFjTD8ZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxUFjTD8ZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxUFjTD8ZE/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-22",
+          "title": "Creating a Scatterplot , Applying Filters to Multiple Worksheets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BKs7SgPM2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BKs7SgPM2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BKs7SgPM2/video.m3u8",
+          "duration": 695,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-23",
+          "title": "Let's Create Our First Dashboard!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkbckyajQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkbckyajQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkbckyajQ6/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-24",
+          "title": "Adding an Interactive Action - Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcpK7SntgHd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcpK7SntgHd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcpK7SntgHd/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-25",
+          "title": "Adding an Interactive Action - Highlight",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ks8EkRJM5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ks8EkRJM5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ks8EkRJM5p/video.m3u8",
+          "duration": 792,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joining, Blending and Relationships; PLUS: Dual Axis Charts",
+      "lectures": [
+        {
+          "id": "td-tableau-26",
+          "title": "Section Intro 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53P6tFtPF7X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53P6tFtPF7X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53P6tFtPF7X/video.m3u8",
+          "duration": 204,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-27",
+          "title": "Understanding how LEFT, RIGHT, INNER and OUTER Join Work",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62jd8sU8Scq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62jd8sU8Scq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62jd8sU8Scq/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-28",
+          "title": "Joins with Duplicate Values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BymdNZrpB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BymdNZrpB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BymdNZrpB/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-29",
+          "title": "Joining on Multiple Fields",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R2nYBp7sEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R2nYBp7sEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R2nYBp7sEu/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-30",
+          "title": "The Showdown - Joining Data v.s. Blending Data in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFnPUrCKUE7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFnPUrCKUE7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFnPUrCKUE7/video.m3u8",
+          "duration": 726,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-31",
+          "title": "Data Blending in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTPxDqbB9d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTPxDqbB9d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTPxDqbB9d/video.m3u8",
+          "duration": 923,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-32",
+          "title": "Dual Axis Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nAqCpeZK8z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nAqCpeZK8z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nAqCpeZK8z/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-33",
+          "title": "Creating Calculated Fields in a Blend (Advanced Topic)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DMTt82kRkC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DMTt82kRkC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DMTt82kRkC/video.m3u8",
+          "duration": 896,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-34",
+          "title": "New Challenge and dataset!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nJ2ZCCrMH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nJ2ZCCrMH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nJ2ZCCrMH/video.m3u8",
+          "duration": 196,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-35",
+          "title": "The Data Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMAh4hkdxD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMAh4hkdxD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMAh4hkdxD/video.m3u8",
+          "duration": 812,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-36",
+          "title": "Working with Relationships in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z34CuDazSr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z34CuDazSr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z34CuDazSr/video.m3u8",
+          "duration": 679,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-37",
+          "title": "Section Recap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZKbZJhZH4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZKbZJhZH4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZKbZJhZH4E/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-tableau-8",
+          "title": "Maps, Joins & First Dashboard",
+          "url": "https://docs.google.com/document/d/180z7jCq--9C0AhUJyGOmbL8APQbKRTyI/edit",
+          "pdfUrl": "https://docs.google.com/document/d/180z7jCq--9C0AhUJyGOmbL8APQbKRTyI/edit",
+          "playerUrl": "https://docs.google.com/document/d/180z7jCq--9C0AhUJyGOmbL8APQbKRTyI/edit",
+          "downloadUrl": "https://docs.google.com/document/d/180z7jCq--9C0AhUJyGOmbL8APQbKRTyI/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Table Calculations, Advanced Dashboards, Storytelling",
+      "lectures": [
+        {
+          "id": "td-tableau-38",
+          "title": "Section Intro 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CErdXB8y29/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CErdXB8y29/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CErdXB8y29/video.m3u8",
+          "duration": 97,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-39",
+          "title": "Downloading the Dataset and Connecting to Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cXn6zgZPC5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cXn6zgZPC5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cXn6zgZPC5/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-40",
+          "title": "Mapping - how to Set Geographical Roles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HfTNAmqMUb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HfTNAmqMUb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HfTNAmqMUb/video.m3u8",
+          "duration": 517,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-41",
+          "title": "Creating Table Calculations for Gender",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EAruEg92Zm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EAruEg92Zm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EAruEg92Zm/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-42",
+          "title": "Creating Bins and Distribution for Age",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KKzsaZ5kHC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KKzsaZ5kHC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KKzsaZ5kHC/video.m3u8",
+          "duration": 547,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-43",
+          "title": "Leveraging the Power of Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33fyGJ9r2Sh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33fyGJ9r2Sh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33fyGJ9r2Sh/video.m3u8",
+          "duration": 574,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-44",
+          "title": "How to Create a Tree Map Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ukgd4ZSseE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ukgd4ZSseE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ukgd4ZSseE/video.m3u8",
+          "duration": 217,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-45",
+          "title": "Creating a Customer Segmentation Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXSMasjFAZ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXSMasjFAZ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXSMasjFAZ4/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-46",
+          "title": "Advanced Dashboard Interactivity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nMm7pCmJZm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nMm7pCmJZm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nMm7pCmJZm/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-47",
+          "title": "Analyzing the Customer Segmentation Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dqJCM27mBX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dqJCM27mBX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dqJCM27mBX/video.m3u8",
+          "duration": 1061,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-48",
+          "title": "Creating a Storyline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JhPkYg8jy2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JhPkYg8jy2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JhPkYg8jy2/video.m3u8",
+          "duration": 1168,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Data Preparation",
+      "lectures": [
+        {
+          "id": "td-tableau-49",
+          "title": "Section Intro 7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TRjnX9gn6J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TRjnX9gn6J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TRjnX9gn6J/video.m3u8",
+          "duration": 151,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-50",
+          "title": "What Format Your Data Should Be In",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/prAT6JRPUt9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/prAT6JRPUt9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/prAT6JRPUt9/video.m3u8",
+          "duration": 435,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-51",
+          "title": "Data Interpreter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rKSHzmqjNU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rKSHzmqjNU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rKSHzmqjNU/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-52",
+          "title": "Pivot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FM5b8k7rc3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FM5b8k7rc3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FM5b8k7rc3/video.m3u8",
+          "duration": 279,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-53",
+          "title": "Splitting a Column into Multiple Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JRS5ZMpF24/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JRS5ZMpF24/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JRS5ZMpF24/video.m3u8",
+          "duration": 231,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-54",
+          "title": "MetaData Grid",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQEt8DFuGZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQEt8DFuGZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQEt8DFuGZ/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-55",
+          "title": "Fixing Geographical Data Errors in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B358MtEsN4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B358MtEsN4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B358MtEsN4p/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-tableau-11",
+          "title": "Table Calculations & Storytelling",
+          "url": "https://docs.google.com/document/d/1Tk2kjVbq5UYFXiSCGR1WnxLG1ffIT8fx/edit#heading=h.c1s2jebuipjo",
+          "pdfUrl": "https://docs.google.com/document/d/1Tk2kjVbq5UYFXiSCGR1WnxLG1ffIT8fx/edit#heading=h.c1s2jebuipjo",
+          "playerUrl": "https://docs.google.com/document/d/1Tk2kjVbq5UYFXiSCGR1WnxLG1ffIT8fx/edit#heading=h.c1s2jebuipjo",
+          "downloadUrl": "https://docs.google.com/document/d/1Tk2kjVbq5UYFXiSCGR1WnxLG1ffIT8fx/edit#heading=h.c1s2jebuipjo",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Clusters, Custom Territories, Design Features",
+      "lectures": [
+        {
+          "id": "td-tableau-56",
+          "title": "The Challenge - Startup Expansion Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKa6Br4dey/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKa6Br4dey/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKa6Br4dey/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-57",
+          "title": "Custom Territories Via Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FJGcS9jRbG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FJGcS9jRbG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FJGcS9jRbG/video.m3u8",
+          "duration": 640,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-58",
+          "title": "Custom Territories Via Geographic Roles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaYkjRSRYXR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaYkjRSRYXR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaYkjRSRYXR/video.m3u8",
+          "duration": 445,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-59",
+          "title": "Clustering in Tableau",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bM5sb2sj7d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bM5sb2sj7d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bM5sb2sj7d/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-60",
+          "title": "Adding a Highlighter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65YY7AScaG8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65YY7AScaG8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65YY7AScaG8/video.m3u8",
+          "duration": 405,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-61",
+          "title": "Cross-Database Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y5ARGrj72G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y5ARGrj72G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y5ARGrj72G/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-62",
+          "title": "Modelling With Clusters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99EygECQ4rF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99EygECQ4rF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99EygECQ4rF/video.m3u8",
+          "duration": 909,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-63",
+          "title": "Saving Your Clusters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d3zGDrxEBU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d3zGDrxEBU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d3zGDrxEBU/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-64",
+          "title": "New Mobile Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84pNsfE9xjP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84pNsfE9xjP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84pNsfE9xjP/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-65",
+          "title": "Section Recap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpCzk9xDAT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpCzk9xDAT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpCzk9xDAT/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tableau Toolkit",
+      "lectures": [
+        {
+          "id": "td-tableau-66",
+          "title": "Section Intro 9",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKrqQYHQCsC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKrqQYHQCsC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKrqQYHQCsC/video.m3u8",
+          "duration": 227,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-67",
+          "title": "Data From PDF Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pBpHckcjr82/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pBpHckcjr82/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pBpHckcjr82/video.m3u8",
+          "duration": 331,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-68",
+          "title": "Connecting to PDF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GQyQNBf5aD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GQyQNBf5aD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GQyQNBf5aD/video.m3u8",
+          "duration": 791,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-69",
+          "title": "Connecting to Spatial Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/388XAjDEnAd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/388XAjDEnAd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/388XAjDEnAd/video.m3u8",
+          "duration": 537,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-70",
+          "title": "Joining to Spatial Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QJ6f7hk4ZQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QJ6f7hk4ZQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QJ6f7hk4ZQ/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-71",
+          "title": "Putting It All Together",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARQUhK7Uej4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARQUhK7Uej4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARQUhK7Uej4/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-72",
+          "title": "Step and Jump Line Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qg9szKtbZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qg9szKtbZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qg9szKtbZk/video.m3u8",
+          "duration": 693,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-73",
+          "title": "Viz in Tooltip",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5hgeE5tbhJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5hgeE5tbhJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5hgeE5tbhJ/video.m3u8",
+          "duration": 894,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Conclusion",
+      "lectures": [
+        {
+          "id": "td-tableau-74",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PK3xZaHH7F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PK3xZaHH7F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PK3xZaHH7F/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-75",
+          "title": "Thank You Video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YaZUXpmDx4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YaZUXpmDx4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YaZUXpmDx4/video.m3u8",
+          "duration": 52,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-tableau-15",
+          "title": "Tableau Project",
+          "url": "https://docs.google.com/document/d/1zHAWMK2uf_YE6vO48KJWnpLiHHqAH7SouNBoYrFFt4g/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1zHAWMK2uf_YE6vO48KJWnpLiHHqAH7SouNBoYrFFt4g/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1zHAWMK2uf_YE6vO48KJWnpLiHHqAH7SouNBoYrFFt4g/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1zHAWMK2uf_YE6vO48KJWnpLiHHqAH7SouNBoYrFFt4g/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Job Readiness & Placement Support",
+      "lectures": [
+        {
+          "id": "td-tableau-76",
+          "title": "Building a Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djB9uyetBs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djB9uyetBs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djB9uyetBs/video.m3u8",
+          "duration": 3505,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-77",
+          "title": "Customizing the Resume as per Job Description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bd7N5PN2fd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bd7N5PN2fd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bd7N5PN2fd/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-78",
+          "title": "How to Apply for Jobs Internships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fub3adypDj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fub3adypDj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fub3adypDj/video.m3u8",
+          "duration": 3371,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-79",
+          "title": "Interview Preparation tricks and tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6G7774a32R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6G7774a32R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6G7774a32R/video.m3u8",
+          "duration": 1483,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-80",
+          "title": "Additional things to make profile stronger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghKNkYxKD7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghKNkYxKD7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghKNkYxKD7y/video.m3u8",
+          "duration": 1580,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-81",
+          "title": "Mock Interview Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "duration": 2215,
+          "type": "video"
+        },
+        {
+          "id": "td-tableau-82",
+          "title": "Tableau Career Guide",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Np93HxBbCd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Np93HxBbCd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Np93HxBbCd/video.m3u8",
+          "duration": 1773,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

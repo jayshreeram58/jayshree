@@ -1,0 +1,1021 @@
+{
+  "platform": "TuteDude",
+  "batchId": "iac",
+  "batchSlug": "iac",
+  "batchName": "Infrastructure as Code",
+  "thumbnail": "https://www.tutedude.com/assets/avif/iac.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/iac",
+  "totalSections": 9,
+  "totalLectures": 94,
+  "totalNotes": 11,
+  "price": "699.00",
+  "category": "DevOps & Cloud",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-iac-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to IaC",
+      "lectures": [
+        {
+          "id": "td-iac-2",
+          "title": "Introduction to IaC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKKKntEZre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKKKntEZre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKKKntEZre/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-3",
+          "title": "IaC vs Traditional (manual) provisioning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YcE6EaFBRY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YcE6EaFBRY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YcE6EaFBRY/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-4",
+          "title": "Declarative vs Imperative Approach",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXAJUK4YeN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXAJUK4YeN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXAJUK4YeN/video.m3u8",
+          "duration": 392,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-5",
+          "title": "Declarative workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eF7ztS93jYA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eF7ztS93jYA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eF7ztS93jYA/video.m3u8",
+          "duration": 156,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction Infrastructure Resources",
+      "lectures": [
+        {
+          "id": "td-iac-6",
+          "title": "Section Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Bxm5reJ7Qa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Bxm5reJ7Qa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Bxm5reJ7Qa/video.m3u8",
+          "duration": 126,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-7",
+          "title": "What is a cloud provider",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xEqPrMUMJA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xEqPrMUMJA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xEqPrMUMJA/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-8",
+          "title": "S3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XHRT7Pxfak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XHRT7Pxfak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XHRT7Pxfak/video.m3u8",
+          "duration": 322,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-9",
+          "title": "EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tGK33y4r2er/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tGK33y4r2er/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tGK33y4r2er/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-10",
+          "title": "VPC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G5yRUpQ44Nf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G5yRUpQ44Nf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G5yRUpQ44Nf/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-11",
+          "title": "RDS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UJDSsE5Ukx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UJDSsE5Ukx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UJDSsE5Ukx/video.m3u8",
+          "duration": 218,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-12",
+          "title": "EKS & ECS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mRBa3sBHC8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mRBa3sBHC8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mRBa3sBHC8/video.m3u8",
+          "duration": 358,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-13",
+          "title": "Nginx & Apache",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryxFkTq3kF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryxFkTq3kF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryxFkTq3kF/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-14",
+          "title": "Making an AWS account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC9u6NJsdq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC9u6NJsdq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC9u6NJsdq/video.m3u8",
+          "duration": 170,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-15",
+          "title": "Hands On- Launching an EC2 instance to install tools using bash scripting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8snkX7G2Kpe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8snkX7G2Kpe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8snkX7G2Kpe/video.m3u8",
+          "duration": 1087,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-16",
+          "title": "Installing VS Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ns2HmZnhNQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ns2HmZnhNQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ns2HmZnhNQ/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Terraform",
+      "lectures": [
+        {
+          "id": "td-iac-17",
+          "title": "IAC with Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ue2gCXqQFG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ue2gCXqQFG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ue2gCXqQFG/video.m3u8",
+          "duration": 63,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-18",
+          "title": "Life cycle and CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ey6KEST35H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ey6KEST35H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ey6KEST35H/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-19",
+          "title": "HCL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TJSK7KcfSzT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TJSK7KcfSzT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TJSK7KcfSzT/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-20",
+          "title": "HCL Blocks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kNquQS359Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kNquQS359Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kNquQS359Q/video.m3u8",
+          "duration": 227,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-21",
+          "title": "Benefits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMh8Zd2R53a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMh8Zd2R53a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMh8Zd2R53a/video.m3u8",
+          "duration": 611,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-22",
+          "title": "TF Providers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SuTtQsdZBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SuTtQsdZBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SuTtQsdZBr/video.m3u8",
+          "duration": 382,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-23",
+          "title": "Hands On - Main.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yKYKreMTN7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yKYKreMTN7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yKYKreMTN7/video.m3u8",
+          "duration": 1555,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-24",
+          "title": "Hands On - Deploying Main.tf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXmmz8uhXhf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXmmz8uhXhf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXmmz8uhXhf/video.m3u8",
+          "duration": 1092,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-25",
+          "title": "Terraform File Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/882unFHY4eP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/882unFHY4eP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/882unFHY4eP/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-26",
+          "title": "State Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8m7369Axpz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8m7369Axpz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8m7369Axpz/video.m3u8",
+          "duration": 277,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-27",
+          "title": "Hands On - State Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pNmQzqRcJ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pNmQzqRcJ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pNmQzqRcJ2/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-28",
+          "title": "IAM Roles using Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZFBFYgXd7X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZFBFYgXd7X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZFBFYgXd7X/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-29",
+          "title": "IAM users using Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aNSJejBHSR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aNSJejBHSR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aNSJejBHSR/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-30",
+          "title": "Deploying IAM users using Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zDn4EK6G5C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zDn4EK6G5C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zDn4EK6G5C/video.m3u8",
+          "duration": 758,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-31",
+          "title": "Workspaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUyszc9EqdM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUyszc9EqdM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUyszc9EqdM/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-32",
+          "title": "Hands On - Workspaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mnXzxJXpx7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mnXzxJXpx7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mnXzxJXpx7/video.m3u8",
+          "duration": 1410,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-33",
+          "title": "Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sa2z8NNTe6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sa2z8NNTe6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sa2z8NNTe6/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-34",
+          "title": "[PROJECT]- CI/CD pipeline development of EKS Cluster with Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FzrYZDaXzE6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FzrYZDaXzE6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FzrYZDaXzE6/video.m3u8",
+          "duration": 7723,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-5",
+          "title": "Assignment: Create a Simple EC2 Instance Using Terraform on EC2",
+          "url": "https://docs.google.com/document/d/1R23WRyL9aY97NAj0VP3qrLTfgSmU_78D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1R23WRyL9aY97NAj0VP3qrLTfgSmU_78D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1R23WRyL9aY97NAj0VP3qrLTfgSmU_78D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1R23WRyL9aY97NAj0VP3qrLTfgSmU_78D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-iac-6",
+          "title": "Assignment: Demonstrate Workspace Management on Terraform on EC2",
+          "url": "https://docs.google.com/document/d/1RoXviGCiFdGXFuTkooG9Id5ijn6TR5AG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1RoXviGCiFdGXFuTkooG9Id5ijn6TR5AG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1RoXviGCiFdGXFuTkooG9Id5ijn6TR5AG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1RoXviGCiFdGXFuTkooG9Id5ijn6TR5AG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Ansible",
+      "lectures": [
+        {
+          "id": "td-iac-35",
+          "title": "What is Ansible",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzqZkUPgAtA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzqZkUPgAtA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzqZkUPgAtA/video.m3u8",
+          "duration": 1007,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-36",
+          "title": "Understanding YAML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3samSJb6FZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3samSJb6FZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3samSJb6FZ/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-37",
+          "title": "Ansible Playbooks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NBjunzrQ6f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NBjunzrQ6f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NBjunzrQ6f/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-38",
+          "title": "Hands On Simple Ansible PLaybook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T7cC6c9TRC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T7cC6c9TRC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T7cC6c9TRC/video.m3u8",
+          "duration": 345,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-39",
+          "title": "Hands On Creating Resources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/592d6PRSQ2f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/592d6PRSQ2f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/592d6PRSQ2f/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-40",
+          "title": "Hands On Deployment Playbook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37nBZmzYYH7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37nBZmzYYH7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37nBZmzYYH7/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-41",
+          "title": "[PROJECT-1]- AWS Infrastructure Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ff7DQjeQny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ff7DQjeQny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ff7DQjeQny/video.m3u8",
+          "duration": 526,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-42",
+          "title": "[PROJECT-1] - Understanding Playbooks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/535RUmqudZs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/535RUmqudZs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/535RUmqudZs/video.m3u8",
+          "duration": 1084,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-43",
+          "title": "[PROJECT-1] - Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J72rQX3j7tK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J72rQX3j7tK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J72rQX3j7tK/video.m3u8",
+          "duration": 1340,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-44",
+          "title": "[PROJECT-1] - Verifying Infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KDcmgmBrnE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KDcmgmBrnE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KDcmgmBrnE/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-45",
+          "title": "[PROJECT-2] - Web App Deployment with Ansible",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UNF5EZBTUJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UNF5EZBTUJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UNF5EZBTUJ/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-46",
+          "title": "[PROJECT-2]- Understanding directory structure, playbooks and configs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KQ7kEqjCbf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KQ7kEqjCbf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KQ7kEqjCbf/video.m3u8",
+          "duration": 1211,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-47",
+          "title": "[PROJECT-2]- Deployment of web app",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC8gHqGpf4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC8gHqGpf4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC8gHqGpf4/video.m3u8",
+          "duration": 840,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-8",
+          "title": "Assignment: Deploy a Simple S3 Bucket Using Ansible on EC2",
+          "url": "https://docs.google.com/document/d/1fgevNfsiK1bYFFNn7xMhUwi46riK3_59/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fgevNfsiK1bYFFNn7xMhUwi46riK3_59/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fgevNfsiK1bYFFNn7xMhUwi46riK3_59/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fgevNfsiK1bYFFNn7xMhUwi46riK3_59/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-iac-9",
+          "title": "Assignment: Deploy an EC2 Instance Using Ansible on EC2",
+          "url": "https://docs.google.com/document/d/1QKjbA4w3kWd6CSZ4XjTMypWDMUP62z7O/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QKjbA4w3kWd6CSZ4XjTMypWDMUP62z7O/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QKjbA4w3kWd6CSZ4XjTMypWDMUP62z7O/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QKjbA4w3kWd6CSZ4XjTMypWDMUP62z7O/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CloudFormation",
+      "lectures": [
+        {
+          "id": "td-iac-48",
+          "title": "AWS Cloud Formation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n5J7J2J2aqt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n5J7J2J2aqt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n5J7J2J2aqt/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-49",
+          "title": "Conditions & Outputs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ATKAuEFYuu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ATKAuEFYuu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ATKAuEFYuu/video.m3u8",
+          "duration": 173,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-50",
+          "title": "Parameters & Mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aZq7uqP2Ae/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aZq7uqP2Ae/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aZq7uqP2Ae/video.m3u8",
+          "duration": 141,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-51",
+          "title": "Stack Lifecycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ZsDy6rMk6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ZsDy6rMk6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ZsDy6rMk6/video.m3u8",
+          "duration": 778,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-52",
+          "title": "Hands On- Simple EC2 instance JSON",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGyhNaXmTx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGyhNaXmTx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGyhNaXmTx/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-53",
+          "title": "Hands On- Simple EC2 instance YAML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8rSCjBBKpP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8rSCjBBKpP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8rSCjBBKpP/video.m3u8",
+          "duration": 1137,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-54",
+          "title": "Hands On- Deploying EC2 and S3 YAML&JSON files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kgfsZP7xmD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kgfsZP7xmD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kgfsZP7xmD/video.m3u8",
+          "duration": 944,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-55",
+          "title": "Hands On- Constructing code & Deploying Simple S3 Bucket & VPC ARCH",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76tqa5YJu8f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76tqa5YJu8f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76tqa5YJu8f/video.m3u8",
+          "duration": 1235,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-56",
+          "title": "AWS Infrastructure Composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Db5XJ2XZft/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Db5XJ2XZft/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Db5XJ2XZft/video.m3u8",
+          "duration": 552,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-57",
+          "title": "[PROJECT]- Provisioning Infra with AWS Infrastructure Composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z26sKCcnxH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z26sKCcnxH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z26sKCcnxH/video.m3u8",
+          "duration": 905,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-11",
+          "title": "Assignment: Deploy an EC2 Instance Using CloudFormation on EC2",
+          "url": "https://docs.google.com/document/d/1TBrbazlTEY4qn747QR7uE74ZJcWkiMcU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TBrbazlTEY4qn747QR7uE74ZJcWkiMcU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TBrbazlTEY4qn747QR7uE74ZJcWkiMcU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TBrbazlTEY4qn747QR7uE74ZJcWkiMcU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-iac-12",
+          "title": "Assignment: Design a Simple VPC Architecture Using AWS Infrastructure Composer",
+          "url": "https://docs.google.com/document/d/1H7_P31aBnMtdCHw71zN5STFEcG98u9hA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1H7_P31aBnMtdCHw71zN5STFEcG98u9hA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1H7_P31aBnMtdCHw71zN5STFEcG98u9hA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1H7_P31aBnMtdCHw71zN5STFEcG98u9hA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CDK",
+      "lectures": [
+        {
+          "id": "td-iac-58",
+          "title": "Introduction to CDK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qCyzhNktCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qCyzhNktCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qCyzhNktCA/video.m3u8",
+          "duration": 1140,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-59",
+          "title": "Typescript s3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-60",
+          "title": "Typescript ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-61",
+          "title": "Javascript s3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG49bSUcEHR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG49bSUcEHR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG49bSUcEHR/video.m3u8",
+          "duration": 376,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-62",
+          "title": "Javascript ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mR5zFj43Hh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mR5zFj43Hh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mR5zFj43Hh/video.m3u8",
+          "duration": 409,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-63",
+          "title": "Java s3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZezhHFHG9c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZezhHFHG9c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZezhHFHG9c/video.m3u8",
+          "duration": 652,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-64",
+          "title": "Java ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXxXBXMRdT2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXxXBXMRdT2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXxXBXMRdT2/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-65",
+          "title": "Python s3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y258B3UR3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y258B3UR3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y258B3UR3e/video.m3u8",
+          "duration": 565,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-66",
+          "title": "Python ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y4PddBpshX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y4PddBpshX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y4PddBpshX/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-67",
+          "title": "C# s3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKgDx46X5e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKgDx46X5e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKgDx46X5e/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-68",
+          "title": "C# ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h7x5mMK4RB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h7x5mMK4RB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h7x5mMK4RB/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-69",
+          "title": "Hands On- Deploying Simple S3 Resource",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sQUCPXrMHG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sQUCPXrMHG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sQUCPXrMHG/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-14",
+          "title": "Assignment: Deploy an EC2 Instance Using AWS CDK",
+          "url": "https://docs.google.com/document/d/1AHrH42ldgatqCMe9qs-iggEpGYoFt882/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1AHrH42ldgatqCMe9qs-iggEpGYoFt882/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1AHrH42ldgatqCMe9qs-iggEpGYoFt882/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1AHrH42ldgatqCMe9qs-iggEpGYoFt882/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pulumi",
+      "lectures": [
+        {
+          "id": "td-iac-70",
+          "title": "Section Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55XfT7xzeSg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55XfT7xzeSg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55XfT7xzeSg/video.m3u8",
+          "duration": 48,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-71",
+          "title": "What is Pulumi",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rSQktpqdnTM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rSQktpqdnTM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rSQktpqdnTM/video.m3u8",
+          "duration": 544,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-72",
+          "title": "Stacks & Environments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GN6zhNm7u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GN6zhNm7u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GN6zhNm7u/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-73",
+          "title": "Typescript S3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-74",
+          "title": "Typescript EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-75",
+          "title": "Javascript S3+EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cHFj8tNkh5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cHFj8tNkh5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cHFj8tNkh5/video.m3u8",
+          "duration": 640,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-76",
+          "title": "Ruby S3+EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6972KNEY7Q8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6972KNEY7Q8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6972KNEY7Q8/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-77",
+          "title": "Python S3+EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FBd7eHtqyQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FBd7eHtqyQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FBd7eHtqyQ/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-78",
+          "title": "Hands On- Deploying Infrastructure using pulumi",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yGAQukSsmd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yGAQukSsmd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yGAQukSsmd/video.m3u8",
+          "duration": 1352,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-79",
+          "title": "Pulumi Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kgs4qkKxXC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kgs4qkKxXC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kgs4qkKxXC/video.m3u8",
+          "duration": 175,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-16",
+          "title": "Assignment: Create an S3 Bucket Using Pulumi",
+          "url": "https://docs.google.com/document/d/1UNDY5csynn43XmHYcnueU1SDSf0D91jA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UNDY5csynn43XmHYcnueU1SDSf0D91jA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UNDY5csynn43XmHYcnueU1SDSf0D91jA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UNDY5csynn43XmHYcnueU1SDSf0D91jA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-iac-17",
+          "title": "Assignment: Deploy an EC2 Instance Using Pulumi",
+          "url": "https://docs.google.com/document/d/18vsyBID-_9KKT3kIqAb_20accjhFSfCJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18vsyBID-_9KKT3kIqAb_20accjhFSfCJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18vsyBID-_9KKT3kIqAb_20accjhFSfCJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18vsyBID-_9KKT3kIqAb_20accjhFSfCJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Puppet & Chef",
+      "lectures": [
+        {
+          "id": "td-iac-80",
+          "title": "What is puppet?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qtUJ93Ssdde/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qtUJ93Ssdde/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qtUJ93Ssdde/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-81",
+          "title": "Puppet DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b3g6C5SFyGc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b3g6C5SFyGc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b3g6C5SFyGc/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-82",
+          "title": "Simple S3 bucket on puppet DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aCABzerEzT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aCABzerEzT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aCABzerEzT/video.m3u8",
+          "duration": 750,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-83",
+          "title": "EC2 on puppet DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDtYhMmSbD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDtYhMmSbD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDtYhMmSbD/video.m3u8",
+          "duration": 1031,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-84",
+          "title": "Hands On- Deploying S3 Bucket using Puppet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEE56hRDN6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEE56hRDN6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEE56hRDN6/video.m3u8",
+          "duration": 762,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-85",
+          "title": "Hands On- Deploying EC2 instance using Puppet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYEnG6KTeUe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYEnG6KTeUe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYEnG6KTeUe/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-86",
+          "title": "What is Chef?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8bsz3SPEnF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8bsz3SPEnF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8bsz3SPEnF/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-87",
+          "title": "Chef Ruby DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsXn7CAk4h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsXn7CAk4h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsXn7CAk4h/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-88",
+          "title": "S3 bucket on Chef Ruby DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByHqAJuX3UK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByHqAJuX3UK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByHqAJuX3UK/video.m3u8",
+          "duration": 708,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-89",
+          "title": "EC2 instance on Chef Ruby DSL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jygjqAqmNTf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jygjqAqmNTf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jygjqAqmNTf/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-90",
+          "title": "Deploy EC2 instance using Chef",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZTH8nHEg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZTH8nHEg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZTH8nHEg6/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-91",
+          "title": "[PROJECT]- Understanding vpc-deploy.sh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CN8GdcKDy7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CN8GdcKDy7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CN8GdcKDy7/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-92",
+          "title": "[PROJECT]- Understanding vpc-destroy.sh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApFuPASKDXd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApFuPASKDXd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApFuPASKDXd/video.m3u8",
+          "duration": 222,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-93",
+          "title": "[PROJECT] - VPC Architecture with Chef",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DrCez4Ba5z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DrCez4Ba5z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DrCez4Ba5z/video.m3u8",
+          "duration": 497,
+          "type": "video"
+        },
+        {
+          "id": "td-iac-94",
+          "title": "Chef vs Puppet vs Manual provisioning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eDMhQaDKcu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eDMhQaDKcu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eDMhQaDKcu/video.m3u8",
+          "duration": 219,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-iac-19",
+          "title": "Assignment: Provision an AWS S3 Bucket Using Puppet",
+          "url": "https://docs.google.com/document/d/18qEhq7NsWGNE7CEv0PVnYELGoftwXATR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18qEhq7NsWGNE7CEv0PVnYELGoftwXATR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18qEhq7NsWGNE7CEv0PVnYELGoftwXATR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18qEhq7NsWGNE7CEv0PVnYELGoftwXATR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-iac-20",
+          "title": "Assignment: Provision S3 Bucket Infrastructure Using Chef",
+          "url": "https://docs.google.com/document/d/1dZPFkTGhr9oBF5_ZxJNZ0olcSRVqrbeu/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dZPFkTGhr9oBF5_ZxJNZ0olcSRVqrbeu/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dZPFkTGhr9oBF5_ZxJNZ0olcSRVqrbeu/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dZPFkTGhr9oBF5_ZxJNZ0olcSRVqrbeu/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2606 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dockerandkubernetes",
+  "batchSlug": "dockerandkubernetes",
+  "batchName": "Docker and Kubernetes",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dockerandkubernetes.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dockerandkubernetes",
+  "totalSections": 28,
+  "totalLectures": 235,
+  "totalNotes": 32,
+  "price": "699.00",
+  "category": "DevOps & Cloud",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Welcome",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-2",
+          "title": "Docker and Kubernetes Course Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JpxU6Tr9fP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JpxU6Tr9fP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JpxU6Tr9fP/video.m3u8",
+          "duration": 424,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to docker",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-3",
+          "title": "Introduction to docker Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QADM9fqU9Gs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QADM9fqU9Gs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QADM9fqU9Gs/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-4",
+          "title": "Introduction to containers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Khm5YK6ZYU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Khm5YK6ZYU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Khm5YK6ZYU/video.m3u8",
+          "duration": 704,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-5",
+          "title": "Introduction to docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p6eEQM676Pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p6eEQM676Pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p6eEQM676Pa/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-6",
+          "title": "Docker workflow, architecture and components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68UXXHsS7Tz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68UXXHsS7Tz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68UXXHsS7Tz/video.m3u8",
+          "duration": 1335,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Installing tools",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-7",
+          "title": "Installing tools Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-8",
+          "title": "Installing docker on linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fr5fdp5HZx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fr5fdp5HZx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fr5fdp5HZx/video.m3u8",
+          "duration": 147,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-9",
+          "title": "Hands On - Installing docker on linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQmXG4UTnhh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQmXG4UTnhh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQmXG4UTnhh/video.m3u8",
+          "duration": 574,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-10",
+          "title": "Installing docker on windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xYXGAQAshE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xYXGAQAshE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xYXGAQAshE/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-11",
+          "title": "Hands On - Installing docker on windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6McDCQ9sfgY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6McDCQ9sfgY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6McDCQ9sfgY/video.m3u8",
+          "duration": 188,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-12",
+          "title": "Hands On installing docker on windows part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GXGhgjGbxP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GXGhgjGbxP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GXGhgjGbxP/video.m3u8",
+          "duration": 199,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-13",
+          "title": "Hands On installing docker on windows part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Unt2Azdy2J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Unt2Azdy2J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Unt2Azdy2J/video.m3u8",
+          "duration": 1270,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-14",
+          "title": "Removing installations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KYCRQ4XP9C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KYCRQ4XP9C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KYCRQ4XP9C/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-15",
+          "title": "Node.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m84HY6e89b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m84HY6e89b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m84HY6e89b/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-16",
+          "title": "Hands On Installing Node.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mzfxN6YDua/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mzfxN6YDua/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mzfxN6YDua/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-17",
+          "title": "Postman",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8z3Dqp8Mr6B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8z3Dqp8Mr6B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8z3Dqp8Mr6B/video.m3u8",
+          "duration": 239,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-18",
+          "title": "Installing Postman",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M2cS2TU75a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M2cS2TU75a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M2cS2TU75a/video.m3u8",
+          "duration": 290,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-19",
+          "title": "Vs Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuDeSTDM5N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuDeSTDM5N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuDeSTDM5N/video.m3u8",
+          "duration": 135,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-20",
+          "title": "Installing Vs Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q7fSk7PQyy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q7fSk7PQyy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q7fSk7PQyy/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-21",
+          "title": "Understanding EC2 and traffic management before we start",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZtnN9jZcNY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZtnN9jZcNY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZtnN9jZcNY/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-22",
+          "title": "Installing tools Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-23",
+          "title": "Installing instructions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQrCmtKXmh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQrCmtKXmh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQrCmtKXmh/video.m3u8",
+          "duration": 183,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-24",
+          "title": "Installing kind, kubectl and docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86XMTbnYkQK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86XMTbnYkQK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86XMTbnYkQK/video.m3u8",
+          "duration": 704,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Running containers with docker",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-25",
+          "title": "Running containers with docker Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CsPPmTRraj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CsPPmTRraj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CsPPmTRraj/video.m3u8",
+          "duration": 54,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-26",
+          "title": "Container Lifecycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4Z5n5rS38/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4Z5n5rS38/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4Z5n5rS38/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-27",
+          "title": "Running docker with docker cli",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6teP5kygxPF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6teP5kygxPF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6teP5kygxPF/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-28",
+          "title": "Hands On - Docker CLI part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ASrr4gF8A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ASrr4gF8A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ASrr4gF8A/video.m3u8",
+          "duration": 850,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-29",
+          "title": "Hands On - Docker CLI part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtEzg6Pud8b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtEzg6Pud8b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtEzg6Pud8b/video.m3u8",
+          "duration": 1943,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-30",
+          "title": "Hands On - Docker CLI (advance level commands) part - 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5hZUrN5ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5hZUrN5ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5hZUrN5ad/video.m3u8",
+          "duration": 1908,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-6",
+          "title": "Installing Docker on an EC2 Instance",
+          "url": "https://docs.google.com/document/d/1GQGoHT-myKcpaZwfn0kR6kzPSbxftXFJ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1GQGoHT-myKcpaZwfn0kR6kzPSbxftXFJ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1GQGoHT-myKcpaZwfn0kR6kzPSbxftXFJ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1GQGoHT-myKcpaZwfn0kR6kzPSbxftXFJ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project - Nginx",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-31",
+          "title": "What is Nginx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fjHzMmE8C55/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fjHzMmE8C55/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fjHzMmE8C55/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-32",
+          "title": "Nginx Project-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Md6yeEPx84/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Md6yeEPx84/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Md6yeEPx84/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-33",
+          "title": "Nginx Project-1 Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCkDQsN2zxa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCkDQsN2zxa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCkDQsN2zxa/video.m3u8",
+          "duration": 1304,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-34",
+          "title": "Nginx Project-1 testing Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccDTpzdQgR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccDTpzdQgR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccDTpzdQgR/video.m3u8",
+          "duration": 196,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-35",
+          "title": "Nginx Project-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUY9MKXy33X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUY9MKXy33X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUY9MKXy33X/video.m3u8",
+          "duration": 771,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-36",
+          "title": "Nginx Project-2 Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEUmrYu7rhy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEUmrYu7rhy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEUmrYu7rhy/video.m3u8",
+          "duration": 1510,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-8",
+          "title": "Install and Run Nginx Using Docker on EC2",
+          "url": "https://docs.google.com/document/d/18F-wU89QbZ96cEVMkLPxFXaO6qdxxKSm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18F-wU89QbZ96cEVMkLPxFXaO6qdxxKSm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18F-wU89QbZ96cEVMkLPxFXaO6qdxxKSm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18F-wU89QbZ96cEVMkLPxFXaO6qdxxKSm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Images",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-37",
+          "title": "Introduction to Images Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgcqsB4dtRK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgcqsB4dtRK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgcqsB4dtRK/video.m3u8",
+          "duration": 71,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-38",
+          "title": "Docker Images a deeper dive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RSk9DMqJg7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RSk9DMqJg7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RSk9DMqJg7/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-39",
+          "title": "Container Registries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9RJbZrNCS7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9RJbZrNCS7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9RJbZrNCS7/video.m3u8",
+          "duration": 679,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-40",
+          "title": "Hands On - Docker Hub tutorial",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ECexDn98rF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ECexDn98rF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ECexDn98rF/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-41",
+          "title": "Hands On - Handling images from Docker Hub CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABcG7g64jzZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABcG7g64jzZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABcG7g64jzZ/video.m3u8",
+          "duration": 582,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-42",
+          "title": "Docker Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59CeKzfFPG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59CeKzfFPG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59CeKzfFPG4/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-43",
+          "title": "Hands On - Simple Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dS2haSy7e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dS2haSy7e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dS2haSy7e/video.m3u8",
+          "duration": 694,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-44",
+          "title": "Hands On - Simple Nginx Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MbSkCaTN3n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MbSkCaTN3n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MbSkCaTN3n/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-45",
+          "title": "Hands On - Building a Docker File for Node.js web app",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnMYj6Busqd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnMYj6Busqd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnMYj6Busqd/video.m3u8",
+          "duration": 559,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-46",
+          "title": "Hands On - Implementing Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeUUkNfyQf7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeUUkNfyQf7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeUUkNfyQf7/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-47",
+          "title": "Hands On - copying local docker files into our image",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EmDc4sx5FZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EmDc4sx5FZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EmDc4sx5FZ/video.m3u8",
+          "duration": 690,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-48",
+          "title": "Docker Images vs Containers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82nH8dSc5nT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82nH8dSc5nT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82nH8dSc5nT/video.m3u8",
+          "duration": 554,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-10",
+          "title": "Docker Image Management on EC2",
+          "url": "https://docs.google.com/document/d/19SyN4sR9Dmow41jj4JOoHm4awY4_IwkK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19SyN4sR9Dmow41jj4JOoHm4awY4_IwkK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19SyN4sR9Dmow41jj4JOoHm4awY4_IwkK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19SyN4sR9Dmow41jj4JOoHm4awY4_IwkK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-11",
+          "title": "Building a Docker Image Using a Dockerfile on EC2",
+          "url": "https://docs.google.com/document/d/171D2g8woz9mE3y0jI7Fm1K7QOiu2xW-t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/171D2g8woz9mE3y0jI7Fm1K7QOiu2xW-t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/171D2g8woz9mE3y0jI7Fm1K7QOiu2xW-t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/171D2g8woz9mE3y0jI7Fm1K7QOiu2xW-t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project -Containerizing Express App",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-49",
+          "title": "Containerizing an Express app",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ppkxNFkZjJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ppkxNFkZjJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ppkxNFkZjJ/video.m3u8",
+          "duration": 608,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-50",
+          "title": "Containerizing an Express app Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dRSZ5measA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dRSZ5measA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dRSZ5measA/video.m3u8",
+          "duration": 1170,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-13",
+          "title": "Containerizing an Express.js Application on EC2",
+          "url": "https://docs.google.com/document/d/1HHMi-ie0EVRbWcJWlvkbFdB4K2EpuTuh/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1HHMi-ie0EVRbWcJWlvkbFdB4K2EpuTuh/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1HHMi-ie0EVRbWcJWlvkbFdB4K2EpuTuh/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1HHMi-ie0EVRbWcJWlvkbFdB4K2EpuTuh/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Images deeper dive",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-51",
+          "title": "Docker layered architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5maspfnyhmK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5maspfnyhmK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5maspfnyhmK/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-52",
+          "title": "Environmental variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgEgUk5eDn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgEgUk5eDn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgEgUk5eDn/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-53",
+          "title": "Distroless Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uezkz2PFNQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uezkz2PFNQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uezkz2PFNQ/video.m3u8",
+          "duration": 353,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-54",
+          "title": "Hands On - Docker Layered architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UheY6sbs9r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UheY6sbs9r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UheY6sbs9r/video.m3u8",
+          "duration": 816,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-55",
+          "title": "Hands On - Docker Images Deeper Dive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNcs4AfsxNM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNcs4AfsxNM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNcs4AfsxNM/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-56",
+          "title": "CMD vs Entrypoint vs Env Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CFhZj5aedm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CFhZj5aedm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CFhZj5aedm/video.m3u8",
+          "duration": 462,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-57",
+          "title": "Hands On Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37cPp2BcrUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37cPp2BcrUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37cPp2BcrUU/video.m3u8",
+          "duration": 584,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-58",
+          "title": "Hands On Multistage Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBRhPRSrFAh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBRhPRSrFAh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBRhPRSrFAh/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-59",
+          "title": "Hands On - Running a Multistage Docker File",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a2tPgGX6ch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a2tPgGX6ch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a2tPgGX6ch/video.m3u8",
+          "duration": 942,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-60",
+          "title": "Hands On - Demonstrating Distroless Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6CQS4F2bGx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6CQS4F2bGx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6CQS4F2bGx/video.m3u8",
+          "duration": 1099,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-61",
+          "title": "Hands On - Dockerignore",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaktSsGFqPz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaktSsGFqPz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaktSsGFqPz/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-62",
+          "title": "Docker Images Deeper Dive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49BtU2pDZTP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49BtU2pDZTP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49BtU2pDZTP/video.m3u8",
+          "duration": 61,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-15",
+          "title": "Understanding Docker Layered Architecture on EC2",
+          "url": "https://docs.google.com/document/d/1hSANl1V6Y0wkFrN8Bi_3U0WV_OwTc6Cl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hSANl1V6Y0wkFrN8Bi_3U0WV_OwTc6Cl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hSANl1V6Y0wkFrN8Bi_3U0WV_OwTc6Cl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hSANl1V6Y0wkFrN8Bi_3U0WV_OwTc6Cl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-16",
+          "title": "Multi-Stage Dockerfile on EC2",
+          "url": "https://docs.google.com/document/d/1a9l2pUgRk4fILTsSF3tS4awvIzDRdukx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1a9l2pUgRk4fILTsSF3tS4awvIzDRdukx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1a9l2pUgRk4fILTsSF3tS4awvIzDRdukx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1a9l2pUgRk4fILTsSF3tS4awvIzDRdukx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project-Containerizing React Application",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-63",
+          "title": "Containerzing a React App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndD9MKFgJE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndD9MKFgJE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndD9MKFgJE/video.m3u8",
+          "duration": 535,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-64",
+          "title": "Hands On Containerzing a React App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C37xfCGXbk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C37xfCGXbk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C37xfCGXbk/video.m3u8",
+          "duration": 1255,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-18",
+          "title": "Containerizing a React Application on EC2",
+          "url": "https://docs.google.com/document/d/1VJvCZl3AsQU_vQbiXsfvvmjpcA_7ObES/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1VJvCZl3AsQU_vQbiXsfvvmjpcA_7ObES/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1VJvCZl3AsQU_vQbiXsfvvmjpcA_7ObES/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1VJvCZl3AsQU_vQbiXsfvvmjpcA_7ObES/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Docker Volumes",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-65",
+          "title": "Docker Volumes Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACt8mfb62t8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACt8mfb62t8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACt8mfb62t8/video.m3u8",
+          "duration": 59,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-66",
+          "title": "Docker Volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZEgCxfeRR4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZEgCxfeRR4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZEgCxfeRR4/video.m3u8",
+          "duration": 440,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-67",
+          "title": "Hands On Docker Volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNhtgygRGB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNhtgygRGB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNhtgygRGB/video.m3u8",
+          "duration": 646,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-68",
+          "title": "Data persistence and Bind Mounts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AEfUB4hS9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AEfUB4hS9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AEfUB4hS9/video.m3u8",
+          "duration": 535,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-69",
+          "title": "Named volumes and cli management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdpHab2BKZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdpHab2BKZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdpHab2BKZ/video.m3u8",
+          "duration": 140,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-70",
+          "title": "Hands On building a web app using with persistant data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47XeCYBJ2cC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47XeCYBJ2cC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47XeCYBJ2cC/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-20",
+          "title": "Demonstrate Data persistence on Docker",
+          "url": "https://docs.google.com/document/d/1J-hXso95GQoM2-YJ5kK1pULtQwcdsWzt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1J-hXso95GQoM2-YJ5kK1pULtQwcdsWzt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1J-hXso95GQoM2-YJ5kK1pULtQwcdsWzt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1J-hXso95GQoM2-YJ5kK1pULtQwcdsWzt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced resource management",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-71",
+          "title": "Advanced resource management Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANehxu8xEtK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANehxu8xEtK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANehxu8xEtK/video.m3u8",
+          "duration": 82,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-72",
+          "title": "Resource Management in Docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35r6tMEsUHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35r6tMEsUHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35r6tMEsUHF/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-73",
+          "title": "Limiting CPU usage Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6pPRRJjQn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6pPRRJjQn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6pPRRJjQn/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-74",
+          "title": "Limiting memory usage Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHbKxdbeuY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHbKxdbeuY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHbKxdbeuY/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-75",
+          "title": "Restart policies in Docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SYjzuE7gNt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SYjzuE7gNt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SYjzuE7gNt/video.m3u8",
+          "duration": 215,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-76",
+          "title": "Hands On - Restart Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kpfR6HTbG5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kpfR6HTbG5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kpfR6HTbG5/video.m3u8",
+          "duration": 828,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-77",
+          "title": "Networking in Detail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NyYnRu2jEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NyYnRu2jEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NyYnRu2jEA/video.m3u8",
+          "duration": 575,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-78",
+          "title": "Hands On - Default Bridge Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76n2YTtYEgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76n2YTtYEgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76n2YTtYEgM/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-79",
+          "title": "Hands On - User Defined Bridge Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgqGUcczSBz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgqGUcczSBz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgqGUcczSBz/video.m3u8",
+          "duration": 569,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-80",
+          "title": "Hands On - Host Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97BPD2T34pr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97BPD2T34pr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97BPD2T34pr/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-22",
+          "title": "Limiting CPU and Memory Usage in Docker Containers on EC2",
+          "url": "https://docs.google.com/document/d/1_KTbJ2Ci4wO6HuF_pnqHF59W7lTC68Hi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_KTbJ2Ci4wO6HuF_pnqHF59W7lTC68Hi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_KTbJ2Ci4wO6HuF_pnqHF59W7lTC68Hi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_KTbJ2Ci4wO6HuF_pnqHF59W7lTC68Hi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-23",
+          "title": "Docker Restart Policies on EC2",
+          "url": "https://docs.google.com/document/d/10L2Z4EJUDrk7cnD2ViUADCqs_kTVuv02/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/10L2Z4EJUDrk7cnD2ViUADCqs_kTVuv02/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/10L2Z4EJUDrk7cnD2ViUADCqs_kTVuv02/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/10L2Z4EJUDrk7cnD2ViUADCqs_kTVuv02/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Docker Compose",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-81",
+          "title": "Docker Compose Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKyRBsnxmaq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKyRBsnxmaq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKyRBsnxmaq/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-82",
+          "title": "Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "duration": 462,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-83",
+          "title": "Hands On- Docker Compose Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rekJhqBXts/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rekJhqBXts/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rekJhqBXts/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-84",
+          "title": "Hands On- Building MySQL DB using Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UK3BDtPBYk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UK3BDtPBYk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UK3BDtPBYk/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-85",
+          "title": "Hands On - Using env variables in Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJX3MPTq7PG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJX3MPTq7PG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJX3MPTq7PG/video.m3u8",
+          "duration": 419,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-86",
+          "title": "Hands On - Bind Mount",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmQB7jYKxd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmQB7jYKxd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmQB7jYKxd/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-87",
+          "title": "Hands On - Managing volumes and networks using Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AERt7zS77B9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AERt7zS77B9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AERt7zS77B9/video.m3u8",
+          "duration": 659,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-88",
+          "title": "Building a backend service using Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hNf4mNnFJP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hNf4mNnFJP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hNf4mNnFJP/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-89",
+          "title": "Hands On - Adding a backend service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8THen6ysdMm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8THen6ysdMm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8THen6ysdMm/video.m3u8",
+          "duration": 755,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-90",
+          "title": "Docker Compose comparision",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br7AtktF92K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br7AtktF92K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br7AtktF92K/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-25",
+          "title": "Build a MySQL Database Using Docker Compose on EC2",
+          "url": "https://docs.google.com/document/d/1omI2dioBASd1tjQgq_6pQrr-DW_7QpEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1omI2dioBASd1tjQgq_6pQrr-DW_7QpEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1omI2dioBASd1tjQgq_6pQrr-DW_7QpEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1omI2dioBASd1tjQgq_6pQrr-DW_7QpEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-26",
+          "title": "Add a Backend Service on Docker Compose on EC2",
+          "url": "https://docs.google.com/document/d/18nKQnhJRcbp8xYLiwWODIPx0Y8Fyuacw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18nKQnhJRcbp8xYLiwWODIPx0Y8Fyuacw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18nKQnhJRcbp8xYLiwWODIPx0Y8Fyuacw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18nKQnhJRcbp8xYLiwWODIPx0Y8Fyuacw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Code and deploy an applications with docker compose",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-91",
+          "title": "Containerizing Notes Application using Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ygypczdtG2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ygypczdtG2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ygypczdtG2/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-92",
+          "title": "Package.json",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sp74hxPzT5m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sp74hxPzT5m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sp74hxPzT5m/video.m3u8",
+          "duration": 154,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-93",
+          "title": "Server.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "duration": 408,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-94",
+          "title": "DockerFile 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69R7ZybAdEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69R7ZybAdEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69R7ZybAdEA/video.m3u8",
+          "duration": 71,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-95",
+          "title": "index.html",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjSxtpR5ZDz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjSxtpR5ZDz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjSxtpR5ZDz/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-96",
+          "title": "style.css",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M8SpJ27bfGx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M8SpJ27bfGx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M8SpJ27bfGx/video.m3u8",
+          "duration": 59,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-97",
+          "title": "app.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XzPDS9NdEj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XzPDS9NdEj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XzPDS9NdEj/video.m3u8",
+          "duration": 396,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-98",
+          "title": "Docker compose.yaml",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8",
+          "duration": 462,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-99",
+          "title": "Compiling our code on docker compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xSR9tMGXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xSR9tMGXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xSR9tMGXZ/video.m3u8",
+          "duration": 1258,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-28",
+          "title": "Code and Deploy a Full Application Using Docker Compose on EC2",
+          "url": "https://docs.google.com/document/d/1VU-Cj8oE8Svm8J2FVHdvMxrhCsVtU3BV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1VU-Cj8oE8Svm8J2FVHdvMxrhCsVtU3BV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1VU-Cj8oE8Svm8J2FVHdvMxrhCsVtU3BV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1VU-Cj8oE8Svm8J2FVHdvMxrhCsVtU3BV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Exam + Interview Preparation [Docker]",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-100",
+          "title": "Exam + Interview Preparation [Docker] Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKbk6xqpB5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKbk6xqpB5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKbk6xqpB5/video.m3u8",
+          "duration": 110,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-101",
+          "title": "Basic Docker Concepts (easy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TdcRUBBd7Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TdcRUBBd7Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TdcRUBBd7Q/video.m3u8",
+          "duration": 443,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-102",
+          "title": "Docker Architecture (easy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFMJdyyddk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFMJdyyddk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFMJdyyddk/video.m3u8",
+          "duration": 390,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-103",
+          "title": "Basic Docker Commands (easy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hauTc7Fx56/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hauTc7Fx56/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hauTc7Fx56/video.m3u8",
+          "duration": 379,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-104",
+          "title": "Docker File (easy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xmBnruHAp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xmBnruHAp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xmBnruHAp/video.m3u8",
+          "duration": 510,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-105",
+          "title": "Docker Storage and Networking (easy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnydcdsXnp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnydcdsXnp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnydcdsXnp/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-106",
+          "title": "Docker Images (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y2N4fndG5uN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y2N4fndG5uN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y2N4fndG5uN/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-107",
+          "title": "Docker Networking (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQ2BgnT3Rk9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQ2BgnT3Rk9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQ2BgnT3Rk9/video.m3u8",
+          "duration": 256,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-108",
+          "title": "Docker Storage (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9km8YytYYeH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9km8YytYYeH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9km8YytYYeH/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-109",
+          "title": "Docker Runtime (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JKJTqBeXxz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JKJTqBeXxz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JKJTqBeXxz/video.m3u8",
+          "duration": 226,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-110",
+          "title": "Docker Compose (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ub8gDe8GRf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ub8gDe8GRf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ub8gDe8GRf/video.m3u8",
+          "duration": 105,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-111",
+          "title": "Docker Security (Moderate)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g64SymJNdp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g64SymJNdp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g64SymJNdp/video.m3u8",
+          "duration": 250,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Kubernetes",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-112",
+          "title": "Introduction to Kubernetes Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gyyfdu6AUg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gyyfdu6AUg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gyyfdu6AUg/video.m3u8",
+          "duration": 70,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-113",
+          "title": "Introduction to Kubernetes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526r73zkS8g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526r73zkS8g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526r73zkS8g/video.m3u8",
+          "duration": 1459,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-114",
+          "title": "Control Plane an essential part of k8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqCGyef72XF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqCGyef72XF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqCGyef72XF/video.m3u8",
+          "duration": 518,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-115",
+          "title": "Data Plane an essential part of k8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MH5kea2CGM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MH5kea2CGM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MH5kea2CGM/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-116",
+          "title": "Kubect - interaction between user and cluster",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGxcaCUD2AD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGxcaCUD2AD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGxcaCUD2AD/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Running containers on K8s",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-117",
+          "title": "Running containers on K8s Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SSPnqHf8Cj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SSPnqHf8Cj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SSPnqHf8Cj/video.m3u8",
+          "duration": 48,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-118",
+          "title": "Introduction to Pods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fqF22kG3Qt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fqF22kG3Qt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fqF22kG3Qt/video.m3u8",
+          "duration": 507,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-119",
+          "title": "Pod Lifecycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQmaczPX8a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQmaczPX8a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQmaczPX8a/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-120",
+          "title": "Pod Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cDjXMaBSrq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cDjXMaBSrq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cDjXMaBSrq/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-121",
+          "title": "Docker & Pod",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y2bnHAts46/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y2bnHAts46/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y2bnHAts46/video.m3u8",
+          "duration": 200,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-122",
+          "title": "Hands On - Pod basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eMCM46gATJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eMCM46gATJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eMCM46gATJ/video.m3u8",
+          "duration": 693,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-123",
+          "title": "Hands On - Pod Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N4dHFkyEgT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N4dHFkyEgT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N4dHFkyEgT/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-124",
+          "title": "Hands On - Exposing pods to services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63UapJcDah4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63UapJcDah4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63UapJcDah4/video.m3u8",
+          "duration": 1080,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-125",
+          "title": "Hands On- Implementing Color API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XR72mhtsBb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XR72mhtsBb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XR72mhtsBb/video.m3u8",
+          "duration": 1015,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-32",
+          "title": "Kubernetes Pod Management on EC2",
+          "url": "https://docs.google.com/document/d/1jC2w5_NBzqeQJ54UNgNYQnVz7WLDGgco/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jC2w5_NBzqeQJ54UNgNYQnVz7WLDGgco/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jC2w5_NBzqeQJ54UNgNYQnVz7WLDGgco/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jC2w5_NBzqeQJ54UNgNYQnVz7WLDGgco/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-33",
+          "title": "Implementing a Color API on Kubernetes on EC2",
+          "url": "https://docs.google.com/document/d/1rE4ZzeMllbnsXhtdnNUBcENKJ-9aXqLE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1rE4ZzeMllbnsXhtdnNUBcENKJ-9aXqLE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1rE4ZzeMllbnsXhtdnNUBcENKJ-9aXqLE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1rE4ZzeMllbnsXhtdnNUBcENKJ-9aXqLE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Object Management and YAML Manifest",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-126",
+          "title": "Object Management and YAML Manifest Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S48GQYbhsK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S48GQYbhsK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S48GQYbhsK/video.m3u8",
+          "duration": 123,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-127",
+          "title": "Object Management in K8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sa2DYUpucK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sa2DYUpucK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sa2DYUpucK/video.m3u8",
+          "duration": 735,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-128",
+          "title": "K8s Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANhcdf4fctk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANhcdf4fctk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANhcdf4fctk/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-129",
+          "title": "Hands On Imperative Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By8MZ2dnXDQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By8MZ2dnXDQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By8MZ2dnXDQ/video.m3u8",
+          "duration": 772,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-130",
+          "title": "Hands On - Imperative object configurations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FEUNX3BU9P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FEUNX3BU9P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FEUNX3BU9P/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-131",
+          "title": "Hands On - Declarative object configurations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jFzqG3bT78/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jFzqG3bT78/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jFzqG3bT78/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-132",
+          "title": "Hands On - Building Pod Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEyBqMrD8Gy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEyBqMrD8Gy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEyBqMrD8Gy/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-133",
+          "title": "Hands On - Building Deployment Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm3qGaqUT2u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm3qGaqUT2u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm3qGaqUT2u/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-134",
+          "title": "Hands On - Building Service Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jfUNFg7bT9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jfUNFg7bT9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jfUNFg7bT9/video.m3u8",
+          "duration": 404,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-135",
+          "title": "Hands On - Building Secret Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar6FTgyq57T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar6FTgyq57T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar6FTgyq57T/video.m3u8",
+          "duration": 381,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-136",
+          "title": "Hands On - Building StatefulSet Manifest Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SzqeTNxZGB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SzqeTNxZGB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SzqeTNxZGB/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-35",
+          "title": "Build a Pod Manifest",
+          "url": "https://docs.google.com/document/d/1ZS6fHQH2lf3GRvzUqb65xaynx__-ApxV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ZS6fHQH2lf3GRvzUqb65xaynx__-ApxV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ZS6fHQH2lf3GRvzUqb65xaynx__-ApxV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ZS6fHQH2lf3GRvzUqb65xaynx__-ApxV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-36",
+          "title": "Build a Deployment Manifest",
+          "url": "https://docs.google.com/document/d/19DnQ5zo4n1i6sTNMeXPdY96K9-w-0S1V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19DnQ5zo4n1i6sTNMeXPdY96K9-w-0S1V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19DnQ5zo4n1i6sTNMeXPdY96K9-w-0S1V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19DnQ5zo4n1i6sTNMeXPdY96K9-w-0S1V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-37",
+          "title": "Build a Secret Manifest",
+          "url": "https://docs.google.com/document/d/1f_SEfSJcWm80WsFKF6R_UUjOl6LbuT7k/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1f_SEfSJcWm80WsFKF6R_UUjOl6LbuT7k/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1f_SEfSJcWm80WsFKF6R_UUjOl6LbuT7k/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1f_SEfSJcWm80WsFKF6R_UUjOl6LbuT7k/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-38",
+          "title": "Build a Service Manifest",
+          "url": "https://docs.google.com/document/d/16j4Dmce5LkhUfXZLA27Zxz7bW5vPHyDB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/16j4Dmce5LkhUfXZLA27Zxz7bW5vPHyDB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/16j4Dmce5LkhUfXZLA27Zxz7bW5vPHyDB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/16j4Dmce5LkhUfXZLA27Zxz7bW5vPHyDB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Deeper Dive into Replication and Deployment",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-137",
+          "title": "Deeper Dive into Replication and Deployment Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZajcbUqAGq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZajcbUqAGq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZajcbUqAGq/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-138",
+          "title": "ReplicaSets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApkfZ7tBysU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApkfZ7tBysU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApkfZ7tBysU/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-139",
+          "title": "Hands On - Creating and Managing ReplicaSets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K5gSunxmnm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K5gSunxmnm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K5gSunxmnm/video.m3u8",
+          "duration": 652,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-140",
+          "title": "Hands On - Understanding ReplicaSet's Shortcomings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q7mxQ8QFX2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q7mxQ8QFX2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q7mxQ8QFX2/video.m3u8",
+          "duration": 987,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-141",
+          "title": "Deployments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dK7Yjn2FS3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dK7Yjn2FS3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dK7Yjn2FS3/video.m3u8",
+          "duration": 452,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-142",
+          "title": "Hands On- Creating and Managing Deployments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUEMr5YTz7k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUEMr5YTz7k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUEMr5YTz7k/video.m3u8",
+          "duration": 442,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-143",
+          "title": "Hands On - Updating Pod template",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uqMnT3hMsQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uqMnT3hMsQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uqMnT3hMsQ/video.m3u8",
+          "duration": 355,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-144",
+          "title": "Hands On - Rollouts and scaling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AesGScPxz8c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AesGScPxz8c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AesGScPxz8c/video.m3u8",
+          "duration": 527,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-40",
+          "title": "Create and Manage Deployments on Kubernetes",
+          "url": "https://docs.google.com/document/d/1kymqtmWPVks1Y-GLxA0FpnB4ifqtNPVN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kymqtmWPVks1Y-GLxA0FpnB4ifqtNPVN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kymqtmWPVks1Y-GLxA0FpnB4ifqtNPVN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kymqtmWPVks1Y-GLxA0FpnB4ifqtNPVN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-41",
+          "title": "Managing Rollouts and Scaling on Kubernetes",
+          "url": "https://docs.google.com/document/d/1w_jckJj2TJkvwqtDfJL_pzt66oYOR9m-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1w_jckJj2TJkvwqtDfJL_pzt66oYOR9m-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1w_jckJj2TJkvwqtDfJL_pzt66oYOR9m-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1w_jckJj2TJkvwqtDfJL_pzt66oYOR9m-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "K8 Services",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-145",
+          "title": "K8 Services Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86Y4DDk2qKz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86Y4DDk2qKz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86Y4DDk2qKz/video.m3u8",
+          "duration": 64,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-146",
+          "title": "Services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8",
+          "duration": 408,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-147",
+          "title": "Hands On - Implementing Color API using services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQyu9gqqEa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQyu9gqqEa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQyu9gqqEa/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-148",
+          "title": "continuation lecture - adding traffic generator to Color API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88thphzkCGj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88thphzkCGj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88thphzkCGj/video.m3u8",
+          "duration": 495,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-149",
+          "title": "Hands On - Demonstrating external name service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdzkJkGJJz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdzkJkGJJz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdzkJkGJJz/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-43",
+          "title": "Demonstrate ExternalName Service on Kubernetes on EC2",
+          "url": "https://docs.google.com/document/d/1hTak3ZxJLqOGqFL3lyFyXyoNBwaMqSKA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hTak3ZxJLqOGqFL3lyFyXyoNBwaMqSKA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hTak3ZxJLqOGqFL3lyFyXyoNBwaMqSKA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hTak3ZxJLqOGqFL3lyFyXyoNBwaMqSKA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Resource Management",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-150",
+          "title": "Resource Management Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMayA2u6DmZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMayA2u6DmZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMayA2u6DmZ/video.m3u8",
+          "duration": 89,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-151",
+          "title": "Labels and Selectors in depth discussion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKadmKpHmGq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKadmKpHmGq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKadmKpHmGq/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-152",
+          "title": "Hands On - Labels and Selectors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HUr758PYPC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HUr758PYPC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HUr758PYPC/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-153",
+          "title": "Annotations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abzj7g5DD2H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abzj7g5DD2H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abzj7g5DD2H/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-154",
+          "title": "Hands On - Annotations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BJushDQ5rb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BJushDQ5rb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BJushDQ5rb/video.m3u8",
+          "duration": 907,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-155",
+          "title": "Introduction to organizing resources in K8s (namespaces)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt9MA8fjBfZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt9MA8fjBfZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt9MA8fjBfZ/video.m3u8",
+          "duration": 833,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-156",
+          "title": "Hands On - How to create and manage namesapces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MukH8NyUpS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MukH8NyUpS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MukH8NyUpS/video.m3u8",
+          "duration": 1034,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-157",
+          "title": "Hands On - Cross namespace communication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aRZFncMbYYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aRZFncMbYYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aRZFncMbYYR/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-158",
+          "title": "Resource, Quotas and Limits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t2rDm55Rny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t2rDm55Rny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t2rDm55Rny/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-159",
+          "title": "Hands On - Implementing Resource Quotas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEKQm6ddJ3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEKQm6ddJ3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEKQm6ddJ3c/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-160",
+          "title": "Hands On - Implementing Resource Requests and Limits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jZ2X7g4QCr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jZ2X7g4QCr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jZ2X7g4QCr/video.m3u8",
+          "duration": 1016,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-161",
+          "title": "Understanding different probes in K8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57TBCk6HDF7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57TBCk6HDF7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57TBCk6HDF7/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-162",
+          "title": "Hands On - Startup Probe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEZGxp9f6E7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEZGxp9f6E7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEZGxp9f6E7/video.m3u8",
+          "duration": 760,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-163",
+          "title": "Hands On - Liveness Probe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9thqReZ7ZKk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9thqReZ7ZKk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9thqReZ7ZKk/video.m3u8",
+          "duration": 1035,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-164",
+          "title": "Hands On - Readiness Probe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nSDnke8zh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nSDnke8zh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nSDnke8zh/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-45",
+          "title": "Create Custom Namespaces on Kubernetes",
+          "url": "https://docs.google.com/document/d/1jUxhePQCLUF051t_DfCmFiI9YuKDpFxx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jUxhePQCLUF051t_DfCmFiI9YuKDpFxx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jUxhePQCLUF051t_DfCmFiI9YuKDpFxx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jUxhePQCLUF051t_DfCmFiI9YuKDpFxx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-46",
+          "title": "Demonstrate a Kubernetes Probe",
+          "url": "https://docs.google.com/document/d/1R-93ETOomVo5s78qnobIIj53ZlXF4bll/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1R-93ETOomVo5s78qnobIIj53ZlXF4bll/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1R-93ETOomVo5s78qnobIIj53ZlXF4bll/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1R-93ETOomVo5s78qnobIIj53ZlXF4bll/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Storage & Persistence",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-165",
+          "title": "Storage & Persistence Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8UmPmzf4J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8UmPmzf4J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8UmPmzf4J/video.m3u8",
+          "duration": 80,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-166",
+          "title": "Introduction to volumes in K8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xPqRbRGzrk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xPqRbRGzrk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xPqRbRGzrk/video.m3u8",
+          "duration": 677,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-167",
+          "title": "EmptyDir & Local Volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GQUD6uJum42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GQUD6uJum42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GQUD6uJum42/video.m3u8",
+          "duration": 237,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-168",
+          "title": "Introduction to persistent volume claims (pvc)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9can5x2kqCN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9can5x2kqCN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9can5x2kqCN/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-169",
+          "title": "Hands On - Using EmptyDir",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tPCXsb27Jx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tPCXsb27Jx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tPCXsb27Jx/video.m3u8",
+          "duration": 795,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-170",
+          "title": "Hands On - Implementing persistent volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKgggGZs4Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKgggGZs4Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKgggGZs4Z/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-171",
+          "title": "Hands On - making and managing volumes in depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Sxy6Ncmm93/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Sxy6Ncmm93/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Sxy6Ncmm93/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-172",
+          "title": "Introduction to StatefulSets in K8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7APErBQBNpF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7APErBQBNpF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7APErBQBNpF/video.m3u8",
+          "duration": 786,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-173",
+          "title": "Hands On - Implementing StatefulSets with persistent volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MsNHGk4PNa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MsNHGk4PNa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MsNHGk4PNa/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-174",
+          "title": "Hands On - Implementing StatefulSets with Dynamically persistent volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7qs2YhABN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7qs2YhABN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7qs2YhABN/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-175",
+          "title": "Hands On - Headless Service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SEsUNSRRrp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SEsUNSRRrp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SEsUNSRRrp/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-48",
+          "title": "Implement Persistent Volumes on Kubernetes",
+          "url": "https://docs.google.com/document/d/1pCMhUnTIFtwg9bTmbxFfb4b8ZxHOYqnR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pCMhUnTIFtwg9bTmbxFfb4b8ZxHOYqnR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pCMhUnTIFtwg9bTmbxFfb4b8ZxHOYqnR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pCMhUnTIFtwg9bTmbxFfb4b8ZxHOYqnR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-49",
+          "title": "Implement Persistent StatefulSets on Kubernetes",
+          "url": "https://docs.google.com/document/d/1P6rE1IsbZkIHltYpFYN0sXIi5_w8dT9-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1P6rE1IsbZkIHltYpFYN0sXIi5_w8dT9-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1P6rE1IsbZkIHltYpFYN0sXIi5_w8dT9-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1P6rE1IsbZkIHltYpFYN0sXIi5_w8dT9-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Configuration Management",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-176",
+          "title": "Configuration Management Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2tECkfZJD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2tECkfZJD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2tECkfZJD/video.m3u8",
+          "duration": 79,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-177",
+          "title": "Introduction to ConfigMaps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMhf68bjeF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMhf68bjeF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMhf68bjeF/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-178",
+          "title": "Hands On - Passing Information from ConfigMaps to Pods by environmental variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAUeEAbcGk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAUeEAbcGk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAUeEAbcGk/video.m3u8",
+          "duration": 687,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-179",
+          "title": "Hands On - Mounting ConfigMaps inside volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M49ruGtefP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M49ruGtefP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M49ruGtefP/video.m3u8",
+          "duration": 942,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-180",
+          "title": "Secrets in K8s",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mNJJMBQy6sa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mNJJMBQy6sa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mNJJMBQy6sa/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-181",
+          "title": "Hands On - Passing information as secrets as env variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj5Hn4K28S4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj5Hn4K28S4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj5Hn4K28S4/video.m3u8",
+          "duration": 817,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-182",
+          "title": "Hands On - Mounting secrets as volumes in pods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gcMypT8YKX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gcMypT8YKX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gcMypT8YKX/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-51",
+          "title": "Demonstrate ConfigMaps on Kubernetes",
+          "url": "https://docs.google.com/document/d/1Dv_RFOd4-eiWmvtXQp_8STH91aTfKBUH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Dv_RFOd4-eiWmvtXQp_8STH91aTfKBUH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Dv_RFOd4-eiWmvtXQp_8STH91aTfKBUH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Dv_RFOd4-eiWmvtXQp_8STH91aTfKBUH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-52",
+          "title": "Mounting Secrets as Volumes in Pods on Kubernetes",
+          "url": "https://docs.google.com/document/d/19_z-v1GaNJv5xUWa0pKDy32OX9283mhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19_z-v1GaNJv5xUWa0pKDy32OX9283mhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19_z-v1GaNJv5xUWa0pKDy32OX9283mhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19_z-v1GaNJv5xUWa0pKDy32OX9283mhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "K8 security fundamentals",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-183",
+          "title": "K8 security fundamentals Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS8NYS6BM4e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS8NYS6BM4e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS8NYS6BM4e/video.m3u8",
+          "duration": 71,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-184",
+          "title": "Security in Kubernetes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJsZ9N9Qa4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJsZ9N9Qa4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJsZ9N9Qa4/video.m3u8",
+          "duration": 1492,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-185",
+          "title": "RBAC in Kubernetes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ScU4E4HuCB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ScU4E4HuCB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ScU4E4HuCB/video.m3u8",
+          "duration": 435,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-186",
+          "title": "Kubernetes API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7tZaFq2K5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7tZaFq2K5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7tZaFq2K5/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-187",
+          "title": "Hands On - API resources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888U5ZmuqmY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888U5ZmuqmY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888U5ZmuqmY/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-188",
+          "title": "Hands On - creating users ray and jam",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XyFGA77nz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XyFGA77nz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XyFGA77nz7/video.m3u8",
+          "duration": 1037,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-189",
+          "title": "Hands On - continuation users ray and jam",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JY54nZT36N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JY54nZT36N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JY54nZT36N/video.m3u8",
+          "duration": 1057,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-190",
+          "title": "Hands On - cluster level RBAC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93HJCZ9FCCZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93HJCZ9FCCZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93HJCZ9FCCZ/video.m3u8",
+          "duration": 804,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-191",
+          "title": "Service Accounts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXqqNM8pXGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXqqNM8pXGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXqqNM8pXGR/video.m3u8",
+          "duration": 567,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-192",
+          "title": "Hands On - Service Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mf3QaTx5sm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mf3QaTx5sm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mf3QaTx5sm/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-193",
+          "title": "Network Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9axjg2jpQ3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9axjg2jpQ3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9axjg2jpQ3B/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-194",
+          "title": "Calico",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdnjnzpduTr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdnjnzpduTr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdnjnzpduTr/video.m3u8",
+          "duration": 240,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-195",
+          "title": "Hands On - Network Policies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j97RYGUd3j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j97RYGUd3j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j97RYGUd3j/video.m3u8",
+          "duration": 915,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-196",
+          "title": "Hands On - Managing traffic between pods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39zmRuffEY2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39zmRuffEY2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39zmRuffEY2/video.m3u8",
+          "duration": 928,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-197",
+          "title": "Pod Security Standards (PSS)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qd8FUK5ddM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qd8FUK5ddM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qd8FUK5ddM/video.m3u8",
+          "duration": 432,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-198",
+          "title": "Hands On - PSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQEE3hcf4XF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQEE3hcf4XF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQEE3hcf4XF/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-54",
+          "title": "Create 2 Users on Kubernetes",
+          "url": "https://docs.google.com/document/d/1luiBLNl30sr9MMkL5CJuJaaBOuaaNsin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1luiBLNl30sr9MMkL5CJuJaaBOuaaNsin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1luiBLNl30sr9MMkL5CJuJaaBOuaaNsin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1luiBLNl30sr9MMkL5CJuJaaBOuaaNsin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dockerandkubernetes-55",
+          "title": "Demonstrate Management of Traffic Between Pods on Kubernetes",
+          "url": "https://docs.google.com/document/d/1P2pek6p8Vd5PQCJv4lP05gHMniWZoCv8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1P2pek6p8Vd5PQCJv4lP05gHMniWZoCv8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1P2pek6p8Vd5PQCJv4lP05gHMniWZoCv8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1P2pek6p8Vd5PQCJv4lP05gHMniWZoCv8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Kustomize",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-199",
+          "title": "Kustomize Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdUM4xGNHc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdUM4xGNHc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdUM4xGNHc/video.m3u8",
+          "duration": 82,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-200",
+          "title": "Kustomize",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jmBjcxfte/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jmBjcxfte/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jmBjcxfte/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-201",
+          "title": "Hands 0n - Kustomize",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95r8xUQcshP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95r8xUQcshP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95r8xUQcshP/video.m3u8",
+          "duration": 986,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-202",
+          "title": "Base and Overlays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66q6NeK3gzf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66q6NeK3gzf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66q6NeK3gzf/video.m3u8",
+          "duration": 226,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-203",
+          "title": "Hands On - JSON and SMP patch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dn3u7JuAbK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dn3u7JuAbK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dn3u7JuAbK/video.m3u8",
+          "duration": 1182,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-204",
+          "title": "Transformations & Generators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M9bfA9fZ2M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M9bfA9fZ2M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M9bfA9fZ2M/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-205",
+          "title": "Hands On - Transformations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XSzxjDBk32/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XSzxjDBk32/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XSzxjDBk32/video.m3u8",
+          "duration": 1131,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-206",
+          "title": "Hands On - Generators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6DQS6dzDrc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6DQS6dzDrc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6DQS6dzDrc/video.m3u8",
+          "duration": 1003,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dockerandkubernetes-57",
+          "title": "Demonstrate Kustomize on Kubernetes",
+          "url": "https://docs.google.com/document/d/1dmRTjnjlDt1om-3tpO_jhmyPWqwC-hZh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dmRTjnjlDt1om-3tpO_jhmyPWqwC-hZh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dmRTjnjlDt1om-3tpO_jhmyPWqwC-hZh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dmRTjnjlDt1om-3tpO_jhmyPWqwC-hZh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-207",
+          "title": "Creating EKS Cluster using Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QnAzA5XtEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QnAzA5XtEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QnAzA5XtEr/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Exam & Interview Preparation [Kubernetes]",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-208",
+          "title": "Exam & Interview Preparation [Kubernetes] Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hPCACpa4M5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hPCACpa4M5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hPCACpa4M5/video.m3u8",
+          "duration": 100,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-209",
+          "title": "Pod Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qx4CdSByPaS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qx4CdSByPaS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qx4CdSByPaS/video.m3u8",
+          "duration": 550,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-210",
+          "title": "Basic Kubernetes questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zXKnpDjxrQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zXKnpDjxrQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zXKnpDjxrQ/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-211",
+          "title": "Deployment and ReplicaSet Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tCJkNm89pd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tCJkNm89pd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tCJkNm89pd/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-212",
+          "title": "Resume Workshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SMKf4YEjND/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SMKf4YEjND/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SMKf4YEjND/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-213",
+          "title": "PostgreSQL Database on Kubernetes Cluster",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aYsXHqRQP2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aYsXHqRQP2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aYsXHqRQP2E/video.m3u8",
+          "duration": 3619,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "[Project] - Full Stack Docker Production environment",
+      "lectures": [
+        {
+          "id": "td-dockerandkubernetes-214",
+          "title": "Project Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zMKSMfAAY2D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zMKSMfAAY2D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zMKSMfAAY2D/video.m3u8",
+          "duration": 241,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-215",
+          "title": "What is todo application and purpose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BcZt4hmaZh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BcZt4hmaZh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BcZt4hmaZh/video.m3u8",
+          "duration": 394,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-216",
+          "title": "Prerequisites, tools and technologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HZUqRcgjzM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HZUqRcgjzM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HZUqRcgjzM/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-217",
+          "title": "Application Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37gf2b9yNj4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37gf2b9yNj4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37gf2b9yNj4/video.m3u8",
+          "duration": 160,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-218",
+          "title": "File & Folder Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xp6S4A6jy6b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xp6S4A6jy6b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xp6S4A6jy6b/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-219",
+          "title": "Docker Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m3XApmCnDg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m3XApmCnDg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m3XApmCnDg/video.m3u8",
+          "duration": 246,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-220",
+          "title": "Understanding Project structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69RT7f8XXrt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69RT7f8XXrt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69RT7f8XXrt/video.m3u8",
+          "duration": 246,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-221",
+          "title": "Deploying backend, frontend and related files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94tR2DueRru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94tR2DueRru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94tR2DueRru/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-222",
+          "title": "Understanding Docker and docker compose files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUxj46KjSQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUxj46KjSQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUxj46KjSQ/video.m3u8",
+          "duration": 200,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-223",
+          "title": "Deploying Docker and docker compose files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zd29bKaDnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zd29bKaDnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zd29bKaDnC/video.m3u8",
+          "duration": 191,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-224",
+          "title": "Building, testing and adding backup mechanism to our todo application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fBEDbTYHtR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fBEDbTYHtR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fBEDbTYHtR/video.m3u8",
+          "duration": 1064,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-225",
+          "title": "Explanation myapp backend package.json",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTKXRzhueA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTKXRzhueA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTKXRzhueA/video.m3u8",
+          "duration": 226,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-226",
+          "title": "Explanation myapp  backend src index.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umS6nn4364/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umS6nn4364/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umS6nn4364/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-227",
+          "title": "Explanation myapp frontend index.html",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b9Cu5Y8ygu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b9Cu5Y8ygu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b9Cu5Y8ygu/video.m3u8",
+          "duration": 158,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-228",
+          "title": "Explanation myapp frontend package.json",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8jcTeuqzBu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8jcTeuqzBu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8jcTeuqzBu/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-229",
+          "title": "Explanation myapp frontend src app.jsx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-230",
+          "title": "Explanation myapp frontend src app.jsx continuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-231",
+          "title": "Explanation myapp frontend src main.jsx and vite.config.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fRYyetHb3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fRYyetHb3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fRYyetHb3e/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-232",
+          "title": "Explanation myapp backup.sh (Backup Strategy)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99kptSsSyBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99kptSsSyBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99kptSsSyBC/video.m3u8",
+          "duration": 393,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-233",
+          "title": "Explanation myapp backend DockerFile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFG75kJbC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFG75kJbC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFG75kJbC7/video.m3u8",
+          "duration": 473,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-234",
+          "title": "Explanation myapp frontend DockerFile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChCBTZ9Mma/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChCBTZ9Mma/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChCBTZ9Mma/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-dockerandkubernetes-235",
+          "title": "Explanation myapp docker compose.yaml",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AUUEfXP8hf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AUUEfXP8hf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AUUEfXP8hf/video.m3u8",
+          "duration": 570,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

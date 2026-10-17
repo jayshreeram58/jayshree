@@ -1,0 +1,621 @@
+{
+  "platform": "TuteDude",
+  "batchId": "aivideogen",
+  "batchSlug": "aivideogen",
+  "batchName": "AI Video Generation",
+  "thumbnail": "https://www.tutedude.com/assets/avif/aivideogen.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/aivideogen",
+  "totalSections": 11,
+  "totalLectures": 44,
+  "totalNotes": 15,
+  "price": "699.00",
+  "category": "Video Editing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-aivideogen-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "A Complete course on AI Video Creation workflow",
+      "lectures": [
+        {
+          "id": "td-aivideogen-2",
+          "title": "Course Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUj35argUJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUj35argUJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUj35argUJ/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Understanding Genrative AI Workflow",
+      "lectures": [
+        {
+          "id": "td-aivideogen-3",
+          "title": "AI Video creation Foundation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TM5cnNaaTS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TM5cnNaaTS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TM5cnNaaTS/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-4",
+          "title": "Generative AI for Video Production",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4nBKMgQMEd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4nBKMgQMEd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4nBKMgQMEd/video.m3u8",
+          "duration": 1140,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-5",
+          "title": "Understanding AI workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e6pshgQxYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e6pshgQxYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e6pshgQxYR/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-6",
+          "title": "Generating voiceover with Eleven Labs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzMD6zPSj5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzMD6zPSj5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzMD6zPSj5/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-4",
+          "title": "Create a Food Delivery App Audio Advertisement Using ElevenLabs",
+          "url": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Video Creation Methods",
+      "lectures": [
+        {
+          "id": "td-aivideogen-7",
+          "title": "Generating Prompt to video with Veo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zGNDCPKgu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zGNDCPKgu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zGNDCPKgu9/video.m3u8",
+          "duration": 1257,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-8",
+          "title": "Hedra and HeyGen for AI Avatar Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74DK6tmnhNn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74DK6tmnhNn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74DK6tmnhNn/video.m3u8",
+          "duration": 756,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-9",
+          "title": "Creating Dynamic Ads with VEO AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JAamzrxRSr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JAamzrxRSr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JAamzrxRSr/video.m3u8",
+          "duration": 2028,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-10",
+          "title": "Alien Vlogger videos with Gemini",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFm8CpXDCM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFm8CpXDCM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFm8CpXDCM/video.m3u8",
+          "duration": 1550,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-11",
+          "title": "Generating Videos with Meta AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3muEjpseFGk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3muEjpseFGk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3muEjpseFGk/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-6",
+          "title": "Create a Smartwatch Launch Teaser Using Veo",
+          "url": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-7",
+          "title": "Create an AI Avatar Welcome Video using Hedra or HeyGen",
+          "url": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-8",
+          "title": "Create Two Different Fitness App Ads Using Veo AI",
+          "url": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-9",
+          "title": "Create a Fictional Character Vlog Video using Gemini",
+          "url": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Films and Documentaries",
+      "lectures": [
+        {
+          "id": "td-aivideogen-12",
+          "title": "AI video Generation with Adobe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Eg6t2XSzpq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Eg6t2XSzpq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Eg6t2XSzpq/video.m3u8",
+          "duration": 711,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-13",
+          "title": "Adobe Firefly for Documentary based AI Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JD7cDMxU43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JD7cDMxU43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JD7cDMxU43/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-14",
+          "title": "Generating Shortfilm with FLow and Kling AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DrBfebZ4AG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DrBfebZ4AG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DrBfebZ4AG/video.m3u8",
+          "duration": 1508,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-15",
+          "title": "Eleven labs and SUNO AI for AI films",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9R6jn3CSMAy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9R6jn3CSMAy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9R6jn3CSMAy/video.m3u8",
+          "duration": 2111,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-16",
+          "title": "Creating AI Ads for a Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-11",
+          "title": "Create a Documentary Video on a Social Topic using Adobe Firefly",
+          "url": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-12",
+          "title": "Create a Short Film on Concept of “A Day That Changed Everything” using Flow and Kling AI",
+          "url": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-13",
+          "title": "Generate Music and Narration for your Short Film using SUNO and ElevenLabs",
+          "url": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Complete AI Filmmaing Workflow",
+      "lectures": [
+        {
+          "id": "td-aivideogen-17",
+          "title": "Social Message Films workflow with Focal ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f5UGAUzQsG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f5UGAUzQsG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f5UGAUzQsG/video.m3u8",
+          "duration": 1585,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-18",
+          "title": "FIlm Postproduction with Narration and Music",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5a3yMKDSgC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5a3yMKDSgC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5a3yMKDSgC/video.m3u8",
+          "duration": 1075,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-19",
+          "title": "Regenerating scenes with Gemini",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82c34EU59A4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82c34EU59A4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82c34EU59A4/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-15",
+          "title": "Regenerate and Fix a Weak Scene of your Film using Gemini",
+          "url": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Transformation Videos",
+      "lectures": [
+        {
+          "id": "td-aivideogen-20",
+          "title": "Start and End Frame reference",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bFCr92HXMM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bFCr92HXMM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bFCr92HXMM/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-21",
+          "title": "AI for Visual Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3j4K2dFJ5b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3j4K2dFJ5b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3j4K2dFJ5b/video.m3u8",
+          "duration": 1142,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-17",
+          "title": "Create a Room Makeover Transformation Video using Start and End Frame",
+          "url": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Graphic Novels and Presentation Videos",
+      "lectures": [
+        {
+          "id": "td-aivideogen-22",
+          "title": "Working with Notebook LM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EEy9qN54Tg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EEy9qN54Tg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EEy9qN54Tg/video.m3u8",
+          "duration": 972,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-23",
+          "title": "Creating AI Graphic Novels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARhapAh2Fc2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARhapAh2Fc2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARhapAh2Fc2/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-19",
+          "title": "Create an AI Graphic Novel from a Short Story",
+          "url": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-20",
+          "title": "Generate an Audio Overview of your Story using Notebook LM",
+          "url": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Movies Visual Effects with  AI",
+      "lectures": [
+        {
+          "id": "td-aivideogen-24",
+          "title": "Integrating  characters in AI Scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ARaN89yrxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ARaN89yrxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ARaN89yrxJ/video.m3u8",
+          "duration": 909,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-25",
+          "title": "Refining Prompts to enhance AI videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX2pjJS8RhA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX2pjJS8RhA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX2pjJS8RhA/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-26",
+          "title": "Generating Avatar Based AI Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63J4uYXTZSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63J4uYXTZSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63J4uYXTZSd/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-27",
+          "title": "Creating AI Ads for a Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-22",
+          "title": "Create a Complete Product AD with Character Integration and VFX ",
+          "url": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aivideogen-23",
+          "title": "[ Capstone Assignment ]Reel for a Laundry App ",
+          "url": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Video Creation with Seedance",
+      "lectures": [
+        {
+          "id": "td-aivideogen-28",
+          "title": "Understanding the Seedance interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6afsCaxNHGF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6afsCaxNHGF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6afsCaxNHGF/video.m3u8",
+          "duration": 1573,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-29",
+          "title": "AI image editing with Seedance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NtmdhGuZzf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NtmdhGuZzf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NtmdhGuZzf/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-30",
+          "title": "Generating videos with Seedance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eX8GaYCnPa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eX8GaYCnPa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eX8GaYCnPa/video.m3u8",
+          "duration": 1387,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-31",
+          "title": "Animated short film and TVC with Seedance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZTK7m8d3G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZTK7m8d3G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZTK7m8d3G/video.m3u8",
+          "duration": 2414,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-32",
+          "title": "Action-packed superhero ad in Seedance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T6X8kMmdG9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T6X8kMmdG9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T6X8kMmdG9/video.m3u8",
+          "duration": 1952,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-33",
+          "title": "Long-form videos in Seedance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47cRXePKXqE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47cRXePKXqE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47cRXePKXqE/video.m3u8",
+          "duration": 2250,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-34",
+          "title": "Editing and motion control with Kling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/krFYFYnt38e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/krFYFYnt38e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/krFYFYnt38e/video.m3u8",
+          "duration": 1145,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-35",
+          "title": "Cinema studio in Higgsfield",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eN93XZB3Zb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eN93XZB3Zb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eN93XZB3Zb/video.m3u8",
+          "duration": 2208,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-36",
+          "title": "Higgsfield marketing studio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64A54AGumhm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64A54AGumhm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64A54AGumhm/video.m3u8",
+          "duration": 1288,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Final project",
+      "lectures": [
+        {
+          "id": "td-aivideogen-37",
+          "title": "AI project Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AnuEtABrEs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AnuEtABrEs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AnuEtABrEs/video.m3u8",
+          "duration": 1228,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-38",
+          "title": "AI project with VEO 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tQAyrZcus3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tQAyrZcus3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tQAyrZcus3/video.m3u8",
+          "duration": 1441,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-39",
+          "title": "Experimenting with VEO 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XtnEQzfDbt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XtnEQzfDbt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XtnEQzfDbt/video.m3u8",
+          "duration": 611,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-40",
+          "title": "AI project with Gemini",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KBZteY2rCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KBZteY2rCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KBZteY2rCP/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-41",
+          "title": "Character Consistancy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h4Nbp7MBXz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h4Nbp7MBXz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h4Nbp7MBXz/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-42",
+          "title": "Product ad with Gemini Omni",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhCsdCPB5h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhCsdCPB5h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhCsdCPB5h/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-43",
+          "title": "Google FLow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDNK88Ks7d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDNK88Ks7d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDNK88Ks7d/video.m3u8",
+          "duration": 2113,
+          "type": "video"
+        },
+        {
+          "id": "td-aivideogen-44",
+          "title": "Advance Google flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PXYQeKrDcS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PXYQeKrDcS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PXYQeKrDcS/video.m3u8",
+          "duration": 3208,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aivideogen-26",
+          "title": "Create a Minimum 5-Minute AI Short Film (100% AI-Made)",
+          "url": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

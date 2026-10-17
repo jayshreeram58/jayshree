@@ -1,0 +1,1446 @@
+{
+  "platform": "TuteDude",
+  "batchId": "financialmodelling",
+  "batchSlug": "financialmodelling",
+  "batchName": "Financial Modelling & Valuation",
+  "thumbnail": "https://www.tutedude.com/assets/avif/financialmodelling.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/financialmodelling",
+  "totalSections": 25,
+  "totalLectures": 110,
+  "totalNotes": 30,
+  "price": "699.00",
+  "category": "Finance",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intro Video for FMV Course",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-2",
+          "title": "Industry Ready Financial Modeling Course Launch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ty8HY4QnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ty8HY4QnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ty8HY4QnJ/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Excel",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-3",
+          "title": "Introduction and Overview of Excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkkJNNmgJbR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkkJNNmgJbR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkkJNNmgJbR/video.m3u8",
+          "duration": 265,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-4",
+          "title": "Basic Operations and Data Entry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D6f5NcaJyS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D6f5NcaJyS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D6f5NcaJyS/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-5",
+          "title": "Introduction to formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hK2f2xRcMcd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hK2f2xRcMcd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hK2f2xRcMcd/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-6",
+          "title": "Introduction to Excel Formulas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2SSm7KUzE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2SSm7KUzE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2SSm7KUzE/video.m3u8",
+          "duration": 216,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-7",
+          "title": "Excel Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yyC7AqbP6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yyC7AqbP6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yyC7AqbP6A/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-8",
+          "title": "Cut copy, Paste Special",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BryA5DzZegn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BryA5DzZegn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BryA5DzZegn/video.m3u8",
+          "duration": 167,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-9",
+          "title": "Format Cells",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58744pBR3kf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58744pBR3kf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58744pBR3kf/video.m3u8",
+          "duration": 187,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-4",
+          "title": "Excel Basics & Data Management Project",
+          "url": "https://docs.google.com/document/d/1j5BhBqRCcwDlljC_y9gNJF6ohOQXAwtv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1j5BhBqRCcwDlljC_y9gNJF6ohOQXAwtv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1j5BhBqRCcwDlljC_y9gNJF6ohOQXAwtv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1j5BhBqRCcwDlljC_y9gNJF6ohOQXAwtv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tips & Tricks in Excel",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-10",
+          "title": "Excel best practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brk5XeEzAku/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brk5XeEzAku/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brk5XeEzAku/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-11",
+          "title": "Tips & tricks part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dhyu9u493u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dhyu9u493u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dhyu9u493u/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-12",
+          "title": "Select Special & Dynamic Names",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yzCBbPjMG8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yzCBbPjMG8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yzCBbPjMG8/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-13",
+          "title": "Named Range & Hyperlink",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T77knHy3AM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T77knHy3AM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T77knHy3AM/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-14",
+          "title": "Custom Format No.",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tJz4que6kSB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tJz4que6kSB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tJz4que6kSB/video.m3u8",
+          "duration": 396,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-15",
+          "title": "Macros",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C225SdNYRf5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C225SdNYRf5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C225SdNYRf5/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-16",
+          "title": "Freeze Panes & More",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68AhAxy2F4y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68AhAxy2F4y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68AhAxy2F4y/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-17",
+          "title": "Conditional formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDgTX442Uc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDgTX442Uc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDgTX442Uc/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-6",
+          "title": "Advanced Excel Productivity & Automation Project",
+          "url": "https://docs.google.com/document/d/1cnxpZXu9gDu4D56n3LRw30oWlJahqAAM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1cnxpZXu9gDu4D56n3LRw30oWlJahqAAM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1cnxpZXu9gDu4D56n3LRw30oWlJahqAAM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1cnxpZXu9gDu4D56n3LRw30oWlJahqAAM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Key Excel Functions",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-18",
+          "title": "SUM, SUMIF and SUMIFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bJ2RS3Q5Dg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bJ2RS3Q5Dg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bJ2RS3Q5Dg/video.m3u8",
+          "duration": 389,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-19",
+          "title": "Count, Average",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPB9gR6jzk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPB9gR6jzk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPB9gR6jzk/video.m3u8",
+          "duration": 344,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-20",
+          "title": "Text Modif, MaxMin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m6D3RuJsRe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m6D3RuJsRe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m6D3RuJsRe/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-21",
+          "title": "VLookUP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BPRjUrXMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BPRjUrXMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BPRjUrXMr/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-22",
+          "title": "INDEX, MATCH and their combination - the perfect substitute for VLOOKUP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbcjMgz7DG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbcjMgz7DG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbcjMgz7DG/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-23",
+          "title": "Index Match Match",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJdn9n5xN7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJdn9n5xN7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJdn9n5xN7y/video.m3u8",
+          "duration": 404,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-24",
+          "title": "Rank and Iferror",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n5nnf4t7kG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n5nnf4t7kG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n5nnf4t7kG/video.m3u8",
+          "duration": 204,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-25",
+          "title": "Choose and Goal Seek",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JRhZkqtBFp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JRhZkqtBFp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JRhZkqtBFp/video.m3u8",
+          "duration": 265,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-26",
+          "title": "Intro to Data Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hZhMcdhXZc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hZhMcdhXZc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hZhMcdhXZc/video.m3u8",
+          "duration": 189,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-27",
+          "title": "Pivot Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z4hbkcTdEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z4hbkcTdEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z4hbkcTdEA/video.m3u8",
+          "duration": 164,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-8",
+          "title": "Sales Performance & Data Analysis Advanced Excel Project",
+          "url": "https://docs.google.com/document/d/19756BveaJJEfQTh8ImpKkj-Ea-3_G0A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19756BveaJJEfQTh8ImpKkj-Ea-3_G0A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19756BveaJJEfQTh8ImpKkj-Ea-3_G0A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19756BveaJJEfQTh8ImpKkj-Ea-3_G0A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Financial Functions in Excel",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-28",
+          "title": "Net Present Value",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pa3pX5F2rG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pa3pX5F2rG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pa3pX5F2rG/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-29",
+          "title": "Internal Rate of Return",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6k3UFncXdD6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6k3UFncXdD6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6k3UFncXdD6/video.m3u8",
+          "duration": 168,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-30",
+          "title": "Loan and Interest Rate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSPMA5JU5rf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSPMA5JU5rf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSPMA5JU5rf/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-31",
+          "title": "Date Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KCfz7UxFr4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KCfz7UxFr4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KCfz7UxFr4/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-10",
+          "title": "Investment & Loan Decision Analysis Using Excel Project",
+          "url": "https://docs.google.com/document/d/18dZt3GBwdWGePQZGnHpcWk2VprVr3JqL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18dZt3GBwdWGePQZGnHpcWk2VprVr3JqL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18dZt3GBwdWGePQZGnHpcWk2VprVr3JqL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18dZt3GBwdWGePQZGnHpcWk2VprVr3JqL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Mastering Excel Pivot Tables",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-32",
+          "title": "Intro Pivot Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQtygN85up/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQtygN85up/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQtygN85up/video.m3u8",
+          "duration": 163,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-33",
+          "title": "Modify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69CdCSTXgQ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69CdCSTXgQ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69CdCSTXgQ5/video.m3u8",
+          "duration": 223,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-34",
+          "title": "GETPIVOTDATA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TDMtxBRQ4c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TDMtxBRQ4c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TDMtxBRQ4c/video.m3u8",
+          "duration": 154,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-35",
+          "title": "Slicers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzsMZjjHcA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzsMZjjHcA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzsMZjjHcA4/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-12",
+          "title": "Sales Performance Dashboard Using Pivot Tables Project",
+          "url": "https://docs.google.com/document/d/1cp98iLAZApMHHuQGUWbomPiwUhY0F2MK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1cp98iLAZApMHHuQGUWbomPiwUhY0F2MK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1cp98iLAZApMHHuQGUWbomPiwUhY0F2MK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1cp98iLAZApMHHuQGUWbomPiwUhY0F2MK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Understanding the basics of Finance and relevance in Corporates & Life",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-36",
+          "title": "Basics of Finance, 12 Key Concepts Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eb8Eb76drT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eb8Eb76drT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eb8Eb76drT/video.m3u8",
+          "duration": 3512,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-14",
+          "title": "Financial Planning Project",
+          "url": "https://docs.google.com/document/d/1T4QbXjRtNUi7UVOxTZeaE_SzS7jG7VbX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1T4QbXjRtNUi7UVOxTZeaE_SzS7jG7VbX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1T4QbXjRtNUi7UVOxTZeaE_SzS7jG7VbX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1T4QbXjRtNUi7UVOxTZeaE_SzS7jG7VbX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-15",
+          "title": "Financial Investment & Budgeting Project",
+          "url": "https://docs.google.com/document/d/1CJueun3KcbwvSIZ-f-TZwgT25Qk9l_bP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1CJueun3KcbwvSIZ-f-TZwgT25Qk9l_bP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1CJueun3KcbwvSIZ-f-TZwgT25Qk9l_bP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1CJueun3KcbwvSIZ-f-TZwgT25Qk9l_bP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Fundamentals of Accounting",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-37",
+          "title": "Basics of Accounting_Part 1_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/snQEjMux5dh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/snQEjMux5dh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/snQEjMux5dh/video.m3u8",
+          "duration": 1650,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-38",
+          "title": "Basics of Accounting_Part 1_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z4DqkxR39G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z4DqkxR39G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z4DqkxR39G/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-39",
+          "title": "Basics of Accounting_Part 1_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhRChqXecF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhRChqXecF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhRChqXecF/video.m3u8",
+          "duration": 2104,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-40",
+          "title": "Basics of Accounting_Part 2_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gjp6p3Rca5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gjp6p3Rca5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gjp6p3Rca5/video.m3u8",
+          "duration": 931,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-41",
+          "title": "Basics of Accounting_Part 2_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uX6QbNcfQU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uX6QbNcfQU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uX6QbNcfQU/video.m3u8",
+          "duration": 2107,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-42",
+          "title": "Basics of Accounting_Part 2_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xMS4JyPb94/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xMS4JyPb94/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xMS4JyPb94/video.m3u8",
+          "duration": 1812,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-43",
+          "title": "Basics of Accounting_Part 2_D",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36PPjTj8sDA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36PPjTj8sDA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36PPjTj8sDA/video.m3u8",
+          "duration": 1783,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-44",
+          "title": "Basics of Accounting_Part 2_E",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNZA2r2HA3Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNZA2r2HA3Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNZA2r2HA3Q/video.m3u8",
+          "duration": 1779,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-45",
+          "title": "Basics of Accounting_Part 3_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gTnjg22SrN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gTnjg22SrN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gTnjg22SrN/video.m3u8",
+          "duration": 2088,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-46",
+          "title": "Basics of Accounting_Part 3_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "duration": 2403,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-47",
+          "title": "Basics of Accounting_Part 3_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "duration": 1466,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-48",
+          "title": "Basics of Accounting_Part 3_D",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJXKyQaQF3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJXKyQaQF3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJXKyQaQF3/video.m3u8",
+          "duration": 1789,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-49",
+          "title": "Basics of Accounting_Part 3_E",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MqNJGYBgdM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MqNJGYBgdM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MqNJGYBgdM/video.m3u8",
+          "duration": 2107,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-50",
+          "title": "Basics of Accounting_Part 3_F",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r7fPk8SNNr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r7fPk8SNNr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r7fPk8SNNr/video.m3u8",
+          "duration": 2099,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-51",
+          "title": "Rectification of Errors, Suspense Account & Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HqDp6n2PqK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HqDp6n2PqK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HqDp6n2PqK/video.m3u8",
+          "duration": 2406,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-17",
+          "title": "Accounting Fundamentals Basics Project",
+          "url": "https://docs.google.com/document/d/12P36wn0CaQ6VWL5-dHjZIKshBYqWQAtR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12P36wn0CaQ6VWL5-dHjZIKshBYqWQAtR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12P36wn0CaQ6VWL5-dHjZIKshBYqWQAtR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12P36wn0CaQ6VWL5-dHjZIKshBYqWQAtR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-18",
+          "title": "Accounting Fundamentals Intermediate Project",
+          "url": "https://docs.google.com/document/d/1H_SfGW_QHl_qAzWu0eoHHoV81XzgIrFy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1H_SfGW_QHl_qAzWu0eoHHoV81XzgIrFy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1H_SfGW_QHl_qAzWu0eoHHoV81XzgIrFy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1H_SfGW_QHl_qAzWu0eoHHoV81XzgIrFy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-19",
+          "title": "Accounting Fundamentals Practice Project ",
+          "url": "https://docs.google.com/document/d/1w5UJJo10r27LX7s-g-wF_vbvzAeesH_d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1w5UJJo10r27LX7s-g-wF_vbvzAeesH_d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1w5UJJo10r27LX7s-g-wF_vbvzAeesH_d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1w5UJJo10r27LX7s-g-wF_vbvzAeesH_d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-20",
+          "title": "Accounting Fundamentals Advanced Project",
+          "url": "https://docs.google.com/document/d/1I98-J0WOdB0cvsjTd1R0wKD_LgVLFsI6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1I98-J0WOdB0cvsjTd1R0wKD_LgVLFsI6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1I98-J0WOdB0cvsjTd1R0wKD_LgVLFsI6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1I98-J0WOdB0cvsjTd1R0wKD_LgVLFsI6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-21",
+          "title": "Accounting Fundamentals Application Project",
+          "url": "https://docs.google.com/document/d/1fvpsM8uuyEqsI5idpjC23ShA-5RzNhPH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fvpsM8uuyEqsI5idpjC23ShA-5RzNhPH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fvpsM8uuyEqsI5idpjC23ShA-5RzNhPH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fvpsM8uuyEqsI5idpjC23ShA-5RzNhPH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-22",
+          "title": "Accounting Fundamentals Final Project",
+          "url": "https://docs.google.com/document/d/1Bv59WekvWNNXa301RmXeefSTqHP12O8V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Bv59WekvWNNXa301RmXeefSTqHP12O8V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Bv59WekvWNNXa301RmXeefSTqHP12O8V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Bv59WekvWNNXa301RmXeefSTqHP12O8V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to basic Financial Statements Terminologies, Ind AS & IFRS",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-52",
+          "title": "Significance & Elements of Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bkE4HfceY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bkE4HfceY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bkE4HfceY/video.m3u8",
+          "duration": 1507,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-53",
+          "title": "Understanding Elements of Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7ZTCGJ8zc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7ZTCGJ8zc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7ZTCGJ8zc/video.m3u8",
+          "duration": 1508,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-54",
+          "title": "Understanding Proforma of Financial Statements with example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38TsFNgPXXq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38TsFNgPXXq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38TsFNgPXXq/video.m3u8",
+          "duration": 2402,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-55",
+          "title": "Introduction to Ind AS & IFRS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tS2MbGTARq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tS2MbGTARq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tS2MbGTARq/video.m3u8",
+          "duration": 2414,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-56",
+          "title": "Decoding Adoption of Ind AS & Ind AS 101 to 116 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/799MfADRMZ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/799MfADRMZ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/799MfADRMZ9/video.m3u8",
+          "duration": 2414,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-57",
+          "title": "Decoding Ind AS 1 to 24 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpsJfGnfdfJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpsJfGnfdfJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpsJfGnfdfJ/video.m3u8",
+          "duration": 1620,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-58",
+          "title": "Decoding Ind AS 24 to 41 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58g3QhQJZGm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58g3QhQJZGm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58g3QhQJZGm/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-59",
+          "title": "Referencing materials for Ind AS & IFRS and comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EKafdzPqMm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EKafdzPqMm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EKafdzPqMm/video.m3u8",
+          "duration": 1199,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-24",
+          "title": "Basics of Financial Statements Project",
+          "url": "https://docs.google.com/document/d/1fItcO_13TrGH-lW1hjisMpwH0kqDOpA1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fItcO_13TrGH-lW1hjisMpwH0kqDOpA1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fItcO_13TrGH-lW1hjisMpwH0kqDOpA1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fItcO_13TrGH-lW1hjisMpwH0kqDOpA1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-25",
+          "title": "Understanding Ind AS & IFRS Project",
+          "url": "https://docs.google.com/document/d/18X8U_zsc2aeMhdxa13PacOnxWMlpT3mx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18X8U_zsc2aeMhdxa13PacOnxWMlpT3mx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18X8U_zsc2aeMhdxa13PacOnxWMlpT3mx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18X8U_zsc2aeMhdxa13PacOnxWMlpT3mx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-26",
+          "title": "Ind AS & IFRS Comparative Study Project",
+          "url": "https://docs.google.com/document/d/1-EVC0DID_O020VZtPlMIK0G2RperS416/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-EVC0DID_O020VZtPlMIK0G2RperS416/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-EVC0DID_O020VZtPlMIK0G2RperS416/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-EVC0DID_O020VZtPlMIK0G2RperS416/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to 3 Statement Financial Statements",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-60",
+          "title": "Decoding Income Statement in depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5KbY2cehA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5KbY2cehA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5KbY2cehA/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-61",
+          "title": "Decoding Balance Sheet Elements in Depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nKuH5YcJeB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nKuH5YcJeB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nKuH5YcJeB/video.m3u8",
+          "duration": 1556,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-62",
+          "title": "Decoding the Cash Flow Statement & its types & interconnection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bemkCxhaU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bemkCxhaU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bemkCxhaU/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-28",
+          "title": "Financial Statements Decoding Project",
+          "url": "https://docs.google.com/document/d/1JQG2bc0EFEZ1txwblAnIQNz3EhzgNn6b/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JQG2bc0EFEZ1txwblAnIQNz3EhzgNn6b/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JQG2bc0EFEZ1txwblAnIQNz3EhzgNn6b/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JQG2bc0EFEZ1txwblAnIQNz3EhzgNn6b/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Learning how to do analysis of Financial Statements and take decisions",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-63",
+          "title": "Analysing Income Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhuxMTmyRC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhuxMTmyRC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhuxMTmyRC/video.m3u8",
+          "duration": 1111,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-64",
+          "title": "Analysing Balance Sheet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YRgtYNff3q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YRgtYNff3q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YRgtYNff3q/video.m3u8",
+          "duration": 1303,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-65",
+          "title": "Analysing CFS & Decision Making",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67mZUtexk8h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67mZUtexk8h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67mZUtexk8h/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-30",
+          "title": "Financial Statement Analysis & Decision Making Project",
+          "url": "https://docs.google.com/document/d/1gxYcFAqpxI853-Vb9sErQ_0zn7pSpfrk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1gxYcFAqpxI853-Vb9sErQ_0zn7pSpfrk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1gxYcFAqpxI853-Vb9sErQ_0zn7pSpfrk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1gxYcFAqpxI853-Vb9sErQ_0zn7pSpfrk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Learning Ratio Analysis on Financial Statements",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-66",
+          "title": "Ratio Analysis Fundamentals, Liquidity, Solvency & Profitability Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c33mA3rKn7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c33mA3rKn7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c33mA3rKn7/video.m3u8",
+          "duration": 1484,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-67",
+          "title": "Turnover, Earning and Other Category Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFc7dEHAJjS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFc7dEHAJjS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFc7dEHAJjS/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-68",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89KZTCK9x7P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89KZTCK9x7P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89KZTCK9x7P/video.m3u8",
+          "duration": 1305,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-69",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FXEJUCJT2t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FXEJUCJT2t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FXEJUCJT2t/video.m3u8",
+          "duration": 1063,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-70",
+          "title": "Comprehensive Stock Analysis of IRFC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66CrgJapeHN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66CrgJapeHN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66CrgJapeHN/video.m3u8",
+          "duration": 2362,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-32",
+          "title": "Financial Ratio Analysis Project",
+          "url": "https://docs.google.com/document/d/12U-hN5EIublvHKto2yk4EKPwR4Ao1Cr2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12U-hN5EIublvHKto2yk4EKPwR4Ao1Cr2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12U-hN5EIublvHKto2yk4EKPwR4Ao1Cr2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12U-hN5EIublvHKto2yk4EKPwR4Ao1Cr2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-33",
+          "title": "Fundamental & Technical Analysis Project",
+          "url": "https://docs.google.com/document/d/1rlxwRu-TJvOFoemuTMHF5cW12hZBY8FT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1rlxwRu-TJvOFoemuTMHF5cW12hZBY8FT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1rlxwRu-TJvOFoemuTMHF5cW12hZBY8FT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1rlxwRu-TJvOFoemuTMHF5cW12hZBY8FT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Financial Modelling",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-71",
+          "title": "Introduction to the concept of Financial Modelling & steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKyCJgzXpG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKyCJgzXpG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKyCJgzXpG/video.m3u8",
+          "duration": 1266,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-72",
+          "title": "Understanding the format of Financial Model using D-Mart Financiial Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uYduDs7XBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uYduDs7XBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uYduDs7XBC/video.m3u8",
+          "duration": 1200,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-73",
+          "title": "Uses & Importance of Financial Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mtpXbGQ5bx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mtpXbGQ5bx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mtpXbGQ5bx/video.m3u8",
+          "duration": 1477,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-74",
+          "title": "Top 10 Careers in Financial Modelling - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PCEyx8cSe7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PCEyx8cSe7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PCEyx8cSe7/video.m3u8",
+          "duration": 1141,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-75",
+          "title": "Top 10 Careers in Financial Modelling - Part 2 (Job Market)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nqegFQS5X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nqegFQS5X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nqegFQS5X/video.m3u8",
+          "duration": 956,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-35",
+          "title": " Financial Modelling basics project",
+          "url": "https://docs.google.com/document/d/1ocdHLtvS8hKDnwqGITvaiUE_Ed-n5fZD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ocdHLtvS8hKDnwqGITvaiUE_Ed-n5fZD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ocdHLtvS8hKDnwqGITvaiUE_Ed-n5fZD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ocdHLtvS8hKDnwqGITvaiUE_Ed-n5fZD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Create a forward looking Intefgrated Financial Model",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-76",
+          "title": "Income Statement Forecasting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYhyrBSgPy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYhyrBSgPy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYhyrBSgPy/video.m3u8",
+          "duration": 1923,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-77",
+          "title": "Building Balance Sheet Assumptions and Checks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be628aqXdAH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be628aqXdAH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be628aqXdAH/video.m3u8",
+          "duration": 1445,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-78",
+          "title": "Forecast Cash Flow Statement and Revolver Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgmanJXXxeH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgmanJXXxeH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgmanJXXxeH/video.m3u8",
+          "duration": 1126,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-37",
+          "title": "Three Statement Model Project",
+          "url": "https://docs.google.com/document/d/1z8YJ-h3-8HxRWM-9p-or1r2wR05nDawB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1z8YJ-h3-8HxRWM-9p-or1r2wR05nDawB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1z8YJ-h3-8HxRWM-9p-or1r2wR05nDawB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1z8YJ-h3-8HxRWM-9p-or1r2wR05nDawB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Extrapolate and forecast forward looking Financial ratios",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-79",
+          "title": "Financial Ratio Analysis in Excel Financial Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fpBfbZ7r5c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fpBfbZ7r5c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fpBfbZ7r5c/video.m3u8",
+          "duration": 1908,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-39",
+          "title": "Forecasting Ratio Analysis on Financial Model Project",
+          "url": "https://docs.google.com/document/d/1BbViCgeBaWdKnZf_aRxKTLcUmof39dh_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1BbViCgeBaWdKnZf_aRxKTLcUmof39dh_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1BbViCgeBaWdKnZf_aRxKTLcUmof39dh_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1BbViCgeBaWdKnZf_aRxKTLcUmof39dh_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Preparation of Financial Model using Management Discussion & Analysis",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-80",
+          "title": "Pyramid Solutions Financial Modeling Case Study Overview - Step 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36Eu4UFKPyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36Eu4UFKPyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36Eu4UFKPyH/video.m3u8",
+          "duration": 1650,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-81",
+          "title": "Pyramid Financial Model- Analyzing Historical Financial Statements - Step 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bCmbgQNYmn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bCmbgQNYmn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bCmbgQNYmn/video.m3u8",
+          "duration": 889,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-82",
+          "title": "Pyramid Financial Model- Projecting Revenues and Costs, Step 3&4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNgpbCS3c9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNgpbCS3c9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNgpbCS3c9/video.m3u8",
+          "duration": 2082,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-83",
+          "title": "Pyramid Financial Model - Projecting Depreciation Using CAPEX Schedule,Step 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AdahkT7xhE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AdahkT7xhE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AdahkT7xhE/video.m3u8",
+          "duration": 1027,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-84",
+          "title": "Pyramid Financial Model - Projecting Working Capital in Financial Model, Step 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RdbgjEe3tc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RdbgjEe3tc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RdbgjEe3tc/video.m3u8",
+          "duration": 729,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-85",
+          "title": "Pyramid Financial Model - Projecting Cash Flow, Step 7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmUJn9yuga/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmUJn9yuga/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmUJn9yuga/video.m3u8",
+          "duration": 1443,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-86",
+          "title": "Pyramid Financial Model - Projecting Debt and Integrating Statements, Step 8&9",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SyQPMJ7DRa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SyQPMJ7DRa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SyQPMJ7DRa/video.m3u8",
+          "duration": 1672,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-41",
+          "title": "Financial Model of a real life Company Project",
+          "url": "https://docs.google.com/document/d/18hyabQV3uaedF10rAycJ1UA3sS6XqBHM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18hyabQV3uaedF10rAycJ1UA3sS6XqBHM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18hyabQV3uaedF10rAycJ1UA3sS6XqBHM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18hyabQV3uaedF10rAycJ1UA3sS6XqBHM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Calculation of valuation of Company based on instrinsic value",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-87",
+          "title": "Intro to Instrinsic Valuation (DCF) and the concept of discounting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657RPXAfzpt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657RPXAfzpt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657RPXAfzpt/video.m3u8",
+          "duration": 1252,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-88",
+          "title": "Understanding 5 steps of DCF Valuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZN5YdqFZ2R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZN5YdqFZ2R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZN5YdqFZ2R/video.m3u8",
+          "duration": 1628,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-89",
+          "title": "Performing Case Based DCF Valuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YJmXbS3rXR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YJmXbS3rXR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YJmXbS3rXR/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-43",
+          "title": "Infosys DCF Model project",
+          "url": "https://docs.google.com/document/d/1Z--UrPavUhgfupj0bND-li-c1wAyCrQk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Z--UrPavUhgfupj0bND-li-c1wAyCrQk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Z--UrPavUhgfupj0bND-li-c1wAyCrQk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Z--UrPavUhgfupj0bND-li-c1wAyCrQk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Calculation of valuation of Company based on extrinsic value",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-90",
+          "title": "Extrinsic Valuation - Company Valuation Using P_E Multiples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFyjcfHTTte/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFyjcfHTTte/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFyjcfHTTte/video.m3u8",
+          "duration": 1407,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-91",
+          "title": "Extrinsic Valuation - Company Valuation Using EV Sales & EV EBITDA Multiples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tRq22Y2tRM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tRq22Y2tRM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tRq22Y2tRM/video.m3u8",
+          "duration": 1382,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Make flexible & dynamic Financial Model",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-92",
+          "title": "Financial Model Types and Uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32yNjSemCQd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32yNjSemCQd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32yNjSemCQd/video.m3u8",
+          "duration": 1483,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-93",
+          "title": "Financial Model Examples and OMEGA Startup Financial Model Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nxfcGhzJHc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nxfcGhzJHc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nxfcGhzJHc/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-94",
+          "title": "Building Omega Cost Based Startup Financial Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc47PTrtMmP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc47PTrtMmP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc47PTrtMmP/video.m3u8",
+          "duration": 1588,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Creating Data Vizualization charts & Dashboard in excel for Financial Models",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-95",
+          "title": "Creating Financial Model Dashboards with Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x9EQqxz88j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x9EQqxz88j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x9EQqxz88j/video.m3u8",
+          "duration": 1574,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-47",
+          "title": "Comparable Comps Analysis Project",
+          "url": "https://docs.google.com/document/d/19t1KHkRwmYwc065TDVm0Ama8Skf7aq70/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19t1KHkRwmYwc065TDVm0Ama8Skf7aq70/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19t1KHkRwmYwc065TDVm0Ama8Skf7aq70/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19t1KHkRwmYwc065TDVm0Ama8Skf7aq70/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Using powerpoint for business presentations",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-96",
+          "title": "Microsoft Powerpoint Basics & Activation of AI Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Rmurszzkx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Rmurszzkx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Rmurszzkx/video.m3u8",
+          "duration": 1653,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-97",
+          "title": "Creating FinTech PPT Using PowerPoint AI Designer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4tfbm7jskq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4tfbm7jskq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4tfbm7jskq/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-98",
+          "title": "Exploring Internet available AI Tools for making presenatations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDptbYdmQT6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDptbYdmQT6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDptbYdmQT6/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-49",
+          "title": "Business Powerpoint Presentation project",
+          "url": "https://docs.google.com/document/d/1nIrTAQpvVqhCNlHH5RCjuPSsZp0TIL88/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nIrTAQpvVqhCNlHH5RCjuPSsZp0TIL88/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nIrTAQpvVqhCNlHH5RCjuPSsZp0TIL88/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nIrTAQpvVqhCNlHH5RCjuPSsZp0TIL88/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Real life Case Studies on Financial Models",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-99",
+          "title": "Financial Modeling Case Studies and Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8MdK6TcSc2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8MdK6TcSc2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8MdK6TcSc2/video.m3u8",
+          "duration": 1210,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-51",
+          "title": "Financial Modelling Capstone Project",
+          "url": "https://docs.google.com/document/d/1PknvaxJwHN9zwOpHX-ccUux0WS5Kp05c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PknvaxJwHN9zwOpHX-ccUux0WS5Kp05c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PknvaxJwHN9zwOpHX-ccUux0WS5Kp05c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PknvaxJwHN9zwOpHX-ccUux0WS5Kp05c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Financial Modelling using AI",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-100",
+          "title": "Intro to AI for Finance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNQR4PpnmRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNQR4PpnmRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNQR4PpnmRU/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-101",
+          "title": "Understanding the role of AI in Finance & Financial Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Es6aMXZEgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Es6aMXZEgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Es6aMXZEgM/video.m3u8",
+          "duration": 1520,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-102",
+          "title": "Use of AI Tools to support Financial Analysis_Ratio Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r3QsBmBxGD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r3QsBmBxGD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r3QsBmBxGD/video.m3u8",
+          "duration": 2423,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-103",
+          "title": "Generating assumptions, forecasting and building Financial Model using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aztt8a2Axcf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aztt8a2Axcf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aztt8a2Axcf/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-104",
+          "title": "AI Results for Financial Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rPBJ6PA4Sb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rPBJ6PA4Sb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rPBJ6PA4Sb/video.m3u8",
+          "duration": 357,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialmodelling-53",
+          "title": "Exploring the Role of AI in Finance",
+          "url": "https://docs.google.com/document/d/1ol2IGchZUbwMWbrukqah_dvK27IgzCyp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ol2IGchZUbwMWbrukqah_dvK27IgzCyp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ol2IGchZUbwMWbrukqah_dvK27IgzCyp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ol2IGchZUbwMWbrukqah_dvK27IgzCyp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialmodelling-54",
+          "title": "AI-Assisted Financial Forecasting & Valuation",
+          "url": "https://docs.google.com/document/d/1qWplgifaRxfrgf9twdtQsNs6UbhEkHwF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1qWplgifaRxfrgf9twdtQsNs6UbhEkHwF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1qWplgifaRxfrgf9twdtQsNs6UbhEkHwF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1qWplgifaRxfrgf9twdtQsNs6UbhEkHwF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Placement Module",
+      "lectures": [
+        {
+          "id": "td-financialmodelling-105",
+          "title": "Finance Hiring Toolkit Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATFR5meDJS6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATFR5meDJS6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATFR5meDJS6/video.m3u8",
+          "duration": 2711,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-106",
+          "title": "Resume Mistakes and Winning Format Tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbq4TygGDn5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbq4TygGDn5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbq4TygGDn5/video.m3u8",
+          "duration": 1522,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-107",
+          "title": "Building Financial Portfolio_ Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QpTBkrfGan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QpTBkrfGan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QpTBkrfGan/video.m3u8",
+          "duration": 1230,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-108",
+          "title": "Interview Preparation, Question Banks and Mock Practice tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5hQn5k7Gr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5hQn5k7Gr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5hQn5k7Gr/video.m3u8",
+          "duration": 1795,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-109",
+          "title": "LinkedIn Outreach Setup for Referrals Made Easy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TuuTZaRE4z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TuuTZaRE4z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TuuTZaRE4z/video.m3u8",
+          "duration": 2392,
+          "type": "video"
+        },
+        {
+          "id": "td-financialmodelling-110",
+          "title": "Salary and Stipend Negotiation Range Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpN4fkTFqRA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpN4fkTFqRA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpN4fkTFqRA/video.m3u8",
+          "duration": 876,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

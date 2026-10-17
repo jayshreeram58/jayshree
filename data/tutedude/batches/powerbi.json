@@ -1,0 +1,1779 @@
+{
+  "platform": "TuteDude",
+  "batchId": "powerbi",
+  "batchSlug": "powerbi",
+  "batchName": "Power BI",
+  "thumbnail": "https://www.tutedude.com/assets/avif/powerbi.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/powerbi",
+  "totalSections": 11,
+  "totalLectures": 178,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors",
+      "lectures": [
+        {
+          "id": "td-powerbi-1",
+          "title": "How to connect with mentors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introducing Microsoft Power BI",
+      "lectures": [
+        {
+          "id": "td-powerbi-2",
+          "title": "Power BI Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa7ADXJ2Pa5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa7ADXJ2Pa5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa7ADXJ2Pa5/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-3",
+          "title": "Power BI Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eu36UFkRDR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eu36UFkRDR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eu36UFkRDR2/video.m3u8",
+          "duration": 352,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-4",
+          "title": "Adjusting Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3B3mzkQARMK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3B3mzkQARMK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3B3mzkQARMK/video.m3u8",
+          "duration": 344,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-5",
+          "title": "Workflow of Power BI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFEabtF5GH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFEabtF5GH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFEabtF5GH/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-6",
+          "title": "Power BI Helpful Resources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P335saE3hR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P335saE3hR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P335saE3hR/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Connecting and Shaping Data",
+      "lectures": [
+        {
+          "id": "td-powerbi-7",
+          "title": "Front End vs back End",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fR9sbkZK4A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fR9sbkZK4A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fR9sbkZK4A/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-8",
+          "title": "Types of Data Connectors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G6RSKpKXrN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G6RSKpKXrN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G6RSKpKXrN/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-9",
+          "title": "POWER QUERY EDITOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zUQqE9kQneT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zUQqE9kQneT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zUQqE9kQneT/video.m3u8",
+          "duration": 524,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-10",
+          "title": "Basic Data Transformations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ECfEM7mbsyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ECfEM7mbsyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ECfEM7mbsyf/video.m3u8",
+          "duration": 1114,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-11",
+          "title": "Assignment-1-Table Transformation Assignment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQuAec5f78/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQuAec5f78/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQuAec5f78/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-12",
+          "title": "Assignment-1-Table Transformation- Assignment Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cn5PshqrAn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cn5PshqrAn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cn5PshqrAn/video.m3u8",
+          "duration": 881,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-13",
+          "title": "Storage and Connection   Mode",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AYkgpBjCQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AYkgpBjCQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AYkgpBjCQc/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-14",
+          "title": "Connecting To Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J4hghNRgBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J4hghNRgBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J4hghNRgBd/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-15",
+          "title": "Website Data Gathering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CB4aPrNxfh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CB4aPrNxfh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CB4aPrNxfh/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-16",
+          "title": "Data profiling and QA Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ND89PrJEng5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ND89PrJEng5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ND89PrJEng5/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-17",
+          "title": "Text Tools Transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6unnJbGqneT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6unnJbGqneT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6unnJbGqneT/video.m3u8",
+          "duration": 987,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-18",
+          "title": "Assignment-2-Text Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eT6Y9nUM9Zf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eT6Y9nUM9Zf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eT6Y9nUM9Zf/video.m3u8",
+          "duration": 175,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-19",
+          "title": "Assignment-2-Text-Tools-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQq3y2ErEZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQq3y2ErEZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQq3y2ErEZE/video.m3u8",
+          "duration": 241,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-20",
+          "title": "Numeric Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MpmNM6DU7D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MpmNM6DU7D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MpmNM6DU7D/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-21",
+          "title": "Assignment-3-Numeric Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RqUTErGUrq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RqUTErGUrq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RqUTErGUrq/video.m3u8",
+          "duration": 147,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-22",
+          "title": "Assignment-3-Numeric Tools-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68EYjZ2kaXn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68EYjZ2kaXn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68EYjZ2kaXn/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-23",
+          "title": "DATE AND TIME TOOLS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nZgcNt7G8U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nZgcNt7G8U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nZgcNt7G8U/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-24",
+          "title": "Change Type with Locale",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADPc5jExc4m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADPc5jExc4m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADPc5jExc4m/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-25",
+          "title": "Rolling Calendar",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/quch8kcpC8Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/quch8kcpC8Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/quch8kcpC8Z/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-26",
+          "title": "Assignment-4-Calendar tables Assignment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FCcsuMUNua/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FCcsuMUNua/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FCcsuMUNua/video.m3u8",
+          "duration": 126,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-27",
+          "title": "Assignment-4-Calender Tables-Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XxmnQJt8P9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XxmnQJt8P9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XxmnQJt8P9/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-28",
+          "title": "Index and Conditional Column",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695R2KfmAtG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695R2KfmAtG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695R2KfmAtG/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-29",
+          "title": "Grouping and Aggregating",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ms2n7fxSrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ms2n7fxSrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ms2n7fxSrf/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-30",
+          "title": "Pivoting and Unpivoting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZBzesBnYm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZBzesBnYm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZBzesBnYm/video.m3u8",
+          "duration": 817,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-31",
+          "title": "Merging Queries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M9uQGqbn7A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M9uQGqbn7A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M9uQGqbn7A/video.m3u8",
+          "duration": 924,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-32",
+          "title": "Appending Queries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeMZjRu87J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeMZjRu87J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeMZjRu87J/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-33",
+          "title": "Data Gathering From Folder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmnGZGanJSS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmnGZGanJSS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmnGZGanJSS/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-34",
+          "title": "Data Source Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf3eSghfxh3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf3eSghfxh3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf3eSghfxh3/video.m3u8",
+          "duration": 777,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-35",
+          "title": "Refresh Button",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bhfRqAYYfG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bhfRqAYYfG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bhfRqAYYfG/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-36",
+          "title": "importing Excel Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7R5hdan2DK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7R5hdan2DK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7R5hdan2DK/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-powerbi-4",
+          "title": "Table Transformation",
+          "url": "https://www.canva.com/design/DAHDQXn-4Gw/_ZyVhY4N6e9bXAV8UEHo-Q/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQXn-4Gw/_ZyVhY4N6e9bXAV8UEHo-Q/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQXn-4Gw/_ZyVhY4N6e9bXAV8UEHo-Q/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQXn-4Gw/_ZyVhY4N6e9bXAV8UEHo-Q/view?embed",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-powerbi-5",
+          "title": "Calendar tables Assignment",
+          "url": "https://www.canva.com/design/DAHDQp_qAww/3PS8PfmqYMsdcq136D80mw/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQp_qAww/3PS8PfmqYMsdcq136D80mw/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQp_qAww/3PS8PfmqYMsdcq136D80mw/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQp_qAww/3PS8PfmqYMsdcq136D80mw/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Creating a Data Model",
+      "lectures": [
+        {
+          "id": "td-powerbi-37",
+          "title": "Creating A Data Model Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MMTadFy4mZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MMTadFy4mZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MMTadFy4mZ/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-38",
+          "title": "What is a Data Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p9HUAzz4HM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p9HUAzz4HM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p9HUAzz4HM/video.m3u8",
+          "duration": 691,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-39",
+          "title": "Database Normalization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nQ7tFrn4n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nQ7tFrn4n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nQ7tFrn4n/video.m3u8",
+          "duration": 1047,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-40",
+          "title": "Fact And Dimension Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bghmxuz3edt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bghmxuz3edt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bghmxuz3edt/video.m3u8",
+          "duration": 726,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-41",
+          "title": "PRIMARY AND FOREIGN KEYS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhN4ZBJ43x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhN4ZBJ43x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhN4ZBJ43x/video.m3u8",
+          "duration": 1028,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-42",
+          "title": "Merged Table vs Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88mHjetHBUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88mHjetHBUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88mHjetHBUE/video.m3u8",
+          "duration": 266,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-43",
+          "title": "Creating Table Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7KpdyeFfK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7KpdyeFfK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7KpdyeFfK/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-44",
+          "title": "Managing and Editing Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6eU5zeMMQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6eU5zeMMQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6eU5zeMMQ6/video.m3u8",
+          "duration": 376,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-45",
+          "title": "Star and SnowFlake Schema",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbXTMAXhtDf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbXTMAXhtDf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbXTMAXhtDf/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-46",
+          "title": "Assignment-1-Table-Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxnqffNUxPn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxnqffNUxPn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxnqffNUxPn/video.m3u8",
+          "duration": 276,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-47",
+          "title": "Assignment-1-Table Relationships- Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHCuk8jXuAa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHCuk8jXuAa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHCuk8jXuAa/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-48",
+          "title": "Active and Inactive Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABdHPggdQC5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABdHPggdQC5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABdHPggdQC5/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-49",
+          "title": "Relationship Cardinality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJkuyzAGmPd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJkuyzAGmPd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJkuyzAGmPd/video.m3u8",
+          "duration": 1199,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-50",
+          "title": "Connectng Multiple Fact Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n4x2tSjTDj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n4x2tSjTDj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n4x2tSjTDj/video.m3u8",
+          "duration": 830,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-51",
+          "title": "Filter Context and Filter Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49b4Gym3j34/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49b4Gym3j34/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49b4Gym3j34/video.m3u8",
+          "duration": 844,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-52",
+          "title": "BiDirectional Filter and Ambiguity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rPFdcp4Qgd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rPFdcp4Qgd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rPFdcp4Qgd/video.m3u8",
+          "duration": 976,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-53",
+          "title": "Hide in Report View",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfdnRCNjYpY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfdnRCNjYpY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfdnRCNjYpY/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-54",
+          "title": "Assignment-2-Filter Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3f4N6qjBf7g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3f4N6qjBf7g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3f4N6qjBf7g/video.m3u8",
+          "duration": 202,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-55",
+          "title": "Assignment-2-Filter Flow-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RnQJdhjDFC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RnQJdhjDFC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RnQJdhjDFC/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-56",
+          "title": "Model Layouts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpKqDNCUD6J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpKqDNCUD6J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpKqDNCUD6J/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-57",
+          "title": "Data Format and Category",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xsjx8f94pg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xsjx8f94pg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xsjx8f94pg/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-58",
+          "title": "Heirarchies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHu8uKU2a9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHu8uKU2a9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHu8uKU2a9/video.m3u8",
+          "duration": 641,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-59",
+          "title": "Assignment-3-Heirarchies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6bScQJguA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6bScQJguA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6bScQJguA/video.m3u8",
+          "duration": 111,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-60",
+          "title": "Assignment-3-Heirarchies-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qreBZdR232/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qreBZdR232/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qreBZdR232/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-powerbi-7",
+          "title": "Table Relationships",
+          "url": "https://www.canva.com/design/DAHDQ1mc_ls/zxcow-eoargO_6mqqNTs9A/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ1mc_ls/zxcow-eoargO_6mqqNTs9A/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ1mc_ls/zxcow-eoargO_6mqqNTs9A/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ1mc_ls/zxcow-eoargO_6mqqNTs9A/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Calculated Field with Dax",
+      "lectures": [
+        {
+          "id": "td-powerbi-61",
+          "title": "DAX Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGgAd7HfZA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGgAd7HfZA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGgAd7HfZA/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-62",
+          "title": "Dax Vs M Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eP9gkSUFA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eP9gkSUFA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eP9gkSUFA4/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-63",
+          "title": "Calculated Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76KBU298F6b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76KBU298F6b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76KBU298F6b/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-64",
+          "title": "Dax Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzCM9JnTkgs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzCM9JnTkgs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzCM9JnTkgs/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-65",
+          "title": "Implicit vs Explicit Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HPTUMQxSBB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HPTUMQxSBB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HPTUMQxSBB/video.m3u8",
+          "duration": 695,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-66",
+          "title": "Quick Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Cs4yuTMrUB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Cs4yuTMrUB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Cs4yuTMrUB/video.m3u8",
+          "duration": 503,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-67",
+          "title": "Measure Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkbd3j2t5u6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkbd3j2t5u6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkbd3j2t5u6/video.m3u8",
+          "duration": 787,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-68",
+          "title": "Filter Context",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SBEsGU3rqP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SBEsGU3rqP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SBEsGU3rqP/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-69",
+          "title": "Dax Syntax and Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69XRfJPS3D6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69XRfJPS3D6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69XRfJPS3D6/video.m3u8",
+          "duration": 1197,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-70",
+          "title": "Common Function Category",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TxB8sAZREy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TxB8sAZREy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TxB8sAZREy/video.m3u8",
+          "duration": 1055,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-71",
+          "title": "Basic Math and Stats Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ptAerzgdNg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ptAerzgdNg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ptAerzgdNg/video.m3u8",
+          "duration": 949,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-72",
+          "title": "Counting functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APjStJDkC7M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APjStJDkC7M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APjStJDkC7M/video.m3u8",
+          "duration": 1258,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-73",
+          "title": "Assignment-1-Maths and Stats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86shnjFeenE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86shnjFeenE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86shnjFeenE/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-74",
+          "title": "Assignment-1-Maths and Stats-Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g9MBFj97Sq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g9MBFj97Sq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g9MBFj97Sq/video.m3u8",
+          "duration": 586,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-75",
+          "title": "Conditional and Logical Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NHyX8e78qm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NHyX8e78qm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NHyX8e78qm/video.m3u8",
+          "duration": 1091,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-76",
+          "title": "Switch Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kUJZd99qkC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kUJZd99qkC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kUJZd99qkC/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-77",
+          "title": "Assignment-2-Logical functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EeCHyFGMuy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EeCHyFGMuy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EeCHyFGMuy/video.m3u8",
+          "duration": 252,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-78",
+          "title": "Assignment-2-Logical functions-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rejhZsyTyah/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rejhZsyTyah/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rejhZsyTyah/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-79",
+          "title": "Text Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3pybFAj3ad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3pybFAj3ad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3pybFAj3ad/video.m3u8",
+          "duration": 1406,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-80",
+          "title": "Assignment-3-Text functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KTuthkfzRu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KTuthkfzRu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KTuthkfzRu/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-81",
+          "title": "Assignment-3-Text functions-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hmSszfKPSg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hmSszfKPSg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hmSszfKPSg/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-82",
+          "title": "Date and Time Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQpXRT2nC3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQpXRT2nC3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQpXRT2nC3/video.m3u8",
+          "duration": 1551,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-83",
+          "title": "Assignment-4-Date and Time",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXuEjknkUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXuEjknkUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXuEjknkUM/video.m3u8",
+          "duration": 72,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-84",
+          "title": "Assignment-4-Date and Time-Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S2sZUFFxDEn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S2sZUFFxDEn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S2sZUFFxDEn/video.m3u8",
+          "duration": 126,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-85",
+          "title": "Joining Data with Related",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A56rRcRQJnS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A56rRcRQJnS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A56rRcRQJnS/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-86",
+          "title": "Calculate Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74HgSQg9K4C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74HgSQg9K4C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74HgSQg9K4C/video.m3u8",
+          "duration": 1473,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-87",
+          "title": "DAX Measure Totals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PnbKgHmJ2j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PnbKgHmJ2j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PnbKgHmJ2j/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-88",
+          "title": "Assignment-5-Calculate Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACGSmKf8zae/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACGSmKf8zae/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACGSmKf8zae/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-89",
+          "title": "Assignment-5-Calculate Function-Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2SccBQUc3S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2SccBQUc3S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2SccBQUc3S/video.m3u8",
+          "duration": 854,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-90",
+          "title": "ALL Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fmxnnr33Fp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fmxnnr33Fp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fmxnnr33Fp/video.m3u8",
+          "duration": 1649,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-91",
+          "title": "Assignment-6-Calculate and ALL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b7R3ju64qG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b7R3ju64qG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b7R3ju64qG/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-92",
+          "title": "Assignment-6-Calculate and ALL-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rJebeyB3Nr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rJebeyB3Nr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rJebeyB3Nr/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-93",
+          "title": "Filter Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88x5m7yTuTd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88x5m7yTuTd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88x5m7yTuTd/video.m3u8",
+          "duration": 1322,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-94",
+          "title": "Iterator Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qqpc4Xq7Gj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qqpc4Xq7Gj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qqpc4Xq7Gj/video.m3u8",
+          "duration": 1681,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-95",
+          "title": "Assignment-7-Iterators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/672ytaNCB5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/672ytaNCB5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/672ytaNCB5B/video.m3u8",
+          "duration": 166,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-96",
+          "title": "Assignment-7-Iterators-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zc6Qq5as7p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zc6Qq5as7p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zc6Qq5as7p/video.m3u8",
+          "duration": 544,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-97",
+          "title": "Time Intelligence Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR49Rg8NT4U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR49Rg8NT4U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR49Rg8NT4U/video.m3u8",
+          "duration": 1783,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-98",
+          "title": "Assignment-8-Time Intelligence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uy4mJgpxkR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uy4mJgpxkR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uy4mJgpxkR/video.m3u8",
+          "duration": 115,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-99",
+          "title": "Assignment-8-Time Intelligence-Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYkXgChXBJ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYkXgChXBJ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYkXgChXBJ9/video.m3u8",
+          "duration": 991,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-powerbi-9",
+          "title": "Maths and Stats",
+          "url": "https://www.canva.com/design/DAHDQ9A61l0/Uzuy-f3IjTZIwpBQP13S5Q/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ9A61l0/Uzuy-f3IjTZIwpBQP13S5Q/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ9A61l0/Uzuy-f3IjTZIwpBQP13S5Q/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ9A61l0/Uzuy-f3IjTZIwpBQP13S5Q/view?embed",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-powerbi-10",
+          "title": "Calculate Function",
+          "url": "https://www.canva.com/design/DAHDQyGGiCQ/M6Y_DQrLy_i1H8O0-TSfGA/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQyGGiCQ/M6Y_DQrLy_i1H8O0-TSfGA/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQyGGiCQ/M6Y_DQrLy_i1H8O0-TSfGA/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQyGGiCQ/M6Y_DQrLy_i1H8O0-TSfGA/view?embed",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-powerbi-11",
+          "title": "Time Intelligence",
+          "url": "https://www.canva.com/design/DAHDQ4YSaWE/VR1CvtPAVQQ52Zjzb7Wm7A/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ4YSaWE/VR1CvtPAVQQ52Zjzb7Wm7A/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ4YSaWE/VR1CvtPAVQQ52Zjzb7Wm7A/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ4YSaWE/VR1CvtPAVQQ52Zjzb7Wm7A/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Visualizing Dashboard",
+      "lectures": [
+        {
+          "id": "td-powerbi-100",
+          "title": "Dashboard Intro and three key questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9aRTTD2tEC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9aRTTD2tEC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9aRTTD2tEC/video.m3u8",
+          "duration": 2326,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-101",
+          "title": "Dashboard Sketch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQC6rtUSX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQC6rtUSX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQC6rtUSX/video.m3u8",
+          "duration": 1421,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-102",
+          "title": "Adding Report Pages and objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zxSUG45huUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zxSUG45huUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zxSUG45huUt/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-103",
+          "title": "Naming and Grouping Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zemp6hfq8t5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zemp6hfq8t5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zemp6hfq8t5/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-104",
+          "title": "Cards and Multi Row Cards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rXsa4sjsU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rXsa4sjsU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rXsa4sjsU/video.m3u8",
+          "duration": 1189,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-105",
+          "title": "Assignment-1-Cards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4GFmN8eEP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4GFmN8eEP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4GFmN8eEP/video.m3u8",
+          "duration": 109,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-106",
+          "title": "Assignment-1-cards-solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9E729Rct7e5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9E729Rct7e5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9E729Rct7e5/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-107",
+          "title": "Line Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jH33hbk5MH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jH33hbk5MH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jH33hbk5MH/video.m3u8",
+          "duration": 1068,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-108",
+          "title": "Trend lines and Forecasts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnQTx5qPJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnQTx5qPJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnQTx5qPJ/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-109",
+          "title": "Assignment-2-Line Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nQxTSfsE4c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nQxTSfsE4c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nQxTSfsE4c/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-110",
+          "title": "Assignment-2-Line Charts-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J2HfCSC5Xm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J2HfCSC5Xm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J2HfCSC5Xm/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-111",
+          "title": "KPI Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Te2SuTGppT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Te2SuTGppT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Te2SuTGppT/video.m3u8",
+          "duration": 1435,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-112",
+          "title": "Bar and Donut Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8yKF8bteB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8yKF8bteB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8yKF8bteB/video.m3u8",
+          "duration": 896,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-113",
+          "title": "Filtering Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RgehH4u3NX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RgehH4u3NX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RgehH4u3NX/video.m3u8",
+          "duration": 851,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-114",
+          "title": "Assignment-3-Donuts and Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYxfshraF66/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYxfshraF66/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYxfshraF66/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-115",
+          "title": "Assignment-3-Donut Charts and Filters-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/487rzmRBQPH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/487rzmRBQPH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/487rzmRBQPH/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-116",
+          "title": "Table and Matrix Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8NNmkUu5EP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8NNmkUu5EP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8NNmkUu5EP/video.m3u8",
+          "duration": 1015,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-117",
+          "title": "Conditional Formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZMak2H3g5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZMak2H3g5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZMak2H3g5B/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-118",
+          "title": "TOP N Filtering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UBAuCPyTDs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UBAuCPyTDs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UBAuCPyTDs/video.m3u8",
+          "duration": 272,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-119",
+          "title": "Assignment-4-tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cq4jX3MJuS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cq4jX3MJuS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cq4jX3MJuS/video.m3u8",
+          "duration": 161,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-120",
+          "title": "Assignment-4-Tables-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGZxQRyKJfj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGZxQRyKJfj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGZxQRyKJfj/video.m3u8",
+          "duration": 859,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-121",
+          "title": "Top N Text Cards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHyadPNhEQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHyadPNhEQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHyadPNhEQ/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-122",
+          "title": "Assignment-5-Top N Text Cards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGTGpYyZfq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGTGpYyZfq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGTGpYyZfq/video.m3u8",
+          "duration": 142,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-123",
+          "title": "Assignment-5-Top N Text Cards-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5m62G5ChUu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5m62G5ChUu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5m62G5ChUu/video.m3u8",
+          "duration": 1303,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-124",
+          "title": "Map Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d4RM7N6du3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d4RM7N6du3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d4RM7N6du3/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-125",
+          "title": "Slicers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eS9dqQZzBH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eS9dqQZzBH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eS9dqQZzBH/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-126",
+          "title": "Assignment-5-Slicers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANjCXPMqbXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANjCXPMqbXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANjCXPMqbXp/video.m3u8",
+          "duration": 95,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-127",
+          "title": "Assignment-5-Slicers-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eS5cqQUrUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eS5cqQUrUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eS5cqQUrUU/video.m3u8",
+          "duration": 522,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-128",
+          "title": "HasOne Values Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RcEj5fsRRE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RcEj5fsRRE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RcEj5fsRRE/video.m3u8",
+          "duration": 1037,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-129",
+          "title": "Gauge Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bbZYDYKjA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bbZYDYKjA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bbZYDYKjA/video.m3u8",
+          "duration": 1080,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-130",
+          "title": "Advanced Conditional Formatting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSutbpqfHA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSutbpqfHA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSutbpqfHA/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-131",
+          "title": "Area Chart Visual",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNxUDzEHUq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNxUDzEHUq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNxUDzEHUq/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-132",
+          "title": "Drill Up and Drill Down Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jChq9jPe43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jChq9jPe43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jChq9jPe43/video.m3u8",
+          "duration": 1131,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-133",
+          "title": "Assignment-6-Drill up and Drill Down",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gmKeNecaZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gmKeNecaZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gmKeNecaZk/video.m3u8",
+          "duration": 199,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-134",
+          "title": "Assignment-6-Drill Up and Drill Down-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Urp9cyqDt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Urp9cyqDt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Urp9cyqDt/video.m3u8",
+          "duration": 452,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-135",
+          "title": "Drill Through Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MxdsEgnnDn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MxdsEgnnDn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MxdsEgnnDn/video.m3u8",
+          "duration": 746,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-136",
+          "title": "Report Interactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UhDRt5CcgN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UhDRt5CcgN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UhDRt5CcgN/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-137",
+          "title": "Assignment-7-Report Interactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jMBg7hDCjH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jMBg7hDCjH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jMBg7hDCjH/video.m3u8",
+          "duration": 128,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-138",
+          "title": "Assignment-7-Report Interactions-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JXp6saDSh58/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JXp6saDSh58/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JXp6saDSh58/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-139",
+          "title": "Bookmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kS286NQbq6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kS286NQbq6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kS286NQbq6/video.m3u8",
+          "duration": 986,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-140",
+          "title": "Assignment-8-Bookmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fkaJKzb33Qt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fkaJKzb33Qt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fkaJKzb33Qt/video.m3u8",
+          "duration": 160,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-141",
+          "title": "Assignment-8-Bookmarks-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaBtxageG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaBtxageG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaBtxageG4/video.m3u8",
+          "duration": 1189,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-142",
+          "title": "Navigation Buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjYZF4ZC9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjYZF4ZC9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjYZF4ZC9R/video.m3u8",
+          "duration": 1405,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-143",
+          "title": "Slicer Panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32djZmcUkq7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32djZmcUkq7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32djZmcUkq7/video.m3u8",
+          "duration": 1921,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-144",
+          "title": "Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gjzUTuukmP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gjzUTuukmP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gjzUTuukmP/video.m3u8",
+          "duration": 1279,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-145",
+          "title": "Assignment-9-Field Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bhXFrZuEa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bhXFrZuEa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bhXFrZuEa/video.m3u8",
+          "duration": 156,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-146",
+          "title": "Assignment-9-Field Parameters-Solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n62FFAZtxd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n62FFAZtxd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n62FFAZtxd/video.m3u8",
+          "duration": 641,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-147",
+          "title": "Custom ToolTip",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjyaFEY3d9g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjyaFEY3d9g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjyaFEY3d9g/video.m3u8",
+          "duration": 1016,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-148",
+          "title": "Power BI service Sign In",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3UhQFHpFKX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3UhQFHpFKX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3UhQFHpFKX/video.m3u8",
+          "duration": 148,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-149",
+          "title": "Importing Custom Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aa47UUJg3q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aa47UUJg3q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aa47UUJg3q/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-150",
+          "title": "Mobile Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E5rxq9Tj5g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E5rxq9Tj5g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E5rxq9Tj5g/video.m3u8",
+          "duration": 413,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-151",
+          "title": "Publishing Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sY9pGcZXyy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sY9pGcZXyy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sY9pGcZXyy/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-powerbi-13",
+          "title": "Slicers",
+          "url": "https://www.canva.com/design/DAHDQ5Pv924/5r-c1-x_k14R--NyXMMXXA/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ5Pv924/5r-c1-x_k14R--NyXMMXXA/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ5Pv924/5r-c1-x_k14R--NyXMMXXA/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ5Pv924/5r-c1-x_k14R--NyXMMXXA/view?embed",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-powerbi-14",
+          "title": "Bookmarks",
+          "url": "https://www.canva.com/design/DAHDQ6-Uyrg/VEr_tlwOtd73llthGflD3w/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ6-Uyrg/VEr_tlwOtd73llthGflD3w/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ6-Uyrg/VEr_tlwOtd73llthGflD3w/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ6-Uyrg/VEr_tlwOtd73llthGflD3w/view?embed",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-powerbi-15",
+          "title": "Field Parameters",
+          "url": "https://www.canva.com/design/DAHDQw3zuOg/Qk1Xdh1OrZKoZNXgfCjK5Q/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQw3zuOg/Qk1Xdh1OrZKoZNXgfCjK5Q/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQw3zuOg/Qk1Xdh1OrZKoZNXgfCjK5Q/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQw3zuOg/Qk1Xdh1OrZKoZNXgfCjK5Q/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Artifical Intelligence",
+      "lectures": [
+        {
+          "id": "td-powerbi-152",
+          "title": "Anomaly Detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2ty9EURyR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2ty9EURyR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2ty9EURyR/video.m3u8",
+          "duration": 1984,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-153",
+          "title": "Smart Narrative",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzskAjNJdQM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzskAjNJdQM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzskAjNJdQM/video.m3u8",
+          "duration": 2322,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-154",
+          "title": "Q and A Visual",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JrdfXzkM2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JrdfXzkM2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JrdfXzkM2/video.m3u8",
+          "duration": 2155,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-155",
+          "title": "Decomposition Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62m7BgdYGsF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62m7BgdYGsF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62m7BgdYGsF/video.m3u8",
+          "duration": 1243,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-156",
+          "title": "Key Influencers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KDYaSkRdxx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KDYaSkRdxx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KDYaSkRdxx/video.m3u8",
+          "duration": 1511,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Optimization in Power BI",
+      "lectures": [
+        {
+          "id": "td-powerbi-157",
+          "title": "Pause Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMHZUz4sZEX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMHZUz4sZEX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMHZUz4sZEX/video.m3u8",
+          "duration": 859,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-158",
+          "title": "Optimization Preset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zXTZAdSj7q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zXTZAdSj7q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zXTZAdSj7q/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-159",
+          "title": "Apply all Slicers Button",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6fTbDPQFXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6fTbDPQFXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6fTbDPQFXp/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-160",
+          "title": "Performance Analyzer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hHM74epT9N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hHM74epT9N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hHM74epT9N/video.m3u8",
+          "duration": 1457,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Power BI New Features and Updates",
+      "lectures": [
+        {
+          "id": "td-powerbi-161",
+          "title": "Power BI New Features and Updates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RkkCfjeQCh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RkkCfjeQCh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RkkCfjeQCh/video.m3u8",
+          "duration": 2856,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-powerbi-19",
+          "title": "Course Completion Project",
+          "url": "https://www.canva.com/design/DAHDQ1G6gPs/TsJnsycge74eGkm7o8BvkQ/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHDQ1G6gPs/TsJnsycge74eGkm7o8BvkQ/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHDQ1G6gPs/TsJnsycge74eGkm7o8BvkQ/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHDQ1G6gPs/TsJnsycge74eGkm7o8BvkQ/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "PowerBI Project",
+      "lectures": [
+        {
+          "id": "td-powerbi-162",
+          "title": "Overview of the PowerBI Analytics Project.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rC257sMm2U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rC257sMm2U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rC257sMm2U/video.m3u8",
+          "duration": 1332,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-163",
+          "title": "Understanding of the Data.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xJD3TymQAk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xJD3TymQAk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xJD3TymQAk/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-164",
+          "title": "SQL ETL & Data Transformation.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8JTTTP2GhX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8JTTTP2GhX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8JTTTP2GhX/video.m3u8",
+          "duration": 2310,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-165",
+          "title": "Real word Usecases using SQL.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Neb445rMzft/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Neb445rMzft/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Neb445rMzft/video.m3u8",
+          "duration": 2666,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-166",
+          "title": "Transformation Query using SQL.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fR76NPyHQm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fR76NPyHQm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fR76NPyHQm/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-167",
+          "title": "Data Modeling and Data Validation.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGeJa8Nf9c6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGeJa8Nf9c6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGeJa8Nf9c6/video.m3u8",
+          "duration": 1867,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-168",
+          "title": "DAX (BASIC-ADVANCED) + UseCases + Formulas.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hk2Q2KGMmS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hk2Q2KGMmS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hk2Q2KGMmS/video.m3u8",
+          "duration": 2126,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-169",
+          "title": "Creating Customer, Product, Inventory Analysis Measures.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpxchN2tuGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpxchN2tuGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpxchN2tuGR/video.m3u8",
+          "duration": 626,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-170",
+          "title": "Visualization and dashboard building.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KnyEFmRb7HE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KnyEFmRb7HE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KnyEFmRb7HE/video.m3u8",
+          "duration": 1690,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-171",
+          "title": "Store Performance and Product Analytics.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HS7dTehcXzB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HS7dTehcXzB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HS7dTehcXzB/video.m3u8",
+          "duration": 1218,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-172",
+          "title": "Inventory and Customer Analytics.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqYDkUcDPq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqYDkUcDPq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqYDkUcDPq/video.m3u8",
+          "duration": 1963,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Job Readiness & Placement Support",
+      "lectures": [
+        {
+          "id": "td-powerbi-173",
+          "title": "Building a Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGTQZxstbMe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGTQZxstbMe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGTQZxstbMe/video.m3u8",
+          "duration": 3505,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-174",
+          "title": "Customizing the Resume as per Job Description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f3QFXNzTQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f3QFXNzTQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f3QFXNzTQ6/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-175",
+          "title": "How to Apply for Jobs Internships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mXFs6KhMKZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mXFs6KhMKZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mXFs6KhMKZ/video.m3u8",
+          "duration": 3371,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-176",
+          "title": "Interview Preparation tricks and tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FDz2P7k6rQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FDz2P7k6rQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FDz2P7k6rQ/video.m3u8",
+          "duration": 1483,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-177",
+          "title": "Mock Inteview Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8",
+          "duration": 2215,
+          "type": "video"
+        },
+        {
+          "id": "td-powerbi-178",
+          "title": "Additional things to make profile stronger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EN9M9sbykE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EN9M9sbykE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EN9M9sbykE/video.m3u8",
+          "duration": 1580,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

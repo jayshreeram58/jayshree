@@ -1,0 +1,437 @@
+{
+  "platform": "TuteDude",
+  "batchId": "davinciresolve",
+  "batchSlug": "davinciresolve",
+  "batchName": "DaVinci Resolve",
+  "thumbnail": "https://www.tutedude.com/assets/avif/davinciresolve.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/davinciresolve",
+  "totalSections": 8,
+  "totalLectures": 37,
+  "totalNotes": 4,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to Video editing",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-1",
+          "title": "Understanding Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FDjmXNMF7m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FDjmXNMF7m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FDjmXNMF7m/video.m3u8",
+          "duration": 1182,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-2",
+          "title": "Essential Video editing Technique",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xkErc5KBGy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xkErc5KBGy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xkErc5KBGy/video.m3u8",
+          "duration": 931,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-3",
+          "title": "Types and terms in Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/437DHhnByGB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/437DHhnByGB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/437DHhnByGB/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-4",
+          "title": "Shot types and camera angles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B55nDQQRQ4N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B55nDQQRQ4N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B55nDQQRQ4N/video.m3u8",
+          "duration": 980,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-5",
+          "title": "Introduction to DaVinci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JhN7yEFtHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JhN7yEFtHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JhN7yEFtHF/video.m3u8",
+          "duration": 1158,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-davinciresolve-2",
+          "title": "Video Observation & Editing Analysis",
+          "url": "https://www.canva.com/design/DAHBxCzOE7o/kwcXowUQgDSux9JVYgEy8A/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHBxCzOE7o/kwcXowUQgDSux9JVYgEy8A/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHBxCzOE7o/kwcXowUQgDSux9JVYgEy8A/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHBxCzOE7o/kwcXowUQgDSux9JVYgEy8A/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "understanding Da VInci Resolve",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-6",
+          "title": "Understanding the interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DR22pgJHEh7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DR22pgJHEh7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DR22pgJHEh7/video.m3u8",
+          "duration": 1109,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-7",
+          "title": "Exploring all pages of the DaVinci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UYteyxCSf2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UYteyxCSf2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UYteyxCSf2/video.m3u8",
+          "duration": 1035,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-8",
+          "title": "Customizing the workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tp72rJEjrC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tp72rJEjrC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tp72rJEjrC/video.m3u8",
+          "duration": 1584,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-9",
+          "title": "Editing your First Story",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QJF8fJ6z3Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QJF8fJ6z3Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QJF8fJ6z3Q/video.m3u8",
+          "duration": 2454,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-davinciresolve-4",
+          "title": "Edit Your First Video",
+          "url": "https://docs.google.com/document/d/1e0CN4lZmle_7zSLV_a39nQP1ZQcs0sxWCZJaWdF6r0g/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1e0CN4lZmle_7zSLV_a39nQP1ZQcs0sxWCZJaWdF6r0g/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1e0CN4lZmle_7zSLV_a39nQP1ZQcs0sxWCZJaWdF6r0g/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1e0CN4lZmle_7zSLV_a39nQP1ZQcs0sxWCZJaWdF6r0g/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Text effects in Da VInci Resolve",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-10",
+          "title": "Text effects for your shorts and reels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tHrekSqDa6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tHrekSqDa6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tHrekSqDa6/video.m3u8",
+          "duration": 1699,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-11",
+          "title": "Creating Text effecgs in Fusion composition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbaTFPmMX6c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbaTFPmMX6c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbaTFPmMX6c/video.m3u8",
+          "duration": 2558,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-12",
+          "title": "Creating Motion graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g5MU3kdt3h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g5MU3kdt3h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g5MU3kdt3h/video.m3u8",
+          "duration": 970,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-13",
+          "title": "Applying DVE node",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dByCmzn95j5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dByCmzn95j5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dByCmzn95j5/video.m3u8",
+          "duration": 1014,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-14",
+          "title": "Switching from Fusion to Edit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Xscnd9jN9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Xscnd9jN9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Xscnd9jN9/video.m3u8",
+          "duration": 721,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-davinciresolve-6",
+          "title": "Replicate Text Editing",
+          "url": "https://www.canva.com/design/DAHBxgjwjIE/oleKcogrGTulyRuebZ906A/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHBxgjwjIE/oleKcogrGTulyRuebZ906A/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHBxgjwjIE/oleKcogrGTulyRuebZ906A/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHBxgjwjIE/oleKcogrGTulyRuebZ906A/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Fusion Motion graphics in Da VInci",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-15",
+          "title": "Creating fake shadows in Fusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bc6NCCk4Hs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bc6NCCk4Hs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bc6NCCk4Hs/video.m3u8",
+          "duration": 951,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-16",
+          "title": "Controlling Animation with spline curve",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdPK5PMjHX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdPK5PMjHX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdPK5PMjHX7/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-17",
+          "title": "Creating Pop up effect in DaVInci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ysMG2Qr6xS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ysMG2Qr6xS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ysMG2Qr6xS/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-18",
+          "title": "3D motion Graphics in DaVInci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpmaKp4TYh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpmaKp4TYh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpmaKp4TYh/video.m3u8",
+          "duration": 1711,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-davinciresolve-8",
+          "title": "Replicate Card Animation",
+          "url": "https://www.canva.com/design/DAHBxmdu1Lk/0XaCVKpjO0yEG2kFLeOe3w/view?embed",
+          "pdfUrl": "https://www.canva.com/design/DAHBxmdu1Lk/0XaCVKpjO0yEG2kFLeOe3w/view?embed",
+          "playerUrl": "https://www.canva.com/design/DAHBxmdu1Lk/0XaCVKpjO0yEG2kFLeOe3w/view?embed",
+          "downloadUrl": "https://www.canva.com/design/DAHBxmdu1Lk/0XaCVKpjO0yEG2kFLeOe3w/view?embed",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "3d compositing in Da Vinci resolve",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-19",
+          "title": "Merge 3d mode for 3d Compositing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mDAmB4CPkm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mDAmB4CPkm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mDAmB4CPkm/video.m3u8",
+          "duration": 1258,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-20",
+          "title": "UNderstanding  3D Camera Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5nAcN67TXt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5nAcN67TXt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5nAcN67TXt/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-21",
+          "title": "Lighting in 3d motion graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB4RT4EhfJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB4RT4EhfJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB4RT4EhfJ/video.m3u8",
+          "duration": 1061,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-22",
+          "title": "3D logo animation in Davinci resolve",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Att9nAB7Srs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Att9nAB7Srs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Att9nAB7Srs/video.m3u8",
+          "duration": 1255,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Color Grading in Da Vinci  Reslove",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-23",
+          "title": "All about color grading in DaVinci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t4XfmaXaUd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t4XfmaXaUd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t4XfmaXaUd/video.m3u8",
+          "duration": 1796,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-24",
+          "title": "Applying color grading in various conditions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7ehqsq97S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7ehqsq97S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7ehqsq97S/video.m3u8",
+          "duration": 2762,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-25",
+          "title": "Advance Color Grading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGr7Q9DsFfH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGr7Q9DsFfH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGr7Q9DsFfH/video.m3u8",
+          "duration": 1641,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tracking and Matchmoving in Da Vinci",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-26",
+          "title": "Undrstanding tracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ua48k9QsY9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ua48k9QsY9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ua48k9QsY9/video.m3u8",
+          "duration": 1775,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-27",
+          "title": "Traking and Camera Stablizing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Azjyh88Qta/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Azjyh88Qta/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Azjyh88Qta/video.m3u8",
+          "duration": 1188,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-28",
+          "title": "Planer tracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RQ6sSxkQya/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RQ6sSxkQya/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RQ6sSxkQya/video.m3u8",
+          "duration": 738,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-29",
+          "title": "Applying Perspective tracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tquPe8cXUQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tquPe8cXUQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tquPe8cXUQ/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-30",
+          "title": "Traking Tv Screen for VFx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kJ58fXscQA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kJ58fXscQA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kJ58fXscQA/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-31",
+          "title": "How to Apply Surface Tracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnPDXgfrSh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnPDXgfrSh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnPDXgfrSh/video.m3u8",
+          "duration": 1059,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-32",
+          "title": "Indroduction to Advance tracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2Xfbaquk2X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2Xfbaquk2X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2Xfbaquk2X/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-33",
+          "title": "3d Camera tracking in Va Vinci Resolve",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fPmKDm8XCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fPmKDm8XCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fPmKDm8XCP/video.m3u8",
+          "duration": 2756,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with sound",
+      "lectures": [
+        {
+          "id": "td-davinciresolve-34",
+          "title": "Understanding Sound Properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526hY2n7g4M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526hY2n7g4M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526hY2n7g4M/video.m3u8",
+          "duration": 2269,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-35",
+          "title": "fairlight for Sound Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JeCDktgMntG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JeCDktgMntG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JeCDktgMntG/video.m3u8",
+          "duration": 1111,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-36",
+          "title": "Working with Sound Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ucEkckrTGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ucEkckrTGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ucEkckrTGY/video.m3u8",
+          "duration": 1167,
+          "type": "video"
+        },
+        {
+          "id": "td-davinciresolve-37",
+          "title": "Saving and Experting your video in Da Vinci",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99YA6eEAUtE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99YA6eEAUtE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99YA6eEAUtE/video.m3u8",
+          "duration": 940,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

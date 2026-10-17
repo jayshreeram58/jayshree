@@ -1,0 +1,1937 @@
+{
+  "platform": "TuteDude",
+  "batchId": "aitools",
+  "batchSlug": "aitools",
+  "batchName": "AI Tools",
+  "thumbnail": "https://www.tutedude.com/assets/avif/aitools.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/aitools",
+  "totalSections": 23,
+  "totalLectures": 169,
+  "totalNotes": 28,
+  "price": "699.00",
+  "category": "AI & ML",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-aitools-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI tools course",
+      "lectures": [
+        {
+          "id": "td-aitools-2",
+          "title": "Master Generative AI Course Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NgZ94MYSs9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NgZ94MYSs9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NgZ94MYSs9/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started with ChatGPT",
+      "lectures": [
+        {
+          "id": "td-aitools-3",
+          "title": "ChatGPT Interface Walkthrough and Pricing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmupDghekn7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmupDghekn7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmupDghekn7/video.m3u8",
+          "duration": 934,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-4",
+          "title": "Personalize ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75u4nNnGhkq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75u4nNnGhkq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75u4nNnGhkq/video.m3u8",
+          "duration": 1170,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-5",
+          "title": "Foundation for Effective Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e9MJpyUcsx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e9MJpyUcsx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e9MJpyUcsx/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-6",
+          "title": "Anatomy of a Great Prompt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKb2mUEBuz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKb2mUEBuz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKb2mUEBuz/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-7",
+          "title": "Key Concepts to Creatively Craft Your Prompt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uEJxYmMNpg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uEJxYmMNpg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uEJxYmMNpg/video.m3u8",
+          "duration": 755,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-8",
+          "title": "Advanced Prompting Frameworks and When to Use Them",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65MSQqd4gNZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65MSQqd4gNZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65MSQqd4gNZ/video.m3u8",
+          "duration": 1966,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-4",
+          "title": "Personalize your ChatGPT",
+          "url": "https://docs.google.com/document/d/1-mzCGEz3Q9rpjXgf24-19hl4AKpqYLd1wmf3mjdK1l0/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1-mzCGEz3Q9rpjXgf24-19hl4AKpqYLd1wmf3mjdK1l0/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1-mzCGEz3Q9rpjXgf24-19hl4AKpqYLd1wmf3mjdK1l0/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1-mzCGEz3Q9rpjXgf24-19hl4AKpqYLd1wmf3mjdK1l0/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-5",
+          "title": "Generate a Modular Prompt",
+          "url": "https://docs.google.com/document/d/1jSGkxpb0hvtJ26ZrZgvRth326OdyzBFOlKLlOy2_2k0/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1jSGkxpb0hvtJ26ZrZgvRth326OdyzBFOlKLlOy2_2k0/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1jSGkxpb0hvtJ26ZrZgvRth326OdyzBFOlKLlOy2_2k0/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1jSGkxpb0hvtJ26ZrZgvRth326OdyzBFOlKLlOy2_2k0/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ChatGPT in Action",
+      "lectures": [
+        {
+          "id": "td-aitools-9",
+          "title": "Life-Changing Ways to Use ChatGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/abhMY6EfpcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/abhMY6EfpcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/abhMY6EfpcZ/video.m3u8",
+          "duration": 1929,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-10",
+          "title": "Custom GPTs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36kmFgm6gFp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36kmFgm6gFp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36kmFgm6gFp/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-11",
+          "title": "5 Practical Custom GPTs Use Cases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAdEPEUrDBQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAdEPEUrDBQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAdEPEUrDBQ/video.m3u8",
+          "duration": 1012,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-12",
+          "title": "ChatGPT's Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/864EX5HUCq2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/864EX5HUCq2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/864EX5HUCq2/video.m3u8",
+          "duration": 1145,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-13",
+          "title": "ChatGPT Image Generation and Image Generation Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Suua3MmjNH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Suua3MmjNH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Suua3MmjNH/video.m3u8",
+          "duration": 1603,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-14",
+          "title": "Creating Our Own CustomGPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jrgn5z8k4r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jrgn5z8k4r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jrgn5z8k4r/video.m3u8",
+          "duration": 681,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-7",
+          "title": "Try Different Type of Prompting Styles",
+          "url": "https://docs.google.com/document/d/1rLae7-aAZ8BaTMQDSwNeWIYxW-KGSZgVF4vMZejPl5s/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1rLae7-aAZ8BaTMQDSwNeWIYxW-KGSZgVF4vMZejPl5s/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1rLae7-aAZ8BaTMQDSwNeWIYxW-KGSZgVF4vMZejPl5s/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1rLae7-aAZ8BaTMQDSwNeWIYxW-KGSZgVF4vMZejPl5s/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Prompt Engineering",
+      "lectures": [
+        {
+          "id": "td-aitools-15",
+          "title": "ChatGPT Formula and Modifiers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMn9HYk4jr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMn9HYk4jr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMn9HYk4jr/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-16",
+          "title": "Prompt Priming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CT2auEPhFc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CT2auEPhFc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CT2auEPhFc/video.m3u8",
+          "duration": 582,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-17",
+          "title": "Brainstorming New Ideas and Copy Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBANnJyNr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBANnJyNr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBANnJyNr7/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-18",
+          "title": "Customer Support Email and Analogies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jAGdet2pDa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jAGdet2pDa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jAGdet2pDa/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-19",
+          "title": "Chain of Thought Reasoning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7qCRtaUSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7qCRtaUSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7qCRtaUSu/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-20",
+          "title": "Tabular Format Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEzh7kAJEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEzh7kAJEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEzh7kAJEu/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-21",
+          "title": "Zero Shot, One Shot & Few Shot Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q85UsGYZnZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q85UsGYZnZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q85UsGYZnZ8/video.m3u8",
+          "duration": 175,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-22",
+          "title": "Ask Before Answer Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UB9mprhfd6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UB9mprhfd6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UB9mprhfd6/video.m3u8",
+          "duration": 342,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-23",
+          "title": "Fill In The Blank Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYcCBxBXj3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYcCBxBXj3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYcCBxBXj3/video.m3u8",
+          "duration": 244,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-24",
+          "title": "Perspective Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H4jf5JSmuG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H4jf5JSmuG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H4jf5JSmuG/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-25",
+          "title": "Constructive Critique Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YyxeTme4amP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YyxeTme4amP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YyxeTme4amP/video.m3u8",
+          "duration": 376,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-26",
+          "title": "Comparative Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4kfTAG5K2s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4kfTAG5K2s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4kfTAG5K2s/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-27",
+          "title": "RGC Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37XdguHUFUT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37XdguHUFUT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37XdguHUFUT/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-28",
+          "title": "I Want You To Act As Prompting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbA4xU2HDq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbA4xU2HDq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbA4xU2HDq/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ChatGPT: Enhancements and Advanced Features",
+      "lectures": [
+        {
+          "id": "td-aitools-29",
+          "title": "Custom Instructions Hotkeys",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ErKdxmZ6Uq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ErKdxmZ6Uq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ErKdxmZ6Uq/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-30",
+          "title": "ChatGPT Computer Vision",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuzKzAUM9C6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuzKzAUM9C6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuzKzAUM9C6/video.m3u8",
+          "duration": 367,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-31",
+          "title": "Analyze Graphs and Sentiments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2RkmZ4Tre8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2RkmZ4Tre8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2RkmZ4Tre8/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-32",
+          "title": "ChatGPT Expanded Knowledge Base",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pKeumXxZHS6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pKeumXxZHS6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pKeumXxZHS6/video.m3u8",
+          "duration": 443,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-33",
+          "title": "ChatGPT Canvas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ytn4MbgeA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ytn4MbgeA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ytn4MbgeA4/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-34",
+          "title": "Shared and Temporary Chats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72YygUb3h42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72YygUb3h42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72YygUb3h42/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-35",
+          "title": "ChatGPT Desktop App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PF53qPjh4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PF53qPjh4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PF53qPjh4E/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-36",
+          "title": "ChatGPT Voice Mode and Mobile App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cGAee3P4XM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cGAee3P4XM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cGAee3P4XM/video.m3u8",
+          "duration": 2084,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-37",
+          "title": "Codex and ChatGPT Agent Mode",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ykHuhBZTMP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ykHuhBZTMP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ykHuhBZTMP/video.m3u8",
+          "duration": 575,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-10",
+          "title": "Use ChatGPTs Computer Vision and Analyze Graphs",
+          "url": "https://docs.google.com/document/d/1PPw5PSJmHtaSY8dOD9KXZuW7G4zGwSJvkQneZV-ofb0/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1PPw5PSJmHtaSY8dOD9KXZuW7G4zGwSJvkQneZV-ofb0/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1PPw5PSJmHtaSY8dOD9KXZuW7G4zGwSJvkQneZV-ofb0/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1PPw5PSJmHtaSY8dOD9KXZuW7G4zGwSJvkQneZV-ofb0/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-11",
+          "title": "Use ChatGPT for Translation",
+          "url": "https://docs.google.com/document/d/1-HaPRAILl9zS1UdkOwCoPLFLQYWjFXirH1xYPQCfIFk/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1-HaPRAILl9zS1UdkOwCoPLFLQYWjFXirH1xYPQCfIFk/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1-HaPRAILl9zS1UdkOwCoPLFLQYWjFXirH1xYPQCfIFk/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1-HaPRAILl9zS1UdkOwCoPLFLQYWjFXirH1xYPQCfIFk/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ChatGPT Quickskills: Simplify Information, Proofread and Organize Data",
+      "lectures": [
+        {
+          "id": "td-aitools-38",
+          "title": "Summarzing Dense Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mS29849xAe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mS29849xAe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mS29849xAe/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-39",
+          "title": "Re-write Text for a Specific Audience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NQtK9G5rSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NQtK9G5rSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NQtK9G5rSH/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-40",
+          "title": "Health Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C7UjxZKhJf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C7UjxZKhJf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C7UjxZKhJf/video.m3u8",
+          "duration": 419,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-41",
+          "title": "Translating Languages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PP8Kny3KCg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PP8Kny3KCg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PP8Kny3KCg/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-42",
+          "title": "Summarize YouTube Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z86JPXbxkG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z86JPXbxkG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z86JPXbxkG/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-43",
+          "title": "Proofread",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJBtepH66UJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJBtepH66UJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJBtepH66UJ/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-44",
+          "title": "Re-organize Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TBYrQmgPJ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TBYrQmgPJ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TBYrQmgPJ6/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-45",
+          "title": "Plotting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ufUKRdNuuu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ufUKRdNuuu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ufUKRdNuuu/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-46",
+          "title": "Review and Improve Writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HN49UByU6p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HN49UByU6p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HN49UByU6p/video.m3u8",
+          "duration": 437,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-47",
+          "title": "Create Essay Questions, Multiple Choice, True or False",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hb8dr8nxyz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hb8dr8nxyz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hb8dr8nxyz/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-13",
+          "title": " Use ChatGPT for Plotting",
+          "url": "https://docs.google.com/document/d/1OjnP4q85NKL14Qyd-kyVMMRac6FaVlpYN0NKIIuFqZg/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1OjnP4q85NKL14Qyd-kyVMMRac6FaVlpYN0NKIIuFqZg/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1OjnP4q85NKL14Qyd-kyVMMRac6FaVlpYN0NKIIuFqZg/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1OjnP4q85NKL14Qyd-kyVMMRac6FaVlpYN0NKIIuFqZg/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ChatGPT Quickskills: Content Creation, Copywriting, SEO, and Scripts",
+      "lectures": [
+        {
+          "id": "td-aitools-48",
+          "title": "Write Articles and Blogs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3e3Xx9TmQaB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3e3Xx9TmQaB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3e3Xx9TmQaB/video.m3u8",
+          "duration": 326,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-49",
+          "title": "Write and Rephrase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Mcpyz46cR5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Mcpyz46cR5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Mcpyz46cR5/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-50",
+          "title": "Create an Ad for your Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRGnnPnZk2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRGnnPnZk2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRGnnPnZk2/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-51",
+          "title": "Write Script for Videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpFmcTzgnS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpFmcTzgnS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpFmcTzgnS/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-52",
+          "title": "Create Product Specific Content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zj65PRxYZN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zj65PRxYZN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zj65PRxYZN/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-53",
+          "title": "Video Description, Titles and Tags",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABQ9jNGjP2J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABQ9jNGjP2J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABQ9jNGjP2J/video.m3u8",
+          "duration": 202,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-54",
+          "title": "SEO Optimization and Keywords",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42pMHkRAKs4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42pMHkRAKs4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42pMHkRAKs4/video.m3u8",
+          "duration": 469,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-55",
+          "title": "Write Script for Podcasts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3su4Z9MypsX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3su4Z9MypsX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3su4Z9MypsX/video.m3u8",
+          "duration": 246,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-56",
+          "title": "Craft your Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AZEzaq6qDn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AZEzaq6qDn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AZEzaq6qDn/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-57",
+          "title": "Craft you Linkedin Bio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5psChc5ucsk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5psChc5ucsk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5psChc5ucsk/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-58",
+          "title": "Write Speeches",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3xN9YTeKK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3xN9YTeKK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3xN9YTeKK/video.m3u8",
+          "duration": 215,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-59",
+          "title": "Write an Entire E-Book",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KzYkCzAb38/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KzYkCzAb38/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KzYkCzAb38/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-60",
+          "title": "ChatGPT for Gmail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eXeU8FExXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eXeU8FExXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eXeU8FExXD/video.m3u8",
+          "duration": 518,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-15",
+          "title": "Use ChatGPT for SEO",
+          "url": "https://docs.google.com/document/d/1F2Qa_BC46Rv1cilWjiz6pLZNIcFRiYxgWjfZj5eVR6k/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1F2Qa_BC46Rv1cilWjiz6pLZNIcFRiYxgWjfZj5eVR6k/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1F2Qa_BC46Rv1cilWjiz6pLZNIcFRiYxgWjfZj5eVR6k/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1F2Qa_BC46Rv1cilWjiz6pLZNIcFRiYxgWjfZj5eVR6k/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-16",
+          "title": "Use ChatGPT and Overleaf to Build Your Resume",
+          "url": "https://docs.google.com/document/d/1-JBrFHlxCxYxl8JCzx1GNCl06UwlVEEI_88zBjhKNvo/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1-JBrFHlxCxYxl8JCzx1GNCl06UwlVEEI_88zBjhKNvo/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1-JBrFHlxCxYxl8JCzx1GNCl06UwlVEEI_88zBjhKNvo/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1-JBrFHlxCxYxl8JCzx1GNCl06UwlVEEI_88zBjhKNvo/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-17",
+          "title": "Use ChatGPT as your Travel Guide",
+          "url": "https://docs.google.com/document/d/16w0X2RXr4W6yPCuJUa1MeYWiB9dp4c2oemqPhlMCa7Q/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/16w0X2RXr4W6yPCuJUa1MeYWiB9dp4c2oemqPhlMCa7Q/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/16w0X2RXr4W6yPCuJUa1MeYWiB9dp4c2oemqPhlMCa7Q/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/16w0X2RXr4W6yPCuJUa1MeYWiB9dp4c2oemqPhlMCa7Q/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ChatGPT Quickskills: Self-guided Learning, Qualitative and Quantitative Analysis",
+      "lectures": [
+        {
+          "id": "td-aitools-61",
+          "title": "Asking the Right Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJnsAeb2Sba/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJnsAeb2Sba/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJnsAeb2Sba/video.m3u8",
+          "duration": 731,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-62",
+          "title": "Questions for Growing Your Business",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYJX7knRYTc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYJX7knRYTc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYJX7knRYTc/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-63",
+          "title": "Advanced Job Search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHA2EEEums5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHA2EEEums5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHA2EEEums5/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-64",
+          "title": "Interview Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9a65RQUZHfX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9a65RQUZHfX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9a65RQUZHfX/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-65",
+          "title": "Draft Emails to Employers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNHUBXeYjn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNHUBXeYjn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNHUBXeYjn/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-66",
+          "title": "Research about People",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94Y9nmkFCMK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94Y9nmkFCMK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94Y9nmkFCMK/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-67",
+          "title": "Learn from Past Events",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aC7C9hqg6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aC7C9hqg6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aC7C9hqg6A/video.m3u8",
+          "duration": 693,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-68",
+          "title": "Learn Software and Other Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuuAaaDf6Tt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuuAaaDf6Tt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuuAaaDf6Tt/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-69",
+          "title": "General Learning and Tutorials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66HsEyPK3Jy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66HsEyPK3Jy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66HsEyPK3Jy/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-70",
+          "title": "Text and Article Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XRsBYR7bZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XRsBYR7bZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XRsBYR7bZr/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-71",
+          "title": "Solve Mathematical Problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTjMr7Aund/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTjMr7Aund/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTjMr7Aund/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-72",
+          "title": "Language and Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sEnaxr3nCa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sEnaxr3nCa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sEnaxr3nCa/video.m3u8",
+          "duration": 465,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-73",
+          "title": "DIY and Home Improvement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXEghpyUabQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXEghpyUabQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXEghpyUabQ/video.m3u8",
+          "duration": 519,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-74",
+          "title": "Travel Guide",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACp9aQtGuqr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACp9aQtGuqr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACp9aQtGuqr/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AI Tools Walkthrough",
+      "lectures": [
+        {
+          "id": "td-aitools-75",
+          "title": "Google Gemini Interface Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55pE94Bff9u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55pE94Bff9u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55pE94Bff9u/video.m3u8",
+          "duration": 1642,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-76",
+          "title": "Anthropic's Claude Interface Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6924u4jke3Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6924u4jke3Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6924u4jke3Y/video.m3u8",
+          "duration": 1884,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-77",
+          "title": "Perplexity Interface Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AbxXzHSEK8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AbxXzHSEK8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AbxXzHSEK8/video.m3u8",
+          "duration": 2022,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-20",
+          "title": "Explore AI Models",
+          "url": "https://docs.google.com/document/d/1SpYX3G6BsOH7_LltF5FqtXQKhnaY5andh39AiMzy8Vs/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1SpYX3G6BsOH7_LltF5FqtXQKhnaY5andh39AiMzy8Vs/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1SpYX3G6BsOH7_LltF5FqtXQKhnaY5andh39AiMzy8Vs/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1SpYX3G6BsOH7_LltF5FqtXQKhnaY5andh39AiMzy8Vs/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Branding using AI",
+      "lectures": [
+        {
+          "id": "td-aitools-78",
+          "title": "Section Introduction - Branding using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hCD542RYASq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hCD542RYASq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hCD542RYASq/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-79",
+          "title": "Brand Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrmNYCeaAu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrmNYCeaAu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrmNYCeaAu/video.m3u8",
+          "duration": 1328,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-80",
+          "title": "Brand Naming and Messaging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ete2CPjHcb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ete2CPjHcb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ete2CPjHcb/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-81",
+          "title": "Logo & Design System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtfgQHqHu4S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtfgQHqHu4S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtfgQHqHu4S/video.m3u8",
+          "duration": 881,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-82",
+          "title": "Brand Voice & Copy System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69QTAM3ucQj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69QTAM3ucQj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69QTAM3ucQj/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-83",
+          "title": "Brand's Social Media Toolkit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE3s27EdmU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE3s27EdmU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE3s27EdmU/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-84",
+          "title": "Brand Strategy Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9keXCaaKsrB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9keXCaaKsrB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9keXCaaKsrB/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-22",
+          "title": "AI For Branding",
+          "url": "https://docs.google.com/document/d/18It2xJLIKGtCPLmA-SchT4dRjeCA0MZDVKISEhs5CQQ/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/18It2xJLIKGtCPLmA-SchT4dRjeCA0MZDVKISEhs5CQQ/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/18It2xJLIKGtCPLmA-SchT4dRjeCA0MZDVKISEhs5CQQ/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/18It2xJLIKGtCPLmA-SchT4dRjeCA0MZDVKISEhs5CQQ/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Image Generation using AI",
+      "lectures": [
+        {
+          "id": "td-aitools-85",
+          "title": "Section Introduction - Image Generation using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99DhYHZsFtn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99DhYHZsFtn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99DhYHZsFtn/video.m3u8",
+          "duration": 537,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-86",
+          "title": "Asking AI to Write Prompts For You",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdHZZ5Uejj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdHZZ5Uejj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdHZZ5Uejj/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-87",
+          "title": "Create Avatars using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bbd5cnRmcC4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bbd5cnRmcC4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bbd5cnRmcC4/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-88",
+          "title": "Wish Your Friends using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3896Ftj7ddZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3896Ftj7ddZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3896Ftj7ddZ/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-89",
+          "title": "Editing Images using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZHZnGbkC4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZHZnGbkC4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZHZnGbkC4p/video.m3u8",
+          "duration": 677,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-90",
+          "title": "Apology Card for Girlfriend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rgQK9n2k4J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rgQK9n2k4J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rgQK9n2k4J/video.m3u8",
+          "duration": 241,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-91",
+          "title": "Module Introduction - Style & Aesthetic Exploration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Cs6efUHCbu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Cs6efUHCbu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Cs6efUHCbu/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-92",
+          "title": "Illustrations using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mT6GZt67ca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mT6GZt67ca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mT6GZt67ca/video.m3u8",
+          "duration": 672,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-93",
+          "title": "Digital Art",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zgbj28y62f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zgbj28y62f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zgbj28y62f/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-94",
+          "title": "Abstract Art using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37CsacZA5JA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37CsacZA5JA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37CsacZA5JA/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-95",
+          "title": "Comic Book using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajkgyan9K69/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajkgyan9K69/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajkgyan9K69/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-96",
+          "title": "Colour Theme based Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xcMjbc6UCE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xcMjbc6UCE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xcMjbc6UCE/video.m3u8",
+          "duration": 349,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-97",
+          "title": "Mood Based Visuals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtN9fug9naN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtN9fug9naN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtN9fug9naN/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-98",
+          "title": "Creating an Introductory post for Insta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GHjtrSj6R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GHjtrSj6R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GHjtrSj6R/video.m3u8",
+          "duration": 790,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-99",
+          "title": "Creating Carousels for Instagram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar4c3ccfkfM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar4c3ccfkfM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar4c3ccfkfM/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-100",
+          "title": "Create Youtube Thumbnails",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NPhrAEH4jM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NPhrAEH4jM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NPhrAEH4jM/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-101",
+          "title": "Create Posts for LinkedIn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GR3cdRy8CS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GR3cdRy8CS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GR3cdRy8CS/video.m3u8",
+          "duration": 896,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-102",
+          "title": "Create Cool Infographics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2sYDj9Eak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2sYDj9Eak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2sYDj9Eak/video.m3u8",
+          "duration": 932,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-103",
+          "title": "Create Memes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zcxgPbzy4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zcxgPbzy4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zcxgPbzy4/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-104",
+          "title": "Create Ad Creatives",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Nt5g6SD2c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Nt5g6SD2c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Nt5g6SD2c/video.m3u8",
+          "duration": 950,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-105",
+          "title": "Create Ads for Billboards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PQNgXY7GtC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PQNgXY7GtC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PQNgXY7GtC/video.m3u8",
+          "duration": 554,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-106",
+          "title": "Create Discount Offers Posters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAUZD994NMc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAUZD994NMc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAUZD994NMc/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-107",
+          "title": "Generate Festive Creatives",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAT2Zpgc92/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAT2Zpgc92/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAT2Zpgc92/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-108",
+          "title": "Ads for Lead Conversion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UptghAMdg3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UptghAMdg3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UptghAMdg3/video.m3u8",
+          "duration": 475,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-109",
+          "title": "Create Hero Section for Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u66gujfsN9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u66gujfsN9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u66gujfsN9/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-110",
+          "title": "Create a Landing Page Banner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxgS2dRQcE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxgS2dRQcE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxgS2dRQcE/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-111",
+          "title": "Create Background Images for Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EaDb5M7BfX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EaDb5M7BfX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EaDb5M7BfX/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-112",
+          "title": "Create Icon Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JakrXmjuMJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JakrXmjuMJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JakrXmjuMJ/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-113",
+          "title": "Create Error Success Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xHJff7MJs9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xHJff7MJs9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xHJff7MJs9/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-114",
+          "title": "Create Website App Mockups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a7uyytXJmD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a7uyytXJmD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a7uyytXJmD/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-115",
+          "title": "Design Product Catalog Menu",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Usx6Hds58D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Usx6Hds58D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Usx6Hds58D/video.m3u8",
+          "duration": 379,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-116",
+          "title": "Create Product Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6C6KdR6EyP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6C6KdR6EyP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6C6KdR6EyP/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-117",
+          "title": "Create Packaging Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FZREEQgncE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FZREEQgncE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FZREEQgncE/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-118",
+          "title": "Design Labels for your Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHHTq6F3ss8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHHTq6F3ss8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHHTq6F3ss8/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-119",
+          "title": "AI for A B Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyJ59zrxef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyJ59zrxef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyJ59zrxef/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-120",
+          "title": "Generate Photo-Realistic Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tq3mArGx9P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tq3mArGx9P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tq3mArGx9P/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-121",
+          "title": "Generate Corporate Headshots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72RHKHZHfeC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72RHKHZHfeC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72RHKHZHfeC/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-122",
+          "title": "Generate Real Life Use Cases for your Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gDRjfQegQB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gDRjfQegQB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gDRjfQegQB/video.m3u8",
+          "duration": 358,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-123",
+          "title": "Generate Course Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZdmUrPb2bp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZdmUrPb2bp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZdmUrPb2bp/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-124",
+          "title": "Generate Podcast Thumbnail Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698exbMajhX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698exbMajhX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698exbMajhX/video.m3u8",
+          "duration": 565,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-125",
+          "title": "Design an E-Book Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZTCDJa7r3u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZTCDJa7r3u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZTCDJa7r3u/video.m3u8",
+          "duration": 656,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-126",
+          "title": "Generate Images for Blogs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FYe64JaUCH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FYe64JaUCH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FYe64JaUCH/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-127",
+          "title": "Generate Playlist Covers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfzuK9RPhf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfzuK9RPhf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfzuK9RPhf/video.m3u8",
+          "duration": 787,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-128",
+          "title": "Generate Movie Posters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tZpNQBeZSa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tZpNQBeZSa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tZpNQBeZSa/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-24",
+          "title": "Image Editing using Gemini",
+          "url": "https://docs.google.com/document/d/1I_KJkSjnMo_il5hPS9qHQGB73lV4xHoFmG9atK-qrDA/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1I_KJkSjnMo_il5hPS9qHQGB73lV4xHoFmG9atK-qrDA/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1I_KJkSjnMo_il5hPS9qHQGB73lV4xHoFmG9atK-qrDA/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1I_KJkSjnMo_il5hPS9qHQGB73lV4xHoFmG9atK-qrDA/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-25",
+          "title": "Make a Comic Book using AI",
+          "url": "https://docs.google.com/document/d/1rGIWj4MxpULIxJpaz2JwD6ptZuLrab5uBAaZzgPLV5U/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1rGIWj4MxpULIxJpaz2JwD6ptZuLrab5uBAaZzgPLV5U/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1rGIWj4MxpULIxJpaz2JwD6ptZuLrab5uBAaZzgPLV5U/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1rGIWj4MxpULIxJpaz2JwD6ptZuLrab5uBAaZzgPLV5U/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-26",
+          "title": "Make a YT Thumbnail with an Infographic using AI",
+          "url": "https://docs.google.com/document/d/1pRaYYSk7301Af6Lq7qS1rZPcTMvNsfFUS5tFPuuePD0/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1pRaYYSk7301Af6Lq7qS1rZPcTMvNsfFUS5tFPuuePD0/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1pRaYYSk7301Af6Lq7qS1rZPcTMvNsfFUS5tFPuuePD0/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1pRaYYSk7301Af6Lq7qS1rZPcTMvNsfFUS5tFPuuePD0/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-27",
+          "title": "Generate your website using AI",
+          "url": "https://docs.google.com/document/d/1giN8eWbJD2yoIu20M-0LjZ_VjA9WfwFhJGQQd3Gm2c0/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1giN8eWbJD2yoIu20M-0LjZ_VjA9WfwFhJGQQd3Gm2c0/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1giN8eWbJD2yoIu20M-0LjZ_VjA9WfwFhJGQQd3Gm2c0/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1giN8eWbJD2yoIu20M-0LjZ_VjA9WfwFhJGQQd3Gm2c0/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-28",
+          "title": "Generate your Product",
+          "url": "https://docs.google.com/document/d/1sGDD81VQJD8ApHWlD78nVjJCRaOclxwaeFXEm_qcR38/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1sGDD81VQJD8ApHWlD78nVjJCRaOclxwaeFXEm_qcR38/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1sGDD81VQJD8ApHWlD78nVjJCRaOclxwaeFXEm_qcR38/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1sGDD81VQJD8ApHWlD78nVjJCRaOclxwaeFXEm_qcR38/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-29",
+          "title": "Generate Corporate Headshots using AI",
+          "url": "https://docs.google.com/document/d/1ysQdZYe24Efv_JWhTH1WqJAHzXINafm_lZlLAqKz6Nk/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1ysQdZYe24Efv_JWhTH1WqJAHzXINafm_lZlLAqKz6Nk/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1ysQdZYe24Efv_JWhTH1WqJAHzXINafm_lZlLAqKz6Nk/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1ysQdZYe24Efv_JWhTH1WqJAHzXINafm_lZlLAqKz6Nk/edit?usp=drive_link",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-30",
+          "title": "Generate Posters for Movies",
+          "url": "https://docs.google.com/document/d/19xH8rpZJP2hX1W5WYFnFYjQABj0nbfM6f1WKyfO6oHY/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/19xH8rpZJP2hX1W5WYFnFYjQABj0nbfM6f1WKyfO6oHY/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/19xH8rpZJP2hX1W5WYFnFYjQABj0nbfM6f1WKyfO6oHY/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/19xH8rpZJP2hX1W5WYFnFYjQABj0nbfM6f1WKyfO6oHY/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI for Modern Designers",
+      "lectures": [
+        {
+          "id": "td-aitools-129",
+          "title": "Will-ai-replace-designers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35d4qGC6bA6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35d4qGC6bA6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35d4qGC6bA6/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-130",
+          "title": "Creativity-vs-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M99kHBjNFU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M99kHBjNFU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M99kHBjNFU/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-131",
+          "title": "Why-designers-who-ignore-ai-fall-behind",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58eqbfRqjef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58eqbfRqjef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58eqbfRqjef/video.m3u8",
+          "duration": 466,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-132",
+          "title": "How-top-designers-use-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fyHSzepZz8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fyHSzepZz8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fyHSzepZz8/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design Research & Problem Framing",
+      "lectures": [
+        {
+          "id": "td-aitools-133",
+          "title": "Breaking-down-the-problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xRfEYQ5UJf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xRfEYQ5UJf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xRfEYQ5UJf/video.m3u8",
+          "duration": 2519,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-134",
+          "title": "Secondary-research-and-mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45UpUGSf5Gf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45UpUGSf5Gf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45UpUGSf5Gf/video.m3u8",
+          "duration": 1618,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-135",
+          "title": "Stress-testing-your-thinking-with-ai",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4aRP99yAT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4aRP99yAT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4aRP99yAT/video.m3u8",
+          "duration": 1760,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-136",
+          "title": "From-insights-to-requirements-and-ai-ready-briefs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jghTP4N7t5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jghTP4N7t5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jghTP4N7t5/video.m3u8",
+          "duration": 1803,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ideation & Concept Development",
+      "lectures": [
+        {
+          "id": "td-aitools-137",
+          "title": "Expanding-the-solution-space",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jd8Ty8PNuz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jd8Ty8PNuz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jd8Ty8PNuz/video.m3u8",
+          "duration": 1880,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-138",
+          "title": "Structured-idea-generation-techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBcYK345fHm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBcYK345fHm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBcYK345fHm/video.m3u8",
+          "duration": 2294,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-139",
+          "title": "Evaluating-and-strengthening-concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dsYd4FKmGb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dsYd4FKmGb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dsYd4FKmGb/video.m3u8",
+          "duration": 1649,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-140",
+          "title": "Converging-toward-a-strong-direction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jpTEdMrFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jpTEdMrFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jpTEdMrFD/video.m3u8",
+          "duration": 1529,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prototyping, Validation & UX Writing",
+      "lectures": [
+        {
+          "id": "td-aitools-141",
+          "title": "From-ideas-to-interface-products",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sAXU2aK55Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sAXU2aK55Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sAXU2aK55Q/video.m3u8",
+          "duration": 708,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-142",
+          "title": "Design-to-working-prototype",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DHb9EkK7KQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DHb9EkK7KQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DHb9EkK7KQ/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-143",
+          "title": "Validating-flows-quickly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nxnGsP5qXH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nxnGsP5qXH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nxnGsP5qXH/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-144",
+          "title": "Ux-writing-with-ai-crash-course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsYEkjABe3X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsYEkjABe3X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsYEkjABe3X/video.m3u8",
+          "duration": 4805,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Design Review & Optimization",
+      "lectures": [
+        {
+          "id": "td-aitools-145",
+          "title": "Ai-as-design-critic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTK3kmTF8ZP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTK3kmTF8ZP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTK3kmTF8ZP/video.m3u8",
+          "duration": 2952,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-146",
+          "title": "Accessibility-and-usability-checks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrmEBaf6D2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrmEBaf6D2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrmEBaf6D2/video.m3u8",
+          "duration": 1274,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-147",
+          "title": "Data-driven-design-decisions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMPRcFNrK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMPRcFNrK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMPRcFNrK2/video.m3u8",
+          "duration": 2538,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Portfolio Building & Career Growth",
+      "lectures": [
+        {
+          "id": "td-aitools-148",
+          "title": "Turning-your-work-into-a-casestudy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UbyAdfjRCd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UbyAdfjRCd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UbyAdfjRCd/video.m3u8",
+          "duration": 5119,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-149",
+          "title": "Using-ai-to-improve-storytelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5KKpnNaXP7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5KKpnNaXP7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5KKpnNaXP7/video.m3u8",
+          "duration": 1996,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-150",
+          "title": "Ai-as-your-career-assistant",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NK2jhjfety/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NK2jhjfety/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NK2jhjfety/video.m3u8",
+          "duration": 1780,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To N8N (N8N)",
+      "lectures": [
+        {
+          "id": "td-aitools-151",
+          "title": "What is N8N (And Why It’s Blowing Up)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-152",
+          "title": "Cloud vs Self-Hosted (Truth Nobody Tells You)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-153",
+          "title": "UI Deep Dive - Canvas Mastery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U8AgZNjjcf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U8AgZNjjcf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U8AgZNjjcf/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-154",
+          "title": "Build Your First Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8",
+          "duration": 1088,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basic Fundamentals (N8N)",
+      "lectures": [
+        {
+          "id": "td-aitools-155",
+          "title": "Triggers Explained (Start of Every Automation)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8",
+          "duration": 1813,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-156",
+          "title": "Thinking in Workflows (Not Nodes)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8",
+          "duration": 1955,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-157",
+          "title": "Debugging Like a Pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8",
+          "duration": 1847,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-158",
+          "title": "RSS Feed Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rbb2pqqfqS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rbb2pqqfqS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rbb2pqqfqS/video.m3u8",
+          "duration": 1096,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Nodes Mastery (N8N)",
+      "lectures": [
+        {
+          "id": "td-aitools-159",
+          "title": "Learning JSON Without Headache",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8",
+          "duration": 1043,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-160",
+          "title": "Set Node Data Control and Transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8",
+          "duration": 1111,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-161",
+          "title": "IF & Switch (Decision Making)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8",
+          "duration": 1129,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-162",
+          "title": "Expressions Mastery 101",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8",
+          "duration": 1357,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Workflows Implementation (N8N)",
+      "lectures": [
+        {
+          "id": "td-aitools-163",
+          "title": "Build AI Chat Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-164",
+          "title": "N8N API and HTTPS Requests Mastery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8",
+          "duration": 1559,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-165",
+          "title": "AI Automated HR Candidate Analysis in n8n",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-166",
+          "title": "End to End Lead Generation Workflow Automation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8",
+          "duration": 1605,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-41",
+          "title": "RSS Feed to Email_Telegram Notification Workflow",
+          "url": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-42",
+          "title": "Weather Alert Notification Workflow",
+          "url": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-43",
+          "title": "Webhook to Google Sheets Data Storage Workflo",
+          "url": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-44",
+          "title": "Lead Classification Workflow.",
+          "url": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-45",
+          "title": "Multi-Platform Notification Workflow.",
+          "url": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-46",
+          "title": "Product Price Drop Alert Workflow.",
+          "url": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-47",
+          "title": "Automated Customer Query Reply Workflow.",
+          "url": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Capstone Projects (N8N)",
+      "lectures": [
+        {
+          "id": "td-aitools-167",
+          "title": "Email Summary Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8",
+          "duration": 749,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-168",
+          "title": "AI YouTube Script Generator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8",
+          "duration": 1362,
+          "type": "video"
+        },
+        {
+          "id": "td-aitools-169",
+          "title": "AI Legal Contract Review Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aitools-49",
+          "title": "AI Content Generator Workflow.",
+          "url": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-50",
+          "title": "Workflow Error Detection and Alert System.",
+          "url": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-aitools-51",
+          "title": "End-to-End Lead Capture and Qualification Workflow",
+          "url": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

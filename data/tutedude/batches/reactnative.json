@@ -1,0 +1,730 @@
+{
+  "platform": "TuteDude",
+  "batchId": "reactnative",
+  "batchSlug": "reactnative",
+  "batchName": "React Native",
+  "thumbnail": "https://www.tutedude.com/assets/avif/reactnative.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/reactnative",
+  "totalSections": 8,
+  "totalLectures": 74,
+  "totalNotes": 0,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-reactnative-1",
+          "title": "Why React Native",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98jGPkrY7Fp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98jGPkrY7Fp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98jGPkrY7Fp/video.m3u8",
+          "duration": 140,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-2",
+          "title": "What is React Native",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3N4zgrcPJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3N4zgrcPJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3N4zgrcPJ/video.m3u8",
+          "duration": 120,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-3",
+          "title": "Inner Working of React Native",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76G3n8CAMKM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76G3n8CAMKM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76G3n8CAMKM/video.m3u8",
+          "duration": 100,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React Native Basics",
+      "lectures": [
+        {
+          "id": "td-reactnative-4",
+          "title": "Installing CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dy9JABncmU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dy9JABncmU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dy9JABncmU/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-5",
+          "title": "Creating Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzgPAmpc4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzgPAmpc4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzgPAmpc4k/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-6",
+          "title": "Running on Emulator and Physical Device",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N8r3XtsbFS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N8r3XtsbFS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N8r3XtsbFS/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-7",
+          "title": "Hello World Component",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btEDzQ7QmY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btEDzQ7QmY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btEDzQ7QmY/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Styling",
+      "lectures": [
+        {
+          "id": "td-reactnative-8",
+          "title": "Styling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QadpbFXxnj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QadpbFXxnj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QadpbFXxnj/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-9",
+          "title": "Styling-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsck6xSmeCK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsck6xSmeCK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsck6xSmeCK/video.m3u8",
+          "duration": 792,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-10",
+          "title": "Components Revised",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkX7tpraFTZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkX7tpraFTZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkX7tpraFTZ/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-11",
+          "title": "Using FlatList",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EcX9hfyurb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EcX9hfyurb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EcX9hfyurb/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-12",
+          "title": "Using FlatList -2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PUTCTRpRdc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PUTCTRpRdc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PUTCTRpRdc/video.m3u8",
+          "duration": 538,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React Native Navigation",
+      "lectures": [
+        {
+          "id": "td-reactnative-13",
+          "title": "Navigation Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EgmGtfsS6m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EgmGtfsS6m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EgmGtfsS6m/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-14",
+          "title": "Navigation Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqrnuaAgeyx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqrnuaAgeyx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqrnuaAgeyx/video.m3u8",
+          "duration": 588,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-15",
+          "title": "Navigation Exercise Solution 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5feXmaqHR8H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5feXmaqHR8H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5feXmaqHR8H/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-16",
+          "title": "Navigation Exercise Solution Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gYGJ85EDMf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gYGJ85EDMf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gYGJ85EDMf/video.m3u8",
+          "duration": 1021,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-17",
+          "title": "Navigation Exercise Solution Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YuJZTYjHaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YuJZTYjHaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YuJZTYjHaC/video.m3u8",
+          "duration": 832,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-18",
+          "title": "Bottom Tab Navigator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YCfS7ptdc8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YCfS7ptdc8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YCfS7ptdc8/video.m3u8",
+          "duration": 75,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-19",
+          "title": "Folder structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TG8xsp5yUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TG8xsp5yUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TG8xsp5yUz/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-20",
+          "title": "Tweaking App Navigator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TdxXuzQtsS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TdxXuzQtsS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TdxXuzQtsS/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-21",
+          "title": "Configuring Home",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA983KRreNF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA983KRreNF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA983KRreNF/video.m3u8",
+          "duration": 584,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-22",
+          "title": "Additional Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XueEM7SAsY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XueEM7SAsY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XueEM7SAsY/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-23",
+          "title": "Finalizing Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dCNBtbAKBS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dCNBtbAKBS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dCNBtbAKBS/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Authentication",
+      "lectures": [
+        {
+          "id": "td-reactnative-24",
+          "title": "App Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73GeatD2YGu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73GeatD2YGu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73GeatD2YGu/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-25",
+          "title": "Creating Firebase Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e9MMgUCspE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e9MMgUCspE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e9MMgUCspE/video.m3u8",
+          "duration": 188,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-26",
+          "title": "Folder Structure of App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eSdGda3FTC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eSdGda3FTC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eSdGda3FTC/video.m3u8",
+          "duration": 149,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-27",
+          "title": "Creating AuthProvider (Context API)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888N5z7Famc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888N5z7Famc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888N5z7Famc/video.m3u8",
+          "duration": 349,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-28",
+          "title": "Tweaking AppNavigator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NkEnAAR6fc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NkEnAAR6fc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NkEnAAR6fc/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-29",
+          "title": "Adding Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PT5hHqcuS8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PT5hHqcuS8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PT5hHqcuS8/video.m3u8",
+          "duration": 392,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-30",
+          "title": "Creating login",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMR68aENgtG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMR68aENgtG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMR68aENgtG/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-31",
+          "title": "Login Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SkXkN7Gp3xf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SkXkN7Gp3xf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SkXkN7Gp3xf/video.m3u8",
+          "duration": 495,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-32",
+          "title": "Creating Auth Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXPgt7q6kD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXPgt7q6kD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXPgt7q6kD8/video.m3u8",
+          "duration": 793,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-33",
+          "title": "Adding Properties to Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KUpdRrZfCg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KUpdRrZfCg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KUpdRrZfCg/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-34",
+          "title": "Adding SignUP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BYSXHp7PXY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BYSXHp7PXY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BYSXHp7PXY/video.m3u8",
+          "duration": 272,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-35",
+          "title": "Creating User Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yDR2sFhhYF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yDR2sFhhYF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yDR2sFhhYF/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-36",
+          "title": "Logging In User",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g7A8REdE47/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g7A8REdE47/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g7A8REdE47/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-37",
+          "title": "Forget Password Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gncZdf64Kh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gncZdf64Kh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gncZdf64Kh/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-38",
+          "title": "Final Fix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qs9n6rHp2s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qs9n6rHp2s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qs9n6rHp2s/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Major Project - Expense Tracker App",
+      "lectures": [
+        {
+          "id": "td-reactnative-39",
+          "title": "App Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YCKRqQP23d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YCKRqQP23d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YCKRqQP23d/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-40",
+          "title": "Folder Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2yYS7tM7SZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2yYS7tM7SZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2yYS7tM7SZ/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-41",
+          "title": "Creating Login",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfuq6Qp7gP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfuq6Qp7gP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfuq6Qp7gP/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-42",
+          "title": "Sigining In",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dE6AbUkyjF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dE6AbUkyjF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dE6AbUkyjF/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-43",
+          "title": "Creating Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pEBUPpcNgr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pEBUPpcNgr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pEBUPpcNgr/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-44",
+          "title": "Unsubscribing to Auth State Changes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NxFy3ME7bX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NxFy3ME7bX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NxFy3ME7bX/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-45",
+          "title": "Completing Login Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uhj6HUXdad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uhj6HUXdad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uhj6HUXdad/video.m3u8",
+          "duration": 263,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-46",
+          "title": "Creating Register Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZBxP3R4Agd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZBxP3R4Agd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZBxP3R4Agd/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-47",
+          "title": "Connecting Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hQDGQQGBP7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hQDGQQGBP7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hQDGQQGBP7/video.m3u8",
+          "duration": 555,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-48",
+          "title": "Home Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8f7XaXhAan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8f7XaXhAan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8f7XaXhAan/video.m3u8",
+          "duration": 665,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-49",
+          "title": "Home Screen Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AU8TTPzrt6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AU8TTPzrt6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AU8TTPzrt6/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-50",
+          "title": "Compeleting Home Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXepn9bkNS4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXepn9bkNS4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXepn9bkNS4/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-51",
+          "title": "Creating Methods- 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zacUDCBf2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zacUDCBf2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zacUDCBf2b/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-52",
+          "title": "Home Screens Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mYgrdjcKQP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mYgrdjcKQP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mYgrdjcKQP/video.m3u8",
+          "duration": 567,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-53",
+          "title": "Creating Add Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UYMxBrGtze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UYMxBrGtze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UYMxBrGtze/video.m3u8",
+          "duration": 646,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-54",
+          "title": "Adding Methods to AddScreen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RCKM9BfPGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RCKM9BfPGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RCKM9BfPGd/video.m3u8",
+          "duration": 747,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-55",
+          "title": "Adding Methods Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSqDFqBtadJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSqDFqBtadJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSqDFqBtadJ/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-56",
+          "title": "Creating ALL Transactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t2QP8KSfrR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t2QP8KSfrR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t2QP8KSfrR/video.m3u8",
+          "duration": 554,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-57",
+          "title": "Update Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G9yYshcktG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G9yYshcktG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G9yYshcktG/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-58",
+          "title": "Adding State to Update",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CtfC4S8qxK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CtfC4S8qxK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CtfC4S8qxK/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-59",
+          "title": "Methods Update Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qhh5b2tAmGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qhh5b2tAmGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qhh5b2tAmGA/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-60",
+          "title": "Delete Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHuEGPduqdb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHuEGPduqdb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHuEGPduqdb/video.m3u8",
+          "duration": 267,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-61",
+          "title": "Bug Fix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SNz7NxGHDjJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SNz7NxGHDjJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SNz7NxGHDjJ/video.m3u8",
+          "duration": 119,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Local Notifications in React Native",
+      "lectures": [
+        {
+          "id": "td-reactnative-62",
+          "title": "Notifications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Bb9TJmMPu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Bb9TJmMPu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Bb9TJmMPu/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-63",
+          "title": "Scheduling Notification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHJZmY535Y9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHJZmY535Y9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHJZmY535Y9/video.m3u8",
+          "duration": 216,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-64",
+          "title": "Recieving Notifications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYZYZGCNR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYZYZGCNR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYZYZGCNR/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-65",
+          "title": "Adding Event Listeners",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZkFu2ueN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZkFu2ueN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZkFu2ueN/video.m3u8",
+          "duration": 277,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Major Project - Tic Tac Toe App",
+      "lectures": [
+        {
+          "id": "td-reactnative-66",
+          "title": "App Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xpbCYb4PEy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xpbCYb4PEy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xpbCYb4PEy/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-67",
+          "title": "Code Tour",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RDrD4ScyRQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RDrD4ScyRQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RDrD4ScyRQ/video.m3u8",
+          "duration": 219,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-68",
+          "title": "Adding Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YBFBmAz8xP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YBFBmAz8xP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YBFBmAz8xP/video.m3u8",
+          "duration": 286,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-69",
+          "title": "Creating Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeKfTGxMuJt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeKfTGxMuJt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeKfTGxMuJt/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-70",
+          "title": "Imports",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEFyMknSYj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEFyMknSYj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEFyMknSYj/video.m3u8",
+          "duration": 215,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-71",
+          "title": "Adding States",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yGDQJDjKH5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yGDQJDjKH5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yGDQJDjKH5/video.m3u8",
+          "duration": 317,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-72",
+          "title": "Adding Methods to Board",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpuN5uJsEH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpuN5uJsEH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpuN5uJsEH/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-73",
+          "title": "Board Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aRrAt4uEQY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aRrAt4uEQY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aRrAt4uEQY/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-reactnative-74",
+          "title": "Final Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJjGDTF4Bn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJjGDTF4Bn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJjGDTF4Bn/video.m3u8",
+          "duration": 248,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,1985 @@
+{
+  "platform": "TuteDude",
+  "batchId": "financialanalysis",
+  "batchSlug": "financialanalysis",
+  "batchName": "Financial Analysis",
+  "thumbnail": "https://www.tutedude.com/assets/avif/financialanalysis.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/financialanalysis",
+  "totalSections": 31,
+  "totalLectures": 169,
+  "totalNotes": 27,
+  "price": "699.00",
+  "category": "Finance",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Financial Analytics",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-2",
+          "title": "Introduction to Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Z9TxkN252U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Z9TxkN252U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Z9TxkN252U/video.m3u8",
+          "duration": 1051,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Excel Basics",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-3",
+          "title": "Basics 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35pUebq2yZX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35pUebq2yZX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35pUebq2yZX/video.m3u8",
+          "duration": 1412,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-4",
+          "title": "Excel formulas and functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A5RnEss6FZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A5RnEss6FZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A5RnEss6FZ/video.m3u8",
+          "duration": 1049,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-5",
+          "title": "excel shortcuts 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GDjfuCzCK6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GDjfuCzCK6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GDjfuCzCK6/video.m3u8",
+          "duration": 1462,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-6",
+          "title": "Excel shortcuts 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nxACMsMDJk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nxACMsMDJk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nxACMsMDJk/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Make your Excel look professional",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-7",
+          "title": "Optimisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhNYPSfCNn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhNYPSfCNn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhNYPSfCNn/video.m3u8",
+          "duration": 656,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-8",
+          "title": "Macros",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEHUEkrpeBs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEHUEkrpeBs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEHUEkrpeBs/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-9",
+          "title": "abs and rel ref",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z8am9mEGcq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z8am9mEGcq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z8am9mEGcq/video.m3u8",
+          "duration": 1143,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-10",
+          "title": "Named Ranges",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sbc2PHeugu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sbc2PHeugu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sbc2PHeugu/video.m3u8",
+          "duration": 885,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-11",
+          "title": "DV and custom F",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9kgjJ7uHd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9kgjJ7uHd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9kgjJ7uHd/video.m3u8",
+          "duration": 1130,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Excel Be a Pro",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-12",
+          "title": "find and replace, CF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HhJa7NtU6g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HhJa7NtU6g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HhJa7NtU6g/video.m3u8",
+          "duration": 1217,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-13",
+          "title": "IF ELSE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fxAuYNpBq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fxAuYNpBq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fxAuYNpBq/video.m3u8",
+          "duration": 894,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-14",
+          "title": "Countif, Average If, MaxIF, Sum IF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NUxdTjbqqG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NUxdTjbqqG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NUxdTjbqqG/video.m3u8",
+          "duration": 1130,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-15",
+          "title": "Error handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPdkpCJzFC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPdkpCJzFC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPdkpCJzFC/video.m3u8",
+          "duration": 1124,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-16",
+          "title": "Vlookup Hlookup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GynHHhPRXj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GynHHhPRXj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GynHHhPRXj/video.m3u8",
+          "duration": 1045,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-17",
+          "title": "Xlookup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/afkxBtn8G3Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/afkxBtn8G3Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/afkxBtn8G3Y/video.m3u8",
+          "duration": 1043,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-18",
+          "title": "Index and match function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z2rXbQ8MA9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z2rXbQ8MA9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z2rXbQ8MA9/video.m3u8",
+          "duration": 700,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-19",
+          "title": "String Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6NX72sgfDg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6NX72sgfDg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6NX72sgfDg/video.m3u8",
+          "duration": 1226,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-6",
+          "title": "Excel Basics Project",
+          "url": "https://docs.google.com/document/d/1nDjOsu7TqYICkDfKTD9s0dq9ILN_qRw6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nDjOsu7TqYICkDfKTD9s0dq9ILN_qRw6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nDjOsu7TqYICkDfKTD9s0dq9ILN_qRw6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nDjOsu7TqYICkDfKTD9s0dq9ILN_qRw6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Financial Functions",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-20",
+          "title": "What IF Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhpqhqQ3nFk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhpqhqQ3nFk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhpqhqQ3nFk/video.m3u8",
+          "duration": 1650,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-21",
+          "title": "PMT and Date function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YET6mSPAsB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YET6mSPAsB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YET6mSPAsB/video.m3u8",
+          "duration": 1225,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-8",
+          "title": "Financial Functions in Excel Project",
+          "url": "https://docs.google.com/document/d/1yJk1KGSr4cFbhqp3o1bTGBvG5nd_oOT7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1yJk1KGSr4cFbhqp3o1bTGBvG5nd_oOT7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1yJk1KGSr4cFbhqp3o1bTGBvG5nd_oOT7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1yJk1KGSr4cFbhqp3o1bTGBvG5nd_oOT7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Fundamentals of Accounting",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-22",
+          "title": "Basics of Accounting_Part 1_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrcRRDt98hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrcRRDt98hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrcRRDt98hz/video.m3u8",
+          "duration": 1650,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-23",
+          "title": "Basics of Accounting_Part 1_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r37bgRmKcR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r37bgRmKcR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r37bgRmKcR/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-24",
+          "title": "Basics of Accounting_Part 1_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c3dZXz397cx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c3dZXz397cx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c3dZXz397cx/video.m3u8",
+          "duration": 2104,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-25",
+          "title": "Basics of Accounting_Part 2_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E2Q83CyAmZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E2Q83CyAmZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E2Q83CyAmZ/video.m3u8",
+          "duration": 931,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-26",
+          "title": "Basics of Accounting_Part 2_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e599R7eGxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e599R7eGxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e599R7eGxJ/video.m3u8",
+          "duration": 2107,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-27",
+          "title": "Basics of Accounting_Part 2_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgtyJByMgZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgtyJByMgZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgtyJByMgZE/video.m3u8",
+          "duration": 1812,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-28",
+          "title": "Basics of Accounting_Part 2_D",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8yR96KezF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8yR96KezF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8yR96KezF/video.m3u8",
+          "duration": 1783,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-29",
+          "title": "Basics of Accounting_Part 2_E",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPuBqfezXN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPuBqfezXN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPuBqfezXN/video.m3u8",
+          "duration": 1779,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-30",
+          "title": "Basics of Accounting_Part 3_A",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FpKbmB4xhf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FpKbmB4xhf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FpKbmB4xhf/video.m3u8",
+          "duration": 2088,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-31",
+          "title": "Basics of Accounting_Part 3_B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8",
+          "duration": 2403,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-32",
+          "title": "Basics of Accounting_Part 3_C",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8",
+          "duration": 1466,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-33",
+          "title": "Basics of Accounting_Part 3_D",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dYmpK2kP6q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dYmpK2kP6q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dYmpK2kP6q/video.m3u8",
+          "duration": 1789,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-34",
+          "title": "Basics of Accounting_Part 3_E",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mrD8h79XAA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mrD8h79XAA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mrD8h79XAA/video.m3u8",
+          "duration": 2107,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-35",
+          "title": "Basics of Accounting_Part 3_F",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYm5QkCpSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYm5QkCpSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nYm5QkCpSC/video.m3u8",
+          "duration": 2099,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-36",
+          "title": "Rectification of Errors, Suspense Account & Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TdunxBybMF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TdunxBybMF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TdunxBybMF/video.m3u8",
+          "duration": 2406,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-10",
+          "title": "Accounting Fundamentals Basics Project",
+          "url": "https://docs.google.com/document/d/1lUKB68otFFhz2b2gn5y_FTUQgBQUrRUO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1lUKB68otFFhz2b2gn5y_FTUQgBQUrRUO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1lUKB68otFFhz2b2gn5y_FTUQgBQUrRUO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1lUKB68otFFhz2b2gn5y_FTUQgBQUrRUO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-11",
+          "title": "Accounting Fundamentals Intermediate Project",
+          "url": "https://docs.google.com/document/d/1KiJaDz1lpc1owmIgH4oc19wXM6VmBCo1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KiJaDz1lpc1owmIgH4oc19wXM6VmBCo1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KiJaDz1lpc1owmIgH4oc19wXM6VmBCo1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KiJaDz1lpc1owmIgH4oc19wXM6VmBCo1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-12",
+          "title": "Accounting Fundamentals Practice Project",
+          "url": "https://docs.google.com/document/d/1xRz6Mn-ERUvq-w8-3W_Kgj8rhPENI6v2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xRz6Mn-ERUvq-w8-3W_Kgj8rhPENI6v2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xRz6Mn-ERUvq-w8-3W_Kgj8rhPENI6v2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xRz6Mn-ERUvq-w8-3W_Kgj8rhPENI6v2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-13",
+          "title": "Accounting Fundamentals Advanced Project",
+          "url": "https://docs.google.com/document/d/1xeai6yyO6_bSwdsSJW95bsflvR3FU9GL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xeai6yyO6_bSwdsSJW95bsflvR3FU9GL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xeai6yyO6_bSwdsSJW95bsflvR3FU9GL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xeai6yyO6_bSwdsSJW95bsflvR3FU9GL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-14",
+          "title": "Accounting Fundamentals Application Project",
+          "url": "https://docs.google.com/document/d/1aO5K1bCmcgrdxYCYguFHePRr-PQhxO1y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aO5K1bCmcgrdxYCYguFHePRr-PQhxO1y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aO5K1bCmcgrdxYCYguFHePRr-PQhxO1y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aO5K1bCmcgrdxYCYguFHePRr-PQhxO1y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-15",
+          "title": "Accounting Fundamentals Final Project",
+          "url": "https://docs.google.com/document/d/1ADj2pfMeqCe6i0qxT2S6jcuyU09b-5B8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ADj2pfMeqCe6i0qxT2S6jcuyU09b-5B8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ADj2pfMeqCe6i0qxT2S6jcuyU09b-5B8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ADj2pfMeqCe6i0qxT2S6jcuyU09b-5B8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to basic Financial Statements Terminologies, Ind AS & IFRS",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-37",
+          "title": "Significance & Elements of Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49zYaJNX4EG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49zYaJNX4EG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49zYaJNX4EG/video.m3u8",
+          "duration": 1507,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-38",
+          "title": "Understanding Elements of Financial Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sYA5bqqnfh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sYA5bqqnfh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sYA5bqqnfh/video.m3u8",
+          "duration": 1508,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-39",
+          "title": "Understanding Proforma of Financial Statements with example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qK2zCeA4aA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qK2zCeA4aA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qK2zCeA4aA/video.m3u8",
+          "duration": 2402,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-40",
+          "title": "Introduction to Ind AS & IFRS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pSqu85zepQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pSqu85zepQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pSqu85zepQ/video.m3u8",
+          "duration": 2414,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-41",
+          "title": "Decoding Adoption of Ind AS & Ind AS 101 to 116 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rs23n6tJNT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rs23n6tJNT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rs23n6tJNT/video.m3u8",
+          "duration": 2414,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-42",
+          "title": "Decoding Ind AS 1 to 24 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FqxBN5sxZQX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FqxBN5sxZQX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FqxBN5sxZQX/video.m3u8",
+          "duration": 1620,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-43",
+          "title": "Decoding Ind AS 24 to 41 explanation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xMu8tSe7rD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xMu8tSe7rD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xMu8tSe7rD/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-44",
+          "title": "Referencing materials for Ind AS & IFRS and comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkpqz6CGdpt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkpqz6CGdpt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkpqz6CGdpt/video.m3u8",
+          "duration": 1199,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-17",
+          "title": " Basics of Financial Statements Project",
+          "url": "https://docs.google.com/document/d/1ihgMzlpTMHNS9iazZUtdW69d15LYjDdR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ihgMzlpTMHNS9iazZUtdW69d15LYjDdR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ihgMzlpTMHNS9iazZUtdW69d15LYjDdR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ihgMzlpTMHNS9iazZUtdW69d15LYjDdR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-18",
+          "title": "Understanding Ind AS & IFRS Project",
+          "url": "https://docs.google.com/document/d/1aHO-KxNdQPrpqPI7fZkTywOWAzedkW8Q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aHO-KxNdQPrpqPI7fZkTywOWAzedkW8Q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aHO-KxNdQPrpqPI7fZkTywOWAzedkW8Q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aHO-KxNdQPrpqPI7fZkTywOWAzedkW8Q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-19",
+          "title": "Ind AS & IFRS Comparative Study Project",
+          "url": "https://docs.google.com/document/d/14Wtg5PiozXlJv-F9VOdf0UdsEewQcBkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/14Wtg5PiozXlJv-F9VOdf0UdsEewQcBkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/14Wtg5PiozXlJv-F9VOdf0UdsEewQcBkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/14Wtg5PiozXlJv-F9VOdf0UdsEewQcBkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to 3 Statement Financial Statements",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-45",
+          "title": "Decoding Income Statement in depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Q5h7KjXtud/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Q5h7KjXtud/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Q5h7KjXtud/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-46",
+          "title": "Decoding Balance Sheet Elements in Depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RMXdgX9y52y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RMXdgX9y52y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RMXdgX9y52y/video.m3u8",
+          "duration": 1556,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-47",
+          "title": "Decoding the Cash Flow Statement & its types & interconnection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnTr5aKmP3E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnTr5aKmP3E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnTr5aKmP3E/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-21",
+          "title": "Financial Statements Decoding Project",
+          "url": "https://docs.google.com/document/d/1YAyd7t2PiFOr0qnx8uVr2cC4GkrJC4fJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YAyd7t2PiFOr0qnx8uVr2cC4GkrJC4fJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YAyd7t2PiFOr0qnx8uVr2cC4GkrJC4fJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YAyd7t2PiFOr0qnx8uVr2cC4GkrJC4fJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Revenue and Cost Recognition",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-48",
+          "title": "Cash vs Accrual",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39aB5nHKuXt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39aB5nHKuXt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39aB5nHKuXt/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-49",
+          "title": "Revenue recognmition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35QpbKCFxeH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35QpbKCFxeH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35QpbKCFxeH/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-50",
+          "title": "Revenue Recognition importance and examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XUpGzMeThA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XUpGzMeThA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XUpGzMeThA/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-51",
+          "title": "Challenges in rev recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PDGCS7U6km/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PDGCS7U6km/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PDGCS7U6km/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-52",
+          "title": "Cost recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sum4QccQx7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sum4QccQx7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sum4QccQx7/video.m3u8",
+          "duration": 1099,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-53",
+          "title": "Cost recognition example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77dnG3aYhxA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77dnG3aYhxA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77dnG3aYhxA/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-23",
+          "title": "Revenue & Cost Recognition Project",
+          "url": "https://docs.google.com/document/d/1vcE25_LSxgz8ga0c3csa3_pkjXMUY0Bk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vcE25_LSxgz8ga0c3csa3_pkjXMUY0Bk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vcE25_LSxgz8ga0c3csa3_pkjXMUY0Bk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vcE25_LSxgz8ga0c3csa3_pkjXMUY0Bk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Accounting",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-54",
+          "title": "Trade Recievables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKtqzshKg7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKtqzshKg7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKtqzshKg7/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-55",
+          "title": "Trade Payables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTfTCpGSYY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTfTCpGSYY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UTfTCpGSYY/video.m3u8",
+          "duration": 446,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-56",
+          "title": "Inventory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjbYxTubdC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjbYxTubdC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjbYxTubdC7/video.m3u8",
+          "duration": 1334,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-57",
+          "title": "fixed assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4c2mT7NfRP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4c2mT7NfRP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4c2mT7NfRP/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-58",
+          "title": "liabilites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M7zMTpu6gDQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M7zMTpu6gDQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M7zMTpu6gDQ/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-59",
+          "title": "leverage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86EAFMmtRnM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86EAFMmtRnM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86EAFMmtRnM/video.m3u8",
+          "duration": 870,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Equity  Everything you need to know",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-60",
+          "title": "equity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NCEbcugArE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NCEbcugArE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NCEbcugArE/video.m3u8",
+          "duration": 569,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-61",
+          "title": "types of equity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NufQbXCSMMG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NufQbXCSMMG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NufQbXCSMMG/video.m3u8",
+          "duration": 626,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-62",
+          "title": "raising equity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PQTdMHbJ3E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PQTdMHbJ3E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PQTdMHbJ3E/video.m3u8",
+          "duration": 793,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-63",
+          "title": "dividend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZPrMynaU4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZPrMynaU4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZPrMynaU4/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-64",
+          "title": "shareholders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KAB8EJUFgS9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KAB8EJUFgS9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KAB8EJUFgS9/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-65",
+          "title": "basic terms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3tc87MzpyE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3tc87MzpyE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3tc87MzpyE/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-66",
+          "title": "stock splits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycYNu3bXX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycYNu3bXX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycYNu3bXX7/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-26",
+          "title": "Advanced Accounting & Equity Project",
+          "url": "https://docs.google.com/document/d/1FjUwTPlD4yMWYoLfEeAdzvVqD0cQQ5eQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FjUwTPlD4yMWYoLfEeAdzvVqD0cQQ5eQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FjUwTPlD4yMWYoLfEeAdzvVqD0cQQ5eQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FjUwTPlD4yMWYoLfEeAdzvVqD0cQQ5eQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working Capital Management",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-67",
+          "title": "working cap mgmt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeZaqyazz6K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeZaqyazz6K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeZaqyazz6K/video.m3u8",
+          "duration": 1196,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-68",
+          "title": "WCM Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEHtkEdsak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEHtkEdsak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEHtkEdsak/video.m3u8",
+          "duration": 1156,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Learn to make your own Financial statements  FROM SCRATCH!",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-69",
+          "title": "P&L from scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txBx3tuSjc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txBx3tuSjc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txBx3tuSjc/video.m3u8",
+          "duration": 1737,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-70",
+          "title": "Balance Sheet from scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jrGxmaDcGhB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jrGxmaDcGhB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jrGxmaDcGhB/video.m3u8",
+          "duration": 1466,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-71",
+          "title": "Cash Flow Statement from scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F94dbYTXZj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F94dbYTXZj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F94dbYTXZj/video.m3u8",
+          "duration": 1397,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-29",
+          "title": " Working Capital & Basic Financial Statements Project",
+          "url": "https://docs.google.com/document/d/1Eo1W74OBSzTGUKeaqgOgzJ-x10oUwjJy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Eo1W74OBSzTGUKeaqgOgzJ-x10oUwjJy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Eo1W74OBSzTGUKeaqgOgzJ-x10oUwjJy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Eo1W74OBSzTGUKeaqgOgzJ-x10oUwjJy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Financial Statements Refresher",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-72",
+          "title": "Financial Statements Refresher_ Linkage between Income Statement, Balance Sheet & Cash Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99aN4YM63Jj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99aN4YM63Jj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99aN4YM63Jj/video.m3u8",
+          "duration": 2372,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-73",
+          "title": "Financial Statement Analysis Accounting Concepts ad examples of Linkage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnkQNDSZtDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnkQNDSZtDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnkQNDSZtDZ/video.m3u8",
+          "duration": 1304,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Reading an Annual Report",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-74",
+          "title": "How to Read an HUL Annual Report - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YbuSCfpHrK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YbuSCfpHrK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YbuSCfpHrK/video.m3u8",
+          "duration": 2383,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-75",
+          "title": "Reading HUL Annual Report, Compliance and Financials - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C43zTXmrTCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C43zTXmrTCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C43zTXmrTCp/video.m3u8",
+          "duration": 1131,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-76",
+          "title": "HUL Consolidated Financial Statements Overview- Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/676r9zstJ5d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/676r9zstJ5d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/676r9zstJ5d/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-32",
+          "title": "Financial Statements & Accounting Concepts Project",
+          "url": "https://docs.google.com/document/d/199ExUtkl-7racz40ONJ51EIpEFxH3ima/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/199ExUtkl-7racz40ONJ51EIpEFxH3ima/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/199ExUtkl-7racz40ONJ51EIpEFxH3ima/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/199ExUtkl-7racz40ONJ51EIpEFxH3ima/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Charts in MS EXCEL",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-77",
+          "title": "Introduction to charts and column chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZBYj9FmXR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZBYj9FmXR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZBYj9FmXR2/video.m3u8",
+          "duration": 1431,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-78",
+          "title": "Bar chart, line chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DsF8GjhRbZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DsF8GjhRbZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DsF8GjhRbZ/video.m3u8",
+          "duration": 1112,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-79",
+          "title": "Pivot tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N7EXrkj3Nn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N7EXrkj3Nn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N7EXrkj3Nn/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-80",
+          "title": "Slicers and Timelines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBZSSCTNPe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBZSSCTNPe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBZSSCTNPe/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "3 Statement model",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-81",
+          "title": "3 statement model(theory)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bBbTPerEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bBbTPerEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39bBbTPerEA/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-82",
+          "title": "Fixed Asset Roll Forward",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57bHuh6BGD6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57bHuh6BGD6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57bHuh6BGD6/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-83",
+          "title": "Equity Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQTY5YdxgHm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQTY5YdxgHm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQTY5YdxgHm/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-84",
+          "title": "Liabilities Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHdZAnygr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHdZAnygr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHdZAnygr7/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-85",
+          "title": "3SM IS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rDANSK52xU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rDANSK52xU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rDANSK52xU/video.m3u8",
+          "duration": 1543,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-86",
+          "title": "3SM BS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gz76NdJeJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gz76NdJeJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gz76NdJeJe/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-87",
+          "title": "3SM CFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBP9ndhE9X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBP9ndhE9X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBP9ndhE9X/video.m3u8",
+          "duration": 745,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-88",
+          "title": "Ratio Analysis( theory)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKbsucjBXSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKbsucjBXSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKbsucjBXSC/video.m3u8",
+          "duration": 1452,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-89",
+          "title": "Ratio Analysis Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxKD9SAQ35E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxKD9SAQ35E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxKD9SAQ35E/video.m3u8",
+          "duration": 1318,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-90",
+          "title": "Ratio Analysis part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8hQ8FDkd7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8hQ8FDkd7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8hQ8FDkd7/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-91",
+          "title": "Forecasting Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2Se2Jget8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2Se2Jget8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2Se2Jget8/video.m3u8",
+          "duration": 1914,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-92",
+          "title": "Forecasting part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nXHckQf7he/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nXHckQf7he/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nXHckQf7he/video.m3u8",
+          "duration": 963,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-35",
+          "title": "Data Vizualisation using MS Excel Charts Project",
+          "url": "https://docs.google.com/document/d/1EvS1wBFl-BhyWXmwh9jaHX3Yw_XEprP2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1EvS1wBFl-BhyWXmwh9jaHX3Yw_XEprP2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1EvS1wBFl-BhyWXmwh9jaHX3Yw_XEprP2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1EvS1wBFl-BhyWXmwh9jaHX3Yw_XEprP2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Learning how to do analysis of Financial Statements and take decisions",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-93",
+          "title": "Analysing Income Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhsPFnfcxU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhsPFnfcxU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhsPFnfcxU/video.m3u8",
+          "duration": 1111,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-94",
+          "title": "Analysing Balance Sheet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hsfYtYp28S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hsfYtYp28S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hsfYtYp28S/video.m3u8",
+          "duration": 1303,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-95",
+          "title": "Analysing CFS & Decision Making",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PrCDcCjPbP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PrCDcCjPbP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PrCDcCjPbP/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-96",
+          "title": "Ratio Analysis Fundamentals, Liquidity, Solvency & Profitability Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "duration": 1484,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-97",
+          "title": "Turnover, Earning and Other Category Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-98",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "duration": 1305,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-99",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "duration": 1063,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-100",
+          "title": "Comprehensive Stock Analysis of IRFC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "duration": 2362,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-37",
+          "title": "Financial Statement Analysis & Decision Making Project",
+          "url": "https://docs.google.com/document/d/1y5f9XOcXqq0m5M0IFrHDUbbnedjRl1A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1y5f9XOcXqq0m5M0IFrHDUbbnedjRl1A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1y5f9XOcXqq0m5M0IFrHDUbbnedjRl1A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1y5f9XOcXqq0m5M0IFrHDUbbnedjRl1A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Learning Ratio Analysis on Financial Statements",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-101",
+          "title": "Ratio Analysis Fundamentals, Liquidity, Solvency & Profitability Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDn3znhezE/video.m3u8",
+          "duration": 1484,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-102",
+          "title": "Turnover, Earning and Other Category Ratios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BuxnqezmZK/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-103",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rTE928ahJmu/video.m3u8",
+          "duration": 1305,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-104",
+          "title": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sTZUxJGcZ/video.m3u8",
+          "duration": 1063,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-105",
+          "title": "Comprehensive Stock Analysis of IRFC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ku6yYcXzbD/video.m3u8",
+          "duration": 2362,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-39",
+          "title": "Financial Statement Analysis & Decision Making Project",
+          "url": "https://docs.google.com/document/d/12bgGhEE4SlZBZu3uK2eHMjd5TLfX-S6A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12bgGhEE4SlZBZu3uK2eHMjd5TLfX-S6A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12bgGhEE4SlZBZu3uK2eHMjd5TLfX-S6A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12bgGhEE4SlZBZu3uK2eHMjd5TLfX-S6A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-financialanalysis-40",
+          "title": "Fundamental & Technical Analysis Project",
+          "url": "https://docs.google.com/document/d/1RKeE2qvOgtXWiXDcOt05seL8ItC9-d5-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1RKeE2qvOgtXWiXDcOt05seL8ItC9-d5-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1RKeE2qvOgtXWiXDcOt05seL8ItC9-d5-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1RKeE2qvOgtXWiXDcOt05seL8ItC9-d5-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Integrated Performance Analysis",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-106",
+          "title": "Integrated Performance Analysis of Infosys Ltd - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uBMNNd6zEy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uBMNNd6zEy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uBMNNd6zEy/video.m3u8",
+          "duration": 1917,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-107",
+          "title": "Integrated Performance Analysis of Infosys - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XKtuJH2RnS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XKtuJH2RnS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XKtuJH2RnS/video.m3u8",
+          "duration": 1356,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capital Budgeting Techniques",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-108",
+          "title": "cap budget tech",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BxuDbCt9cu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BxuDbCt9cu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BxuDbCt9cu/video.m3u8",
+          "duration": 414,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-109",
+          "title": "time value of money",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANY8F9zCB8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANY8F9zCB8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ANY8F9zCB8/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-110",
+          "title": "NPV",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ88gpnCdfk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ88gpnCdfk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ88gpnCdfk/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-111",
+          "title": "IRR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByYYHDaQA2B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByYYHDaQA2B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByYYHDaQA2B/video.m3u8",
+          "duration": 1221,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-112",
+          "title": "PBP and DPBP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmremjSeSBa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmremjSeSBa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmremjSeSBa/video.m3u8",
+          "duration": 1268,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-113",
+          "title": "PI and final Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/acScJz79gZX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/acScJz79gZX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/acScJz79gZX/video.m3u8",
+          "duration": 1436,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-43",
+          "title": "Integrated Performance Analysis & Capital Budgeting Project",
+          "url": "https://docs.google.com/document/d/12jSPnXeHyUF6JDYrj8pYsHPGCALjNIZ7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12jSPnXeHyUF6JDYrj8pYsHPGCALjNIZ7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12jSPnXeHyUF6JDYrj8pYsHPGCALjNIZ7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12jSPnXeHyUF6JDYrj8pYsHPGCALjNIZ7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Business Analysis",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-114",
+          "title": "Business analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG6XAF85bq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG6XAF85bq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG6XAF85bq/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-115",
+          "title": "Time Series Analysis theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUaY79tSaU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUaY79tSaU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUaY79tSaU/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-116",
+          "title": "Time series data excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GB3dR4gUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GB3dR4gUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GB3dR4gUU/video.m3u8",
+          "duration": 637,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-117",
+          "title": "Correlation analysis theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6YcPs397fg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6YcPs397fg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6YcPs397fg/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-118",
+          "title": "Correlation Analysis Excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6Gb2j7XNy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6Gb2j7XNy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6Gb2j7XNy/video.m3u8",
+          "duration": 313,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-119",
+          "title": "Trend Analysis theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77xsDNP75aX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77xsDNP75aX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77xsDNP75aX/video.m3u8",
+          "duration": 565,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-120",
+          "title": "Trend Analysis Excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QKKZ3uQ9xa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QKKZ3uQ9xa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QKKZ3uQ9xa/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-121",
+          "title": "regression analysis theroy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yaYC3aK3TS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yaYC3aK3TS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yaYC3aK3TS/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-122",
+          "title": "Regression analysis excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx3RhGKmD3T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx3RhGKmD3T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx3RhGKmD3T/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-123",
+          "title": "Comparative analysis theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yGCKENy8rc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yGCKENy8rc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yGCKENy8rc/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-124",
+          "title": "Comparative analysis excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5J929fNmQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5J929fNmQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5J929fNmQs/video.m3u8",
+          "duration": 405,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-125",
+          "title": "Value based analysis theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASnmKE9BZbY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASnmKE9BZbY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASnmKE9BZbY/video.m3u8",
+          "duration": 569,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-126",
+          "title": "Value based analysis excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnTEbjpNnz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnTEbjpNnz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnTEbjpNnz/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-45",
+          "title": "Business & Financial Data Analysis using Excel Project",
+          "url": "https://docs.google.com/document/d/1horyt_lWpGxkcLNlkXiSpGjStD9fHAJb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1horyt_lWpGxkcLNlkXiSpGjStD9fHAJb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1horyt_lWpGxkcLNlkXiSpGjStD9fHAJb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1horyt_lWpGxkcLNlkXiSpGjStD9fHAJb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "DCF Modelling",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-127",
+          "title": "DCF Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BrUsZBEX5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BrUsZBEX5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BrUsZBEX5B/video.m3u8",
+          "duration": 1405,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-128",
+          "title": "WACC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kq7RRbADnak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kq7RRbADnak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kq7RRbADnak/video.m3u8",
+          "duration": 814,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-129",
+          "title": "Beta (L and UL)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYasP4CcCx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYasP4CcCx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYasP4CcCx/video.m3u8",
+          "duration": 825,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-130",
+          "title": "DCF Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gq3GbMDt77/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gq3GbMDt77/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gq3GbMDt77/video.m3u8",
+          "duration": 1208,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-131",
+          "title": "Comp Analysis 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tX4KtcbbsE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tX4KtcbbsE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tX4KtcbbsE/video.m3u8",
+          "duration": 1291,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-132",
+          "title": "COMP Analysis 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnkP7KqQJd8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnkP7KqQJd8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnkP7KqQJd8/video.m3u8",
+          "duration": 1070,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-133",
+          "title": "Other Financial Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkmU2JZ5Mu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkmU2JZ5Mu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkmU2JZ5Mu/video.m3u8",
+          "duration": 1729,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-47",
+          "title": "Infosys DCF Model Project",
+          "url": "https://docs.google.com/document/d/1f-iQLBPveElTpDk25bYg29yOVuwKoOXl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1f-iQLBPveElTpDk25bYg29yOVuwKoOXl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1f-iQLBPveElTpDk25bYg29yOVuwKoOXl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1f-iQLBPveElTpDk25bYg29yOVuwKoOXl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Calculation of valuation of Company based on extrinsic value",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-134",
+          "title": "Extrinsic Valuation - Company Valuation Using P_E Multiples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMUHbUfCxb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMUHbUfCxb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMUHbUfCxb/video.m3u8",
+          "duration": 1407,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-135",
+          "title": "Extrinsic Valuation - Company Valuation Using EV Sales & EV EBITDA Multiples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjbYPPkJD5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjbYPPkJD5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjbYPPkJD5/video.m3u8",
+          "duration": 1382,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-49",
+          "title": "Comparable Comps Analysis Project",
+          "url": "https://docs.google.com/document/d/1SVjM3ErOyvwpUuGR8FidEBIDYgaGZ9J0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SVjM3ErOyvwpUuGR8FidEBIDYgaGZ9J0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SVjM3ErOyvwpUuGR8FidEBIDYgaGZ9J0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SVjM3ErOyvwpUuGR8FidEBIDYgaGZ9J0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Financial Analysis for Decision Making",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-136",
+          "title": "Financial Analysis for Credit, Investment, Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeuPSkaN9FA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeuPSkaN9FA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeuPSkaN9FA/video.m3u8",
+          "duration": 2389,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-137",
+          "title": "Credit and Investment Decisions Case Studies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46cYN8mSYdj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46cYN8mSYdj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46cYN8mSYdj/video.m3u8",
+          "duration": 1752,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-138",
+          "title": "Internal Managerial Decisions in Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK3ndNzuUj4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK3ndNzuUj4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK3ndNzuUj4/video.m3u8",
+          "duration": 1802,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-51",
+          "title": "Financial Analysis for Decision Making Project",
+          "url": "https://docs.google.com/document/d/1I6JkF5fgYFGnZlyllzRFlpbyNsbr0teS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1I6JkF5fgYFGnZlyllzRFlpbyNsbr0teS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1I6JkF5fgYFGnZlyllzRFlpbyNsbr0teS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1I6JkF5fgYFGnZlyllzRFlpbyNsbr0teS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Use of AI in Financial Analysis",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-139",
+          "title": "Intro to AI for Finance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKH7F6Qxgzd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKH7F6Qxgzd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKH7F6Qxgzd/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-140",
+          "title": "Understanding the role of AI in Finance & Financial Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gY9fSFYCXh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gY9fSFYCXh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gY9fSFYCXh/video.m3u8",
+          "duration": 1520,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-141",
+          "title": "Use of AI Tools to support Financial Analysis_Ratio Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pUt9uHeS3G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pUt9uHeS3G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pUt9uHeS3G/video.m3u8",
+          "duration": 2423,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-142",
+          "title": "Generating assumptions, forecasting and building Financial Model using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACuEtxHCMjB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACuEtxHCMjB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACuEtxHCMjB/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-143",
+          "title": "AI Results for Financial Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64a5Y7fHbB5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64a5Y7fHbB5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64a5Y7fHbB5/video.m3u8",
+          "duration": 357,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-53",
+          "title": "Exploring the role of AI in Finance Project",
+          "url": "https://docs.google.com/document/d/1oXeWj_uspApwPMTGPv4VcvFpQtCuorlp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1oXeWj_uspApwPMTGPv4VcvFpQtCuorlp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1oXeWj_uspApwPMTGPv4VcvFpQtCuorlp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1oXeWj_uspApwPMTGPv4VcvFpQtCuorlp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Red Flags, Earnings Quality & Governance Signals",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-144",
+          "title": "Financial Statement Red Flags and Earnings Quality - Satyam Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PXd2u95XX3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PXd2u95XX3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PXd2u95XX3/video.m3u8",
+          "duration": 1757,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-145",
+          "title": "Quantitative Red Flag - Manpasand Beverages Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYSmtzHDE65/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYSmtzHDE65/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYSmtzHDE65/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-146",
+          "title": "Red Flags_ Persistent Negative Operating Cash Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fe3BMKPQ3R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fe3BMKPQ3R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fe3BMKPQ3R/video.m3u8",
+          "duration": 1238,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-147",
+          "title": "Earnings Quality and Governance Red Flags - DHFL Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f8ENQPF5jY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f8ENQPF5jY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f8ENQPF5jY/video.m3u8",
+          "duration": 1186,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Your First Capstone Project",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-148",
+          "title": "Downloading the info HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2janaFqkxB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2janaFqkxB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2janaFqkxB/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-149",
+          "title": "Analysis Report HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68PUxEJDmes/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68PUxEJDmes/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68PUxEJDmes/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-150",
+          "title": "Analysis report HUL 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99jds5ZBmkz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99jds5ZBmkz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99jds5ZBmkz/video.m3u8",
+          "duration": 1194,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-151",
+          "title": "Historical FS HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cQkb8QyKZM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cQkb8QyKZM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cQkb8QyKZM/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-152",
+          "title": "Forecasting HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/STHm2PFyePY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/STHm2PFyePY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/STHm2PFyePY/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-153",
+          "title": "Ratio Analysis HUL 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cEff88pta3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cEff88pta3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cEff88pta3/video.m3u8",
+          "duration": 1026,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-154",
+          "title": "Ratio Analysis HUL 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99GB65jG872/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99GB65jG872/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99GB65jG872/video.m3u8",
+          "duration": 1223,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-155",
+          "title": "DCF Model HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsHe3b8cf3Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsHe3b8cf3Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsHe3b8cf3Y/video.m3u8",
+          "duration": 1416,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-156",
+          "title": "Trend Analysis HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CtabgkEtK3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CtabgkEtK3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CtabgkEtK3/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-157",
+          "title": "COMP Analysis HUL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c79N6AMZ9J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c79N6AMZ9J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c79N6AMZ9J/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-158",
+          "title": "Common Size Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sZBHcraUbk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sZBHcraUbk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sZBHcraUbk/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project Workshop & Presentations",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-159",
+          "title": "Final Module Capstone Ratio Analysis and Presentation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PnEeTjEfuS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PnEeTjEfuS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PnEeTjEfuS/video.m3u8",
+          "duration": 1051,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-financialanalysis-57",
+          "title": "Financial Analysis Capstone Project ",
+          "url": "https://docs.google.com/document/d/1aJtXK7aIbbgaUisLd3rJsDRsSMxPmxw0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aJtXK7aIbbgaUisLd3rJsDRsSMxPmxw0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aJtXK7aIbbgaUisLd3rJsDRsSMxPmxw0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aJtXK7aIbbgaUisLd3rJsDRsSMxPmxw0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Placement Module",
+      "lectures": [
+        {
+          "id": "td-financialanalysis-160",
+          "title": "Finance Hiring Toolkit Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s23dEFP22s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s23dEFP22s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s23dEFP22s/video.m3u8",
+          "duration": 2711,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-161",
+          "title": "Resume Mistakes and Winning Format Tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DU5MqNdyhj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DU5MqNdyhj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DU5MqNdyhj/video.m3u8",
+          "duration": 1522,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-162",
+          "title": "Building Financial Portfolio_ Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MhZKRasCYy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MhZKRasCYy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MhZKRasCYy/video.m3u8",
+          "duration": 1230,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-163",
+          "title": "Interview Preparation, Question Banks and Mock Practice tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mKmb4f3ebZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mKmb4f3ebZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mKmb4f3ebZ/video.m3u8",
+          "duration": 1795,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-164",
+          "title": "LinkedIn Outreach Setup for Referrals Made Easy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NtqHNGhBYP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NtqHNGhBYP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NtqHNGhBYP/video.m3u8",
+          "duration": 2392,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-165",
+          "title": "Salary and Stipend Negotiation Range Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43kK6ehSEuz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43kK6ehSEuz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43kK6ehSEuz/video.m3u8",
+          "duration": 876,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-166",
+          "title": "Importance of Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eEAFgBMX7N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eEAFgBMX7N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eEAFgBMX7N/video.m3u8",
+          "duration": 1477,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-167",
+          "title": "Careers related to Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-168",
+          "title": "Importance of Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rN8DEe7AT7Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rN8DEe7AT7Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rN8DEe7AT7Z/video.m3u8",
+          "duration": 1300,
+          "type": "video"
+        },
+        {
+          "id": "td-financialanalysis-169",
+          "title": "Careers related to Financial Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4My599XgFdd/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

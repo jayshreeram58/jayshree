@@ -1,0 +1,260 @@
+{
+  "platform": "TuteDude",
+  "batchId": "vnvideoediting",
+  "batchSlug": "vnvideoediting",
+  "batchName": "VN Mobile Video Editing",
+  "thumbnail": "https://www.tutedude.com/assets/avif/vnvideoediting.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/vnvideoediting",
+  "totalSections": 4,
+  "totalLectures": 14,
+  "totalNotes": 10,
+  "price": "699.00",
+  "category": "Video Editing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Smartphone Editing",
+      "lectures": [
+        {
+          "id": "td-vnvideoediting-1",
+          "title": "Introduction to VN Editor and Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bCxyBanECR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bCxyBanECR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bCxyBanECR/video.m3u8",
+          "duration": 1228,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-2",
+          "title": "Concept of Smart Video Editing in VN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JgsuTKgPFM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JgsuTKgPFM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JgsuTKgPFM/video.m3u8",
+          "duration": 1387,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-3",
+          "title": "Widescreen vs Vertical Screen Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRjjB87mec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRjjB87mec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRjjB87mec/video.m3u8",
+          "duration": 795,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-vnvideoediting-2",
+          "title": "Installing VN Editor and Exploring the Interf",
+          "url": "https://docs.google.com/document/d/1A8YLBgHprK4picgf-V6WZUMya22CN1Am/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1A8YLBgHprK4picgf-V6WZUMya22CN1Am/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1A8YLBgHprK4picgf-V6WZUMya22CN1Am/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1A8YLBgHprK4picgf-V6WZUMya22CN1Am/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-3",
+          "title": "Smart Video Editing Concepts and Editing Term",
+          "url": "https://docs.google.com/document/d/1MI78vT5MjGiwmdPQYpFfml7OTnF9UNTz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MI78vT5MjGiwmdPQYpFfml7OTnF9UNTz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MI78vT5MjGiwmdPQYpFfml7OTnF9UNTz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MI78vT5MjGiwmdPQYpFfml7OTnF9UNTz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-4",
+          "title": "Widescreen vs Vertical Screen Editing.",
+          "url": "https://docs.google.com/document/d/1BHJ5SrpAuOE1ix46_pPWM1srYBQoPDn0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1BHJ5SrpAuOE1ix46_pPWM1srYBQoPDn0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1BHJ5SrpAuOE1ix46_pPWM1srYBQoPDn0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1BHJ5SrpAuOE1ix46_pPWM1srYBQoPDn0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to VN Editor",
+      "lectures": [
+        {
+          "id": "td-vnvideoediting-4",
+          "title": "Understanding the VN Editor Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RDzaAtNUSh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RDzaAtNUSh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RDzaAtNUSh/video.m3u8",
+          "duration": 1388,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-5",
+          "title": "Software vs Mobile Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hzxzcHa6fs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hzxzcHa6fs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hzxzcHa6fs/video.m3u8",
+          "duration": 1054,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-6",
+          "title": "Smartphone Video Editing Terms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SBh27apRTF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SBh27apRTF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SBh27apRTF/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-vnvideoediting-6",
+          "title": "Software vs Mobile Video Editing.",
+          "url": "https://docs.google.com/document/d/1IS9zKqrmrefWOqzZNVPSHt8p-Uhcb7Jn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IS9zKqrmrefWOqzZNVPSHt8p-Uhcb7Jn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IS9zKqrmrefWOqzZNVPSHt8p-Uhcb7Jn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IS9zKqrmrefWOqzZNVPSHt8p-Uhcb7Jn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Editing Reels and Shorts",
+      "lectures": [
+        {
+          "id": "td-vnvideoediting-7",
+          "title": "Concepts of Audio in Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-8",
+          "title": "Creating Professional Reels in VN Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-9",
+          "title": "Tools and Effects in VN Video Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqyk4TCHAJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqyk4TCHAJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqyk4TCHAJ/video.m3u8",
+          "duration": 1181,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-vnvideoediting-8",
+          "title": "Audio Editing in VN.",
+          "url": "https://docs.google.com/document/d/1UKFVuBdjYFbZRqQX058OSssA3i302s_L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UKFVuBdjYFbZRqQX058OSssA3i302s_L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UKFVuBdjYFbZRqQX058OSssA3i302s_L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UKFVuBdjYFbZRqQX058OSssA3i302s_L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-9",
+          "title": "Creating a Professional Reel in VN.",
+          "url": "https://docs.google.com/document/d/1WnHXFCPdjyusefTD_r910rG_UaoYQQ3y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WnHXFCPdjyusefTD_r910rG_UaoYQQ3y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WnHXFCPdjyusefTD_r910rG_UaoYQQ3y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WnHXFCPdjyusefTD_r910rG_UaoYQQ3y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-10",
+          "title": "Tools and Effects Exploration in VN",
+          "url": "https://docs.google.com/document/d/1RPRE7WQEfWC4mQAj0uyWqY8A5z-imIjB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1RPRE7WQEfWC4mQAj0uyWqY8A5z-imIjB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1RPRE7WQEfWC4mQAj0uyWqY8A5z-imIjB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1RPRE7WQEfWC4mQAj0uyWqY8A5z-imIjB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Video Editing in VN",
+      "lectures": [
+        {
+          "id": "td-vnvideoediting-10",
+          "title": "Using Predefined Templates in VN Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bksdtrt8peX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bksdtrt8peX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bksdtrt8peX/video.m3u8",
+          "duration": 1275,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-11",
+          "title": "Text Motion and Sky Replacement in VN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69UAknGbbRE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69UAknGbbRE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69UAknGbbRE/video.m3u8",
+          "duration": 1513,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-12",
+          "title": "Masking Like a Pro in VN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y2qBfCHyfE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y2qBfCHyfE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y2qBfCHyfE/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-13",
+          "title": "Dynamic Time Freeze Effect in VN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSr23xJPS3m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSr23xJPS3m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSr23xJPS3m/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-vnvideoediting-14",
+          "title": "Masking and Chroma Editing in VN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66XGYse3nj5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66XGYse3nj5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66XGYse3nj5/video.m3u8",
+          "duration": 991,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-vnvideoediting-12",
+          "title": "Editing with Predefined Templates in VN",
+          "url": "https://docs.google.com/document/d/1KoFi7yBBre8kpGCwC7Q_tubFLyPVWyH3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KoFi7yBBre8kpGCwC7Q_tubFLyPVWyH3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KoFi7yBBre8kpGCwC7Q_tubFLyPVWyH3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KoFi7yBBre8kpGCwC7Q_tubFLyPVWyH3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-13",
+          "title": "Text Motion and Sky Replacement in VN",
+          "url": "https://docs.google.com/document/d/1B18gLwgqOBjqCiCA0myszCjy3I1110hR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1B18gLwgqOBjqCiCA0myszCjy3I1110hR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1B18gLwgqOBjqCiCA0myszCjy3I1110hR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1B18gLwgqOBjqCiCA0myszCjy3I1110hR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-vnvideoediting-14",
+          "title": "Advanced Masking, Time Freeze and Chroma Key",
+          "url": "https://docs.google.com/document/d/1xE2rVf1JPke2tGakaWSKo21W3BVqc2Ee/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xE2rVf1JPke2tGakaWSKo21W3BVqc2Ee/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xE2rVf1JPke2tGakaWSKo21W3BVqc2Ee/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xE2rVf1JPke2tGakaWSKo21W3BVqc2Ee/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

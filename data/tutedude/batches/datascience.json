@@ -1,0 +1,950 @@
+{
+  "platform": "TuteDude",
+  "batchId": "datascience",
+  "batchSlug": "datascience",
+  "batchName": "Datascience",
+  "thumbnail": "https://www.tutedude.com/assets/avif/datascience.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/datascience",
+  "totalSections": 27,
+  "totalLectures": 78,
+  "totalNotes": 7,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-datascience-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to DS",
+      "lectures": [
+        {
+          "id": "td-datascience-2",
+          "title": "What is Data Science Trial",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FP9aDtg2cd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FP9aDtg2cd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FP9aDtg2cd/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-3",
+          "title": "What is Data Science Full",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cXuqsnY943/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cXuqsnY943/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cXuqsnY943/video.m3u8",
+          "duration": 1705,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-4",
+          "title": "Data Science Case Studies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zbEyDt9aFSN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zbEyDt9aFSN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zbEyDt9aFSN/video.m3u8",
+          "duration": 2183,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Python Opearator datatype",
+      "lectures": [
+        {
+          "id": "td-datascience-5",
+          "title": "Getting started with python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4b5DpUdfYN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4b5DpUdfYN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4b5DpUdfYN/video.m3u8",
+          "duration": 2202,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-6",
+          "title": "Identifiers_datatypes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qf2p7FZfMJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qf2p7FZfMJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qf2p7FZfMJ/video.m3u8",
+          "duration": 1704,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-7",
+          "title": "Python Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ae7B2gzpPe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ae7B2gzpPe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ae7B2gzpPe/video.m3u8",
+          "duration": 3542,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Conditional statements",
+      "lectures": [
+        {
+          "id": "td-datascience-8",
+          "title": "Conditional if elif",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ4Mc7AZhP3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ4Mc7AZhP3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ4Mc7AZhP3/video.m3u8",
+          "duration": 1567,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-9",
+          "title": "Loop while for",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kybMJkjH4M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kybMJkjH4M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kybMJkjH4M/video.m3u8",
+          "duration": 3466,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-10",
+          "title": "Nested loop continue break",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nYsxAXDZ8Dg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nYsxAXDZ8Dg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nYsxAXDZ8Dg/video.m3u8",
+          "duration": 1539,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Data Structure",
+      "lectures": [
+        {
+          "id": "td-datascience-11",
+          "title": "String part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sHh4EQMkfGp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sHh4EQMkfGp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sHh4EQMkfGp/video.m3u8",
+          "duration": 1012,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-12",
+          "title": "String part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xsaycJGZhC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xsaycJGZhC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xsaycJGZhC/video.m3u8",
+          "duration": 2349,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-13",
+          "title": "List Comprehension",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38h9f7jzDKy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38h9f7jzDKy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38h9f7jzDKy/video.m3u8",
+          "duration": 2829,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-14",
+          "title": "Tuple Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXjCasYHA3p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXjCasYHA3p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXjCasYHA3p/video.m3u8",
+          "duration": 2797,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Functions Lamda in Python",
+      "lectures": [
+        {
+          "id": "td-datascience-15",
+          "title": "Function map lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AAP3xaXHj9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AAP3xaXHj9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AAP3xaXHj9/video.m3u8",
+          "duration": 3489,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-16",
+          "title": "Function Casestudy banking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fdDfu66p6E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fdDfu66p6E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fdDfu66p6E/video.m3u8",
+          "duration": 1012,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-7",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1P3mTFDUCDsXB2nJ5Nvc5dOJZ85srYaz0KM0tbStcS50/edit?tab=t.0#heading=h.fhuhqdfca073",
+          "pdfUrl": "https://docs.google.com/document/d/1P3mTFDUCDsXB2nJ5Nvc5dOJZ85srYaz0KM0tbStcS50/edit?tab=t.0#heading=h.fhuhqdfca073",
+          "playerUrl": "https://docs.google.com/document/d/1P3mTFDUCDsXB2nJ5Nvc5dOJZ85srYaz0KM0tbStcS50/edit?tab=t.0#heading=h.fhuhqdfca073",
+          "downloadUrl": "https://docs.google.com/document/d/1P3mTFDUCDsXB2nJ5Nvc5dOJZ85srYaz0KM0tbStcS50/edit?tab=t.0#heading=h.fhuhqdfca073",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Numpy",
+      "lectures": [
+        {
+          "id": "td-datascience-17",
+          "title": "Numpy Insurance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DpCsAFgSjK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DpCsAFgSjK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DpCsAFgSjK/video.m3u8",
+          "duration": 1686,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-18",
+          "title": "Numpy casestudy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ha9xC6ykSj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ha9xC6ykSj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ha9xC6ykSj/video.m3u8",
+          "duration": 1268,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pandas",
+      "lectures": [
+        {
+          "id": "td-datascience-19",
+          "title": "Pandas 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4ENkNa8uTZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4ENkNa8uTZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4ENkNa8uTZ/video.m3u8",
+          "duration": 3103,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-20",
+          "title": "Pandas 2 NA sort group",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ka4U5ukdcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ka4U5ukdcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ka4U5ukdcZ/video.m3u8",
+          "duration": 2630,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-21",
+          "title": "Pandas 3 Casestudy healthcare",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CjFHkpf8Rb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CjFHkpf8Rb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CjFHkpf8Rb/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Visualisation matplot seaborn plotly",
+      "lectures": [
+        {
+          "id": "td-datascience-22",
+          "title": "Matplotlib Visualisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JtJzmTsf8e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JtJzmTsf8e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JtJzmTsf8e/video.m3u8",
+          "duration": 2460,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-23",
+          "title": "Seaborn Visualisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxaNtNR6udE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxaNtNR6udE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxaNtNR6udE/video.m3u8",
+          "duration": 1770,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-24",
+          "title": "Casestudy Matplot Seaborn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43y92gsJmsE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43y92gsJmsE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43y92gsJmsE/video.m3u8",
+          "duration": 1284,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-25",
+          "title": "Plotly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzmhJNhgkNM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzmhJNhgkNM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzmhJNhgkNM/video.m3u8",
+          "duration": 2017,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-11",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1xl_527x7xSu9iMZKu5zdvIWN6V-cazA7vTmdPz1kSsw/edit?tab=t.0#heading=h.bk5awxkvezie",
+          "pdfUrl": "https://docs.google.com/document/d/1xl_527x7xSu9iMZKu5zdvIWN6V-cazA7vTmdPz1kSsw/edit?tab=t.0#heading=h.bk5awxkvezie",
+          "playerUrl": "https://docs.google.com/document/d/1xl_527x7xSu9iMZKu5zdvIWN6V-cazA7vTmdPz1kSsw/edit?tab=t.0#heading=h.bk5awxkvezie",
+          "downloadUrl": "https://docs.google.com/document/d/1xl_527x7xSu9iMZKu5zdvIWN6V-cazA7vTmdPz1kSsw/edit?tab=t.0#heading=h.bk5awxkvezie",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "EDA",
+      "lectures": [
+        {
+          "id": "td-datascience-26",
+          "title": "EDA 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEq6xth593T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEq6xth593T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEq6xth593T/video.m3u8",
+          "duration": 3287,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-27",
+          "title": "EDA 2 Transform FeatureEngg",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PSsuaJupus/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PSsuaJupus/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PSsuaJupus/video.m3u8",
+          "duration": 1743,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Preprocessing",
+      "lectures": [
+        {
+          "id": "td-datascience-28",
+          "title": "Data wrangling File Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cmExkpbyka/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cmExkpbyka/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cmExkpbyka/video.m3u8",
+          "duration": 2789,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-29",
+          "title": "Data Preprocessing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MPmfjTfsH2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MPmfjTfsH2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MPmfjTfsH2/video.m3u8",
+          "duration": 2616,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Statistics",
+      "lectures": [
+        {
+          "id": "td-datascience-30",
+          "title": "Descriptive stats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nzsuBPxfby/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nzsuBPxfby/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nzsuBPxfby/video.m3u8",
+          "duration": 2335,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-31",
+          "title": "Inferential stats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZ9YuZcDBb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZ9YuZcDBb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZ9YuZcDBb/video.m3u8",
+          "duration": 2396,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-32",
+          "title": "Probabilty",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56787MZMDQt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56787MZMDQt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56787MZMDQt/video.m3u8",
+          "duration": 2766,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-33",
+          "title": "Hypothesis Testing 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sZ4uyRBzAX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sZ4uyRBzAX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sZ4uyRBzAX/video.m3u8",
+          "duration": 2109,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-34",
+          "title": "Hypothesis test case study python program",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GscFkmmbyz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GscFkmmbyz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GscFkmmbyz/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-35",
+          "title": "Type 1 Type 2 Error",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hyr97MFpUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hyr97MFpUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hyr97MFpUt/video.m3u8",
+          "duration": 1340,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-15",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1sv0BqF6Dsd20eKWFfQ9OzJt-QzxjQMAnVhhncvZUyxs/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1sv0BqF6Dsd20eKWFfQ9OzJt-QzxjQMAnVhhncvZUyxs/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1sv0BqF6Dsd20eKWFfQ9OzJt-QzxjQMAnVhhncvZUyxs/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1sv0BqF6Dsd20eKWFfQ9OzJt-QzxjQMAnVhhncvZUyxs/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ML Concept Types",
+      "lectures": [
+        {
+          "id": "td-datascience-36",
+          "title": "ML Concepts Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApUPFBjStt5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApUPFBjStt5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApUPFBjStt5/video.m3u8",
+          "duration": 2342,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Simple Linear Regression",
+      "lectures": [
+        {
+          "id": "td-datascience-37",
+          "title": "Linear Regr Concept Python OLS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bH24phdFkP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bH24phdFkP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bH24phdFkP/video.m3u8",
+          "duration": 2980,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-38",
+          "title": "Simple Lin Reg 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8DzaTqyD45/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8DzaTqyD45/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8DzaTqyD45/video.m3u8",
+          "duration": 1577,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Multiple Linear Regression",
+      "lectures": [
+        {
+          "id": "td-datascience-39",
+          "title": "MLR Evaluation Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F2ruNHsM2j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F2ruNHsM2j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F2ruNHsM2j/video.m3u8",
+          "duration": 1987,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-40",
+          "title": " Multiple Linear Regression using Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76duXtr75z5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76duXtr75z5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76duXtr75z5/video.m3u8",
+          "duration": 2571,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-41",
+          "title": "Non Linear Polynomial",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZG3kaS4syb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZG3kaS4syb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZG3kaS4syb/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Logistic Regression ML model",
+      "lectures": [
+        {
+          "id": "td-datascience-42",
+          "title": "Logistic Regression Concept",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69kbUhKRYXT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69kbUhKRYXT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69kbUhKRYXT/video.m3u8",
+          "duration": 3129,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-43",
+          "title": "Logistic Case study claimant",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHj59euHAQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHj59euHAQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHj59euHAQ/video.m3u8",
+          "duration": 1810,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-44",
+          "title": "Logistic Regression Python Churn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HyrHunb3df/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HyrHunb3df/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HyrHunb3df/video.m3u8",
+          "duration": 2610,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decision Tree",
+      "lectures": [
+        {
+          "id": "td-datascience-45",
+          "title": "Decision Tree Concept",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5FBcBRdGQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5FBcBRdGQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5FBcBRdGQ/video.m3u8",
+          "duration": 2600,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-46",
+          "title": "Decision tree Gini Python implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JZ7YKJRXE8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JZ7YKJRXE8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JZ7YKJRXE8/video.m3u8",
+          "duration": 3365,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-47",
+          "title": "Decison Tree Case study Mushroom",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g6UquPP7qD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g6UquPP7qD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g6UquPP7qD/video.m3u8",
+          "duration": 1190,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Random Forest",
+      "lectures": [
+        {
+          "id": "td-datascience-48",
+          "title": "Random Forest Concept",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCeAzaUTzzb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCeAzaUTzzb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCeAzaUTzzb/video.m3u8",
+          "duration": 1796,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-49",
+          "title": "Random Forest Maths",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ATmJ87nP9s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ATmJ87nP9s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ATmJ87nP9s/video.m3u8",
+          "duration": 1160,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-50",
+          "title": "Python red wine Random Forest",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTZj7chTkB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTZj7chTkB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTZj7chTkB/video.m3u8",
+          "duration": 2975,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Boosting Stacking",
+      "lectures": [
+        {
+          "id": "td-datascience-51",
+          "title": "AdaBoost",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57FCsr8k6ch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57FCsr8k6ch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57FCsr8k6ch/video.m3u8",
+          "duration": 1299,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-52",
+          "title": "Gardient Boosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nm49SS8nuE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nm49SS8nuE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nm49SS8nuE/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-53",
+          "title": "Stacking Ensemble",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gk3GpMxXryU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gk3GpMxXryU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gk3GpMxXryU/video.m3u8",
+          "duration": 1705,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "KNN",
+      "lectures": [
+        {
+          "id": "td-datascience-54",
+          "title": "KNN Case study Diabetic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCNns53AKYu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCNns53AKYu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCNns53AKYu/video.m3u8",
+          "duration": 1429,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-55",
+          "title": "KNN Concept python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QhqstZNgTP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QhqstZNgTP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QhqstZNgTP/video.m3u8",
+          "duration": 1834,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-24",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1oDeHFPeIGqgZEeU6mcpLQNAUp0N9K1mu/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1oDeHFPeIGqgZEeU6mcpLQNAUp0N9K1mu/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1oDeHFPeIGqgZEeU6mcpLQNAUp0N9K1mu/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1oDeHFPeIGqgZEeU6mcpLQNAUp0N9K1mu/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Naive Bayes",
+      "lectures": [
+        {
+          "id": "td-datascience-56",
+          "title": "Naive Bayes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ89jjsJtAP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ89jjsJtAP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ89jjsJtAP/video.m3u8",
+          "duration": 1641,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-57",
+          "title": "Naive Bayes Titanic Python Case study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85YQJAJXPX3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85YQJAJXPX3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85YQJAJXPX3/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-26",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1SVDemCFPq6CvgcBjsduEk_3PBpdnvLIw/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SVDemCFPq6CvgcBjsduEk_3PBpdnvLIw/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SVDemCFPq6CvgcBjsduEk_3PBpdnvLIw/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SVDemCFPq6CvgcBjsduEk_3PBpdnvLIw/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Unsupervised Learning K Means",
+      "lectures": [
+        {
+          "id": "td-datascience-58",
+          "title": "Unsupervised ML Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dk5t26MRJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dk5t26MRJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dk5t26MRJU/video.m3u8",
+          "duration": 1765,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-59",
+          "title": "K-means Algo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZyzQNYmEE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZyzQNYmEE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZyzQNYmEE/video.m3u8",
+          "duration": 1655,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-60",
+          "title": "K-means Python Univ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/686gdCUUNFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/686gdCUUNFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/686gdCUUNFr/video.m3u8",
+          "duration": 1256,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-61",
+          "title": "Hierarchical Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ANrUjMtNuh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ANrUjMtNuh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ANrUjMtNuh/video.m3u8",
+          "duration": 1138,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-62",
+          "title": "Hirarchical Customer Segment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C5ct9ARB9J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C5ct9ARB9J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C5ct9ARB9J/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-63",
+          "title": "PCA Concept Casestudy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbcF8gFUuK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbcF8gFUuK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbcF8gFUuK/video.m3u8",
+          "duration": 2552,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-28",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/10Yl4S_x8KzBexqEmMau3KNUIL47lvR27/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/10Yl4S_x8KzBexqEmMau3KNUIL47lvR27/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/10Yl4S_x8KzBexqEmMau3KNUIL47lvR27/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/10Yl4S_x8KzBexqEmMau3KNUIL47lvR27/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Model Evaluation & Tuning",
+      "lectures": [
+        {
+          "id": "td-datascience-64",
+          "title": "Cross Validation Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Y5U66q6XCs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Y5U66q6XCs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Y5U66q6XCs/video.m3u8",
+          "duration": 2666,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "NLP",
+      "lectures": [
+        {
+          "id": "td-datascience-65",
+          "title": "NLP Concept Token",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZybAF6C632/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZybAF6C632/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZybAF6C632/video.m3u8",
+          "duration": 1793,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-66",
+          "title": "NLP lemit stemming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ayxgcTKDUk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ayxgcTKDUk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ayxgcTKDUk/video.m3u8",
+          "duration": 1663,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-67",
+          "title": "NLP Case study stemVslemat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MAH8f7Huak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MAH8f7Huak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MAH8f7Huak/video.m3u8",
+          "duration": 1323,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-68",
+          "title": "TF IDF NLP case study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jZn5jk55q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jZn5jk55q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jZn5jk55q/video.m3u8",
+          "duration": 1772,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-69",
+          "title": "NLP NB Email Spam",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mtt3xhXPTar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mtt3xhXPTar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mtt3xhXPTar/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Time Series Forecasting",
+      "lectures": [
+        {
+          "id": "td-datascience-70",
+          "title": "Time Series Concept",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7symub2tAU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7symub2tAU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7symub2tAU/video.m3u8",
+          "duration": 2273,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-71",
+          "title": "Time Series visualization data Preprocessing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m4m28AYfKX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m4m28AYfKX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m4m28AYfKX/video.m3u8",
+          "duration": 2444,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-72",
+          "title": "Time-Series Stationarity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F9ReUcJgFM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F9ReUcJgFM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F9ReUcJgFM/video.m3u8",
+          "duration": 2264,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-73",
+          "title": "ACF PACF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEkrKB957pG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEkrKB957pG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEkrKB957pG/video.m3u8",
+          "duration": 1629,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-74",
+          "title": "ARIMA Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcyJFykhYn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcyJFykhYn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dcyJFykhYn/video.m3u8",
+          "duration": 2313,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-75",
+          "title": "SARIMA Model Forecasting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEqMg52kTH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEqMg52kTH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEqMg52kTH/video.m3u8",
+          "duration": 1407,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capstone Project",
+      "lectures": [
+        {
+          "id": "td-datascience-76",
+          "title": "Capstone project - Cardiac Diagnosis Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y6t6Aq5smJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y6t6Aq5smJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y6t6Aq5smJ/video.m3u8",
+          "duration": 2180,
+          "type": "video"
+        },
+        {
+          "id": "td-datascience-77",
+          "title": "Capstone project - Cardiac Diagnosis Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QzAYhQTUHza/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QzAYhQTUHza/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QzAYhQTUHza/video.m3u8",
+          "duration": 1628,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datascience-33",
+          "title": "Assignment 7",
+          "url": "https://docs.google.com/document/d/1hdbrrAmWBY7IlmaZTCCrl_D0B1BqEopW/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hdbrrAmWBY7IlmaZTCCrl_D0B1BqEopW/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hdbrrAmWBY7IlmaZTCCrl_D0B1BqEopW/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hdbrrAmWBY7IlmaZTCCrl_D0B1BqEopW/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Model Deployment",
+      "lectures": [
+        {
+          "id": "td-datascience-78",
+          "title": "Model Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJcRB3Ce6ZD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJcRB3Ce6ZD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJcRB3Ce6ZD/video.m3u8",
+          "duration": 1709,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

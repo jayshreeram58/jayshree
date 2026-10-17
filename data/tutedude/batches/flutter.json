@@ -1,0 +1,1681 @@
+{
+  "platform": "TuteDude",
+  "batchId": "flutter",
+  "batchSlug": "flutter",
+  "batchName": "Flutter",
+  "thumbnail": "https://www.tutedude.com/assets/avif/flutter.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/flutter",
+  "totalSections": 16,
+  "totalLectures": 157,
+  "totalNotes": 16,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-flutter-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-flutter-2",
+          "title": "Introduction to the course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm7bpKdp9EF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm7bpKdp9EF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm7bpKdp9EF/video.m3u8",
+          "duration": 180,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-3",
+          "title": "Flutter Foundations Why Flutter & Why Dart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEH56sr3xYN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEH56sr3xYN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEH56sr3xYN/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Installation and setup",
+      "lectures": [
+        {
+          "id": "td-flutter-4",
+          "title": "Flutter Installation on windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeHR9BE4Ct3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeHR9BE4Ct3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeHR9BE4Ct3/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-5",
+          "title": "Android Studio Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bYfJbxzcum/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bYfJbxzcum/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bYfJbxzcum/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-6",
+          "title": "Setup vscode",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jh9zNNrQXe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jh9zNNrQXe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jh9zNNrQXe/video.m3u8",
+          "duration": 208,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-4",
+          "title": "Flutter Installation",
+          "url": "https://docs.google.com/document/d/1myd4q6m4wN87314M1L2LnvMPL14vjUkoFoDlvCDWgqM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1myd4q6m4wN87314M1L2LnvMPL14vjUkoFoDlvCDWgqM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1myd4q6m4wN87314M1L2LnvMPL14vjUkoFoDlvCDWgqM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1myd4q6m4wN87314M1L2LnvMPL14vjUkoFoDlvCDWgqM/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Dart & OOP Fundamentals Building Blocks of Flutter",
+      "lectures": [
+        {
+          "id": "td-flutter-7",
+          "title": "Dart Basics Variables & Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mX8gQy4g3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mX8gQy4g3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mX8gQy4g3z/video.m3u8",
+          "duration": 720,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-8",
+          "title": "Collections in Dart Lists & Maps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jeCCmTqu6h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jeCCmTqu6h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jeCCmTqu6h/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-9",
+          "title": "Decision Making in Dart If Else",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TNFR4czgS5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TNFR4czgS5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TNFR4czgS5/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-10",
+          "title": "Loops in Dart For & While",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnyKPrrUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnyKPrrUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnyKPrrUt/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-11",
+          "title": "Functions in Dart Reusable Code Made Easy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8sgFDktgH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8sgFDktgH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp8sgFDktgH/video.m3u8",
+          "duration": 859,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-12",
+          "title": "OOP in Dart (Part 1) Classes & Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CY7X33C7CR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CY7X33C7CR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CY7X33C7CR/video.m3u8",
+          "duration": 1246,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-13",
+          "title": "OOP in Dart (Part 2) ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZGq546aF85/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZGq546aF85/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZGq546aF85/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-14",
+          "title": "Here is all about Final const & var",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JsxSMmqt2y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JsxSMmqt2y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JsxSMmqt2y/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-15",
+          "title": "Enums in Dart Smarter Constant Choices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kTQpAkA2Uc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kTQpAkA2Uc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kTQpAkA2Uc/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-6",
+          "title": "Dart Basics (part 1)",
+          "url": "https://docs.google.com/document/d/1D4JmH2GJkpmEyz6JKUcSXevsutQpJKOLaTeR43asOrk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1D4JmH2GJkpmEyz6JKUcSXevsutQpJKOLaTeR43asOrk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1D4JmH2GJkpmEyz6JKUcSXevsutQpJKOLaTeR43asOrk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1D4JmH2GJkpmEyz6JKUcSXevsutQpJKOLaTeR43asOrk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-flutter-7",
+          "title": "Dart Basics (part 2) ",
+          "url": "https://docs.google.com/document/d/1ChKlb83Rxb1v-83XpQCZRIQNchFMvTRuK9L0Ensg2xk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ChKlb83Rxb1v-83XpQCZRIQNchFMvTRuK9L0Ensg2xk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ChKlb83Rxb1v-83XpQCZRIQNchFMvTRuK9L0Ensg2xk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ChKlb83Rxb1v-83XpQCZRIQNchFMvTRuK9L0Ensg2xk/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flutter Foundations Widgets, Layouts & More",
+      "lectures": [
+        {
+          "id": "td-flutter-16",
+          "title": "Your First Flutter App Create & Run",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA45NYuTrx3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA45NYuTrx3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA45NYuTrx3/video.m3u8",
+          "duration": 928,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-17",
+          "title": "Understanding Flutter Project Files & Directories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9hXQBrcM8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9hXQBrcM8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9hXQBrcM8/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-18",
+          "title": "Your First Flutter App Create & Run",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67JzrNHmrru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67JzrNHmrru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67JzrNHmrru/video.m3u8",
+          "duration": 928,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-19",
+          "title": "From Widgets to Widget Tree The Heart of Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nga6eeF5tS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nga6eeF5tS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nga6eeF5tS/video.m3u8",
+          "duration": 1047,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-20",
+          "title": "Hello World Your First Flutter UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tg46BQAJjyn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tg46BQAJjyn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tg46BQAJjyn/video.m3u8",
+          "duration": 779,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-21",
+          "title": "Custom Widgets & File Organization  Writing Clean Flutter Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BDsr7RTrA9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BDsr7RTrA9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BDsr7RTrA9/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-22",
+          "title": "BuildContext & Keys The Backbone of Flutter Widgets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55CUnTd8gbr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55CUnTd8gbr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55CUnTd8gbr/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-23",
+          "title": "Flutter Container Widget The Basics & Styling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASqEmN9x8nr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASqEmN9x8nr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASqEmN9x8nr/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-24",
+          "title": "Flutter Column Widget Arranging Widgets Vertically",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTbAfnYktc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTbAfnYktc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTbAfnYktc/video.m3u8",
+          "duration": 767,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-25",
+          "title": "Flutter Row Widget Arranging Widgets Horizontally",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrRDHeQKhY7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrRDHeQKhY7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrRDHeQKhY7/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-9",
+          "title": "Basic Flutter Project ",
+          "url": "https://docs.google.com/document/d/1RlSsHIj_bKX9Xl7WpRwl0WI9X1wS7JYwuiacAuf6cvc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1RlSsHIj_bKX9Xl7WpRwl0WI9X1wS7JYwuiacAuf6cvc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1RlSsHIj_bKX9Xl7WpRwl0WI9X1wS7JYwuiacAuf6cvc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1RlSsHIj_bKX9Xl7WpRwl0WI9X1wS7JYwuiacAuf6cvc/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-flutter-10",
+          "title": "Basic UI (Part 1) ",
+          "url": "https://docs.google.com/document/d/1tQVbjnAjPy2lVWGxV0xrq9xUvzPVc9xnx8bICtHYfYw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1tQVbjnAjPy2lVWGxV0xrq9xUvzPVc9xnx8bICtHYfYw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1tQVbjnAjPy2lVWGxV0xrq9xUvzPVc9xnx8bICtHYfYw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1tQVbjnAjPy2lVWGxV0xrq9xUvzPVc9xnx8bICtHYfYw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-flutter-11",
+          "title": "Basic UI (Part 2)",
+          "url": "https://docs.google.com/document/d/1b6SjXFt0rh8ArK8tMfb9Zxn9ohLcXrC2lhRuC11dBxo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1b6SjXFt0rh8ArK8tMfb9Zxn9ohLcXrC2lhRuC11dBxo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1b6SjXFt0rh8ArK8tMfb9Zxn9ohLcXrC2lhRuC11dBxo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1b6SjXFt0rh8ArK8tMfb9Zxn9ohLcXrC2lhRuC11dBxo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Build Your First Flutter App Random Quote Generator",
+      "lectures": [
+        {
+          "id": "td-flutter-26",
+          "title": "Task 01",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jyj9KQPbbA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jyj9KQPbbA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jyj9KQPbbA/video.m3u8",
+          "duration": 60,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-27",
+          "title": "Task 01 solution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGfTzZUB6p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGfTzZUB6p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGfTzZUB6p/video.m3u8",
+          "duration": 216,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-28",
+          "title": "Stateful widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMurCYcXub/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMurCYcXub/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMurCYcXub/video.m3u8",
+          "duration": 685,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-29",
+          "title": "Coding ui",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78NAesZZxnr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78NAesZZxnr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78NAesZZxnr/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-30",
+          "title": "Concept of padding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72fUmHPqshj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72fUmHPqshj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72fUmHPqshj/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-31",
+          "title": "Introduction to buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76yy9F2te4c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76yy9F2te4c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76yy9F2te4c/video.m3u8",
+          "duration": 655,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-32",
+          "title": "Datastructure to store quotes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PKj6zkda49/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PKj6zkda49/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PKj6zkda49/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-33",
+          "title": "setState method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/677rH8U65ZJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/677rH8U65ZJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/677rH8U65ZJ/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-34",
+          "title": "Optimizations in app",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bHcEP98SRt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bHcEP98SRt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bHcEP98SRt/video.m3u8",
+          "duration": 723,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-35",
+          "title": "Practice Task",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6BDhER8Bc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6BDhER8Bc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q6BDhER8Bc/video.m3u8",
+          "duration": 93,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-13",
+          "title": "Dice App ",
+          "url": "https://docs.google.com/document/d/1abEzDuTZD3MoBcW7ZuXEda3mrPbEnSAxy-3npClWm5Y/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1abEzDuTZD3MoBcW7ZuXEda3mrPbEnSAxy-3npClWm5Y/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1abEzDuTZD3MoBcW7ZuXEda3mrPbEnSAxy-3npClWm5Y/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1abEzDuTZD3MoBcW7ZuXEda3mrPbEnSAxy-3npClWm5Y/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hands On Flutter Project Journal App",
+      "lectures": [
+        {
+          "id": "td-flutter-36",
+          "title": "Welcome & Section Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gK42NgEEcF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gK42NgEEcF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gK42NgEEcF/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-37",
+          "title": "Flutter Scrolling Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yxuq5BBpEc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yxuq5BBpEc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yxuq5BBpEc/video.m3u8",
+          "duration": 559,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-38",
+          "title": "Dynamic Lists with ListView & Builder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MSKSmbyUhB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MSKSmbyUhB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MSKSmbyUhB/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-39",
+          "title": "Why Listview builder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6T8GABg9zh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6T8GABg9zh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6T8GABg9zh/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-40",
+          "title": "Creating Stylish Cards in Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZhAxdPqrQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZhAxdPqrQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZhAxdPqrQ6/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-41",
+          "title": "Floating Action Button (FAB) in Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4saP4TJzzMj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4saP4TJzzMj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4saP4TJzzMj/video.m3u8",
+          "duration": 316,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-42",
+          "title": "Bottom Sheet Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHSZzZfyC4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHSZzZfyC4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHSZzZfyC4/video.m3u8",
+          "duration": 654,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-43",
+          "title": "Text Input Fields & Forms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB4GxSF3ubP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB4GxSF3ubP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB4GxSF3ubP/video.m3u8",
+          "duration": 1328,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-44",
+          "title": "Navigation & Back Actions in Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9knNpZnCu4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9knNpZnCu4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9knNpZnCu4E/video.m3u8",
+          "duration": 330,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-45",
+          "title": "Data Modeling & Best Practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Af2EhtDCPnR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Af2EhtDCPnR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Af2EhtDCPnR/video.m3u8",
+          "duration": 794,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-46",
+          "title": "Storing Data Locally",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73yGBC2Sygt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73yGBC2Sygt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73yGBC2Sygt/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-47",
+          "title": "Writing Save Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSmuZQgrJc2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSmuZQgrJc2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSmuZQgrJc2/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-48",
+          "title": "Debugging & Passing Functions as Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f48amxygTX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f48amxygTX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f48amxygTX/video.m3u8",
+          "duration": 1229,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-49",
+          "title": "Debugging Tools & Tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KNHNBHph8b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KNHNBHph8b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KNHNBHph8b/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-50",
+          "title": "Using Pub.dev & intl Package",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94TtsFT8X4F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94TtsFT8X4F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94TtsFT8X4F/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-51",
+          "title": "Section Summary & Key Takeaways",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sH6rsnTSKb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sH6rsnTSKb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sH6rsnTSKb/video.m3u8",
+          "duration": 346,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Running & Debugging Flutter Apps",
+      "lectures": [
+        {
+          "id": "td-flutter-52",
+          "title": "Building APKs & Cleaning the Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNkJadzJH5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNkJadzJH5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNkJadzJH5/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-53",
+          "title": "Running on Real Device Debugging with Android Studio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cc6ufqM7uJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cc6ufqM7uJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cc6ufqM7uJ/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-54",
+          "title": "Running on Real Device Debugging with VS Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8da6yeYrdFN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8da6yeYrdFN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8da6yeYrdFN/video.m3u8",
+          "duration": 225,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-16",
+          "title": "Journal Application",
+          "url": "https://docs.google.com/document/d/1UjZiv0MlvxsN__EOwD2JxvCc4iEoEFMenkNaoygL1_g/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1UjZiv0MlvxsN__EOwD2JxvCc4iEoEFMenkNaoygL1_g/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1UjZiv0MlvxsN__EOwD2JxvCc4iEoEFMenkNaoygL1_g/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1UjZiv0MlvxsN__EOwD2JxvCc4iEoEFMenkNaoygL1_g/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Build a Meal Recipe App Explore, Like & Learn",
+      "lectures": [
+        {
+          "id": "td-flutter-55",
+          "title": "Introduction to Meal Recipe App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YTzMFmsx22/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YTzMFmsx22/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YTzMFmsx22/video.m3u8",
+          "duration": 78,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-56",
+          "title": "ThemeData in Flutter Styling the App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HJnGssTN3K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HJnGssTN3K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HJnGssTN3K/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-57",
+          "title": "Using GridView for Layouts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jfQCzB8E8AB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jfQCzB8E8AB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jfQCzB8E8AB/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-58",
+          "title": "List.generate Dynamic List Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BApZeDTm2d5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BApZeDTm2d5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BApZeDTm2d5/video.m3u8",
+          "duration": 183,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-59",
+          "title": "Task 01 Practice Challenge",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK8yZAKyHkc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK8yZAKyHkc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK8yZAKyHkc/video.m3u8",
+          "duration": 51,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-60",
+          "title": "Adding Data & Building UI Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43TM7bhMmSj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43TM7bhMmSj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43TM7bhMmSj/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-61",
+          "title": "Summary & Recap Video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u7K62ypryC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u7K62ypryC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u7K62ypryC/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-62",
+          "title": "IInkWell Widget Adding Tap Interactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Synbr5XUKC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Synbr5XUKC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Synbr5XUKC/video.m3u8",
+          "duration": 220,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-63",
+          "title": "Creating a New Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sMqqCKmtezd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sMqqCKmtezd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sMqqCKmtezd/video.m3u8",
+          "duration": 574,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-64",
+          "title": "Meals Data Model Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ERjhrTPEARU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ERjhrTPEARU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ERjhrTPEARU/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-65",
+          "title": "Coding the Meals Data Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Jbf7suEyg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Jbf7suEyg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Jbf7suEyg/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-66",
+          "title": "Adding Dummy Data for Meals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meCPFTnRc4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meCPFTnRc4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meCPFTnRc4/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-67",
+          "title": "Passing Data Between Screens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33b3AAa6eas/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33b3AAa6eas/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33b3AAa6eas/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-68",
+          "title": "Filtering the Meals List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahdg8F2b5fE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahdg8F2b5fE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahdg8F2b5fE/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-69",
+          "title": "Displaying Images in Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASF99Nqep5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASF99Nqep5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASF99Nqep5B/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-70",
+          "title": "Stack Widget Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFTBKAz5Sk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFTBKAz5Sk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFTBKAz5Sk/video.m3u8",
+          "duration": 293,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-71",
+          "title": "Coding Meal Card UI (Part 1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92c7Ys9G8xf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92c7Ys9G8xf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92c7Ys9G8xf/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-72",
+          "title": "Coding Meal Card UI (Part 2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mSbaD6N6xp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mSbaD6N6xp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mSbaD6N6xp/video.m3u8",
+          "duration": 89,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-73",
+          "title": "Solution & Task Review",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YJStH56hue/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YJStH56hue/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YJStH56hue/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-74",
+          "title": "Adding Meal Detail Screen (Part 1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BtMzRa3Rgb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BtMzRa3Rgb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BtMzRa3Rgb/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-75",
+          "title": "Coding Meal Detail Screen (Part 2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Hhpce8gMEch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Hhpce8gMEch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Hhpce8gMEch/video.m3u8",
+          "duration": 776,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-18",
+          "title": "Help Instruction Application ",
+          "url": "https://docs.google.com/document/d/1VUHAVcswGsdEyI_IoFlh57fUvkuTuquI42hmuL2m6dU/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1VUHAVcswGsdEyI_IoFlh57fUvkuTuquI42hmuL2m6dU/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1VUHAVcswGsdEyI_IoFlh57fUvkuTuquI42hmuL2m6dU/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1VUHAVcswGsdEyI_IoFlh57fUvkuTuquI42hmuL2m6dU/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flutter State Management",
+      "lectures": [
+        {
+          "id": "td-flutter-76",
+          "title": "Introduction to State Management in Flutter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABZaYsdpdCe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABZaYsdpdCe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABZaYsdpdCe/video.m3u8",
+          "duration": 444,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-77",
+          "title": "Adding Bottom Navigation with State Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M4rcJf7zMs6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M4rcJf7zMs6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M4rcJf7zMs6/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-78",
+          "title": "Implementing Like Favorite Feature",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kPBM9XFFBT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kPBM9XFFBT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kPBM9XFFBT/video.m3u8",
+          "duration": 463,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-79",
+          "title": "Creating and Using a Favorites Provider",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z6gPjJze8AP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z6gPjJze8AP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z6gPjJze8AP/video.m3u8",
+          "duration": 1321,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-80",
+          "title": "Using Provider in the Favorites Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47GxRkxy2AN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47GxRkxy2AN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47GxRkxy2AN/video.m3u8",
+          "duration": 170,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-81",
+          "title": "Coding the Favorites Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bZrr7RqsEs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bZrr7RqsEs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bZrr7RqsEs/video.m3u8",
+          "duration": 272,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-82",
+          "title": "Scaffold Messenger Showing Snackbars & Messages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KamqMf6E7U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KamqMf6E7U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KamqMf6E7U/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-83",
+          "title": "Task & Section Summary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaJmc2pK336/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaJmc2pK336/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaJmc2pK336/video.m3u8",
+          "duration": 246,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-20",
+          "title": "Creative Application (State Management) ",
+          "url": "https://docs.google.com/document/d/1I51Jpqhh2KcyUxIU3-8fqwW45GFB6b6wJcAvqJJo4os/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1I51Jpqhh2KcyUxIU3-8fqwW45GFB6b6wJcAvqJJo4os/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1I51Jpqhh2KcyUxIU3-8fqwW45GFB6b6wJcAvqJJo4os/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1I51Jpqhh2KcyUxIU3-8fqwW45GFB6b6wJcAvqJJo4os/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flutter Animation Essentials",
+      "lectures": [
+        {
+          "id": "td-flutter-84",
+          "title": "Why Animations & types of animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HzUhXnsmXU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HzUhXnsmXU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HzUhXnsmXU/video.m3u8",
+          "duration": 209,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-85",
+          "title": "Hero animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC35ppet57m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC35ppet57m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC35ppet57m/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-86",
+          "title": "Animated Switcher",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Fmk7mGDe2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Fmk7mGDe2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Fmk7mGDe2/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-87",
+          "title": "Explicit animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ndqX8uE3Hpf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ndqX8uE3Hpf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ndqX8uE3Hpf/video.m3u8",
+          "duration": 1209,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-88",
+          "title": "Using 3rd party animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARn5be2UyeP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARn5be2UyeP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARn5be2UyeP/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-22",
+          "title": "Animation Screens",
+          "url": "https://docs.google.com/document/d/1SSZkj0ugy2BSXSZMdbWfzZaWyPmSFvO5fdZp77yiISk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1SSZkj0ugy2BSXSZMdbWfzZaWyPmSFvO5fdZp77yiISk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1SSZkj0ugy2BSXSZMdbWfzZaWyPmSFvO5fdZp77yiISk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1SSZkj0ugy2BSXSZMdbWfzZaWyPmSFvO5fdZp77yiISk/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flutter Practical utilities",
+      "lectures": [
+        {
+          "id": "td-flutter-89",
+          "title": "Introduction to new Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74cuh6yA9jP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74cuh6yA9jP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74cuh6yA9jP/video.m3u8",
+          "duration": 263,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-90",
+          "title": "Using Alert Dialog & SharedPreferences (Basics)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pm4AR74HB4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pm4AR74HB4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pm4AR74HB4/video.m3u8",
+          "duration": 747,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-91",
+          "title": "Hands-on with SharedPreferences (Practical)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFzJAMNbrUP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFzJAMNbrUP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFzJAMNbrUP/video.m3u8",
+          "duration": 516,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-92",
+          "title": "Building Forms in Flutter (Step by Step)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HpTx85DqAa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HpTx85DqAa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HpTx85DqAa/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-93",
+          "title": "Adding Image Picker (Select & Upload Images)mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zDXb2bDabU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zDXb2bDabU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zDXb2bDabU/video.m3u8",
+          "duration": 954,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-94",
+          "title": "Adding a Save Button (UI Functionality)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eZjBYheu5e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eZjBYheu5e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eZjBYheu5e/video.m3u8",
+          "duration": 272,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-95",
+          "title": "State Management with Provider (Riverpod)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hQNjqSjXCak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hQNjqSjXCak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hQNjqSjXCak/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-96",
+          "title": "Save Functionality & Form Validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jXRctsyTAu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jXRctsyTAu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jXRctsyTAu/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-97",
+          "title": "Final Touches & App Completion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76NNqPtCmhr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76NNqPtCmhr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76NNqPtCmhr/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-98",
+          "title": "Understanding MediaQuery (Responsive Design Basics)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUxKz7aC58/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUxKz7aC58/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUxKz7aC58/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-99",
+          "title": "MediaQuery in Action (HandsOn)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/smRsP28Qmb6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/smRsP28Qmb6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/smRsP28Qmb6/video.m3u8",
+          "duration": 948,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-100",
+          "title": "Handling Screen Orientation (Responsive Layouts)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUsCQ744ep2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUsCQ744ep2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUsCQ744ep2/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-101",
+          "title": "Detecting Platform (Android iOS Web)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7KCFskQcZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7KCFskQcZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7KCFskQcZ/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-102",
+          "title": "Section Summary & Next Steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CbAFTRq9Df/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CbAFTRq9Df/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CbAFTRq9Df/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-24",
+          "title": "Responsive & Adaptive Application ",
+          "url": "https://docs.google.com/document/d/1j5EVSGBxRWg3c5kd32zkHyq3g4ycHrGBGfTgQhifP7k/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1j5EVSGBxRWg3c5kd32zkHyq3g4ycHrGBGfTgQhifP7k/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1j5EVSGBxRWg3c5kd32zkHyq3g4ycHrGBGfTgQhifP7k/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1j5EVSGBxRWg3c5kd32zkHyq3g4ycHrGBGfTgQhifP7k/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with APIs",
+      "lectures": [
+        {
+          "id": "td-flutter-103",
+          "title": "What is API & HTTP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kDn7j9E7JY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kDn7j9E7JY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kDn7j9E7JY/video.m3u8",
+          "duration": 932,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-104",
+          "title": "Asynchronous programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mpnhG4sgRe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mpnhG4sgRe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mpnhG4sgRe/video.m3u8",
+          "duration": 1177,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-105",
+          "title": "Getting api key of weather",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6s9y8D9C8Mz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6s9y8D9C8Mz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6s9y8D9C8Mz/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-106",
+          "title": "Coding datamodel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq9kJABczDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq9kJABczDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq9kJABczDG/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-107",
+          "title": "Adding weather states",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7e2cQg2k7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7e2cQg2k7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x7e2cQg2k7/video.m3u8",
+          "duration": 776,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-108",
+          "title": "Weather provider",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BGGdhuMPpP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BGGdhuMPpP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BGGdhuMPpP/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-109",
+          "title": "Using http package",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ksR7HsyxYA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ksR7HsyxYA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ksR7HsyxYA/video.m3u8",
+          "duration": 1291,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-110",
+          "title": "Json data to dart data model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S6dMBc3QDM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S6dMBc3QDM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S6dMBc3QDM/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-111",
+          "title": "Throw exception",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PaY3HhpSQPa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PaY3HhpSQPa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PaY3HhpSQPa/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-112",
+          "title": "Finishing the provider code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fTZ2uJj6kb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fTZ2uJj6kb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fTZ2uJj6kb/video.m3u8",
+          "duration": 564,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-113",
+          "title": "Coding ui",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5URF7yGpbJn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5URF7yGpbJn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5URF7yGpbJn/video.m3u8",
+          "duration": 1491,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-114",
+          "title": "Adding weather card",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYp2APkmSM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYp2APkmSM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYp2APkmSM/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-115",
+          "title": "Showing grid view",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9udNzbbaPQS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9udNzbbaPQS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9udNzbbaPQS/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-116",
+          "title": "Running on android",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpytbbzax4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpytbbzax4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpytbbzax4/video.m3u8",
+          "duration": 42,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-117",
+          "title": "Running on chrome",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r6dBGnQFYH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r6dBGnQFYH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r6dBGnQFYH/video.m3u8",
+          "duration": 634,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-118",
+          "title": "Layout builder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mCHR77Jxhz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mCHR77Jxhz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mCHR77Jxhz/video.m3u8",
+          "duration": 754,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-26",
+          "title": "Weather App (API-based Application)",
+          "url": "https://docs.google.com/document/d/1m9JsFnuG0exrp426irifbZ9OcgmC3vd2DZ-BmJiFoT8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1m9JsFnuG0exrp426irifbZ9OcgmC3vd2DZ-BmJiFoT8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1m9JsFnuG0exrp426irifbZ9OcgmC3vd2DZ-BmJiFoT8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1m9JsFnuG0exrp426irifbZ9OcgmC3vd2DZ-BmJiFoT8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backend",
+      "lectures": [
+        {
+          "id": "td-flutter-119",
+          "title": "Backend and Database Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbUz4bUUAUN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbUz4bUUAUN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbUz4bUUAUN/video.m3u8",
+          "duration": 1155,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-120",
+          "title": "Firebase console overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGK7xZrmBCS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGK7xZrmBCS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGK7xZrmBCS/video.m3u8",
+          "duration": 444,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-121",
+          "title": "Firebase cli installation in macos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtnHRdN9uBb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtnHRdN9uBb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtnHRdN9uBb/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-122",
+          "title": "Firebase CLI installation Windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hTaPpPXXe9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hTaPpPXXe9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hTaPpPXXe9/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-123",
+          "title": "Connecting flutter app with firebase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hu4FqRBB5j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hu4FqRBB5j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hu4FqRBB5j/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-124",
+          "title": "Understanding code created by CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YM9Rj9ZRKh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YM9Rj9ZRKh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YM9Rj9ZRKh/video.m3u8",
+          "duration": 415,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-125",
+          "title": "Using auth service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJf3HnP72s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJf3HnP72s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJf3HnP72s/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-126",
+          "title": "Adding state provider",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4m8zkE6DyN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4m8zkE6DyN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4m8zkE6DyN/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-127",
+          "title": "Auth wrapper a security gateway",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4zGcBykJTR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4zGcBykJTR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4zGcBykJTR/video.m3u8",
+          "duration": 820,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-128",
+          "title": "All about Pod IOS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5TSjuFTXet/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5TSjuFTXet/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5TSjuFTXet/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-129",
+          "title": "Adding responsive widget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qDAUGJFNZd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qDAUGJFNZd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qDAUGJFNZd/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-130",
+          "title": "Adding Text from fields",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqdxJZKDt5D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqdxJZKDt5D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqdxJZKDt5D/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-131",
+          "title": "Adding submit function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yCX4n2mRGa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yCX4n2mRGa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yCX4n2mRGa/video.m3u8",
+          "duration": 531,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-132",
+          "title": "Discussing about the error",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q7kYQxCSQU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q7kYQxCSQU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q7kYQxCSQU/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-133",
+          "title": "Adding register screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JGTCCZGgzU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JGTCCZGgzU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JGTCCZGgzU/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-134",
+          "title": "All about firestore[DataBase]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9RpgUP5TY9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9RpgUP5TY9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9RpgUP5TY9/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-135",
+          "title": "Query the firestore like this.",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ArBxbXM9F9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ArBxbXM9F9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ArBxbXM9F9/video.m3u8",
+          "duration": 804,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-136",
+          "title": "Adding logout button",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZEX4PyAgyu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZEX4PyAgyu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZEX4PyAgyu/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-137",
+          "title": "Firebase exception class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZGpb6cyZQ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZGpb6cyZQ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZGpb6cyZQ4/video.m3u8",
+          "duration": 199,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-138",
+          "title": "All about Factory constructor in data model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgdqKfuq5xe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgdqKfuq5xe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgdqKfuq5xe/video.m3u8",
+          "duration": 382,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-139",
+          "title": "Journal entry services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7kgH6Ajqqn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7kgH6Ajqqn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7kgH6Ajqqn/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-140",
+          "title": "Important TASK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yry2tRtZga/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yry2tRtZga/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yry2tRtZga/video.m3u8",
+          "duration": 33,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-141",
+          "title": "Solution of the important task",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByBZeypXF2K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByBZeypXF2K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByBZeypXF2K/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-142",
+          "title": "Calling provider in the screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DXSMjCPY7F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DXSMjCPY7F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DXSMjCPY7F/video.m3u8",
+          "duration": 774,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-143",
+          "title": "Fixing the UserID error",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PtTUM2kGNm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PtTUM2kGNm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PtTUM2kGNm/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-28",
+          "title": " TODO App (Firebase + Authentication) ",
+          "url": "https://docs.google.com/document/d/1TuYEqJENj7A2ZmK0e1MfRQ5OervQoqY0F_Gd6u1LE2Q/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1TuYEqJENj7A2ZmK0e1MfRQ5OervQoqY0F_Gd6u1LE2Q/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1TuYEqJENj7A2ZmK0e1MfRQ5OervQoqY0F_Gd6u1LE2Q/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1TuYEqJENj7A2ZmK0e1MfRQ5OervQoqY0F_Gd6u1LE2Q/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Push Notification",
+      "lectures": [
+        {
+          "id": "td-flutter-144",
+          "title": "Introduction to Push Notification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9Ra7kNFDz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9Ra7kNFDz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9Ra7kNFDz/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-145",
+          "title": "Introduction to FCM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaRD2ER57Hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaRD2ER57Hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaRD2ER57Hz/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-146",
+          "title": "Lets setup the project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85N5C6Xrzzn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85N5C6Xrzzn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85N5C6Xrzzn/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-147",
+          "title": "Authenticatoin-service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hAAmuzhbjc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hAAmuzhbjc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hAAmuzhbjc/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-148",
+          "title": "Getting Access token for API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JrfFa6Gfjp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JrfFa6Gfjp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JrfFa6Gfjp/video.m3u8",
+          "duration": 893,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-149",
+          "title": "Implementing send notification logic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YjNHZ3n7tf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YjNHZ3n7tf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YjNHZ3n7tf/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-150",
+          "title": "Coding send notification screen & handlers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmjQ96rj6G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmjQ96rj6G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmjQ96rj6G/video.m3u8",
+          "duration": 1567,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-151",
+          "title": "Initialize notification android",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h97utDjUkZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h97utDjUkZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h97utDjUkZ/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-152",
+          "title": "Setup FCM and listen notifcation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7897Sjspgjc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7897Sjspgjc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7897Sjspgjc/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-153",
+          "title": "Fix Push Notifications Android Folder Settings for Flutter FCM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bcbp3RcuNc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bcbp3RcuNc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bcbp3RcuNc/video.m3u8",
+          "duration": 499,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-154",
+          "title": "IMPORTANT Bug fix in URI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QczCpSGxBnX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QczCpSGxBnX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QczCpSGxBnX/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-155",
+          "title": "What is Darwin And its settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eBeQUNJBQH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eBeQUNJBQH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eBeQUNJBQH/video.m3u8",
+          "duration": 396,
+          "type": "video"
+        },
+        {
+          "id": "td-flutter-156",
+          "title": "Learn to add App icon & app name",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HHAaKH5YHe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HHAaKH5YHe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HHAaKH5YHe/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-flutter-30",
+          "title": " Update TODO App with Reminders & Push Notifications",
+          "url": "https://docs.google.com/document/d/1jMNUpRcpzj1b3wO-IPpGnQmsEgWutzsI3GcZP7vx_VM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1jMNUpRcpzj1b3wO-IPpGnQmsEgWutzsI3GcZP7vx_VM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1jMNUpRcpzj1b3wO-IPpGnQmsEgWutzsI3GcZP7vx_VM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1jMNUpRcpzj1b3wO-IPpGnQmsEgWutzsI3GcZP7vx_VM/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-flutter-31",
+          "title": "Capstone Project: ",
+          "url": "https://docs.google.com/document/d/1Iczj6LXHqtvUvL_NdmZ7CBIuqA2qYJdJu0D3n9ftRpc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Iczj6LXHqtvUvL_NdmZ7CBIuqA2qYJdJu0D3n9ftRpc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Iczj6LXHqtvUvL_NdmZ7CBIuqA2qYJdJu0D3n9ftRpc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Iczj6LXHqtvUvL_NdmZ7CBIuqA2qYJdJu0D3n9ftRpc/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "What next ?",
+      "lectures": [
+        {
+          "id": "td-flutter-157",
+          "title": "what to do next",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qUbHQs8dZD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qUbHQs8dZD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qUbHQs8dZD/video.m3u8",
+          "duration": 263,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

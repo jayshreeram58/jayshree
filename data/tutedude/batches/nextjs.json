@@ -1,0 +1,752 @@
+{
+  "platform": "TuteDude",
+  "batchId": "nextjs",
+  "batchSlug": "nextjs",
+  "batchName": "Next Js",
+  "thumbnail": "https://www.tutedude.com/assets/avif/nextjs.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/nextjs",
+  "totalSections": 14,
+  "totalLectures": 68,
+  "totalNotes": 4,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Getting Started",
+      "lectures": [
+        {
+          "id": "td-nextjs-1",
+          "title": "Getting Started",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fjNJt9RySU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fjNJt9RySU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fjNJt9RySU/video.m3u8",
+          "duration": 4560,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-2",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDuckEZHMXA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDuckEZHMXA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDuckEZHMXA/video.m3u8",
+          "duration": 816,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "NextJs Essentials",
+      "lectures": [
+        {
+          "id": "td-nextjs-3",
+          "title": "Foundation & Routing Fundamentals Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YYTkJTCYcR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YYTkJTCYcR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YYTkJTCYcR/video.m3u8",
+          "duration": 2336,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-4",
+          "title": "Foundation & Routing Fundamentals Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xGTUsBKDQAs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xGTUsBKDQAs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xGTUsBKDQAs/video.m3u8",
+          "duration": 1902,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-5",
+          "title": "Advanced Routing & Project Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PEPNUGGYTE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PEPNUGGYTE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PEPNUGGYTE/video.m3u8",
+          "duration": 3058,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-6",
+          "title": "Layouts, Styling & Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eUGtTFSF4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eUGtTFSF4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eUGtTFSF4E/video.m3u8",
+          "duration": 3241,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-7",
+          "title": "Dynamic Content & Data Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Em7qKYbjp6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Em7qKYbjp6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Em7qKYbjp6/video.m3u8",
+          "duration": 5183,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Routing & Page Rendering",
+      "lectures": [
+        {
+          "id": "td-nextjs-8",
+          "title": "SetUp and Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BJKuQsYhzp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BJKuQsYhzp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BJKuQsYhzp/video.m3u8",
+          "duration": 1380,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-9",
+          "title": "Dynamic Routing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQUnFNjQ3D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQUnFNjQ3D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQUnFNjQ3D/video.m3u8",
+          "duration": 1418,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-10",
+          "title": "Custom 404 Page & Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X92rHaYmcQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X92rHaYmcQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X92rHaYmcQ/video.m3u8",
+          "duration": 2518,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-11",
+          "title": "Programmatic Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S7QPTzEA3EP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S7QPTzEA3EP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S7QPTzEA3EP/video.m3u8",
+          "duration": 2035,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-12",
+          "title": "Nested Routes & Advanced Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46enDTx6HqH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46enDTx6HqH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46enDTx6HqH/video.m3u8",
+          "duration": 2636,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-13",
+          "title": "Server vs Client Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aAC3un46Yn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aAC3un46Yn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aAC3un46Yn/video.m3u8",
+          "duration": 1199,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nextjs-4",
+          "title": "Routing Assignment",
+          "url": "https://www.canva.com/design/DAGylJ12VYo/xBQ8DliG5aQb1NSGfrwMsg/edit?utm_content=DAGylJ12VYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGylJ12VYo/xBQ8DliG5aQb1NSGfrwMsg/edit?utm_content=DAGylJ12VYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGylJ12VYo/xBQ8DliG5aQb1NSGfrwMsg/edit?utm_content=DAGylJ12VYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGylJ12VYo/xBQ8DliG5aQb1NSGfrwMsg/edit?utm_content=DAGylJ12VYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Fetching",
+      "lectures": [
+        {
+          "id": "td-nextjs-14",
+          "title": "Project SetUp and API Foundations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrD8JNUXKcm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrD8JNUXKcm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrD8JNUXKcm/video.m3u8",
+          "duration": 2459,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-15",
+          "title": "API Routes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8kapnTnrJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8kapnTnrJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8kapnTnrJ/video.m3u8",
+          "duration": 3344,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-16",
+          "title": "Enhanced Routes and Postman Testing Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nSptJfcEX6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nSptJfcEX6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nSptJfcEX6/video.m3u8",
+          "duration": 1501,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-17",
+          "title": "Enhanced Routes and Postman Testing Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QEEBd5szum/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QEEBd5szum/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QEEBd5szum/video.m3u8",
+          "duration": 2252,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mutating Data",
+      "lectures": [
+        {
+          "id": "td-nextjs-18",
+          "title": "Module Introduction Mutating Data In Next.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/585ee2QesZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/585ee2QesZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/585ee2QesZK/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-19",
+          "title": "Starting the Project & Analyzing Mutation Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QRd2BDMYyyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QRd2BDMYyyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QRd2BDMYyyH/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-20",
+          "title": "Setting Up A Form Action",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgcA73bDXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgcA73bDXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgcA73bDXX/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-21",
+          "title": "Creating a Server Action (Storing Data in Database)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zEtj4Ceehf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zEtj4Ceehf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zEtj4Ceehf/video.m3u8",
+          "duration": 1057,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-22",
+          "title": "Providing User Feedback with the useFormStatus Hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dJYuxXjnpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dJYuxXjnpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dJYuxXjnpQ/video.m3u8",
+          "duration": 911,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-23",
+          "title": "Using useFormState Hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3g9p34yMhpc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3g9p34yMhpc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3g9p34yMhpc/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-24",
+          "title": "Validating User Input With Help of the useFormState Hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gr9yY5REHj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gr9yY5REHj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gr9yY5REHj/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-25",
+          "title": "Adjusting Server Actions for useFormState",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMJSd8Gfgd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMJSd8Gfgd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMJSd8Gfgd/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-26",
+          "title": "use server Does Not Guarantee Server-side Execution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68XFYDrHSbH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68XFYDrHSbH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68XFYDrHSbH/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-27",
+          "title": "Uploading & Storing Images Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bBFdhT52yk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bBFdhT52yk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bBFdhT52yk/video.m3u8",
+          "duration": 1371,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-28",
+          "title": "Uploading & Storing Images Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUfbTs9QdR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUfbTs9QdR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUfbTs9QdR/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Understanding and configuring Caching",
+      "lectures": [
+        {
+          "id": "td-nextjs-29",
+          "title": "Module Introduction & Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zmFJS6McCx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zmFJS6McCx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zmFJS6McCx/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-30",
+          "title": "Handling Request Memoization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCPzztRt7Pd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCPzztRt7Pd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCPzztRt7Pd/video.m3u8",
+          "duration": 1175,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-31",
+          "title": "Understanding the Data Cache & Cache Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8freJuZUHER/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8freJuZUHER/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8freJuZUHER/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-32",
+          "title": "Controlling Data Caching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eDANnMhy2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eDANnMhy2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eDANnMhy2b/video.m3u8",
+          "duration": 1893,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-33",
+          "title": "Making Sense Of The Full Route Cache & On-Demand Cache Invalidation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/326nhchjpjX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/326nhchjpjX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/326nhchjpjX/video.m3u8",
+          "duration": 2494,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "NextJs App Optimization",
+      "lectures": [
+        {
+          "id": "td-nextjs-34",
+          "title": "Image Optimization Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78KDazXKPPC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78KDazXKPPC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78KDazXKPPC/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-35",
+          "title": "Page Metadata and SEO Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yhSF7sAcMhJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yhSF7sAcMhJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yhSF7sAcMhJ/video.m3u8",
+          "duration": 1194,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-36",
+          "title": "Legacy Metadata Management - Page Router",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3H8TyKk3gD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3H8TyKk3gD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3H8TyKk3gD/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "User Authentication",
+      "lectures": [
+        {
+          "id": "td-nextjs-37",
+          "title": "Module & Project Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4up8c7m5Up8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4up8c7m5Up8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4up8c7m5Up8/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-38",
+          "title": "User Signup Extracting And Validating User Input",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZQHMymRRKH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZQHMymRRKH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZQHMymRRKH/video.m3u8",
+          "duration": 1159,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-39",
+          "title": "Storing Users In The Database The Wrong Way",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcARm5M82dM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcARm5M82dM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcARm5M82dM/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-40",
+          "title": "Storing Users In The Database The Right Way",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dCuapxQcKM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dCuapxQcKM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dCuapxQcKM/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-41",
+          "title": "Checking for Email Duplication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZG4P8Tfr2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZG4P8Tfr2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZG4P8Tfr2b/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-42",
+          "title": "Choosing a Third-Party Auth Package Lucia",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tSTMQCaktU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tSTMQCaktU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tSTMQCaktU/video.m3u8",
+          "duration": 2737,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pages and File Based Routing",
+      "lectures": [
+        {
+          "id": "td-nextjs-43",
+          "title": "Module Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rzddZ37Cp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rzddZ37Cp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rzddZ37Cp/video.m3u8",
+          "duration": 517,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-44",
+          "title": "Planning the Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPxghHrZq7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPxghHrZq7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPxghHrZq7/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-45",
+          "title": "Setting Up the Main Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Md6hEStj8uq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Md6hEStj8uq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Md6hEStj8uq/video.m3u8",
+          "duration": 566,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-46",
+          "title": "Adding Dummy Data & Static Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qgSHBzqDF7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qgSHBzqDF7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qgSHBzqDF7/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-47",
+          "title": "Adding Regular React Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u6667C9JP8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u6667C9JP8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u6667C9JP8/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-48",
+          "title": "Adding More React Components & Connecting Them",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRQhBRz2mDc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRQhBRz2mDc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRQhBRz2mDc/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-49",
+          "title": "Styling Components in Next.js Projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hCfa9p7X8P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hCfa9p7X8P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hCfa9p7X8P/video.m3u8",
+          "duration": 345,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-50",
+          "title": "Link and  Navigation in Next.js 13",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCR92KrtETC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCR92KrtETC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCR92KrtETC/video.m3u8",
+          "duration": 353,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-51",
+          "title": "Adding the Event Detail Page - Dynamic Route",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBfN2ANYSc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBfN2ANYSc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBfN2ANYSc/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-52",
+          "title": "Adding a General Layout Wrapper Component",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/336B4BDqkKj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/336B4BDqkKj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/336B4BDqkKj/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-53",
+          "title": "Adding a Filter Form for Filtering Events",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJuZZGJq2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJuZZGJq2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJuZZGJq2b/video.m3u8",
+          "duration": 2373,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Page Pre-Rendering and Data Fetching",
+      "lectures": [
+        {
+          "id": "td-nextjs-54",
+          "title": "Static Blog With ISR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jgPzaGyeRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jgPzaGyeRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jgPzaGyeRU/video.m3u8",
+          "duration": 3374,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-55",
+          "title": "Dynamic Product Pagesn with Fallbacks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ZZQ8XdpRa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ZZQ8XdpRa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ZZQ8XdpRa/video.m3u8",
+          "duration": 5316,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-56",
+          "title": "Dashboard with Hybrid Data Fetching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQfpf4srk3r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQfpf4srk3r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQfpf4srk3r/video.m3u8",
+          "duration": 3314,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nextjs-12",
+          "title": "Data Fetching & API Routes",
+          "url": "https://www.canva.com/design/DAGylONOplU/tDqOIFGDtRMEh38TcY5x7A/edit",
+          "pdfUrl": "https://www.canva.com/design/DAGylONOplU/tDqOIFGDtRMEh38TcY5x7A/edit",
+          "playerUrl": "https://www.canva.com/design/DAGylONOplU/tDqOIFGDtRMEh38TcY5x7A/edit",
+          "downloadUrl": "https://www.canva.com/design/DAGylONOplU/tDqOIFGDtRMEh38TcY5x7A/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Adding Backend Code with API Routes",
+      "lectures": [
+        {
+          "id": "td-nextjs-57",
+          "title": "Parsing The Incoming Request and Executing Server side Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syJTGutjSe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syJTGutjSe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syJTGutjSe/video.m3u8",
+          "duration": 3336,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-58",
+          "title": "Using API Routes to Get Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9YkfHd6j3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9YkfHd6j3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9YkfHd6j3/video.m3u8",
+          "duration": 2221,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-59",
+          "title": "Creating and Using Dynamic API Routes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ErPbAU7dEX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ErPbAU7dEX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ErPbAU7dEX/video.m3u8",
+          "duration": 3518,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with App-wide State",
+      "lectures": [
+        {
+          "id": "td-nextjs-60",
+          "title": "Creating React Context",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GsQYqF3NCJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GsQYqF3NCJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GsQYqF3NCJ/video.m3u8",
+          "duration": 2538,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-61",
+          "title": "Using Context Data in Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqtgygYrPk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqtgygYrPk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqtgygYrPk/video.m3u8",
+          "duration": 1478,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-62",
+          "title": "Triggering and Showing Notifications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqTNQSpu6S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqTNQSpu6S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqTNQSpu6S/video.m3u8",
+          "duration": 4504,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nextjs-15",
+          "title": "State Management, Middleware & Optimization",
+          "url": "https://www.canva.com/design/DAGyle-fQZo/NYraZTcPeM5v0bGhcGTirQ/edit",
+          "pdfUrl": "https://www.canva.com/design/DAGyle-fQZo/NYraZTcPeM5v0bGhcGTirQ/edit",
+          "playerUrl": "https://www.canva.com/design/DAGyle-fQZo/NYraZTcPeM5v0bGhcGTirQ/edit",
+          "downloadUrl": "https://www.canva.com/design/DAGyle-fQZo/NYraZTcPeM5v0bGhcGTirQ/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Deploying NextJs Apps",
+      "lectures": [
+        {
+          "id": "td-nextjs-63",
+          "title": "Deploying Nextjs App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96MxYtSQDSb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96MxYtSQDSb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96MxYtSQDSb/video.m3u8",
+          "duration": 3252,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Next.js Summary",
+      "lectures": [
+        {
+          "id": "td-nextjs-64",
+          "title": "Next.js Fundamentals and Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RRqBJ4Yr84/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RRqBJ4Yr84/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RRqBJ4Yr84/video.m3u8",
+          "duration": 3600,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-65",
+          "title": "Routing and Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aj5B8mdz8MF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aj5B8mdz8MF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aj5B8mdz8MF/video.m3u8",
+          "duration": 2781,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-66",
+          "title": "Pre-rendering and Data Fetching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMs8mhfBU7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMs8mhfBU7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMs8mhfBU7/video.m3u8",
+          "duration": 2331,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-67",
+          "title": "Deploying Nextjs App PART1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zhdPfNKZDDk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zhdPfNKZDDk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zhdPfNKZDDk/video.m3u8",
+          "duration": 1801,
+          "type": "video"
+        },
+        {
+          "id": "td-nextjs-68",
+          "title": "Deploying Nextjs App PART2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpaEMcTXaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpaEMcTXaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpaEMcTXaC/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nextjs-18",
+          "title": "Project: Expense Manager",
+          "url": "https://www.canva.com/design/DAGylVDEHD8/HhfPQEbnJqS1MkeR2yq1yA/edit?utm_content=DAGylVDEHD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGylVDEHD8/HhfPQEbnJqS1MkeR2yq1yA/edit?utm_content=DAGylVDEHD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGylVDEHD8/HhfPQEbnJqS1MkeR2yq1yA/edit?utm_content=DAGylVDEHD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGylVDEHD8/HhfPQEbnJqS1MkeR2yq1yA/edit?utm_content=DAGylVDEHD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

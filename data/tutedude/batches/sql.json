@@ -1,0 +1,489 @@
+{
+  "platform": "TuteDude",
+  "batchId": "sql",
+  "batchSlug": "sql",
+  "batchName": "SQL",
+  "thumbnail": "https://www.tutedude.com/assets/avif/sql.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/sql",
+  "totalSections": 18,
+  "totalLectures": 35,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-sql-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to DBMS",
+      "lectures": [
+        {
+          "id": "td-sql-2",
+          "title": "DBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RXTeuJ6Z2d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RXTeuJ6Z2d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RXTeuJ6Z2d/video.m3u8",
+          "duration": 2720,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL Commands",
+      "lectures": [
+        {
+          "id": "td-sql-3",
+          "title": "Overview of SQL Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAtB9jPaRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAtB9jPaRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAtB9jPaRH/video.m3u8",
+          "duration": 3157,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-4",
+          "title": "Detailed Study of SQL Command Types (DDL, DML, DCL, TCL)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CEjD7mq89K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CEjD7mq89K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CEjD7mq89K/video.m3u8",
+          "duration": 2528,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL Fundamentals (Sorting, Filtering, Logical Operators, String Operators)",
+      "lectures": [
+        {
+          "id": "td-sql-5",
+          "title": "SQL Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RA9rUKddPP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RA9rUKddPP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RA9rUKddPP/video.m3u8",
+          "duration": 4898,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-sql-5",
+          "title": "Database & Schema Setup",
+          "url": "https://docs.google.com/document/d/1QayB6RHDFP2JBWQPy5IgsIKMZUsSt3RM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QayB6RHDFP2JBWQPy5IgsIKMZUsSt3RM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QayB6RHDFP2JBWQPy5IgsIKMZUsSt3RM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QayB6RHDFP2JBWQPy5IgsIKMZUsSt3RM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Aggregate Functions",
+      "lectures": [
+        {
+          "id": "td-sql-6",
+          "title": "Aggregate Functions (Common Aggregate Functions, Group By and Having Clauses, Use of Coalesce and Other Functions)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56kAzzG9QD2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56kAzzG9QD2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56kAzzG9QD2/video.m3u8",
+          "duration": 4317,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joins (Inner Join, Left Join, Right Join, Full Join, Self Join, Cross Join)",
+      "lectures": [
+        {
+          "id": "td-sql-7",
+          "title": "Theoretical Understanding of Different Types of Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B7muEFFy6k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B7muEFFy6k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B7muEFFy6k/video.m3u8",
+          "duration": 3225,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-8",
+          "title": "Practical Implementation of Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FmH5J9cQet/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FmH5J9cQet/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FmH5J9cQet/video.m3u8",
+          "duration": 2933,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-9",
+          "title": "Practice Exercises on Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H8Jg9PEH6z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H8Jg9PEH6z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H8Jg9PEH6z/video.m3u8",
+          "duration": 1696,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-sql-8",
+          "title": "Basic & Intermediate Queries",
+          "url": "https://docs.google.com/document/d/1-IGvruvGmYeB1XFwVsIhHK17wRzN0B7n/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-IGvruvGmYeB1XFwVsIhHK17wRzN0B7n/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-IGvruvGmYeB1XFwVsIhHK17wRzN0B7n/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-IGvruvGmYeB1XFwVsIhHK17wRzN0B7n/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Case Statements",
+      "lectures": [
+        {
+          "id": "td-sql-10",
+          "title": "Working with CASE Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbcM5rs6crh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbcM5rs6crh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbcM5rs6crh/video.m3u8",
+          "duration": 4869,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Date Functions",
+      "lectures": [
+        {
+          "id": "td-sql-11",
+          "title": "Date and Time Functions in SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EHBGse8Yrb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EHBGse8Yrb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EHBGse8Yrb/video.m3u8",
+          "duration": 3048,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Set Operators",
+      "lectures": [
+        {
+          "id": "td-sql-12",
+          "title": "SET Operators (Union, Union All, Intersect, Minus/Except)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TPFSyxBYFc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TPFSyxBYFc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TPFSyxBYFc/video.m3u8",
+          "duration": 1924,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SubQuery",
+      "lectures": [
+        {
+          "id": "td-sql-13",
+          "title": "Sub Queries (Correlated, Non Correlated)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fyCd5fqatt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fyCd5fqatt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fyCd5fqatt/video.m3u8",
+          "duration": 3452,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CTE & View",
+      "lectures": [
+        {
+          "id": "td-sql-14",
+          "title": "Common Table Expressions (CTEs) and Views",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UnTBQKcF9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UnTBQKcF9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UnTBQKcF9/video.m3u8",
+          "duration": 4166,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-sql-14",
+          "title": "Advanced SQL Queries",
+          "url": "https://docs.google.com/document/d/1IYdVMvIz7bwk7cm4Fs18w6toEfjaRrDK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IYdVMvIz7bwk7cm4Fs18w6toEfjaRrDK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IYdVMvIz7bwk7cm4Fs18w6toEfjaRrDK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IYdVMvIz7bwk7cm4Fs18w6toEfjaRrDK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Window Functions",
+      "lectures": [
+        {
+          "id": "td-sql-15",
+          "title": "Rank Functions and Running Total",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MGNteCKXm4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MGNteCKXm4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MGNteCKXm4/video.m3u8",
+          "duration": 3693,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-16",
+          "title": "Lead and Lag Functions, Working with Window Frames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrkMS8Gcuc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrkMS8Gcuc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrkMS8Gcuc/video.m3u8",
+          "duration": 1532,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Normalization",
+      "lectures": [
+        {
+          "id": "td-sql-17",
+          "title": "Database Normalization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qQqm92dNJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qQqm92dNJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qQqm92dNJe/video.m3u8",
+          "duration": 2490,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ACID Properties",
+      "lectures": [
+        {
+          "id": "td-sql-18",
+          "title": "ACID Properties in Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KA8rh4ab7m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KA8rh4ab7m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KA8rh4ab7m/video.m3u8",
+          "duration": 1380,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Query Optimization",
+      "lectures": [
+        {
+          "id": "td-sql-19",
+          "title": "Query Optimization Techniques(Indexing, Other Optimization Strategies)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYjMj3ZcsKd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYjMj3ZcsKd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYjMj3ZcsKd/video.m3u8",
+          "duration": 1467,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Topics (Bonus)",
+      "lectures": [
+        {
+          "id": "td-sql-20",
+          "title": "Import and Export ERD",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jP83X6D4BY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jP83X6D4BY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jP83X6D4BY/video.m3u8",
+          "duration": 2477,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-21",
+          "title": "Users & Privileges",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZMSsh2zMq8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZMSsh2zMq8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZMSsh2zMq8/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-22",
+          "title": "Locking and Unlocking Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pKY7fj3Q3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pKY7fj3Q3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pKY7fj3Q3z/video.m3u8",
+          "duration": 237,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-23",
+          "title": "Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Z9pNtTzb5q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Z9pNtTzb5q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Z9pNtTzb5q/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-24",
+          "title": "Stored Procedures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzgHrknatQK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzgHrknatQK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzgHrknatQK/video.m3u8",
+          "duration": 2694,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-sql-20",
+          "title": "Data Modification & Integrity",
+          "url": "https://docs.google.com/document/d/12z4P_Z6HDQsTqdJmQzrAAZLgTaiDcUaj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12z4P_Z6HDQsTqdJmQzrAAZLgTaiDcUaj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12z4P_Z6HDQsTqdJmQzrAAZLgTaiDcUaj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12z4P_Z6HDQsTqdJmQzrAAZLgTaiDcUaj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Final Project: Ecommerce Store -- Insights and Analytics",
+      "lectures": [
+        {
+          "id": "td-sql-25",
+          "title": "General Sales Insights",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BmeU6HjxSR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BmeU6HjxSR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BmeU6HjxSR/video.m3u8",
+          "duration": 3513,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-26",
+          "title": "Customer Insights",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pFfa6QUgef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pFfa6QUgef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pFfa6QUgef/video.m3u8",
+          "duration": 2931,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-27",
+          "title": "Product and Order Insights",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76pSBjF795N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76pSBjF795N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76pSBjF795N/video.m3u8",
+          "duration": 2003,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-28",
+          "title": "Temporal Trends, Regional Insights, Return and Refund",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8FsMZuDNGe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8FsMZuDNGe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8FsMZuDNGe/video.m3u8",
+          "duration": 2325,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-sql-22",
+          "title": "Transactions, Logic & Analysis",
+          "url": "https://docs.google.com/document/d/1Wl6fEQ_SVEk0kXe53R6fqY0B76VqKG8I/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Wl6fEQ_SVEk0kXe53R6fqY0B76VqKG8I/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Wl6fEQ_SVEk0kXe53R6fqY0B76VqKG8I/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Wl6fEQ_SVEk0kXe53R6fqY0B76VqKG8I/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Job Readiness & Placement Support",
+      "lectures": [
+        {
+          "id": "td-sql-29",
+          "title": "Building a Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ErYdzDqsT7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ErYdzDqsT7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ErYdzDqsT7/video.m3u8",
+          "duration": 3505,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-30",
+          "title": "Customizing the Resume as per Job Description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t7x7F5B8Q478/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t7x7F5B8Q478/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t7x7F5B8Q478/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-31",
+          "title": "How to Apply for Jobs Internships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJHSZ93x3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJHSZ93x3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJHSZ93x3/video.m3u8",
+          "duration": 3371,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-32",
+          "title": "Interview Preparation tricks and tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yfxz5HaPTN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yfxz5HaPTN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yfxz5HaPTN/video.m3u8",
+          "duration": 1483,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-33",
+          "title": "Mock Interview Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5rP6pD8yBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5rP6pD8yBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5rP6pD8yBC/video.m3u8",
+          "duration": 2215,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-34",
+          "title": "Additional things to make profile stronger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t8DbKQuMpc68/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t8DbKQuMpc68/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t8DbKQuMpc68/video.m3u8",
+          "duration": 1580,
+          "type": "video"
+        },
+        {
+          "id": "td-sql-35",
+          "title": "SQL Career Paths",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZK5T7md88q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZK5T7md88q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZK5T7md88q/video.m3u8",
+          "duration": 2139,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

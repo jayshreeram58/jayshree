@@ -1,0 +1,308 @@
+{
+  "platform": "TuteDude",
+  "batchId": "hrmanagement",
+  "batchSlug": "hrmanagement",
+  "batchName": "HR Management",
+  "thumbnail": "https://www.tutedude.com/assets/avif/hrmanagement.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/hrmanagement",
+  "totalSections": 8,
+  "totalLectures": 26,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction & Basics",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-1",
+          "title": "Introduction to HRMS course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ezcgadQ6bch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ezcgadQ6bch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ezcgadQ6bch/video.m3u8",
+          "duration": 1872,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-2",
+          "title": "Introduction to HRM & Key",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sU2mHAB9MNK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sU2mHAB9MNK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sU2mHAB9MNK/video.m3u8",
+          "duration": 1143,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-3",
+          "title": "Introduction and Evolution of HRM functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gnSknYq7jJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gnSknYq7jJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gnSknYq7jJ/video.m3u8",
+          "duration": 1510,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-4",
+          "title": "Scope of HRM functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ujTFdDC69/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ujTFdDC69/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ujTFdDC69/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Core HR Functions",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-5",
+          "title": "Recruitment HRM function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jGGTzpy53Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jGGTzpy53Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jGGTzpy53Z/video.m3u8",
+          "duration": 1830,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-6",
+          "title": "Onboarding process_HRM function_Final",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xhzpBsBg4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xhzpBsBg4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xhzpBsBg4E/video.m3u8",
+          "duration": 2925,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-7",
+          "title": "Termination process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mxESGgxNHUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mxESGgxNHUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mxESGgxNHUM/video.m3u8",
+          "duration": 2561,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-8",
+          "title": "Offboarding process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgmMeYdAA4A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgmMeYdAA4A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgmMeYdAA4A/video.m3u8",
+          "duration": 1668,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Employee Management & Relations",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-9",
+          "title": "Employee Relations of HRM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bbkgkGnB8Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bbkgkGnB8Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bbkgkGnB8Z/video.m3u8",
+          "duration": 2018,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-10",
+          "title": "Employee Grievance handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s5udyp4hQ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s5udyp4hQ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s5udyp4hQ3/video.m3u8",
+          "duration": 1783,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-11",
+          "title": "Conflict Resolution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r3777kXNXAm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r3777kXNXAm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r3777kXNXAm/video.m3u8",
+          "duration": 3286,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-12",
+          "title": "Background Verification of HRM function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R52tjaDtkA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R52tjaDtkA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R52tjaDtkA/video.m3u8",
+          "duration": 1129,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Compensation & Benefits",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-13",
+          "title": "Compensation and Benefits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yujebkq7dX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yujebkq7dX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yujebkq7dX/video.m3u8",
+          "duration": 2749,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-14",
+          "title": "Rewards and Recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4uzJ3PC2NJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4uzJ3PC2NJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4uzJ3PC2NJ/video.m3u8",
+          "duration": 1505,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-15",
+          "title": "Salary Structure & Income Tax laws",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62aXfyz5TrC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62aXfyz5TrC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62aXfyz5TrC/video.m3u8",
+          "duration": 3885,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Learning & Growth",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-16",
+          "title": "Learning and Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k3Y3fF7puP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k3Y3fF7puP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k3Y3fF7puP/video.m3u8",
+          "duration": 2113,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-17",
+          "title": "Retention process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XbYZDMRy8d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XbYZDMRy8d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XbYZDMRy8d/video.m3u8",
+          "duration": 1609,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-18",
+          "title": "Organisational Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKe3FdCeKp6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKe3FdCeKp6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKe3FdCeKp6/video.m3u8",
+          "duration": 2825,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Analytics, Compliance & Documents",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-19",
+          "title": "HR Analytics & Metrics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmANYkJJfdn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmANYkJJfdn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmANYkJJfdn/video.m3u8",
+          "duration": 2816,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-20",
+          "title": "Important HR documents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45fHQ7bSKEF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45fHQ7bSKEF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45fHQ7bSKEF/video.m3u8",
+          "duration": 1921,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-21",
+          "title": "Organisational Compliance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HxTMMHbrPp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HxTMMHbrPp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HxTMMHbrPp/video.m3u8",
+          "duration": 2379,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Employee Engagement & Workforce Planning",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-22",
+          "title": "EmployeeEngagement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7z5pmGdctzN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7z5pmGdctzN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7z5pmGdctzN/video.m3u8",
+          "duration": 3069,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-23",
+          "title": "WorkforcePlanning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hBMJ5yQusA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hBMJ5yQusA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hBMJ5yQusA/video.m3u8",
+          "duration": 1282,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Labour Laws & Change Management",
+      "lectures": [
+        {
+          "id": "td-hrmanagement-24",
+          "title": "Indian Labour Laws",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GTZ6gtpCXY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GTZ6gtpCXY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GTZ6gtpCXY/video.m3u8",
+          "duration": 3833,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-25",
+          "title": "Change Managment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUDh5fAS5hX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUDh5fAS5hX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUDh5fAS5hX/video.m3u8",
+          "duration": 2700,
+          "type": "video"
+        },
+        {
+          "id": "td-hrmanagement-26",
+          "title": "Change Management Modles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C93gPXGg5TT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C93gPXGg5TT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C93gPXGg5TT/video.m3u8",
+          "duration": 4690,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-hrmanagement-9",
+          "title": "Final Assignment",
+          "url": "https://docs.google.com/document/d/1ApVEm-U23Ggx9LavzQhxUvtnqoSJciCnRz8M7ztHYE4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ApVEm-U23Ggx9LavzQhxUvtnqoSJciCnRz8M7ztHYE4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ApVEm-U23Ggx9LavzQhxUvtnqoSJciCnRz8M7ztHYE4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ApVEm-U23Ggx9LavzQhxUvtnqoSJciCnRz8M7ztHYE4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

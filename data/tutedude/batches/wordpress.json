@@ -1,0 +1,1228 @@
+{
+  "platform": "TuteDude",
+  "batchId": "wordpress",
+  "batchSlug": "wordpress",
+  "batchName": "Wordpress",
+  "thumbnail": "https://www.tutedude.com/assets/avif/wordpress.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/wordpress",
+  "totalSections": 23,
+  "totalLectures": 116,
+  "totalNotes": 3,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-wordpress-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Wordpress",
+      "lectures": [
+        {
+          "id": "td-wordpress-2",
+          "title": "Wordpress Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m73KghGtTTG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m73KghGtTTG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m73KghGtTTG/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-3",
+          "title": "Which Wordpress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y4GtDxFGhHU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y4GtDxFGhHU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y4GtDxFGhHU/video.m3u8",
+          "duration": 349,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Local Install",
+      "lectures": [
+        {
+          "id": "td-wordpress-4",
+          "title": "Wordpress Install",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zMQU7Dgubz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zMQU7Dgubz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zMQU7Dgubz/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-5",
+          "title": "XAMPP Install",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XF6bqU66e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XF6bqU66e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XF6bqU66e/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-6",
+          "title": "Start Xampp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5M4qNytjBjn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5M4qNytjBjn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5M4qNytjBjn/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-7",
+          "title": "Htdocs file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XNdNpDPyPy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XNdNpDPyPy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XNdNpDPyPy/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-8",
+          "title": "PHPMYADMIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EDUxxbcnu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EDUxxbcnu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EDUxxbcnu7/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Install on Web",
+      "lectures": [
+        {
+          "id": "td-wordpress-9",
+          "title": "Buy Domain & Hosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85rMeJfeXTA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85rMeJfeXTA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85rMeJfeXTA/video.m3u8",
+          "duration": 1171,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-10",
+          "title": "Install Wordpress on Web Host",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hAfTNqPGNs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hAfTNqPGNs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hAfTNqPGNs/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Wordpress Themes",
+      "lectures": [
+        {
+          "id": "td-wordpress-11",
+          "title": "What are Themes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aYNsSyRNhg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aYNsSyRNhg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aYNsSyRNhg/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-12",
+          "title": "Where Do you Get Themes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bU3bzsAXGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bU3bzsAXGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bU3bzsAXGE/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-13",
+          "title": "Responsive Web Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbpebZmKPgk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbpebZmKPgk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbpebZmKPgk/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-14",
+          "title": "Two Types of Theme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cGrZFNaXCd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cGrZFNaXCd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cGrZFNaXCd/video.m3u8",
+          "duration": 431,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-15",
+          "title": "Edit Theme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3acYx7s8X5f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3acYx7s8X5f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3acYx7s8X5f/video.m3u8",
+          "duration": 225,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "First Look Around Wordpress",
+      "lectures": [
+        {
+          "id": "td-wordpress-16",
+          "title": "Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tYsjpnxMY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tYsjpnxMY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tYsjpnxMY/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-17",
+          "title": "Clear WordPress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cC92kdAJuY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cC92kdAJuY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cC92kdAJuY/video.m3u8",
+          "duration": 464,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-18",
+          "title": "Post & Page Editor(s)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQghfAjCbDD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQghfAjCbDD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQghfAjCbDD/video.m3u8",
+          "duration": 257,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-19",
+          "title": "Classic Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEetGJBahyb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEetGJBahyb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEetGJBahyb/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-20",
+          "title": "Gutenberg Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/763tKJJhhay/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/763tKJJhhay/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/763tKJJhhay/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-21",
+          "title": "Media Library",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaJppA6m4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaJppA6m4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaJppA6m4k/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Gutenberg Editor",
+      "lectures": [
+        {
+          "id": "td-wordpress-22",
+          "title": "Gutenberg Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UakeGdKgt7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UakeGdKgt7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UakeGdKgt7/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-23",
+          "title": "Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mxNAnm39J5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mxNAnm39J5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mxNAnm39J5/video.m3u8",
+          "duration": 1157,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-24",
+          "title": "Anatomy of Block",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZGrd3rR3J4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZGrd3rR3J4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZGrd3rR3J4/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-25",
+          "title": "Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RSGHHK9HHE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RSGHHK9HHE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RSGHHK9HHE/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-26",
+          "title": "Column",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XPThSrUQ4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XPThSrUQ4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XPThSrUQ4f/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-27",
+          "title": "Groups, Rows, Stacks & Grids",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8XGp9F3NGz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8XGp9F3NGz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8XGp9F3NGz/video.m3u8",
+          "duration": 1357,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-28",
+          "title": "Pattern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MjrFsx9sbM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MjrFsx9sbM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MjrFsx9sbM/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-29",
+          "title": "Creating Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHq7NYTZzK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHq7NYTZzK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHq7NYTZzK/video.m3u8",
+          "duration": 726,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-30",
+          "title": "Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M76tDJuT85/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M76tDJuT85/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M76tDJuT85/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-31",
+          "title": "Buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUU447dsME/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUU447dsME/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUU447dsME/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-32",
+          "title": "Spacing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XRdMx2EdYP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XRdMx2EdYP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XRdMx2EdYP/video.m3u8",
+          "duration": 444,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-33",
+          "title": "Creating Page & Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfNUMqHAmq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfNUMqHAmq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfNUMqHAmq/video.m3u8",
+          "duration": 1337,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "WordPress Setting",
+      "lectures": [
+        {
+          "id": "td-wordpress-34",
+          "title": "Gravatar",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nakQ52cNC9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nakQ52cNC9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nakQ52cNC9/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-35",
+          "title": "Author Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhs5MphtS3P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhs5MphtS3P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhs5MphtS3P/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-36",
+          "title": "User Role",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KFbBsJr9EP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KFbBsJr9EP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KFbBsJr9EP/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-37",
+          "title": "General Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j3Rrgk6Ud7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j3Rrgk6Ud7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j3Rrgk6Ud7/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-38",
+          "title": "Writing Setting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67rDBeqexZx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67rDBeqexZx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67rDBeqexZx/video.m3u8",
+          "duration": 215,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-39",
+          "title": "Update Service",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79NdTdKtudB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79NdTdKtudB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79NdTdKtudB/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-40",
+          "title": "Reading Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DJYTPJFJqB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DJYTPJFJqB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DJYTPJFJqB/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-41",
+          "title": "Discussion Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gqJm2uGtyns/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gqJm2uGtyns/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gqJm2uGtyns/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-42",
+          "title": "Permalinks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JQ2Bjde9Du/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JQ2Bjde9Du/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JQ2Bjde9Du/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-43",
+          "title": "Privacy Policy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GggAaMRSQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GggAaMRSQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GggAaMRSQ/video.m3u8",
+          "duration": 143,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Wordpress Plugin",
+      "lectures": [
+        {
+          "id": "td-wordpress-44",
+          "title": "Plugins & Yoast seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aKUBqGSHEE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aKUBqGSHEE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aKUBqGSHEE/video.m3u8",
+          "duration": 1431,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-45",
+          "title": "Pro Version",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uDTzmhdDEZZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uDTzmhdDEZZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uDTzmhdDEZZ/video.m3u8",
+          "duration": 358,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Content with Posts and Pages",
+      "lectures": [
+        {
+          "id": "td-wordpress-46",
+          "title": "Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nzF3C3QbtP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nzF3C3QbtP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nzF3C3QbtP/video.m3u8",
+          "duration": 464,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-47",
+          "title": "Category",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akd4dnu3UNY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akd4dnu3UNY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akd4dnu3UNY/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-48",
+          "title": "Tags",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67g9rtgJQXh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67g9rtgJQXh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67g9rtgJQXh/video.m3u8",
+          "duration": 387,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-49",
+          "title": "Categories & Tags",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SsH3XE2czH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SsH3XE2czH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SsH3XE2czH/video.m3u8",
+          "duration": 201,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-50",
+          "title": "Featured Image",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFtkSQ6DKg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFtkSQ6DKg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFtkSQ6DKg/video.m3u8",
+          "duration": 273,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-51",
+          "title": "Schedule a Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mjuHXMZ2Z2Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mjuHXMZ2Z2Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mjuHXMZ2Z2Y/video.m3u8",
+          "duration": 278,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-52",
+          "title": "Creating a Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9nyEpCnYh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9nyEpCnYh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9nyEpCnYh/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-53",
+          "title": "Creating a Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EpTQn2H2zF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EpTQn2H2zF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EpTQn2H2zF/video.m3u8",
+          "duration": 528,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-54",
+          "title": "Post & Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfJ3uSsSJK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfJ3uSsSJK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfJ3uSsSJK/video.m3u8",
+          "duration": 469,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "The Home Page",
+      "lectures": [
+        {
+          "id": "td-wordpress-55",
+          "title": "The Importance of the Home Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zefEdrG6BC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zefEdrG6BC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zefEdrG6BC/video.m3u8",
+          "duration": 342,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-56",
+          "title": "Static and Dynamic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/739NpAtHXFF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/739NpAtHXFF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/739NpAtHXFF/video.m3u8",
+          "duration": 285,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-57",
+          "title": "Static or Blog",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqnbxx72PYT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqnbxx72PYT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqnbxx72PYT/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-58",
+          "title": "Creating a Blog Homepage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CJQdq2T2ExG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CJQdq2T2ExG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CJQdq2T2ExG/video.m3u8",
+          "duration": 379,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-59",
+          "title": "Creating a Static Homepage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GcemD58qmk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GcemD58qmk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GcemD58qmk/video.m3u8",
+          "duration": 493,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-wordpress-12",
+          "title": "Assignment 1: Business Landing Page (Elementor)",
+          "url": "https://docs.google.com/document/d/1WLsoVaNIPM3JrBSm3uA1JlhMKZOA6OabJMAqrY1ZuA8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1WLsoVaNIPM3JrBSm3uA1JlhMKZOA6OabJMAqrY1ZuA8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1WLsoVaNIPM3JrBSm3uA1JlhMKZOA6OabJMAqrY1ZuA8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1WLsoVaNIPM3JrBSm3uA1JlhMKZOA6OabJMAqrY1ZuA8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Creating The Legal Pages",
+      "lectures": [
+        {
+          "id": "td-wordpress-60",
+          "title": "About Us",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaSfabsp4B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaSfabsp4B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaSfabsp4B/video.m3u8",
+          "duration": 429,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-61",
+          "title": "Contact Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7PMAAPDZUa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7PMAAPDZUa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7PMAAPDZUa/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-62",
+          "title": "Terms & Condition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5qTbDCtb3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5qTbDCtb3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5qTbDCtb3/video.m3u8",
+          "duration": 395,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tools",
+      "lectures": [
+        {
+          "id": "td-wordpress-63",
+          "title": "Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ED9FnXe6K8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ED9FnXe6K8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ED9FnXe6K8/video.m3u8",
+          "duration": 684,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-64",
+          "title": "Import and Export",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFKaZb55QZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFKaZb55QZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFKaZb55QZ/video.m3u8",
+          "duration": 208,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Navigation",
+      "lectures": [
+        {
+          "id": "td-wordpress-65",
+          "title": "Main Website Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84KQKBEz3Pp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84KQKBEz3Pp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84KQKBEz3Pp/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-66",
+          "title": "Header & Footer Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DST7YKB79D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DST7YKB79D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DST7YKB79D/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-67",
+          "title": "Footer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSKmj8MA4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSKmj8MA4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSKmj8MA4d/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-68",
+          "title": "Internal Links",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FHsYcPXxUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FHsYcPXxUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FHsYcPXxUf/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-69",
+          "title": "External Links",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9Qz6qptb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9Qz6qptb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9Qz6qptb/video.m3u8",
+          "duration": 283,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-70",
+          "title": "Related Post Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77yG4jdg5aH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77yG4jdg5aH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77yG4jdg5aH/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Customize an FSE-Enable Theme (Block Theme)",
+      "lectures": [
+        {
+          "id": "td-wordpress-71",
+          "title": "FSE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4YZpeCksAf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4YZpeCksAf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4YZpeCksAf/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-72",
+          "title": "Editor Screen",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MKFcUfQnRUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MKFcUfQnRUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MKFcUfQnRUE/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-73",
+          "title": "Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QZcy4tuaF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QZcy4tuaF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QZcy4tuaF/video.m3u8",
+          "duration": 469,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-74",
+          "title": "Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HmaxtYFc5K7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HmaxtYFc5K7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HmaxtYFc5K7/video.m3u8",
+          "duration": 445,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-75",
+          "title": "Templates & Template Parts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kF28RXGRHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kF28RXGRHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kF28RXGRHK/video.m3u8",
+          "duration": 456,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-76",
+          "title": "Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rzY382q3tN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rzY382q3tN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rzY382q3tN/video.m3u8",
+          "duration": 652,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-77",
+          "title": "Patterns Header & Footer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bgYTad29QZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bgYTad29QZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bgYTad29QZ/video.m3u8",
+          "duration": 1768,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-78",
+          "title": "Query Loop Categories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DSddBEQH9q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DSddBEQH9q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DSddBEQH9q/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-79",
+          "title": "Editing Styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H95FFJ8B8u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H95FFJ8B8u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H95FFJ8B8u/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-80",
+          "title": "Editing Styles Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJ8EBBqXFE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJ8EBBqXFE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJ8EBBqXFE/video.m3u8",
+          "duration": 846,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-81",
+          "title": "Theme Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Ae9aefctm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Ae9aefctm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Ae9aefctm/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-82",
+          "title": "Themes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YECjNFa4FB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YECjNFa4FB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YECjNFa4FB/video.m3u8",
+          "duration": 132,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Customize a NON-FSE Enable",
+      "lectures": [
+        {
+          "id": "td-wordpress-83",
+          "title": "Widgets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K6zkCsNKN3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K6zkCsNKN3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K6zkCsNKN3/video.m3u8",
+          "duration": 632,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-84",
+          "title": "Nagvigation Bar Widgets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFDf3c58RR8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFDf3c58RR8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFDf3c58RR8/video.m3u8",
+          "duration": 1033,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-85",
+          "title": "Including Search and Social link",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nXEyeymD4b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nXEyeymD4b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nXEyeymD4b/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-86",
+          "title": "Customize",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rucgkXxrm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rucgkXxrm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rucgkXxrm/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-87",
+          "title": "Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GxDdFF3rcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GxDdFF3rcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GxDdFF3rcH/video.m3u8",
+          "duration": 84,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-88",
+          "title": "Theme File Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85Jzg74THbg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85Jzg74THbg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85Jzg74THbg/video.m3u8",
+          "duration": 432,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Wordpress Security",
+      "lectures": [
+        {
+          "id": "td-wordpress-89",
+          "title": "Warning Read Before Continue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke8EFfKKJJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke8EFfKKJJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke8EFfKKJJ/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-90",
+          "title": "Wordpress Security",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKNDfXG583S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKNDfXG583S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKNDfXG583S/video.m3u8",
+          "duration": 445,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-91",
+          "title": "All In One Security Plugin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YEGs8UBuyT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YEGs8UBuyT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YEGs8UBuyT/video.m3u8",
+          "duration": 1190,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-92",
+          "title": "Stop Spammers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Ngje6gRMK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Ngje6gRMK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Ngje6gRMK/video.m3u8",
+          "duration": 424,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-93",
+          "title": "Wordpress Backup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueCdnU8x4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueCdnU8x4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueCdnU8x4Q/video.m3u8",
+          "duration": 909,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-94",
+          "title": "How to Change Authore Name",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NYQd7xNadh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NYQd7xNadh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NYQd7xNadh/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Useful Plugins",
+      "lectures": [
+        {
+          "id": "td-wordpress-95",
+          "title": "Social Sharing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GtGQPrHBY7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GtGQPrHBY7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GtGQPrHBY7/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-96",
+          "title": "Site Kit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eBYxXkXQsTN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eBYxXkXQsTN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eBYxXkXQsTN/video.m3u8",
+          "duration": 1089,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-97",
+          "title": "Elementor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99HD99HxB7H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99HD99HxB7H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99HD99HxB7H/video.m3u8",
+          "duration": 1000,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-98",
+          "title": "WPForms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yuqusjB4Rb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yuqusjB4Rb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yuqusjB4Rb/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-99",
+          "title": "Seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BR9CXYqSA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BR9CXYqSA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BR9CXYqSA/video.m3u8",
+          "duration": 440,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-100",
+          "title": "Templates Plugin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zaacBEY8bj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zaacBEY8bj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zaacBEY8bj/video.m3u8",
+          "duration": 2125,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Site Structure",
+      "lectures": [
+        {
+          "id": "td-wordpress-101",
+          "title": "Website Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7Apqchpq9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7Apqchpq9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7Apqchpq9/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-102",
+          "title": "Installing WordPress Locally Using XAMPP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACdfdJZCCD6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACdfdJZCCD6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACdfdJZCCD6/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-103",
+          "title": "Step-by-Step WordPress Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "duration": 1518,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-104",
+          "title": "The Wordpress Set Up Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmFqyxTUtP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmFqyxTUtP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmFqyxTUtP/video.m3u8",
+          "duration": 1169,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-wordpress-21",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1cdPBE6ZieYSWUcXYsnZ45zs0VJ3HYQuJHky2ffdKuoQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1cdPBE6ZieYSWUcXYsnZ45zs0VJ3HYQuJHky2ffdKuoQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1cdPBE6ZieYSWUcXYsnZ45zs0VJ3HYQuJHky2ffdKuoQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1cdPBE6ZieYSWUcXYsnZ45zs0VJ3HYQuJHky2ffdKuoQ/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Creating Blog Site",
+      "lectures": [
+        {
+          "id": "td-wordpress-105",
+          "title": "Step-by-Step WordPress Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "duration": 1518,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-106",
+          "title": "Creating a Blog Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CNBGbdux2g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CNBGbdux2g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CNBGbdux2g/video.m3u8",
+          "duration": 1783,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-107",
+          "title": "Change Home Page to Static",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJBhrS42Gy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJBhrS42Gy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJBhrS42Gy/video.m3u8",
+          "duration": 196,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-108",
+          "title": "Blog Website Theme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yFP8jxpHfz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yFP8jxpHfz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yFP8jxpHfz/video.m3u8",
+          "duration": 762,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Creating Business Site",
+      "lectures": [
+        {
+          "id": "td-wordpress-109",
+          "title": "Step-by-Step WordPress Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8",
+          "duration": 1518,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-110",
+          "title": "Creating Business Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kz3cMSGEMgc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kz3cMSGEMgc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kz3cMSGEMgc/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Creating Hybrid Site",
+      "lectures": [
+        {
+          "id": "td-wordpress-111",
+          "title": "Step-by-Step WordPress Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9seUZ2GxNN5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9seUZ2GxNN5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9seUZ2GxNN5/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-112",
+          "title": "Creating a Ecommerce Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H3azebCBDR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H3azebCBDR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H3azebCBDR/video.m3u8",
+          "duration": 2002,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Editing With Elementor",
+      "lectures": [
+        {
+          "id": "td-wordpress-113",
+          "title": "Editing Pages with Elementor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMqQ669m38P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMqQ669m38P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMqQ669m38P/video.m3u8",
+          "duration": 1883,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-114",
+          "title": "Creating Pages in WordPress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sr4AzPdcm8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sr4AzPdcm8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sr4AzPdcm8/video.m3u8",
+          "duration": 1166,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-115",
+          "title": "Creating and Managing Navigation Menus",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a6G27Trrsm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a6G27Trrsm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a6G27Trrsm/video.m3u8",
+          "duration": 345,
+          "type": "video"
+        },
+        {
+          "id": "td-wordpress-116",
+          "title": "Customizing the Header and Footer Sections",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392jNEfGjt6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392jNEfGjt6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392jNEfGjt6/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-wordpress-26",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1W1fJOquXn--wBu6Dkj7t0BOs4F2oZzGlkynFf0JGaJc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1W1fJOquXn--wBu6Dkj7t0BOs4F2oZzGlkynFf0JGaJc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1W1fJOquXn--wBu6Dkj7t0BOs4F2oZzGlkynFf0JGaJc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1W1fJOquXn--wBu6Dkj7t0BOs4F2oZzGlkynFf0JGaJc/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

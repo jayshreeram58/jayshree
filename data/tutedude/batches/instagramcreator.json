@@ -1,0 +1,811 @@
+{
+  "platform": "TuteDude",
+  "batchId": "instagramcreator",
+  "batchSlug": "instagramcreator",
+  "batchName": "Instagram Content Creation",
+  "thumbnail": "https://www.tutedude.com/assets/avif/instagramcreator.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/instagramcreator",
+  "totalSections": 7,
+  "totalLectures": 61,
+  "totalNotes": 22,
+  "price": "699.00",
+  "category": "marketing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "FOUNDATION",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-2",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NPTbp7SU5J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NPTbp7SU5J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NPTbp7SU5J/video.m3u8",
+          "duration": 2468,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-3",
+          "title": "Realistice Growth Expectations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bgb8fMaRbH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bgb8fMaRbH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bgb8fMaRbH/video.m3u8",
+          "duration": 1798,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-4",
+          "title": "Common beginner Mistakes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rf9sJ2Y9SG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rf9sJ2Y9SG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rf9sJ2Y9SG/video.m3u8",
+          "duration": 1113,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-5",
+          "title": "Why instagram matters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hzk9kHs3xR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hzk9kHs3xR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hzk9kHs3xR/video.m3u8",
+          "duration": 1810,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-6",
+          "title": "Creator Economy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hNabRk4ZZe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hNabRk4ZZe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hNabRk4ZZe/video.m3u8",
+          "duration": 1626,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-7",
+          "title": "Finding your WHY ?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55MpGHBKm4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55MpGHBKm4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55MpGHBKm4Q/video.m3u8",
+          "duration": 2326,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-8",
+          "title": "Overcoming Fear of what people will think",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mfRJ8BqDG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mfRJ8BqDG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mfRJ8BqDG4/video.m3u8",
+          "duration": 2252,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-9",
+          "title": "Unique voice & Niche",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUfUp5ggmZu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUfUp5ggmZu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUfUp5ggmZu/video.m3u8",
+          "duration": 1994,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-10",
+          "title": "Target Audience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855DYz3hmyd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855DYz3hmyd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855DYz3hmyd/video.m3u8",
+          "duration": 1813,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-11",
+          "title": "Personal Branding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkGZHTa4uJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkGZHTa4uJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkGZHTa4uJ/video.m3u8",
+          "duration": 1854,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-12",
+          "title": "Optimizing Insta Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9parP6SSdxm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9parP6SSdxm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9parP6SSdxm/video.m3u8",
+          "duration": 2284,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-3",
+          "title": "Create Mind Map",
+          "url": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-4",
+          "title": "Finding your “Why” ",
+          "url": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-5",
+          "title": "Finding your “Niche”",
+          "url": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-6",
+          "title": "Personal Branding",
+          "url": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-7",
+          "title": "Optimising Instagram",
+          "url": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CONTENT CREATION STRATEGY",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-13",
+          "title": "Insta Content Format",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8srNfMKBp8T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8srNfMKBp8T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8srNfMKBp8T/video.m3u8",
+          "duration": 2303,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-14",
+          "title": "Content pillar",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QczNFNMpdt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QczNFNMpdt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QczNFNMpdt/video.m3u8",
+          "duration": 2792,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-15",
+          "title": "Storytelling for insta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tgNqZuZSha/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tgNqZuZSha/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tgNqZuZSha/video.m3u8",
+          "duration": 2097,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-16",
+          "title": "Hooks for insta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFtMtyRpaTH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFtMtyRpaTH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFtMtyRpaTH/video.m3u8",
+          "duration": 2290,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-17",
+          "title": "Endless Content Ideas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nyhSpSpAKG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nyhSpSpAKG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nyhSpSpAKG/video.m3u8",
+          "duration": 1362,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-18",
+          "title": "Batching and Planning Content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32b3BDusjf6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32b3BDusjf6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32b3BDusjf6/video.m3u8",
+          "duration": 1376,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-19",
+          "title": "Role of Aesthetics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xuq2gzCEqt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xuq2gzCEqt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xuq2gzCEqt/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-20",
+          "title": "Editing Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42nT5Gf5JX2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42nT5Gf5JX2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42nT5Gf5JX2/video.m3u8",
+          "duration": 2810,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-21",
+          "title": "Music, captions and Transitions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaFhhrG9HkF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaFhhrG9HkF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaFhhrG9HkF/video.m3u8",
+          "duration": 2109,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-22",
+          "title": "Avoiding Perfectionism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TUQCtjQEau/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TUQCtjQEau/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TUQCtjQEau/video.m3u8",
+          "duration": 1425,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-9",
+          "title": "Content Formats",
+          "url": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-10",
+          "title": "Content Pillars",
+          "url": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-11",
+          "title": "Storytelling for Instagram",
+          "url": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-12",
+          "title": "Hooks for Instagram ",
+          "url": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ENGAGEMENT & GROWTH ESSENTIALS",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-23",
+          "title": "Instagram Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzgMejsG7HN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzgMejsG7HN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzgMejsG7HN/video.m3u8",
+          "duration": 2097,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-24",
+          "title": "Captions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J87PcYpKdAp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J87PcYpKdAp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J87PcYpKdAp/video.m3u8",
+          "duration": 2449,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-25",
+          "title": "Hashtags",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nNhGUk36Be/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nNhGUk36Be/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nNhGUk36Be/video.m3u8",
+          "duration": 2456,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-26",
+          "title": "Posting Frequency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5suTTSRe47b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5suTTSRe47b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5suTTSRe47b/video.m3u8",
+          "duration": 2110,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-27",
+          "title": "Engaging audience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjyGREGfh3u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjyGREGfh3u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjyGREGfh3u/video.m3u8",
+          "duration": 1890,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-28",
+          "title": "Insta Stories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPQ2sPckgH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPQ2sPckgH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPQ2sPckgH/video.m3u8",
+          "duration": 2290,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-29",
+          "title": "Going Live",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EqrpmxUnYT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EqrpmxUnYT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EqrpmxUnYT/video.m3u8",
+          "duration": 2537,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-30",
+          "title": "Hate Comments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fXuphJh9KG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fXuphJh9KG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fXuphJh9KG/video.m3u8",
+          "duration": 1578,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-31",
+          "title": "Building Resilience",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsjUJJ4N4jc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsjUJJ4N4jc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsjUJJ4N4jc/video.m3u8",
+          "duration": 1659,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-14",
+          "title": "Captions",
+          "url": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-15",
+          "title": "Hashtags ",
+          "url": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-16",
+          "title": "Posting Frequency ",
+          "url": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-17",
+          "title": "Day Stories Challenge",
+          "url": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ADVANCED GROWTH TACTICS",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-32",
+          "title": "Collabs & Shoutouts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JpxTYpkBUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JpxTYpkBUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JpxTYpkBUE/video.m3u8",
+          "duration": 2725,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-33",
+          "title": "Leveraging Trends",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SqXfnbkdGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SqXfnbkdGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SqXfnbkdGd/video.m3u8",
+          "duration": 1864,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-34",
+          "title": "Discovered on Insta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tt2P2RBUmr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tt2P2RBUmr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tt2P2RBUmr/video.m3u8",
+          "duration": 2575,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-35",
+          "title": "Cross Promotion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cgUayxeUxS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cgUayxeUxS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cgUayxeUxS/video.m3u8",
+          "duration": 2682,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-36",
+          "title": "Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByZ7UnjRXqT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByZ7UnjRXqT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByZ7UnjRXqT/video.m3u8",
+          "duration": 2710,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-37",
+          "title": "Viral content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jGUXHJrHK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jGUXHJrHK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jGUXHJrHK2/video.m3u8",
+          "duration": 2399,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-38",
+          "title": "Growth Plateaus",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fjbk2yU57Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fjbk2yU57Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fjbk2yU57Z/video.m3u8",
+          "duration": 2201,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-39",
+          "title": "Authority Content",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BgnRmKYkAZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BgnRmKYkAZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BgnRmKYkAZ/video.m3u8",
+          "duration": 2587,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-40",
+          "title": "Experimenting Formats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zsf2jK6hZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zsf2jK6hZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zsf2jK6hZK/video.m3u8",
+          "duration": 2798,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-41",
+          "title": "Sustainable Growth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yc3nRthMM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yc3nRthMM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yc3nRthMM/video.m3u8",
+          "duration": 2251,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-19",
+          "title": "Collab Pitch Challenge ",
+          "url": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-20",
+          "title": "Leveraging Trends",
+          "url": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-21",
+          "title": "Observing Viral Posts ",
+          "url": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-22",
+          "title": "Format Experimentation Exercise",
+          "url": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "MONETIZATION AND CREATOR MINDSET",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-42",
+          "title": "Ways to earn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pQtkbpP9R7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pQtkbpP9R7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pQtkbpP9R7/video.m3u8",
+          "duration": 2923,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-43",
+          "title": "Media Kit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zJNnzm6sSy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zJNnzm6sSy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zJNnzm6sSy/video.m3u8",
+          "duration": 2337,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-44",
+          "title": "Pitching insta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58BkHYurn6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58BkHYurn6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58BkHYurn6d/video.m3u8",
+          "duration": 2566,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-45",
+          "title": "long term Collab",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YTKe93qUb5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YTKe93qUb5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YTKe93qUb5/video.m3u8",
+          "duration": 1992,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-46",
+          "title": "diversifying Income",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NYjGghTEMG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NYjGghTEMG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NYjGghTEMG/video.m3u8",
+          "duration": 2100,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-47",
+          "title": "Creative Burnout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bU56KRm57s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bU56KRm57s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bU56KRm57s/video.m3u8",
+          "duration": 1995,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-48",
+          "title": "Creator's Time Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBxhtPD43b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBxhtPD43b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBxhtPD43b/video.m3u8",
+          "duration": 1680,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-49",
+          "title": "Healthy Boundaries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6RCFB5GzXH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6RCFB5GzXH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6RCFB5GzXH/video.m3u8",
+          "duration": 1673,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-50",
+          "title": "Comparing online",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tHb5Mnmgqd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tHb5Mnmgqd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tHb5Mnmgqd/video.m3u8",
+          "duration": 2758,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-51",
+          "title": "Instagram Future",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFm6smmA3Mx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFm6smmA3Mx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFm6smmA3Mx/video.m3u8",
+          "duration": 1911,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-24",
+          "title": "Monetization Mapping Exercise ",
+          "url": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-25",
+          "title": "Pitch Draft Exercise ",
+          "url": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-26",
+          "title": "Content Comparison Audit ",
+          "url": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "REAL LIFE CHALLENGES & PRACTICAL SKILLS",
+      "lectures": [
+        {
+          "id": "td-instagramcreator-52",
+          "title": "Fear of being judged",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUR3EeMC984/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUR3EeMC984/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUR3EeMC984/video.m3u8",
+          "duration": 3112,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-53",
+          "title": "Navigating Feedback",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayd38SnEhge/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayd38SnEhge/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayd38SnEhge/video.m3u8",
+          "duration": 2819,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-54",
+          "title": "Slow engagement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3nZepnS9Pr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3nZepnS9Pr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3nZepnS9Pr/video.m3u8",
+          "duration": 2628,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-55",
+          "title": "Consistency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sKG5S2UxpB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sKG5S2UxpB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sKG5S2UxpB/video.m3u8",
+          "duration": 1598,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-56",
+          "title": "Maintaining Authenticity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uns8XE82Eu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uns8XE82Eu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uns8XE82Eu/video.m3u8",
+          "duration": 2647,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-57",
+          "title": "Reignite Inspiration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDRxYpMmSX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDRxYpMmSX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDRxYpMmSX/video.m3u8",
+          "duration": 2622,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-58",
+          "title": "Video and Audio Essentials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z4SyjgZRmS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z4SyjgZRmS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z4SyjgZRmS/video.m3u8",
+          "duration": 3141,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-59",
+          "title": "Thumbnails",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYN9UKg5Jyg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYN9UKg5Jyg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYN9UKg5Jyg/video.m3u8",
+          "duration": 2793,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-60",
+          "title": "Mental health for creators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449hBkH7ZH8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449hBkH7ZH8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449hBkH7ZH8/video.m3u8",
+          "duration": 2859,
+          "type": "video"
+        },
+        {
+          "id": "td-instagramcreator-61",
+          "title": "The long game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAYB5UHURm6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAYB5UHURm6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAYB5UHURm6/video.m3u8",
+          "duration": 2150,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-instagramcreator-28",
+          "title": "Reel & Carousel Cover Thumbnail Fix ",
+          "url": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-instagramcreator-29",
+          "title": "Capstone Project: ",
+          "url": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

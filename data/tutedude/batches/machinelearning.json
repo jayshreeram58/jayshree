@@ -1,0 +1,1535 @@
+{
+  "platform": "TuteDude",
+  "batchId": "machinelearning",
+  "batchSlug": "machinelearning",
+  "batchName": "Machine learning (ML)",
+  "thumbnail": "https://www.tutedude.com/assets/avif/machinelearning.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/machinelearning",
+  "totalSections": 35,
+  "totalLectures": 136,
+  "totalNotes": 9,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-machinelearning-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-machinelearning-2",
+          "title": "Intro to ML and its types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tDjxtt6n9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tDjxtt6n9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tDjxtt6n9/video.m3u8",
+          "duration": 1745,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-3",
+          "title": "Applications and Challenges",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nNSuP9jPh3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nNSuP9jPh3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nNSuP9jPh3/video.m3u8",
+          "duration": 548,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-4",
+          "title": "Intro to Python Module",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A447XhB2zTb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A447XhB2zTb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A447XhB2zTb/video.m3u8",
+          "duration": 62,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-machinelearning-5",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cx4jtx2d4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cx4jtx2d4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cx4jtx2d4f/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to get certificate and Refund",
+      "lectures": [
+        {
+          "id": "td-machinelearning-6",
+          "title": "How to get certificate and Refund",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zm3ayQsR3r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zm3ayQsR3r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zm3ayQsR3r/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Programming",
+      "lectures": [
+        {
+          "id": "td-machinelearning-7",
+          "title": "Python Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7a4aYfdXGHC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7a4aYfdXGHC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7a4aYfdXGHC/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-8",
+          "title": "Data Types Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nrqnkh9M4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nrqnkh9M4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nrqnkh9M4d/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-9",
+          "title": "List in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Mpgx4mZbr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Mpgx4mZbr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Mpgx4mZbr/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-10",
+          "title": "Tuples in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApDQQKz4S5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApDQQKz4S5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApDQQKz4S5p/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-11",
+          "title": "Dictionary in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QAbBRtDnmf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QAbBRtDnmf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QAbBRtDnmf/video.m3u8",
+          "duration": 930,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-12",
+          "title": "Sets in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ckMxGckE7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ckMxGckE7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ckMxGckE7/video.m3u8",
+          "duration": 943,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-13",
+          "title": "Loops in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96jf5AR5tjs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96jf5AR5tjs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96jf5AR5tjs/video.m3u8",
+          "duration": 1522,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-14",
+          "title": "Comprehension in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uEJARy2Fnp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uEJARy2Fnp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uEJARy2Fnp/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-15",
+          "title": "Functions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4Ucp5nZ6z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4Ucp5nZ6z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4Ucp5nZ6z/video.m3u8",
+          "duration": 1537,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-16",
+          "title": "Lambda Functions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NPQtpyFQy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NPQtpyFQy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NPQtpyFQy/video.m3u8",
+          "duration": 669,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-17",
+          "title": "Exception Handling in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC58aAAk9z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC58aAAk9z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC58aAAk9z/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-18",
+          "title": "Regular Expressions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a8yAa7CAn7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a8yAa7CAn7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a8yAa7CAn7/video.m3u8",
+          "duration": 1273,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Preprocessing in Python",
+      "lectures": [
+        {
+          "id": "td-machinelearning-19",
+          "title": "Dataset Preparation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QBRXjHcYgP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QBRXjHcYgP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QBRXjHcYgP/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-20",
+          "title": "Training and Testing Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zmTsSSeD9X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zmTsSSeD9X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zmTsSSeD9X/video.m3u8",
+          "duration": 911,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-21",
+          "title": "Importing Dataset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR7qxaQnbuU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR7qxaQnbuU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR7qxaQnbuU/video.m3u8",
+          "duration": 1386,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-22",
+          "title": "Essential Libraries for Pre Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Y7N8k9szeR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Y7N8k9szeR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Y7N8k9szeR/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-23",
+          "title": "Numpy Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ztAFEsUQEY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ztAFEsUQEY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ztAFEsUQEY/video.m3u8",
+          "duration": 1352,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-24",
+          "title": "Numpy Operations & Manipulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuEp8eHKjj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuEp8eHKjj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuEp8eHKjj/video.m3u8",
+          "duration": 1033,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-25",
+          "title": "Numpy Bonus Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96aeCBTGmpR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96aeCBTGmpR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96aeCBTGmpR/video.m3u8",
+          "duration": 731,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-26",
+          "title": "Pandas in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92jgPx7butm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92jgPx7butm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92jgPx7butm/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-27",
+          "title": "Pandas Operations for Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUuHGm7ufcN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUuHGm7ufcN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUuHGm7ufcN/video.m3u8",
+          "duration": 1457,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-28",
+          "title": "Pandas Bonus Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zH7G3XahZ8E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zH7G3XahZ8E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zH7G3XahZ8E/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-29",
+          "title": "Matplotlib in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66X87xZzByE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66X87xZzByE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66X87xZzByE/video.m3u8",
+          "duration": 1217,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Handling Missing Data & Feature Scaling",
+      "lectures": [
+        {
+          "id": "td-machinelearning-30",
+          "title": "Handling Missing Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKm8NT8DPTZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKm8NT8DPTZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKm8NT8DPTZ/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-31",
+          "title": "Feature Scaling in ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cRuUtasu6X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cRuUtasu6X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cRuUtasu6X/video.m3u8",
+          "duration": 425,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Preprocessing in R",
+      "lectures": [
+        {
+          "id": "td-machinelearning-32",
+          "title": "What is R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/969SDR2fE97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/969SDR2fE97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/969SDR2fE97/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-33",
+          "title": "R Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33q8FRUt4pk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33q8FRUt4pk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33q8FRUt4pk/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-34",
+          "title": "Preprocessing Codes in R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmFfGYpQ9b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmFfGYpQ9b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmFfGYpQ9b/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linear Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-35",
+          "title": "Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exg2EGXh4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exg2EGXh4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exg2EGXh4f/video.m3u8",
+          "duration": 1028,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-36",
+          "title": "Linear Regression Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ceYYRkGuXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ceYYRkGuXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ceYYRkGuXm/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-37",
+          "title": "Plot for Predicted vs. Test Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc6ZJreujS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc6ZJreujS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc6ZJreujS/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-38",
+          "title": "Linear Regression using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hfh3mRhM4Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hfh3mRhM4Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hfh3mRhM4Y/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Multiple Linear Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-39",
+          "title": "Multiple Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mRsyQjM4nUR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mRsyQjM4nUR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mRsyQjM4nUR/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-40",
+          "title": "Multiple Linear Regression Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34TkdMNAerT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34TkdMNAerT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34TkdMNAerT/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-41",
+          "title": "Multiple Linear Regression using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADs9255hpBB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADs9255hpBB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADs9255hpBB/video.m3u8",
+          "duration": 711,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Polynomial Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-42",
+          "title": "Polynomial Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cmhc92t3U7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cmhc92t3U7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cmhc92t3U7/video.m3u8",
+          "duration": 665,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-43",
+          "title": "Polynomial Regression Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YXxNrSuUkB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YXxNrSuUkB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YXxNrSuUkB/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-44",
+          "title": "Polynomial Regression using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KH6tHut2Gb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KH6tHut2Gb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KH6tHut2Gb/video.m3u8",
+          "duration": 432,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Support Vector Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-45",
+          "title": "Support Vector Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY79pxpJESe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY79pxpJESe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY79pxpJESe/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-46",
+          "title": "SVR Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZSB9ftJjz8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZSB9ftJjz8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZSB9ftJjz8/video.m3u8",
+          "duration": 493,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-47",
+          "title": "SVR using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97eaGGgA8Eb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97eaGGgA8Eb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97eaGGgA8Eb/video.m3u8",
+          "duration": 786,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decision Tree Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-48",
+          "title": "Decision Tree Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2tyZxtkmXN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2tyZxtkmXN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2tyZxtkmXN/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-49",
+          "title": "Decision Tree Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKdj4myfSYC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKdj4myfSYC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKdj4myfSYC/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-50",
+          "title": "Decision Tree using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGbsYgj9Gs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGbsYgj9Gs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGbsYgj9Gs/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Random Forest Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-51",
+          "title": "Random Forest Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axr7CmuHyX2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axr7CmuHyX2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axr7CmuHyX2/video.m3u8",
+          "duration": 922,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-52",
+          "title": "Random Forest Regression Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7axKytxhUsd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7axKytxhUsd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7axKytxhUsd/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-53",
+          "title": "Random Forest in R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sn8Ucp2CPg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sn8Ucp2CPg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sn8Ucp2CPg/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Evaluation of Regression Models",
+      "lectures": [
+        {
+          "id": "td-machinelearning-54",
+          "title": "Evaluation of Regression Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3Da2C8dEgx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3Da2C8dEgx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3Da2C8dEgx/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-55",
+          "title": "Regression Model Selection in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e2PpKSe54m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e2PpKSe54m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e2PpKSe54m/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-56",
+          "title": "Evaluation Metrics Bonus",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8d7x69tea7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8d7x69tea7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8d7x69tea7/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Logistic Regression",
+      "lectures": [
+        {
+          "id": "td-machinelearning-57",
+          "title": "Logistic Regression & Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BX56G6mxuY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BX56G6mxuY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BX56G6mxuY/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-58",
+          "title": "Logistic Regression using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3JZ8nRdjPT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3JZ8nRdjPT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3JZ8nRdjPT/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-machinelearning-17",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1o_nCZL1cVMENv--gNZu96fQl9LHPZhXQdrCvSyw_If4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1o_nCZL1cVMENv--gNZu96fQl9LHPZhXQdrCvSyw_If4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1o_nCZL1cVMENv--gNZu96fQl9LHPZhXQdrCvSyw_If4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1o_nCZL1cVMENv--gNZu96fQl9LHPZhXQdrCvSyw_If4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-machinelearning-18",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1X9sj3_aN8aFdP1lUN3Kx3Myd2PqJHllW5mLf7pnf68o/edit?tab=t.0#heading=h.tcn59bszwqiu",
+          "pdfUrl": "https://docs.google.com/document/d/1X9sj3_aN8aFdP1lUN3Kx3Myd2PqJHllW5mLf7pnf68o/edit?tab=t.0#heading=h.tcn59bszwqiu",
+          "playerUrl": "https://docs.google.com/document/d/1X9sj3_aN8aFdP1lUN3Kx3Myd2PqJHllW5mLf7pnf68o/edit?tab=t.0#heading=h.tcn59bszwqiu",
+          "downloadUrl": "https://docs.google.com/document/d/1X9sj3_aN8aFdP1lUN3Kx3Myd2PqJHllW5mLf7pnf68o/edit?tab=t.0#heading=h.tcn59bszwqiu",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Support Vector Machine",
+      "lectures": [
+        {
+          "id": "td-machinelearning-59",
+          "title": "Support Vector Machine and Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdqXKCsmFn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdqXKCsmFn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdqXKCsmFn/video.m3u8",
+          "duration": 1445,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-60",
+          "title": "SVM using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JSeY8bqFyc7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JSeY8bqFyc7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JSeY8bqFyc7/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "K Nearest Neighbors (KNN)",
+      "lectures": [
+        {
+          "id": "td-machinelearning-61",
+          "title": "K Nearest Neighbours",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h999kYUHUD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h999kYUHUD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h999kYUHUD/video.m3u8",
+          "duration": 1266,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-62",
+          "title": "KNN Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T3XSPsR8kM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T3XSPsR8kM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T3XSPsR8kM/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-63",
+          "title": "KNN using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKMndJeg8ee/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKMndJeg8ee/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKMndJeg8ee/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decision Tree Classification",
+      "lectures": [
+        {
+          "id": "td-machinelearning-64",
+          "title": "Decision Tree Classification and Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsx8RfYZMGP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsx8RfYZMGP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsx8RfYZMGP/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-65",
+          "title": "Decision Tree using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y7DrKXr4pP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y7DrKXr4pP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y7DrKXr4pP/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Random Forest Classification",
+      "lectures": [
+        {
+          "id": "td-machinelearning-66",
+          "title": "Random Forest Classification and Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKX3K67fba/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKX3K67fba/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKX3K67fba/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-67",
+          "title": "Random Forest Using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kjutnrS9NG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kjutnrS9NG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kjutnrS9NG/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Naive Bayes Classification",
+      "lectures": [
+        {
+          "id": "td-machinelearning-68",
+          "title": "Naive Bayes Classification & Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jpX7Y6Q4zF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jpX7Y6Q4zF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jpX7Y6Q4zF/video.m3u8",
+          "duration": 1808,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-69",
+          "title": "Naive Bayes using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xdkRE9K8yz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xdkRE9K8yz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xdkRE9K8yz/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-machinelearning-24",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1em8JyhIehJX-x1cjlSK0sONHaniyHM-mWhUwI-e2HUM/edit?usp=sharings",
+          "pdfUrl": "https://docs.google.com/document/d/1em8JyhIehJX-x1cjlSK0sONHaniyHM-mWhUwI-e2HUM/edit?usp=sharings",
+          "playerUrl": "https://docs.google.com/document/d/1em8JyhIehJX-x1cjlSK0sONHaniyHM-mWhUwI-e2HUM/edit?usp=sharings",
+          "downloadUrl": "https://docs.google.com/document/d/1em8JyhIehJX-x1cjlSK0sONHaniyHM-mWhUwI-e2HUM/edit?usp=sharings",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-machinelearning-25",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1ERpKoZzB4pTuk_hhYHMFfh2zEmgIOToAxQZPb7XJ780/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ERpKoZzB4pTuk_hhYHMFfh2zEmgIOToAxQZPb7XJ780/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ERpKoZzB4pTuk_hhYHMFfh2zEmgIOToAxQZPb7XJ780/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ERpKoZzB4pTuk_hhYHMFfh2zEmgIOToAxQZPb7XJ780/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Evaluation of Classification Models",
+      "lectures": [
+        {
+          "id": "td-machinelearning-70",
+          "title": "Evaluation Metrics in Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax32MsT9suK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax32MsT9suK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax32MsT9suK/video.m3u8",
+          "duration": 1029,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "K Means Clustering",
+      "lectures": [
+        {
+          "id": "td-machinelearning-71",
+          "title": "K Means Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br8N8PKdxUZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br8N8PKdxUZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br8N8PKdxUZ/video.m3u8",
+          "duration": 1865,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-72",
+          "title": "K Means Clustering Code Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCK4p9u6nM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCK4p9u6nM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCK4p9u6nM/video.m3u8",
+          "duration": 564,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-73",
+          "title": "Optimising K Means Clustering and Elbow Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U7Hcq732xC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U7Hcq732xC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U7Hcq732xC/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-74",
+          "title": "K Means Clustering using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nT3ftQz89K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nT3ftQz89K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nT3ftQz89K/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hierarchical Clustering",
+      "lectures": [
+        {
+          "id": "td-machinelearning-75",
+          "title": "Hierarchical Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGqFaKeQpRq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGqFaKeQpRq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGqFaKeQpRq/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-76",
+          "title": "Hierarchical Clustering using Python Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mbSD2NpmPh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mbSD2NpmPh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mbSD2NpmPh/video.m3u8",
+          "duration": 547,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-77",
+          "title": "Hierarchical Clustering using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uUhNtra7NG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uUhNtra7NG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uUhNtra7NG/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-machinelearning-29",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1eW6I9CW-yOci9moidvv8VpNQ-ebJMPxJtbsFFPZ2BQU/edit?tab=t.0#heading=h.2lf1dje7m50s",
+          "pdfUrl": "https://docs.google.com/document/d/1eW6I9CW-yOci9moidvv8VpNQ-ebJMPxJtbsFFPZ2BQU/edit?tab=t.0#heading=h.2lf1dje7m50s",
+          "playerUrl": "https://docs.google.com/document/d/1eW6I9CW-yOci9moidvv8VpNQ-ebJMPxJtbsFFPZ2BQU/edit?tab=t.0#heading=h.2lf1dje7m50s",
+          "downloadUrl": "https://docs.google.com/document/d/1eW6I9CW-yOci9moidvv8VpNQ-ebJMPxJtbsFFPZ2BQU/edit?tab=t.0#heading=h.2lf1dje7m50s",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-machinelearning-30",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/1zHGg0ztD-X4Jiui8EAaQNRYD1wnSxTkTsOY_j7DdzDE/edit?tab=t.0#heading=h.gl83n7frf3k3",
+          "pdfUrl": "https://docs.google.com/document/d/1zHGg0ztD-X4Jiui8EAaQNRYD1wnSxTkTsOY_j7DdzDE/edit?tab=t.0#heading=h.gl83n7frf3k3",
+          "playerUrl": "https://docs.google.com/document/d/1zHGg0ztD-X4Jiui8EAaQNRYD1wnSxTkTsOY_j7DdzDE/edit?tab=t.0#heading=h.gl83n7frf3k3",
+          "downloadUrl": "https://docs.google.com/document/d/1zHGg0ztD-X4Jiui8EAaQNRYD1wnSxTkTsOY_j7DdzDE/edit?tab=t.0#heading=h.gl83n7frf3k3",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-machinelearning-31",
+          "title": "Assignment 7",
+          "url": "https://docs.google.com/document/d/1t7ZBRNngf_opQWDhKaovvRKezfOZbsRCIHjuvCHVqjE/edit?tab=t.0#heading=h.486cyf78u2l2",
+          "pdfUrl": "https://docs.google.com/document/d/1t7ZBRNngf_opQWDhKaovvRKezfOZbsRCIHjuvCHVqjE/edit?tab=t.0#heading=h.486cyf78u2l2",
+          "playerUrl": "https://docs.google.com/document/d/1t7ZBRNngf_opQWDhKaovvRKezfOZbsRCIHjuvCHVqjE/edit?tab=t.0#heading=h.486cyf78u2l2",
+          "downloadUrl": "https://docs.google.com/document/d/1t7ZBRNngf_opQWDhKaovvRKezfOZbsRCIHjuvCHVqjE/edit?tab=t.0#heading=h.486cyf78u2l2",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Apriori Algorithm",
+      "lectures": [
+        {
+          "id": "td-machinelearning-78",
+          "title": "Apriori Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TnAURpGPGKE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TnAURpGPGKE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TnAURpGPGKE/video.m3u8",
+          "duration": 1802,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-79",
+          "title": "Market Basket Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfgxsNcffSQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfgxsNcffSQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfgxsNcffSQ/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-80",
+          "title": "Apriori Implementation in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JJcHhqfY53/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JJcHhqfY53/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JJcHhqfY53/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-81",
+          "title": "Apriori Code using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kfftYMbSNyG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kfftYMbSNyG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kfftYMbSNyG/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-machinelearning-33",
+          "title": "Assignment 8",
+          "url": "https://docs.google.com/document/d/1nOhYKYrC2X6G8cBD_ebGnO3Y_xkFlLW2NgpWMuky2oU/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1nOhYKYrC2X6G8cBD_ebGnO3Y_xkFlLW2NgpWMuky2oU/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1nOhYKYrC2X6G8cBD_ebGnO3Y_xkFlLW2NgpWMuky2oU/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1nOhYKYrC2X6G8cBD_ebGnO3Y_xkFlLW2NgpWMuky2oU/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-machinelearning-34",
+          "title": "Assignment 9",
+          "url": "https://docs.google.com/document/d/1Pvq6ySRo3hUofZSP14vK42V9_pAWuiE89gden6Gl_5k/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1Pvq6ySRo3hUofZSP14vK42V9_pAWuiE89gden6Gl_5k/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1Pvq6ySRo3hUofZSP14vK42V9_pAWuiE89gden6Gl_5k/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1Pvq6ySRo3hUofZSP14vK42V9_pAWuiE89gden6Gl_5k/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ECLAT Algorithm",
+      "lectures": [
+        {
+          "id": "td-machinelearning-82",
+          "title": "ECLAT Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhHuQDQDGHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhHuQDQDGHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhHuQDQDGHK/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-83",
+          "title": "ECLAT Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bYeYqR9ns7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bYeYqR9ns7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bYeYqR9ns7/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-84",
+          "title": "ECLAT vs Apriori",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EU7TqKpcS2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EU7TqKpcS2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EU7TqKpcS2/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Reinforcement Learning",
+      "lectures": [
+        {
+          "id": "td-machinelearning-85",
+          "title": "What is Reinforcement Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r5CCfDGU4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r5CCfDGU4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r5CCfDGU4k/video.m3u8",
+          "duration": 1444,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-86",
+          "title": "Multi-Armed Bandit Exploration vs Exploitation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjUhUKyufz3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjUhUKyufz3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjUhUKyufz3/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-87",
+          "title": "Upper Confidence Bound Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E4PJc5746qh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E4PJc5746qh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E4PJc5746qh/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-88",
+          "title": "UCB using Python and R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt4ZyxRXYq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt4ZyxRXYq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt4ZyxRXYq/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-89",
+          "title": "Thompson Sampling Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JdUpucF8Ks/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JdUpucF8Ks/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JdUpucF8Ks/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-90",
+          "title": "Deterministic vs Probabilistic UCB & Thompson Sampling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kT9B2aRApx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kT9B2aRApx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kT9B2aRApx/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-91",
+          "title": "Thompson Sampling Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47jZTT6C6cu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47jZTT6C6cu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47jZTT6C6cu/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Natural Language Processing",
+      "lectures": [
+        {
+          "id": "td-machinelearning-92",
+          "title": "NLP-Introduction, Challenges & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqTPe5RASNC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqTPe5RASNC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqTPe5RASNC/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-93",
+          "title": "Introduction to NLTK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94yMhuRz8pR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94yMhuRz8pR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94yMhuRz8pR/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-94",
+          "title": "Stop Word Removal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAacJzRKbS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAacJzRKbS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAacJzRKbS/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-95",
+          "title": "Tokenization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CNRD4aFDBQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CNRD4aFDBQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CNRD4aFDBQ/video.m3u8",
+          "duration": 966,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-96",
+          "title": "Stemming and Lemmatization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hG2jGEMfA6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hG2jGEMfA6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hG2jGEMfA6/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-97",
+          "title": "Named Entity Recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C69XfA6maMD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C69XfA6maMD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C69XfA6maMD/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-98",
+          "title": "POS Tagging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAh9tq9phs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAh9tq9phs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAh9tq9phs/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-99",
+          "title": "POS Tagging Approach & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xgEzkkkQ7E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xgEzkkkQ7E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xgEzkkkQ7E/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-100",
+          "title": "Rare Word Removal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aXBXxmcfyrm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aXBXxmcfyrm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aXBXxmcfyrm/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-101",
+          "title": "Correcting Words using NLTK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nQH5kmkpUy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nQH5kmkpUy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nQH5kmkpUy/video.m3u8",
+          "duration": 1277,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-102",
+          "title": "Bag of Words Technique",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaAq2MScZpx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaAq2MScZpx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaAq2MScZpx/video.m3u8",
+          "duration": 1624,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-103",
+          "title": "Word Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfa5SDmxgb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfa5SDmxgb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfa5SDmxgb/video.m3u8",
+          "duration": 1269,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-104",
+          "title": "What is Sentiment Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4n5e8MKJXHp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4n5e8MKJXHp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4n5e8MKJXHp/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-105",
+          "title": "Sentiment Analysis Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6nqGTdnhEK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6nqGTdnhEK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6nqGTdnhEK/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-106",
+          "title": "Sentiment Analysis with machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MGPFD5Z7yN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MGPFD5Z7yN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MGPFD5Z7yN/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-107",
+          "title": "ML for Sentiment Analysis Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dekBedud3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dekBedud3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dekBedud3B/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-108",
+          "title": "Training & Hyperparameter Tuning for Sentiment Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZaZD7dnba/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZaZD7dnba/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZaZD7dnba/video.m3u8",
+          "duration": 1924,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ML Model Deployment",
+      "lectures": [
+        {
+          "id": "td-machinelearning-109",
+          "title": "What is Model Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qbkeDJtYJ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qbkeDJtYJ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qbkeDJtYJ4/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-110",
+          "title": "Introduction to streamlit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rEYah8JNN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rEYah8JNN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rEYah8JNN/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-111",
+          "title": "Model Deployment using Streamlit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE9Pkkp62J8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE9Pkkp62J8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE9Pkkp62J8/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deep Learning : Artificial Neural Networks",
+      "lectures": [
+        {
+          "id": "td-machinelearning-112",
+          "title": "Introduction to Deep Learning: History and Context",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GssjAX4Tb2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GssjAX4Tb2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GssjAX4Tb2b/video.m3u8",
+          "duration": 963,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-113",
+          "title": "Machine Learning vs. Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78JZzfX9umj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78JZzfX9umj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78JZzfX9umj/video.m3u8",
+          "duration": 847,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-114",
+          "title": "DL Basics Neurons,Synapses,Activation Funcns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCydgfQn22/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCydgfQn22/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCydgfQn22/video.m3u8",
+          "duration": 962,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-115",
+          "title": "Understanding Activation Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmQkbsJh885/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmQkbsJh885/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmQkbsJh885/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-116",
+          "title": "Artificial Neural Networks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mXtpDfm96r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mXtpDfm96r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mXtpDfm96r/video.m3u8",
+          "duration": 1746,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-117",
+          "title": "Gradient Descent vs Brute Force Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FzgQBKpAHd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FzgQBKpAHd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FzgQBKpAHd/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-118",
+          "title": "ANN Code in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Q4PTf4Qed/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Q4PTf4Qed/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Q4PTf4Qed/video.m3u8",
+          "duration": 789,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-119",
+          "title": "ANN using R code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7adfXBz9Z2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7adfXBz9Z2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7adfXBz9Z2h/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deep Learning : Convolutional Neural Networks",
+      "lectures": [
+        {
+          "id": "td-machinelearning-120",
+          "title": "Convolutional Neural Networks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY2GKmQyUje/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY2GKmQyUje/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY2GKmQyUje/video.m3u8",
+          "duration": 783,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-121",
+          "title": "Understanding Layers of CNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADQP9jHy9q3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADQP9jHy9q3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADQP9jHy9q3/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-122",
+          "title": "Convolution in CNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NrKBYFEksmr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NrKBYFEksmr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NrKBYFEksmr/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-123",
+          "title": "Keras & TensorFlow for CNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DKCRScXXcr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DKCRScXXcr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DKCRScXXcr/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-124",
+          "title": "CNN using Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gkt7gtFNXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gkt7gtFNXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gkt7gtFNXu/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-125",
+          "title": "Introduction to Transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynge656mMX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynge656mMX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynge656mMX/video.m3u8",
+          "duration": 1084,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-126",
+          "title": "Encoder Decoder Achitecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTjRcAHqyfm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTjRcAHqyfm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTjRcAHqyfm/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Dimensionality Reduction",
+      "lectures": [
+        {
+          "id": "td-machinelearning-127",
+          "title": "What is Dimensionality Reduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCMQZ26XzZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCMQZ26XzZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCMQZ26XzZ/video.m3u8",
+          "duration": 1207,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-128",
+          "title": "Principal Component Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDCuKShq92t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDCuKShq92t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDCuKShq92t/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-129",
+          "title": "PCA in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgMRjHuPgkB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgMRjHuPgkB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgMRjHuPgkB/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-130",
+          "title": "PCA using R",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sgH6kdEKjbb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sgH6kdEKjbb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sgH6kdEKjbb/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-131",
+          "title": "Linear Discriminant Analysis and Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SB5U3TyYrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SB5U3TyYrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SB5U3TyYrf/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-132",
+          "title": "Kernel PCA and Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zNpEDxfdJ7f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zNpEDxfdJ7f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zNpEDxfdJ7f/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Model Selection and Boosting",
+      "lectures": [
+        {
+          "id": "td-machinelearning-133",
+          "title": "K Fold Cross Validation & Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KpUA9NA9qJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KpUA9NA9qJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KpUA9NA9qJ/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-machinelearning-134",
+          "title": "Gradient Boosting for Classification Problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45H9P76MrCu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45H9P76MrCu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45H9P76MrCu/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capstone Project",
+      "lectures": [
+        {
+          "id": "td-machinelearning-135",
+          "title": "ML Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X2Cr7qbHzj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X2Cr7qbHzj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X2Cr7qbHzj/video.m3u8",
+          "duration": 2066,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Conclusion",
+      "lectures": [
+        {
+          "id": "td-machinelearning-136",
+          "title": "ML - Conclusion & Future Scope",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hp2px3xhJ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hp2px3xhJ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hp2px3xhJ2/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

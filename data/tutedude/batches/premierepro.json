@@ -1,0 +1,1280 @@
+{
+  "platform": "TuteDude",
+  "batchId": "premierepro",
+  "batchSlug": "premierepro",
+  "batchName": "Adobe Premiere Pro",
+  "thumbnail": "https://www.tutedude.com/assets/avif/premierepro.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/premierepro",
+  "totalSections": 15,
+  "totalLectures": 118,
+  "totalNotes": 12,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Intro to video editing",
+      "lectures": [
+        {
+          "id": "td-premierepro-1",
+          "title": "What is Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cgJ39jbJCF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cgJ39jbJCF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cgJ39jbJCF/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-2",
+          "title": "Types of Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6kPrAbGMCa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6kPrAbGMCa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6kPrAbGMCa/video.m3u8",
+          "duration": 932,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-3",
+          "title": "Audio Video Copyright Terminologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrQYfScATAb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrQYfScATAb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrQYfScATAb/video.m3u8",
+          "duration": 624,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-4",
+          "title": "Various Shot Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kqhnmr94UB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kqhnmr94UB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kqhnmr94UB/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-premierepro-5",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8",
+          "duration": 221,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to Download Premiere pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-6",
+          "title": "How to Download Premiere Pro Free",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99zgRREyASp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99zgRREyASp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99zgRREyASp/video.m3u8",
+          "duration": 528,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-7",
+          "title": "Download Using Other Sources",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUurXxfurkK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUurXxfurkK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUurXxfurkK/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-8",
+          "title": "Downloading the Full Software for Lifetine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2DzHT3XQsK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2DzHT3XQsK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2DzHT3XQsK/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Adobe Premiere",
+      "lectures": [
+        {
+          "id": "td-premierepro-9",
+          "title": "Installing Adobe Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmSd33AHRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmSd33AHRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmSd33AHRH/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-10",
+          "title": "Importing Video in Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sRNNfba8BfF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sRNNfba8BfF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sRNNfba8BfF/video.m3u8",
+          "duration": 854,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-11",
+          "title": "Importing images and logos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82EhYbQKRS2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82EhYbQKRS2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82EhYbQKRS2/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-12",
+          "title": "Animation Footages in timeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UdQx6h9Esu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UdQx6h9Esu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UdQx6h9Esu/video.m3u8",
+          "duration": 574,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-13",
+          "title": "Understanding Effect controls",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y6xsKbAAyH6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y6xsKbAAyH6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y6xsKbAAyH6/video.m3u8",
+          "duration": 516,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-14",
+          "title": "Editing tools in Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NFKtEzjPrCr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NFKtEzjPrCr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NFKtEzjPrCr/video.m3u8",
+          "duration": 771,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-15",
+          "title": "Working with Audio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XaEPuQ5XBG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XaEPuQ5XBG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XaEPuQ5XBG/video.m3u8",
+          "duration": 884,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-16",
+          "title": "Working with Text in Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mGT8U2DPEJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mGT8U2DPEJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mGT8U2DPEJ/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-17",
+          "title": "Mixing Videos and text with audio-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QSSBqQNxxk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QSSBqQNxxk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QSSBqQNxxk/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-18",
+          "title": "Mixing Videos and text with audio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A6C3cXCdsU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A6C3cXCdsU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A6C3cXCdsU/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-19",
+          "title": "Controlling Volume on Timeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kk9f2ZebNp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kk9f2ZebNp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kk9f2ZebNp/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-premierepro-5",
+          "title": "Recreate the Video",
+          "url": "https://www.canva.com/design/DAG-XffBs2Y/bFGAAOQ8DEvxnwxbW6f6vw/edit?utm_content=DAG-XffBs2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAG-XffBs2Y/bFGAAOQ8DEvxnwxbW6f6vw/edit?utm_content=DAG-XffBs2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAG-XffBs2Y/bFGAAOQ8DEvxnwxbW6f6vw/edit?utm_content=DAG-XffBs2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAG-XffBs2Y/bFGAAOQ8DEvxnwxbW6f6vw/edit?utm_content=DAG-XffBs2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Editing Videos with Premiere",
+      "lectures": [
+        {
+          "id": "td-premierepro-20",
+          "title": "Applying effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y8Adzt4bg8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y8Adzt4bg8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y8Adzt4bg8/video.m3u8",
+          "duration": 516,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-21",
+          "title": "Adjusting levels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Aqff7huDD3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Aqff7huDD3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Aqff7huDD3/video.m3u8",
+          "duration": 285,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-22",
+          "title": "Effects and Adjustments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tBSfgnJmBT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tBSfgnJmBT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tBSfgnJmBT/video.m3u8",
+          "duration": 762,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-23",
+          "title": "Stylized Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6az5DXyFgJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6az5DXyFgJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6az5DXyFgJe/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-24",
+          "title": "Effects and Transitions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHETZFqXC3R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHETZFqXC3R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHETZFqXC3R/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-25",
+          "title": "Text effects in Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C4MREne5tr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C4MREne5tr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C4MREne5tr/video.m3u8",
+          "duration": 816,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-26",
+          "title": "Chroma Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT9CE5hsqeD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT9CE5hsqeD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT9CE5hsqeD/video.m3u8",
+          "duration": 693,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-premierepro-7",
+          "title": "Effects - Presets ",
+          "url": "https://www.canva.com/design/DAHDJmsmI78/VY08qKgaS6AW2SEK9ZnZIw/edit?utm_content=DAHDJmsmI78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDJmsmI78/VY08qKgaS6AW2SEK9ZnZIw/edit?utm_content=DAHDJmsmI78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDJmsmI78/VY08qKgaS6AW2SEK9ZnZIw/edit?utm_content=DAHDJmsmI78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDJmsmI78/VY08qKgaS6AW2SEK9ZnZIw/edit?utm_content=DAHDJmsmI78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-8",
+          "title": "Effects & Attributes (Stylize Effects)",
+          "url": "https://www.canva.com/design/DAHDKLn-kmM/diHrZIXj4j4_PgmHCewPpQ/edit?utm_content=DAHDKLn-kmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDKLn-kmM/diHrZIXj4j4_PgmHCewPpQ/edit?utm_content=DAHDKLn-kmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDKLn-kmM/diHrZIXj4j4_PgmHCewPpQ/edit?utm_content=DAHDKLn-kmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDKLn-kmM/diHrZIXj4j4_PgmHCewPpQ/edit?utm_content=DAHDKLn-kmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-9",
+          "title": "Transitions (only)",
+          "url": "https://www.canva.com/design/DAHDKD9Ync4/uQQKV5bGMmlUAyQmj5f4IQ/edit?utm_content=DAHDKD9Ync4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDKD9Ync4/uQQKV5bGMmlUAyQmj5f4IQ/edit?utm_content=DAHDKD9Ync4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDKD9Ync4/uQQKV5bGMmlUAyQmj5f4IQ/edit?utm_content=DAHDKD9Ync4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDKD9Ync4/uQQKV5bGMmlUAyQmj5f4IQ/edit?utm_content=DAHDKD9Ync4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-10",
+          "title": "Chroma Effects (only)",
+          "url": "https://www.canva.com/design/DAHDKQkuxBk/cSzSE-I3dVmQdfkN-TKwew/edit?utm_content=DAHDKQkuxBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDKQkuxBk/cSzSE-I3dVmQdfkN-TKwew/edit?utm_content=DAHDKQkuxBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDKQkuxBk/cSzSE-I3dVmQdfkN-TKwew/edit?utm_content=DAHDKQkuxBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDKQkuxBk/cSzSE-I3dVmQdfkN-TKwew/edit?utm_content=DAHDKQkuxBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Color correction in Premiere Pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-27",
+          "title": "Introduction to color correction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMnQ8JMjRp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMnQ8JMjRp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMnQ8JMjRp/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-28",
+          "title": "Lumetri Scopes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rXH33mJdR5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rXH33mJdR5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rXH33mJdR5/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-29",
+          "title": "Color curves",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XgK7HFrd7pD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XgK7HFrd7pD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XgK7HFrd7pD/video.m3u8",
+          "duration": 526,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-30",
+          "title": "Adding Essential graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53nUPt24jJB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53nUPt24jJB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53nUPt24jJB/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with Text in Premiere Pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-31",
+          "title": "Importance fo Text effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKm9fakCna/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKm9fakCna/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKm9fakCna/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-32",
+          "title": "Glow text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PqA7hF8SzR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PqA7hF8SzR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PqA7hF8SzR/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-33",
+          "title": "Cinematic Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qENgcMMudx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qENgcMMudx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qENgcMMudx/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-34",
+          "title": "Text masking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXHRhTF8ENZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXHRhTF8ENZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXHRhTF8ENZ/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-35",
+          "title": "Burning Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XUjFdpJRC5Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XUjFdpJRC5Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XUjFdpJRC5Y/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-36",
+          "title": "More detailed Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rGx5DruzYek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rGx5DruzYek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rGx5DruzYek/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-37",
+          "title": "Text behind Castle-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcks32KxYb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcks32KxYb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcks32KxYb/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-38",
+          "title": "Text behind castle 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98BFxUaqEtg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98BFxUaqEtg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98BFxUaqEtg/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-39",
+          "title": "Creating frame for Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zptseNSfY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zptseNSfY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zptseNSfY/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-40",
+          "title": "Text appear in Frame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dN7E339b88d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dN7E339b88d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dN7E339b88d/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-41",
+          "title": "Slice Cut",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3epndNCg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3epndNCg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3epndNCg/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-42",
+          "title": "Write on effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eEsF8hnxKq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eEsF8hnxKq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eEsF8hnxKq/video.m3u8",
+          "duration": 405,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-43",
+          "title": "Digital Text Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dc2CkNgTEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dc2CkNgTEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dc2CkNgTEA/video.m3u8",
+          "duration": 1406,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-44",
+          "title": "Write on Effect in Detail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xKKQR5YQ5rx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xKKQR5YQ5rx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xKKQR5YQ5rx/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-45",
+          "title": "Slot machine Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNMjgcGzq7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNMjgcGzq7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNMjgcGzq7/video.m3u8",
+          "duration": 963,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-46",
+          "title": "Text masking Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64jMHH6ZED/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64jMHH6ZED/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64jMHH6ZED/video.m3u8",
+          "duration": 708,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-47",
+          "title": "Premade Transition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd4aUCD4zDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd4aUCD4zDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd4aUCD4zDZ/video.m3u8",
+          "duration": 1035,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-premierepro-13",
+          "title": "Color Corrections",
+          "url": "https://www.canva.com/design/DAHDKXNoo4g/jSA2J4SrH5byGmfsymYONg/edit?utm_content=DAHDKXNoo4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDKXNoo4g/jSA2J4SrH5byGmfsymYONg/edit?utm_content=DAHDKXNoo4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDKXNoo4g/jSA2J4SrH5byGmfsymYONg/edit?utm_content=DAHDKXNoo4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDKXNoo4g/jSA2J4SrH5byGmfsymYONg/edit?utm_content=DAHDKXNoo4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Editing For youtube Stories",
+      "lectures": [
+        {
+          "id": "td-premierepro-48",
+          "title": "Editing Youtube Stories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37HBmDC4Juy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37HBmDC4Juy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37HBmDC4Juy/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-49",
+          "title": "Shooting for youtube",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BCbEg9TjJa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BCbEg9TjJa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BCbEg9TjJa/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-50",
+          "title": "Importing Footage in Premiere Pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CBMp3cYrMb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CBMp3cYrMb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CBMp3cYrMb/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-51",
+          "title": "Arranging footages in premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gQXCbSRHhrn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gQXCbSRHhrn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gQXCbSRHhrn/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-52",
+          "title": "Editing Clips for stories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fT8nN6fJNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fT8nN6fJNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fT8nN6fJNe/video.m3u8",
+          "duration": 464,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-53",
+          "title": "Downloading Stock footages for stories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4JjYQM7Ma/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4JjYQM7Ma/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4JjYQM7Ma/video.m3u8",
+          "duration": 524,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-54",
+          "title": "Copyright-Free Audio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YGdGCqKde8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YGdGCqKde8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YGdGCqKde8/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-55",
+          "title": "Using Premiere Composers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TDtYYjJNUHC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TDtYYjJNUHC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TDtYYjJNUHC/video.m3u8",
+          "duration": 395,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-56",
+          "title": "Applying Stylized Transitions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsCaECRQSQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsCaECRQSQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsCaECRQSQ/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-57",
+          "title": "Applying Stock Footages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8emueQQd5Dg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8emueQQd5Dg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8emueQQd5Dg/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-58",
+          "title": "Text animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46TzttU3NYy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46TzttU3NYy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46TzttU3NYy/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-premierepro-15",
+          "title": "Text Masking",
+          "url": "https://www.canva.com/design/DAHDKyvlKlo/An4EF98H246VZsT0McOfUQ/edit?utm_content=DAHDKyvlKlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDKyvlKlo/An4EF98H246VZsT0McOfUQ/edit?utm_content=DAHDKyvlKlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDKyvlKlo/An4EF98H246VZsT0McOfUQ/edit?utm_content=DAHDKyvlKlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDKyvlKlo/An4EF98H246VZsT0McOfUQ/edit?utm_content=DAHDKyvlKlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-16",
+          "title": "Burning Effect",
+          "url": "https://www.canva.com/design/DAHDLOKCaYU/4E5U0qTlQ3QuDzcR5wPjVQ/edit?utm_content=DAHDLOKCaYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDLOKCaYU/4E5U0qTlQ3QuDzcR5wPjVQ/edit?utm_content=DAHDLOKCaYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDLOKCaYU/4E5U0qTlQ3QuDzcR5wPjVQ/edit?utm_content=DAHDLOKCaYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDLOKCaYU/4E5U0qTlQ3QuDzcR5wPjVQ/edit?utm_content=DAHDLOKCaYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-17",
+          "title": "Text Behind Object",
+          "url": "https://www.canva.com/design/DAHDLFpABOQ/D3EhCwrvX-qb8vmo0Q0FGQ/edit?utm_content=DAHDLFpABOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDLFpABOQ/D3EhCwrvX-qb8vmo0Q0FGQ/edit?utm_content=DAHDLFpABOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDLFpABOQ/D3EhCwrvX-qb8vmo0Q0FGQ/edit?utm_content=DAHDLFpABOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDLFpABOQ/D3EhCwrvX-qb8vmo0Q0FGQ/edit?utm_content=DAHDLFpABOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-18",
+          "title": "Text in frame + Slice Cut",
+          "url": "https://www.canva.com/design/DAHDLCZsTKs/0K07zKoIwPZrfyHBEFr2bw/edit?utm_content=DAHDLCZsTKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDLCZsTKs/0K07zKoIwPZrfyHBEFr2bw/edit?utm_content=DAHDLCZsTKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDLCZsTKs/0K07zKoIwPZrfyHBEFr2bw/edit?utm_content=DAHDLCZsTKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDLCZsTKs/0K07zKoIwPZrfyHBEFr2bw/edit?utm_content=DAHDLCZsTKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-19",
+          "title": "Slot Machine",
+          "url": "https://www.canva.com/design/DAHDLBretpI/RK4TtjyJ8pDPWMhVsApivg/edit?utm_content=DAHDLBretpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDLBretpI/RK4TtjyJ8pDPWMhVsApivg/edit?utm_content=DAHDLBretpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDLBretpI/RK4TtjyJ8pDPWMhVsApivg/edit?utm_content=DAHDLBretpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDLBretpI/RK4TtjyJ8pDPWMhVsApivg/edit?utm_content=DAHDLBretpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-premierepro-20",
+          "title": "Premade Transitions",
+          "url": "https://www.canva.com/design/DAHDLFtnRio/cXjTTA4QvewYavdoNDlgiQ/edit?utm_content=DAHDLFtnRio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAHDLFtnRio/cXjTTA4QvewYavdoNDlgiQ/edit?utm_content=DAHDLFtnRio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAHDLFtnRio/cXjTTA4QvewYavdoNDlgiQ/edit?utm_content=DAHDLFtnRio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAHDLFtnRio/cXjTTA4QvewYavdoNDlgiQ/edit?utm_content=DAHDLFtnRio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Color Correction Indepth",
+      "lectures": [
+        {
+          "id": "td-premierepro-59",
+          "title": "Understanding Color correction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BguYydGRk2c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BguYydGRk2c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BguYydGRk2c/video.m3u8",
+          "duration": 392,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-60",
+          "title": "Understanding Color Grading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UK93jYyDsq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UK93jYyDsq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UK93jYyDsq/video.m3u8",
+          "duration": 561,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-61",
+          "title": "Continue Color Grading and Correction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ez2UGpPs8j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ez2UGpPs8j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ez2UGpPs8j/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-62",
+          "title": "Applying Lumetri Colors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e2gbCpRGFY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e2gbCpRGFY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e2gbCpRGFY/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-63",
+          "title": "Colour Grading Presets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgCAg6gCsaT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgCAg6gCsaT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgCAg6gCsaT/video.m3u8",
+          "duration": 681,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-64",
+          "title": "Detail Color Grading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BKM9S6KgpD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BKM9S6KgpD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BKM9S6KgpD/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-65",
+          "title": "Secondary Colors and Masking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDnpUZr6eH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDnpUZr6eH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDnpUZr6eH/video.m3u8",
+          "duration": 507,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-66",
+          "title": "More Color Grading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dmXbCd6mzC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dmXbCd6mzC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dmXbCd6mzC7/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-67",
+          "title": "More Text animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2nhgCB9X8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2nhgCB9X8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2nhgCB9X8/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-68",
+          "title": "Rendering in Premiere Pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpC9ncNc87M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpC9ncNc87M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpC9ncNc87M/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working more efficiently with Premiere",
+      "lectures": [
+        {
+          "id": "td-premierepro-69",
+          "title": "Tips 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dc7gmcXeyh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dc7gmcXeyh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dc7gmcXeyh/video.m3u8",
+          "duration": 526,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-70",
+          "title": "Tips 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sFm6ybHqKQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sFm6ybHqKQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sFm6ybHqKQ/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-71",
+          "title": "Tips 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TZXPsNCbTb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TZXPsNCbTb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TZXPsNCbTb/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-72",
+          "title": "Tips 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4623C9FfRR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4623C9FfRR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4623C9FfRR2/video.m3u8",
+          "duration": 990,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-73",
+          "title": "Tips 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBbuCDxUspU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBbuCDxUspU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBbuCDxUspU/video.m3u8",
+          "duration": 285,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-74",
+          "title": "Tips 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zr2umB8YyY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zr2umB8YyY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zr2umB8YyY/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Shorts and Stories in Premiere Pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-75",
+          "title": "Preparing for Story video editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnDX5zFsG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnDX5zFsG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnDX5zFsG4/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-76",
+          "title": "Writing Script for Story videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4rYUHBhxS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4rYUHBhxS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4rYUHBhxS/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-77",
+          "title": "Recording audio for Story",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uUjEFsGkaz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uUjEFsGkaz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uUjEFsGkaz/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-78",
+          "title": "Refining Audio for Story",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XEny7GmMMY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XEny7GmMMY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XEny7GmMMY/video.m3u8",
+          "duration": 598,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-79",
+          "title": "Collecting Assestss for story",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nbCpj3T9NHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nbCpj3T9NHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nbCpj3T9NHF/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-80",
+          "title": "Assembling assets in Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfjS5fugRk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfjS5fugRk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfjS5fugRk/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-81",
+          "title": "Adding Background music ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pNuHUgDKQb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pNuHUgDKQb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pNuHUgDKQb/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-82",
+          "title": "Basic animation in Premiere pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAuA9x7eNfY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAuA9x7eNfY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAuA9x7eNfY/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-83",
+          "title": "Stock footage and chroma editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt3PkcxQqk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt3PkcxQqk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt3PkcxQqk/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-84",
+          "title": "Ading Masking effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9tSp6kPz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9tSp6kPz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9tSp6kPz9/video.m3u8",
+          "duration": 463,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-85",
+          "title": "Adding special effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47FStHMp8CN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47FStHMp8CN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47FStHMp8CN/video.m3u8",
+          "duration": 510,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-86",
+          "title": "Adding sound effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82Z8y7zSm5q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82Z8y7zSm5q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82Z8y7zSm5q/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-87",
+          "title": "Installing Premiere composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bmQZRT97uJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bmQZRT97uJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bmQZRT97uJ/video.m3u8",
+          "duration": 648,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-88",
+          "title": "Applying eeefcts through premiere composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKhxKjtYRHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKhxKjtYRHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKhxKjtYRHF/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-89",
+          "title": "Transitions in premiere composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TcJ48rxyzm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TcJ48rxyzm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TcJ48rxyzm/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-90",
+          "title": "Text animaton with premiere composer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8884GFPjM8S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8884GFPjM8S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8884GFPjM8S/video.m3u8",
+          "duration": 654,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Captions in Premiere Pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-91",
+          "title": "Understanding Captions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsTb7S9ctNE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsTb7S9ctNE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsTb7S9ctNE/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-92",
+          "title": "Captions 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94KucTHjfRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94KucTHjfRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94KucTHjfRH/video.m3u8",
+          "duration": 468,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-93",
+          "title": "Captions 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJZdyYYMg7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJZdyYYMg7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJZdyYYMg7/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-94",
+          "title": "Captions 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEPEJb8Ggh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEPEJb8Ggh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEPEJb8Ggh/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-95",
+          "title": "Captions 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ty3dfAeU9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ty3dfAeU9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ty3dfAeU9D/video.m3u8",
+          "duration": 526,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-96",
+          "title": "Captions 5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BReHHqypKGx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BReHHqypKGx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BReHHqypKGx/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-97",
+          "title": "Captions 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S53rn4SKk4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S53rn4SKk4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S53rn4SKk4/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-98",
+          "title": "Captions 7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB3phQq3FSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB3phQq3FSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB3phQq3FSz/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Editing for  social media",
+      "lectures": [
+        {
+          "id": "td-premierepro-99",
+          "title": "Preparing for scene setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcE6kc2CHZX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcE6kc2CHZX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcE6kc2CHZX/video.m3u8",
+          "duration": 568,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-100",
+          "title": "Applying Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtCgTDc6Yyh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtCgTDc6Yyh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtCgTDc6Yyh/video.m3u8",
+          "duration": 538,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-101",
+          "title": "Adding Background Score",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K2XzsT94TP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K2XzsT94TP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K2XzsT94TP/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-102",
+          "title": "Special effects Sound",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DgxqHS9zRS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DgxqHS9zRS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DgxqHS9zRS/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-103",
+          "title": "Continue working with sound",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KNz9Dmnqum/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KNz9Dmnqum/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KNz9Dmnqum/video.m3u8",
+          "duration": 950,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-104",
+          "title": "Essential Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJHCGpudSM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJHCGpudSM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJHCGpudSM/video.m3u8",
+          "duration": 874,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Music video Editing in Premiere",
+      "lectures": [
+        {
+          "id": "td-premierepro-105",
+          "title": "Organizing Footages for Music Video Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfJA3tTpJkg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfJA3tTpJkg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfJA3tTpJkg/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-106",
+          "title": "Adjustment Layer effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/beSr46xURzA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/beSr46xURzA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/beSr46xURzA/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-107",
+          "title": "Overlay Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jM2NrehD8q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jM2NrehD8q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jM2NrehD8q/video.m3u8",
+          "duration": 508,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-108",
+          "title": "Designing manual effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44hNptQAH9C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44hNptQAH9C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44hNptQAH9C/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-109",
+          "title": "Sync effects with music beats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NDadbfJfsH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NDadbfJfsH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NDadbfJfsH/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-110",
+          "title": "Reversing Footage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QJNzQqeXcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QJNzQqeXcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QJNzQqeXcH/video.m3u8",
+          "duration": 851,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Learning VFX with Adobe Premiere Pro",
+      "lectures": [
+        {
+          "id": "td-premierepro-111",
+          "title": "Intro to vfx in Premiere Pro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PXe6Uxanys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PXe6Uxanys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PXe6Uxanys/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-112",
+          "title": "Wire Removing Effect in Premiere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hk2AaH9mEj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hk2AaH9mEj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hk2AaH9mEj/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-113",
+          "title": "Refining Masks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DY8xk4RNcb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DY8xk4RNcb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DY8xk4RNcb/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-114",
+          "title": "Keyframe Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dr7xGUgB6G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dr7xGUgB6G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dr7xGUgB6G/video.m3u8",
+          "duration": 531,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-115",
+          "title": "Prepare for Scene to VFX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBYHQzQmpH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBYHQzQmpH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBYHQzQmpH/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-116",
+          "title": "Understanding Clean Plate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/D6QQ4ehrdsC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/D6QQ4ehrdsC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/D6QQ4ehrdsC/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-117",
+          "title": "Applying Magical Twist",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zs7CCR8tta/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zs7CCR8tta/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zs7CCR8tta/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-premierepro-118",
+          "title": "Finalizing the VFX scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByAQk44Pqan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByAQk44Pqan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByAQk44Pqan/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

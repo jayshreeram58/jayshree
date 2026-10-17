@@ -1,0 +1,1509 @@
+{
+  "platform": "TuteDude",
+  "batchId": "3dgamedevelopment",
+  "batchSlug": "3dgamedevelopment",
+  "batchName": "3D Game Development in Unity",
+  "thumbnail": "https://www.tutedude.com/assets/avif/3dgamedevelopment.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/3dgamedevelopment",
+  "totalSections": 7,
+  "totalLectures": 159,
+  "totalNotes": 2,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-2",
+          "title": "Intro to Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tcr8zPkRaZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tcr8zPkRaZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tcr8zPkRaZ/video.m3u8",
+          "duration": 695,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-3",
+          "title": "Theory Intro to Game Dev",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tte2BFbApN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tte2BFbApN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tte2BFbApN/video.m3u8",
+          "duration": 1806,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-4",
+          "title": "Unity hub",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hhm7B2S6zb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hhm7B2S6zb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hhm7B2S6zb/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-5",
+          "title": "Unity Engine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXPzUxb8jYe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXPzUxb8jYe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXPzUxb8jYe/video.m3u8",
+          "duration": 1567,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Obstacle Dodge",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-6",
+          "title": "Game Design and Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HAxapPNeea/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HAxapPNeea/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HAxapPNeea/video.m3u8",
+          "duration": 317,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-7",
+          "title": "Start Function and Update Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFYntdX6tp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFYntdX6tp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFYntdX6tp/video.m3u8",
+          "duration": 1302,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-8",
+          "title": "Variable",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MBU9qDJCrD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MBU9qDJCrD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MBU9qDJCrD/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-9",
+          "title": "SerializeField",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nQkqE7rhz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nQkqE7rhz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nQkqE7rhz7/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-10",
+          "title": "Input getAxis Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNeduGH2Jd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNeduGH2Jd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNeduGH2Jd/video.m3u8",
+          "duration": 1002,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-11",
+          "title": "Time DeltaTime",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRSmhUmQuBR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRSmhUmQuBR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRSmhUmQuBR/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-12",
+          "title": "Asset Store and Package Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Jmz4eh8p9F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Jmz4eh8p9F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Jmz4eh8p9F/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-13",
+          "title": "Cinemachine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rdUbGnfPUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rdUbGnfPUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rdUbGnfPUz/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-14",
+          "title": "Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtFDNSxk22u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtFDNSxk22u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtFDNSxk22u/video.m3u8",
+          "duration": 823,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-15",
+          "title": "Practicing Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSjkDxxBMAu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSjkDxxBMAu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSjkDxxBMAu/video.m3u8",
+          "duration": 574,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-16",
+          "title": "Basic Collision",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NygajTHtSb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NygajTHtSb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NygajTHtSb/video.m3u8",
+          "duration": 526,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-17",
+          "title": "OnCollisionEnter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmcHNSaEkT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmcHNSaEkT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmcHNSaEkT/video.m3u8",
+          "duration": 517,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-18",
+          "title": "GetComponent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFd8A78ynY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFd8A78ynY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFd8A78ynY/video.m3u8",
+          "duration": 738,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-19",
+          "title": "Score System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gfCy6EREKt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gfCy6EREKt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gfCy6EREKt/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-20",
+          "title": "Concept Of Time",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APU6QJCzK2e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APU6QJCzK2e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APU6QJCzK2e/video.m3u8",
+          "duration": 1248,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-21",
+          "title": "Tags",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mXNMC2Pjae/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mXNMC2Pjae/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mXNMC2Pjae/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-22",
+          "title": "Rotate Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phQmk4YJya/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phQmk4YJya/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phQmk4YJya/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-23",
+          "title": "Projectile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mfjbD79GQR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mfjbD79GQR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mfjbD79GQR/video.m3u8",
+          "duration": 1167,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-24",
+          "title": "Destroy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZDJGb2Kfz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZDJGb2Kfz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZDJGb2Kfz9/video.m3u8",
+          "duration": 805,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-25",
+          "title": "Trigger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YR5eTUhM8Zq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YR5eTUhM8Zq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YR5eTUhM8Zq/video.m3u8",
+          "duration": 1282,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-26",
+          "title": "Prefabs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AgygH5xsMt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AgygH5xsMt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AgygH5xsMt/video.m3u8",
+          "duration": 1282,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-27",
+          "title": "Unity Order of Execution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At6eStXBGjq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At6eStXBGjq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At6eStXBGjq/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-28",
+          "title": "Level Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuBAqsxnMz5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuBAqsxnMz5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuBAqsxnMz5/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-29",
+          "title": "Adding Obstacles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7seAuMt7eRE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7seAuMt7eRE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7seAuMt7eRE/video.m3u8",
+          "duration": 942,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-30",
+          "title": "Game Over",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AstqbKaKQtZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AstqbKaKQtZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AstqbKaKQtZ/video.m3u8",
+          "duration": 1123,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-31",
+          "title": "Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK2CgYsBXHx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK2CgYsBXHx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK2CgYsBXHx/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Rocket Boost",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-32",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G6th7XUNyj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G6th7XUNyj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G6th7XUNyj/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-33",
+          "title": "Import Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5XnQPb2Q9S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5XnQPb2Q9S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5XnQPb2Q9S/video.m3u8",
+          "duration": 1145,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-34",
+          "title": "Classes and Namespaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ytM8AaXNDg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ytM8AaXNDg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ytM8AaXNDg/video.m3u8",
+          "duration": 1133,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-35",
+          "title": "Input System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUcXHxmJfh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUcXHxmJfh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUcXHxmJfh/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-36",
+          "title": "Using AddRelativeForce Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nRSTDY4n6p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nRSTDY4n6p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nRSTDY4n6p/video.m3u8",
+          "duration": 1478,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-37",
+          "title": "Rotation Input",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ySqBuHMKMR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ySqBuHMKMR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ySqBuHMKMR/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-38",
+          "title": "Rotate the Rocket",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79EsFbnBfd8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79EsFbnBfd8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79EsFbnBfd8/video.m3u8",
+          "duration": 1208,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-39",
+          "title": "Basic Camera Follow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkfrnEyM23f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkfrnEyM23f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkfrnEyM23f/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-40",
+          "title": "Rigidbody Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C5MSkB6BfZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C5MSkB6BfZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C5MSkB6BfZ/video.m3u8",
+          "duration": 1004,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-41",
+          "title": "Basic Audio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RAmtNZK7qP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RAmtNZK7qP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RAmtNZK7qP/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-42",
+          "title": "Play AudioSource",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5neRaDt4EAq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5neRaDt4EAq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5neRaDt4EAq/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-43",
+          "title": "Switch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hyXHNyY8Jr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hyXHNyY8Jr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hyXHNyY8Jr/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-44",
+          "title": "Reload Scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tuTuUng4FK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tuTuUng4FK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tuTuUng4FK/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-45",
+          "title": "Load Next scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGNdHTp7fF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGNdHTp7fF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGNdHTp7fF/video.m3u8",
+          "duration": 1236,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-46",
+          "title": "Using Invoke",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNS2YxCGsTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNS2YxCGsTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNS2YxCGsTk/video.m3u8",
+          "duration": 1059,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-47",
+          "title": "Code Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43tBQFZnzRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43tBQFZnzRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43tBQFZnzRH/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-48",
+          "title": "Playing multiple sounds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T4XhTNHGC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T4XhTNHGC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T4XhTNHGC7/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-49",
+          "title": "Bool states",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4usZUdF3Ye2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4usZUdF3Ye2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4usZUdF3Ye2/video.m3u8",
+          "duration": 933,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-50",
+          "title": "Intro to particles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sMypn5F9YE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sMypn5F9YE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sMypn5F9YE/video.m3u8",
+          "duration": 1151,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-51",
+          "title": "Thrust Particle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UEnzqCaBnzJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UEnzqCaBnzJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UEnzqCaBnzJ/video.m3u8",
+          "duration": 1316,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-52",
+          "title": "Debug keys",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MCszSg9xeF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MCszSg9xeF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MCszSg9xeF/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-53",
+          "title": "Assets and Colliders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65UfxNa8nuE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65UfxNa8nuE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65UfxNa8nuE/video.m3u8",
+          "duration": 1223,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-54",
+          "title": "Creating Level Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyqKXEj4cN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyqKXEj4cN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyqKXEj4cN/video.m3u8",
+          "duration": 1271,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-55",
+          "title": "Tuning The Game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XnKUR4yybN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XnKUR4yybN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XnKUR4yybN/video.m3u8",
+          "duration": 844,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-56",
+          "title": "Set Dressing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y7Uhcpr84X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y7Uhcpr84X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y7Uhcpr84X/video.m3u8",
+          "duration": 944,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-57",
+          "title": "Rocket Boost Post Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uzbyY9p53Eu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uzbyY9p53Eu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uzbyY9p53Eu/video.m3u8",
+          "duration": 729,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-58",
+          "title": "Intro to Lighting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xr9GHn8CxX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xr9GHn8CxX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xr9GHn8CxX/video.m3u8",
+          "duration": 1939,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-59",
+          "title": "Prefabs and Levels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTZYDP3erM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTZYDP3erM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTZYDP3erM/video.m3u8",
+          "duration": 645,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-60",
+          "title": "Oscillator Obstacle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZqgBRfHJm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZqgBRfHJm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZqgBRfHJm3/video.m3u8",
+          "duration": 1174,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-61",
+          "title": "Quit Functionality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99xU8ZsBnAb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99xU8ZsBnAb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99xU8ZsBnAb/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-62",
+          "title": "Design Ideas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tPycH8mNdtt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tPycH8mNdtt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tPycH8mNdtt/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-63",
+          "title": "Build the game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P83cNrpR9a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P83cNrpR9a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P83cNrpR9a/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-64",
+          "title": "Rocket Boost Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97ZPTFX8g8C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97ZPTFX8g8C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97ZPTFX8g8C/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Galaxy Strike",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-65",
+          "title": "Galaxy Strike Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5PYsE989KU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5PYsE989KU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5PYsE989KU/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-66",
+          "title": "Terrain Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BxZyCJDnCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BxZyCJDnCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BxZyCJDnCA/video.m3u8",
+          "duration": 1108,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-67",
+          "title": "Advanced Terrain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJYmyzgu4U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJYmyzgu4U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJYmyzgu4U/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-68",
+          "title": "Texturing Terrain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JhXX4FHKf9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JhXX4FHKf9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JhXX4FHKf9/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-69",
+          "title": "Master Timeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3KGB9AjB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3KGB9AjB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3KGB9AjB/video.m3u8",
+          "duration": 1309,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-70",
+          "title": "Animation Curves",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bpx6css3J7c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bpx6css3J7c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bpx6css3J7c/video.m3u8",
+          "duration": 1151,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-71",
+          "title": "Enemy Timeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyG7TGSyak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyG7TGSyak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyG7TGSyak/video.m3u8",
+          "duration": 528,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-72",
+          "title": "Input Action map",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gbuPRMjRgG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gbuPRMjRgG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gbuPRMjRgG/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-73",
+          "title": "Player Ship Movement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNNBe99aEB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNNBe99aEB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNNBe99aEB/video.m3u8",
+          "duration": 808,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-74",
+          "title": "Mathf Clamp Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ShqGzqkRHM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ShqGzqkRHM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ShqGzqkRHM/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-75",
+          "title": "Roll Ship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZbHxRFDgj9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZbHxRFDgj9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZbHxRFDgj9/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-76",
+          "title": "Roll Lerp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QuRzqk5P3n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QuRzqk5P3n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QuRzqk5P3n/video.m3u8",
+          "duration": 423,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-77",
+          "title": "Pitch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G3Dkdp3cJm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G3Dkdp3cJm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G3Dkdp3cJm/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-78",
+          "title": "Particle System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA6sFN2kgee/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA6sFN2kgee/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA6sFN2kgee/video.m3u8",
+          "duration": 1140,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-79",
+          "title": "Laser Fire Input",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9Z2xeAqAG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9Z2xeAqAG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9Z2xeAqAG/video.m3u8",
+          "duration": 1146,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-80",
+          "title": "Arrays and Foreach Loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCpbt7m2CB4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCpbt7m2CB4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCpbt7m2CB4/video.m3u8",
+          "duration": 836,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-81",
+          "title": "Crosshair",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UzxfbZrujh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UzxfbZrujh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UzxfbZrujh/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-82",
+          "title": "Tracking target",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t63MfxnXnG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t63MfxnXnG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t63MfxnXnG/video.m3u8",
+          "duration": 730,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-83",
+          "title": "Vector Arithmetic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTFEJn2bty/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTFEJn2bty/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTFEJn2bty/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-84",
+          "title": "Collision",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5Exah48xG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5Exah48xG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5Exah48xG/video.m3u8",
+          "duration": 680,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-85",
+          "title": "Particle Collision",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ApYY85abd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ApYY85abd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ApYY85abd/video.m3u8",
+          "duration": 206,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-86",
+          "title": "Explosion Particles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EBcrDBfKQG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EBcrDBfKQG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EBcrDBfKQG/video.m3u8",
+          "duration": 1097,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-87",
+          "title": "Prefab Variants",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B638zMD4ZD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B638zMD4ZD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B638zMD4ZD/video.m3u8",
+          "duration": 2106,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-88",
+          "title": "Enemy Ship Variants",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qbH4EFSktn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qbH4EFSktn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qbH4EFSktn/video.m3u8",
+          "duration": 1004,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-89",
+          "title": "Enemy hit points",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFPpZheb6c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFPpZheb6c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFPpZheb6c/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-90",
+          "title": "Public methods In C Sharp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AssJShSGUNu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AssJShSGUNu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AssJShSGUNu/video.m3u8",
+          "duration": 1530,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-91",
+          "title": "UI Canvas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JjDQBAdGMJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JjDQBAdGMJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JjDQBAdGMJ/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-92",
+          "title": "Score UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HHERg8sdB9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HHERg8sdB9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HHERg8sdB9/video.m3u8",
+          "duration": 682,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-93",
+          "title": "Enemy Waves",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kAtGYgJmGh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kAtGYgJmGh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kAtGYgJmGh/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-94",
+          "title": "Voicelines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5MtYHXhNgk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5MtYHXhNgk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5MtYHXhNgk/video.m3u8",
+          "duration": 555,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-95",
+          "title": "Skybox",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mJ7hPRh3KX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mJ7hPRh3KX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mJ7hPRh3KX/video.m3u8",
+          "duration": 924,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-96",
+          "title": "Adding Trees In Game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQhmuDPqBN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQhmuDPqBN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQhmuDPqBN/video.m3u8",
+          "duration": 1065,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-97",
+          "title": "Common Issues with Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95RbxTPRzTy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95RbxTPRzTy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95RbxTPRzTy/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-98",
+          "title": "Rendering Lidgting and Shadows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pPaDRH3qkT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pPaDRH3qkT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pPaDRH3qkT/video.m3u8",
+          "duration": 864,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-99",
+          "title": "Reload Coroutines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ARG2YaA3fC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ARG2YaA3fC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ARG2YaA3fC/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-100",
+          "title": "Music Singleton",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SeghgmJaTZY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SeghgmJaTZY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SeghgmJaTZY/video.m3u8",
+          "duration": 887,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-101",
+          "title": "Galaxy Strike Post Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NU9cZGJJJZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NU9cZGJJJZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NU9cZGJJJZ/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-102",
+          "title": "Subtitles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdBY4rAnKjN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdBY4rAnKjN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdBY4rAnKjN/video.m3u8",
+          "duration": 1445,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-103",
+          "title": "Vertical Slice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxGSNA2NC9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxGSNA2NC9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxGSNA2NC9/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-104",
+          "title": "Galaxy Strike Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4m9qsufXday/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4m9qsufXday/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4m9qsufXday/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-3dgamedevelopment-6",
+          "title": "Assignment-1 : Galaxy Strike - Vertical Slice",
+          "url": "https://docs.google.com/document/d/18vpX5jKqy7E0q6iQTwcNaWrBo6_ZhUbV_-rRVCKZGv4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/18vpX5jKqy7E0q6iQTwcNaWrBo6_ZhUbV_-rRVCKZGv4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/18vpX5jKqy7E0q6iQTwcNaWrBo6_ZhUbV_-rRVCKZGv4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/18vpX5jKqy7E0q6iQTwcNaWrBo6_ZhUbV_-rRVCKZGv4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Royal Run",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-105",
+          "title": "INTRO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Pst225GkPn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Pst225GkPn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Pst225GkPn/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-106",
+          "title": "Importing Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYkstd3HnyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYkstd3HnyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYkstd3HnyH/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-107",
+          "title": "Level Generation Theory Part",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XCsXzmrUmY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XCsXzmrUmY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XCsXzmrUmY/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-108",
+          "title": "Level Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfTUacmdZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfTUacmdZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfTUacmdZR/video.m3u8",
+          "duration": 1682,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-109",
+          "title": "Moving Chunks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Cc4s3rm4URr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Cc4s3rm4URr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Cc4s3rm4URr/video.m3u8",
+          "duration": 1341,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-110",
+          "title": "C Sharp Lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kQDk3kBeuQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kQDk3kBeuQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kQDk3kBeuQ/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-111",
+          "title": "Input Actions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mgjXdbuDt5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mgjXdbuDt5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mgjXdbuDt5/video.m3u8",
+          "duration": 996,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-112",
+          "title": "Move Player",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrteFbRtsED/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrteFbRtsED/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrteFbRtsED/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-113",
+          "title": "Clamp Movement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/563ARDxMBGJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/563ARDxMBGJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/563ARDxMBGJ/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-114",
+          "title": "Spawn Obstacle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fDhg9ZAPku/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fDhg9ZAPku/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fDhg9ZAPku/video.m3u8",
+          "duration": 1427,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-115",
+          "title": "Physics Materials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTmJmQ2nsg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTmJmQ2nsg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTmJmQ2nsg/video.m3u8",
+          "duration": 1027,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-116",
+          "title": "Royal Run Prefab Variants",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YdNqR2qtFR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YdNqR2qtFR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YdNqR2qtFR/video.m3u8",
+          "duration": 907,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-117",
+          "title": "More Obstacles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QKAHs44yST/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QKAHs44yST/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QKAHs44yST/video.m3u8",
+          "duration": 1162,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-118",
+          "title": "Fences",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JKcqPqHtRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JKcqPqHtRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JKcqPqHtRG/video.m3u8",
+          "duration": 962,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-119",
+          "title": "Lane Detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQkcrzgxeNm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQkcrzgxeNm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQkcrzgxeNm/video.m3u8",
+          "duration": 1345,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-120",
+          "title": "Destroying Obstacles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fbXy6SeExk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fbXy6SeExk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fbXy6SeExk/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-121",
+          "title": "Score",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStj3paSRHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStj3paSRHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStj3paSRHF/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-122",
+          "title": "Adding Coins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CZNGBUfqpZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CZNGBUfqpZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CZNGBUfqpZ/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-123",
+          "title": "Coin Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3XRGpnXq63/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3XRGpnXq63/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3XRGpnXq63/video.m3u8",
+          "duration": 1032,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-124",
+          "title": "Fence Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58633uMsazD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58633uMsazD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58633uMsazD/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-125",
+          "title": "Trigger animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAnuRmnKZn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAnuRmnKZn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAnuRmnKZn/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-126",
+          "title": "Royal Run Game Over",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NPtferbXx7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NPtferbXx7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NPtferbXx7/video.m3u8",
+          "duration": 1141,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-127",
+          "title": "Royal Run Post Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkxM8JSupGJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkxM8JSupGJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkxM8JSupGJ/video.m3u8",
+          "duration": 565,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sharp Shooter",
+      "lectures": [
+        {
+          "id": "td-3dgamedevelopment-128",
+          "title": "Sharp Shooter Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y9y2Y9jdGNG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y9y2Y9jdGNG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y9y2Y9jdGNG/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-129",
+          "title": "Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AApzBHEz7ed/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AApzBHEz7ed/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AApzBHEz7ed/video.m3u8",
+          "duration": 1907,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-130",
+          "title": "Nav Mesh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYpjmuH2sz5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYpjmuH2sz5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYpjmuH2sz5/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-131",
+          "title": "Nav Mesh Agents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZaQ5csHt6G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZaQ5csHt6G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZaQ5csHt6G/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-132",
+          "title": "Sharp Shooter Importing Assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ2h3yT69qG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ2h3yT69qG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ2h3yT69qG/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-133",
+          "title": "Equip Gun",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKjJjUNtDy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKjJjUNtDy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKjJjUNtDy/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-134",
+          "title": "Raycast",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zyTcMFq56T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zyTcMFq56T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zyTcMFq56T/video.m3u8",
+          "duration": 1323,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-135",
+          "title": "Enemy Health",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5HYk6DFKEZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5HYk6DFKEZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5HYk6DFKEZ/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-136",
+          "title": "Probuilder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U82AhmnRnr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U82AhmnRnr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U82AhmnRnr/video.m3u8",
+          "duration": 1292,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-137",
+          "title": "Probuilder Level Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8haCn47fAZe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8haCn47fAZe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8haCn47fAZe/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-138",
+          "title": "Visual Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GeY645uja7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GeY645uja7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GeY645uja7/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-139",
+          "title": "Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SnJ6RS9fZ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SnJ6RS9fZ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SnJ6RS9fZ3/video.m3u8",
+          "duration": 1026,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-140",
+          "title": "Adding Muzzle FX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZAruZEkuMZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZAruZEkuMZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZAruZEkuMZ/video.m3u8",
+          "duration": 802,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-141",
+          "title": "Hit fx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYQ4UnHDeZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYQ4UnHDeZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYQ4UnHDeZ/video.m3u8",
+          "duration": 1173,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-142",
+          "title": "Scene Prep",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC8y4HkuFnu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC8y4HkuFnu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC8y4HkuFnu/video.m3u8",
+          "duration": 712,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-143",
+          "title": "Scriptable Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/688AzdTpK37/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/688AzdTpK37/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/688AzdTpK37/video.m3u8",
+          "duration": 1142,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-144",
+          "title": "Shoot Cooldown",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeXXJmUZu3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeXXJmUZu3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeXXJmUZu3/video.m3u8",
+          "duration": 1037,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-145",
+          "title": "Machine Gun",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cm9SUAzKEb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cm9SUAzKEb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cm9SUAzKEb/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-146",
+          "title": "Weapon Pickups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNrMygS6hY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNrMygS6hY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNrMygS6hY/video.m3u8",
+          "duration": 1013,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-147",
+          "title": "Switching Sniper",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BecYSe5B3Mk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BecYSe5B3Mk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BecYSe5B3Mk/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-148",
+          "title": "Switching Weapons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E9tNKRdB6k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E9tNKRdB6k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E9tNKRdB6k/video.m3u8",
+          "duration": 793,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-149",
+          "title": "Sniper Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsE6H54tsQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsE6H54tsQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsE6H54tsQ/video.m3u8",
+          "duration": 685,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-150",
+          "title": "Sniper Zoom",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkKxh3jcfGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkKxh3jcfGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkKxh3jcfGd/video.m3u8",
+          "duration": 1907,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-151",
+          "title": "Pickup and inheritence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fbu9xbtcCT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fbu9xbtcCT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fbu9xbtcCT/video.m3u8",
+          "duration": 1435,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-152",
+          "title": "Function Overrides",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sR3kZQNnR7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sR3kZQNnR7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sR3kZQNnR7/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-153",
+          "title": "Ammo Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7EqrPnqSp7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7EqrPnqSp7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7EqrPnqSp7/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-154",
+          "title": "Ammo Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nHJ23KxxUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nHJ23KxxUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nHJ23KxxUf/video.m3u8",
+          "duration": 1010,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-155",
+          "title": "Ammo Pickup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eXB2yUu6m2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eXB2yUu6m2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eXB2yUu6m2/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-156",
+          "title": "Weapon Viewport",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34GpCGHBPJN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34GpCGHBPJN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34GpCGHBPJN/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-157",
+          "title": "Robot Self Destoy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFT6hj87scH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFT6hj87scH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFT6hj87scH/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-158",
+          "title": "Player Damage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dsZGmQbcrU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dsZGmQbcrU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dsZGmQbcrU/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-3dgamedevelopment-159",
+          "title": "Project End",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rjdztsPhBs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rjdztsPhBs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rjdztsPhBs/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-3dgamedevelopment-9",
+          "title": "Assignment-2 : Sharp Shooter – FPV combat demo",
+          "url": "https://docs.google.com/document/d/10YAQp_3Ku88gYPYvXo622Xx6voSs2JD1h3dMH9GhMxI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/10YAQp_3Ku88gYPYvXo622Xx6voSs2JD1h3dMH9GhMxI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/10YAQp_3Ku88gYPYvXo622Xx6voSs2JD1h3dMH9GhMxI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/10YAQp_3Ku88gYPYvXo622Xx6voSs2JD1h3dMH9GhMxI/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

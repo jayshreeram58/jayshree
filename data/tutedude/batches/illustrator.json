@@ -1,0 +1,788 @@
+{
+  "platform": "TuteDude",
+  "batchId": "illustrator",
+  "batchSlug": "illustrator",
+  "batchName": "Illustrator",
+  "thumbnail": "https://www.tutedude.com/assets/avif/illustrator.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/illustrator",
+  "totalSections": 11,
+  "totalLectures": 74,
+  "totalNotes": 4,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-illustrator-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started with Illustrator",
+      "lectures": [
+        {
+          "id": "td-illustrator-2",
+          "title": "Illustrator Interface & Workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aKS2XFrtY5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aKS2XFrtY5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aKS2XFrtY5/video.m3u8",
+          "duration": 1389,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-3",
+          "title": "Creating and Managing Documents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5paNp3MqPrX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5paNp3MqPrX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5paNp3MqPrX/video.m3u8",
+          "duration": 1564,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-4",
+          "title": "Exploring the Basic Shpes2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhANQS3Grf9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhANQS3Grf9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhANQS3Grf9/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-5",
+          "title": "Cut, Copy, Paste and Duplicate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjRqr3dk3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjRqr3dk3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjRqr3dk3e/video.m3u8",
+          "duration": 718,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-6",
+          "title": "Uses of Arrangement Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgtzsnt9zNU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgtzsnt9zNU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgtzsnt9zNU/video.m3u8",
+          "duration": 492,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-7",
+          "title": "Understanding the Alignments of Shapes and Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdy2PPEGcSb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdy2PPEGcSb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdy2PPEGcSb/video.m3u8",
+          "duration": 1277,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-8",
+          "title": "What is Clipping Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AQT3bncnXk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AQT3bncnXk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AQT3bncnXk/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-9",
+          "title": "Importing and Exporting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45EMu7DDJJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45EMu7DDJJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45EMu7DDJJU/video.m3u8",
+          "duration": 1304,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-10",
+          "title": "Creating Graphics by Using Basic Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xzRntmHh94B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xzRntmHh94B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xzRntmHh94B/video.m3u8",
+          "duration": 1063,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with Shapes and Tools",
+      "lectures": [
+        {
+          "id": "td-illustrator-11",
+          "title": "Uses of Pen Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75MBGeuGA9h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75MBGeuGA9h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75MBGeuGA9h/video.m3u8",
+          "duration": 1495,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-12",
+          "title": "Exploring Curvature Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JxgdmEUPZj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JxgdmEUPZj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JxgdmEUPZj/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-13",
+          "title": "Exploring the Pencil Tool Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hQNhEzD2Pc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hQNhEzD2Pc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hQNhEzD2Pc/video.m3u8",
+          "duration": 957,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-14",
+          "title": "Type of Brush Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tCJEhqyhtG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tCJEhqyhtG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tCJEhqyhtG/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-15",
+          "title": "Process to Add and Manage Addition Brushes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B635pmucre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B635pmucre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B635pmucre/video.m3u8",
+          "duration": 1627,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-16",
+          "title": "Understanding the Uses of Shape Builder Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smUjmRNjnB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smUjmRNjnB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smUjmRNjnB/video.m3u8",
+          "duration": 1434,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-17",
+          "title": "Exploring the Pathfinder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARNTuJmR6QH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARNTuJmR6QH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARNTuJmR6QH/video.m3u8",
+          "duration": 954,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-18",
+          "title": "Icons Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YzTnfrY4ED/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YzTnfrY4ED/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YzTnfrY4ED/video.m3u8",
+          "duration": 1947,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-19",
+          "title": "Creating Vector Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Kq5eHjuUPJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Kq5eHjuUPJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Kq5eHjuUPJ/video.m3u8",
+          "duration": 2494,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Colors and Appearance",
+      "lectures": [
+        {
+          "id": "td-illustrator-20",
+          "title": "Fill and Stroke Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sm7DJtEEQG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sm7DJtEEQG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sm7DJtEEQG/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-21",
+          "title": "Color Swatches and Gradients",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eA7AYy4hnA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eA7AYy4hnA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eA7AYy4hnA/video.m3u8",
+          "duration": 2384,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-22",
+          "title": "Transparency and Blending Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bukdpBtdte/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bukdpBtdte/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bukdpBtdte/video.m3u8",
+          "duration": 1687,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-23",
+          "title": "Exploring the Hidden Features of Appearance Panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XD6bpuj4FX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XD6bpuj4FX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XD6bpuj4FX/video.m3u8",
+          "duration": 653,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-24",
+          "title": "Working with Mesh Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G6jszh48TC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G6jszh48TC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G6jszh48TC/video.m3u8",
+          "duration": 1036,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-illustrator-5",
+          "title": "Assignment 1: Motivational Poster",
+          "url": "https://docs.google.com/document/d/1Zzsoifp6P8SN5zi8XFL0DK3HbX1oulGgS3cGEiCqaTQ/edit?tab=t.0#heading=h.jyolx2rx0hii",
+          "pdfUrl": "https://docs.google.com/document/d/1Zzsoifp6P8SN5zi8XFL0DK3HbX1oulGgS3cGEiCqaTQ/edit?tab=t.0#heading=h.jyolx2rx0hii",
+          "playerUrl": "https://docs.google.com/document/d/1Zzsoifp6P8SN5zi8XFL0DK3HbX1oulGgS3cGEiCqaTQ/edit?tab=t.0#heading=h.jyolx2rx0hii",
+          "downloadUrl": "https://docs.google.com/document/d/1Zzsoifp6P8SN5zi8XFL0DK3HbX1oulGgS3cGEiCqaTQ/edit?tab=t.0#heading=h.jyolx2rx0hii",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Typography Style in Illustrator",
+      "lectures": [
+        {
+          "id": "td-illustrator-25",
+          "title": "Working with Type Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9XYJ9KDtM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9XYJ9KDtM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9XYJ9KDtM/video.m3u8",
+          "duration": 908,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-26",
+          "title": "Downloading Installation and Uses of fonts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SDsbdSaHhZx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SDsbdSaHhZx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SDsbdSaHhZx/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-27",
+          "title": "Paragraph Style Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44grNnz8yfE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44grNnz8yfE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44grNnz8yfE/video.m3u8",
+          "duration": 1190,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-28",
+          "title": "Different Fill Options for Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKcSqKcMqyh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKcSqKcMqyh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UKcSqKcMqyh/video.m3u8",
+          "duration": 1378,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-29",
+          "title": "Area Type Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUkPkKRkbTz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUkPkKRkbTz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUkPkKRkbTz/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-30",
+          "title": "Verticle Type Tool Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BRT4Q5pUG5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BRT4Q5pUG5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BRT4Q5pUG5/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-31",
+          "title": "Type on Path",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhkXEfH29KA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhkXEfH29KA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhkXEfH29KA/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-32",
+          "title": "Text Effects and Outlining Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hYExx8rHjy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hYExx8rHjy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hYExx8rHjy/video.m3u8",
+          "duration": 2831,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-33",
+          "title": "Random Text Distortion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gFXyrQmbAz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gFXyrQmbAz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gFXyrQmbAz/video.m3u8",
+          "duration": 1811,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-34",
+          "title": "Typography Style Poster Designs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SaXx4tGfHC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SaXx4tGfHC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SaXx4tGfHC/video.m3u8",
+          "duration": 2256,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Important Tools and Panels of Illustrator",
+      "lectures": [
+        {
+          "id": "td-illustrator-35",
+          "title": "Understanding the Layer Panel Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GKd9JR62m2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GKd9JR62m2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GKd9JR62m2/video.m3u8",
+          "duration": 1300,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-36",
+          "title": "Uses of Selection Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJrTZrs2EEG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJrTZrs2EEG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJrTZrs2EEG/video.m3u8",
+          "duration": 988,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-37",
+          "title": "Distortion Tools Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pkSn4dyGPJ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pkSn4dyGPJ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pkSn4dyGPJ9/video.m3u8",
+          "duration": 854,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-38",
+          "title": "Eraser Scissors and Knife Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45YXEASkcYb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45YXEASkcYb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45YXEASkcYb/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-39",
+          "title": "Scale Shear and Reshape Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHNMgzzj9P3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHNMgzzj9P3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MHNMgzzj9P3/video.m3u8",
+          "duration": 742,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-40",
+          "title": "Free Transform and Puppet Wrap Tool Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4acsBq2PUQf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4acsBq2PUQf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4acsBq2PUQf/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-41",
+          "title": "Live Paint Bucket Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qkTDSMzMaK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qkTDSMzMaK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qkTDSMzMaK/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-42",
+          "title": "Objects on Path",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3csXHHnNm6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3csXHHnNm6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3csXHHnNm6/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-43",
+          "title": "Hidden Features of Sprayer Tool  Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YgspTnbfak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YgspTnbfak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YgspTnbfak/video.m3u8",
+          "duration": 1517,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-44",
+          "title": "Using the Repeat Command in Object Menu",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7yuzju7uGH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7yuzju7uGH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7yuzju7uGH/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-45",
+          "title": "Exploring Stylize Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsBN3egGZdc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsBN3egGZdc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsBN3egGZdc/video.m3u8",
+          "duration": 1792,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-46",
+          "title": "Applying Artistic Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TkdkKczM3j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TkdkKczM3j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TkdkKczM3j/video.m3u8",
+          "duration": 1177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pattern Design",
+      "lectures": [
+        {
+          "id": "td-illustrator-47",
+          "title": "Exploring the Pattern Designing Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JJSTEmPz7D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JJSTEmPz7D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JJSTEmPz7D/video.m3u8",
+          "duration": 2088,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-48",
+          "title": "Create Seamless Pattern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68uKNQsUkES/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68uKNQsUkES/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68uKNQsUkES/video.m3u8",
+          "duration": 986,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-illustrator-9",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1DQoSIsYWgUxl6Dw0aFGRv5JQesHk0627CTtTbytUmJs/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1DQoSIsYWgUxl6Dw0aFGRv5JQesHk0627CTtTbytUmJs/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1DQoSIsYWgUxl6Dw0aFGRv5JQesHk0627CTtTbytUmJs/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1DQoSIsYWgUxl6Dw0aFGRv5JQesHk0627CTtTbytUmJs/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "3D and Materials",
+      "lectures": [
+        {
+          "id": "td-illustrator-49",
+          "title": "Basics of 3D",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YdRC7fezyJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YdRC7fezyJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YdRC7fezyJ/video.m3u8",
+          "duration": 1066,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-50",
+          "title": "3D Objects Types and Properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7grCkh54HxD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7grCkh54HxD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7grCkh54HxD/video.m3u8",
+          "duration": 1995,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-51",
+          "title": "Applying Materials to 3D Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/btx6tGF8YEf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/btx6tGF8YEf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/btx6tGF8YEf/video.m3u8",
+          "duration": 1535,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-52",
+          "title": "Adding Lighting and Shadow to 3D Models then Render",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF5rj9zUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF5rj9zUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF5rj9zUM/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-53",
+          "title": "3D Object and Mockup Designing Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Pn8x8PeFDMy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Pn8x8PeFDMy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Pn8x8PeFDMy/video.m3u8",
+          "duration": 2852,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-54",
+          "title": "3D Typography Post and Poster Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZKCGu7Jznj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZKCGu7Jznj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZKCGu7Jznj/video.m3u8",
+          "duration": 1559,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-55",
+          "title": "Isometric Grid and Usecase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ek3PeXP4Dr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ek3PeXP4Dr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ek3PeXP4Dr/video.m3u8",
+          "duration": 1706,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Vector Illustration Techniques",
+      "lectures": [
+        {
+          "id": "td-illustrator-56",
+          "title": "Flat Vector Graphics Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpy7d2ShpP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpy7d2ShpP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpy7d2ShpP/video.m3u8",
+          "duration": 2902,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-57",
+          "title": "Creating Fruits Illustration for Kids Story Book",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqhF7t4A8Hs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqhF7t4A8Hs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqhF7t4A8Hs/video.m3u8",
+          "duration": 1526,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-58",
+          "title": "Human Character Illustration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69hhZFrBkS2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69hhZFrBkS2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69hhZFrBkS2/video.m3u8",
+          "duration": 3529,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-59",
+          "title": "Cartoon Character illustration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BedY9gnmXFz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BedY9gnmXFz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BedY9gnmXFz/video.m3u8",
+          "duration": 1627,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-60",
+          "title": "Vector Scenery Illustration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn5RgnTJBj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn5RgnTJBj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn5RgnTJBj/video.m3u8",
+          "duration": 2444,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-61",
+          "title": "Duplex Design Illustration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQP7muxrnQU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQP7muxrnQU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQP7muxrnQU/video.m3u8",
+          "duration": 6378,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-62",
+          "title": "Converting Sketch to Vector with Tracing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jm4GjYF5cJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jm4GjYF5cJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jm4GjYF5cJ/video.m3u8",
+          "duration": 2263,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-63",
+          "title": "Converting Raster Graphics to Vector",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Fq33YxpS7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Fq33YxpS7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Fq33YxpS7/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Logo Designing Process",
+      "lectures": [
+        {
+          "id": "td-illustrator-64",
+          "title": "Logo Design Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fK8jhYHnB8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fK8jhYHnB8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fK8jhYHnB8/video.m3u8",
+          "duration": 844,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-65",
+          "title": "Logo Designing Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HS3UUQb5jC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HS3UUQb5jC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HS3UUQb5jC/video.m3u8",
+          "duration": 2001,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-66",
+          "title": "Using Grids and Guides for Logo Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z6zDBNpyf9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z6zDBNpyf9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z6zDBNpyf9/video.m3u8",
+          "duration": 2423,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-illustrator-13",
+          "title": "Assignment 3: Brand Mini Kit",
+          "url": "https://docs.google.com/document/d/1LbJ6C6I0R3GLvRNI_LLkROuHTCShar_nM-TR6pMGuF0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1LbJ6C6I0R3GLvRNI_LLkROuHTCShar_nM-TR6pMGuF0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1LbJ6C6I0R3GLvRNI_LLkROuHTCShar_nM-TR6pMGuF0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1LbJ6C6I0R3GLvRNI_LLkROuHTCShar_nM-TR6pMGuF0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Real-world Projects",
+      "lectures": [
+        {
+          "id": "td-illustrator-67",
+          "title": "Business Card Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFcjzSZ4h5a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFcjzSZ4h5a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFcjzSZ4h5a/video.m3u8",
+          "duration": 1836,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-68",
+          "title": "Ads Banner Design and Customization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxCCMEjP7GC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxCCMEjP7GC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxCCMEjP7GC/video.m3u8",
+          "duration": 2270,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-69",
+          "title": "YouTube Thumbnail Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XGuET4RYeA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XGuET4RYeA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XGuET4RYeA/video.m3u8",
+          "duration": 1635,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-70",
+          "title": "Travel Poster Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44bAAfgERkJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44bAAfgERkJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44bAAfgERkJ/video.m3u8",
+          "duration": 2113,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-71",
+          "title": "CoverPage Design for Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y78gYSACHr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y78gYSACHr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y78gYSACHr/video.m3u8",
+          "duration": 1244,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-72",
+          "title": "Infographics Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XehXc5gEQB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XehXc5gEQB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XehXc5gEQB/video.m3u8",
+          "duration": 2233,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-73",
+          "title": "T-Shirt Graphics Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RpyxASsR9x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RpyxASsR9x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RpyxASsR9x/video.m3u8",
+          "duration": 1726,
+          "type": "video"
+        },
+        {
+          "id": "td-illustrator-74",
+          "title": "Leaflet Design Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HFzrCH8x3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HFzrCH8x3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HFzrCH8x3z/video.m3u8",
+          "duration": 2945,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-illustrator-15",
+          "title": "Final Project",
+          "url": "https://docs.google.com/document/d/1_Y3agkNv0OhIGuNNLe08s3TNG0AdLvZLGDNUwWN1Ih8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1_Y3agkNv0OhIGuNNLe08s3TNG0AdLvZLGDNUwWN1Ih8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1_Y3agkNv0OhIGuNNLe08s3TNG0AdLvZLGDNUwWN1Ih8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1_Y3agkNv0OhIGuNNLe08s3TNG0AdLvZLGDNUwWN1Ih8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

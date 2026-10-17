@@ -1,0 +1,481 @@
+{
+  "platform": "TuteDude",
+  "batchId": "socanalyst",
+  "batchSlug": "socanalyst",
+  "batchName": "SOC Analyst",
+  "thumbnail": "https://www.tutedude.com/assets/avif/socanalyst.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/socanalyst",
+  "totalSections": 7,
+  "totalLectures": 47,
+  "totalNotes": 0,
+  "price": "699.00",
+  "category": "Cyber Security",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Cybersecurity and SOC Foundations",
+      "lectures": [
+        {
+          "id": "td-socanalyst-1",
+          "title": "(Introduction to me & the Course)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcD4JXfey26/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcD4JXfey26/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcD4JXfey26/video.m3u8",
+          "duration": 1017,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-2",
+          "title": "Introduction to the Security Operations Center",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Excye5xMUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Excye5xMUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Excye5xMUU/video.m3u8",
+          "duration": 2372,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-3",
+          "title": "SOC Simulator (Intro to Phishing)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9REBnsgZ9Fs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9REBnsgZ9Fs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9REBnsgZ9Fs/video.m3u8",
+          "duration": 1214,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-4",
+          "title": "Hacking Life Cycle & Cyber Kill Chain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSSeDDXQQg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSSeDDXQQg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSSeDDXQQg/video.m3u8",
+          "duration": 1929,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-5",
+          "title": "CIA Triad & Github Case Stude",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t4d28jY3jT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t4d28jY3jT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t4d28jY3jT/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-6",
+          "title": "Information gathering & OSINT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xs2xrBQCmj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xs2xrBQCmj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xs2xrBQCmj/video.m3u8",
+          "duration": 1341,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-7",
+          "title": "Defence-in-depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XaubRMrPCc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XaubRMrPCc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XaubRMrPCc/video.m3u8",
+          "duration": 1232,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-8",
+          "title": "Zero Trust Architecture & POLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gpgTQBDCre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gpgTQBDCre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gpgTQBDCre/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-9",
+          "title": "Elements & Principles of Information Security",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbJjtb8GGrm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbJjtb8GGrm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbJjtb8GGrm/video.m3u8",
+          "duration": 1613,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-10",
+          "title": "Data Security Types & Strategy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36JQEzzSkKu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36JQEzzSkKu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36JQEzzSkKu/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SOC Operations and Building Your SOC Lab",
+      "lectures": [
+        {
+          "id": "td-socanalyst-11",
+          "title": "Setting Up Your Lab: Virtual Machines and Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MURnYasm3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MURnYasm3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MURnYasm3e/video.m3u8",
+          "duration": 2344,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-12",
+          "title": "SOC & Its Key Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsZEsBcN5j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsZEsBcN5j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsZEsBcN5j/video.m3u8",
+          "duration": 1183,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-13",
+          "title": "A Day in the Life of a SOC Analyst",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xTz7fh6S2cF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xTz7fh6S2cF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xTz7fh6S2cF/video.m3u8",
+          "duration": 1452,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-14",
+          "title": "Events, Alerts, and Incidents: Triage and Response Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctxGcAmjqM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctxGcAmjqM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctxGcAmjqM/video.m3u8",
+          "duration": 641,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-15",
+          "title": "SOC Tools and Technologies - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SsNyTqgDdur/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SsNyTqgDdur/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SsNyTqgDdur/video.m3u8",
+          "duration": 1522,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-16",
+          "title": "SOC Tools and Technologies - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74xyGetQxG8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74xyGetQxG8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74xyGetQxG8/video.m3u8",
+          "duration": 2044,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-17",
+          "title": "Deploying Wazuh and Connecting Windows and Linux Agents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QRbRNaBD3P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QRbRNaBD3P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QRbRNaBD3P/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-18",
+          "title": "Integrating Suricata Alerts with Wazuh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZXBPG2UpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZXBPG2UpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZXBPG2UpQ/video.m3u8",
+          "duration": 1824,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-19",
+          "title": "Integrating Sysmon with Wazuh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rsghYUH6jq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rsghYUH6jq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rsghYUH6jq/video.m3u8",
+          "duration": 1443,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-20",
+          "title": "Configuring FIM (File Integrity Monitoring) in Wazuh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYSgShGER2g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYSgShGER2g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYSgShGER2g/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-21",
+          "title": "Integrating Wazuh with Jira for Alert Ticketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SFGtPyTSDg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SFGtPyTSDg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SFGtPyTSDg/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Log Analysis and SIEM Investigations",
+      "lectures": [
+        {
+          "id": "td-socanalyst-22",
+          "title": "Understanding Security Logs: Syslog, Windows, and Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YYYSNBSxQy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YYYSNBSxQy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YYYSNBSxQy/video.m3u8",
+          "duration": 3572,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-23",
+          "title": "Recognizing Attack Signatures Through Log Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dfsM3267/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dfsM3267/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dfsM3267/video.m3u8",
+          "duration": 3727,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-24",
+          "title": "Investigating a Ransomware Attack with Splunk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cH5jmqKZjZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cH5jmqKZjZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cH5jmqKZjZ/video.m3u8",
+          "duration": 3221,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-25",
+          "title": "Investigating an APT Intrusion with Splunk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MSX5tahUGM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MSX5tahUGM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MSX5tahUGM/video.m3u8",
+          "duration": 4415,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-26",
+          "title": "Investigating a Brute-Force Attack with the ELK Stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xefxYKtSGP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xefxYKtSGP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xefxYKtSGP/video.m3u8",
+          "duration": 2990,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Network Traffic Analysis and PCAP Investigations",
+      "lectures": [
+        {
+          "id": "td-socanalyst-27",
+          "title": "Wireshark - Underdstanding Network Protocols",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55DzumHa2b7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55DzumHa2b7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55DzumHa2b7/video.m3u8",
+          "duration": 2532,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-28",
+          "title": "Wireshark - PCAP Investigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RbuatdYkAq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RbuatdYkAq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RbuatdYkAq/video.m3u8",
+          "duration": 1807,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-29",
+          "title": "Network Minor - PCAP Investigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ArBPnfgNjQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ArBPnfgNjQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ArBPnfgNjQ/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Phishing Investigation and Email Security",
+      "lectures": [
+        {
+          "id": "td-socanalyst-30",
+          "title": "Phishing Attack Types and Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XkZ8dE9PKQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XkZ8dE9PKQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XkZ8dE9PKQ/video.m3u8",
+          "duration": 3561,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-31",
+          "title": "Email Forensics Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8asNFdJgSJ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8asNFdJgSJ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8asNFdJgSJ7/video.m3u8",
+          "duration": 2353,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-32",
+          "title": "Email Analysis Methodology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BdqKbpYhEk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BdqKbpYhEk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BdqKbpYhEk/video.m3u8",
+          "duration": 2840,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-33",
+          "title": "Reactive and Proactive Phishing Defense",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jETNz7CBGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jETNz7CBGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jETNz7CBGg/video.m3u8",
+          "duration": 1005,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-34",
+          "title": "Lab Exercise - Phishing Analysis 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q8DcbH9FEz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q8DcbH9FEz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q8DcbH9FEz/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-35",
+          "title": "Lab Exercise - Phishing Analysis 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37s4tXpT52Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37s4tXpT52Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37s4tXpT52Z/video.m3u8",
+          "duration": 1336,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Digital Forensics and Incident Response",
+      "lectures": [
+        {
+          "id": "td-socanalyst-36",
+          "title": "Introduction to DFIR (Digital Forensics and Incident Response)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y69HTcp4GS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y69HTcp4GS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y69HTcp4GS/video.m3u8",
+          "duration": 4354,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-37",
+          "title": "Acquiring Digital Evidence: Volatile and Non-Volatile Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGjzkp4fnr8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGjzkp4fnr8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGjzkp4fnr8/video.m3u8",
+          "duration": 934,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-38",
+          "title": "Live Analysis - Incident Investigation on a Linux Server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6GRdkCpbf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6GRdkCpbf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6GRdkCpbf/video.m3u8",
+          "duration": 3822,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-39",
+          "title": "Live Analysis - Incident Investigation on a Windows Server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrRE4kB5dY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrRE4kB5dY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrRE4kB5dY/video.m3u8",
+          "duration": 3624,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-40",
+          "title": "Memory Forensics with Volatility",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8jP4GXXyY8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8jP4GXXyY8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8jP4GXXyY8/video.m3u8",
+          "duration": 2339,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-41",
+          "title": "Investigating Ransomware Through Memory Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C47QEdDJH9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C47QEdDJH9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C47QEdDJH9/video.m3u8",
+          "duration": 1996,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-42",
+          "title": "Disk Forensics with Autopsy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aJRuTnj6Tq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aJRuTnj6Tq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aJRuTnj6Tq/video.m3u8",
+          "duration": 3792,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-43",
+          "title": "Investigating an Insider Threat with FTK Imager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZnxXUKtmkpe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZnxXUKtmkpe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZnxXUKtmkpe/video.m3u8",
+          "duration": 1697,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-44",
+          "title": "Incident Case Study: Tailscale C2 and Container Escape",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6THMQE9tYzN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6THMQE9tYzN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6THMQE9tYzN/video.m3u8",
+          "duration": 2712,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SOC Capstone Projects and Career Preparation",
+      "lectures": [
+        {
+          "id": "td-socanalyst-45",
+          "title": "SOC Capstone Projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad7usaStRyA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad7usaStRyA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad7usaStRyA/video.m3u8",
+          "duration": 2613,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-46",
+          "title": "Building your Portfolio Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8gRFdueDA6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8gRFdueDA6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8gRFdueDA6/video.m3u8",
+          "duration": 1244,
+          "type": "video"
+        },
+        {
+          "id": "td-socanalyst-47",
+          "title": "The Professional Toolkit Resume, Linkedin, Conferences & CTFs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78mb5m8dna3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78mb5m8dna3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78mb5m8dna3/video.m3u8",
+          "duration": 2602,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

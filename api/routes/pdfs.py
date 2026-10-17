@@ -92,6 +92,25 @@ async def get_pdf_access(lecture_id: str, db: AsyncSession = Depends(get_db_depe
     except Exception as e:
         logger.warning(f"Error checking Apna College for PDF {lecture_id}: {e}")
 
+    # 3. Fast check for TuteDude documents / notes
+    try:
+        from services.tutedude_service import get_tutedude_lecture_access
+        tutedude_access = await get_tutedude_lecture_access(lecture_id)
+        if tutedude_access and tutedude_access.get("has_pdf") and tutedude_access.get("pdf_download_url"):
+            pdf_url = tutedude_access["pdf_download_url"]
+            return {
+                "lecture_id": lecture_id,
+                "lecture_title": tutedude_access.get("title", "Assignment Document"),
+                "file_name": f"{lecture_id}.pdf",
+                "file_size": 0,
+                "page_count": 1,
+                "download_url": pdf_url,
+                "access_url": pdf_url,
+                "expires_in_seconds": 86400
+            }
+    except Exception as e:
+        logger.warning(f"Error checking TuteDude for PDF {lecture_id}: {e}")
+
     stmt = (
         select(Lecture)
         .options(selectinload(Lecture.pdf))

@@ -1,0 +1,576 @@
+{
+  "platform": "TuteDude",
+  "batchId": "cpp",
+  "batchSlug": "cpp",
+  "batchName": "C++",
+  "thumbnail": "https://www.tutedude.com/assets/avif/cpp.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/cpp",
+  "totalSections": 12,
+  "totalLectures": 42,
+  "totalNotes": 11,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Getting Started",
+      "lectures": [
+        {
+          "id": "td-cpp-1",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3mUTerS9T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3mUTerS9T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3mUTerS9T/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-2",
+          "title": "Setting up Visual Studio Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RU3BP97TEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RU3BP97TEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RU3BP97TEu/video.m3u8",
+          "duration": 800,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "BASICS",
+      "lectures": [
+        {
+          "id": "td-cpp-3",
+          "title": "Introduction & Skeleton",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mX5pH7fY35/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mX5pH7fY35/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mX5pH7fY35/video.m3u8",
+          "duration": 1157,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-4",
+          "title": "Input Output, Variables & Data types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98HZxgPaKzQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98HZxgPaKzQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98HZxgPaKzQ/video.m3u8",
+          "duration": 1711,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-5",
+          "title": "Arithmetic Operators & Precedence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BGmsfk7D7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BGmsfk7D7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BGmsfk7D7n/video.m3u8",
+          "duration": 1457,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-6",
+          "title": "Compound Operators, Expressions & Comments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fhfeXMtU4yk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fhfeXMtU4yk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fhfeXMtU4yk/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-7",
+          "title": "Conditionals, If Else & Switch Case",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EPsyzYAzc84/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EPsyzYAzc84/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EPsyzYAzc84/video.m3u8",
+          "duration": 2543,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-3",
+          "title": "Programming Assignment 1",
+          "url": "https://docs.google.com/document/d/1OKd_eGX95RH3RKNSBSppRLUVrlyrt9Jg/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1OKd_eGX95RH3RKNSBSppRLUVrlyrt9Jg/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1OKd_eGX95RH3RKNSBSppRLUVrlyrt9Jg/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1OKd_eGX95RH3RKNSBSppRLUVrlyrt9Jg/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Loops & Basic Data Structures",
+      "lectures": [
+        {
+          "id": "td-cpp-8",
+          "title": "Loops - While loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dxAGk9Hfpf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dxAGk9Hfpf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dxAGk9Hfpf/video.m3u8",
+          "duration": 925,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-9",
+          "title": "Loops - DoWhile & For loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xCk43AreMA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xCk43AreMA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xCk43AreMA/video.m3u8",
+          "duration": 1090,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-10",
+          "title": "Arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ee5QjFchjD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ee5QjFchjD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ee5QjFchjD/video.m3u8",
+          "duration": 1717,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-11",
+          "title": "Pointers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C2agg8KhR9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C2agg8KhR9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C2agg8KhR9/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-5",
+          "title": "Programming Assignment 2",
+          "url": "https://docs.google.com/document/d/1xrVQw4BJgjNtEb-sVgl9K2dWoK-Ii31f/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xrVQw4BJgjNtEb-sVgl9K2dWoK-Ii31f/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xrVQw4BJgjNtEb-sVgl9K2dWoK-Ii31f/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xrVQw4BJgjNtEb-sVgl9K2dWoK-Ii31f/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Strings",
+      "lectures": [
+        {
+          "id": "td-cpp-12",
+          "title": "Strings using Char Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F4JEFpNXpG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F4JEFpNXpG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F4JEFpNXpG/video.m3u8",
+          "duration": 973,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-13",
+          "title": "Strings using string Class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pU4xaEjTGUH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pU4xaEjTGUH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pU4xaEjTGUH/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-7",
+          "title": "Programming Assignment 3",
+          "url": "https://docs.google.com/document/d/1R4shRJInvQnhl0sPEgVv7h3NMZK03x_x/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1R4shRJInvQnhl0sPEgVv7h3NMZK03x_x/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1R4shRJInvQnhl0sPEgVv7h3NMZK03x_x/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1R4shRJInvQnhl0sPEgVv7h3NMZK03x_x/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions",
+      "lectures": [
+        {
+          "id": "td-cpp-14",
+          "title": "Functions in C++ [1]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qTkzrJHrPC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qTkzrJHrPC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qTkzrJHrPC/video.m3u8",
+          "duration": 1020,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-15",
+          "title": "Functions in C++ [2]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69AKDq68Zt5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69AKDq68Zt5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69AKDq68Zt5/video.m3u8",
+          "duration": 2072,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-9",
+          "title": "Programming Assignment 4",
+          "url": "https://docs.google.com/document/d/1HicELuIUEjLKFBEZZeEOz4M_QLwChDsH/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1HicELuIUEjLKFBEZZeEOz4M_QLwChDsH/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1HicELuIUEjLKFBEZZeEOz4M_QLwChDsH/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1HicELuIUEjLKFBEZZeEOz4M_QLwChDsH/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "OOPs & Encapsulation",
+      "lectures": [
+        {
+          "id": "td-cpp-16",
+          "title": "Structures in C++",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZEdkmxumKm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZEdkmxumKm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZEdkmxumKm/video.m3u8",
+          "duration": 1009,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-17",
+          "title": "OOPs Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ttTKCA8ZNp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ttTKCA8ZNp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ttTKCA8ZNp/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-18",
+          "title": "Class & Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsJD7YYAtDm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsJD7YYAtDm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsJD7YYAtDm/video.m3u8",
+          "duration": 1292,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-11",
+          "title": "Programming Assignment 5",
+          "url": "https://docs.google.com/document/d/1zFZXHNzFWkuSPm2tR0b1wLulG3RxporP/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1zFZXHNzFWkuSPm2tR0b1wLulG3RxporP/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1zFZXHNzFWkuSPm2tR0b1wLulG3RxporP/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1zFZXHNzFWkuSPm2tR0b1wLulG3RxporP/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Polymorphism",
+      "lectures": [
+        {
+          "id": "td-cpp-19",
+          "title": "Constructors & Fn Overloading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62JdertMp62/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62JdertMp62/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62JdertMp62/video.m3u8",
+          "duration": 1070,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-20",
+          "title": "Class Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PfEANsDj8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PfEANsDj8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PfEANsDj8R/video.m3u8",
+          "duration": 1684,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-21",
+          "title": "Operator Overloading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKce7GH72G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKce7GH72G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKce7GH72G/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-13",
+          "title": "Programming Assignment 6",
+          "url": "https://docs.google.com/document/d/153u-Nl6M8m-ymVeK2d6LWLaAPOColC7h/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/153u-Nl6M8m-ymVeK2d6LWLaAPOColC7h/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/153u-Nl6M8m-ymVeK2d6LWLaAPOColC7h/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/153u-Nl6M8m-ymVeK2d6LWLaAPOColC7h/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Inheritance",
+      "lectures": [
+        {
+          "id": "td-cpp-22",
+          "title": "Inheritance - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AtEnGSpu9f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AtEnGSpu9f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AtEnGSpu9f/video.m3u8",
+          "duration": 468,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-23",
+          "title": "Inheritance - Access Specifiers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBRsU9CreD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBRsU9CreD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBRsU9CreD/video.m3u8",
+          "duration": 1200,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-24",
+          "title": "Inheritance & Constructors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zuNN4RMghU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zuNN4RMghU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zuNN4RMghU/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-25",
+          "title": "Types of Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z8Rd8E5ya8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z8Rd8E5ya8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z8Rd8E5ya8/video.m3u8",
+          "duration": 559,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-26",
+          "title": "Inheritance - Pointers & Fn Overriding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdfB7dKxc9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdfB7dKxc9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdfB7dKxc9/video.m3u8",
+          "duration": 783,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-15",
+          "title": "Programming Assignment 7",
+          "url": "https://docs.google.com/document/d/1Z9N6j1iyikve1PnqPVj78mXjAZwh6hMw/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Z9N6j1iyikve1PnqPVj78mXjAZwh6hMw/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Z9N6j1iyikve1PnqPVj78mXjAZwh6hMw/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Z9N6j1iyikve1PnqPVj78mXjAZwh6hMw/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Abstraction",
+      "lectures": [
+        {
+          "id": "td-cpp-27",
+          "title": "Virtual Fns & Runtime Polymorphism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XGyd4raDKG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XGyd4raDKG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XGyd4raDKG/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-28",
+          "title": "Abstract Classes & Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NuBc4fg2U9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NuBc4fg2U9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NuBc4fg2U9/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-29",
+          "title": "Friend Fn & Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtH6XKPqD6s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtH6XKPqD6s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtH6XKPqD6s/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-30",
+          "title": "Static Data Members",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rYTDTmqt6f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rYTDTmqt6f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rYTDTmqt6f/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-31",
+          "title": "Static Functions in Class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FJUrTktN7P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FJUrTktN7P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FJUrTktN7P/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-32",
+          "title": "Nested or Inner Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy9KG2YqbH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy9KG2YqbH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy9KG2YqbH/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-33",
+          "title": "Destructors in C++",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4EBy4jzFqG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4EBy4jzFqG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4EBy4jzFqG/video.m3u8",
+          "duration": 865,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-17",
+          "title": "Programming Assignment 8",
+          "url": "https://docs.google.com/document/d/1TPVQLnKkvVNBqqepxFLpn2snUQ_l4V13/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TPVQLnKkvVNBqqepxFLpn2snUQ_l4V13/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TPVQLnKkvVNBqqepxFLpn2snUQ_l4V13/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TPVQLnKkvVNBqqepxFLpn2snUQ_l4V13/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Exception Handling",
+      "lectures": [
+        {
+          "id": "td-cpp-34",
+          "title": "Exception Handling - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3fTcy5PpNZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3fTcy5PpNZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3fTcy5PpNZ/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-35",
+          "title": "Exception Handling - Syntax & Use",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hKDF4EyqCF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hKDF4EyqCF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hKDF4EyqCF/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-36",
+          "title": "Exception Handling - Nested try, Multiple Catch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FuANraktDY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FuANraktDY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FuANraktDY/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-19",
+          "title": "Programming Assignment 9",
+          "url": "https://docs.google.com/document/d/1Ldik87YGvQm_YsZMtWerkvJaNffb4wKi/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Ldik87YGvQm_YsZMtWerkvJaNffb4wKi/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Ldik87YGvQm_YsZMtWerkvJaNffb4wKi/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Ldik87YGvQm_YsZMtWerkvJaNffb4wKi/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Streams - File Input/Output in C%2B%2B",
+      "lectures": [
+        {
+          "id": "td-cpp-37",
+          "title": "Streams - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KxEsZ2yttcq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KxEsZ2yttcq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KxEsZ2yttcq/video.m3u8",
+          "duration": 314,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-38",
+          "title": "Streams - Syntax (Using in programs)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TATC4fJ8EN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TATC4fJ8EN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TATC4fJ8EN/video.m3u8",
+          "duration": 1011,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-21",
+          "title": "Programming Assignment 10",
+          "url": "https://docs.google.com/document/d/14ItjeHZspiAaTjYCQq_1SnFWL0eTz-rV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/14ItjeHZspiAaTjYCQq_1SnFWL0eTz-rV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/14ItjeHZspiAaTjYCQq_1SnFWL0eTz-rV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/14ItjeHZspiAaTjYCQq_1SnFWL0eTz-rV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "STL - Standard Template Library",
+      "lectures": [
+        {
+          "id": "td-cpp-39",
+          "title": "Template Fns & Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U8tcBePKUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U8tcBePKUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U8tcBePKUU/video.m3u8",
+          "duration": 828,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-40",
+          "title": "STL - Why do we need STL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcbXaP9RUTM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcbXaP9RUTM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcbXaP9RUTM/video.m3u8",
+          "duration": 440,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-41",
+          "title": "STL - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Exh8FjdYGT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Exh8FjdYGT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Exh8FjdYGT/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        },
+        {
+          "id": "td-cpp-42",
+          "title": "STL - Using in Programs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rmePpAe43c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rmePpAe43c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rmePpAe43c/video.m3u8",
+          "duration": 1391,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cpp-23",
+          "title": "Programming Assignment 11",
+          "url": "https://docs.google.com/document/d/1ueE8SQaQS1t35ObG2b74_mNlWMJAV9ii/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ueE8SQaQS1t35ObG2b74_mNlWMJAV9ii/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ueE8SQaQS1t35ObG2b74_mNlWMJAV9ii/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ueE8SQaQS1t35ObG2b74_mNlWMJAV9ii/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

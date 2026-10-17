@@ -1,0 +1,1040 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dsawithjava",
+  "batchSlug": "dsawithjava",
+  "batchName": "DSA with Java",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dsawithjava.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dsawithjava",
+  "totalSections": 19,
+  "totalLectures": 96,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-2",
+          "title": "Introduction to DSA with Java",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bafEbjAZaK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bafEbjAZaK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bafEbjAZaK/video.m3u8",
+          "duration": 591,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-3",
+          "title": "Introduction and setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zftcf3qbSb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zftcf3qbSb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zftcf3qbSb/video.m3u8",
+          "duration": 1288,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Types",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-4",
+          "title": "Data Types And flow chart 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49NsXyxQZZs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49NsXyxQZZs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49NsXyxQZZs/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-5",
+          "title": "Data Types And flow chart 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZTfTpKYetc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZTfTpKYetc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZTfTpKYetc/video.m3u8",
+          "duration": 1075,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Loops",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-6",
+          "title": "Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZStFnHh9E6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZStFnHh9E6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZStFnHh9E6/video.m3u8",
+          "duration": 2062,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Questions",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-7",
+          "title": "Question (Prime & Reverse)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NATMggranS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NATMggranS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NATMggranS/video.m3u8",
+          "duration": 1344,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-8",
+          "title": "Question (Inverse & Rotate a number)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9paSM9azT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9paSM9azT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9paSM9azT/video.m3u8",
+          "duration": 1599,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Functions",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-9",
+          "title": "Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R3P43jzSt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R3P43jzSt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R3P43jzSt/video.m3u8",
+          "duration": 1787,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Array",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-10",
+          "title": "Introduction to Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b7FcmhE3yt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b7FcmhE3yt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b7FcmhE3yt/video.m3u8",
+          "duration": 2328,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-11",
+          "title": "Array Question",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42C3REEq54c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42C3REEq54c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42C3REEq54c/video.m3u8",
+          "duration": 1888,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-12",
+          "title": "Array Ques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNmPrTaBZY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNmPrTaBZY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNmPrTaBZY/video.m3u8",
+          "duration": 1053,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-13",
+          "title": "2 D Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQQdr3kN92C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQQdr3kN92C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQQdr3kN92C/video.m3u8",
+          "duration": 2301,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-14",
+          "title": "Question 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zx8ysFqThyG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zx8ysFqThyG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zx8ysFqThyG/video.m3u8",
+          "duration": 1312,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-15",
+          "title": "Questions 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92AAQJtakq8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92AAQJtakq8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92AAQJtakq8/video.m3u8",
+          "duration": 3345,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-16",
+          "title": "Two Pointer Sliding Window",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MFnn5cbjE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MFnn5cbjE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MFnn5cbjE/video.m3u8",
+          "duration": 2461,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-17",
+          "title": "KMP Algorithm, Stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eT7rPQMJ6n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eT7rPQMJ6n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eT7rPQMJ6n/video.m3u8",
+          "duration": 2721,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-18",
+          "title": "Kadens Aalgo Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzCu9u9AMze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzCu9u9AMze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzCu9u9AMze/video.m3u8",
+          "duration": 1182,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "String",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-19",
+          "title": "String",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MKX8j5nb2U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MKX8j5nb2U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MKX8j5nb2U/video.m3u8",
+          "duration": 2316,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-20",
+          "title": "String Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTrr973dMpx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTrr973dMpx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTrr973dMpx/video.m3u8",
+          "duration": 2217,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Obect Oriented Programming",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-21",
+          "title": "oops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DA8hhMbaZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DA8hhMbaZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DA8hhMbaZR/video.m3u8",
+          "duration": 3265,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-22",
+          "title": "static, encapsultaion, inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMEhS2mjBzx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMEhS2mjBzx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMEhS2mjBzx/video.m3u8",
+          "duration": 3731,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-23",
+          "title": "Inheritance, Polymorphism, Anstraction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suEnbSGR4D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suEnbSGR4D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suEnbSGR4D/video.m3u8",
+          "duration": 3203,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-24",
+          "title": "Shallow, deep copy, this",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Agc6Xu8NHyQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Agc6Xu8NHyQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Agc6Xu8NHyQ/video.m3u8",
+          "duration": 3619,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-25",
+          "title": "Dynamic Method Dispatch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PFfy7jnrUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PFfy7jnrUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PFfy7jnrUt/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-26",
+          "title": "Toll Booth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TnCeTRx4Sp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TnCeTRx4Sp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TnCeTRx4Sp/video.m3u8",
+          "duration": 2101,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Time Space",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-27",
+          "title": "Time and Space",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fSyYgX34af/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fSyYgX34af/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fSyYgX34af/video.m3u8",
+          "duration": 1156,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "StacK Queues",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-28",
+          "title": "Stack Questins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aCmAAeNNgZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aCmAAeNNgZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aCmAAeNNgZ/video.m3u8",
+          "duration": 3533,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-29",
+          "title": "Nge, Largest Rectangle Histogram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8cxrDAd3tS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8cxrDAd3tS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8cxrDAd3tS/video.m3u8",
+          "duration": 2937,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-30",
+          "title": "Stock Span, Trapping Rain Water",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94fBkrS2jcp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94fBkrS2jcp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94fBkrS2jcp/video.m3u8",
+          "duration": 3462,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-31",
+          "title": "Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4E9fjPHSNf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4E9fjPHSNf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4E9fjPHSNf/video.m3u8",
+          "duration": 3526,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-32",
+          "title": "Sliding Window Max",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79D6sYM7Nqa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79D6sYM7Nqa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79D6sYM7Nqa/video.m3u8",
+          "duration": 1213,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-33",
+          "title": "Conversions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6bNQ59JbQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6bNQ59JbQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6bNQ59JbQ/video.m3u8",
+          "duration": 2374,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linked List",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-34",
+          "title": "Linked List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74Bj65SJTgd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74Bj65SJTgd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74Bj65SJTgd/video.m3u8",
+          "duration": 1840,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-35",
+          "title": "Reverse Middle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU6n73T5Djp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU6n73T5Djp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU6n73T5Djp/video.m3u8",
+          "duration": 1536,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-36",
+          "title": "Remove nth node, Merge ll",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8C7Z85R6TF4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8C7Z85R6TF4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8C7Z85R6TF4/video.m3u8",
+          "duration": 1922,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-37",
+          "title": "Odd even delete node",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5B6DsP4ua2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5B6DsP4ua2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5B6DsP4ua2E/video.m3u8",
+          "duration": 1486,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-38",
+          "title": "Remove duplicate, Delete middle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rbR3H2cBQn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rbR3H2cBQn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rbR3H2cBQn/video.m3u8",
+          "duration": 1286,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-39",
+          "title": "Question, Cycle detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zM4FSBStXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zM4FSBStXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zM4FSBStXD/video.m3u8",
+          "duration": 3306,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-40",
+          "title": "Intersection Reorder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4snrnXJm9yx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4snrnXJm9yx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4snrnXJm9yx/video.m3u8",
+          "duration": 3474,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-41",
+          "title": "Add, Subtract",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Rj6My4Uqfh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Rj6My4Uqfh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Rj6My4Uqfh/video.m3u8",
+          "duration": 3305,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-42",
+          "title": "Double Linked List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XSYEAqPGaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XSYEAqPGaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XSYEAqPGaC/video.m3u8",
+          "duration": 1649,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-43",
+          "title": "Copy Random Pointer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NJNYt4hgKf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NJNYt4hgKf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NJNYt4hgKf/video.m3u8",
+          "duration": 1818,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "HashMap",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-44",
+          "title": "Introduction to HashMap in Java",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69452UsxsrR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69452UsxsrR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69452UsxsrR/video.m3u8",
+          "duration": 3337,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-45",
+          "title": "Priority Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZafuzjFArd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZafuzjFArd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZafuzjFArd/video.m3u8",
+          "duration": 3409,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-46",
+          "title": "Contains Duplicate Problems Java",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeUdRFZKapn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeUdRFZKapn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeUdRFZKapn/video.m3u8",
+          "duration": 1791,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-47",
+          "title": "Hashing Problems in Java",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jJZRHFXSuG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jJZRHFXSuG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jJZRHFXSuG/video.m3u8",
+          "duration": 2347,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-48",
+          "title": "Subarray Sum Problems Java Hashing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn9aDmxTmRn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn9aDmxTmRn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn9aDmxTmRn/video.m3u8",
+          "duration": 2006,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recursion",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-49",
+          "title": "Recursion Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823tfKsnmnT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823tfKsnmnT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823tfKsnmnT/video.m3u8",
+          "duration": 4269,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-50",
+          "title": "Backtracking Problems Palindrome Partitioning, Rat in a Maze & Word Search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Duk9aqByZjq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Duk9aqByZjq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Duk9aqByZjq/video.m3u8",
+          "duration": 4144,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-51",
+          "title": "Merge Sort Divide and Conquer Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZCGh9mXyBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZCGh9mXyBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZCGh9mXyBK/video.m3u8",
+          "duration": 1661,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-52",
+          "title": "Recursion & Backtracking Problems Subsets II, N-Queens & Sudoku Solver",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gRMRcukqEj6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gRMRcukqEj6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gRMRcukqEj6/video.m3u8",
+          "duration": 3797,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-53",
+          "title": "Recursion Example Quick Sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cTbxSMnHXq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cTbxSMnHXq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cTbxSMnHXq/video.m3u8",
+          "duration": 2822,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-54",
+          "title": "Recursion Problems Combination Sum I & II, Subset Sum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUmnPKX6bP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUmnPKX6bP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUmnPKX6bP/video.m3u8",
+          "duration": 2555,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-55",
+          "title": "Recursion Problems Generate Parentheses & Permutations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TssA2qtKX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TssA2qtKX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TssA2qtKX7/video.m3u8",
+          "duration": 3738,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sorting",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-56",
+          "title": "Sorting Algorithms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pXP7RdPur2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pXP7RdPur2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pXP7RdPur2/video.m3u8",
+          "duration": 2004,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Search",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-57",
+          "title": "Binary Search Problems Union, 2D Matrix & Pivot Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U9cdJ9g7nz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U9cdJ9g7nz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U9cdJ9g7nz/video.m3u8",
+          "duration": 4068,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-58",
+          "title": "Aggressive Cows, Heaters & Chocolate Distribution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j9jzr6Zxfp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j9jzr6Zxfp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j9jzr6Zxfp/video.m3u8",
+          "duration": 3086,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-59",
+          "title": "Binary Search Problems Rotated Array & Allocation Problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82b4Ffr9pSt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82b4Ffr9pSt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82b4Ffr9pSt/video.m3u8",
+          "duration": 5396,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Trees",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-60",
+          "title": "Binary Search Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSGdX7ZC9D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSGdX7ZC9D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSGdX7ZC9D/video.m3u8",
+          "duration": 3890,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-61",
+          "title": "Heap Questrions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fPgYfDyUaZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fPgYfDyUaZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fPgYfDyUaZ/video.m3u8",
+          "duration": 4579,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-62",
+          "title": "Heap Questions 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DgPjyNxdB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DgPjyNxdB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DgPjyNxdB/video.m3u8",
+          "duration": 1815,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-63",
+          "title": "Binary Tree Basics & Traversals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y8hmdZ3ckU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y8hmdZ3ckU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y8hmdZ3ckU/video.m3u8",
+          "duration": 6765,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-64",
+          "title": "Binary Tree Practice Problems Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XNxJxzRh98/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XNxJxzRh98/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XNxJxzRh98/video.m3u8",
+          "duration": 3463,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-65",
+          "title": "Binary Tree Practice Problems Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qYCQDD8uRU3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qYCQDD8uRU3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qYCQDD8uRU3/video.m3u8",
+          "duration": 5704,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-66",
+          "title": "Binary Tree Practice Problems Part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArtcnBYpSrQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArtcnBYpSrQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArtcnBYpSrQ/video.m3u8",
+          "duration": 6548,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-67",
+          "title": "Binary Tree Practice Problems Part 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GF99HGKdAb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GF99HGKdAb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GF99HGKdAb/video.m3u8",
+          "duration": 5310,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-68",
+          "title": "Graph Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35xy3xQNM8a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35xy3xQNM8a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35xy3xQNM8a/video.m3u8",
+          "duration": 1966,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-69",
+          "title": "Traversals(BFS&DFS)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R32bSUd2f2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R32bSUd2f2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R32bSUd2f2/video.m3u8",
+          "duration": 2296,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-70",
+          "title": "Number of province& Number of island",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jce5S6kr6m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jce5S6kr6m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jce5S6kr6m/video.m3u8",
+          "duration": 2135,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-71",
+          "title": "Flood Fill Algo & Rotten Oranges",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRfUTkhSSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRfUTkhSSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRfUTkhSSz/video.m3u8",
+          "duration": 2476,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-72",
+          "title": "Detect Cycle(bfs & dfs)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMXyRbRT4B8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMXyRbRT4B8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMXyRbRT4B8/video.m3u8",
+          "duration": 1697,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-73",
+          "title": "Surrounded Regions & Number of enclave",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNbKTZJxyC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNbKTZJxyC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNbKTZJxyC/video.m3u8",
+          "duration": 2626,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-74",
+          "title": "Bi-partite graph& directed graph cycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqcfMer9tn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqcfMer9tn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqcfMer9tn/video.m3u8",
+          "duration": 2459,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-75",
+          "title": "Topological Sort(dfs & bfs)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87r4E4E6B4n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87r4E4E6B4n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87r4E4E6B4n/video.m3u8",
+          "duration": 1966,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-76",
+          "title": "Detect cycel in directed graph(bfs) &find eventual safe States",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6udeRGfGaYf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6udeRGfGaYf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6udeRGfGaYf/video.m3u8",
+          "duration": 2018,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-77",
+          "title": "Shortest path(DAG)&Undirected graph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ambfek5bTrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ambfek5bTrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ambfek5bTrf/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-78",
+          "title": "Word Ladder(I &II)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49ch8d8hXsC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49ch8d8hXsC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49ch8d8hXsC/video.m3u8",
+          "duration": 3207,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-79",
+          "title": "Dijkstra Algo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YbU4HmTZdH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YbU4HmTZdH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YbU4HmTZdH/video.m3u8",
+          "duration": 2991,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-80",
+          "title": "Bellman ford & Floyd Warshel Algo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QndNYbrxa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QndNYbrxa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QndNYbrxa/video.m3u8",
+          "duration": 3036,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-81",
+          "title": "Prims Algo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74H5pqcnrsS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74H5pqcnrsS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74H5pqcnrsS/video.m3u8",
+          "duration": 1463,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-82",
+          "title": "Disjoint Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHcu9ydm6F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHcu9ydm6F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHcu9ydm6F/video.m3u8",
+          "duration": 2310,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-83",
+          "title": "Kruskal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zT5SGDbBQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zT5SGDbBQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zT5SGDbBQE/video.m3u8",
+          "duration": 1075,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Dynamic Programining ",
+      "lectures": [
+        {
+          "id": "td-dsawithjava-84",
+          "title": "Introduction dp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p8dnhcNGXr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p8dnhcNGXr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p8dnhcNGXr/video.m3u8",
+          "duration": 1506,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-85",
+          "title": "Climbing Stairs&Frog Jump",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgddqEYAQS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgddqEYAQS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgddqEYAQS/video.m3u8",
+          "duration": 2407,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-86",
+          "title": "Frog K Jump",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58uAzmXyNpq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58uAzmXyNpq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58uAzmXyNpq/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-87",
+          "title": "House Robber 1&2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDEfqrgFdd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDEfqrgFdd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDEfqrgFdd/video.m3u8",
+          "duration": 2025,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-88",
+          "title": "Unique Paths(1&2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQrZUkumD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQrZUkumD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQrZUkumD8/video.m3u8",
+          "duration": 2840,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-89",
+          "title": "Minimum Path Sum&Falling Path Sum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9tNZztAQ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9tNZztAQ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9tNZztAQ8/video.m3u8",
+          "duration": 3519,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-90",
+          "title": "Cheery pick(1&2)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75Hf5agmNSk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75Hf5agmNSk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75Hf5agmNSk/video.m3u8",
+          "duration": 4262,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-91",
+          "title": "Dungen Game & Knight Dialer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qTFhMaFMRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qTFhMaFMRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qTFhMaFMRU/video.m3u8",
+          "duration": 3930,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-92",
+          "title": "Target Sum & partition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4za3r4BTMbm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4za3r4BTMbm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4za3r4BTMbm/video.m3u8",
+          "duration": 2560,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-93",
+          "title": "Min sum partition&perfect sum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94jYA7u9yhj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94jYA7u9yhj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94jYA7u9yhj/video.m3u8",
+          "duration": 3248,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-94",
+          "title": "Coin change&unbounded knapsack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RYDEZd8sJb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RYDEZd8sJb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RYDEZd8sJb/video.m3u8",
+          "duration": 3465,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-95",
+          "title": "Minimum cost for tickets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8j9BjjUZpN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8j9BjjUZpN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8j9BjjUZpN/video.m3u8",
+          "duration": 2031,
+          "type": "video"
+        },
+        {
+          "id": "td-dsawithjava-96",
+          "title": "Lcs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8",
+          "duration": 0,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dsawithjava-20",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithjava-21",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithjava-22",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithjava-23",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-dsawithjava-24",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

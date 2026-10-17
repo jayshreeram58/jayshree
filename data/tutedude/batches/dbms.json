@@ -1,0 +1,2040 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dbms",
+  "batchSlug": "dbms",
+  "batchName": "Database Management System",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dbms.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dbms",
+  "totalSections": 23,
+  "totalLectures": 204,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-dbms-1",
+          "title": "Concepts and Characteristics of DBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGP8daSuzK4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGP8daSuzK4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGP8daSuzK4/video.m3u8",
+          "duration": 1214,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-2",
+          "title": "History and Evolution of Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kpSNRTKQtq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kpSNRTKQtq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kpSNRTKQtq/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-3",
+          "title": "Database System Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kT4UMBbyZ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kT4UMBbyZ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kT4UMBbyZ7/video.m3u8",
+          "duration": 808,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Modelling",
+      "lectures": [
+        {
+          "id": "td-dbms-4",
+          "title": "Relational Database Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8baxZKNuPYE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8baxZKNuPYE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8baxZKNuPYE/video.m3u8",
+          "duration": 738,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-5",
+          "title": "Entity Relationship Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aP3jssbGXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aP3jssbGXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aP3jssbGXu/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-6",
+          "title": "Types of Attributes and their Symbols",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M8NbS4gb5G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M8NbS4gb5G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M8NbS4gb5G/video.m3u8",
+          "duration": 656,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-7",
+          "title": "Connectivity of Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xeNMbqphPk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xeNMbqphPk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xeNMbqphPk/video.m3u8",
+          "duration": 765,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-8",
+          "title": "Degree of a Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxJ2kDDJbu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxJ2kDDJbu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxJ2kDDJbu/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-9",
+          "title": "Designing an ER Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nPTkDBh7a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nPTkDBh7a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nPTkDBh7a/video.m3u8",
+          "duration": 933,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-10",
+          "title": "Conversion from ER Model to Relational Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hg39qAaMxD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hg39qAaMxD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hg39qAaMxD/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-11",
+          "title": "Conversion from ER Model to Relational Model_Composite Attributes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aus8Chnx7M7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aus8Chnx7M7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aus8Chnx7M7/video.m3u8",
+          "duration": 437,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-12",
+          "title": "Conversion from ER Model to Relational Model - Derived and Multi-valued Attributes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JY2YP2UT2b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JY2YP2UT2b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JY2YP2UT2b/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-13",
+          "title": "Many to Many Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tcXbrHKj8u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tcXbrHKj8u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tcXbrHKj8u/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-14",
+          "title": "Many to One Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f2MS4ZAxfh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f2MS4ZAxfh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f2MS4ZAxfh/video.m3u8",
+          "duration": 381,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-15",
+          "title": "One to Many Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRtBYtZBQK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRtBYtZBQK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRtBYtZBQK/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-16",
+          "title": "One to One Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8yT3muQBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8yT3muQBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8yT3muQBr/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-17",
+          "title": "Strong and Weak Entity Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGZZNBJeT9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGZZNBJeT9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGZZNBJeT9/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-18",
+          "title": "Strong and Weak Entity Sets_2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tAUKS68gHS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tAUKS68gHS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tAUKS68gHS/video.m3u8",
+          "duration": 270,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-19",
+          "title": "Cardinality of a Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr7ZepCF4k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr7ZepCF4k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr7ZepCF4k/video.m3u8",
+          "duration": 531,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-20",
+          "title": "Total and Partial Participation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r75j6Rr9Uf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r75j6Rr9Uf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r75j6Rr9Uf/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-21",
+          "title": "Cardinality and Participation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4x2uUnsUxxs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4x2uUnsUxxs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4x2uUnsUxxs/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-22",
+          "title": "Examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aQaQzSHS2a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aQaQzSHS2a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aQaQzSHS2a/video.m3u8",
+          "duration": 408,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-23",
+          "title": "Codd's Rules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RhDUhE6UAB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RhDUhE6UAB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RhDUhE6UAB/video.m3u8",
+          "duration": 914,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dbms-3",
+          "title": "ER Modelling",
+          "url": "https://docs.google.com/document/d/10xtdvmOs2AdMWWpeb16JrXXdS4coBXOx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/10xtdvmOs2AdMWWpeb16JrXXdS4coBXOx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/10xtdvmOs2AdMWWpeb16JrXXdS4coBXOx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/10xtdvmOs2AdMWWpeb16JrXXdS4coBXOx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Database Design",
+      "lectures": [
+        {
+          "id": "td-dbms-24",
+          "title": "Data Independence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x3HADNc34x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x3HADNc34x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x3HADNc34x/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-25",
+          "title": "Keys in DBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bBhnfqSet/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bBhnfqSet/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bBhnfqSet/video.m3u8",
+          "duration": 1145,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-26",
+          "title": "Functional Dependence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dF2H5XqFFK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dF2H5XqFFK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dF2H5XqFFK/video.m3u8",
+          "duration": 735,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-27",
+          "title": "Inference Rules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnCyMBHtmJy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnCyMBHtmJy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnCyMBHtmJy/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-28",
+          "title": "Closure of Functional Dependencies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mNDZMx565C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mNDZMx565C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mNDZMx565C/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-29",
+          "title": "Minimal Cover",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zGDyhdpBzt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zGDyhdpBzt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zGDyhdpBzt/video.m3u8",
+          "duration": 648,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-30",
+          "title": "Fully Functional Dependency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GfffKaxck7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GfffKaxck7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GfffKaxck7/video.m3u8",
+          "duration": 615,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-31",
+          "title": "Transitive Dependency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38aagMmnmge/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38aagMmnmge/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38aagMmnmge/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-32",
+          "title": "Multi Valued Dependency",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pDuEksm82b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pDuEksm82b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pDuEksm82b/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-33",
+          "title": "Normalization Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/T3NJrmHUxc3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/T3NJrmHUxc3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/T3NJrmHUxc3/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-34",
+          "title": "Computer Center Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GnEfbetSTs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GnEfbetSTs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GnEfbetSTs/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-35",
+          "title": "First Normal Form_1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ydCtRGHhs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ydCtRGHhs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ydCtRGHhs/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-36",
+          "title": "Anomalies of the First Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JZ8QRS437q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JZ8QRS437q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JZ8QRS437q/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-37",
+          "title": "First Normal Form_2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp89kumdpk7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp89kumdpk7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp89kumdpk7/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-38",
+          "title": "Second Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN5GqrKDNfG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN5GqrKDNfG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN5GqrKDNfG/video.m3u8",
+          "duration": 550,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-39",
+          "title": "1Third Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hdKUx5dyyX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hdKUx5dyyX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hdKUx5dyyX/video.m3u8",
+          "duration": 286,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-40",
+          "title": "1Boyce Codd Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dXcjFRSyB4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dXcjFRSyB4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dXcjFRSyB4/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-41",
+          "title": "1Fourth Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtkfD4PCr5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtkfD4PCr5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtkfD4PCr5/video.m3u8",
+          "duration": 848,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-42",
+          "title": "1Fifth Normal Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TMnjxjf2hC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TMnjxjf2hC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TMnjxjf2hC/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dbms-5",
+          "title": "Relational Schema and Normalization",
+          "url": "https://docs.google.com/document/d/1LdhEhWEWCcVD6eYpBmxsVHdAOXI3hIz0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1LdhEhWEWCcVD6eYpBmxsVHdAOXI3hIz0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1LdhEhWEWCcVD6eYpBmxsVHdAOXI3hIz0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1LdhEhWEWCcVD6eYpBmxsVHdAOXI3hIz0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Relational Algebra",
+      "lectures": [
+        {
+          "id": "td-dbms-43",
+          "title": "Relational Query Languages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YUZ6M2fzsS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YUZ6M2fzsS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YUZ6M2fzsS/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-44",
+          "title": "Basics of Relational Algebra",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pzFCAjQGMj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pzFCAjQGMj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pzFCAjQGMj/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-45",
+          "title": "Select Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH2z6CkxDkb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH2z6CkxDkb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH2z6CkxDkb/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-46",
+          "title": "Projection Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NQkeHpT36N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NQkeHpT36N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NQkeHpT36N/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-47",
+          "title": "Rename Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QY88xhFg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QY88xhFg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QY88xhFg6/video.m3u8",
+          "duration": 381,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-48",
+          "title": "Union Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYesSSHG4Hc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYesSSHG4Hc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYesSSHG4Hc/video.m3u8",
+          "duration": 472,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-49",
+          "title": "Intersection Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/658ykSepk4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/658ykSepk4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/658ykSepk4Q/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-50",
+          "title": "Set Difference Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SrBc6ZK4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SrBc6ZK4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SrBc6ZK4f/video.m3u8",
+          "duration": 336,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-51",
+          "title": "Cartesian Product Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SRm6YE9EEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SRm6YE9EEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SRm6YE9EEu/video.m3u8",
+          "duration": 707,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-52",
+          "title": "Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HUQDHbT4YP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HUQDHbT4YP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HUQDHbT4YP/video.m3u8",
+          "duration": 959,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-53",
+          "title": "Relational Algebra Queries_1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x9syeEuUk6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x9syeEuUk6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x9syeEuUk6/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-54",
+          "title": "Relational Algebra Queries_2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ekFHTZXNyX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ekFHTZXNyX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ekFHTZXNyX/video.m3u8",
+          "duration": 659,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dbms-7",
+          "title": "Relational Algebra",
+          "url": "https://docs.google.com/document/d/1ztv-l5hE_kMWQCuymHaHOBsygq5IbpMO/edit?usp=drive_link&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ztv-l5hE_kMWQCuymHaHOBsygq5IbpMO/edit?usp=drive_link&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ztv-l5hE_kMWQCuymHaHOBsygq5IbpMO/edit?usp=drive_link&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ztv-l5hE_kMWQCuymHaHOBsygq5IbpMO/edit?usp=drive_link&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Oracle Introduction",
+      "lectures": [
+        {
+          "id": "td-dbms-55",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4knKb74X77k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4knKb74X77k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4knKb74X77k/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-56",
+          "title": "DESCRIBE Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UHqANSsexM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UHqANSsexM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UHqANSsexM/video.m3u8",
+          "duration": 465,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-57",
+          "title": "SQL Statement Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqBGgUpJSg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqBGgUpJSg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqBGgUpJSg/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Retrieving Data",
+      "lectures": [
+        {
+          "id": "td-dbms-58",
+          "title": "Select Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RMfzZ263cJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RMfzZ263cJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RMfzZ263cJ/video.m3u8",
+          "duration": 223,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-59",
+          "title": "Column Aliases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zKnsMpGrF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zKnsMpGrF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zKnsMpGrF/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-60",
+          "title": "Quote Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TfyKBNJArz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TfyKBNJArz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TfyKBNJArz/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-61",
+          "title": "DISTINCT and UNIQUE Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4B9gGAA2GMS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4B9gGAA2GMS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4B9gGAA2GMS/video.m3u8",
+          "duration": 519,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-62",
+          "title": "Concatenation Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6A2SYRYzxx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6A2SYRYzxx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6A2SYRYzxx/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-63",
+          "title": "Arithmetic Expressions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34f5baA2jmH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34f5baA2jmH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34f5baA2jmH/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Receiving",
+      "lectures": [
+        {
+          "id": "td-dbms-64",
+          "title": "WHERE Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DE3BEz7N45/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DE3BEz7N45/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DE3BEz7N45/video.m3u8",
+          "duration": 298,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-65",
+          "title": "Comparison Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qqHBr37scy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qqHBr37scy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qqHBr37scy/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-66",
+          "title": "BETWEEN ... AND Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Adjh43mTKBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Adjh43mTKBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Adjh43mTKBr/video.m3u8",
+          "duration": 189,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-67",
+          "title": "IN Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9au2DTy4Jz2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9au2DTy4Jz2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9au2DTy4Jz2/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-68",
+          "title": "LIKE Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88ajFHARmF7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88ajFHARmF7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88ajFHARmF7/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-69",
+          "title": "IS NULL Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6puBaUf9dBx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6puBaUf9dBx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6puBaUf9dBx/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-70",
+          "title": "Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xHGJmPjJr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xHGJmPjJr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xHGJmPjJr/video.m3u8",
+          "duration": 439,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-71",
+          "title": "Rules of Precedence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uMYUqDTKcb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uMYUqDTKcb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uMYUqDTKcb/video.m3u8",
+          "duration": 447,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Sorting Data",
+      "lectures": [
+        {
+          "id": "td-dbms-72",
+          "title": "ORDER BY Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFmdR635SC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFmdR635SC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFmdR635SC/video.m3u8",
+          "duration": 412,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-73",
+          "title": "ASC and DESC Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XyR7XxQKKm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XyR7XxQKKm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XyR7XxQKKm/video.m3u8",
+          "duration": 203,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-74",
+          "title": "NULLS FIRST and NULLS LAST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aeqa5XbamJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aeqa5XbamJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aeqa5XbamJ/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-75",
+          "title": "ROWID and ROWNUM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G8kgYHYD9G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G8kgYHYD9G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G8kgYHYD9G/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Single-Row Functions",
+      "lectures": [
+        {
+          "id": "td-dbms-76",
+          "title": "Single Row Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78kUPjSsAsh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78kUPjSsAsh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78kUPjSsAsh/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-77",
+          "title": "Case Conversion Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhbS4h7yDN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhbS4h7yDN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhbS4h7yDN/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-78",
+          "title": "Character Manipulation Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZH8fGQGfZC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZH8fGQGfZC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZH8fGQGfZC/video.m3u8",
+          "duration": 629,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-79",
+          "title": "Numeric Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fj8na3KaR8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fj8na3KaR8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fj8na3KaR8/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-80",
+          "title": "Nested Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeqrdB5dx4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeqrdB5dx4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeqrdB5dx4Q/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-81",
+          "title": "Date Values and Formats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3SjEauUGa5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3SjEauUGa5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3SjEauUGa5/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-82",
+          "title": "Date Format Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ydN6JdKhs6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ydN6JdKhs6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ydN6JdKhs6/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-83",
+          "title": "Date Functions and Arithmetic Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YDXJJugMm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YDXJJugMm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YDXJJugMm3/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-84",
+          "title": "Date Manipulation Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sr9yZehdT7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sr9yZehdT7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sr9yZehdT7/video.m3u8",
+          "duration": 136,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-85",
+          "title": "Number Format Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jzgUbaD4cA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jzgUbaD4cA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jzgUbaD4cA/video.m3u8",
+          "duration": 316,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Conversion Functions",
+      "lectures": [
+        {
+          "id": "td-dbms-86",
+          "title": "Oracle Conversion Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKESyTtHPQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKESyTtHPQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKESyTtHPQ/video.m3u8",
+          "duration": 161,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-87",
+          "title": "Implicit Conversion Examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xnj6gfg45Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xnj6gfg45Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xnj6gfg45Z/video.m3u8",
+          "duration": 97,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-88",
+          "title": "TO_CHAR Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JJqEBEyMjK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JJqEBEyMjK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JJqEBEyMjK/video.m3u8",
+          "duration": 150,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-89",
+          "title": "NVL, NVL2, NULLIF and COALESCE Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f27eUC9JJz8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f27eUC9JJz8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f27eUC9JJz8/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Group Functions",
+      "lectures": [
+        {
+          "id": "td-dbms-90",
+          "title": "Group Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HYtd7PZag3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HYtd7PZag3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HYtd7PZag3/video.m3u8",
+          "duration": 204,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-91",
+          "title": "AVG Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GdPJy88xEh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GdPJy88xEh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GdPJy88xEh/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-92",
+          "title": "COUNT Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ruke2FRyuxn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ruke2FRyuxn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ruke2FRyuxn/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-93",
+          "title": "MAX Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9neaSszGRMy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9neaSszGRMy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9neaSszGRMy/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-94",
+          "title": "MIN Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4feX344arP6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4feX344arP6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4feX344arP6/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-95",
+          "title": "SUM Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BabkHjDytpZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BabkHjDytpZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BabkHjDytpZ/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-96",
+          "title": "LISTAGG Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dmZfhh4D7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dmZfhh4D7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dmZfhh4D7y/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-97",
+          "title": "Overview of Group Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hhnFfN2mK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hhnFfN2mK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hhnFfN2mK2/video.m3u8",
+          "duration": 158,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Grouping Data",
+      "lectures": [
+        {
+          "id": "td-dbms-98",
+          "title": "GROUP BY Clause - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQ2uzHG9cZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQ2uzHG9cZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQ2uzHG9cZ/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-99",
+          "title": "GROUP BY Clause - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fybUpCpAsn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fybUpCpAsn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fybUpCpAsn/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-100",
+          "title": "HAVING Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57SK4j4MEXG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57SK4j4MEXG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57SK4j4MEXG/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-101",
+          "title": "Nested Group Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfuupfK2SQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfuupfK2SQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfuupfK2SQ/video.m3u8",
+          "duration": 225,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Joins",
+      "lectures": [
+        {
+          "id": "td-dbms-102",
+          "title": "Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j7mj9ceFZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j7mj9ceFZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j7mj9ceFZk/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-103",
+          "title": "Creating a Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2sF284R8G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2sF284R8G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2sF284R8G/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-104",
+          "title": "Natural Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGn8dueXdgr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGn8dueXdgr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGn8dueXdgr/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-105",
+          "title": "Join with USING Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgAry6Kd7kx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgAry6Kd7kx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgAry6Kd7kx/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-106",
+          "title": "Handling Ambiguous Column Names",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42ssZZzszMp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42ssZZzszMp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42ssZZzszMp/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-107",
+          "title": "INNER Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BdeBEfGrKs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BdeBEfGrKs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BdeBEfGrKs/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-108",
+          "title": "Multiple Join Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Aj4hugkPZs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Aj4hugkPZs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Aj4hugkPZs/video.m3u8",
+          "duration": 222,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-109",
+          "title": "Restricting Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U9ZrQBgGEh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U9ZrQBgGEh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U9ZrQBgGEh/video.m3u8",
+          "duration": 175,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-110",
+          "title": "SELF Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5NsHPMHCNg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5NsHPMHCNg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5NsHPMHCNg/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-111",
+          "title": "Non-Equijoins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyyHCS5f9zH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyyHCS5f9zH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyyHCS5f9zH/video.m3u8",
+          "duration": 209,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-112",
+          "title": "OUTER Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gc5k6z9FGF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gc5k6z9FGF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gc5k6z9FGF/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-113",
+          "title": "CROSS Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g8XkQ5rm96/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g8XkQ5rm96/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g8XkQ5rm96/video.m3u8",
+          "duration": 367,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-114",
+          "title": "Join Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54G4kTQpMMf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54G4kTQpMMf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54G4kTQpMMf/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dbms-17",
+          "title": "Oracle SQL Queries and Joins",
+          "url": "https://docs.google.com/document/d/1JBjHxwdYen5sGPwlFg_T3Atxr4BUSKy0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JBjHxwdYen5sGPwlFg_T3Atxr4BUSKy0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JBjHxwdYen5sGPwlFg_T3Atxr4BUSKy0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JBjHxwdYen5sGPwlFg_T3Atxr4BUSKy0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Oracle Subqueries",
+      "lectures": [
+        {
+          "id": "td-dbms-115",
+          "title": "Subqueries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8J6cRJCXHsZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8J6cRJCXHsZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8J6cRJCXHsZ/video.m3u8",
+          "duration": 267,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-116",
+          "title": "Single Row Subqueries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XqUsJCFQhf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XqUsJCFQhf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XqUsJCFQhf/video.m3u8",
+          "duration": 373,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-117",
+          "title": "Multiple Row Subqueries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B7xCeFHqxd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B7xCeFHqxd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B7xCeFHqxd/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-118",
+          "title": "Multiple Column Subqueries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C49EpB6nRem/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C49EpB6nRem/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C49EpB6nRem/video.m3u8",
+          "duration": 402,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle Set Operators",
+      "lectures": [
+        {
+          "id": "td-dbms-119",
+          "title": "SET Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bRnjppjbEG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bRnjppjbEG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bRnjppjbEG/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-120",
+          "title": "UNION and UNION ALL Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ggRAUrMF4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ggRAUrMF4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ggRAUrMF4d/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-121",
+          "title": "INTERSECT Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sP7ja2hJSj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sP7ja2hJSj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sP7ja2hJSj/video.m3u8",
+          "duration": 105,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-122",
+          "title": "MINUS Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhMseJRagJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhMseJRagJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhMseJRagJ/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-123",
+          "title": "Matching Unmatched Queries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/thpkJ87ZgnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/thpkJ87ZgnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/thpkJ87ZgnJ/video.m3u8",
+          "duration": 259,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-124",
+          "title": "ORDER BY with SET Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h34tqMZhH8U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h34tqMZhH8U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h34tqMZhH8U/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-125",
+          "title": "Combining Multiple Queries with SET Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycs79Zkpny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycs79Zkpny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycs79Zkpny/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle DDL Commands",
+      "lectures": [
+        {
+          "id": "td-dbms-126",
+          "title": "Data Definition Language",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ED7kTzFR4a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ED7kTzFR4a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ED7kTzFR4a/video.m3u8",
+          "duration": 110,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-127",
+          "title": "Database Object Naming Rules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pnGaDqbyKNZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pnGaDqbyKNZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pnGaDqbyKNZ/video.m3u8",
+          "duration": 195,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-128",
+          "title": "CREATE TABLE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxEtf3FafR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxEtf3FafR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxEtf3FafR/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-129",
+          "title": "ALTER TABLE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CPCksMDPHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CPCksMDPHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CPCksMDPHK/video.m3u8",
+          "duration": 498,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-130",
+          "title": "DROP TABLE Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FMmrchzrnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FMmrchzrnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FMmrchzrnC/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-131",
+          "title": "TRUNCATE TABLE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KmYQjEXpMS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KmYQjEXpMS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KmYQjEXpMS/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-132",
+          "title": "RENAME TABLE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uB8RmrBsZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uB8RmrBsZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uB8RmrBsZK/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle DML Commands",
+      "lectures": [
+        {
+          "id": "td-dbms-133",
+          "title": "Data Manipulation Language",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DJb3e876ZY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DJb3e876ZY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DJb3e876ZY/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-134",
+          "title": "INSERT Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6emzHrQzq6t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6emzHrQzq6t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6emzHrQzq6t/video.m3u8",
+          "duration": 328,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-135",
+          "title": "INSERT INTO SELECT Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4guTYShGagc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4guTYShGagc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4guTYShGagc/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-136",
+          "title": "UPDATE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ad5JGqpDB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ad5JGqpDB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ad5JGqpDB/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-137",
+          "title": "DELETE Statement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3A6JFstB2b4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3A6JFstB2b4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3A6JFstB2b4/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dbms-22",
+          "title": "Oracle SQL Functions Subqueries DDL DML",
+          "url": "https://docs.google.com/document/d/1YINaFvsxhH6byaKuvX8POEkCOnQme-X6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YINaFvsxhH6byaKuvX8POEkCOnQme-X6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YINaFvsxhH6byaKuvX8POEkCOnQme-X6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YINaFvsxhH6byaKuvX8POEkCOnQme-X6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Oracle Constraints",
+      "lectures": [
+        {
+          "id": "td-dbms-138",
+          "title": "Constraints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6azXs29T58/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6azXs29T58/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6azXs29T58/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-139",
+          "title": "NOT NULL Constraint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x59jATJjtM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x59jATJjtM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x59jATJjtM/video.m3u8",
+          "duration": 147,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-140",
+          "title": "UNIQUE Constraint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39PEQXgcbhz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39PEQXgcbhz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39PEQXgcbhz/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-141",
+          "title": "Primary Key Constraint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S7JeqGA5Bf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S7JeqGA5Bf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S7JeqGA5Bf/video.m3u8",
+          "duration": 144,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-142",
+          "title": "Foreign Key Constraint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDSZZEctC8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDSZZEctC8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDSZZEctC8/video.m3u8",
+          "duration": 183,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-143",
+          "title": "Check Constraint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b53PKYsGg8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b53PKYsGg8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b53PKYsGg8/video.m3u8",
+          "duration": 152,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Oracle PLSQL",
+      "lectures": [
+        {
+          "id": "td-dbms-144",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xhHQYhZqet/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xhHQYhZqet/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xhHQYhZqet/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-145",
+          "title": "Procedure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8meJapsa4Jm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8meJapsa4Jm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8meJapsa4Jm/video.m3u8",
+          "duration": 707,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-146",
+          "title": "Trigger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JmaCkmJSSE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JmaCkmJSSE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JmaCkmJSSE/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-147",
+          "title": "Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpAcCaQUGB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpAcCaQUGB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpAcCaQUGB/video.m3u8",
+          "duration": 409,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Storage and Querying",
+      "lectures": [
+        {
+          "id": "td-dbms-148",
+          "title": "Disk Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ZKefGnAzg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ZKefGnAzg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ZKefGnAzg/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-149",
+          "title": "Pages and Blocks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fTt8N5TnHG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fTt8N5TnHG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fTt8N5TnHG/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-150",
+          "title": "Time to Access a Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FPs4xKGQDH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FPs4xKGQDH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FPs4xKGQDH/video.m3u8",
+          "duration": 251,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-151",
+          "title": "Heap Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JNExRzKX2gT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JNExRzKX2gT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JNExRzKX2gT/video.m3u8",
+          "duration": 568,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-152",
+          "title": "Index and Index Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm7hNJSxR8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm7hNJSxR8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm7hNJSxR8/video.m3u8",
+          "duration": 290,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-153",
+          "title": "Sorted Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYByaXUF63/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYByaXUF63/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYByaXUF63/video.m3u8",
+          "duration": 652,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-154",
+          "title": "Storage Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jnkzhPpqZB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jnkzhPpqZB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jnkzhPpqZB/video.m3u8",
+          "duration": 324,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-155",
+          "title": "Clustered Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BetuetURzqt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BetuetURzqt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BetuetURzqt/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-156",
+          "title": "Unclustered Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Ea9quQmmq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Ea9quQmmq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Ea9quQmmq/video.m3u8",
+          "duration": 330,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-157",
+          "title": "Problem on Cost of Range Search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KyqZgYJTep/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KyqZgYJTep/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KyqZgYJTep/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-158",
+          "title": "Sparse Versus Dense Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYC3dMatFP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYC3dMatFP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYC3dMatFP/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-159",
+          "title": "Two Level Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DXPt7UJysS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DXPt7UJysS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DXPt7UJysS/video.m3u8",
+          "duration": 252,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-160",
+          "title": "Multi Level Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qcf5JKq6s7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qcf5JKq6s7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qcf5JKq6s7/video.m3u8",
+          "duration": 244,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-161",
+          "title": "Query Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rM9XczjPM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rM9XczjPM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rM9XczjPM/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-162",
+          "title": "Query Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXYbbJqB2fe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXYbbJqB2fe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXYbbJqB2fe/video.m3u8",
+          "duration": 520,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Transaction Management",
+      "lectures": [
+        {
+          "id": "td-dbms-163",
+          "title": "Transactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GbzqENXhUg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GbzqENXhUg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GbzqENXhUg/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-164",
+          "title": "Concurrent Execution of Transactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jCCSsStGMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jCCSsStGMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jCCSsStGMr/video.m3u8",
+          "duration": 495,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-165",
+          "title": "Inconsistency Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KzYghbaZpYm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KzYghbaZpYm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KzYghbaZpYm/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-166",
+          "title": "States of a Transaction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BgCaTE2nZC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BgCaTE2nZC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BgCaTE2nZC/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-167",
+          "title": "ACID Properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58t5NRpF7bQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58t5NRpF7bQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58t5NRpF7bQ/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-168",
+          "title": "Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/427dMp8PxZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/427dMp8PxZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/427dMp8PxZR/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-169",
+          "title": "Lost Update Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fak5CqyeNh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fak5CqyeNh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fak5CqyeNh/video.m3u8",
+          "duration": 548,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-170",
+          "title": "Dirty Read Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bmsYjuMTtzU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bmsYjuMTtzU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bmsYjuMTtzU/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-171",
+          "title": "Unrepeatable Read Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/528KmKd9UyN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/528KmKd9UyN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/528KmKd9UyN/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-172",
+          "title": "Phantom Read Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xXpDtfQQzd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xXpDtfQQzd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xXpDtfQQzd/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-173",
+          "title": "Recoverable and Non-Recoverable Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6z5gdQYK3y9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6z5gdQYK3y9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6z5gdQYK3y9/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-174",
+          "title": "Cascadeless and Cascading Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G8NpFp8S6z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G8NpFp8S6z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G8NpFp8S6z/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-175",
+          "title": "Recoverable and Cascadeless Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TP9r6gUHFq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TP9r6gUHFq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TP9r6gUHFq/video.m3u8",
+          "duration": 405,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-176",
+          "title": "Example Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNJmC5czYE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNJmC5czYE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNJmC5czYE/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-177",
+          "title": "Strict Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gjdf6zaM5h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gjdf6zaM5h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gjdf6zaM5h/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-178",
+          "title": "Recoverable, Cascadeless and Strict Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QdxgF9JD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QdxgF9JD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QdxgF9JD8/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-179",
+          "title": "Important Point",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSUZ3P9PKk4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSUZ3P9PKk4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSUZ3P9PKk4/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-180",
+          "title": "Equivalence of Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jgmPaGeamQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jgmPaGeamQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jgmPaGeamQ/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-181",
+          "title": "Conflicting Actions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ek9Jj2b7SA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ek9Jj2b7SA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ek9Jj2b7SA/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-182",
+          "title": "Conflict Equivalence and Equivalence of Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ReanUT6cY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ReanUT6cY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ReanUT6cY/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-183",
+          "title": "Conflict Serializability of a Schedule",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xs8zFPjg9r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xs8zFPjg9r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xs8zFPjg9r/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-184",
+          "title": "Test for Conflict Serializability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rCrZzur7P5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rCrZzur7P5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rCrZzur7P5/video.m3u8",
+          "duration": 1162,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-185",
+          "title": "Number of Conflict Serializable Schedules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Nd7KyPADft7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Nd7KyPADft7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Nd7KyPADft7/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-186",
+          "title": "Example Problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59JDHJxanMK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59JDHJxanMK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59JDHJxanMK/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-187",
+          "title": "View Equivalence and View Serializability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tQg57tJUQr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tQg57tJUQr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tQg57tJUQr/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-188",
+          "title": "Problems on View Serializability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78bkUEA7k7u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78bkUEA7k7u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78bkUEA7k7u/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-189",
+          "title": "Additional Problems on View Serializability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AypAHdTJaCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AypAHdTJaCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AypAHdTJaCY/video.m3u8",
+          "duration": 1422,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-190",
+          "title": "Shared and Exclusive Locking Protocol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EYks25mYRY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EYks25mYRY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EYks25mYRY/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-191",
+          "title": "Two Phase Locking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XAtDzG8hqX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XAtDzG8hqX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XAtDzG8hqX/video.m3u8",
+          "duration": 592,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-192",
+          "title": "Strict and Rigorous Phase Locking Protocols",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z7mYgnTBzj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z7mYgnTBzj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z7mYgnTBzj/video.m3u8",
+          "duration": 770,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-193",
+          "title": "Recovery Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tssQCuEPNg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tssQCuEPNg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tssQCuEPNg/video.m3u8",
+          "duration": 585,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "NoSQL Databases and Big Data Storage Systems",
+      "lectures": [
+        {
+          "id": "td-dbms-194",
+          "title": "Introduction to NoSQL Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RkRAAjsR2Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RkRAAjsR2Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RkRAAjsR2Y/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-195",
+          "title": "Types of NoSQL Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJPjGnsdbc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJPjGnsdbc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJPjGnsdbc/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-196",
+          "title": "BASE Properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GRxuN7B7Y9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GRxuN7B7Y9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GRxuN7B7Y9/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-197",
+          "title": "CAP Theorem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tJh9g4mpZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tJh9g4mpZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tJh9g4mpZ8/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-198",
+          "title": "Big Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn3zr3N2kRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn3zr3N2kRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn3zr3N2kRU/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Warehousing",
+      "lectures": [
+        {
+          "id": "td-dbms-199",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6QAfQYXFrJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6QAfQYXFrJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6QAfQYXFrJ/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-200",
+          "title": "Components of Data Warehouse",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9scTxTXCkFe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9scTxTXCkFe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9scTxTXCkFe/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-201",
+          "title": "Data Warehouse Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BahXaTtSEUs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BahXaTtSEUs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BahXaTtSEUs/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-202",
+          "title": "Online Analytical Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35mC9P5DTsA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35mC9P5DTsA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35mC9P5DTsA/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-203",
+          "title": "Online Transaction Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66hpHf4XJeH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66hpHf4XJeH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66hpHf4XJeH/video.m3u8",
+          "duration": 795,
+          "type": "video"
+        },
+        {
+          "id": "td-dbms-204",
+          "title": "OLAP Versus OLTP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zsCB9YE5ep/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zsCB9YE5ep/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zsCB9YE5ep/video.m3u8",
+          "duration": 559,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

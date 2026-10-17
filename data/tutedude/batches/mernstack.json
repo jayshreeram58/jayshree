@@ -1,0 +1,1840 @@
+{
+  "platform": "TuteDude",
+  "batchId": "mernstack",
+  "batchSlug": "mernstack",
+  "batchName": "MERN Stack",
+  "thumbnail": "https://www.tutedude.com/assets/avif/mernstack.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/mernstack",
+  "totalSections": 16,
+  "totalLectures": 182,
+  "totalNotes": 9,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-mernstack-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intro to Web Development",
+      "lectures": [
+        {
+          "id": "td-mernstack-2",
+          "title": "Introduction to the course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z9Da4hfHbE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z9Da4hfHbE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z9Da4hfHbE/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-3",
+          "title": "How Internet Works",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9H6Nc9QtJ2S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9H6Nc9QtJ2S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9H6Nc9QtJ2S/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-4",
+          "title": "What is Web Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KJbPXuA3k8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KJbPXuA3k8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KJbPXuA3k8/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fundamentals of Web Technology",
+      "lectures": [
+        {
+          "id": "td-mernstack-5",
+          "title": "Fundamentals of Web Technology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NcQY9EfDpJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NcQY9EfDpJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NcQY9EfDpJ/video.m3u8",
+          "duration": 3676,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-6",
+          "title": "Complete Git and GitHub Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXEQr35BbA5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXEQr35BbA5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXEQr35BbA5/video.m3u8",
+          "duration": 2163,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "HTML",
+      "lectures": [
+        {
+          "id": "td-mernstack-7",
+          "title": "Fundamentals of Web Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABXegACm4kY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABXegACm4kY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABXegACm4kY/video.m3u8",
+          "duration": 1332,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-8",
+          "title": "Intro to HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dZrFzJ7Ny/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dZrFzJ7Ny/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dZrFzJ7Ny/video.m3u8",
+          "duration": 721,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-9",
+          "title": "Head Tag in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2pDKrE9Z3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2pDKrE9Z3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2pDKrE9Z3/video.m3u8",
+          "duration": 1234,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-10",
+          "title": "Text Formatters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RZFHTMg6u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RZFHTMg6u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RZFHTMg6u/video.m3u8",
+          "duration": 1378,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-11",
+          "title": "Images in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tUyy4PHXhT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tUyy4PHXhT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tUyy4PHXhT/video.m3u8",
+          "duration": 1360,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-12",
+          "title": "Lists in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjnjpExmpbR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjnjpExmpbR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjnjpExmpbR/video.m3u8",
+          "duration": 1267,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-13",
+          "title": "Tables in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzKqP8RxEd8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzKqP8RxEd8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzKqP8RxEd8/video.m3u8",
+          "duration": 1448,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-14",
+          "title": "Web Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKkGsRsdnRh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKkGsRsdnRh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKkGsRsdnRh/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-15",
+          "title": "Links in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ybtM3m83kN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ybtM3m83kN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ybtM3m83kN/video.m3u8",
+          "duration": 1480,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-16",
+          "title": "Forms in HTML -  01",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A985BmrBDpp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A985BmrBDpp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A985BmrBDpp/video.m3u8",
+          "duration": 2400,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-17",
+          "title": "Forms 2.2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX9PQaDMMkD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX9PQaDMMkD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX9PQaDMMkD/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-18",
+          "title": "Semantic Tags in HTML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xrHT3EC4NDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xrHT3EC4NDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xrHT3EC4NDx/video.m3u8",
+          "duration": 1501,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-19",
+          "title": "Hosting the application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ym5nTHt7UU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ym5nTHt7UU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ym5nTHt7UU/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-20",
+          "title": "PROJECT- Putting it all together",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckHr2SnknK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckHr2SnknK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckHr2SnknK/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-5",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/15cziKumjUdWJZ4RCQbSdw5THbO9fPHA-clzovFn5WCY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/15cziKumjUdWJZ4RCQbSdw5THbO9fPHA-clzovFn5WCY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/15cziKumjUdWJZ4RCQbSdw5THbO9fPHA-clzovFn5WCY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/15cziKumjUdWJZ4RCQbSdw5THbO9fPHA-clzovFn5WCY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS",
+      "lectures": [
+        {
+          "id": "td-mernstack-21",
+          "title": "Intro to CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pcG7eckYQG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pcG7eckYQG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pcG7eckYQG/video.m3u8",
+          "duration": 1541,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-22",
+          "title": "CSS Selectors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nu2CaPcUxs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nu2CaPcUxs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nu2CaPcUxs/video.m3u8",
+          "duration": 2491,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-23",
+          "title": "Colors in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5N8TEUAXfhF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5N8TEUAXfhF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5N8TEUAXfhF/video.m3u8",
+          "duration": 1563,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-24",
+          "title": "Units in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RpBYK2XxcE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RpBYK2XxcE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RpBYK2XxcE/video.m3u8",
+          "duration": 1889,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-25",
+          "title": "Box Model in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pHbUy7b2Qf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pHbUy7b2Qf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pHbUy7b2Qf/video.m3u8",
+          "duration": 1382,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-26",
+          "title": "Texts and Fonts in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkAjbBtDtT2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkAjbBtDtT2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkAjbBtDtT2/video.m3u8",
+          "duration": 2298,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-27",
+          "title": "Display in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPG8Q2FQyy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPG8Q2FQyy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPG8Q2FQyy/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-28",
+          "title": "Positions in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8HcynXhUm9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8HcynXhUm9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8HcynXhUm9/video.m3u8",
+          "duration": 1442,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-29",
+          "title": "Overflow, Float and Clear in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B37nGUUM9Bh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B37nGUUM9Bh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B37nGUUM9Bh/video.m3u8",
+          "duration": 1328,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-30",
+          "title": "FlexBox in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPGEzdDPJcG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPGEzdDPJcG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPGEzdDPJcG/video.m3u8",
+          "duration": 2404,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-31",
+          "title": "Grid in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKFp6MPRzQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKFp6MPRzQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKFp6MPRzQ/video.m3u8",
+          "duration": 2223,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-32",
+          "title": "Grid Portfolio in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bdxtGMDG34/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bdxtGMDG34/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bdxtGMDG34/video.m3u8",
+          "duration": 1682,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-33",
+          "title": "Media Queries in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ysS94xX8NT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ysS94xX8NT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ysS94xX8NT/video.m3u8",
+          "duration": 1564,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-34",
+          "title": "CSS Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTbeq3B7dH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTbeq3B7dH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTbeq3B7dH/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-35",
+          "title": "Transform in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PFBMyZY6Zs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PFBMyZY6Zs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PFBMyZY6Zs/video.m3u8",
+          "duration": 1519,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-36",
+          "title": "Tranistion in CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHXh6dzETPR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHXh6dzETPR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHXh6dzETPR/video.m3u8",
+          "duration": 1818,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-37",
+          "title": "Keyframe Animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZ2rtbFmtE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZ2rtbFmtE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZ2rtbFmtE/video.m3u8",
+          "duration": 2282,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-7",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1WujW8TJ6gencKAHDXfSZoVpOPEwvYU2K6DrimShUe0c/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1WujW8TJ6gencKAHDXfSZoVpOPEwvYU2K6DrimShUe0c/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1WujW8TJ6gencKAHDXfSZoVpOPEwvYU2K6DrimShUe0c/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1WujW8TJ6gencKAHDXfSZoVpOPEwvYU2K6DrimShUe0c/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "HTML CSS Project",
+      "lectures": [
+        {
+          "id": "td-mernstack-38",
+          "title": "Bella Vista - Project Demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42YqtbYkzB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42YqtbYkzB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42YqtbYkzB/video.m3u8",
+          "duration": 591,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-39",
+          "title": "Bella Vista - Header and Navigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sxgqFrrePn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sxgqFrrePn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sxgqFrrePn/video.m3u8",
+          "duration": 1914,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-40",
+          "title": "Bella Vista - Hero Section",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eEFFrDPPtf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eEFFrDPPtf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eEFFrDPPtf/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-41",
+          "title": "Bella Vista - Menu Section",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5agQRsk4a8S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5agQRsk4a8S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5agQRsk4a8S/video.m3u8",
+          "duration": 1529,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-42",
+          "title": "Bella Vista - About Section",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u9BnKsHKkF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u9BnKsHKkF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u9BnKsHKkF/video.m3u8",
+          "duration": 1032,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-43",
+          "title": "Bella Vista - Contact Us Section",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bx4Rm6udxk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bx4Rm6udxk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bx4Rm6udxk/video.m3u8",
+          "duration": 1849,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-44",
+          "title": "Bella Vista - CSS Custom Property and Responsive Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KBppHskEhT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KBppHskEhT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KBppHskEhT/video.m3u8",
+          "duration": 1504,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-45",
+          "title": "Bella Vista - Footer Section",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DeZ3qqqayf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DeZ3qqqayf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DeZ3qqqayf/video.m3u8",
+          "duration": 1532,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Javascript",
+      "lectures": [
+        {
+          "id": "td-mernstack-46",
+          "title": "Intro to JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hdTbnnF9Q3Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hdTbnnF9Q3Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hdTbnnF9Q3Z/video.m3u8",
+          "duration": 2161,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-47",
+          "title": "Data Types in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YPyPEr7zeX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YPyPEr7zeX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YPyPEr7zeX/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-48",
+          "title": "Operators in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eUUxpeySqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eUUxpeySqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eUUxpeySqf/video.m3u8",
+          "duration": 2407,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-49",
+          "title": "If-Else Condition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jczbUZqnSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jczbUZqnSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jczbUZqnSz/video.m3u8",
+          "duration": 1625,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-50",
+          "title": "Switch in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a8mR5zmrbs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a8mR5zmrbs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a8mR5zmrbs/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-51",
+          "title": "Loops in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mrzj6s4HRD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mrzj6s4HRD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mrzj6s4HRD/video.m3u8",
+          "duration": 2067,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-52",
+          "title": "Arrays in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eCERsET5cQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eCERsET5cQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eCERsET5cQ/video.m3u8",
+          "duration": 2052,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-53",
+          "title": "Functions in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEzqgggAyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEzqgggAyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEzqgggAyf/video.m3u8",
+          "duration": 1937,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-54",
+          "title": "Advanced Funcs in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tc8d7hHbZ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tc8d7hHbZ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tc8d7hHbZ5/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-55",
+          "title": "Call Back Hell in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXJCQUDHRj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXJCQUDHRj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXJCQUDHRj/video.m3u8",
+          "duration": 1411,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-56",
+          "title": "Promises in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Tmd8PPNBuQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Tmd8PPNBuQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Tmd8PPNBuQ/video.m3u8",
+          "duration": 2065,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-57",
+          "title": "DOM Manipulations in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d8X79AkUZN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d8X79AkUZN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d8X79AkUZN/video.m3u8",
+          "duration": 1960,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-58",
+          "title": "Events in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xe8bxjGS9n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xe8bxjGS9n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xe8bxjGS9n/video.m3u8",
+          "duration": 1598,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-10",
+          "title": "Assignment 3",
+          "url": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit?utm_content=DAGtbr6eZWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit?utm_content=DAGtbr6eZWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit?utm_content=DAGtbr6eZWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit?utm_content=DAGtbr6eZWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "The Killer Website (Frontend Project)",
+      "lectures": [
+        {
+          "id": "td-mernstack-59",
+          "title": "Setting up the folder structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/795AzBJmZnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/795AzBJmZnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/795AzBJmZnC/video.m3u8",
+          "duration": 1250,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-60",
+          "title": "Responsive grid system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ueQdhGaN2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ueQdhGaN2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ueQdhGaN2/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-61",
+          "title": "Header section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4csjKy3FU6S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4csjKy3FU6S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4csjKy3FU6S/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-62",
+          "title": "Header section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nFYkXheSnB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nFYkXheSnB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nFYkXheSnB/video.m3u8",
+          "duration": 1081,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-63",
+          "title": "Header section - Part-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXqFEbCuQYy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXqFEbCuQYy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXqFEbCuQYy/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-64",
+          "title": "Feature section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rx4FM8N83p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rx4FM8N83p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rx4FM8N83p/video.m3u8",
+          "duration": 678,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-65",
+          "title": "Feature section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JkcKGzYmK2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JkcKGzYmK2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JkcKGzYmK2/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-66",
+          "title": "Creating Favorite meal section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KedcNjfUZJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KedcNjfUZJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KedcNjfUZJ/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-67",
+          "title": "Creating Favorite meal section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsBTm7s3H3g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsBTm7s3H3g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsBTm7s3H3g/video.m3u8",
+          "duration": 552,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-68",
+          "title": "Creating how it works section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x7NTt5zKBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x7NTt5zKBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x7NTt5zKBd/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-69",
+          "title": "Creating how it works section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fym38d7xEM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fym38d7xEM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fym38d7xEM/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-70",
+          "title": "Creating the city section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF6GcCmYN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF6GcCmYN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF6GcCmYN/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-71",
+          "title": "Creating the city section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cd5FeuznbC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cd5FeuznbC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cd5FeuznbC/video.m3u8",
+          "duration": 750,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-72",
+          "title": "Creating Customer testimonial section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dhQcz7gBfj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dhQcz7gBfj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dhQcz7gBfj/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-73",
+          "title": "Creating Customer testimonial section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pRfjAMrXkc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pRfjAMrXkc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pRfjAMrXkc/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-74",
+          "title": "Creating Sign up section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tKcRJquYRx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tKcRJquYRx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tKcRJquYRx/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-75",
+          "title": "Creating Sign up section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6a7A6tJany/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6a7A6tJany/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6a7A6tJany/video.m3u8",
+          "duration": 756,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-76",
+          "title": "Creating the contact form section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qgBU7aSRzS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qgBU7aSRzS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qgBU7aSRzS/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-77",
+          "title": "Creating the contact form section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57zcKkksA43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57zcKkksA43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57zcKkksA43/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-78",
+          "title": "Creating the footer section - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag3XFjmj8KS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag3XFjmj8KS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag3XFjmj8KS/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-79",
+          "title": "Creating the footer section - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q8GF4Hrd55/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q8GF4Hrd55/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q8GF4Hrd55/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-80",
+          "title": "Making webpage responsive - Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APdAmEz7s7M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APdAmEz7s7M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APdAmEz7s7M/video.m3u8",
+          "duration": 1023,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-81",
+          "title": "Making webpage responsive - Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bndHJTDUDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bndHJTDUDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bndHJTDUDx/video.m3u8",
+          "duration": 1119,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-82",
+          "title": "Including jquery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gggHZBcAhQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gggHZBcAhQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gggHZBcAhQ/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-83",
+          "title": "Scrolling effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XpArFhHCF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XpArFhHCF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XpArFhHCF6/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-84",
+          "title": "Adding animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UCb94mSf7U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UCb94mSf7U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UCb94mSf7U/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-12",
+          "title": "Assignment 4",
+          "url": "https://www.canva.com/design/DAGucWTXdRo/RyB-eo5uw2ZiTK41ZFQN5Q/edit?utm_content=DAGucWTXdRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGucWTXdRo/RyB-eo5uw2ZiTK41ZFQN5Q/edit?utm_content=DAGucWTXdRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGucWTXdRo/RyB-eo5uw2ZiTK41ZFQN5Q/edit?utm_content=DAGucWTXdRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGucWTXdRo/RyB-eo5uw2ZiTK41ZFQN5Q/edit?utm_content=DAGucWTXdRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tailwind CSS",
+      "lectures": [
+        {
+          "id": "td-mernstack-85",
+          "title": "Intro to TailwindCSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PDaydKAqJE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PDaydKAqJE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PDaydKAqJE/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-86",
+          "title": "Tailwind CSS setup with CDN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JfzmzmNkgk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JfzmzmNkgk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JfzmzmNkgk/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-87",
+          "title": "Tailwind CSS with CLI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEs2tFXsRC5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEs2tFXsRC5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEs2tFXsRC5/video.m3u8",
+          "duration": 1132,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-88",
+          "title": "Importance of Tailwnd CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qZJGMYKTBF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qZJGMYKTBF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qZJGMYKTBF/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-89",
+          "title": "Colors in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zn7SHzcgac/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zn7SHzcgac/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zn7SHzcgac/video.m3u8",
+          "duration": 1001,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-90",
+          "title": "Margin and Padding in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGYbG7ZExku/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGYbG7ZExku/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGYbG7ZExku/video.m3u8",
+          "duration": 1412,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-91",
+          "title": "Width in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecscMtmQDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecscMtmQDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecscMtmQDZ/video.m3u8",
+          "duration": 1350,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-92",
+          "title": "Height in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uajAjMRANf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uajAjMRANf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uajAjMRANf/video.m3u8",
+          "duration": 1345,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-93",
+          "title": "Size Class in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JH9s98n3ET/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JH9s98n3ET/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JH9s98n3ET/video.m3u8",
+          "duration": 1008,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-94",
+          "title": "Positions in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Xuz2CXaag7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Xuz2CXaag7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Xuz2CXaag7/video.m3u8",
+          "duration": 1322,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-95",
+          "title": "Container Class in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsKhchy2hE4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsKhchy2hE4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsKhchy2hE4/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-96",
+          "title": "Background Classes in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtRSnd2pNTh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtRSnd2pNTh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtRSnd2pNTh/video.m3u8",
+          "duration": 1046,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-97",
+          "title": "Filter Class in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFra6ftcsu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFra6ftcsu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFra6ftcsu/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-98",
+          "title": "Interactivity with Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6f68z6JMs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6f68z6JMs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6f68z6JMs/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-99",
+          "title": "Media Query and Its Breakpoints in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BFKdRpdmDA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BFKdRpdmDA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BFKdRpdmDA/video.m3u8",
+          "duration": 1262,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-100",
+          "title": "Column Classes in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j6Q93ffxpJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j6Q93ffxpJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j6Q93ffxpJ/video.m3u8",
+          "duration": 1358,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-101",
+          "title": "Flex Classes in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ACDyTzjQUU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ACDyTzjQUU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ACDyTzjQUU/video.m3u8",
+          "duration": 1384,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-102",
+          "title": "Grid in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85pkeeYPXJs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85pkeeYPXJs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85pkeeYPXJs/video.m3u8",
+          "duration": 742,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-103",
+          "title": "Animations in Tailwind CSS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kb7hkQfjGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kb7hkQfjGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kb7hkQfjGE/video.m3u8",
+          "duration": 742,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ReactJs",
+      "lectures": [
+        {
+          "id": "td-mernstack-104",
+          "title": "Intro to React",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeE3sgSBFsZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeE3sgSBFsZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeE3sgSBFsZ/video.m3u8",
+          "duration": 504,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-105",
+          "title": "Road Map to React",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XYj7Mk56QE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XYj7Mk56QE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XYj7Mk56QE/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-106",
+          "title": "Create a react project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gAfRj3qpYES/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gAfRj3qpYES/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gAfRj3qpYES/video.m3u8",
+          "duration": 2586,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-107",
+          "title": "Undertsand the React Flow and File Structures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ep7gHzDMHs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ep7gHzDMHs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ep7gHzDMHs/video.m3u8",
+          "duration": 2490,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-108",
+          "title": "Creating our own Custom React library and JSX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tezUZsGS7N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tezUZsGS7N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tezUZsGS7N/video.m3u8",
+          "duration": 3094,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-109",
+          "title": "Hooks in React",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SHBp8hNtR4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SHBp8hNtR4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SHBp8hNtR4/video.m3u8",
+          "duration": 1744,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-110",
+          "title": "Props in React",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d75gRmqsrH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d75gRmqsrH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d75gRmqsrH/video.m3u8",
+          "duration": 2822,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-111",
+          "title": "UseState, useCallback, useEffect, useRef in React Hooks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jqZ97H52ec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jqZ97H52ec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jqZ97H52ec/video.m3u8",
+          "duration": 3482,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-112",
+          "title": "Hooks Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hEBRe4XYjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hEBRe4XYjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hEBRe4XYjU/video.m3u8",
+          "duration": 1157,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-113",
+          "title": "React - Router",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XMCgAa8x6P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XMCgAa8x6P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XMCgAa8x6P/video.m3u8",
+          "duration": 4154,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-114",
+          "title": "Create Context API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AxRsPkQYCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AxRsPkQYCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AxRsPkQYCA/video.m3u8",
+          "duration": 2164,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-115",
+          "title": "Context API Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bs27rXKsrn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bs27rXKsrn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bs27rXKsrn/video.m3u8",
+          "duration": 1459,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-116",
+          "title": "To Do Context With Local Storage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h9JuUaHUnk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h9JuUaHUnk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h9JuUaHUnk/video.m3u8",
+          "duration": 4529,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-117",
+          "title": "Keeper App Project Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rMSUfAZ8s4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rMSUfAZ8s4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rMSUfAZ8s4/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-118",
+          "title": "Keeper App Project Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48uZhN2N8FX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48uZhN2N8FX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48uZhN2N8FX/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-119",
+          "title": "Keeper App Project Part-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7nUB93gtQj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7nUB93gtQj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7nUB93gtQj/video.m3u8",
+          "duration": 694,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-15",
+          "title": "Assignment 5",
+          "url": "https://www.canva.com/design/DAGtb-Bxa6Q/ZUQF3FrQ3RwmfzU0ainSJg/edit",
+          "pdfUrl": "https://www.canva.com/design/DAGtb-Bxa6Q/ZUQF3FrQ3RwmfzU0ainSJg/edit",
+          "playerUrl": "https://www.canva.com/design/DAGtb-Bxa6Q/ZUQF3FrQ3RwmfzU0ainSJg/edit",
+          "downloadUrl": "https://www.canva.com/design/DAGtb-Bxa6Q/ZUQF3FrQ3RwmfzU0ainSJg/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "NodeJs",
+      "lectures": [
+        {
+          "id": "td-mernstack-120",
+          "title": "Intro to Node and Creating a node server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dcPsX76s4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dcPsX76s4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dcPsX76s4d/video.m3u8",
+          "duration": 1622,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-121",
+          "title": "Req, Res, Http Status Codes and HTTP Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jyBdgsD9ue/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jyBdgsD9ue/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jyBdgsD9ue/video.m3u8",
+          "duration": 1573,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-122",
+          "title": "Routing & Redirectional Requests",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EBuGkpXH8x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EBuGkpXH8x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EBuGkpXH8x/video.m3u8",
+          "duration": 2568,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-123",
+          "title": "Node To-Do-List Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xfJnS2h264/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xfJnS2h264/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xfJnS2h264/video.m3u8",
+          "duration": 2942,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-17",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/146bBZb0RaCHJ61HMLqg-PcLmnrMaG_b1siVlqQ1Nnxw/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/146bBZb0RaCHJ61HMLqg-PcLmnrMaG_b1siVlqQ1Nnxw/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/146bBZb0RaCHJ61HMLqg-PcLmnrMaG_b1siVlqQ1Nnxw/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/146bBZb0RaCHJ61HMLqg-PcLmnrMaG_b1siVlqQ1Nnxw/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "ExpressJs",
+      "lectures": [
+        {
+          "id": "td-mernstack-124",
+          "title": "Intro to Express",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kYmT5fJfBy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kYmT5fJfBy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kYmT5fJfBy/video.m3u8",
+          "duration": 1002,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-125",
+          "title": "To Do List Appln - ExpressJS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hheh567jxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hheh567jxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hheh567jxG/video.m3u8",
+          "duration": 1462,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-126",
+          "title": "Library Managment System SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mSsXsfN9hh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mSsXsfN9hh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mSsXsfN9hh/video.m3u8",
+          "duration": 3457,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-127",
+          "title": "Library Managamnet System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yJAQN5qBAxu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yJAQN5qBAxu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yJAQN5qBAxu/video.m3u8",
+          "duration": 8026,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-19",
+          "title": "Assignment 7",
+          "url": "https://docs.google.com/document/d/1eXT0XfZLMWlI2fDFh70In76NKWiA78s-kz-00WBV5mA/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1eXT0XfZLMWlI2fDFh70In76NKWiA78s-kz-00WBV5mA/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1eXT0XfZLMWlI2fDFh70In76NKWiA78s-kz-00WBV5mA/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1eXT0XfZLMWlI2fDFh70In76NKWiA78s-kz-00WBV5mA/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "MongoDB",
+      "lectures": [
+        {
+          "id": "td-mernstack-128",
+          "title": "Intro to MongoDB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQxCKz769Z7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQxCKz769Z7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQxCKz769Z7/video.m3u8",
+          "duration": 1223,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-129",
+          "title": "Connection to MongoDB, Project Setup & dotenv",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5DBJueSx5P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5DBJueSx5P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5DBJueSx5P/video.m3u8",
+          "duration": 2501,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-130",
+          "title": "Models (Collections Structure) in MongoDb",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m4HJpGmZUYc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m4HJpGmZUYc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m4HJpGmZUYc/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-131",
+          "title": "Controllers (Book Controller) & DTO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXGnkNDDZqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXGnkNDDZqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXGnkNDDZqf/video.m3u8",
+          "duration": 3305,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-132",
+          "title": "Controllers (User Controller)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95fdshNgngb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95fdshNgngb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95fdshNgngb/video.m3u8",
+          "duration": 2103,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-21",
+          "title": "Assignment 8",
+          "url": "https://docs.google.com/document/d/1wO_veynvdtaZBtj-ekfqz6-flTqn6aYlDOdJodQ86K0/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1wO_veynvdtaZBtj-ekfqz6-flTqn6aYlDOdJodQ86K0/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1wO_veynvdtaZBtj-ekfqz6-flTqn6aYlDOdJodQ86K0/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1wO_veynvdtaZBtj-ekfqz6-flTqn6aYlDOdJodQ86K0/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bootstrap",
+      "lectures": [
+        {
+          "id": "td-mernstack-133",
+          "title": "Introduction to Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y5mGjR9X4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y5mGjR9X4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y5mGjR9X4Q/video.m3u8",
+          "duration": 674,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-134",
+          "title": "Features in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQjDdRFxEM3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQjDdRFxEM3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQjDdRFxEM3/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-135",
+          "title": "Colours & Typography in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HUMdu6uZDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HUMdu6uZDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HUMdu6uZDG/video.m3u8",
+          "duration": 1565,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-136",
+          "title": "Buttons & Buttons Groups",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HjPFDDtcub/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HjPFDDtcub/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HjPFDDtcub/video.m3u8",
+          "duration": 1513,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-137",
+          "title": "Utility Classes in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ze9m33UA5C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ze9m33UA5C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ze9m33UA5C/video.m3u8",
+          "duration": 2014,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-138",
+          "title": "BreakPoints and Containers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M6N39TNpDB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M6N39TNpDB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M6N39TNpDB/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-139",
+          "title": "Grid Layouts in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7C5q6aZfG3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7C5q6aZfG3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7C5q6aZfG3/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-140",
+          "title": "Project Intro with Grid",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szunqXheHg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szunqXheHg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szunqXheHg/video.m3u8",
+          "duration": 732,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-141",
+          "title": "Navbar in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34J8yg5EqJG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34J8yg5EqJG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34J8yg5EqJG/video.m3u8",
+          "duration": 1150,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-142",
+          "title": "Cards in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KQTFuUpRXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KQTFuUpRXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KQTFuUpRXp/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-143",
+          "title": "Accordians in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cDBjhkyfSpS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cDBjhkyfSpS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cDBjhkyfSpS/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-144",
+          "title": "List Groups in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Qr3PkQxu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Qr3PkQxu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Qr3PkQxu7/video.m3u8",
+          "duration": 627,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-145",
+          "title": "Bootstrap Icons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TkDXupP3r9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TkDXupP3r9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TkDXupP3r9/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-146",
+          "title": "Forms in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZHQJKBTZj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZHQJKBTZj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZHQJKBTZj/video.m3u8",
+          "duration": 1442,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-147",
+          "title": "Tooltips in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72nbMRjp8sM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72nbMRjp8sM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72nbMRjp8sM/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-148",
+          "title": "Modals in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE6bzCM6nt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE6bzCM6nt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE6bzCM6nt/video.m3u8",
+          "duration": 1261,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-149",
+          "title": "Offcanvas in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65XCCermP4D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65XCCermP4D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65XCCermP4D/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-150",
+          "title": "Dropdowns in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uKct2RDBJE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uKct2RDBJE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uKct2RDBJE/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-151",
+          "title": "Tabs in Bootstrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcAmQ9nZNHb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcAmQ9nZNHb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcAmQ9nZNHb/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MERN Fullstack project",
+      "lectures": [
+        {
+          "id": "td-mernstack-152",
+          "title": "Intro MERN stack & MERN project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95hGcfzYGrZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95hGcfzYGrZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95hGcfzYGrZ/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-153",
+          "title": "Express App SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT5CRN4bsjM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT5CRN4bsjM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT5CRN4bsjM/video.m3u8",
+          "duration": 1450,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-154",
+          "title": "Express Router and API Endpoints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXjTMkAJex/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXjTMkAJex/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXjTMkAJex/video.m3u8",
+          "duration": 1045,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-155",
+          "title": "MongoDB Atlas and Mongoose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39x3QgGbrBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39x3QgGbrBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39x3QgGbrBr/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-156",
+          "title": "Models And Schemas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BsyaKKJ8Sc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BsyaKKJ8Sc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BsyaKKJ8Sc/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-157",
+          "title": "Controllers Part - 01",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B532UXS2uTr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B532UXS2uTr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B532UXS2uTr/video.m3u8",
+          "duration": 1241,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-158",
+          "title": "Controllers (Part - 02)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBMTQJ92zDA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBMTQJ92zDA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBMTQJ92zDA/video.m3u8",
+          "duration": 1032,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-159",
+          "title": "Creating a react app - Frontend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64BARtc6aUK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64BARtc6aUK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64BARtc6aUK/video.m3u8",
+          "duration": 1104,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-160",
+          "title": "Fetching the data from backend to frontend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Tq96nGjRuRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Tq96nGjRuRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Tq96nGjRuRG/video.m3u8",
+          "duration": 1385,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-161",
+          "title": "New workout form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SgCJjDPkDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SgCJjDPkDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SgCJjDPkDG/video.m3u8",
+          "duration": 1442,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-162",
+          "title": "Integerating React Context, useReducer Hooks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Z9y7YprQS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Z9y7YprQS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Z9y7YprQS/video.m3u8",
+          "duration": 1464,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-163",
+          "title": "Deleting card date",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAcHDAmCgQR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAcHDAmCgQR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAcHDAmCgQR/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-164",
+          "title": "Handling Error Response",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cNpe3Kq5M6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cNpe3Kq5M6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cNpe3Kq5M6/video.m3u8",
+          "duration": 739,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-165",
+          "title": "MERN Finishing Touch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXK73eUe4mX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXK73eUe4mX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXK73eUe4mX/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MERN Authentication & Security",
+      "lectures": [
+        {
+          "id": "td-mernstack-166",
+          "title": "Intro and starter project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pdEC5bEx7c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pdEC5bEx7c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pdEC5bEx7c/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-167",
+          "title": "User routes, controller and model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A65AjzP3Nb3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A65AjzP3Nb3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A65AjzP3Nb3/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-168",
+          "title": "Signing up a user and hashing their password",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B22jhuDHeUK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B22jhuDHeUK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B22jhuDHeUK/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-169",
+          "title": "Email and passowrd validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgxKeJxaYk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgxKeJxaYk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgxKeJxaYk/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-170",
+          "title": "JSON web tokens (theory)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfGzb6Y6rxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfGzb6Y6rxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfGzb6Y6rxG/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-171",
+          "title": "Signing tokens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxaQ99phB2D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxaQ99phB2D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxaQ99phB2D/video.m3u8",
+          "duration": 514,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-172",
+          "title": "Logging user in",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MJSjPx8QTs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MJSjPx8QTs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MJSjPx8QTs/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-173",
+          "title": "Creating react auth context",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q7NJ3xyxHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q7NJ3xyxHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q7NJ3xyxHK/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-174",
+          "title": "Login and signup forms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fgfu8pXNtH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fgfu8pXNtH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fgfu8pXNtH/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-175",
+          "title": "Making a usesignup hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GJpxhfpgeu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GJpxhfpgeu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GJpxhfpgeu/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-176",
+          "title": "Making a uselogout hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86kYy3zDykp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86kYy3zDykp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86kYy3zDykp/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-177",
+          "title": "Making a uselogin hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aKApyAm8aZz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aKApyAm8aZz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aKApyAm8aZz/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-178",
+          "title": "Updating the initial auth status",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TTYp8hAbxE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TTYp8hAbxE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TTYp8hAbxE/video.m3u8",
+          "duration": 965,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-179",
+          "title": "Protecting API routes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jkxTfs92X9t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jkxTfs92X9t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jkxTfs92X9t/video.m3u8",
+          "duration": 1382,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-180",
+          "title": "Having authorized requests",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qaysqa6KEG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qaysqa6KEG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qaysqa6KEG/video.m3u8",
+          "duration": 817,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-181",
+          "title": "Protecting react routes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDUygFPhUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDUygFPhUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDUygFPhUf/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        },
+        {
+          "id": "td-mernstack-182",
+          "title": "Assigning workouts to Users",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f4rCMNTS9S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f4rCMNTS9S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f4rCMNTS9S/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-mernstack-25",
+          "title": "Final Project",
+          "url": "https://drive.google.com/file/d/1OuCxo7IHh7vgXQ2LF-B9YUgvt4VciWaw/view?usp=sharing",
+          "pdfUrl": "https://drive.google.com/file/d/1OuCxo7IHh7vgXQ2LF-B9YUgvt4VciWaw/view?usp=sharing",
+          "playerUrl": "https://drive.google.com/file/d/1OuCxo7IHh7vgXQ2LF-B9YUgvt4VciWaw/view?usp=sharing",
+          "downloadUrl": "https://drive.google.com/file/d/1OuCxo7IHh7vgXQ2LF-B9YUgvt4VciWaw/view?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

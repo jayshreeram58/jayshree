@@ -1,0 +1,660 @@
+{
+  "platform": "TuteDude",
+  "batchId": "photoshop",
+  "batchSlug": "photoshop",
+  "batchName": "Adobe Photoshop",
+  "thumbnail": "https://www.tutedude.com/assets/avif/photoshop.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/photoshop",
+  "totalSections": 12,
+  "totalLectures": 58,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-photoshop-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started with Photoshop",
+      "lectures": [
+        {
+          "id": "td-photoshop-2",
+          "title": "Interface Overview & Workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJeCkaxjhm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJeCkaxjhm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJeCkaxjhm/video.m3u8",
+          "duration": 1155,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-3",
+          "title": "Document Setup Resolution & Sizes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMQpUk5UBT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMQpUk5UBT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMQpUk5UBT/video.m3u8",
+          "duration": 1212,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-4",
+          "title": "Understanding Layers, Groups & Smart Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zR3xfNGBUS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zR3xfNGBUS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zR3xfNGBUS/video.m3u8",
+          "duration": 1673,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-5",
+          "title": "File Formats and Exporting for Web and Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8s4Ggt5rz3J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8s4Ggt5rz3J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8s4Ggt5rz3J/video.m3u8",
+          "duration": 1436,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Selections & Masking Techniques",
+      "lectures": [
+        {
+          "id": "td-photoshop-6",
+          "title": "Marquee, Lasso, Magic Wand, Quick Selection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dsqGCFgrxh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dsqGCFgrxh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dsqGCFgrxh/video.m3u8",
+          "duration": 1685,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-7",
+          "title": "Understanding the Clipping Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dYdfsdyGGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dYdfsdyGGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dYdfsdyGGA/video.m3u8",
+          "duration": 1427,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-8",
+          "title": "Exploring the Layer Masking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dQ4ZcByuHP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dQ4ZcByuHP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dQ4ZcByuHP/video.m3u8",
+          "duration": 1232,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-9",
+          "title": "Select Subject and Select Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/858psSPRnsJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/858psSPRnsJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/858psSPRnsJ/video.m3u8",
+          "duration": 1259,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-photoshop-4",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/16NsI56raB80MDFfK7VOeH6TQGbch2AOpYa4Fh9Trgt4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/16NsI56raB80MDFfK7VOeH6TQGbch2AOpYa4Fh9Trgt4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/16NsI56raB80MDFfK7VOeH6TQGbch2AOpYa4Fh9Trgt4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/16NsI56raB80MDFfK7VOeH6TQGbch2AOpYa4Fh9Trgt4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Color Correction, Adjustments & Fill",
+      "lectures": [
+        {
+          "id": "td-photoshop-10",
+          "title": "Exploring Solid Color & Gradient Color Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bk3Q7M4sgb9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bk3Q7M4sgb9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bk3Q7M4sgb9/video.m3u8",
+          "duration": 1356,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-11",
+          "title": "Understanding the Pattern inside Photoshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ECFJqQuByA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ECFJqQuByA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ECFJqQuByA/video.m3u8",
+          "duration": 1509,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-12",
+          "title": "Adjustment Layers - Uses of Levels & Curves",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmGaE54jXe8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmGaE54jXe8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmGaE54jXe8/video.m3u8",
+          "duration": 954,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-13",
+          "title": "Hue & Saturation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hs3KTaBT3s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hs3KTaBT3s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hs3KTaBT3s/video.m3u8",
+          "duration": 962,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-14",
+          "title": "Color Balance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75ueHKSDC52/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75ueHKSDC52/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75ueHKSDC52/video.m3u8",
+          "duration": 822,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-15",
+          "title": "Gradient Maps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fU3Ty6kUNF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fU3Ty6kUNF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fU3Ty6kUNF/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-16",
+          "title": "Black and White Conversion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mnk8s6TECC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mnk8s6TECC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mnk8s6TECC/video.m3u8",
+          "duration": 1286,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-17",
+          "title": "Color Grading with Camera Raw Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xupzyrnyU2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xupzyrnyU2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xupzyrnyU2/video.m3u8",
+          "duration": 1675,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-photoshop-6",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1f4nk2oTn-MpSXdF-FsSdN1QMpRiG9oi5_FvZKc6A57w/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1f4nk2oTn-MpSXdF-FsSdN1QMpRiG9oi5_FvZKc6A57w/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1f4nk2oTn-MpSXdF-FsSdN1QMpRiG9oi5_FvZKc6A57w/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1f4nk2oTn-MpSXdF-FsSdN1QMpRiG9oi5_FvZKc6A57w/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with Text & Shapes",
+      "lectures": [
+        {
+          "id": "td-photoshop-18",
+          "title": "Exploring Basic Shapes & Their Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N7y6zYhhXJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N7y6zYhhXJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N7y6zYhhXJ/video.m3u8",
+          "duration": 1086,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-19",
+          "title": "Type Tool in Photoshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7chTyscynNB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7chTyscynNB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7chTyscynNB/video.m3u8",
+          "duration": 1632,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-20",
+          "title": "Warping Text and Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGQ47jA7N4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGQ47jA7N4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGQ47jA7N4/video.m3u8",
+          "duration": 1949,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-21",
+          "title": "Layer Style Effects with Shapes & Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QBEsqe6ybH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QBEsqe6ybH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QBEsqe6ybH/video.m3u8",
+          "duration": 870,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-22",
+          "title": "PenTool UseCase & Custom Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF2Rp6NDBJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF2Rp6NDBJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF2Rp6NDBJ/video.m3u8",
+          "duration": 2100,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-photoshop-8",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1I-TvtFqLCLACbdBR96sg1Uoj90I4DXwoo8IOuytTKWU/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1I-TvtFqLCLACbdBR96sg1Uoj90I4DXwoo8IOuytTKWU/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1I-TvtFqLCLACbdBR96sg1Uoj90I4DXwoo8IOuytTKWU/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1I-TvtFqLCLACbdBR96sg1Uoj90I4DXwoo8IOuytTKWU/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Brushes, Retouching & Healing Tools",
+      "lectures": [
+        {
+          "id": "td-photoshop-23",
+          "title": "Brush Tool, Settings and Customization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mY8NAU9f8e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mY8NAU9f8e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mY8NAU9f8e/video.m3u8",
+          "duration": 1594,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-24",
+          "title": "Healing Brush, Clone Stamp & Patch Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtdGPysKkyG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtdGPysKkyG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtdGPysKkyG/video.m3u8",
+          "duration": 1189,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-25",
+          "title": "Understanding the Dodge, Burn and Smudge Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449tpQc3Uha/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449tpQc3Uha/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449tpQc3Uha/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-photoshop-10",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1wR87408XJWDUvl1f0jporQM8QzS-5CJryK4ieAvIZe8/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1wR87408XJWDUvl1f0jporQM8QzS-5CJryK4ieAvIZe8/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1wR87408XJWDUvl1f0jporQM8QzS-5CJryK4ieAvIZe8/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1wR87408XJWDUvl1f0jporQM8QzS-5CJryK4ieAvIZe8/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Smart Objects, Filters & Effects",
+      "lectures": [
+        {
+          "id": "td-photoshop-26",
+          "title": "Smart Objects, Filters & Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6szE5sNB8X9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6szE5sNB8X9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6szE5sNB8X9/video.m3u8",
+          "duration": 1146,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-27",
+          "title": "Working with Liquify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ygANeuxxbF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ygANeuxxbF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ygANeuxxbF/video.m3u8",
+          "duration": 1352,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-28",
+          "title": "Exploring Gaussian Blur & Motion Blur",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GS4hSakYs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GS4hSakYs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GS4hSakYs/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-29",
+          "title": "Displacement Map Concept for Mockup Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zDgKDs7CDG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zDgKDs7CDG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zDgKDs7CDG/video.m3u8",
+          "duration": 1496,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-30",
+          "title": "Creating Texture Overlays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r32ms7Hu7u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r32ms7Hu7u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r32ms7Hu7u/video.m3u8",
+          "duration": 1346,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Understanding the Photo Manipulation Techniques",
+      "lectures": [
+        {
+          "id": "td-photoshop-31",
+          "title": "Working with Multiple Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GX5zCkFS3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GX5zCkFS3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GX5zCkFS3e/video.m3u8",
+          "duration": 1458,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-32",
+          "title": "Creating Realistic Shadows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34M6xPcukgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34M6xPcukgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34M6xPcukgh/video.m3u8",
+          "duration": 1200,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-33",
+          "title": "Unlock the Process to Create Reflection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96hFTZgfdQH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96hFTZgfdQH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96hFTZgfdQH/video.m3u8",
+          "duration": 1105,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-34",
+          "title": "Adding Lighting Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8KDJsGmeBR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8KDJsGmeBR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8KDJsGmeBR/video.m3u8",
+          "duration": 1693,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-35",
+          "title": "Exploring Manipulation Techniques With Examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPnemdUbpb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPnemdUbpb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPnemdUbpb/video.m3u8",
+          "duration": 1368,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Compositing & Blending",
+      "lectures": [
+        {
+          "id": "td-photoshop-36",
+          "title": "Match Color & Lighting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeyZrx2BU4X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeyZrx2BU4X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeyZrx2BU4X/video.m3u8",
+          "duration": 1057,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-37",
+          "title": "Blending Multiple Photos Seamlessly",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zHxmQQHpS9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zHxmQQHpS9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zHxmQQHpS9/video.m3u8",
+          "duration": 1486,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-38",
+          "title": "Understanding the Blending of Text and Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByG2UXxzU89/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByG2UXxzU89/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByG2UXxzU89/video.m3u8",
+          "duration": 986,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-39",
+          "title": "Clean the face and Make them Smooth and Attractive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkandKuUJUF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkandKuUJUF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkandKuUJUF/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-40",
+          "title": "Double Exposure Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfcR2ea7T9M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfcR2ea7T9M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfcR2ea7T9M/video.m3u8",
+          "duration": 1290,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-41",
+          "title": "Dispersation Effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3nP6kJ9hDJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3nP6kJ9hDJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3nP6kJ9hDJ/video.m3u8",
+          "duration": 945,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Product Mockups & Branding",
+      "lectures": [
+        {
+          "id": "td-photoshop-42",
+          "title": "Exploring the Free Rources of Mockups and their Uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrHzyFYMTAP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrHzyFYMTAP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrHzyFYMTAP/video.m3u8",
+          "duration": 1254,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-43",
+          "title": "Designing T-shirt Grahics and Using Mockup to Showcase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gGSMYbqUgU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gGSMYbqUgU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gGSMYbqUgU/video.m3u8",
+          "duration": 1686,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-44",
+          "title": "Understanding the Process of Create Mockup inside Photoshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSbD9MJK46q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSbD9MJK46q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSbD9MJK46q/video.m3u8",
+          "duration": 1479,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-photoshop-45",
+          "title": "Instagram Post Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sdkfAUzaMg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sdkfAUzaMg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sdkfAUzaMg/video.m3u8",
+          "duration": 3691,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-46",
+          "title": "Facebook Banner Design Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxyJt2rYSsJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxyJt2rYSsJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxyJt2rYSsJ/video.m3u8",
+          "duration": 2411,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-47",
+          "title": "YouTube Thumbnail Design Tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jGkHDycpAa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jGkHDycpAa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jGkHDycpAa/video.m3u8",
+          "duration": 1975,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-48",
+          "title": "Ads Banner Design for Web Campaigns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92PmJPFSj97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92PmJPFSj97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92PmJPFSj97/video.m3u8",
+          "duration": 2521,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-49",
+          "title": "Event Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzNyjnxdcn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzNyjnxdcn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzNyjnxdcn/video.m3u8",
+          "duration": 1980,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-50",
+          "title": "Creative Marketing Agency Flyer Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ydjgy6akt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ydjgy6akt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ydjgy6akt/video.m3u8",
+          "duration": 2813,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-51",
+          "title": "Magazine CoverPage Design Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANHjureTmZF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANHjureTmZF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANHjureTmZF/video.m3u8",
+          "duration": 1270,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-52",
+          "title": "Typography Poster Making",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FKUAj2BKnQ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FKUAj2BKnQ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FKUAj2BKnQ7/video.m3u8",
+          "duration": 719,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-53",
+          "title": "Designing a Movie Poster",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqjCHNPnAR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqjCHNPnAR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqjCHNPnAR/video.m3u8",
+          "duration": 1452,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion Designing",
+      "lectures": [
+        {
+          "id": "td-photoshop-54",
+          "title": "Basics of Timeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abkgzb9HP2s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abkgzb9HP2s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abkgzb9HP2s/video.m3u8",
+          "duration": 1994,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-55",
+          "title": "Animating Basic Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jegJ6bkCgc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jegJ6bkCgc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jegJ6bkCgc/video.m3u8",
+          "duration": 746,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-56",
+          "title": "Blending of Image and Video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HcehRbY2Ee/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HcehRbY2Ee/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HcehRbY2Ee/video.m3u8",
+          "duration": 1165,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-57",
+          "title": "Create Animated Banner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32J8NFPNuRU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32J8NFPNuRU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32J8NFPNuRU/video.m3u8",
+          "duration": 1236,
+          "type": "video"
+        },
+        {
+          "id": "td-photoshop-58",
+          "title": "Animating Scene in Photoshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccScrT3zbb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccScrT3zbb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccScrT3zbb/video.m3u8",
+          "duration": 429,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-photoshop-17",
+          "title": "Final Assignment",
+          "url": "https://docs.google.com/document/d/1xNU7dTmW7D2MbUFlJXJMBdJ8i_YjTg-ncHZPk0GKOCE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1xNU7dTmW7D2MbUFlJXJMBdJ8i_YjTg-ncHZPk0GKOCE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1xNU7dTmW7D2MbUFlJXJMBdJ8i_YjTg-ncHZPk0GKOCE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1xNU7dTmW7D2MbUFlJXJMBdJ8i_YjTg-ncHZPk0GKOCE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

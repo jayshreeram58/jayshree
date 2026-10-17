@@ -1,0 +1,822 @@
+{
+  "platform": "TuteDude",
+  "batchId": "cybersecurity",
+  "batchSlug": "cybersecurity",
+  "batchName": "Cybersecurity",
+  "thumbnail": "https://www.tutedude.com/assets/avif/cybersecurity.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/cybersecurity",
+  "totalSections": 13,
+  "totalLectures": 61,
+  "totalNotes": 19,
+  "price": "699.00",
+  "category": "Cyber Security",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-2",
+          "title": "(Introduction to me & the Course)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FgyG4zN4yP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FgyG4zN4yP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FgyG4zN4yP/video.m3u8",
+          "duration": 1527,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-3",
+          "title": "Choose Your CyberSecurity Path",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xMssuefJQX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xMssuefJQX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xMssuefJQX/video.m3u8",
+          "duration": 2211,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-4",
+          "title": "WannaCry Ransomware Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATSgJzRHHhb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATSgJzRHHhb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATSgJzRHHhb/video.m3u8",
+          "duration": 1355,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-5",
+          "title": "WannaCry Attack (Setting up a Test Enviroment)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7tn2pgmm2X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7tn2pgmm2X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7tn2pgmm2X/video.m3u8",
+          "duration": 1288,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-6",
+          "title": "System Hacking & WannaCry Execution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Tende653FS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Tende653FS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Tende653FS/video.m3u8",
+          "duration": 1876,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linux & Python Fundamentals",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-7",
+          "title": "Introduction to Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecZK2Ap2eZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecZK2Ap2eZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecZK2Ap2eZ/video.m3u8",
+          "duration": 1916,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-8",
+          "title": "File Permissions Concepts and Text Editors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCh2kQ3tzJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCh2kQ3tzJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCh2kQ3tzJ/video.m3u8",
+          "duration": 1154,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-9",
+          "title": "Essential Linux File Managements Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frRxqjtJUc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frRxqjtJUc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frRxqjtJUc/video.m3u8",
+          "duration": 2137,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-10",
+          "title": "Introduction to servers (HINDI)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JKS5Ka8g3E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JKS5Ka8g3E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JKS5Ka8g3E/video.m3u8",
+          "duration": 1271,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-11",
+          "title": "Bash Scripting - (Variables)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hgTek6f4xy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hgTek6f4xy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hgTek6f4xy/video.m3u8",
+          "duration": 1790,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-12",
+          "title": "Bash Scripting - (Arrays & Conditional Statements)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HydeQSuCnb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HydeQSuCnb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HydeQSuCnb/video.m3u8",
+          "duration": 2104,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-13",
+          "title": "Python Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hGd748CZx7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hGd748CZx7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hGd748CZx7/video.m3u8",
+          "duration": 5245,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-4",
+          "title": "Basic Linux Commands",
+          "url": "https://docs.google.com/document/d/1P7LNiopELQnsS5QyKuSaHY9HBiCUnsZQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1P7LNiopELQnsS5QyKuSaHY9HBiCUnsZQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1P7LNiopELQnsS5QyKuSaHY9HBiCUnsZQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1P7LNiopELQnsS5QyKuSaHY9HBiCUnsZQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-5",
+          "title": "Linux Permissions",
+          "url": "https://docs.google.com/document/d/1pdmHmmT0hj7IRlwolvPhizRqBpMOaiMH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pdmHmmT0hj7IRlwolvPhizRqBpMOaiMH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pdmHmmT0hj7IRlwolvPhizRqBpMOaiMH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pdmHmmT0hj7IRlwolvPhizRqBpMOaiMH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-6",
+          "title": "File System Commands",
+          "url": "https://docs.google.com/document/d/1idpzDX8NXekplBJJCAlEFpPy4azNl_t6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1idpzDX8NXekplBJJCAlEFpPy4azNl_t6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1idpzDX8NXekplBJJCAlEFpPy4azNl_t6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1idpzDX8NXekplBJJCAlEFpPy4azNl_t6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-7",
+          "title": "Bash Scripting",
+          "url": "https://docs.google.com/document/d/1n-itYOAI-rVS8iuw6vs95nbP4gLu6Vye/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1n-itYOAI-rVS8iuw6vs95nbP4gLu6Vye/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1n-itYOAI-rVS8iuw6vs95nbP4gLu6Vye/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1n-itYOAI-rVS8iuw6vs95nbP4gLu6Vye/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Foundations of Information Security",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-14",
+          "title": "Information Gathering (Active and Passive)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BpCthF4eNb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BpCthF4eNb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BpCthF4eNb/video.m3u8",
+          "duration": 2011,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-15",
+          "title": "Common Threat Vectors: Malicious Code and Phishing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35FhpquzCpE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35FhpquzCpE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35FhpquzCpE/video.m3u8",
+          "duration": 1766,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-16",
+          "title": "Modern Attack Methodologies: From Social to Technical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uTK7P5Gg6z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uTK7P5Gg6z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uTK7P5Gg6z/video.m3u8",
+          "duration": 2234,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-9",
+          "title": "Information Gathering ",
+          "url": "https://docs.google.com/document/d/1uyBTcjAIFvtYC7DgbIbdNJxrd0PVGw0h/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1uyBTcjAIFvtYC7DgbIbdNJxrd0PVGw0h/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1uyBTcjAIFvtYC7DgbIbdNJxrd0PVGw0h/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1uyBTcjAIFvtYC7DgbIbdNJxrd0PVGw0h/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Application Security and Penetration Testing",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-17",
+          "title": "How Websites Works?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zU8f3me5nh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zU8f3me5nh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zU8f3me5nh/video.m3u8",
+          "duration": 1466,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-18",
+          "title": "WebApp Security Concepts (Cookies, Sessions, Authentication Mechanisms)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2UggytqCG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2UggytqCG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2UggytqCG/video.m3u8",
+          "duration": 1394,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-19",
+          "title": "Hacking Your First Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KB84BU6FYq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KB84BU6FYq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KB84BU6FYq/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-20",
+          "title": "Ubuntu Setup & Linux File Sharing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARxjpQXdSA2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARxjpQXdSA2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARxjpQXdSA2/video.m3u8",
+          "duration": 1235,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-21",
+          "title": "Introduction to Apache: Hosting Your First Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ax7Pz9R6Hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ax7Pz9R6Hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ax7Pz9R6Hz/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-22",
+          "title": "Website Defacement Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QuxnC6gmxK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QuxnC6gmxK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QuxnC6gmxK/video.m3u8",
+          "duration": 2873,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-23",
+          "title": "Setting Up Burpsuite",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87gRjYKZYQg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87gRjYKZYQg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87gRjYKZYQg/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-24",
+          "title": "OWASP TOP 10 (2025 Edition) Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brn7JNPbxQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brn7JNPbxQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brn7JNPbxQ/video.m3u8",
+          "duration": 3416,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-25",
+          "title": "OWASP TOP 10 (2025 Edition) Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q6663JrHsm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q6663JrHsm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q6663JrHsm/video.m3u8",
+          "duration": 991,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-26",
+          "title": "Bug Bounty Workflow Part 1(Reconnaisance & SQL Injection)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQSjgZNjkk9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQSjgZNjkk9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQSjgZNjkk9/video.m3u8",
+          "duration": 3551,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-27",
+          "title": "Bug Bounty Workflow Part 2 (CSRF & RCE)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Sch7bYQQxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Sch7bYQQxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Sch7bYQQxG/video.m3u8",
+          "duration": 2774,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-11",
+          "title": "Improper Session Management ",
+          "url": "https://docs.google.com/document/d/1n5cuGnDJwKh-hC2eadPxvenx-N5Gp58C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1n5cuGnDJwKh-hC2eadPxvenx-N5Gp58C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1n5cuGnDJwKh-hC2eadPxvenx-N5Gp58C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1n5cuGnDJwKh-hC2eadPxvenx-N5Gp58C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-12",
+          "title": "Admin Panel ",
+          "url": "https://docs.google.com/document/d/1vUWoFsQkJqRHgaGsEl4EDQYu7NEz-W9e/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vUWoFsQkJqRHgaGsEl4EDQYu7NEz-W9e/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vUWoFsQkJqRHgaGsEl4EDQYu7NEz-W9e/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vUWoFsQkJqRHgaGsEl4EDQYu7NEz-W9e/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-13",
+          "title": "IDOR ",
+          "url": "https://docs.google.com/document/d/17uU7EmVwSueoka8N3LSs8DYm-2Nu6GYY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/17uU7EmVwSueoka8N3LSs8DYm-2Nu6GYY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/17uU7EmVwSueoka8N3LSs8DYm-2Nu6GYY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/17uU7EmVwSueoka8N3LSs8DYm-2Nu6GYY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-14",
+          "title": "Reset Password ",
+          "url": "https://docs.google.com/document/d/1IA8vrvaTtloef064FK8L_VPyDtxCpjzg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IA8vrvaTtloef064FK8L_VPyDtxCpjzg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IA8vrvaTtloef064FK8L_VPyDtxCpjzg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IA8vrvaTtloef064FK8L_VPyDtxCpjzg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-15",
+          "title": "Cross-Site Scripting",
+          "url": "https://docs.google.com/document/d/1ELXhAmlPZEUBl6Odt0mq8q5sQxD_z8cU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ELXhAmlPZEUBl6Odt0mq8q5sQxD_z8cU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ELXhAmlPZEUBl6Odt0mq8q5sQxD_z8cU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ELXhAmlPZEUBl6Odt0mq8q5sQxD_z8cU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-16",
+          "title": "SQL Injection",
+          "url": "https://docs.google.com/document/d/17jiAwOZZzmYKXUzH16Zdk0pNxd6DxkVb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/17jiAwOZZzmYKXUzH16Zdk0pNxd6DxkVb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/17jiAwOZZzmYKXUzH16Zdk0pNxd6DxkVb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/17jiAwOZZzmYKXUzH16Zdk0pNxd6DxkVb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Network Defense & Penetration Testing",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-28",
+          "title": "Network Types and Topologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YyDu7rjk4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YyDu7rjk4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YyDu7rjk4p/video.m3u8",
+          "duration": 1666,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-29",
+          "title": "Network Devices & Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFbqpjzzDCX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFbqpjzzDCX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFbqpjzzDCX/video.m3u8",
+          "duration": 3798,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-30",
+          "title": "Network Security Concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TDrpQ4TBT9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TDrpQ4TBT9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TDrpQ4TBT9/video.m3u8",
+          "duration": 2177,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-31",
+          "title": "Attacker Profiles & Cyber KillChain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNukqemPah/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNukqemPah/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNukqemPah/video.m3u8",
+          "duration": 2316,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-32",
+          "title": "Black Box vs Grey Box VAPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4K4PnM6snY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4K4PnM6snY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4K4PnM6snY/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-33",
+          "title": "Nessus Installation & Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32uRybxsnNU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32uRybxsnNU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32uRybxsnNU/video.m3u8",
+          "duration": 497,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-34",
+          "title": "Setting Up Metasploitable in VirtualBox",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yAZJT2nFCS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yAZJT2nFCS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yAZJT2nFCS/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-35",
+          "title": "Scanning : Nmap Service Discovery",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SxCq69uuYg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SxCq69uuYg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SxCq69uuYg/video.m3u8",
+          "duration": 1932,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-36",
+          "title": "Hands On : End-to-End Black Box VAPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u9BzD98SM8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u9BzD98SM8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u9BzD98SM8/video.m3u8",
+          "duration": 4275,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-37",
+          "title": "Hands On :End to End Grey Box VAPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRHSCpf8BD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRHSCpf8BD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRHSCpf8BD/video.m3u8",
+          "duration": 3078,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-38",
+          "title": "Analysis : Detailed Wireshark Investigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFpurY7cfS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFpurY7cfS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFpurY7cfS/video.m3u8",
+          "duration": 2735,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-18",
+          "title": "Advanced Nmap",
+          "url": "https://docs.google.com/document/d/1jlBcD-ZUopxWw5Jei8zoLge2D34LAz_a/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jlBcD-ZUopxWw5Jei8zoLge2D34LAz_a/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jlBcD-ZUopxWw5Jei8zoLge2D34LAz_a/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jlBcD-ZUopxWw5Jei8zoLge2D34LAz_a/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-19",
+          "title": "GreyBox VAPT",
+          "url": "https://docs.google.com/document/d/1Rz3KJdWJsgQDuiglmdYPpKxj-p5uPeIJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Rz3KJdWJsgQDuiglmdYPpKxj-p5uPeIJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Rz3KJdWJsgQDuiglmdYPpKxj-p5uPeIJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Rz3KJdWJsgQDuiglmdYPpKxj-p5uPeIJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-20",
+          "title": "Network Traffic Analysis",
+          "url": "https://docs.google.com/document/d/1z6ZRqKCWpvdwbrU10PKZVJblD0yiySPn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1z6ZRqKCWpvdwbrU10PKZVJblD0yiySPn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1z6ZRqKCWpvdwbrU10PKZVJblD0yiySPn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1z6ZRqKCWpvdwbrU10PKZVJblD0yiySPn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Protection and Cryptography",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-39",
+          "title": "Cryptography Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NX7g4JAdZU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NX7g4JAdZU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NX7g4JAdZU/video.m3u8",
+          "duration": 2116,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-40",
+          "title": "Data Protection and Security Principles (Part 1)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCCkmTA6cEQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCCkmTA6cEQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCCkmTA6cEQ/video.m3u8",
+          "duration": 3860,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-41",
+          "title": "Data Protection & Security Principles [Part 2]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZB6nUbsamrs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZB6nUbsamrs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZB6nUbsamrs/video.m3u8",
+          "duration": 3598,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Governance, Risk & Compliance (ISO, SMS)",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-42",
+          "title": "GRC Fundamentals: An Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fMNPhEkH2e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fMNPhEkH2e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fMNPhEkH2e/video.m3u8",
+          "duration": 1498,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-43",
+          "title": "Governance: Principles and Frameworks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KPRQ8aJQth/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KPRQ8aJQth/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KPRQ8aJQth/video.m3u8",
+          "duration": 2197,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-44",
+          "title": "Risk Management: Identification and Mitigation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uuZkrrp7hk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uuZkrrp7hk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uuZkrrp7hk/video.m3u8",
+          "duration": 754,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-45",
+          "title": "Compliance: Standards and Regulatory Requirements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yn27G6aPFAR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yn27G6aPFAR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yn27G6aPFAR/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-46",
+          "title": "The DPDP Act 2023: Privacy and Data Protection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NbRxd8ySry/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NbRxd8ySry/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NbRxd8ySry/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-23",
+          "title": " Investigating an Attack",
+          "url": "https://docs.google.com/document/d/18i_7lP_4ea77WOlqUAc8ilT7zTtfORT8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18i_7lP_4ea77WOlqUAc8ilT7zTtfORT8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18i_7lP_4ea77WOlqUAc8ilT7zTtfORT8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18i_7lP_4ea77WOlqUAc8ilT7zTtfORT8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Securing Emerging Technologies",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-47",
+          "title": "The Dual-Edge of AI: Offensive Evolution and Defensive Pillars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aMFjsCXJ8r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aMFjsCXJ8r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aMFjsCXJ8r/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-48",
+          "title": "Securing LLMs: Understanding Privileged Intermediaries and Prompt Injection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxuhfA2MQJZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxuhfA2MQJZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxuhfA2MQJZ/video.m3u8",
+          "duration": 1358,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-49",
+          "title": "Hands-on Lab: Breaking Chatbots with Prompt Injection Attacks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TMEtdnGQNm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TMEtdnGQNm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TMEtdnGQNm/video.m3u8",
+          "duration": 2696,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-50",
+          "title": "IoT Security Fundamentals: MQTT Packet Manipulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PYpqKDFPnU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PYpqKDFPnU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PYpqKDFPnU/video.m3u8",
+          "duration": 3026,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-25",
+          "title": "Fuzzing ",
+          "url": "https://docs.google.com/document/d/1UD4Yn2s0OvEEIx71gbHM64y2BJ-DOiTD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UD4Yn2s0OvEEIx71gbHM64y2BJ-DOiTD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UD4Yn2s0OvEEIx71gbHM64y2BJ-DOiTD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UD4Yn2s0OvEEIx71gbHM64y2BJ-DOiTD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Security Operations Center: Overview & Roles",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-51",
+          "title": "SOC Operations: People, Processes, and Defensive Technology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65jqemegsjd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65jqemegsjd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65jqemegsjd/video.m3u8",
+          "duration": 2481,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-52",
+          "title": "Advanced Detection Frameworks and Splunk SIEM Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F89EM7kttA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F89EM7kttA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F89EM7kttA/video.m3u8",
+          "duration": 1999,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "RCA (Root Cause Analysis) & Cyber Breach Investigation",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-53",
+          "title": "Incident Response Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByXabMprRea/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByXabMprRea/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByXabMprRea/video.m3u8",
+          "duration": 4606,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-54",
+          "title": "Digital Forensics Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948TkHkbxXx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948TkHkbxXx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948TkHkbxXx/video.m3u8",
+          "duration": 4897,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-55",
+          "title": "Data Aquisition (Volatile & Non-Volatile)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/chnbpJexF5u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/chnbpJexF5u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/chnbpJexF5u/video.m3u8",
+          "duration": 934,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-28",
+          "title": "SSRF",
+          "url": "https://docs.google.com/document/d/1ZXb82l-42CvMZ_bGDx43Hr5lkkIXNp2K/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ZXb82l-42CvMZ_bGDx43Hr5lkkIXNp2K/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ZXb82l-42CvMZ_bGDx43Hr5lkkIXNp2K/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ZXb82l-42CvMZ_bGDx43Hr5lkkIXNp2K/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "SIEM Architecture & Hands-On Splunk",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-56",
+          "title": "Setting Up Splunk (Installation & Configuration)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hS9EgzEmTG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hS9EgzEmTG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hS9EgzEmTG/video.m3u8",
+          "duration": 2149,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-57",
+          "title": "Investigating Phishing Attack on Splunk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkyPsjfH4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkyPsjfH4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkyPsjfH4Q/video.m3u8",
+          "duration": 3298,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-58",
+          "title": "Wazuh Installation and Bruteforce Incident Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85jJefChnY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85jJefChnY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85jJefChnY/video.m3u8",
+          "duration": 3317,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Job Ready Module -  How to get your first Job",
+      "lectures": [
+        {
+          "id": "td-cybersecurity-59",
+          "title": "Cybersecurity Projects (VAPT,SOC,Forensics)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfDF2Cp7DPd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfDF2Cp7DPd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfDF2Cp7DPd/video.m3u8",
+          "duration": 1779,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-60",
+          "title": "The Professional Toolkit Resume, Linkedin, Conferences & CTFs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ruYeZp2NdC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ruYeZp2NdC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ruYeZp2NdC/video.m3u8",
+          "duration": 2602,
+          "type": "video"
+        },
+        {
+          "id": "td-cybersecurity-61",
+          "title": "Building your Portfolio Website!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdDMqedBmZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdDMqedBmZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdDMqedBmZ/video.m3u8",
+          "duration": 1244,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-cybersecurity-31",
+          "title": "Log Analysis ",
+          "url": "https://docs.google.com/document/d/1JHxwmg31F4aybv-Mhmap1aZPlPIivtkI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JHxwmg31F4aybv-Mhmap1aZPlPIivtkI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JHxwmg31F4aybv-Mhmap1aZPlPIivtkI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JHxwmg31F4aybv-Mhmap1aZPlPIivtkI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-cybersecurity-32",
+          "title": "Capstone Project:",
+          "url": "https://docs.google.com/document/d/17YrSpKmbAm2ATmSAGi9hfF43PwVjYSAa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/17YrSpKmbAm2ATmSAGi9hfF43PwVjYSAa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/17YrSpKmbAm2ATmSAGi9hfF43PwVjYSAa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/17YrSpKmbAm2ATmSAGi9hfF43PwVjYSAa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

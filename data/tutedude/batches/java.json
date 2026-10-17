@@ -1,0 +1,1003 @@
+{
+  "platform": "TuteDude",
+  "batchId": "java",
+  "batchSlug": "java",
+  "batchName": "Java",
+  "thumbnail": "https://www.tutedude.com/assets/avif/java.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/java",
+  "totalSections": 27,
+  "totalLectures": 85,
+  "totalNotes": 6,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-java-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-java-2",
+          "title": "Introduction To The Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s7G8eSNRag/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s7G8eSNRag/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s7G8eSNRag/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        },
+        {
+          "id": "td-java-3",
+          "title": "Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x6AgRG46FN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x6AgRG46FN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x6AgRG46FN/video.m3u8",
+          "duration": 468,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "First Java Program",
+      "lectures": [
+        {
+          "id": "td-java-4",
+          "title": "Writing our first Java program",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yQMDCAg3Ys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yQMDCAg3Ys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yQMDCAg3Ys/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Java Basics",
+      "lectures": [
+        {
+          "id": "td-java-5",
+          "title": "Vars And Data Types-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h6243afCYc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h6243afCYc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h6243afCYc/video.m3u8",
+          "duration": 914,
+          "type": "video"
+        },
+        {
+          "id": "td-java-6",
+          "title": "Variables And Data Types-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q6ckzUsCjC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q6ckzUsCjC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q6ckzUsCjC/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-java-7",
+          "title": "Arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZFY2qYt3UD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZFY2qYt3UD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZFY2qYt3UD/video.m3u8",
+          "duration": 1060,
+          "type": "video"
+        },
+        {
+          "id": "td-java-8",
+          "title": "If-Else",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kF4bra6gMHh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kF4bra6gMHh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kF4bra6gMHh/video.m3u8",
+          "duration": 1046,
+          "type": "video"
+        },
+        {
+          "id": "td-java-9",
+          "title": "Nested If-Else And Switch Case",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae6ZFKP2Kpc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae6ZFKP2Kpc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae6ZFKP2Kpc/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Essentials",
+      "lectures": [
+        {
+          "id": "td-java-10",
+          "title": "Strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m44dF75tR6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m44dF75tR6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m44dF75tR6/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        },
+        {
+          "id": "td-java-11",
+          "title": "While-loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GzKE83ckM7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GzKE83ckM7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GzKE83ckM7/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-java-12",
+          "title": "For-loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qHp66FpzTkU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qHp66FpzTkU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qHp66FpzTkU/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-java-13",
+          "title": "Nested Loops and Debugger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JzEg4qFJgK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JzEg4qFJgK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JzEg4qFJgK/video.m3u8",
+          "duration": 678,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-6",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1khIVQC5jJzAwi4ANGZZIKiQi9K3_KVSI/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1khIVQC5jJzAwi4ANGZZIKiQi9K3_KVSI/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1khIVQC5jJzAwi4ANGZZIKiQi9K3_KVSI/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1khIVQC5jJzAwi4ANGZZIKiQi9K3_KVSI/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Methods",
+      "lectures": [
+        {
+          "id": "td-java-14",
+          "title": "Creating Our First Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rGMgH5UqCk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rGMgH5UqCk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rGMgH5UqCk/video.m3u8",
+          "duration": 608,
+          "type": "video"
+        },
+        {
+          "id": "td-java-15",
+          "title": "Return Types And Arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fr965d2ytq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fr965d2ytq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fr965d2ytq/video.m3u8",
+          "duration": 777,
+          "type": "video"
+        },
+        {
+          "id": "td-java-16",
+          "title": "Public Static Void Main Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-java-17",
+          "title": "Public Static Void Main Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-java-18",
+          "title": "More On Public Static Void Main",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ru7RZgxRAK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ru7RZgxRAK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ru7RZgxRAK/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Classes and objects",
+      "lectures": [
+        {
+          "id": "td-java-19",
+          "title": "Starting with classes and objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EZteFJJ5FY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EZteFJJ5FY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EZteFJJ5FY/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-java-20",
+          "title": "Constructors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J5dBtGgUQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J5dBtGgUQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J5dBtGgUQc/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        },
+        {
+          "id": "td-java-21",
+          "title": "Project Structure and Runtime",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/998YdxrRNGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/998YdxrRNGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/998YdxrRNGA/video.m3u8",
+          "duration": 204,
+          "type": "video"
+        },
+        {
+          "id": "td-java-22",
+          "title": "The Java Stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChxqZPJ3Ht/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChxqZPJ3Ht/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChxqZPJ3Ht/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-java-23",
+          "title": "Java Heap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xphp26Bysy2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xphp26Bysy2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xphp26Bysy2/video.m3u8",
+          "duration": 931,
+          "type": "video"
+        },
+        {
+          "id": "td-java-24",
+          "title": "Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kq3Paqm6XB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kq3Paqm6XB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kq3Paqm6XB/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-java-25",
+          "title": "Interfaces and Method Overriding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77GM72zs3z8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77GM72zs3z8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77GM72zs3z8/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-java-26",
+          "title": "Abstract Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nZkSRZg4pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nZkSRZg4pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nZkSRZg4pa/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-9",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/1E2h7Spha8Va8opiJwD6hdsUMcxlxl1zV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1E2h7Spha8Va8opiJwD6hdsUMcxlxl1zV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1E2h7Spha8Va8opiJwD6hdsUMcxlxl1zV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1E2h7Spha8Va8opiJwD6hdsUMcxlxl1zV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Java Programs and JAR",
+      "lectures": [
+        {
+          "id": "td-java-27",
+          "title": "Using CMD to run java files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrmY8pKMzk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrmY8pKMzk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrmY8pKMzk/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        },
+        {
+          "id": "td-java-28",
+          "title": "Into to JAR files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FqfeQj6sDq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FqfeQj6sDq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FqfeQj6sDq/video.m3u8",
+          "duration": 131,
+          "type": "video"
+        },
+        {
+          "id": "td-java-29",
+          "title": "JAR Files using CMD",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCu6KMyymT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCu6KMyymT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCu6KMyymT/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Exceptions-Errors and File Handling",
+      "lectures": [
+        {
+          "id": "td-java-30",
+          "title": "User Input and Reading Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DHUFgEbkCsq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DHUFgEbkCsq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DHUFgEbkCsq/video.m3u8",
+          "duration": 867,
+          "type": "video"
+        },
+        {
+          "id": "td-java-31",
+          "title": "Exceptions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZM4YnmdgFq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZM4YnmdgFq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZM4YnmdgFq/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-java-32",
+          "title": "Buffered Reader",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Emb2aDbzG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Emb2aDbzG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Emb2aDbzG/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-java-33",
+          "title": "Auto Closeable Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A5cxKyxtKb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A5cxKyxtKb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A5cxKyxtKb/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Collections Framework",
+      "lectures": [
+        {
+          "id": "td-java-34",
+          "title": "ArrayLists And LinkedLists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCkdt5EEgd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCkdt5EEgd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCkdt5EEgd/video.m3u8",
+          "duration": 1199,
+          "type": "video"
+        },
+        {
+          "id": "td-java-35",
+          "title": "Custom ArrayLists and Linked Lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75zZ4nkY4HA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75zZ4nkY4HA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75zZ4nkY4HA/video.m3u8",
+          "duration": 850,
+          "type": "video"
+        },
+        {
+          "id": "td-java-36",
+          "title": "HashSet, LinkedHashSet and HashCode",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PE626NQKCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PE626NQKCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PE626NQKCP/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-java-37",
+          "title": "Custom Comparators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y3KAu2HsaA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y3KAu2HsaA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y3KAu2HsaA/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-java-38",
+          "title": "Maps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69F83tx7Jm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69F83tx7Jm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69F83tx7Jm3/video.m3u8",
+          "duration": 929,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-13",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1fykmSsJXfkqbQMhOlbDO9gZiGNVd4oOC/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1fykmSsJXfkqbQMhOlbDO9gZiGNVd4oOC/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1fykmSsJXfkqbQMhOlbDO9gZiGNVd4oOC/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1fykmSsJXfkqbQMhOlbDO9gZiGNVd4oOC/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Generics",
+      "lectures": [
+        {
+          "id": "td-java-39",
+          "title": "Intoduction and Creating a Generic Class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eY9nxTEG9G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eY9nxTEG9G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eY9nxTEG9G/video.m3u8",
+          "duration": 891,
+          "type": "video"
+        },
+        {
+          "id": "td-java-40",
+          "title": "Generic Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8H8jC6jfCZg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8H8jC6jfCZg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8H8jC6jfCZg/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        },
+        {
+          "id": "td-java-41",
+          "title": "Intro to Wildcards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fY5yZURKdz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fY5yZURKdz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fY5yZURKdz/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-java-42",
+          "title": "More on Wildcards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57hNb9py4uF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57hNb9py4uF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57hNb9py4uF/video.m3u8",
+          "duration": 500,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Jshell",
+      "lectures": [
+        {
+          "id": "td-java-43",
+          "title": "Jshell",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KdzqNF8K3f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KdzqNF8K3f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KdzqNF8K3f/video.m3u8",
+          "duration": 695,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Concurrency",
+      "lectures": [
+        {
+          "id": "td-java-44",
+          "title": "Intro to Threads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S2gsX2ydk7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S2gsX2ydk7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S2gsX2ydk7/video.m3u8",
+          "duration": 671,
+          "type": "video"
+        },
+        {
+          "id": "td-java-45",
+          "title": "Methods on Threads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/588nXHePefh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/588nXHePefh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/588nXHePefh/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-java-46",
+          "title": "Synchronized Threads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHGNsaj8hg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHGNsaj8hg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHGNsaj8hg/video.m3u8",
+          "duration": 732,
+          "type": "video"
+        },
+        {
+          "id": "td-java-47",
+          "title": "Concurrency with Collections",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmxTe8yG3Sq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmxTe8yG3Sq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmxTe8yG3Sq/video.m3u8",
+          "duration": 723,
+          "type": "video"
+        },
+        {
+          "id": "td-java-48",
+          "title": "Producer-Consumer using wait and notify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An7CK3KY4Y5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An7CK3KY4Y5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An7CK3KY4Y5/video.m3u8",
+          "duration": 763,
+          "type": "video"
+        },
+        {
+          "id": "td-java-49",
+          "title": "Producer-Consumer using Array Blocking Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EHsXpTtYBzn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EHsXpTtYBzn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EHsXpTtYBzn/video.m3u8",
+          "duration": 466,
+          "type": "video"
+        },
+        {
+          "id": "td-java-50",
+          "title": "Thread pool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g4HHRqSGhF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g4HHRqSGhF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g4HHRqSGhF/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-17",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1zPgAQ7-AjeiZadUYR1mUuzK9Gxm_CkRG/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1zPgAQ7-AjeiZadUYR1mUuzK9Gxm_CkRG/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1zPgAQ7-AjeiZadUYR1mUuzK9Gxm_CkRG/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1zPgAQ7-AjeiZadUYR1mUuzK9Gxm_CkRG/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "JDBC",
+      "lectures": [
+        {
+          "id": "td-java-51",
+          "title": "Setting up Everything!",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtD2fSYNScT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtD2fSYNScT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtD2fSYNScT/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        },
+        {
+          "id": "td-java-52",
+          "title": "Databases and SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaB9rBEyrH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaB9rBEyrH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaB9rBEyrH/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        },
+        {
+          "id": "td-java-53",
+          "title": "JDBC and SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/827m4A6rrEZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/827m4A6rrEZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/827m4A6rrEZ/video.m3u8",
+          "duration": 740,
+          "type": "video"
+        },
+        {
+          "id": "td-java-54",
+          "title": "Insert_Update_Delete using JDBC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xtYju4nJhY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xtYju4nJhY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xtYju4nJhY/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Lambda Expressions and Streams",
+      "lectures": [
+        {
+          "id": "td-java-55",
+          "title": "Function Interfaces and Lambdas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASCEy2PMtJH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASCEy2PMtJH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASCEy2PMtJH/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-java-56",
+          "title": "Examples of Lambda Expressions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJm6e9Ax9FG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJm6e9Ax9FG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJm6e9Ax9FG/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        },
+        {
+          "id": "td-java-57",
+          "title": "Built-in Functional Interfaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39xtRmKJXaE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39xtRmKJXaE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39xtRmKJXaE/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-java-58",
+          "title": "Streams",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cnBYc3upgx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cnBYc3upgx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cnBYc3upgx/video.m3u8",
+          "duration": 664,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project _ Phone Dealership",
+      "lectures": [
+        {
+          "id": "td-java-59",
+          "title": "Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M5e5N2RXGH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M5e5N2RXGH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M5e5N2RXGH/video.m3u8",
+          "duration": 1007,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-21",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1eEMLzmkP8AOLA6f6_Mj7WoTP2Yc4aN8y/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1eEMLzmkP8AOLA6f6_Mj7WoTP2Yc4aN8y/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1eEMLzmkP8AOLA6f6_Mj7WoTP2Yc4aN8y/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1eEMLzmkP8AOLA6f6_Mj7WoTP2Yc4aN8y/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Intro to Servlets",
+      "lectures": [
+        {
+          "id": "td-java-60",
+          "title": "Tomcat Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rR4FsmHjTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rR4FsmHjTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rR4FsmHjTk/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-java-61",
+          "title": "What is a servlet_",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM6AQtmRCzK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM6AQtmRCzK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM6AQtmRCzK/video.m3u8",
+          "duration": 168,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting started with Servlets",
+      "lectures": [
+        {
+          "id": "td-java-62",
+          "title": "Basics + Our First Servlet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c66BGGXGbR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c66BGGXGbR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c66BGGXGbR/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-java-63",
+          "title": "doGet and doPost",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7cCxeXArR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7cCxeXArR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7cCxeXArR/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-java-64",
+          "title": "Request Dispatcher",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAFKffFhKs2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAFKffFhKs2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAFKffFhKs2/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Session Tracking in servlets",
+      "lectures": [
+        {
+          "id": "td-java-65",
+          "title": "Using HttpSession",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH59PhKHan/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH59PhKHan/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH59PhKHan/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-java-66",
+          "title": "Using Cookies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n2cH34ZpMn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n2cH34ZpMn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n2cH34ZpMn/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-java-67",
+          "title": "Using Url Rewriting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4theG6s5JSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4theG6s5JSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4theG6s5JSC/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Servlet Context and Config",
+      "lectures": [
+        {
+          "id": "td-java-68",
+          "title": "ServletConfig",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SR9TGN85uM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SR9TGN85uM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SR9TGN85uM/video.m3u8",
+          "duration": 376,
+          "type": "video"
+        },
+        {
+          "id": "td-java-69",
+          "title": "ServletContext",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UJhHsEAFt7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UJhHsEAFt7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UJhHsEAFt7/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Filter",
+      "lectures": [
+        {
+          "id": "td-java-70",
+          "title": "Filters Explained with Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zyr2ZjmMmD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zyr2ZjmMmD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zyr2ZjmMmD/video.m3u8",
+          "duration": 442,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JSP Scripting",
+      "lectures": [
+        {
+          "id": "td-java-71",
+          "title": "JSP Scripting Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QT4qEaxznT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QT4qEaxznT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QT4qEaxznT/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JSP implicit objects",
+      "lectures": [
+        {
+          "id": "td-java-72",
+          "title": "Response Implicit Object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2P76ryQQb4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2P76ryQQb4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2P76ryQQb4/video.m3u8",
+          "duration": 285,
+          "type": "video"
+        },
+        {
+          "id": "td-java-73",
+          "title": "Config implicit object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM8C6rSKHTN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM8C6rSKHTN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM8C6rSKHTN/video.m3u8",
+          "duration": 161,
+          "type": "video"
+        },
+        {
+          "id": "td-java-74",
+          "title": "Application Implicit Object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NNRxdtrQSU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NNRxdtrQSU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NNRxdtrQSU/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-java-75",
+          "title": "Session implicit Object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yngk9uuF94/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yngk9uuF94/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yngk9uuF94/video.m3u8",
+          "duration": 378,
+          "type": "video"
+        },
+        {
+          "id": "td-java-76",
+          "title": "PageContext, page and Exception implicit object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TqJ3QG3NsK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TqJ3QG3NsK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TqJ3QG3NsK/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-java-77",
+          "title": "JSP implicit objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84hDUBHjTCS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84hDUBHjTCS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84hDUBHjTCS/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Jsp Directives",
+      "lectures": [
+        {
+          "id": "td-java-78",
+          "title": "JSP Page Directives",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r8kYRC6YSy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r8kYRC6YSy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r8kYRC6YSy/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-java-79",
+          "title": "JSP Include and Taglib Directive",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GjC8KHTGCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GjC8KHTGCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GjC8KHTGCY/video.m3u8",
+          "duration": 258,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JSP Action Tags",
+      "lectures": [
+        {
+          "id": "td-java-80",
+          "title": "JSP Forward, Param, Include Tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nK69aupXJhA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nK69aupXJhA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nK69aupXJhA/video.m3u8",
+          "duration": 327,
+          "type": "video"
+        },
+        {
+          "id": "td-java-81",
+          "title": "UseBean Action Tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3r48t5dM5Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3r48t5dM5Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3r48t5dM5Z/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JSP MVC",
+      "lectures": [
+        {
+          "id": "td-java-82",
+          "title": "Expression Language",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95bC9zaSbAd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95bC9zaSbAd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95bC9zaSbAd/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-java-83",
+          "title": "Model View And Controller",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kadX2a7c3R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kadX2a7c3R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kadX2a7c3R/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Login App using JSP",
+      "lectures": [
+        {
+          "id": "td-java-84",
+          "title": "Login App -1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CGanJ3gHDp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CGanJ3gHDp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CGanJ3gHDp/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        },
+        {
+          "id": "td-java-85",
+          "title": "Login App -2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rAJsdZzKGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rAJsdZzKGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rAJsdZzKGd/video.m3u8",
+          "duration": 731,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-java-33",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/10djLgNqKxNPyUhc4eluxqhWZVa5rJ7Z1/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/10djLgNqKxNPyUhc4eluxqhWZVa5rJ7Z1/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/10djLgNqKxNPyUhc4eluxqhWZVa5rJ7Z1/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/10djLgNqKxNPyUhc4eluxqhWZVa5rJ7Z1/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

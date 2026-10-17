@@ -1,0 +1,2488 @@
+{
+  "platform": "TuteDude",
+  "batchId": "affinitystudio",
+  "batchSlug": "affinitystudio",
+  "batchName": "Affinity Studio",
+  "thumbnail": "https://www.tutedude.com/assets/avif/affinitystudio.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/affinitystudio",
+  "totalSections": 32,
+  "totalLectures": 182,
+  "totalNotes": 68,
+  "price": "699.00",
+  "category": "Design",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-2",
+          "title": "Introduction of Affinity Studio and Comparisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c6rpdfPk3F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c6rpdfPk3F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c6rpdfPk3F/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-3",
+          "title": "Download and Installation Process Step by Step",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59bxhy2czb2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59bxhy2czb2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59bxhy2czb2/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-4",
+          "title": "Exploring the User Interface & Workspace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62hTt63udsD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62hTt63udsD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62hTt63udsD/video.m3u8",
+          "duration": 1147,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-5",
+          "title": "Setup of Document According to Projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83RZaFfqPCt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83RZaFfqPCt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83RZaFfqPCt/video.m3u8",
+          "duration": 2084,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Vector Fundamentals",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-6",
+          "title": "Vector vs Raster",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMZryaqFsjY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMZryaqFsjY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMZryaqFsjY/video.m3u8",
+          "duration": 367,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-7",
+          "title": "Document setup for Vector Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97pZ2YrrGAb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97pZ2YrrGAb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97pZ2YrrGAb/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-8",
+          "title": "Exploring Artboards and their Featues",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Zcjj9HQXu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Zcjj9HQXu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Zcjj9HQXu7/video.m3u8",
+          "duration": 1565,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-9",
+          "title": "Optimization of Tools and Panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95nunxgMgQt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95nunxgMgQt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95nunxgMgQt/video.m3u8",
+          "duration": 1268,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-10",
+          "title": "Uses of Grid, Guides and Snapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MgBKBfhAKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MgBKBfhAKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MgBKBfhAKU/video.m3u8",
+          "duration": 1358,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-11",
+          "title": "Exploring the Basic Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkpNrhXSyR3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkpNrhXSyR3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkpNrhXSyR3/video.m3u8",
+          "duration": 1930,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-12",
+          "title": "Cut, Copy, Paste and Duplicate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8efJXNjKQBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8efJXNjKQBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8efJXNjKQBK/video.m3u8",
+          "duration": 1370,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-13",
+          "title": "Import and Export",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sXdTu8UqsZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sXdTu8UqsZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sXdTu8UqsZ/video.m3u8",
+          "duration": 3647,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-14",
+          "title": "Arrangement of Multiple Shapes, Image and Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjY8C8A747/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjY8C8A747/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjY8C8A747/video.m3u8",
+          "duration": 1381,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-15",
+          "title": "Alignment Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xHJmzsqqmz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xHJmzsqqmz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xHJmzsqqmz/video.m3u8",
+          "duration": 1560,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-16",
+          "title": "Shape Geometry like Pathfinder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAysMSbFMh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAysMSbFMh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAysMSbFMh/video.m3u8",
+          "duration": 1186,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-17",
+          "title": "PenTool Usecase and Hidden Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDR9uxZJME/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDR9uxZJME/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDR9uxZJME/video.m3u8",
+          "duration": 1069,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-18",
+          "title": "Working with Compound Shpes and Geometry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUQhJm7mJ64/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUQhJm7mJ64/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUQhJm7mJ64/video.m3u8",
+          "duration": 973,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-19",
+          "title": "Understanding the Stroke Usecase and it's Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbcmJCUebcN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbcmJCUebcN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbcmJCUebcN/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-20",
+          "title": "Layer Panel Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HZbr37SUQA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HZbr37SUQA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HZbr37SUQA/video.m3u8",
+          "duration": 1232,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-21",
+          "title": "Understanding the Layer Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMhuGg3QX3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMhuGg3QX3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMhuGg3QX3/video.m3u8",
+          "duration": 2670,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-22",
+          "title": "Color Picker & Style Picker Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B53zusMdAzp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B53zusMdAzp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B53zusMdAzp/video.m3u8",
+          "duration": 2530,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-23",
+          "title": "Create Clipping Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeYGCuNjBk7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeYGCuNjBk7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeYGCuNjBk7/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-4",
+          "title": "Assignment- Shapes & Boolean Operations",
+          "url": "https://docs.google.com/document/d/1-xR5GmMuVar6TfNXbBdSgNiL75_S_j8m/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-xR5GmMuVar6TfNXbBdSgNiL75_S_j8m/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-xR5GmMuVar6TfNXbBdSgNiL75_S_j8m/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-xR5GmMuVar6TfNXbBdSgNiL75_S_j8m/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-5",
+          "title": "Object Duplication & Repeat Patterns",
+          "url": "https://docs.google.com/document/d/1GASPe8xAp6PHCELtwecB_yYecdZxvc_x/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1GASPe8xAp6PHCELtwecB_yYecdZxvc_x/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1GASPe8xAp6PHCELtwecB_yYecdZxvc_x/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1GASPe8xAp6PHCELtwecB_yYecdZxvc_x/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-6",
+          "title": "Layers & Object Organization",
+          "url": "https://docs.google.com/document/d/1VuseXjTlxE-aI98Iq1PBLRKhutJ7BOXo/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1VuseXjTlxE-aI98Iq1PBLRKhutJ7BOXo/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1VuseXjTlxE-aI98Iq1PBLRKhutJ7BOXo/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1VuseXjTlxE-aI98Iq1PBLRKhutJ7BOXo/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-7",
+          "title": "Clipping & Masking Basics",
+          "url": "https://docs.google.com/document/d/1TkdXqCR4lym8I_rrD8cb0ywb4zkoHksF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TkdXqCR4lym8I_rrD8cb0ywb4zkoHksF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TkdXqCR4lym8I_rrD8cb0ywb4zkoHksF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TkdXqCR4lym8I_rrD8cb0ywb4zkoHksF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Precision Drawing & Workflow",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-24",
+          "title": "Using Basic Shpaes and PenTool to Design Icons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJrdkByE2EN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJrdkByE2EN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJrdkByE2EN/video.m3u8",
+          "duration": 3568,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-25",
+          "title": "Node Editing, Smoothing, Corner Tool, JoinClose Paths",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P8QPPBNBRSn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P8QPPBNBRSn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P8QPPBNBRSn/video.m3u8",
+          "duration": 1116,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-26",
+          "title": "Uses of ShapeBuilder Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yapPahTeMg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yapPahTeMg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yapPahTeMg/video.m3u8",
+          "duration": 1582,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-9",
+          "title": "Pen Tool Mastery & Node Editing",
+          "url": "https://docs.google.com/document/d/17wp1ArXLdNq50zJl2dmEadq33RXHhmaZ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/17wp1ArXLdNq50zJl2dmEadq33RXHhmaZ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/17wp1ArXLdNq50zJl2dmEadq33RXHhmaZ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/17wp1ArXLdNq50zJl2dmEadq33RXHhmaZ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Color, Fills & Gradients",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-27",
+          "title": "Color, Fills & Gradients",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZ3AJtbDF5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZ3AJtbDF5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZ3AJtbDF5/video.m3u8",
+          "duration": 1684,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-28",
+          "title": "Understanding the Gradient Uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSSxQZ95bRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSSxQZ95bRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSSxQZ95bRG/video.m3u8",
+          "duration": 1967,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-29",
+          "title": "Learn to Design New Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7964R8YPyZT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7964R8YPyZT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7964R8YPyZT/video.m3u8",
+          "duration": 1632,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-30",
+          "title": "Design Graphics for Pattern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tDy3Sba2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tDy3Sba2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tDy3Sba2h/video.m3u8",
+          "duration": 2057,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-11",
+          "title": "Gradients & Transparency",
+          "url": "https://docs.google.com/document/d/1p38up58urkr7DFg7i5XHEVHlWWJBP9V0/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1p38up58urkr7DFg7i5XHEVHlWWJBP9V0/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1p38up58urkr7DFg7i5XHEVHlWWJBP9V0/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1p38up58urkr7DFg7i5XHEVHlWWJBP9V0/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-12",
+          "title": "Color Variations & Recolor Practice",
+          "url": "https://docs.google.com/document/d/172vTw6Lj8wIHYeHTA6jvdYB5ayW2qgnw/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/172vTw6Lj8wIHYeHTA6jvdYB5ayW2qgnw/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/172vTw6Lj8wIHYeHTA6jvdYB5ayW2qgnw/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/172vTw6Lj8wIHYeHTA6jvdYB5ayW2qgnw/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-13",
+          "title": "Color Palette & Swatches",
+          "url": "https://docs.google.com/document/d/1Ya0zj1-ELarN4j78PeYWemumgxmckCPi/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Ya0zj1-ELarN4j78PeYWemumgxmckCPi/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Ya0zj1-ELarN4j78PeYWemumgxmckCPi/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Ya0zj1-ELarN4j78PeYWemumgxmckCPi/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Type & Typography for Vector",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-31",
+          "title": "Text Tools Usecase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rQsuZdRUUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rQsuZdRUUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rQsuZdRUUz/video.m3u8",
+          "duration": 2969,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-32",
+          "title": "Exploring the Features of Paragraph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gZZQ7bAzq6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gZZQ7bAzq6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gZZQ7bAzq6/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-33",
+          "title": "Download, Install and Uses of New Fonts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EsSS68QPpa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EsSS68QPpa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EsSS68QPpa/video.m3u8",
+          "duration": 1179,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-34",
+          "title": "How to work with Text on Path",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5k5C3Bcas/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5k5C3Bcas/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5k5C3Bcas/video.m3u8",
+          "duration": 1120,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-35",
+          "title": "Understanding the Basics of Typography",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PJHN4XUH7g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PJHN4XUH7g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PJHN4XUH7g/video.m3u8",
+          "duration": 1228,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-36",
+          "title": "Typography Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "duration": 3175,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-15",
+          "title": "Typography & Text on Path",
+          "url": "https://docs.google.com/document/d/1-YSG7G9V5YFZelOwvM4KWgVPZx-wJ9lK/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-YSG7G9V5YFZelOwvM4KWgVPZx-wJ9lK/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-YSG7G9V5YFZelOwvM4KWgVPZx-wJ9lK/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-YSG7G9V5YFZelOwvM4KWgVPZx-wJ9lK/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-16",
+          "title": "Text Formatting & Paragraph Styling",
+          "url": "https://docs.google.com/document/d/1ubXV-wYr5i-K5763ehKcAGW6pBpz8H_f/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ubXV-wYr5i-K5763ehKcAGW6pBpz8H_f/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ubXV-wYr5i-K5763ehKcAGW6pBpz8H_f/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ubXV-wYr5i-K5763ehKcAGW6pBpz8H_f/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Brushes, Symbols & Repeaters",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-37",
+          "title": "Exploring the Existing Brushes of Affinity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/638BgBf6Gky/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/638BgBf6Gky/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/638BgBf6Gky/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-38",
+          "title": "Symbols and it's properties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZksPbxAPfb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZksPbxAPfb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZksPbxAPfb/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-18",
+          "title": "Custom Brushes & Decorative Borders",
+          "url": "https://docs.google.com/document/d/1FPP0P7HTmBfRpuwaWB8t3h5D63hQ66Zv/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FPP0P7HTmBfRpuwaWB8t3h5D63hQ66Zv/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FPP0P7HTmBfRpuwaWB8t3h5D63hQ66Zv/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FPP0P7HTmBfRpuwaWB8t3h5D63hQ66Zv/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Vector Effects & Appearance",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-39",
+          "title": "Exploring the Appearance panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kdFcEh8RbC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kdFcEh8RbC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kdFcEh8RbC/video.m3u8",
+          "duration": 1164,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-40",
+          "title": "Mesh Fill and Customize options with Fill Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58cp9gsrbFc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58cp9gsrbFc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58cp9gsrbFc/video.m3u8",
+          "duration": 924,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-41",
+          "title": "Layer Blending Modes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pbnpA9bTxC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pbnpA9bTxC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pbnpA9bTxC/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-42",
+          "title": "New Warp Group Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF2PxDN7ua2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF2PxDN7ua2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF2PxDN7ua2/video.m3u8",
+          "duration": 752,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-43",
+          "title": "Vector Menu important featues",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApfdJRFcQa2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApfdJRFcQa2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApfdJRFcQa2/video.m3u8",
+          "duration": 1690,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-20",
+          "title": "Stroke Styles & Appearance Panel",
+          "url": "https://docs.google.com/document/d/1vUQ0ThfGvyDz6G8PUhwfLMDaCgkM4P8e/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vUQ0ThfGvyDz6G8PUhwfLMDaCgkM4P8e/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vUQ0ThfGvyDz6G8PUhwfLMDaCgkM4P8e/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vUQ0ThfGvyDz6G8PUhwfLMDaCgkM4P8e/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Image Trace  Vectorization",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-44",
+          "title": "Creating Simple Vector Graphics by using Basic Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42n4aT8t2Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42n4aT8t2Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42n4aT8t2Z/video.m3u8",
+          "duration": 4099,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-45",
+          "title": "Tree and Plant Illustration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xr9JhTKUyR6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xr9JhTKUyR6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xr9JhTKUyR6/video.m3u8",
+          "duration": 2766,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-46",
+          "title": "Vector Floral Deisgn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dh4Ua7rHn6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dh4Ua7rHn6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dh4Ua7rHn6/video.m3u8",
+          "duration": 1428,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-47",
+          "title": "Nature Illustration Scene Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqr9M2dZc4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqr9M2dZc4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqr9M2dZc4g/video.m3u8",
+          "duration": 6475,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-48",
+          "title": "Learn to Design Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S9tJufshBh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S9tJufshBh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S9tJufshBh/video.m3u8",
+          "duration": 2690,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-49",
+          "title": "Sketch to Vector",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBH8tDtTpK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBH8tDtTpK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBH8tDtTpK/video.m3u8",
+          "duration": 2953,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-50",
+          "title": "Image Tracing Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MbGASrkxM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MbGASrkxM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MbGASrkxM/video.m3u8",
+          "duration": 1812,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-51",
+          "title": "Image Track with one Click",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89d275QePYu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89d275QePYu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89d275QePYu/video.m3u8",
+          "duration": 786,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-52",
+          "title": "Basics of Image Tracing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB5pjHZfr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB5pjHZfr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB5pjHZfr7/video.m3u8",
+          "duration": 2137,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-22",
+          "title": "Simple Character Face Design",
+          "url": "https://docs.google.com/document/d/1yoHuYqkv5uQ9UpXJMpg87f_MXM9Ga0-d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1yoHuYqkv5uQ9UpXJMpg87f_MXM9Ga0-d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1yoHuYqkv5uQ9UpXJMpg87f_MXM9Ga0-d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1yoHuYqkv5uQ9UpXJMpg87f_MXM9Ga0-d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Vector Graphcis & UI Asset Design",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-53",
+          "title": "Lowpolly Vector Art Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgkpcGUjk2S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgkpcGUjk2S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgkpcGUjk2S/video.m3u8",
+          "duration": 1062,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-54",
+          "title": "Infographics Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhZr4D66qTz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhZr4D66qTz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhZr4D66qTz/video.m3u8",
+          "duration": 2297,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-55",
+          "title": "Creating Buttons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qgBRDua6aX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qgBRDua6aX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qgBRDua6aX/video.m3u8",
+          "duration": 2032,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-56",
+          "title": "Example of UI Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mA8cueuRjqp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mA8cueuRjqp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mA8cueuRjqp/video.m3u8",
+          "duration": 2253,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-24",
+          "title": "Simple Infographic Layout",
+          "url": "https://docs.google.com/document/d/11pLpozbHYcPXfSzHk0_3FXQtpjbvdJrL/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11pLpozbHYcPXfSzHk0_3FXQtpjbvdJrL/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11pLpozbHYcPXfSzHk0_3FXQtpjbvdJrL/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11pLpozbHYcPXfSzHk0_3FXQtpjbvdJrL/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Using Grids to Create Graphics",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-57",
+          "title": "Using Square Grid to Design Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak3uY42Rkqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak3uY42Rkqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak3uY42Rkqf/video.m3u8",
+          "duration": 1129,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-58",
+          "title": "Isometric Grid",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHbXUrJjAkK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHbXUrJjAkK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHbXUrJjAkK/video.m3u8",
+          "duration": 2262,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-59",
+          "title": "Exploring Triangular Grid for 3D Graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmZ53qKpECY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmZ53qKpECY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmZ53qKpECY/video.m3u8",
+          "duration": 1240,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-26",
+          "title": "Grid System & Alignment Practice",
+          "url": "https://docs.google.com/document/d/1U7HaTbVwoP37nGmaNpLwIobpR9-5zq8P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1U7HaTbVwoP37nGmaNpLwIobpR9-5zq8P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1U7HaTbVwoP37nGmaNpLwIobpR9-5zq8P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1U7HaTbVwoP37nGmaNpLwIobpR9-5zq8P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Logo Design",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-60",
+          "title": "Basics of Logo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GM4hQx6UaF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GM4hQx6UaF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GM4hQx6UaF/video.m3u8",
+          "duration": 1505,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-61",
+          "title": "Logo Design Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s3YNtmXuxC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s3YNtmXuxC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s3YNtmXuxC/video.m3u8",
+          "duration": 1759,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-62",
+          "title": "Logo Design Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQtZxusc56/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQtZxusc56/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQtZxusc56/video.m3u8",
+          "duration": 1474,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-63",
+          "title": "Using Pentool to Create Logo Symbol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDnMB6246QK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDnMB6246QK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDnMB6246QK/video.m3u8",
+          "duration": 2574,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-28",
+          "title": "Badge & Emblem Design",
+          "url": "https://docs.google.com/document/d/1mGLrux-Vf0hauAm3KMCVOhc8PU_-lkkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1mGLrux-Vf0hauAm3KMCVOhc8PU_-lkkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1mGLrux-Vf0hauAm3KMCVOhc8PU_-lkkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1mGLrux-Vf0hauAm3KMCVOhc8PU_-lkkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-29",
+          "title": "Icon Design by using grid",
+          "url": "https://docs.google.com/document/d/11-bixL7SGIktrIdNR42cFrEkcwWsZB97/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11-bixL7SGIktrIdNR42cFrEkcwWsZB97/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11-bixL7SGIktrIdNR42cFrEkcwWsZB97/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11-bixL7SGIktrIdNR42cFrEkcwWsZB97/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-64",
+          "title": "Ads Design for Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa8nZCeGjc3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa8nZCeGjc3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa8nZCeGjc3/video.m3u8",
+          "duration": 2592,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-65",
+          "title": "Instagram Post and Story Design2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZXtDmhE43J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZXtDmhE43J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZXtDmhE43J/video.m3u8",
+          "duration": 3232,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-66",
+          "title": "Coverpage Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BG4aSQ4mnE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BG4aSQ4mnE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BG4aSQ4mnE/video.m3u8",
+          "duration": 2460,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-67",
+          "title": "Corporate Flyer Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf4YaMtN6SP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf4YaMtN6SP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf4YaMtN6SP/video.m3u8",
+          "duration": 3493,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-68",
+          "title": "Workshop Posters Desiging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ThAhpynnM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ThAhpynnM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ThAhpynnM/video.m3u8",
+          "duration": 2503,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-69",
+          "title": "Desiging Rollup Standee Flex for Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATfnZ7bmmmK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATfnZ7bmmmK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATfnZ7bmmmK/video.m3u8",
+          "duration": 2499,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-70",
+          "title": "Flat Vector Character Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c9Fr3Cy5dY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c9Fr3Cy5dY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c9Fr3Cy5dY/video.m3u8",
+          "duration": 4874,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-31",
+          "title": "Social Media Post Design",
+          "url": "https://docs.google.com/document/d/1exOixV8_pX-VK1v4EDpnOX3ertl_FU4E/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1exOixV8_pX-VK1v4EDpnOX3ertl_FU4E/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1exOixV8_pX-VK1v4EDpnOX3ertl_FU4E/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1exOixV8_pX-VK1v4EDpnOX3ertl_FU4E/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-32",
+          "title": "Logo Redesign",
+          "url": "https://docs.google.com/document/d/1SJC1b1qmJGYo6OSafLoh7OXy7He7gFEY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SJC1b1qmJGYo6OSafLoh7OXy7He7gFEY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SJC1b1qmJGYo6OSafLoh7OXy7He7gFEY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SJC1b1qmJGYo6OSafLoh7OXy7He7gFEY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-33",
+          "title": "Flat Illustration (Nature Scene)",
+          "url": "https://docs.google.com/document/d/1TUaadOwQy_-9inWcvAqLh_s4rFTfOtU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TUaadOwQy_-9inWcvAqLh_s4rFTfOtU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TUaadOwQy_-9inWcvAqLh_s4rFTfOtU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TUaadOwQy_-9inWcvAqLh_s4rFTfOtU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Layout Studio Intro & Document Setup",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-71",
+          "title": "Document Presets and Customization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uBqMMbqStQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uBqMMbqStQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uBqMMbqStQ/video.m3u8",
+          "duration": 1095,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-72",
+          "title": "Interface of Layout Studio and Tools Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9He7eStDDre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9He7eStDDre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9He7eStDDre/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-73",
+          "title": "Managing Multiple Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ycZyAye6q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ycZyAye6q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ycZyAye6q/video.m3u8",
+          "duration": 1873,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-74",
+          "title": "Exploring the Master Page Options and Uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zUk3kTK8fc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zUk3kTK8fc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zUk3kTK8fc/video.m3u8",
+          "duration": 2128,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-75",
+          "title": "Adding Color and Texture on Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ehkNr9Y4mM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ehkNr9Y4mM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ehkNr9Y4mM/video.m3u8",
+          "duration": 959,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-76",
+          "title": "Layer Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnBs2ee4ks/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnBs2ee4ks/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnBs2ee4ks/video.m3u8",
+          "duration": 2574,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-35",
+          "title": "New Document Setup & Margins",
+          "url": "https://docs.google.com/document/d/1PoOlfNRYOaCmnN8qzPcwehEZ3EQpl0h5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PoOlfNRYOaCmnN8qzPcwehEZ3EQpl0h5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PoOlfNRYOaCmnN8qzPcwehEZ3EQpl0h5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PoOlfNRYOaCmnN8qzPcwehEZ3EQpl0h5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-36",
+          "title": "Master Page Creation",
+          "url": "https://docs.google.com/document/d/1QeGw3Cmf6eDvKSDt5oDOoSv9jVkcALfY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QeGw3Cmf6eDvKSDt5oDOoSv9jVkcALfY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QeGw3Cmf6eDvKSDt5oDOoSv9jVkcALfY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QeGw3Cmf6eDvKSDt5oDOoSv9jVkcALfY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-37",
+          "title": "Working with Pages Panel",
+          "url": "https://docs.google.com/document/d/1bNOJ_SExCB3dUIZeoIFzwg3bmQSyH6cm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1bNOJ_SExCB3dUIZeoIFzwg3bmQSyH6cm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1bNOJ_SExCB3dUIZeoIFzwg3bmQSyH6cm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1bNOJ_SExCB3dUIZeoIFzwg3bmQSyH6cm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with Frames & Linked Content",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-77",
+          "title": "Understanding the Image frame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zRGtpDSGqH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zRGtpDSGqH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zRGtpDSGqH/video.m3u8",
+          "duration": 1469,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-78",
+          "title": "Exploring Text Tool and Frames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nTtrcHYKU7j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nTtrcHYKU7j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nTtrcHYKU7j/video.m3u8",
+          "duration": 1289,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-79",
+          "title": "Text Wrapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKxsNNZ2SCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKxsNNZ2SCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKxsNNZ2SCY/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-80",
+          "title": "PlaceReplace & Relink the Image",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqmDS2bAxPK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqmDS2bAxPK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqmDS2bAxPK/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-39",
+          "title": "Working with Images & Picture Frames",
+          "url": "https://docs.google.com/document/d/1UEWBIiwvrM7vIfy1VG0rtTNhCVewJOPl/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UEWBIiwvrM7vIfy1VG0rtTNhCVewJOPl/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UEWBIiwvrM7vIfy1VG0rtTNhCVewJOPl/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UEWBIiwvrM7vIfy1VG0rtTNhCVewJOPl/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Typography & Grids",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-81",
+          "title": "Text Tool & Character Panel Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJF6FXY4SXr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJF6FXY4SXr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJF6FXY4SXr/video.m3u8",
+          "duration": 1245,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-82",
+          "title": "Exploring Text Menu Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C22gGCjTx5N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C22gGCjTx5N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C22gGCjTx5N/video.m3u8",
+          "duration": 1625,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-83",
+          "title": "Typography Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kGqxBH8JHY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kGqxBH8JHY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kGqxBH8JHY/video.m3u8",
+          "duration": 1468,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-84",
+          "title": "Manipulating Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMRckB28AR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMRckB28AR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMRckB28AR/video.m3u8",
+          "duration": 1883,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-85",
+          "title": "Typography-Focused Layout Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79CnDgnjJjc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79CnDgnjJjc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79CnDgnjJjc/video.m3u8",
+          "duration": 1959,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-41",
+          "title": "Text Frames & Linking",
+          "url": "https://docs.google.com/document/d/1_xPQnRdoPzKYhktyGlFBABnsbmCyX72t/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_xPQnRdoPzKYhktyGlFBABnsbmCyX72t/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_xPQnRdoPzKYhktyGlFBABnsbmCyX72t/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_xPQnRdoPzKYhktyGlFBABnsbmCyX72t/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-42",
+          "title": "Character & Paragraph Styles",
+          "url": "https://docs.google.com/document/d/1YRbAbMVTf-1StXBtTb5fJl_BAPcB9rYm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YRbAbMVTf-1StXBtTb5fJl_BAPcB9rYm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YRbAbMVTf-1StXBtTb5fJl_BAPcB9rYm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YRbAbMVTf-1StXBtTb5fJl_BAPcB9rYm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Exploring Tools & Menu Options of Layout Studio",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-86",
+          "title": "Creating Graphics by using basic shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dnbbeqg3NZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dnbbeqg3NZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dnbbeqg3NZ/video.m3u8",
+          "duration": 3191,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-87",
+          "title": "Creating Graphics by Using PenTool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKED9U4gffb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKED9U4gffb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKED9U4gffb/video.m3u8",
+          "duration": 3710,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-88",
+          "title": "Hidden Features of Vector Crop Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYSAs3sTB7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYSAs3sTB7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYSAs3sTB7/video.m3u8",
+          "duration": 1707,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-89",
+          "title": "Exploring all the Color Options",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yn62urJhN2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yn62urJhN2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yn62urJhN2/video.m3u8",
+          "duration": 1436,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-90",
+          "title": "Fill and Transparent Tool Usecase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATYmSQ6s9rM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATYmSQ6s9rM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATYmSQ6s9rM/video.m3u8",
+          "duration": 1135,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-91",
+          "title": "Exploring the Color & Style Picker Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rPKc5hpJbJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rPKc5hpJbJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rPKc5hpJbJ/video.m3u8",
+          "duration": 1418,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-92",
+          "title": "Develop, Liquify and Tone Map",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59yuMZK8CxF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59yuMZK8CxF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59yuMZK8CxF/video.m3u8",
+          "duration": 1504,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-93",
+          "title": "Applying Clipping Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bmux5qSznFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bmux5qSznFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bmux5qSznFD/video.m3u8",
+          "duration": 2134,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-94",
+          "title": "Flipping, Alignment and Arrangement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EQSYgtkfkf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EQSYgtkfkf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EQSYgtkfkf/video.m3u8",
+          "duration": 3279,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-95",
+          "title": "Optimizing the Essential Settings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHZBsKADjE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHZBsKADjE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHZBsKADjE/video.m3u8",
+          "duration": 1332,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-96",
+          "title": "Grid, Ruler & Guides",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M2rtbYbEU2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M2rtbYbEU2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M2rtbYbEU2/video.m3u8",
+          "duration": 2725,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-97",
+          "title": "Generating Custom QR Codes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u6rTsgffEH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u6rTsgffEH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u6rTsgffEH/video.m3u8",
+          "duration": 830,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-44",
+          "title": "Grids & Guides Setup",
+          "url": "https://docs.google.com/document/d/10SvcjbYr-1DKzsxnPEc2DYfLiP7dbyPE/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/10SvcjbYr-1DKzsxnPEc2DYfLiP7dbyPE/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/10SvcjbYr-1DKzsxnPEc2DYfLiP7dbyPE/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/10SvcjbYr-1DKzsxnPEc2DYfLiP7dbyPE/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Vector+Pixel Coverstion & Color Exploration",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-98",
+          "title": "Importing vector assets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5R58xN7H4T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5R58xN7H4T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5R58xN7H4T/video.m3u8",
+          "duration": 2015,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-99",
+          "title": "Placing Photoshop Composited Files and Manage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HBAe5KmNAS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HBAe5KmNAS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HBAe5KmNAS/video.m3u8",
+          "duration": 2837,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-100",
+          "title": "Importing InDesign File Inside Affinity Layout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ruey9NcHnu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ruey9NcHnu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ruey9NcHnu/video.m3u8",
+          "duration": 1574,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-101",
+          "title": "Understanding the Fundamental of Color",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5s24BmMrNg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5s24BmMrNg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5s24BmMrNg/video.m3u8",
+          "duration": 2828,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-102",
+          "title": "RGB to CMYK Conversion & Optimazing for Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhq66YGnd8y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhq66YGnd8y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhq66YGnd8y/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-103",
+          "title": "Types of Printers Availabe in Market",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t54dmtbxyR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t54dmtbxyR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t54dmtbxyR/video.m3u8",
+          "duration": 1681,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-46",
+          "title": "Understanding Vector vs Pixel Comparison",
+          "url": "https://docs.google.com/document/d/1S35ZNmaLVqS48_1aI2VgfkIzsZXp3360/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1S35ZNmaLVqS48_1aI2VgfkIzsZXp3360/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1S35ZNmaLVqS48_1aI2VgfkIzsZXp3360/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1S35ZNmaLVqS48_1aI2VgfkIzsZXp3360/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Interactive Optimization for Export Settings",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-104",
+          "title": "PDF Optimzation for Export",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6FQTDbRNX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6FQTDbRNX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6FQTDbRNX/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-105",
+          "title": "Image Output Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xnGz8ZshZM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xnGz8ZshZM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xnGz8ZshZM/video.m3u8",
+          "duration": 1438,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-106",
+          "title": "Saving & Exporting the Package",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAXjeKZJExY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAXjeKZJExY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAXjeKZJExY/video.m3u8",
+          "duration": 1257,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-48",
+          "title": "Print vs Web Export Optimization",
+          "url": "https://docs.google.com/document/d/18kH5iK3DCGqI8cnejtPwmERifhaeXge9/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/18kH5iK3DCGqI8cnejtPwmERifhaeXge9/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/18kH5iK3DCGqI8cnejtPwmERifhaeXge9/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/18kH5iK3DCGqI8cnejtPwmERifhaeXge9/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Branding & Multi-asset Production",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-107",
+          "title": "Branding MasteryClass",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UCknJPqCfzZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UCknJPqCfzZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UCknJPqCfzZ/video.m3u8",
+          "duration": 3486,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-50",
+          "title": "Typography System Layout",
+          "url": "https://docs.google.com/document/d/1DQRxGmK_4hNqwpwxUCImkN7LVIME4bdW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DQRxGmK_4hNqwpwxUCImkN7LVIME4bdW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DQRxGmK_4hNqwpwxUCImkN7LVIME4bdW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DQRxGmK_4hNqwpwxUCImkN7LVIME4bdW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-51",
+          "title": "Understanding Brand Identity Structure",
+          "url": "https://docs.google.com/document/d/1_GIlxtS7umaEFxOn7IQDGNL5zzfA-VIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_GIlxtS7umaEFxOn7IQDGNL5zzfA-VIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_GIlxtS7umaEFxOn7IQDGNL5zzfA-VIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_GIlxtS7umaEFxOn7IQDGNL5zzfA-VIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Large Format Design",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-108",
+          "title": "Adding and Managing Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73PQZfYCHut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73PQZfYCHut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73PQZfYCHut/video.m3u8",
+          "duration": 1699,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-109",
+          "title": "Corporate Brochure Desiging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3prRMdSYMeG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3prRMdSYMeG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3prRMdSYMeG/video.m3u8",
+          "duration": 3949,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-110",
+          "title": "Magazine Layout (Cover + Inner Pages)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SY37era6H5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SY37era6H5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SY37era6H5/video.m3u8",
+          "duration": 1501,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-53",
+          "title": "Brochure (Bi-Fold)",
+          "url": "https://docs.google.com/document/d/1j8EW1TEM4wDdaY_SMz1GxIlE8bl6jgWD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1j8EW1TEM4wDdaY_SMz1GxIlE8bl6jgWD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1j8EW1TEM4wDdaY_SMz1GxIlE8bl6jgWD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1j8EW1TEM4wDdaY_SMz1GxIlE8bl6jgWD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-54",
+          "title": "Assignment- Magazine Layout",
+          "url": "https://docs.google.com/document/d/1W279hXZWwlMwcccee0p7AoexxPrayxtL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1W279hXZWwlMwcccee0p7AoexxPrayxtL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1W279hXZWwlMwcccee0p7AoexxPrayxtL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1W279hXZWwlMwcccee0p7AoexxPrayxtL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-55",
+          "title": "Table Creation & Formatting",
+          "url": "https://docs.google.com/document/d/1UQybE7vYW8TuvqMq59f0Czex0p0WnZmB/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UQybE7vYW8TuvqMq59f0Czex0p0WnZmB/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UQybE7vYW8TuvqMq59f0Czex0p0WnZmB/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UQybE7vYW8TuvqMq59f0Czex0p0WnZmB/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project of Layout Studio",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-111",
+          "title": "Professional Business Flyer Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P5TGZ5UZH3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P5TGZ5UZH3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P5TGZ5UZH3/video.m3u8",
+          "duration": 3754,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-112",
+          "title": "Printable Magazine Ads Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cZ6e2eApyG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cZ6e2eApyG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cZ6e2eApyG/video.m3u8",
+          "duration": 4284,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-113",
+          "title": "Web Ads Design & Customization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EZprDBDzxA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EZprDBDzxA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EZprDBDzxA/video.m3u8",
+          "duration": 4206,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-114",
+          "title": "Facebook Coverpage Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pabebx68Ba/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pabebx68Ba/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pabebx68Ba/video.m3u8",
+          "duration": 2651,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-115",
+          "title": "Event Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8URTfQrDDD7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8URTfQrDDD7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8URTfQrDDD7/video.m3u8",
+          "duration": 3175,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-116",
+          "title": "Food Menu Card Design for Resturant",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48dqxHfSkTP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48dqxHfSkTP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48dqxHfSkTP/video.m3u8",
+          "duration": 2960,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-117",
+          "title": "Tri Fold Leaflet Design for Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGq9TtEh43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGq9TtEh43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGq9TtEh43/video.m3u8",
+          "duration": 4123,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-118",
+          "title": "Roller Banner Design for Marketing & Branding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kB7b5BY4E3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kB7b5BY4E3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kB7b5BY4E3/video.m3u8",
+          "duration": 3367,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-57",
+          "title": "Basic Flyer Design",
+          "url": "https://docs.google.com/document/d/14_XiC9ZQO54MHD6qXRoIxrRz-rf0-bu2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/14_XiC9ZQO54MHD6qXRoIxrRz-rf0-bu2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/14_XiC9ZQO54MHD6qXRoIxrRz-rf0-bu2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/14_XiC9ZQO54MHD6qXRoIxrRz-rf0-bu2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-58",
+          "title": "Basic Resume Layout",
+          "url": "https://docs.google.com/document/d/1yenhGpho4wXxk3WpE7U0a8fKQtfTApQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1yenhGpho4wXxk3WpE7U0a8fKQtfTApQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1yenhGpho4wXxk3WpE7U0a8fKQtfTApQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1yenhGpho4wXxk3WpE7U0a8fKQtfTApQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pixel Studio Intro & Essentials",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-119",
+          "title": "Pixel Studio User Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HnQUkzra8F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HnQUkzra8F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HnQUkzra8F/video.m3u8",
+          "duration": 1773,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-120",
+          "title": "Document Setup Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqSaAUcBZET/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqSaAUcBZET/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqSaAUcBZET/video.m3u8",
+          "duration": 2255,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-121",
+          "title": "Basics of Layers for nondestructive workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5gGyj8YHQZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5gGyj8YHQZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5gGyj8YHQZ/video.m3u8",
+          "duration": 1489,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-122",
+          "title": "Basic Shapes and Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjzQpEFcfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjzQpEFcfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjzQpEFcfU/video.m3u8",
+          "duration": 2059,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-123",
+          "title": "Pathfinder Arrangement and Alignment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SXmdD7kZJQt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SXmdD7kZJQt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SXmdD7kZJQt/video.m3u8",
+          "duration": 1534,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-60",
+          "title": "Assignment- Working with Shapes & Pixel Integration",
+          "url": " https://docs.google.com/document/d/1rGDfI5hZ511d3KSMK6rMW8XdLOXNbghh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": " https://docs.google.com/document/d/1rGDfI5hZ511d3KSMK6rMW8XdLOXNbghh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": " https://docs.google.com/document/d/1rGDfI5hZ511d3KSMK6rMW8XdLOXNbghh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": " https://docs.google.com/document/d/1rGDfI5hZ511d3KSMK6rMW8XdLOXNbghh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-61",
+          "title": "Assignment- Layers Panel & Non-Destructive Editing",
+          "url": "https://docs.google.com/document/d/1W7YzbN3A1FiA2FV9kpUVedLNi4JlAF0z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1W7YzbN3A1FiA2FV9kpUVedLNi4JlAF0z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1W7YzbN3A1FiA2FV9kpUVedLNi4JlAF0z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1W7YzbN3A1FiA2FV9kpUVedLNi4JlAF0z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Exploring Type Tool",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-124",
+          "title": "Uses of Type Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGKgFgt8nh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGKgFgt8nh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGKgFgt8nh/video.m3u8",
+          "duration": 1340,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-125",
+          "title": "Understanding and Download New Fonts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s32Hed9mAz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s32Hed9mAz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s32Hed9mAz/video.m3u8",
+          "duration": 1473,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-126",
+          "title": "Typing on Path",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXKNKBgaj6N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXKNKBgaj6N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXKNKBgaj6N/video.m3u8",
+          "duration": 840,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-127",
+          "title": "Text Frames and Filling Text Inside Frames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B338XPJkPbt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B338XPJkPbt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B338XPJkPbt/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-63",
+          "title": "Assignment- Text on Path Exploration",
+          "url": "https://docs.google.com/document/d/1kmzT3pCTLJRffg4az2-sxhu5SF8pl9w5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kmzT3pCTLJRffg4az2-sxhu5SF8pl9w5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kmzT3pCTLJRffg4az2-sxhu5SF8pl9w5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kmzT3pCTLJRffg4az2-sxhu5SF8pl9w5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-64",
+          "title": "Assignment- Artistic Text Tool Exploration",
+          "url": "https://docs.google.com/document/d/155tERp8SKD2aL08lyfpxUM2Y5vHiiMBw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/155tERp8SKD2aL08lyfpxUM2Y5vHiiMBw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/155tERp8SKD2aL08lyfpxUM2Y5vHiiMBw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/155tERp8SKD2aL08lyfpxUM2Y5vHiiMBw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Exploring the Selections & Masking Features",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-128",
+          "title": "Selection Tools (marquee & lasso)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UnpMy36Urb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UnpMy36Urb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UnpMy36Urb/video.m3u8",
+          "duration": 2488,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-129",
+          "title": "Object & Flood Selection Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqcbh5JxAUr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqcbh5JxAUr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqcbh5JxAUr/video.m3u8",
+          "duration": 1955,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-130",
+          "title": "Important Websites for Resourses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EQSja5rrQJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EQSja5rrQJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EQSja5rrQJ/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-131",
+          "title": "Exploring the Layer Masking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UHBNxRfcB7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UHBNxRfcB7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UHBNxRfcB7/video.m3u8",
+          "duration": 2666,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-132",
+          "title": "Using Create Clip Mask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3cudHBttft/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3cudHBttft/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3cudHBttft/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-133",
+          "title": "Creating Image Manipulations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AKAuP4TRud/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AKAuP4TRud/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AKAuP4TRud/video.m3u8",
+          "duration": 1874,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-134",
+          "title": "Basics of Brush Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9StfQKkcfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9StfQKkcfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9StfQKkcfU/video.m3u8",
+          "duration": 1661,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-135",
+          "title": "Exploring the Different Blending Modes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YmHSFaCyCZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YmHSFaCyCZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YmHSFaCyCZ/video.m3u8",
+          "duration": 1873,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-136",
+          "title": "Creating Shadows & Reflection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMFEkTCMmx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMFEkTCMmx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMFEkTCMmx/video.m3u8",
+          "duration": 2916,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-66",
+          "title": "Assignment- Marquee Tool Selection",
+          "url": "https://docs.google.com/document/d/1vAh8TFVkfcihQTMOpa4GRJQG4MSvqU3D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1vAh8TFVkfcihQTMOpa4GRJQG4MSvqU3D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1vAh8TFVkfcihQTMOpa4GRJQG4MSvqU3D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1vAh8TFVkfcihQTMOpa4GRJQG4MSvqU3D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-67",
+          "title": "Assignment- Selection Tools & Refinement",
+          "url": "https://docs.google.com/document/d/1YH9GY6N3RqeBsG7uOm0hchT5YbIlimAc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1YH9GY6N3RqeBsG7uOm0hchT5YbIlimAc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1YH9GY6N3RqeBsG7uOm0hchT5YbIlimAc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1YH9GY6N3RqeBsG7uOm0hchT5YbIlimAc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-68",
+          "title": "Assignment- Text Mask Effect",
+          "url": "https://docs.google.com/document/d/11h-f34UBpp05OKsw40QROkd1Z_tW3YcX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11h-f34UBpp05OKsw40QROkd1Z_tW3YcX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11h-f34UBpp05OKsw40QROkd1Z_tW3YcX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11h-f34UBpp05OKsw40QROkd1Z_tW3YcX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-69",
+          "title": "Assignment- Mask Layers & Clipping",
+          "url": "https://docs.google.com/document/d/1pGgS-e1DioS6926mqMXBYih8EN1-r0Tt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1pGgS-e1DioS6926mqMXBYih8EN1-r0Tt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1pGgS-e1DioS6926mqMXBYih8EN1-r0Tt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1pGgS-e1DioS6926mqMXBYih8EN1-r0Tt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-70",
+          "title": "Assignment- Export Project & File Optimization",
+          "url": "https://docs.google.com/document/d/1NjD8i8XYCCEqqeIjb7TQsVNUcnnBKbO0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NjD8i8XYCCEqqeIjb7TQsVNUcnnBKbO0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NjD8i8XYCCEqqeIjb7TQsVNUcnnBKbO0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NjD8i8XYCCEqqeIjb7TQsVNUcnnBKbO0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-71",
+          "title": "Assignment- Cropping Tool & Straightening Image",
+          "url": "https://docs.google.com/document/d/1Xf560ZYxXNJELW49_F3iSJ4gyd2o-wBK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Xf560ZYxXNJELW49_F3iSJ4gyd2o-wBK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Xf560ZYxXNJELW49_F3iSJ4gyd2o-wBK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Xf560ZYxXNJELW49_F3iSJ4gyd2o-wBK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-72",
+          "title": "Assignment- Adjustment Layer Clipping",
+          "url": "https://docs.google.com/document/d/1eZAxq6BvxsCRTdFD8rZii8Ya_mN51TX3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1eZAxq6BvxsCRTdFD8rZii8Ya_mN51TX3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1eZAxq6BvxsCRTdFD8rZii8Ya_mN51TX3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1eZAxq6BvxsCRTdFD8rZii8Ya_mN51TX3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Retouching & Photo Correction",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-137",
+          "title": "Retouching Image with Healing Brush Tool Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9hK6q3B5ph/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9hK6q3B5ph/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9hK6q3B5ph/video.m3u8",
+          "duration": 1193,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-138",
+          "title": "Uses of Clone Stamp Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JN594jn8qF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JN594jn8qF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JN594jn8qF/video.m3u8",
+          "duration": 1368,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-139",
+          "title": "Using Eraser Tool Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64eNX5UQK8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64eNX5UQK8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64eNX5UQK8R/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-140",
+          "title": "Dodge and Burn using for skin retouching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8by64ypneJh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8by64ypneJh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8by64ypneJh/video.m3u8",
+          "duration": 1030,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-141",
+          "title": "Filter, Blur, Sharpen, Median and Smudge",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7r67UGdKuT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7r67UGdKuT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7r67UGdKuT/video.m3u8",
+          "duration": 1239,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-142",
+          "title": "Using all Blur Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Ka8zZfp4Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Ka8zZfp4Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Ka8zZfp4Y/video.m3u8",
+          "duration": 2080,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-143",
+          "title": "Sharpen Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9BUdY5EdK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9BUdY5EdK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9BUdY5EdK/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-144",
+          "title": "Exploring Distort Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7R4KDFgZUJf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7R4KDFgZUJf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7R4KDFgZUJf/video.m3u8",
+          "duration": 2101,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-145",
+          "title": "Adding Noise Filter to Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YY9cfrTM6R5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YY9cfrTM6R5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YY9cfrTM6R5/video.m3u8",
+          "duration": 805,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-146",
+          "title": "Detect and Lighting Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGesdy447F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGesdy447F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGesdy447F/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-147",
+          "title": "Using Color FIters for Image Enhancement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x4Es6YHzx9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x4Es6YHzx9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x4Es6YHzx9/video.m3u8",
+          "duration": 1190,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-148",
+          "title": "Develop Filter Options for Photo Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppYsB4ZZnd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppYsB4ZZnd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppYsB4ZZnd/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-149",
+          "title": "Using Liquify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9MH5Z42fQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9MH5Z42fQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9MH5Z42fQs/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-150",
+          "title": "Tonemapping for image Enhancement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kaRakdtFaU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kaRakdtFaU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kaRakdtFaU/video.m3u8",
+          "duration": 564,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-151",
+          "title": "Layer Adjustment Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KjF72Rcjub/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KjF72Rcjub/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KjF72Rcjub/video.m3u8",
+          "duration": 2769,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-74",
+          "title": "Assignment- Retouching Tools – Healing & Clone",
+          "url": "https://docs.google.com/document/d/1T98AOKDnFC41Y2J1CwPgYkNW46p4afF6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1T98AOKDnFC41Y2J1CwPgYkNW46p4afF6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1T98AOKDnFC41Y2J1CwPgYkNW46p4afF6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1T98AOKDnFC41Y2J1CwPgYkNW46p4afF6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-75",
+          "title": "Assignment- Dodge & Burn",
+          "url": "https://docs.google.com/document/d/16Bx_nymxEtXzahn9J2b2NFbR5I84hvag/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/16Bx_nymxEtXzahn9J2b2NFbR5I84hvag/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/16Bx_nymxEtXzahn9J2b2NFbR5I84hvag/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/16Bx_nymxEtXzahn9J2b2NFbR5I84hvag/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-76",
+          "title": "Assignment- Gradient Tool Practice",
+          "url": "https://docs.google.com/document/d/13Yqh_NXMk6kV6oNFxVlndkVpqga-Lrje/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13Yqh_NXMk6kV6oNFxVlndkVpqga-Lrje/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13Yqh_NXMk6kV6oNFxVlndkVpqga-Lrje/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13Yqh_NXMk6kV6oNFxVlndkVpqga-Lrje/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-77",
+          "title": "Assignment- Tone Mapping Persona",
+          "url": "https://docs.google.com/document/d/1UBGlecduCo3CoOK_h0G4qsyCcCuSNzEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UBGlecduCo3CoOK_h0G4qsyCcCuSNzEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UBGlecduCo3CoOK_h0G4qsyCcCuSNzEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UBGlecduCo3CoOK_h0G4qsyCcCuSNzEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-78",
+          "title": "Assignment- Working with Opacity & Blend Options",
+          "url": "https://docs.google.com/document/d/1HtF68a9cj_zkvINayJ58bID3QaUz2gsL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1HtF68a9cj_zkvINayJ58bID3QaUz2gsL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1HtF68a9cj_zkvINayJ58bID3QaUz2gsL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1HtF68a9cj_zkvINayJ58bID3QaUz2gsL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-79",
+          "title": "Assignment- Working with RAW Images",
+          "url": "https://docs.google.com/document/d/1dQTl0gkgrnblkhry9ddT18Rk0at84kI_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dQTl0gkgrnblkhry9ddT18Rk0at84kI_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dQTl0gkgrnblkhry9ddT18Rk0at84kI_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dQTl0gkgrnblkhry9ddT18Rk0at84kI_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Compositing & Advanced Layering",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-152",
+          "title": "Crating Photo Collage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fEMkXGCHce/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fEMkXGCHce/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fEMkXGCHce/video.m3u8",
+          "duration": 2016,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-153",
+          "title": "Using Composition to Create Double Expoture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FcDt9uDz8F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FcDt9uDz8F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FcDt9uDz8F/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-154",
+          "title": "Dripping Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nPe7KYTKyM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nPe7KYTKyM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nPe7KYTKyM/video.m3u8",
+          "duration": 1131,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-155",
+          "title": "Slice Effect With Manipulation of Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8djfuMCKKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8djfuMCKKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8djfuMCKKU/video.m3u8",
+          "duration": 1250,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-156",
+          "title": "Using Brush and Clipping Mask for Composition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjqYdNtNXpM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjqYdNtNXpM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjqYdNtNXpM/video.m3u8",
+          "duration": 3307,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-81",
+          "title": "Assignment- Poster Composition",
+          "url": "https://docs.google.com/document/d/1PP4uBCKeEgWnFH1BPJy7XKh3E8Pt3YD_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PP4uBCKeEgWnFH1BPJy7XKh3E8Pt3YD_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PP4uBCKeEgWnFH1BPJy7XKh3E8Pt3YD_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PP4uBCKeEgWnFH1BPJy7XKh3E8Pt3YD_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-82",
+          "title": "Working with Pixel Layers & Duplicate Workflow",
+          "url": "https://docs.google.com/document/d/1QheG_7pOKK7smpR7fIJh0N7tyHPff0P-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QheG_7pOKK7smpR7fIJh0N7tyHPff0P-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QheG_7pOKK7smpR7fIJh0N7tyHPff0P-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QheG_7pOKK7smpR7fIJh0N7tyHPff0P-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Brushes, Painting & Texture Work",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-157",
+          "title": "Using Brush for Mask and Layer Adjustments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cbgZMTeCZD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cbgZMTeCZD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cbgZMTeCZD/video.m3u8",
+          "duration": 1169,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-158",
+          "title": "Download and Import New Brushes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfpNtEPT58/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfpNtEPT58/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfpNtEPT58/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-159",
+          "title": "Custom Brush",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad72QYbBQKu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad72QYbBQKu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad72QYbBQKu/video.m3u8",
+          "duration": 925,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-84",
+          "title": "Assignment- Brush Tool Exploration",
+          "url": "https://docs.google.com/document/d/1PIx1DFFdlz_-aeUudgmn00l_7S0MUg3l/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PIx1DFFdlz_-aeUudgmn00l_7S0MUg3l/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PIx1DFFdlz_-aeUudgmn00l_7S0MUg3l/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PIx1DFFdlz_-aeUudgmn00l_7S0MUg3l/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Using Layer Style and Adjustment Property",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-160",
+          "title": "Layer Style Property",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QgZ4nyk9me/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QgZ4nyk9me/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QgZ4nyk9me/video.m3u8",
+          "duration": 1547,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-161",
+          "title": "Neon Lighting Effects with Layer Style",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cSRHQEA376/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cSRHQEA376/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cSRHQEA376/video.m3u8",
+          "duration": 1859,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-162",
+          "title": "Changing the Color with Layer Adjustment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AbG499KY7R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AbG499KY7R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AbG499KY7R/video.m3u8",
+          "duration": 1341,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-86",
+          "title": "Assignment- Adjustment Layers – Exposure & Color",
+          "url": "https://docs.google.com/document/d/1OcPF69ZmTuyL5znT1hApL5WugWkRuXxK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1OcPF69ZmTuyL5znT1hApL5WugWkRuXxK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1OcPF69ZmTuyL5znT1hApL5WugWkRuXxK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1OcPF69ZmTuyL5znT1hApL5WugWkRuXxK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-87",
+          "title": "Assignment- Blend Modes & Creative Effects",
+          "url": "https://docs.google.com/document/d/1gebfne3ksxEtab1i3LiHkdwwnwJHA8XE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1gebfne3ksxEtab1i3LiHkdwwnwJHA8XE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1gebfne3ksxEtab1i3LiHkdwwnwJHA8XE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1gebfne3ksxEtab1i3LiHkdwwnwJHA8XE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-88",
+          "title": "Assignment- Simple Light Enhancement",
+          "url": "https://docs.google.com/document/d/1zNE6_5DlY-gBFPxqYp_BR28HZajH7UaO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1zNE6_5DlY-gBFPxqYp_BR28HZajH7UaO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1zNE6_5DlY-gBFPxqYp_BR28HZajH7UaO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1zNE6_5DlY-gBFPxqYp_BR28HZajH7UaO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-89",
+          "title": "Assignment- Typography & Layer Effects",
+          "url": "https://docs.google.com/document/d/1Q3lHVzUZV7iJ0SRUsOK90zxbem1CzuSN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Q3lHVzUZV7iJ0SRUsOK90zxbem1CzuSN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Q3lHVzUZV7iJ0SRUsOK90zxbem1CzuSN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Q3lHVzUZV7iJ0SRUsOK90zxbem1CzuSN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Special Effects",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-163",
+          "title": "Sharpening pipelines, Creative Blur Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUu5mAgKeSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUu5mAgKeSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUu5mAgKeSu/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-164",
+          "title": "Remove Watermark",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aGtUUsNDjfB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aGtUUsNDjfB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aGtUUsNDjfB/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-91",
+          "title": "Assignment- Simple Background Blur Using Live Filter",
+          "url": "https://docs.google.com/document/d/1je7ZKs--qPO2_M6IVj5CKc2MHxjHYrPG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1je7ZKs--qPO2_M6IVj5CKc2MHxjHYrPG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1je7ZKs--qPO2_M6IVj5CKc2MHxjHYrPG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1je7ZKs--qPO2_M6IVj5CKc2MHxjHYrPG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-92",
+          "title": "Assignment- Social Media Creative",
+          "url": "https://docs.google.com/document/d/1nUypSGzc1AYOY9uVgJXQ_tymDF0seGVL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nUypSGzc1AYOY9uVgJXQ_tymDF0seGVL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nUypSGzc1AYOY9uVgJXQ_tymDF0seGVL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nUypSGzc1AYOY9uVgJXQ_tymDF0seGVL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Projects of Pixel Studio",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-165",
+          "title": "Instagram Food Post Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7ycT4EGhjy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7ycT4EGhjy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7ycT4EGhjy/video.m3u8",
+          "duration": 3070,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-166",
+          "title": "Process to Design Carousel Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGunZcdkmy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGunZcdkmy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGunZcdkmy/video.m3u8",
+          "duration": 2827,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-167",
+          "title": "YouTube Thumbnail Designing Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGXCZxybYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGXCZxybYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGXCZxybYR/video.m3u8",
+          "duration": 3413,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-168",
+          "title": "Design Ads for Google & Meta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TYMA5eSrsA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TYMA5eSrsA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TYMA5eSrsA/video.m3u8",
+          "duration": 3235,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-169",
+          "title": "Poster Designing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66bPH3jtat2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66bPH3jtat2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66bPH3jtat2/video.m3u8",
+          "duration": 2188,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-170",
+          "title": "Designing Wedding Invites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rKXfTuRUR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rKXfTuRUR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rKXfTuRUR2/video.m3u8",
+          "duration": 1650,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-171",
+          "title": "Album Designing Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HzRJxGeyQh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HzRJxGeyQh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HzRJxGeyQh/video.m3u8",
+          "duration": 2432,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-172",
+          "title": "Typography Poster Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8",
+          "duration": 3175,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-173",
+          "title": "Design Graphics for T-shirt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnnNtzTMbFS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnnNtzTMbFS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnnNtzTMbFS/video.m3u8",
+          "duration": 1732,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-174",
+          "title": "Magazine CoverPage Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R9QtyQf37T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R9QtyQf37T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R9QtyQf37T/video.m3u8",
+          "duration": 1699,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-175",
+          "title": "Design Leaflet from Scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92hyDf6Xj3N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92hyDf6Xj3N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92hyDf6Xj3N/video.m3u8",
+          "duration": 3773,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-176",
+          "title": "Design Flex and Hoardings for Print",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nefDP8Pugp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nefDP8Pugp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nefDP8Pugp/video.m3u8",
+          "duration": 2873,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-94",
+          "title": "Double Exposure Artistic Composition",
+          "url": "https://docs.google.com/document/d/1wBptYLz4iHP0tgx_0rbIBtOa3Q2hInXT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1wBptYLz4iHP0tgx_0rbIBtOa3Q2hInXT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1wBptYLz4iHP0tgx_0rbIBtOa3Q2hInXT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1wBptYLz4iHP0tgx_0rbIBtOa3Q2hInXT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-95",
+          "title": "Movie Poster Design",
+          "url": "https://docs.google.com/document/d/140mJSBzoxZtSvqpU_XAj7hq9XqqzrZjZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/140mJSBzoxZtSvqpU_XAj7hq9XqqzrZjZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/140mJSBzoxZtSvqpU_XAj7hq9XqqzrZjZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/140mJSBzoxZtSvqpU_XAj7hq9XqqzrZjZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-96",
+          "title": "Product Advertisement for Web",
+          "url": "https://docs.google.com/document/d/1g0UmEJK4TCvtpN11akghTIjFqZUAuP3g/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1g0UmEJK4TCvtpN11akghTIjFqZUAuP3g/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1g0UmEJK4TCvtpN11akghTIjFqZUAuP3g/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1g0UmEJK4TCvtpN11akghTIjFqZUAuP3g/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Final Conclusion to Become Pro Designer",
+      "lectures": [
+        {
+          "id": "td-affinitystudio-177",
+          "title": "Some Tips and tricks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95jDzkH86PB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95jDzkH86PB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95jDzkH86PB/video.m3u8",
+          "duration": 1282,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-178",
+          "title": "From where to get inspiration for new work",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3d32trrAbG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3d32trrAbG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3d32trrAbG/video.m3u8",
+          "duration": 1712,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-179",
+          "title": "Why Portfolio is important",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aesfyCUABSe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aesfyCUABSe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aesfyCUABSe/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-180",
+          "title": "Different types of Printer use in the industry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDfYUrBfAr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDfYUrBfAr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDfYUrBfAr/video.m3u8",
+          "duration": 1701,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-181",
+          "title": "Freelancing Opportunities for Graphic Designer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4eqbHt69J2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4eqbHt69J2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4eqbHt69J2/video.m3u8",
+          "duration": 1307,
+          "type": "video"
+        },
+        {
+          "id": "td-affinitystudio-182",
+          "title": "Final Conclusion of Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3knsRQut6XG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3knsRQut6XG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3knsRQut6XG/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-affinitystudio-98",
+          "title": "VECTOR STUDIO",
+          "url": "https://docs.google.com/document/d/1aTokMyfRY1J2hbSfg2GR9XuH7huVDQlH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aTokMyfRY1J2hbSfg2GR9XuH7huVDQlH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aTokMyfRY1J2hbSfg2GR9XuH7huVDQlH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aTokMyfRY1J2hbSfg2GR9XuH7huVDQlH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-99",
+          "title": "LAYOUT STUDIO",
+          "url": "https://docs.google.com/document/d/1eMeI_xMI4wXRltmBlHuKrImG7x-Y9hU0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1eMeI_xMI4wXRltmBlHuKrImG7x-Y9hU0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1eMeI_xMI4wXRltmBlHuKrImG7x-Y9hU0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1eMeI_xMI4wXRltmBlHuKrImG7x-Y9hU0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-affinitystudio-100",
+          "title": "PIXEL STUDIO",
+          "url": "https://docs.google.com/document/d/1sdyzW7iK0LdleBBwXxzF8oVMUG5aoTFV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1sdyzW7iK0LdleBBwXxzF8oVMUG5aoTFV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1sdyzW7iK0LdleBBwXxzF8oVMUG5aoTFV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1sdyzW7iK0LdleBBwXxzF8oVMUG5aoTFV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

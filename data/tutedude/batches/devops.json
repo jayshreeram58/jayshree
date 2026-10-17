@@ -1,0 +1,835 @@
+{
+  "platform": "TuteDude",
+  "batchId": "devops",
+  "batchSlug": "devops",
+  "batchName": "DevOps",
+  "thumbnail": "https://www.tutedude.com/assets/avif/devops.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/devops",
+  "totalSections": 12,
+  "totalLectures": 73,
+  "totalNotes": 9,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-devops-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to DevOps",
+      "lectures": [
+        {
+          "id": "td-devops-2",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JaCSsHEJju/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JaCSsHEJju/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JaCSsHEJju/video.m3u8",
+          "duration": 1523,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cloud Computing",
+      "lectures": [
+        {
+          "id": "td-devops-3",
+          "title": "Introduction to Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yEhuAKce7y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yEhuAKce7y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yEhuAKce7y/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LINUX Basics",
+      "lectures": [
+        {
+          "id": "td-devops-4",
+          "title": "Basics of Linux Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GrT3PnzB9Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GrT3PnzB9Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GrT3PnzB9Y/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-5",
+          "title": "Basics of Linux Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RSjMGxjnQ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RSjMGxjnQ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RSjMGxjnQ5/video.m3u8",
+          "duration": 3476,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-5",
+          "title": "Linux Basics",
+          "url": "https://docs.google.com/document/d/1TG5bJcgNmVi8PxzUnuYJbGfzwrhLKdzS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TG5bJcgNmVi8PxzUnuYJbGfzwrhLKdzS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TG5bJcgNmVi8PxzUnuYJbGfzwrhLKdzS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TG5bJcgNmVi8PxzUnuYJbGfzwrhLKdzS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Scripting (Python and Bash)",
+      "lectures": [
+        {
+          "id": "td-devops-6",
+          "title": "Basics of Python Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hXUg9GYJAu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hXUg9GYJAu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hXUg9GYJAu/video.m3u8",
+          "duration": 2857,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-7",
+          "title": "Basics of Python Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xDxY52Pjsa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xDxY52Pjsa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xDxY52Pjsa/video.m3u8",
+          "duration": 3345,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-8",
+          "title": "Basics of Python Part-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asc7fRN4JMZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asc7fRN4JMZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asc7fRN4JMZ/video.m3u8",
+          "duration": 1343,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-7",
+          "title": "Python And Bash",
+          "url": "https://docs.google.com/document/d/1S7V1XBMQq6aI-A8wo2Op3j4Wp8aOqetT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1S7V1XBMQq6aI-A8wo2Op3j4Wp8aOqetT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1S7V1XBMQq6aI-A8wo2Op3j4Wp8aOqetT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1S7V1XBMQq6aI-A8wo2Op3j4Wp8aOqetT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Rest APIs using Flask and MongoDB",
+      "lectures": [
+        {
+          "id": "td-devops-9",
+          "title": "Flask Framework Part-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DPAe5Ru9f5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DPAe5Ru9f5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DPAe5Ru9f5/video.m3u8",
+          "duration": 3565,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-10",
+          "title": "Flask Framework Part-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgMzdXqEqca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgMzdXqEqca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgMzdXqEqca/video.m3u8",
+          "duration": 4430,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-9",
+          "title": "Flask And Mongodb",
+          "url": "https://docs.google.com/document/d/1ywyFmmXTCO8zZXligoGXWf1mD-3rLp5P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ywyFmmXTCO8zZXligoGXWf1mD-3rLp5P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ywyFmmXTCO8zZXligoGXWf1mD-3rLp5P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ywyFmmXTCO8zZXligoGXWf1mD-3rLp5P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Version Control-GIT",
+      "lectures": [
+        {
+          "id": "td-devops-11",
+          "title": "Introduction to Git",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n66TmM6Xqt7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n66TmM6Xqt7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n66TmM6Xqt7/video.m3u8",
+          "duration": 789,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-12",
+          "title": "Git Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC93xBqkYkT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC93xBqkYkT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC93xBqkYkT/video.m3u8",
+          "duration": 776,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-13",
+          "title": "Commits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCQegKb4HG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCQegKb4HG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCQegKb4HG/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-14",
+          "title": "GitHub",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GhHzN2PrEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GhHzN2PrEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GhHzN2PrEp/video.m3u8",
+          "duration": 1033,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-15",
+          "title": "Remotes GitLab",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KFZs54SFU7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KFZs54SFU7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KFZs54SFU7/video.m3u8",
+          "duration": 818,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-16",
+          "title": "Branching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdzUQXpaMp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdzUQXpaMp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdzUQXpaMp/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-17",
+          "title": "Pull Requests",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nrnYFHBk83U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nrnYFHBk83U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nrnYFHBk83U/video.m3u8",
+          "duration": 921,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-18",
+          "title": "Forking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MH9JcU8N5FM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MH9JcU8N5FM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MH9JcU8N5FM/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-19",
+          "title": "Stashing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gR967ZxuNq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gR967ZxuNq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gR967ZxuNq/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-11",
+          "title": "Version Control Git",
+          "url": "https://docs.google.com/document/d/1LY6_Y2zOQ11VQd_-vZirWNnYwAF6qC6L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1LY6_Y2zOQ11VQd_-vZirWNnYwAF6qC6L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1LY6_Y2zOQ11VQd_-vZirWNnYwAF6qC6L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1LY6_Y2zOQ11VQd_-vZirWNnYwAF6qC6L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Docker",
+      "lectures": [
+        {
+          "id": "td-devops-20",
+          "title": "Introduction to Docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M3bR9UHMnf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M3bR9UHMnf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M3bR9UHMnf/video.m3u8",
+          "duration": 948,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-21",
+          "title": "Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46pFkA8zn6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46pFkA8zn6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46pFkA8zn6/video.m3u8",
+          "duration": 547,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-22",
+          "title": "Basic Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xh89UG8yNs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xh89UG8yNs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xh89UG8yNs/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-23",
+          "title": "Advanced Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hYq7d4yE4Qk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hYq7d4yE4Qk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hYq7d4yE4Qk/video.m3u8",
+          "duration": 1146,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-24",
+          "title": "Docker files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB3KQn9h7hk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB3KQn9h7hk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB3KQn9h7hk/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-25",
+          "title": "Image Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5JRxQ2xyS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5JRxQ2xyS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5JRxQ2xyS/video.m3u8",
+          "duration": 1141,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-26",
+          "title": "Building Microservices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657YADDM3bJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657YADDM3bJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657YADDM3bJ/video.m3u8",
+          "duration": 1626,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-27",
+          "title": "Docker Compose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3U4B8ZPR9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3U4B8ZPR9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3U4B8ZPR9/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-28",
+          "title": "Push Registry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fSYJHYkj22/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fSYJHYkj22/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fSYJHYkj22/video.m3u8",
+          "duration": 1018,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-13",
+          "title": "Docker",
+          "url": "https://docs.google.com/document/d/1VkkKhQ9pAyZRMcKRle5wNznG4VG_G5sq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1VkkKhQ9pAyZRMcKRle5wNznG4VG_G5sq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1VkkKhQ9pAyZRMcKRle5wNznG4VG_G5sq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1VkkKhQ9pAyZRMcKRle5wNznG4VG_G5sq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AWS",
+      "lectures": [
+        {
+          "id": "td-devops-29",
+          "title": "Introduction to AWS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8eDeghycEX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8eDeghycEX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8eDeghycEX/video.m3u8",
+          "duration": 1138,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-30",
+          "title": "IAM S3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97UmkYe9HQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97UmkYe9HQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97UmkYe9HQs/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-31",
+          "title": "SDK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G6dGyFkkdzr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G6dGyFkkdzr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G6dGyFkkdzr/video.m3u8",
+          "duration": 1169,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-32",
+          "title": "Paramstore s3-adv cloudshell",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MJyy2ZBSQXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MJyy2ZBSQXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MJyy2ZBSQXp/video.m3u8",
+          "duration": 1140,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-33",
+          "title": "EC2 Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ekhfGQZ4B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ekhfGQZ4B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ekhfGQZ4B/video.m3u8",
+          "duration": 1759,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-34",
+          "title": "EC2 Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MFXJc4QmfD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MFXJc4QmfD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MFXJc4QmfD/video.m3u8",
+          "duration": 1607,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-35",
+          "title": "EC2 Networking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k3qhYbYedr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k3qhYbYedr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k3qhYbYedr/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-36",
+          "title": "EC2 nginx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkeEa6j6Sy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkeEa6j6Sy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkeEa6j6Sy/video.m3u8",
+          "duration": 1712,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-37",
+          "title": "ECR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63DGUnyxTKT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63DGUnyxTKT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63DGUnyxTKT/video.m3u8",
+          "duration": 1047,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-38",
+          "title": "ECS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SRC8KXhcMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SRC8KXhcMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SRC8KXhcMr/video.m3u8",
+          "duration": 1965,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-39",
+          "title": "EB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FbzxjtJKU5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FbzxjtJKU5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FbzxjtJKU5/video.m3u8",
+          "duration": 1402,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-40",
+          "title": "Lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBNZMXeb9mT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBNZMXeb9mT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBNZMXeb9mT/video.m3u8",
+          "duration": 854,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-41",
+          "title": "Postgres",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PM542RMZNKt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PM542RMZNKt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PM542RMZNKt/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-42",
+          "title": "RDS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35EKryDBJuk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35EKryDBJuk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35EKryDBJuk/video.m3u8",
+          "duration": 1099,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-43",
+          "title": "CDN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq2ffECCFPH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq2ffECCFPH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq2ffECCFPH/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-44",
+          "title": "CloudFront",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTUaHaU39b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTUaHaU39b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTUaHaU39b/video.m3u8",
+          "duration": 1043,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-45",
+          "title": "Additional Topics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhaNQCp9a4B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhaNQCp9a4B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhaNQCp9a4B/video.m3u8",
+          "duration": 1119,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-46",
+          "title": "CodeCommit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pxeQy2qg4D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pxeQy2qg4D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pxeQy2qg4D/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-47",
+          "title": "Code Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtCK4u2mEtd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtCK4u2mEtd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtCK4u2mEtd/video.m3u8",
+          "duration": 1239,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-48",
+          "title": "Cloudformation 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqbJ52Pqtt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqbJ52Pqtt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqbJ52Pqtt/video.m3u8",
+          "duration": 1150,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-49",
+          "title": "CloudFormation 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FUFNFzhCeT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FUFNFzhCeT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FUFNFzhCeT/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-50",
+          "title": "CF and EC2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjCNY5zk4eY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjCNY5zk4eY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjCNY5zk4eY/video.m3u8",
+          "duration": 1703,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-15",
+          "title": "AWS",
+          "url": "https://docs.google.com/document/d/13bmJsFywLGJ_vpzVsDu5z2ykKjvPNj6P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13bmJsFywLGJ_vpzVsDu5z2ykKjvPNj6P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13bmJsFywLGJ_vpzVsDu5z2ykKjvPNj6P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13bmJsFywLGJ_vpzVsDu5z2ykKjvPNj6P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Kubernetes",
+      "lectures": [
+        {
+          "id": "td-devops-51",
+          "title": "Introduction to Kubernetes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eDxpNTQANZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eDxpNTQANZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eDxpNTQANZ/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-52",
+          "title": "Main Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68qANRmuX2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68qANRmuX2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68qANRmuX2h/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-53",
+          "title": "K8s Architechture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Uhjfb5pSuH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Uhjfb5pSuH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Uhjfb5pSuH/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-54",
+          "title": "MiniKube Kubectl",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfXardxE64/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfXardxE64/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfXardxE64/video.m3u8",
+          "duration": 1036,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-55",
+          "title": "Dashboard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QbGkq8utU2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QbGkq8utU2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QbGkq8utU2/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-56",
+          "title": "Basic App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aG8UqqQBXY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aG8UqqQBXY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aG8UqqQBXY/video.m3u8",
+          "duration": 1778,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-57",
+          "title": "Debugging & Kubectl",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA7gNNBXQQa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA7gNNBXQQa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA7gNNBXQQa/video.m3u8",
+          "duration": 1286,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-58",
+          "title": "Kubernetes - Building Microservices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p79TZSdCrG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p79TZSdCrG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p79TZSdCrG/video.m3u8",
+          "duration": 2165,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-59",
+          "title": "Deploying Microservices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARRXmubzF6K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARRXmubzF6K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARRXmubzF6K/video.m3u8",
+          "duration": 1491,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-60",
+          "title": "Ingress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DSxtBpFkmp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DSxtBpFkmp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DSxtBpFkmp/video.m3u8",
+          "duration": 917,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-61",
+          "title": "Volume Services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sYbanZXXfb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sYbanZXXfb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sYbanZXXfb/video.m3u8",
+          "duration": 1134,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-62",
+          "title": "Helm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jftyGHbfHZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jftyGHbfHZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jftyGHbfHZ/video.m3u8",
+          "duration": 838,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-63",
+          "title": "ArgoCD",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GsZStd7QEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GsZStd7QEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GsZStd7QEp/video.m3u8",
+          "duration": 861,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-17",
+          "title": "Kubernetes",
+          "url": "https://docs.google.com/document/d/1qMfPe0hZ61JXTI6qH3Tziu144c5-C2xf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1qMfPe0hZ61JXTI6qH3Tziu144c5-C2xf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1qMfPe0hZ61JXTI6qH3Tziu144c5-C2xf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1qMfPe0hZ61JXTI6qH3Tziu144c5-C2xf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terraform",
+      "lectures": [
+        {
+          "id": "td-devops-64",
+          "title": "Intro to Terraform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zR6qEB78s8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zR6qEB78s8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zR6qEB78s8/video.m3u8",
+          "duration": 629,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-65",
+          "title": "Terraform Providers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SjBanaHrSh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SjBanaHrSh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SjBanaHrSh/video.m3u8",
+          "duration": 730,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-66",
+          "title": "Terraform: AWS s3 ec2 in action",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k9RCN3fqxtf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k9RCN3fqxtf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k9RCN3fqxtf/video.m3u8",
+          "duration": 1332,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-67",
+          "title": "Terraform Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUc3jhy29hD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUc3jhy29hD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUc3jhy29hD/video.m3u8",
+          "duration": 989,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-19",
+          "title": "Terraform",
+          "url": "https://docs.google.com/document/d/1-kgQo6icrFUpg7Q-eQ69lImKpeQSgJfE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1-kgQo6icrFUpg7Q-eQ69lImKpeQSgJfE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1-kgQo6icrFUpg7Q-eQ69lImKpeQSgJfE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1-kgQo6icrFUpg7Q-eQ69lImKpeQSgJfE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Continuous Integration - Jenkins, CircleCI, GH Actions",
+      "lectures": [
+        {
+          "id": "td-devops-68",
+          "title": "Introduction to CI-CD",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dP5R95AFrN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dP5R95AFrN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dP5R95AFrN/video.m3u8",
+          "duration": 891,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-69",
+          "title": "Introduction to Jenkins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sPaRCXHn3k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sPaRCXHn3k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sPaRCXHn3k/video.m3u8",
+          "duration": 1402,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-70",
+          "title": "Jenkins Jobs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C65yTyYNZNb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C65yTyYNZNb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C65yTyYNZNb/video.m3u8",
+          "duration": 2043,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-71",
+          "title": "GH Actions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXTPpcYJDs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXTPpcYJDs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXTPpcYJDs/video.m3u8",
+          "duration": 1149,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-72",
+          "title": "GH Jenkins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZHnBp5JA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZHnBp5JA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZHnBp5JA/video.m3u8",
+          "duration": 1092,
+          "type": "video"
+        },
+        {
+          "id": "td-devops-73",
+          "title": "CircleCI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Cx4pE87fy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Cx4pE87fy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Cx4pE87fy/video.m3u8",
+          "duration": 1372,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-devops-21",
+          "title": "CI/CD pipeline",
+          "url": "https://docs.google.com/document/d/1Tdj2gL2t2ngd_XuF8Eu75QAo-_8mSDqE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Tdj2gL2t2ngd_XuF8Eu75QAo-_8mSDqE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Tdj2gL2t2ngd_XuF8Eu75QAo-_8mSDqE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Tdj2gL2t2ngd_XuF8Eu75QAo-_8mSDqE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

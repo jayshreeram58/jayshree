@@ -1,0 +1,529 @@
+{
+  "platform": "TuteDude",
+  "batchId": "d2cbrandbuilding",
+  "batchSlug": "d2cbrandbuilding",
+  "batchName": "D2C Brand Building",
+  "thumbnail": "https://www.tutedude.com/assets/avif/d2cbrandbuilding.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/d2cbrandbuilding",
+  "totalSections": 9,
+  "totalLectures": 41,
+  "totalNotes": 9,
+  "price": "699.00",
+  "category": "Entrepreneur",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Foundation",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-1",
+          "title": "Introduction to D2C Brand Launching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53GaNu9CdqF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53GaNu9CdqF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53GaNu9CdqF/video.m3u8",
+          "duration": 86,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-2",
+          "title": "Mindset & Foundation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZhEPeCXQZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZhEPeCXQZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZhEPeCXQZr/video.m3u8",
+          "duration": 1552,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-3",
+          "title": "Find a problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6geBCskjMZz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6geBCskjMZz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6geBCskjMZz/video.m3u8",
+          "duration": 1684,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-2",
+          "title": "Growing-Broke",
+          "url": "https://docs.google.com/document/d/1ISxJ0zvFVcyTdWkQIMiZsJmHlVIINzP9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ISxJ0zvFVcyTdWkQIMiZsJmHlVIINzP9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ISxJ0zvFVcyTdWkQIMiZsJmHlVIINzP9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ISxJ0zvFVcyTdWkQIMiZsJmHlVIINzP9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Product",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-4",
+          "title": "Customer Research and Market Size Estimation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57yCda5P2sE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57yCda5P2sE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57yCda5P2sE/video.m3u8",
+          "duration": 125,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-5",
+          "title": "Customer Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/984Mjt8sa9g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/984Mjt8sa9g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/984Mjt8sa9g/video.m3u8",
+          "duration": 2126,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-6",
+          "title": "Product Selection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MdKXeGyr6S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MdKXeGyr6S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MdKXeGyr6S/video.m3u8",
+          "duration": 922,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-7",
+          "title": "Product Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uETCR5Tx73/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uETCR5Tx73/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uETCR5Tx73/video.m3u8",
+          "duration": 951,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-8",
+          "title": "Validating Product Idea",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BQDbZnGED6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BQDbZnGED6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BQDbZnGED6/video.m3u8",
+          "duration": 2829,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-4",
+          "title": "Second-Order",
+          "url": "https://docs.google.com/document/d/1hEU8LyIDGliAwav3I2zrIBwIOG2DDGJK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hEU8LyIDGliAwav3I2zrIBwIOG2DDGJK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hEU8LyIDGliAwav3I2zrIBwIOG2DDGJK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hEU8LyIDGliAwav3I2zrIBwIOG2DDGJK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Money",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-9",
+          "title": "Introduction to Finances, Sourcing, and Unit Economics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Arhtg5bpdKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Arhtg5bpdKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Arhtg5bpdKU/video.m3u8",
+          "duration": 131,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-10",
+          "title": "Financial Planning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uE8rNCH8Nk9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uE8rNCH8Nk9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uE8rNCH8Nk9/video.m3u8",
+          "duration": 1635,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-11",
+          "title": "Finding Manufacturers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KbsQfqDnYx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KbsQfqDnYx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KbsQfqDnYx/video.m3u8",
+          "duration": 1545,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-12",
+          "title": "Pricing & Unit Economics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDcKbYEPF7G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDcKbYEPF7G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDcKbYEPF7G/video.m3u8",
+          "duration": 1905,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-13",
+          "title": "Managing your money",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRSNJDuCSF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRSNJDuCSF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRSNJDuCSF/video.m3u8",
+          "duration": 1217,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-6",
+          "title": "Trapped-On-One-Platform",
+          "url": "https://docs.google.com/document/d/1GYXdN0LXYAQwJmyGtx1leXxgrOG4BWAy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1GYXdN0LXYAQwJmyGtx1leXxgrOG4BWAy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1GYXdN0LXYAQwJmyGtx1leXxgrOG4BWAy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1GYXdN0LXYAQwJmyGtx1leXxgrOG4BWAy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Getting Started",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-14",
+          "title": "Brand Building Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxKJyXBrYJp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxKJyXBrYJp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxKJyXBrYJp/video.m3u8",
+          "duration": 155,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-15",
+          "title": "Legal Requirements for Setting Up a Business",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqbx37hsYMa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqbx37hsYMa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqbx37hsYMa/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-16",
+          "title": "Brand name & identity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GxCyeQ9Bdq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GxCyeQ9Bdq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GxCyeQ9Bdq/video.m3u8",
+          "duration": 2257,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-17",
+          "title": "Social Media",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S8TcfMA6uz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S8TcfMA6uz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S8TcfMA6uz/video.m3u8",
+          "duration": 1480,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-18",
+          "title": "AI for business",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBXzfHtg36/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBXzfHtg36/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBXzfHtg36/video.m3u8",
+          "duration": 1900,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-19",
+          "title": "Website Create",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQhkdQPtz84/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQhkdQPtz84/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQhkdQPtz84/video.m3u8",
+          "duration": 2762,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-8",
+          "title": "Nobody-Comes-Back",
+          "url": "https://docs.google.com/document/d/1DMmu9BzgtChX2Xay466IvWV9_bCNz58L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1DMmu9BzgtChX2Xay466IvWV9_bCNz58L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1DMmu9BzgtChX2Xay466IvWV9_bCNz58L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1DMmu9BzgtChX2Xay466IvWV9_bCNz58L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Content",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-20",
+          "title": "Introduction to Content Strategy and Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ATdurxJtsF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ATdurxJtsF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ATdurxJtsF/video.m3u8",
+          "duration": 145,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-21",
+          "title": "Content Strategy & Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDtU8xCA7NZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDtU8xCA7NZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDtU8xCA7NZ/video.m3u8",
+          "duration": 1591,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-22",
+          "title": "UGC & Influencer Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnpjT3bqUBZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnpjT3bqUBZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnpjT3bqUBZ/video.m3u8",
+          "duration": 2434,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-10",
+          "title": "Festive-Bet",
+          "url": "https://docs.google.com/document/d/1_uFUO0SHafTe4M3PDmLPSnwGfkXqAxU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1_uFUO0SHafTe4M3PDmLPSnwGfkXqAxU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1_uFUO0SHafTe4M3PDmLPSnwGfkXqAxU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1_uFUO0SHafTe4M3PDmLPSnwGfkXqAxU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Launch & Operations",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-23",
+          "title": "Overview of Brand Launch and Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THmJSftnh6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THmJSftnh6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THmJSftnh6/video.m3u8",
+          "duration": 196,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-24",
+          "title": "Setting Up Meta Business Suite and Ad Campaigns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sGPj3xta33Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sGPj3xta33Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sGPj3xta33Y/video.m3u8",
+          "duration": 2246,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-25",
+          "title": "Pre-Launch & Launch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XqfA3u72BT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XqfA3u72BT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XqfA3u72BT/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-26",
+          "title": "Brand Positioning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Kp4Y6DSnKm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Kp4Y6DSnKm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Kp4Y6DSnKm/video.m3u8",
+          "duration": 1944,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-27",
+          "title": "Operations & Fulfillment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7STa8mkyBJS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7STa8mkyBJS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7STa8mkyBJS/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-12",
+          "title": "Number-Detective",
+          "url": "https://docs.google.com/document/d/1dnjpyTHYxtYGH1cKyqaSacxtLynn2cvO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dnjpyTHYxtYGH1cKyqaSacxtLynn2cvO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dnjpyTHYxtYGH1cKyqaSacxtLynn2cvO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dnjpyTHYxtYGH1cKyqaSacxtLynn2cvO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Customer Retention",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-28",
+          "title": "Customer Feedback, Support, and Retention Strategies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GTUF4rZ9uu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GTUF4rZ9uu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GTUF4rZ9uu/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-29",
+          "title": "Customer Feedback",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TkBS8YMadC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TkBS8YMadC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TkBS8YMadC/video.m3u8",
+          "duration": 1753,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-30",
+          "title": "Customer Support",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PjH5QM7cmh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PjH5QM7cmh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PjH5QM7cmh/video.m3u8",
+          "duration": 1828,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-31",
+          "title": "Product Iteration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yrjXMH3XEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yrjXMH3XEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yrjXMH3XEr/video.m3u8",
+          "duration": 1387,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-32",
+          "title": "Retention & Repeat Purchases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bzAZERYHqK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bzAZERYHqK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bzAZERYHqK/video.m3u8",
+          "duration": 1707,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-14",
+          "title": "Three-Debates",
+          "url": "https://docs.google.com/document/d/1X5NlM4lrOXwBbC7bGXLYywnMuU7hMKtx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1X5NlM4lrOXwBbC7bGXLYywnMuU7hMKtx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1X5NlM4lrOXwBbC7bGXLYywnMuU7hMKtx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1X5NlM4lrOXwBbC7bGXLYywnMuU7hMKtx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Scaling",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-33",
+          "title": "Key Business Metrics, Distribution, and Marketing Channels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bqbKFC84DG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bqbKFC84DG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bqbKFC84DG/video.m3u8",
+          "duration": 186,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-34",
+          "title": "Key E-Commerce Analytics and Business Metrics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P6xKkRdyQb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P6xKkRdyQb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P6xKkRdyQb/video.m3u8",
+          "duration": 1434,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-35",
+          "title": "Distribution & Scale",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h7Etsqqhye/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h7Etsqqhye/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h7Etsqqhye/video.m3u8",
+          "duration": 3122,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-36",
+          "title": "Scaling beyond Meta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J9bMcpk3ST/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J9bMcpk3ST/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J9bMcpk3ST/video.m3u8",
+          "duration": 2219,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-37",
+          "title": "Shopify Toolkit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c4sMTJ38fp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c4sMTJ38fp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c4sMTJ38fp/video.m3u8",
+          "duration": 1070,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-16",
+          "title": "Teardown-Atomberg",
+          "url": "https://docs.google.com/document/d/1NSObpwUG5DzZiBQ6AqosTek87v61DX1d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NSObpwUG5DzZiBQ6AqosTek87v61DX1d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NSObpwUG5DzZiBQ6AqosTek87v61DX1d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NSObpwUG5DzZiBQ6AqosTek87v61DX1d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Beyond Scaling",
+      "lectures": [
+        {
+          "id": "td-d2cbrandbuilding-38",
+          "title": "Building Systems, Festive Playbooks, and 90-Day Plans",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mqYP6XhC6hc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mqYP6XhC6hc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mqYP6XhC6hc/video.m3u8",
+          "duration": 172,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-39",
+          "title": "Creating a 90-Day D2C Action Plan",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/767g9CgAeqb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/767g9CgAeqb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/767g9CgAeqb/video.m3u8",
+          "duration": 2063,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-40",
+          "title": "Building Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SaxC9Djxxn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SaxC9Djxxn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SaxC9Djxxn/video.m3u8",
+          "duration": 1784,
+          "type": "video"
+        },
+        {
+          "id": "td-d2cbrandbuilding-41",
+          "title": "Festive Playbook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tRg7K6DZDa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tRg7K6DZDa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tRg7K6DZDa/video.m3u8",
+          "duration": 1746,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-d2cbrandbuilding-18",
+          "title": "Monday-Triage",
+          "url": "https://docs.google.com/document/d/1xo8sY9VHpuKt9T4e66R-2xBN-5Ciqf-D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xo8sY9VHpuKt9T4e66R-2xBN-5Ciqf-D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xo8sY9VHpuKt9T4e66R-2xBN-5Ciqf-D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xo8sY9VHpuKt9T4e66R-2xBN-5Ciqf-D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

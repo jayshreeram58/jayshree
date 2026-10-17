@@ -1,0 +1,2231 @@
+{
+  "platform": "TuteDude",
+  "batchId": "datastructure",
+  "batchSlug": "datastructure",
+  "batchName": "Data Structures & Algorithms",
+  "thumbnail": "https://www.tutedude.com/assets/avif/datastructure.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/datastructure",
+  "totalSections": 21,
+  "totalLectures": 226,
+  "totalNotes": 6,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-datastructure-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-datastructure-2",
+          "title": "Introduction to the Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYFJPQ89Mnd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYFJPQ89Mnd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYFJPQ89Mnd/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-3",
+          "title": "Setting Up the environment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yd88psM2mA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yd88psM2mA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yd88psM2mA/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-4",
+          "title": "Static Memory Allocation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMeHjFqpts/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMeHjFqpts/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tMeHjFqpts/video.m3u8",
+          "duration": 778,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-5",
+          "title": "Dynamic memory allocation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TaB9yX7BFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TaB9yX7BFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TaB9yX7BFD/video.m3u8",
+          "duration": 846,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-6",
+          "title": "Physical and logical data structures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YdACHQpYyQJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YdACHQpYyQJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YdACHQpYyQJ/video.m3u8",
+          "duration": 1052,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-7",
+          "title": "ADT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpnpHxjSZb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpnpHxjSZb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpnpHxjSZb/video.m3u8",
+          "duration": 787,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-8",
+          "title": "Space and time complexity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kd6zgTDD2G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kd6zgTDD2G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kd6zgTDD2G/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recursion",
+      "lectures": [
+        {
+          "id": "td-datastructure-9",
+          "title": "How recursion works,  Generalization, Recursion and stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BN3ccJdKAff/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BN3ccJdKAff/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BN3ccJdKAff/video.m3u8",
+          "duration": 818,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-10",
+          "title": "Recurrence relation and time complexity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBTYS6YpeN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBTYS6YpeN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBTYS6YpeN/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-11",
+          "title": "Code recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M34bPFytSR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M34bPFytSR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M34bPFytSR/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-12",
+          "title": "Static and global variables in recursion and code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yhpJGsu5KR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yhpJGsu5KR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yhpJGsu5KR/video.m3u8",
+          "duration": 926,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-13",
+          "title": "Tail recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMhmUch8bFP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMhmUch8bFP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMhmUch8bFP/video.m3u8",
+          "duration": 202,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-14",
+          "title": "Head recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6b3NJBNN8kB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6b3NJBNN8kB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6b3NJBNN8kB/video.m3u8",
+          "duration": 256,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-15",
+          "title": "Tree recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbAMh7qk2g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbAMh7qk2g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbAMh7qk2g/video.m3u8",
+          "duration": 585,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-16",
+          "title": "Indirect recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RbJqJYq2KC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RbJqJYq2KC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RbJqJYq2KC/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-17",
+          "title": "Nested recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjpm5TAs5j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjpm5TAs5j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjpm5TAs5j/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-18",
+          "title": "Sum of natural numbers using recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuXdjkTgEac/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuXdjkTgEac/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuXdjkTgEac/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-19",
+          "title": "Factorial using recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8JMmJGHKTD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8JMmJGHKTD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8JMmJGHKTD/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-20",
+          "title": "Power using recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jSgSSJq5a9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jSgSSJq5a9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jSgSSJq5a9/video.m3u8",
+          "duration": 1226,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-21",
+          "title": "Taylor series using recursion approach-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95Sdq9KNbQC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95Sdq9KNbQC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95Sdq9KNbQC/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-22",
+          "title": "Taylor series using recursion approach-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85U2nta3Zy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85U2nta3Zy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85U2nta3Zy/video.m3u8",
+          "duration": 1120,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-23",
+          "title": "Fibonacci series using recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nuADbRRDpY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nuADbRRDpY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nuADbRRDpY/video.m3u8",
+          "duration": 1669,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-24",
+          "title": "nCr using recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NNF88MqHD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NNF88MqHD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NNF88MqHD/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-25",
+          "title": "Tower of hanoi",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpFusAXTt8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpFusAXTt8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfpFusAXTt8/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-26",
+          "title": "Tower of Hanoi implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3mNYmPz9t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3mNYmPz9t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3mNYmPz9t/video.m3u8",
+          "duration": 174,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Array Representations",
+      "lectures": [
+        {
+          "id": "td-datastructure-27",
+          "title": "Introduction, Declaration, Demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMAZ8hz2GTA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMAZ8hz2GTA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMAZ8hz2GTA/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-28",
+          "title": "Static array vs dynamic array, CODE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4stJG4dnEEG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4stJG4dnEEG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4stJG4dnEEG/video.m3u8",
+          "duration": 527,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-29",
+          "title": "Increase array size, CODE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTYqKHye3R6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTYqKHye3R6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTYqKHye3R6/video.m3u8",
+          "duration": 567,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-30",
+          "title": "2D array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MSQt9ZXUH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MSQt9ZXUH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MSQt9ZXUH/video.m3u8",
+          "duration": 746,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-31",
+          "title": "2D array DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66BtUJhYaM6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66BtUJhYaM6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66BtUJhYaM6/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-32",
+          "title": "Array representation by compiler",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2hmYx7EexQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2hmYx7EexQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2hmYx7EexQ/video.m3u8",
+          "duration": 418,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-33",
+          "title": "Row major formula for 2d arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xb6kRXhEqf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xb6kRXhEqf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xb6kRXhEqf/video.m3u8",
+          "duration": 554,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-34",
+          "title": "Column major formula for 2d arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pTf4nuQk4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pTf4nuQk4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pTf4nuQk4g/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-35",
+          "title": "Formulas for nD arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqeJnYXmEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqeJnYXmEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqeJnYXmEp/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-36",
+          "title": "Formulas for 3D arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACzPABJaAaX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACzPABJaAaX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACzPABJaAaX/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Array ADT",
+      "lectures": [
+        {
+          "id": "td-datastructure-37",
+          "title": "Array ADT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZ3sf3mkyg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZ3sf3mkyg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZ3sf3mkyg/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-38",
+          "title": "Array ADT - Demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mc6DsTQg4H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mc6DsTQg4H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mc6DsTQg4H/video.m3u8",
+          "duration": 739,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-39",
+          "title": "Inserting in array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6E4NjfeE5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6E4NjfeE5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6E4NjfeE5H/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-40",
+          "title": "Inserting in array - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ea8YTke9KZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ea8YTke9KZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ea8YTke9KZ/video.m3u8",
+          "duration": 836,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-41",
+          "title": "Deleting from array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkemaaKX2C6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkemaaKX2C6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkemaaKX2C6/video.m3u8",
+          "duration": 357,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-42",
+          "title": "Deleting from array - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gg2suJeREn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gg2suJeREn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gg2suJeREn/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-43",
+          "title": "Linear search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JXX3KC9RSz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JXX3KC9RSz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JXX3KC9RSz/video.m3u8",
+          "duration": 748,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-44",
+          "title": "Linear search - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ThrF2AM8yD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ThrF2AM8yD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ThrF2AM8yD/video.m3u8",
+          "duration": 347,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-45",
+          "title": "Binary search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fNzZtK4NGH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fNzZtK4NGH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fNzZtK4NGH/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-46",
+          "title": "Binary search - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bDEhj37QzBM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bDEhj37QzBM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bDEhj37QzBM/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-47",
+          "title": "Get, set, avg, max functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bzc6MNhrDU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bzc6MNhrDU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bzc6MNhrDU/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-48",
+          "title": "Get, set, avg, max functions DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEX5Ajz6E4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEX5Ajz6E4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEX5Ajz6E4/video.m3u8",
+          "duration": 965,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-49",
+          "title": "Merging array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYGnqgXYxbX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYGnqgXYxbX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYGnqgXYxbX/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-50",
+          "title": "Mergin array demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkKR7rqZNpG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkKR7rqZNpG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkKR7rqZNpG/video.m3u8",
+          "duration": 381,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-51",
+          "title": "Check if an array is sorted",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYEtrHZ2nA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYEtrHZ2nA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYEtrHZ2nA/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-52",
+          "title": "Check if an array is sorted - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UpphNFUCck/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UpphNFUCck/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UpphNFUCck/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-53",
+          "title": "Set operations on arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uYumBf979zg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uYumBf979zg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uYumBf979zg/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-54",
+          "title": "Single missing element in sorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74t7sjDCKt8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74t7sjDCKt8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74t7sjDCKt8/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-55",
+          "title": "Multiple missing element in sorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ug7T5X5k9A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ug7T5X5k9A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ug7T5X5k9A/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-56",
+          "title": "Finding duplicates in sorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArNUhcEp44A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArNUhcEp44A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArNUhcEp44A/video.m3u8",
+          "duration": 207,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-57",
+          "title": "Finding duplicates in unsorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cf3XgQKYx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cf3XgQKYx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cf3XgQKYx/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-58",
+          "title": "Reverse an array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ar2xqS2TgJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ar2xqS2TgJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ar2xqS2TgJ/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-59",
+          "title": "Reverse array DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYD7m9eZPnR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYD7m9eZPnR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYD7m9eZPnR/video.m3u8",
+          "duration": 209,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-60",
+          "title": "Find duplicates in sorted array usign hashing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cbsGP2dC8F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cbsGP2dC8F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cbsGP2dC8F/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-61",
+          "title": "Find a pair of elements with sum as K in unsorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76AmgBxpkRA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76AmgBxpkRA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76AmgBxpkRA/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-62",
+          "title": "Find a pair of elements with sum as K in sorted array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqyNszE8dB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqyNszE8dB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqyNszE8dB/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-63",
+          "title": "Find max and min in one scan",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ge5TFA2rkd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ge5TFA2rkd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ge5TFA2rkd/video.m3u8",
+          "duration": 288,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Strings",
+      "lectures": [
+        {
+          "id": "td-datastructure-64",
+          "title": "String introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x4trud9Zcc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x4trud9Zcc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x4trud9Zcc/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-65",
+          "title": "Length of string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MhdQtFJGtH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MhdQtFJGtH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MhdQtFJGtH/video.m3u8",
+          "duration": 142,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-66",
+          "title": "Changing case of a string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dHgBfmu5g4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dHgBfmu5g4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dHgBfmu5g4/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-67",
+          "title": "Counting words and vowels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g6bKGG829K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g6bKGG829K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g6bKGG829K/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-68",
+          "title": "Validating a string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8Z8CxfUYTZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8Z8CxfUYTZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8Z8CxfUYTZ/video.m3u8",
+          "duration": 201,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-69",
+          "title": "Reversing a string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nyS2hBzQkG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nyS2hBzQkG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nyS2hBzQkG/video.m3u8",
+          "duration": 290,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-70",
+          "title": "Comparing two strings and palindrome",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9nHmapmP3Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9nHmapmP3Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9nHmapmP3Q/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-71",
+          "title": "Finding duplicates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NxE7nhtjGZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NxE7nhtjGZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NxE7nhtjGZ/video.m3u8",
+          "duration": 348,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-72",
+          "title": "Check if two strings are anagrams",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EnycXakqns2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EnycXakqns2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EnycXakqns2/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-73",
+          "title": "Permutations of a given string",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHmtRPpQua/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHmtRPpQua/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHmtRPpQua/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Matrices",
+      "lectures": [
+        {
+          "id": "td-datastructure-74",
+          "title": "Diagonal matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZbhGuZdesY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZbhGuZdesY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZbhGuZdesY/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-75",
+          "title": "Diagonal matrix DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRshJU7yzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRshJU7yzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRshJU7yzs/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-76",
+          "title": "Class for diagonal matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UjyZTgzJB9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UjyZTgzJB9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UjyZTgzJB9/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-77",
+          "title": "Class for diagonal matrix - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5REpfsmGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5REpfsmGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5REpfsmGY/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-78",
+          "title": "Lower triangular matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNcGRh6aNs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNcGRh6aNs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNcGRh6aNs/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-79",
+          "title": "Lower triangular matrix code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gGdPf6QhXq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gGdPf6QhXq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gGdPf6QhXq/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-80",
+          "title": "Upper triangular matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S3KEJpK2xDb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S3KEJpK2xDb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S3KEJpK2xDb/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-81",
+          "title": "Symmetric matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CSepZBYEZz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CSepZBYEZz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CSepZBYEZz/video.m3u8",
+          "duration": 179,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-82",
+          "title": "Tri digonal and tri band matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8zrMmMNc4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8zrMmMNc4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8zrMmMNc4f/video.m3u8",
+          "duration": 312,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-83",
+          "title": "Toeplitz marix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7mPjCG5UR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7mPjCG5UR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7mPjCG5UR/video.m3u8",
+          "duration": 211,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-84",
+          "title": "C++ class for matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MTmh4aMd6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MTmh4aMd6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MTmh4aMd6d/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sparse matrix and polynomial representation",
+      "lectures": [
+        {
+          "id": "td-datastructure-85",
+          "title": "Sparse matrix representation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdE5SpxtRr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdE5SpxtRr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdE5SpxtRr/video.m3u8",
+          "duration": 489,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-86",
+          "title": "Sparse matrix addition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sbQXRTp6hz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sbQXRTp6hz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sbQXRTp6hz/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-87",
+          "title": "Creation of Sparse matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTjnpxJrDc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTjnpxJrDc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTjnpxJrDc/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-88",
+          "title": "Addition of sparse matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BFDFTmutSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BFDFTmutSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BFDFTmutSu/video.m3u8",
+          "duration": 586,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-89",
+          "title": "Sparse matrix using LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tXa6f2kMfS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tXa6f2kMfS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tXa6f2kMfS/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-90",
+          "title": "Polynomials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azqhrp7ubQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azqhrp7ubQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azqhrp7ubQE/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linked list",
+      "lectures": [
+        {
+          "id": "td-datastructure-91",
+          "title": "Why need dynamic DS LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2R6qB3S4SB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2R6qB3S4SB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2R6qB3S4SB/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-92",
+          "title": "Linked list introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THxj4prEXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THxj4prEXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THxj4prEXD/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-93",
+          "title": "Display linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHjnHyqnaef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHjnHyqnaef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHjnHyqnaef/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-94",
+          "title": "Display linked list code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/689hUEX3B4b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/689hUEX3B4b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/689hUEX3B4b/video.m3u8",
+          "duration": 134,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-95",
+          "title": "Counting nodes and sum of all elements of linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MQUSkptyHS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MQUSkptyHS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MQUSkptyHS/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-96",
+          "title": "Counting nodes and sum - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Appj59ne4b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Appj59ne4b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Appj59ne4b/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-97",
+          "title": "Max element in linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RZt8yDa9Ug/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RZt8yDa9Ug/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RZt8yDa9Ug/video.m3u8",
+          "duration": 233,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-98",
+          "title": "Max element in linked list - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SHRDTsFkR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SHRDTsFkR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SHRDTsFkR/video.m3u8",
+          "duration": 150,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-99",
+          "title": "Searching in linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95s3Cb2Jt9Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95s3Cb2Jt9Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95s3Cb2Jt9Q/video.m3u8",
+          "duration": 184,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-100",
+          "title": "Searching in linked list - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EyfPFSP8cn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EyfPFSP8cn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EyfPFSP8cn/video.m3u8",
+          "duration": 182,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-101",
+          "title": "Insertion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UzpPFd8MeJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UzpPFd8MeJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UzpPFd8MeJ/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-102",
+          "title": "Insertion - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cAxF9frS7f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cAxF9frS7f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cAxF9frS7f/video.m3u8",
+          "duration": 303,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-103",
+          "title": "Insertion in sorted list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8afMhq9STBx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8afMhq9STBx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8afMhq9STBx/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-104",
+          "title": "Insertion in sorted list - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3ARSTpxR9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3ARSTpxR9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3ARSTpxR9k/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-105",
+          "title": "Check if list is sorted",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyHXNkGknkR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyHXNkGknkR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyHXNkGknkR/video.m3u8",
+          "duration": 143,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-106",
+          "title": "Check if list is sorted - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JeyqQa9NRj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JeyqQa9NRj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JeyqQa9NRj/video.m3u8",
+          "duration": 190,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-107",
+          "title": "Deletion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59AhyQuaMY4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59AhyQuaMY4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59AhyQuaMY4/video.m3u8",
+          "duration": 213,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-108",
+          "title": "Deletion - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyfgS6C5tk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyfgS6C5tk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyfgS6C5tk/video.m3u8",
+          "duration": 186,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-109",
+          "title": "Reverse a linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZRYDSk6AsZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZRYDSk6AsZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZRYDSk6AsZ/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-110",
+          "title": "Concatinating two linked lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9sRtBBUtPJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9sRtBBUtPJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9sRtBBUtPJ/video.m3u8",
+          "duration": 137,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-111",
+          "title": "Checking for a LOOP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyP8ay5EJnX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyP8ay5EJnX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyP8ay5EJnX/video.m3u8",
+          "duration": 208,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-112",
+          "title": "Checking for LOOP - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4th5GEtzpsU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4th5GEtzpsU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4th5GEtzpsU/video.m3u8",
+          "duration": 199,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-113",
+          "title": "CLL Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63k9Zs7HDxR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63k9Zs7HDxR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63k9Zs7HDxR/video.m3u8",
+          "duration": 163,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-114",
+          "title": "CLL Introduction - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DDkNrppTTp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DDkNrppTTp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DDkNrppTTp/video.m3u8",
+          "duration": 194,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-115",
+          "title": "Insertion in CLL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QHMFdQuJTC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QHMFdQuJTC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QHMFdQuJTC/video.m3u8",
+          "duration": 167,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-116",
+          "title": "Deletion in CLL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BByPapcBrmt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BByPapcBrmt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BByPapcBrmt/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-117",
+          "title": "CLL insertion and deletion - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBfs2dzKqE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBfs2dzKqE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBfs2dzKqE/video.m3u8",
+          "duration": 264,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-118",
+          "title": "Doubly linked list - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XEkmMYmAzp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XEkmMYmAzp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XEkmMYmAzp/video.m3u8",
+          "duration": 158,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-119",
+          "title": "Insert in DLL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BudZuB8dgAm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BudZuB8dgAm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BudZuB8dgAm/video.m3u8",
+          "duration": 227,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-120",
+          "title": "Delete in DLL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGexZjD52sP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGexZjD52sP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGexZjD52sP/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-121",
+          "title": "DLL - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Sukfyh2N8u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Sukfyh2N8u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Sukfyh2N8u/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-122",
+          "title": "Circular doubly linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3md2yMjKK3a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3md2yMjKK3a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3md2yMjKK3a/video.m3u8",
+          "duration": 124,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-123",
+          "title": "Comparision of linked lsits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h8PdKYHCHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h8PdKYHCHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h8PdKYHCHF/video.m3u8",
+          "duration": 188,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-124",
+          "title": "Max element in LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK8zCDCAKzE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK8zCDCAKzE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK8zCDCAKzE/video.m3u8",
+          "duration": 211,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-125",
+          "title": "Creating a LL using insert",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHYBgtBKZF5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHYBgtBKZF5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHYBgtBKZF5/video.m3u8",
+          "duration": 134,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-126",
+          "title": "Creating a LL by inserting at last",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jE7hBZmHB7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jE7hBZmHB7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jE7hBZmHB7/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-127",
+          "title": "Removing duplicates from sorted LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XArKadzjx5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XArKadzjx5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XArKadzjx5/video.m3u8",
+          "duration": 266,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-128",
+          "title": "Removing duplicates from sorted LL DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pbMbCCkBuZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pbMbCCkBuZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pbMbCCkBuZ/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-129",
+          "title": "Recursive reverse for LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jREceNbh4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jREceNbh4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jREceNbh4/video.m3u8",
+          "duration": 171,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-130",
+          "title": "Reversign a LL DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cjr2ECgbHU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cjr2ECgbHU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Cjr2ECgbHU/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-131",
+          "title": "Reverse a doubly LL DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AB3ZKrNZZf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AB3ZKrNZZf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AB3ZKrNZZf/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sparse matrix polynomial expression using linked list",
+      "lectures": [
+        {
+          "id": "td-datastructure-132",
+          "title": "Polynomial representation using LL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TDbHKHhbz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TDbHKHhbz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TDbHKHhbz/video.m3u8",
+          "duration": 140,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-133",
+          "title": "Polynomial representation using LL DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cyupsrpUcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cyupsrpUcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cyupsrpUcH/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stack",
+      "lectures": [
+        {
+          "id": "td-datastructure-134",
+          "title": "Stack introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDE4YaUrKJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDE4YaUrKJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDE4YaUrKJU/video.m3u8",
+          "duration": 1226,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-135",
+          "title": "Stack using array - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cjBUSSzMK4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cjBUSSzMK4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cjBUSSzMK4/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-136",
+          "title": "Stack using linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZds8GsMFjs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZds8GsMFjs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZds8GsMFjs/video.m3u8",
+          "duration": 353,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-137",
+          "title": "Parenthesis matching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aK745QKFxs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aK745QKFxs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aK745QKFxs/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-138",
+          "title": "Parenthesis matching - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suHu7CFKr2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suHu7CFKr2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suHu7CFKr2/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-139",
+          "title": "Infix to postfix conversion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UaD3eS9e5G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UaD3eS9e5G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UaD3eS9e5G/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-140",
+          "title": "Infix to postfix - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C94ZUmBQq43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C94ZUmBQq43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C94ZUmBQq43/video.m3u8",
+          "duration": 256,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-141",
+          "title": "Evaluation of postfix expression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pmAtBN77C9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pmAtBN77C9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pmAtBN77C9/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-142",
+          "title": "Postfix evaluation - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nRR6r3hTFC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nRR6r3hTFC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nRR6r3hTFC/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-143",
+          "title": "Stack using LL - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BA25YJQG5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BA25YJQG5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BA25YJQG5/video.m3u8",
+          "duration": 288,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Queue",
+      "lectures": [
+        {
+          "id": "td-datastructure-144",
+          "title": "Queue introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gZrk3ahhDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gZrk3ahhDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gZrk3ahhDx/video.m3u8",
+          "duration": 548,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-145",
+          "title": "Queue insertion and deletion - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hrGUUCuGHn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hrGUUCuGHn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hrGUUCuGHn/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-146",
+          "title": "Drawback of queue using array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kumga2uXUX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kumga2uXUX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kumga2uXUX/video.m3u8",
+          "duration": 197,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-147",
+          "title": "Circular queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nZyYxhat2xK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nZyYxhat2xK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nZyYxhat2xK/video.m3u8",
+          "duration": 156,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-148",
+          "title": "Circular queue - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dmPsuEygHf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dmPsuEygHf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dmPsuEygHf/video.m3u8",
+          "duration": 277,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-149",
+          "title": "Queue using linked list",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qyQNHyt698/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qyQNHyt698/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qyQNHyt698/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-150",
+          "title": "Queue using LL - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzBbKSeTCz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzBbKSeTCz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzBbKSeTCz/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-151",
+          "title": "Priority queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6srgGqSY3ct/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6srgGqSY3ct/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6srgGqSY3ct/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-152",
+          "title": "Double ended queue DEQUE - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQHm4gCDXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQHm4gCDXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQHm4gCDXm/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Trees",
+      "lectures": [
+        {
+          "id": "td-datastructure-153",
+          "title": "Tree - terminology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8F27rZtDa5Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8F27rZtDa5Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8F27rZtDa5Y/video.m3u8",
+          "duration": 624,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-154",
+          "title": "Height vs nodes formulas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayx8kTraq5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayx8kTraq5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayx8kTraq5H/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-155",
+          "title": "Internal and external nodes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgERfc22cfJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgERfc22cfJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgERfc22cfJ/video.m3u8",
+          "duration": 158,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-156",
+          "title": "Strict binary tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CsJNctGFtx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CsJNctGFtx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CsJNctGFtx/video.m3u8",
+          "duration": 226,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-157",
+          "title": "n-ary trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PETpb6gqzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PETpb6gqzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PETpb6gqzs/video.m3u8",
+          "duration": 184,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-158",
+          "title": "Representation of binary tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rRtDXHDkJZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rRtDXHDkJZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rRtDXHDkJZ/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-159",
+          "title": "Full vs complete binary tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aggnmzZs5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aggnmzZs5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aggnmzZs5/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-160",
+          "title": "Strict vs complete binary tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uf8y9xdKjc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uf8y9xdKjc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uf8y9xdKjc/video.m3u8",
+          "duration": 179,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-161",
+          "title": "Creating a tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTnUSfZU4N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTnUSfZU4N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTnUSfZU4N/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-162",
+          "title": "Creating Binary tree DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQByGthzTDk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQByGthzTDk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQByGthzTDk/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-163",
+          "title": "Binary tree traversals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k2NB2m7FFh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k2NB2m7FFh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k2NB2m7FFh/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-164",
+          "title": "Iterative traversals DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8feKPjYmnj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8feKPjYmnj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8feKPjYmnj/video.m3u8",
+          "duration": 317,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-165",
+          "title": "Level order traversal DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QqHgXhDQC7B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QqHgXhDQC7B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QqHgXhDQC7B/video.m3u8",
+          "duration": 263,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-166",
+          "title": "Generate binary tree from traversals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pt42a638Ks/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pt42a638Ks/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pt42a638Ks/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-167",
+          "title": "Generate BT from traversals DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hb7bG8e4a7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hb7bG8e4a7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hb7bG8e4a7/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-168",
+          "title": "Height and count of BT DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADF82UPHKA7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADF82UPHKA7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADF82UPHKA7/video.m3u8",
+          "duration": 388,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-169",
+          "title": "Count leaf nodes in BT DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7phHCUnxEN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7phHCUnxEN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7phHCUnxEN/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary search tree",
+      "lectures": [
+        {
+          "id": "td-datastructure-170",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDN7KMRk98R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDN7KMRk98R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDN7KMRk98R/video.m3u8",
+          "duration": 298,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-171",
+          "title": "Searching in BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As8hkhcGCJt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As8hkhcGCJt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As8hkhcGCJt/video.m3u8",
+          "duration": 214,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-172",
+          "title": "Inserting in BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yPuMXT4ZCXr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yPuMXT4ZCXr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yPuMXT4ZCXr/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-173",
+          "title": "Creating a BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4jG5CZ6e73/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4jG5CZ6e73/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4jG5CZ6e73/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-174",
+          "title": "BST DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9H8HAxKA2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9H8HAxKA2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9H8HAxKA2/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-175",
+          "title": "Deleting from BST",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/npDMrTFhYEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/npDMrTFhYEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/npDMrTFhYEr/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-176",
+          "title": "BST drawbacks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YThJHuk3U5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YThJHuk3U5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YThJHuk3U5/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-177",
+          "title": "Generate BST from preorder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYsdQ5DU6Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYsdQ5DU6Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYsdQ5DU6Q/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AVL trees",
+      "lectures": [
+        {
+          "id": "td-datastructure-178",
+          "title": "AVL tree introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Ar4neuyPA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Ar4neuyPA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Ar4neuyPA/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-179",
+          "title": "Insertion in AVL with rotations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cY2GEJAcq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cY2GEJAcq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5cY2GEJAcq/video.m3u8",
+          "duration": 503,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-180",
+          "title": "General form of AVR rotations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDrKtUauP8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDrKtUauP8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDrKtUauP8/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-181",
+          "title": "Generating AVL tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRNrBpMu3zT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRNrBpMu3zT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRNrBpMu3zT/video.m3u8",
+          "duration": 345,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-182",
+          "title": "Height analysis AVL trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dUK3kKnx2q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dUK3kKnx2q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dUK3kKnx2q/video.m3u8",
+          "duration": 114,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-183",
+          "title": "AVL rotations DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8ZjggCdMu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8ZjggCdMu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8ZjggCdMu/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Search trees",
+      "lectures": [
+        {
+          "id": "td-datastructure-184",
+          "title": "2,3 trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a89udMmnhpU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a89udMmnhpU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a89udMmnhpU/video.m3u8",
+          "duration": 391,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-185",
+          "title": "2,3,4 trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XymHmqtFbm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XymHmqtFbm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XymHmqtFbm/video.m3u8",
+          "duration": 338,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-186",
+          "title": "Red black trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MU8XckzKga/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MU8XckzKga/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MU8XckzKga/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-187",
+          "title": "Red black tree creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9t4xKARzNHX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9t4xKARzNHX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9t4xKARzNHX/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-188",
+          "title": "Red black trees vs 2-3-4 trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Aru7r4Nkax/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Aru7r4Nkax/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Aru7r4Nkax/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-189",
+          "title": "Red black tree deletion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ahk9mbXqyz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ahk9mbXqyz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ahk9mbXqyz/video.m3u8",
+          "duration": 182,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Heap",
+      "lectures": [
+        {
+          "id": "td-datastructure-190",
+          "title": "Heap introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDKJCrUeNT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDKJCrUeNT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tDKJCrUeNT/video.m3u8",
+          "duration": 131,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-191",
+          "title": "Heap insertion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAfHGSFYycG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAfHGSFYycG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAfHGSFYycG/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-192",
+          "title": "Heap insertion - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X4HQrEhmcr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X4HQrEhmcr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X4HQrEhmcr/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-193",
+          "title": "Heap creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Gt8bngtj4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Gt8bngtj4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Gt8bngtj4/video.m3u8",
+          "duration": 162,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-194",
+          "title": "Heap element deletion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PQhcbBR4r7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PQhcbBR4r7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PQhcbBR4r7/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-195",
+          "title": "Heap sort - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAjcetsUpDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAjcetsUpDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAjcetsUpDh/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-196",
+          "title": "Heapify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U7kGQppHszx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U7kGQppHszx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U7kGQppHszx/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-197",
+          "title": "Heap as priority queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cd6YNnSq3h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cd6YNnSq3h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cd6YNnSq3h/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sorting techniques",
+      "lectures": [
+        {
+          "id": "td-datastructure-198",
+          "title": "Bubble sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rTNG8shQUQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rTNG8shQUQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rTNG8shQUQ/video.m3u8",
+          "duration": 400,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-199",
+          "title": "Bubble sort DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b4kTgnfDs4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b4kTgnfDs4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b4kTgnfDs4/video.m3u8",
+          "duration": 231,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-200",
+          "title": "Insertion sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S28g58sEeN5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S28g58sEeN5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S28g58sEeN5/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-201",
+          "title": "Insertion sort DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KaTzYAgRMB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KaTzYAgRMB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KaTzYAgRMB/video.m3u8",
+          "duration": 206,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-202",
+          "title": "Selection sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ybCPKjkFjn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ybCPKjkFjn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ybCPKjkFjn/video.m3u8",
+          "duration": 269,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-203",
+          "title": "Selection sort DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67TfaxBHUYC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67TfaxBHUYC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67TfaxBHUYC/video.m3u8",
+          "duration": 349,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-204",
+          "title": "Quick sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fCKgUbPTrP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fCKgUbPTrP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fCKgUbPTrP/video.m3u8",
+          "duration": 350,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-205",
+          "title": "Quick sort DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNtP8TEZbqs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNtP8TEZbqs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNtP8TEZbqs/video.m3u8",
+          "duration": 506,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-206",
+          "title": "Merge sort",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbuFfGUGKt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbuFfGUGKt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbuFfGUGKt/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-207",
+          "title": "Merge sort DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7PxkubAU6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7PxkubAU6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D7PxkubAU6/video.m3u8",
+          "duration": 342,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hashing techniques",
+      "lectures": [
+        {
+          "id": "td-datastructure-208",
+          "title": "Hashing introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txbxrByC26/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txbxrByC26/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6txbxrByC26/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-209",
+          "title": "Chaining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjbs53sXdj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjbs53sXdj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjbs53sXdj/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-210",
+          "title": "Chaining - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHhfR8XKGqU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHhfR8XKGqU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHhfR8XKGqU/video.m3u8",
+          "duration": 253,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-211",
+          "title": "Linear probing - Quadratic probing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g9Cmsd6mU6P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g9Cmsd6mU6P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g9Cmsd6mU6P/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-212",
+          "title": "Linear probing - DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FmhdGc3jD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FmhdGc3jD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FmhdGc3jD8/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-213",
+          "title": "Hash function ideas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4dtuTS6aDp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4dtuTS6aDp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4dtuTS6aDp/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs",
+      "lectures": [
+        {
+          "id": "td-datastructure-214",
+          "title": "Graphs terminology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsYYFAEGEfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsYYFAEGEfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsYYFAEGEfU/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-215",
+          "title": "Representation of undirected graph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yFnDYuU3YH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yFnDYuU3YH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yFnDYuU3YH/video.m3u8",
+          "duration": 685,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-216",
+          "title": "Representation of directed graph",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mEPazzGfyA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mEPazzGfyA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mEPazzGfyA/video.m3u8",
+          "duration": 226,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-217",
+          "title": "Breadth first search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YnAPTCSGnf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YnAPTCSGnf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YnAPTCSGnf/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-218",
+          "title": "BFS DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XfcS9QfuQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XfcS9QfuQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XfcS9QfuQE/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-219",
+          "title": "Depth first search",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fNAxfCU2J9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fNAxfCU2J9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fNAxfCU2J9/video.m3u8",
+          "duration": 374,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-220",
+          "title": "DFS - Demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94GbkgKjmd4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94GbkgKjmd4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94GbkgKjmd4/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-221",
+          "title": "Minimum cost spanning tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yh3UgzmqHt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yh3UgzmqHt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yh3UgzmqHt/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-222",
+          "title": "Prims algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KqaMqRDNde/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KqaMqRDNde/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KqaMqRDNde/video.m3u8",
+          "duration": 219,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-223",
+          "title": "Prims algorithm DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA4BHUtzta4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA4BHUtzta4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA4BHUtzta4/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-224",
+          "title": "Kruskal_s algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MJKFCZh6Zs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MJKFCZh6Zs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MJKFCZh6Zs/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        },
+        {
+          "id": "td-datastructure-225",
+          "title": "Kruskal algorithm DEMO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/842Apq7cN2R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/842Apq7cN2R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/842Apq7cN2R/video.m3u8",
+          "duration": 654,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Asymptotic notations",
+      "lectures": [
+        {
+          "id": "td-datastructure-226",
+          "title": "Asymptotic notations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKS65t4yYs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKS65t4yYs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKS65t4yYs/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-datastructure-22",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-datastructure-23",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-datastructure-24",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-datastructure-25",
+          "title": "Assignment 4",
+          "url": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-datastructure-26",
+          "title": "Assignment 5",
+          "url": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-datastructure-27",
+          "title": "Assignment 6",
+          "url": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1PtJow97VGk46MpGH0yXmz8AMnUd5gAM9/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

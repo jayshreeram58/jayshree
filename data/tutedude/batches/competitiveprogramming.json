@@ -1,0 +1,1195 @@
+{
+  "platform": "TuteDude",
+  "batchId": "competitiveprogramming",
+  "batchSlug": "competitiveprogramming",
+  "batchName": "Competetive Programming",
+  "thumbnail": "https://www.tutedude.com/assets/avif/competitiveprogramming.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/competitiveprogramming",
+  "totalSections": 9,
+  "totalLectures": 125,
+  "totalNotes": 0,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to Competitive Programming",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-1",
+          "title": "What is Competitive Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7syfrhg5nfg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7syfrhg5nfg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7syfrhg5nfg/video.m3u8",
+          "duration": 370,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-2",
+          "title": "Competitive Programming Competitions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCP3mbXkJZN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCP3mbXkJZN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCP3mbXkJZN/video.m3u8",
+          "duration": 503,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-3",
+          "title": "Websites for Competitive Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ufXqm5FBuc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ufXqm5FBuc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ufXqm5FBuc/video.m3u8",
+          "duration": 805,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-4",
+          "title": "Terminologies in Competitive Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5qQz6dDRqA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5qQz6dDRqA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5qQz6dDRqA/video.m3u8",
+          "duration": 977,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-5",
+          "title": "Choosing a Programming Language",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uJEc246MgF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uJEc246MgF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uJEc246MgF/video.m3u8",
+          "duration": 353,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-6",
+          "title": "Taking Input & Output in Competitive Programming Contests",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQ3SGhPPhE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQ3SGhPPhE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQ3SGhPPhE/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-7",
+          "title": "Cout vs Printf",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XC47PTfxY6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XC47PTfxY6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XC47PTfxY6/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-8",
+          "title": "Endl vs Back n",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ahCXxkkxn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ahCXxkkxn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ahCXxkkxn/video.m3u8",
+          "duration": 261,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-9",
+          "title": "Fast cin cout Methods _ Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uhza63SBdn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uhza63SBdn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uhza63SBdn/video.m3u8",
+          "duration": 582,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-10",
+          "title": "Time Complexity in Competitive Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ek73jJCkb9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ek73jJCkb9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ek73jJCkb9/video.m3u8",
+          "duration": 624,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-11",
+          "title": "Calculating Time Complexity of Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGEu9xAQmx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGEu9xAQmx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGEu9xAQmx/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-12",
+          "title": "Importance of English in Competitive Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gmJ8UMXsKy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gmJ8UMXsKy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gmJ8UMXsKy/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Standard Template Library (STL)",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-13",
+          "title": "Introduction to STL in C++",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S4cYYXUNHck/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S4cYYXUNHck/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S4cYYXUNHck/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-14",
+          "title": "Standard Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDpAyqcHCt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDpAyqcHCt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDpAyqcHCt/video.m3u8",
+          "duration": 979,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-15",
+          "title": "Standard Vector",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aux5nm3Xbp8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aux5nm3Xbp8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aux5nm3Xbp8/video.m3u8",
+          "duration": 2364,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-16",
+          "title": "Standard Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/942ztrzrjZh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/942ztrzrjZh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/942ztrzrjZh/video.m3u8",
+          "duration": 2524,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-17",
+          "title": "Standard Multiset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nmCFJbHrxC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nmCFJbHrxC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nmCFJbHrxC/video.m3u8",
+          "duration": 2413,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-18",
+          "title": "Standard Map",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q9HJHurZyfK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q9HJHurZyfK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q9HJHurZyfK/video.m3u8",
+          "duration": 2623,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-19",
+          "title": "Standard Multimap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FDnzgfKmnK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FDnzgfKmnK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FDnzgfKmnK/video.m3u8",
+          "duration": 1932,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-20",
+          "title": "Standard Pair",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qnna8xh2TNn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qnna8xh2TNn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qnna8xh2TNn/video.m3u8",
+          "duration": 953,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-21",
+          "title": "Standard Forward List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX3cKtT5gar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX3cKtT5gar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX3cKtT5gar/video.m3u8",
+          "duration": 1894,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-22",
+          "title": "Standard List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCfBD93s37K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCfBD93s37K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCfBD93s37K/video.m3u8",
+          "duration": 1075,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-23",
+          "title": "Standard Unordered Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UUSp4XX4YQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UUSp4XX4YQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UUSp4XX4YQ/video.m3u8",
+          "duration": 792,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-24",
+          "title": "Standard Unordered Multiset",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfnPrUS73gq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfnPrUS73gq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfnPrUS73gq/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-25",
+          "title": "Unordered Map and Unordered Multimap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5huCmkt9B27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5huCmkt9B27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5huCmkt9B27/video.m3u8",
+          "duration": 890,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-26",
+          "title": "Standard Stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CrgNuqG3hd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CrgNuqG3hd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CrgNuqG3hd/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-27",
+          "title": "Standard Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YNz68c68tF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YNz68c68tF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YNz68c68tF/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-28",
+          "title": "Standard Priority Queue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdE5UMUQYjE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdE5UMUQYjE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdE5UMUQYjE/video.m3u8",
+          "duration": 671,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-29",
+          "title": "Standard Deque",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ndj4NeU8a6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ndj4NeU8a6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ndj4NeU8a6/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Bit Manipulation and Modulo Arithmetic",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-30",
+          "title": "Importance of Bit Manipulation Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UpsFZ4zHYH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UpsFZ4zHYH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UpsFZ4zHYH/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-31",
+          "title": "Basic Binary Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DSM5kknqPZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DSM5kknqPZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DSM5kknqPZ/video.m3u8",
+          "duration": 2830,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-32",
+          "title": "Bit Operations in C++",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XS7ceDcaS7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XS7ceDcaS7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XS7ceDcaS7/video.m3u8",
+          "duration": 1217,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-33",
+          "title": "Check ith bit is SET or NOT SET",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ShhyPpakGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ShhyPpakGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ShhyPpakGg/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-34",
+          "title": "Toggle ith bit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z6JebBaEJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z6JebBaEJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z6JebBaEJU/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-35",
+          "title": "Check odd or even using bits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag7mBE5qMzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag7mBE5qMzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag7mBE5qMzh/video.m3u8",
+          "duration": 588,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-36",
+          "title": "Check if Number is Power of 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdC7ADPjSD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdC7ADPjSD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdC7ADPjSD/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-37",
+          "title": "Need for Modulo 10^9 + 7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfNQAxATMdH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfNQAxATMdH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfNQAxATMdH/video.m3u8",
+          "duration": 1276,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-38",
+          "title": "Modulo Arithmetic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXF2k2pnQqT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXF2k2pnQqT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXF2k2pnQqT/video.m3u8",
+          "duration": 1333,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-39",
+          "title": "[A3.1] Problem XOR ORED",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sEpUsNDc39/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sEpUsNDc39/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sEpUsNDc39/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-40",
+          "title": "[A3.2] Solution - XOR-ORED",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RYg58xJA3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RYg58xJA3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RYg58xJA3c/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-41",
+          "title": "[A3.3] Solution with Code - XOR-ORED",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pZmzga3fAC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pZmzga3fAC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pZmzga3fAC/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-42",
+          "title": "Introduction to Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTaCgAeTP6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTaCgAeTP6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTaCgAeTP6/video.m3u8",
+          "duration": 2043,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-43",
+          "title": "Weights in Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QAySKHU2jd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QAySKHU2jd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QAySKHU2jd/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-44",
+          "title": "Why Study Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C3mjZHn9yp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C3mjZHn9yp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C3mjZHn9yp/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-45",
+          "title": "Edge List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/653dDsJzAr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/653dDsJzAr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/653dDsJzAr7/video.m3u8",
+          "duration": 1828,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-46",
+          "title": "Adjacenty Matrix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YCryff5bgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YCryff5bgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YCryff5bgh/video.m3u8",
+          "duration": 2344,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-47",
+          "title": "Adjacenty List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mRfMydZr6Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mRfMydZr6Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mRfMydZr6Y/video.m3u8",
+          "duration": 1404,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-48",
+          "title": "DFS Traversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FXs8yMhZXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FXs8yMhZXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FXs8yMhZXp/video.m3u8",
+          "duration": 1221,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-49",
+          "title": "Implementing DFS Traversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h7Yxq8xpAt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h7Yxq8xpAt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h7Yxq8xpAt/video.m3u8",
+          "duration": 262,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-50",
+          "title": "BFS Traversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7XTUGf29Bq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7XTUGf29Bq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7XTUGf29Bq/video.m3u8",
+          "duration": 1289,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-51",
+          "title": "Implementing BFS Traversal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eXSfr3STtj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eXSfr3STtj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eXSfr3STtj/video.m3u8",
+          "duration": 549,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-52",
+          "title": "Minimum Spanning Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BUE3stZ7ch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BUE3stZ7ch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BUE3stZ7ch/video.m3u8",
+          "duration": 798,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-53",
+          "title": "Concept of Kruskal_s Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQGtqXy3A2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQGtqXy3A2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQGtqXy3A2/video.m3u8",
+          "duration": 1846,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-54",
+          "title": "Concept of Prim_s Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7yUE3n3XuA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7yUE3n3XuA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7yUE3n3XuA/video.m3u8",
+          "duration": 1103,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-55",
+          "title": "Concept of Dijkstra Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95mrUkT6MxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95mrUkT6MxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95mrUkT6MxG/video.m3u8",
+          "duration": 1466,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-56",
+          "title": "[A4.1] Problem - CHFPLN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g5Xph7DKcr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g5Xph7DKcr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g5Xph7DKcr/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-57",
+          "title": "[A4.2] Solution - CHFPLN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkt2YR9rAgk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkt2YR9rAgk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mkt2YR9rAgk/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-58",
+          "title": "[A4.3] Solution with Code - CHFPLN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uf4YrzAhN4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uf4YrzAhN4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uf4YrzAhN4/video.m3u8",
+          "duration": 295,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Segment Trees",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-59",
+          "title": "Sum of Updated Range Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rrPq8hTMMq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rrPq8hTMMq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rrPq8hTMMq/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-60",
+          "title": "Solving Sum of Range Problem with Segment Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcGhDJER5s7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcGhDJER5s7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcGhDJER5s7/video.m3u8",
+          "duration": 966,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-61",
+          "title": "Segment Trees - Update Queries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUz844HBUYd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUz844HBUYd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUz844HBUYd/video.m3u8",
+          "duration": 1091,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-62",
+          "title": "Segment Trees - Calculate Sum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEXsteu3aar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEXsteu3aar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEXsteu3aar/video.m3u8",
+          "duration": 2721,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-63",
+          "title": "Implementing Segment Tree - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EzzER9r9Fk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EzzER9r9Fk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EzzER9r9Fk/video.m3u8",
+          "duration": 1313,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-64",
+          "title": "Implementing Segment Tree - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G2qKxYTc3X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G2qKxYTc3X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G2qKxYTc3X/video.m3u8",
+          "duration": 3521,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-65",
+          "title": "Problem - Range Minimum Query",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32BEh6fPK5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32BEh6fPK5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32BEh6fPK5p/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-66",
+          "title": "Implementing Range Minimum Query",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KDArGrxJPf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KDArGrxJPf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KDArGrxJPf/video.m3u8",
+          "duration": 669,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-67",
+          "title": "Implementing Segment Tree - Tricks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eF3uFE8kPr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eF3uFE8kPr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eF3uFE8kPr/video.m3u8",
+          "duration": 2146,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-68",
+          "title": "Lazy Propagation in Segment Trees - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HAyQKb3Pba/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HAyQKb3Pba/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HAyQKb3Pba/video.m3u8",
+          "duration": 1470,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-69",
+          "title": "Lazy Propagation in Segment Trees - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCU2uqhfD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCU2uqhfD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCU2uqhfD8/video.m3u8",
+          "duration": 837,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-70",
+          "title": "Implementing Lazy Propagation in Segment Trees - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AsTddDtRXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AsTddDtRXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AsTddDtRXD/video.m3u8",
+          "duration": 2186,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-71",
+          "title": "Implementing Lazy Propagation in Segment Trees - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uasj7h4ppg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uasj7h4ppg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Uasj7h4ppg/video.m3u8",
+          "duration": 1166,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-72",
+          "title": "Problem - Xenia and Bit Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANTks9P4PzH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANTks9P4PzH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANTks9P4PzH/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-73",
+          "title": "Solution - Xenia and Bit Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B897kb92pkh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B897kb92pkh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B897kb92pkh/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-74",
+          "title": "Solution with Code - Xenia and Bit Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtNQys4egtx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtNQys4egtx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtNQys4egtx/video.m3u8",
+          "duration": 736,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-75",
+          "title": "Problem - Circular RMQ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ycuSXGQay5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ycuSXGQay5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ycuSXGQay5/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-76",
+          "title": "Solution with Code - Circular RMQ - Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384qeUqJFgB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384qeUqJFgB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384qeUqJFgB/video.m3u8",
+          "duration": 980,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-77",
+          "title": "Solution with Code - Circular RMQ - Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XXUqpCGgak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XXUqpCGgak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XXUqpCGgak/video.m3u8",
+          "duration": 1939,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backtracking",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-78",
+          "title": "Introduction to Backtracking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JtJN8s97e4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JtJN8s97e4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JtJN8s97e4/video.m3u8",
+          "duration": 580,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-79",
+          "title": "N Queens Problem Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZS3prTUBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZS3prTUBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZS3prTUBK/video.m3u8",
+          "duration": 649,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-80",
+          "title": "N Queens Solved",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/835XdnStetd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/835XdnStetd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/835XdnStetd/video.m3u8",
+          "duration": 1552,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-81",
+          "title": "Knights Tour Problem Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKSPjemFfHB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKSPjemFfHB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKSPjemFfHB/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-82",
+          "title": "Knight's Tour Solved",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BmpF3pbxc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BmpF3pbxc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BmpF3pbxc/video.m3u8",
+          "duration": 1213,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-83",
+          "title": "Rat in Maze Problem Explained",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xe4YChtpCz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xe4YChtpCz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xe4YChtpCz/video.m3u8",
+          "duration": 285,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-84",
+          "title": "Rat in Maze Solved",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EuyXE9sbD3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EuyXE9sbD3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EuyXE9sbD3/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-85",
+          "title": "Problem Richie Rich",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shtKjPbHMX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shtKjPbHMX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shtKjPbHMX/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-86",
+          "title": "Solving Richie Rich",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfBJgmZf6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfBJgmZf6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfBJgmZf6A/video.m3u8",
+          "duration": 476,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-87",
+          "title": "Problem False Number",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYRcHK4zCK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYRcHK4zCK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYRcHK4zCK/video.m3u8",
+          "duration": 1173,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-88",
+          "title": "Solving False Number",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52eD7qZUD43/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52eD7qZUD43/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52eD7qZUD43/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Greedy Algorithms",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-89",
+          "title": "Introduction to Greedy Algorithms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AP9S3h4eeFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AP9S3h4eeFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AP9S3h4eeFr/video.m3u8",
+          "duration": 1045,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-90",
+          "title": "Understanding Greedy with Fractional Knapsack Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zbbahrft2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zbbahrft2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zbbahrft2E/video.m3u8",
+          "duration": 1185,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-91",
+          "title": "Solving Fractional Knapsack Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EJBfqaNxsn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EJBfqaNxsn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EJBfqaNxsn/video.m3u8",
+          "duration": 1349,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-92",
+          "title": "Tasks and Deadlines Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7JXRj2fRD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7JXRj2fRD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7JXRj2fRD/video.m3u8",
+          "duration": 1283,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-93",
+          "title": "Solving Tasks and Deadlines Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K5ZcJKZjMk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K5ZcJKZjMk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K5ZcJKZjMk/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-94",
+          "title": "Optimal File Merging Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tPKJnBBxuf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tPKJnBBxuf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tPKJnBBxuf/video.m3u8",
+          "duration": 1013,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-95",
+          "title": "Solving Optimal File Merge Patterns Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBPnZP5QG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBPnZP5QG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBPnZP5QG4/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-96",
+          "title": "Huffman Coding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SyuYj6uExXN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SyuYj6uExXN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SyuYj6uExXN/video.m3u8",
+          "duration": 1542,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-97",
+          "title": "[A7.1] Problem - Dragons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sfcnjAZ3Qu2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sfcnjAZ3Qu2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sfcnjAZ3Qu2/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-98",
+          "title": "[A7.2] Solution with Code - Dragons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DYuEkP76PE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DYuEkP76PE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DYuEkP76PE/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-99",
+          "title": "[A7.3] Problem - Little Elephant and Bits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7arkHQf6dyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7arkHQf6dyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7arkHQf6dyf/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-100",
+          "title": "[A7.4] Solution with Code - Little Elephant and Bits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bkqu5GNnHc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bkqu5GNnHc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bkqu5GNnHc/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Dynamic Programming",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-101",
+          "title": "Introduction to Dynamic Programming",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dcqDNPP7Fq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dcqDNPP7Fq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dcqDNPP7Fq/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-102",
+          "title": "Top down vs Bottom Up",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eFJc8cjDXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eFJc8cjDXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eFJc8cjDXm/video.m3u8",
+          "duration": 981,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-103",
+          "title": "Fibbonacci Problem Top Down",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmkF2rZ8a3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmkF2rZ8a3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmkF2rZ8a3/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-104",
+          "title": "Implementing Fibonnaci with DP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABRTUfcEKXK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABRTUfcEKXK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABRTUfcEKXK/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-105",
+          "title": "2D Grid Traversal Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QGEzS7sDKp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QGEzS7sDKp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QGEzS7sDKp/video.m3u8",
+          "duration": 1739,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-106",
+          "title": "Implementing 2D Grid Traversal Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85a4feFEg9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85a4feFEg9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85a4feFEg9/video.m3u8",
+          "duration": 1051,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-107",
+          "title": "Understanding Memoization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c5Q8RQr6Pt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c5Q8RQr6Pt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c5Q8RQr6Pt/video.m3u8",
+          "duration": 415,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-108",
+          "title": "Fibbonacci with Tabulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zy8tcs5BUD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zy8tcs5BUD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zy8tcs5BUD/video.m3u8",
+          "duration": 646,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-109",
+          "title": "Implementing Fibbonacci with Tabulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E9HDJcBzzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E9HDJcBzzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E9HDJcBzzs/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-110",
+          "title": "2D Grid Traversal Problem with Tabulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMKBJ4gqTMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMKBJ4gqTMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMKBJ4gqTMr/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-111",
+          "title": "Implementing 2D Grid Traversal Problem with Tabulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uHFSQ4DNjf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uHFSQ4DNjf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uHFSQ4DNjf/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-112",
+          "title": "Understanding Tabulation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUSzB2kyeq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUSzB2kyeq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUSzB2kyeq/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-113",
+          "title": "[A8.1] Problem - Subset Sum Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nMAusmdGGm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nMAusmdGGm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nMAusmdGGm/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-114",
+          "title": "[A8.2] Solving - Subset Sum Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fFqSTmpQFz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fFqSTmpQFz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fFqSTmpQFz/video.m3u8",
+          "duration": 1176,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Concepts",
+      "lectures": [
+        {
+          "id": "td-competitiveprogramming-115",
+          "title": "Binary Lifting (Kth Ancestor of a Tree Node)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FdnNtPGgbK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FdnNtPGgbK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FdnNtPGgbK/video.m3u8",
+          "duration": 2758,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-116",
+          "title": "LCA (Lowest Common Ancestor) Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fGkbkKYe3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fGkbkKYe3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fGkbkKYe3/video.m3u8",
+          "duration": 2320,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-117",
+          "title": "Fenwick Trees - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFgkMjrqNC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFgkMjrqNC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFgkMjrqNC/video.m3u8",
+          "duration": 1151,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-118",
+          "title": "Fenwick Trees - Sum of Range (Range Find Query)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGfGqqN9D5R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGfGqqN9D5R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGfGqqN9D5R/video.m3u8",
+          "duration": 1701,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-119",
+          "title": "Fenwick Trees - Update (Point Update Query)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KZSjX3zZe2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KZSjX3zZe2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KZSjX3zZe2/video.m3u8",
+          "duration": 1394,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-120",
+          "title": "Problem - Distance between nodes in Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DSZgg7dk2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DSZgg7dk2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8DSZgg7dk2/video.m3u8",
+          "duration": 294,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-121",
+          "title": "Solution - Distance between nodes in Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJrTz9akHy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJrTz9akHy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJrTz9akHy/video.m3u8",
+          "duration": 489,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-122",
+          "title": "Implementing Fenwick Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACZj3zH7QFg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACZj3zH7QFg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACZj3zH7QFg/video.m3u8",
+          "duration": 2411,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-123",
+          "title": "Implementing Binary Uplifting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YYh4Hq72N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YYh4Hq72N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YYh4Hq72N/video.m3u8",
+          "duration": 1475,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-124",
+          "title": "Implementing LCA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ymGKM8ZUAc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ymGKM8ZUAc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ymGKM8ZUAc/video.m3u8",
+          "duration": 894,
+          "type": "video"
+        },
+        {
+          "id": "td-competitiveprogramming-125",
+          "title": "Solution with Code - Distance between nodes in Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94z4tpMp4qH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94z4tpMp4qH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94z4tpMp4qH/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

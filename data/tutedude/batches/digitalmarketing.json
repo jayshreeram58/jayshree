@@ -1,0 +1,2388 @@
+{
+  "platform": "TuteDude",
+  "batchId": "digitalmarketing",
+  "batchSlug": "digitalmarketing",
+  "batchName": "Digital Marketing",
+  "thumbnail": "https://www.tutedude.com/assets/avif/digitalmarketing.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/digitalmarketing",
+  "totalSections": 41,
+  "totalLectures": 204,
+  "totalNotes": 29,
+  "price": "699.00",
+  "category": "Marketing",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Digital Marketing Course",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-2",
+          "title": "Intro to Digital Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNYHBFB5qKP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNYHBFB5qKP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNYHBFB5qKP/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-3",
+          "title": "Benefits of DM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yERpU5BEfS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yERpU5BEfS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yERpU5BEfS/video.m3u8",
+          "duration": 1225,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-3",
+          "title": "Introduction to Digital Marketing",
+          "url": "https://docs.google.com/document/d/10RuGSSV_AYllzQ6MRrzdHnFTzgEEgCjt/edit#heading=h.6ow2k2hjubtb",
+          "pdfUrl": "https://docs.google.com/document/d/10RuGSSV_AYllzQ6MRrzdHnFTzgEEgCjt/edit#heading=h.6ow2k2hjubtb",
+          "playerUrl": "https://docs.google.com/document/d/10RuGSSV_AYllzQ6MRrzdHnFTzgEEgCjt/edit#heading=h.6ow2k2hjubtb",
+          "downloadUrl": "https://docs.google.com/document/d/10RuGSSV_AYllzQ6MRrzdHnFTzgEEgCjt/edit#heading=h.6ow2k2hjubtb",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Market Research",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-4",
+          "title": "Creating Customer Personas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EAezBD9mT7F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EAezBD9mT7F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EAezBD9mT7F/video.m3u8",
+          "duration": 2877,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-5",
+          "title": "Marketing Mix ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qPxk2q7XZNT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qPxk2q7XZNT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qPxk2q7XZNT/video.m3u8",
+          "duration": 2760,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-6",
+          "title": "Market Research 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UY4B6BuhXM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UY4B6BuhXM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UY4B6BuhXM/video.m3u8",
+          "duration": 2257,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-5",
+          "title": "Market Research Customer Personas",
+          "url": "https://docs.google.com/document/d/1c013GF2Ql4dr14MflJwRqS0TH0Av8re0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1c013GF2Ql4dr14MflJwRqS0TH0Av8re0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1c013GF2Ql4dr14MflJwRqS0TH0Av8re0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1c013GF2Ql4dr14MflJwRqS0TH0Av8re0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Content Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-7",
+          "title": "Intro to Content Marketing and Why we are learning _final",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THjRPq2TDD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THjRPq2TDD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THjRPq2TDD/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-8",
+          "title": "Walkthrough of Canva Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5H5ghnCCHd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5H5ghnCCHd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5H5ghnCCHd/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-9",
+          "title": "Creating PPT using the Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DAZGccRDdC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DAZGccRDdC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DAZGccRDdC/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-10",
+          "title": "Creating Video Content using AI and Canva",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7K8Grmffq4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7K8Grmffq4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7K8Grmffq4/video.m3u8",
+          "duration": 1183,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-11",
+          "title": "How to use Canva AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m4fUczS4yr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m4fUczS4yr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m4fUczS4yr/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-7",
+          "title": "Web Content Marketing & Content Strategy",
+          "url": "https://docs.google.com/document/d/1fghruW46ftidOahbV78Nkuy0FPNC8ofq/edit#heading=h.bshpm35n326w",
+          "pdfUrl": "https://docs.google.com/document/d/1fghruW46ftidOahbV78Nkuy0FPNC8ofq/edit#heading=h.bshpm35n326w",
+          "playerUrl": "https://docs.google.com/document/d/1fghruW46ftidOahbV78Nkuy0FPNC8ofq/edit#heading=h.bshpm35n326w",
+          "downloadUrl": "https://docs.google.com/document/d/1fghruW46ftidOahbV78Nkuy0FPNC8ofq/edit#heading=h.bshpm35n326w",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Web Development",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-12",
+          "title": "Importance of Web Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZSjREFe8Fn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZSjREFe8Fn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZSjREFe8Fn/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-13",
+          "title": "Types of Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJTFsNZTcE3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJTFsNZTcE3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJTFsNZTcE3/video.m3u8",
+          "duration": 1038,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-14",
+          "title": "Web 1.0, Web 2.0, Web 3.0",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FHcz8aJe9s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FHcz8aJe9s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FHcz8aJe9s/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Basics & Technologies",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-15",
+          "title": "Static vs Dynamic Websites",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68A6fF3KfSE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68A6fF3KfSE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68A6fF3KfSE/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-16",
+          "title": "CMS (Content Management System)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qq2d4S8J3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qq2d4S8J3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qq2d4S8J3e/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-17",
+          "title": "Why We Are Using WordPress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PJfbCJnXpH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PJfbCJnXpH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PJfbCJnXpH/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Categories & Assets",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-18",
+          "title": "Assets Required for Website Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8spfSkNBrFF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8spfSkNBrFF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8spfSkNBrFF/video.m3u8",
+          "duration": 905,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Domain & Hosting Essentials",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-19",
+          "title": "What is Domain & Hosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA5NTUyQrA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA5NTUyQrA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA5NTUyQrA/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-20",
+          "title": "How to purchase the Domain Name from the Go daddy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FmP7m9YArJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FmP7m9YArJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FmP7m9YArJ/video.m3u8",
+          "duration": 1244,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-21",
+          "title": "How to purchase the Hosting for website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3qTqcEQESx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3qTqcEQESx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3qTqcEQESx/video.m3u8",
+          "duration": 718,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-22",
+          "title": "How to Connet DNS and Name server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uAhrpgxqXp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uAhrpgxqXp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uAhrpgxqXp/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-12",
+          "title": "Website Planning Domain Hosting",
+          "url": "https://docs.google.com/document/d/11JhP5CU6fuG4wJx78bki9SGLq4gqRu-r/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11JhP5CU6fuG4wJx78bki9SGLq4gqRu-r/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11JhP5CU6fuG4wJx78bki9SGLq4gqRu-r/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11JhP5CU6fuG4wJx78bki9SGLq4gqRu-r/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Website building with Wordpress",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-23",
+          "title": "Introduction to the Local Host",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5JrgQhthTN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5JrgQhthTN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5JrgQhthTN/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-24",
+          "title": "How to Download the Xampp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34CRTHjJXcN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34CRTHjJXcN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34CRTHjJXcN/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-25",
+          "title": "Running and Configuring XAMPP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGmprsRuQQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGmprsRuQQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGmprsRuQQ/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-26",
+          "title": "How to Install the Wordpress into the PC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ACqTktHqu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ACqTktHqu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ACqTktHqu7/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-27",
+          "title": "How to create the Database in Xampp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d3Y8BRHhNR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d3Y8BRHhNR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d3Y8BRHhNR/video.m3u8",
+          "duration": 468,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-28",
+          "title": "How to Configure and Install the Wordpress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95GpMNADaC8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95GpMNADaC8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95GpMNADaC8/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Website Development (Practical Implementation using AI)",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-29",
+          "title": "how to install the wordpress in Cpanel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RUR526yHb8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RUR526yHb8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RUR526yHb8/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-30",
+          "title": "Starting with Digtial marketing Agency website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H7YT7cDPJs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H7YT7cDPJs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H7YT7cDPJs/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-31",
+          "title": "Theme Settings Appearance Customize",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tZUgSAHSAx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tZUgSAHSAx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tZUgSAHSAx/video.m3u8",
+          "duration": 1803,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-32",
+          "title": "How to Update the Blog into the wordpress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RKREcsyhFK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RKREcsyhFK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RKREcsyhFK/video.m3u8",
+          "duration": 1916,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-33",
+          "title": "Landing Page Creation (Using Astra Theme)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUFjMtXjjg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUFjMtXjjg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUFjMtXjjg/video.m3u8",
+          "duration": 914,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-34",
+          "title": "How to Reset Website (Plugin - reset)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zt2dBEt2P4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zt2dBEt2P4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zt2dBEt2P4/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-35",
+          "title": "How to give prompt to the AI for the website Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P5UXMkCKQy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P5UXMkCKQy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P5UXMkCKQy/video.m3u8",
+          "duration": 518,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-36",
+          "title": "How to Take Backup of the website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHEQzU682TY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHEQzU682TY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHEQzU682TY/video.m3u8",
+          "duration": 812,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-37",
+          "title": "How to crearte website Using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Z4fr3zpqy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Z4fr3zpqy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Z4fr3zpqy/video.m3u8",
+          "duration": 509,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-15",
+          "title": "WordPress Website Development",
+          "url": "https://docs.google.com/document/d/1EBxuqmPkBczUaT75kHF2hrtBmQKgDZNf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1EBxuqmPkBczUaT75kHF2hrtBmQKgDZNf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1EBxuqmPkBczUaT75kHF2hrtBmQKgDZNf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1EBxuqmPkBczUaT75kHF2hrtBmQKgDZNf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Shopify Website Creation",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-38",
+          "title": "Intro to Shopify Platform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcFAQXUTDtZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcFAQXUTDtZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcFAQXUTDtZ/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-39",
+          "title": "Difference Between Marketplace And Ecom website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cxb7uqZzb6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cxb7uqZzb6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cxb7uqZzb6/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-40",
+          "title": "How to create Account into the Shopify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gt9bpHcZs5E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gt9bpHcZs5E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gt9bpHcZs5E/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-41",
+          "title": "How to Edit the Theme in Shopify",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTezThuf8u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTezThuf8u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pTezThuf8u/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-42",
+          "title": "How to Add Product into the Shopify Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ysAMUjeGG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ysAMUjeGG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82ysAMUjeGG/video.m3u8",
+          "duration": 972,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-17",
+          "title": "Shopify Store Creation",
+          "url": "https://docs.google.com/document/d/1OZL8Sysj8QgbZjrSTQGPNkdDxtO67IeT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1OZL8Sysj8QgbZjrSTQGPNkdDxtO67IeT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1OZL8Sysj8QgbZjrSTQGPNkdDxtO67IeT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1OZL8Sysj8QgbZjrSTQGPNkdDxtO67IeT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Email Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-43",
+          "title": "Introduction to Email Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zn2PqETk8E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zn2PqETk8E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zn2PqETk8E/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-44",
+          "title": "Types Of Emails",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SecdBD8nXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SecdBD8nXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SecdBD8nXm/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-45",
+          "title": "What is ESP - Email Service Provider",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKJeSuRB2rP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKJeSuRB2rP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKJeSuRB2rP/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-46",
+          "title": "How to get Professional Mail",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnppexxTdB6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnppexxTdB6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnppexxTdB6/video.m3u8",
+          "duration": 1570,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-47",
+          "title": "How to Create account in Brevo (Email Service Provider)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deFMekjYkB3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deFMekjYkB3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deFMekjYkB3/video.m3u8",
+          "duration": 687,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-48",
+          "title": "How to add Professional Mail into the Brevo or ESP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/umE3RapkB8D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/umE3RapkB8D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/umE3RapkB8D/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-49",
+          "title": "Journey of Email Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNbUzbMySn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNbUzbMySn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNbUzbMySn/video.m3u8",
+          "duration": 387,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-50",
+          "title": "How to Extract Cold Mail using Tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDedSrJgeF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDedSrJgeF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDedSrJgeF/video.m3u8",
+          "duration": 222,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-51",
+          "title": "How to Import the Contact List into the Brevo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4k7ZTy7ztJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4k7ZTy7ztJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4k7ZTy7ztJ/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-52",
+          "title": "Introduction to Reputation Score",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTcTNdamMp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTcTNdamMp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sTcTNdamMp/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-53",
+          "title": "How to Send Mail into the Brevo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYHHPG3MzD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYHHPG3MzD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYHHPG3MzD/video.m3u8",
+          "duration": 1222,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-19",
+          "title": "Email Marketing Campaign",
+          "url": "https://docs.google.com/document/d/1rNRrKKc368H_5NDDVA6F8uiI4fO3kmvN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1rNRrKKc368H_5NDDVA6F8uiI4fO3kmvN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1rNRrKKc368H_5NDDVA6F8uiI4fO3kmvN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1rNRrKKc368H_5NDDVA6F8uiI4fO3kmvN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AdSense Marketing (Manual Setup)",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-54",
+          "title": "Intro to Google Adsense",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85tMXDsdZ5h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85tMXDsdZ5h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85tMXDsdZ5h/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-55",
+          "title": "How to setup Google adsense into the Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SEPJTzyCSS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SEPJTzyCSS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SEPJTzyCSS/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-21",
+          "title": "Google AdSense Setup",
+          "url": "https://docs.google.com/document/d/134CvAOuyrpHyoDgwCHXfbTpREmzOFycl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/134CvAOuyrpHyoDgwCHXfbTpREmzOFycl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/134CvAOuyrpHyoDgwCHXfbTpREmzOFycl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/134CvAOuyrpHyoDgwCHXfbTpREmzOFycl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to SEO",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-56",
+          "title": "What is SEO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Am2EtYuTre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Am2EtYuTre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Am2EtYuTre/video.m3u8",
+          "duration": 596,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-57",
+          "title": "Why Seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7rhhPfS8ZC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7rhhPfS8ZC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7rhhPfS8ZC/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-58",
+          "title": "What is search Engines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDMYbczUQGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDMYbczUQGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDMYbczUQGY/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-59",
+          "title": "Search engine Working",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8",
+          "duration": 1137,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-60",
+          "title": "SERP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54EUkRjnjt2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54EUkRjnjt2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54EUkRjnjt2/video.m3u8",
+          "duration": 1197,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-61",
+          "title": "Keyword Fundamentals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APkHhN62HJU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APkHhN62HJU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APkHhN62HJU/video.m3u8",
+          "duration": 675,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-62",
+          "title": "type of keywords",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5q6aKxU9cC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5q6aKxU9cC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5q6aKxU9cC/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-63",
+          "title": "type of seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fxMesqXzdb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fxMesqXzdb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fxMesqXzdb/video.m3u8",
+          "duration": 956,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-64",
+          "title": "What is technical seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s3snbx38EXM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s3snbx38EXM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s3snbx38EXM/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-65",
+          "title": "What is on Page seo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK7RntJxkuq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK7RntJxkuq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK7RntJxkuq/video.m3u8",
+          "duration": 135,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-66",
+          "title": "What is Off Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mCRqBfHh3x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mCRqBfHh3x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mCRqBfHh3x/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-23",
+          "title": "SEO Fundamentals Technical Audit",
+          "url": "https://docs.google.com/document/d/17YaJL9Dbv562zqWyNI2sMRaZW6aeT1-Z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/17YaJL9Dbv562zqWyNI2sMRaZW6aeT1-Z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/17YaJL9Dbv562zqWyNI2sMRaZW6aeT1-Z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/17YaJL9Dbv562zqWyNI2sMRaZW6aeT1-Z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Keyword Research",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-67",
+          "title": "Importance of Keyword Research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/539bFyhNGfA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/539bFyhNGfA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/539bFyhNGfA/video.m3u8",
+          "duration": 467,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-68",
+          "title": "How to do Keyword research",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8",
+          "duration": 220,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-69",
+          "title": "Keyword Research  - Google Keyword Planner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GGxbTKNm29/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GGxbTKNm29/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GGxbTKNm29/video.m3u8",
+          "duration": 1630,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-70",
+          "title": "Keyword Research Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEGfasMNcf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEGfasMNcf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEGfasMNcf/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-71",
+          "title": "Keyword Research - AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gma5bpRqar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gma5bpRqar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gma5bpRqar/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-25",
+          "title": "KeywordResearch",
+          "url": "https://docs.google.com/document/d/1oZ6uD537F_I8mBPkg6xx0RQFXMph0Uqh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1oZ6uD537F_I8mBPkg6xx0RQFXMph0Uqh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1oZ6uD537F_I8mBPkg6xx0RQFXMph0Uqh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1oZ6uD537F_I8mBPkg6xx0RQFXMph0Uqh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "SEO Startegy ",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-72",
+          "title": "On Page importance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p2EfuPQFGA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p2EfuPQFGA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p2EfuPQFGA/video.m3u8",
+          "duration": 426,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-73",
+          "title": "On page Analysis Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sTjk7j4tSMh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sTjk7j4tSMh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sTjk7j4tSMh/video.m3u8",
+          "duration": 3503,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-74",
+          "title": "On Page Analysis by AI ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aU6NFApQdc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aU6NFApQdc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aU6NFApQdc/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-75",
+          "title": "On Page Seo Checklist ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GnDZqhKNuS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GnDZqhKNuS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GnDZqhKNuS/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-76",
+          "title": "Header Tags ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fJGMkZxQZZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fJGMkZxQZZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fJGMkZxQZZ/video.m3u8",
+          "duration": 1195,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-77",
+          "title": "Image and Alt Tag",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDKJft37x3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDKJft37x3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQDKJft37x3/video.m3u8",
+          "duration": 958,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-78",
+          "title": "How to write effective meta title_ How to write convincing meta description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UCqRkYF752/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UCqRkYF752/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UCqRkYF752/video.m3u8",
+          "duration": 373,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-79",
+          "title": "Content Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF6RQTXmpJu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF6RQTXmpJu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF6RQTXmpJu/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-80",
+          "title": "Internal Linking in SEO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t6Kf82kHKrN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t6Kf82kHKrN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t6Kf82kHKrN/video.m3u8",
+          "duration": 1081,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-81",
+          "title": "Introduction to URL Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4RGDnpSgC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4RGDnpSgC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4RGDnpSgC/video.m3u8",
+          "duration": 835,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-82",
+          "title": "Types of URL Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cnGNNdkRmK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cnGNNdkRmK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cnGNNdkRmK/video.m3u8",
+          "duration": 729,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-83",
+          "title": "Website Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDDuByYjzx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDDuByYjzx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDDuByYjzx/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-84",
+          "title": "Robots.txt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cD46b7A27D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cD46b7A27D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cD46b7A27D/video.m3u8",
+          "duration": 1329,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-85",
+          "title": "What is Sitemap (Sitemap.xml and sitemap)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ5af5upx3g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ5af5upx3g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ5af5upx3g/video.m3u8",
+          "duration": 1999,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-86",
+          "title": "Website Speed Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EdXTc9AMH2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EdXTc9AMH2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EdXTc9AMH2/video.m3u8",
+          "duration": 1988,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-87",
+          "title": "What is W3c Validator & its uses",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9pNpnEkCp8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9pNpnEkCp8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9pNpnEkCp8/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-88",
+          "title": "Canonical issue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCnZrhsARb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCnZrhsARb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCnZrhsARb/video.m3u8",
+          "duration": 1330,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-89",
+          "title": "Custom Error Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fJqsPc3G4h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fJqsPc3G4h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fJqsPc3G4h/video.m3u8",
+          "duration": 646,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-90",
+          "title": "What is Backlinks & its types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gUjcGbuPjd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gUjcGbuPjd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gUjcGbuPjd/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-91",
+          "title": "Backlinks Quality factors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgH3c7Eys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgH3c7Eys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgH3c7Eys/video.m3u8",
+          "duration": 1639,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-92",
+          "title": "Off Page Submission Activities",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geQTQX9adT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geQTQX9adT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geQTQX9adT/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-93",
+          "title": "Blog Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STyT2EksRB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STyT2EksRB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6STyT2EksRB/video.m3u8",
+          "duration": 1889,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-94",
+          "title": "Article submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93JZUEF2HAQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93JZUEF2HAQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93JZUEF2HAQ/video.m3u8",
+          "duration": 1658,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-95",
+          "title": "Classified Submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhDfUGaTkJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhDfUGaTkJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhDfUGaTkJ/video.m3u8",
+          "duration": 1451,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-96",
+          "title": "panda algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3r9KbthmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3r9KbthmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3r9KbthmJ/video.m3u8",
+          "duration": 982,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-97",
+          "title": "What is Broken Links",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fpAKnZH8qK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fpAKnZH8qK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fpAKnZH8qK/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-98",
+          "title": "What is META tags_ Meta Tags Preview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMmCeZuBNpM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMmCeZuBNpM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMmCeZuBNpM/video.m3u8",
+          "duration": 1856,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-99",
+          "title": "Send Proposal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Smc4yRDYx2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Smc4yRDYx2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Smc4yRDYx2/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-27",
+          "title": "On Page Off Page SEO Strategy",
+          "url": "https://docs.google.com/document/d/1c8s8R8_ChjqgRBFI1Niu5_XAmVUP5B7N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1c8s8R8_ChjqgRBFI1Niu5_XAmVUP5B7N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1c8s8R8_ChjqgRBFI1Niu5_XAmVUP5B7N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1c8s8R8_ChjqgRBFI1Niu5_XAmVUP5B7N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Copywriting",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-100",
+          "title": "Introduction to Copy Writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A2E4hGN4Hm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A2E4hGN4Hm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A2E4hGN4Hm/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-101",
+          "title": "Case Studies of Copy Writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfP9GeP3A8H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfP9GeP3A8H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfP9GeP3A8H/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-102",
+          "title": "Content writing Vs Copy Writing & PowerFull Words_final",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtGG9Tb6NuY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtGG9Tb6NuY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtGG9Tb6NuY/video.m3u8",
+          "duration": 629,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-103",
+          "title": "Deep Down into the Copy Writing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78RkuRCpMSm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78RkuRCpMSm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78RkuRCpMSm/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-104",
+          "title": "What is CTA button and How to use it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tURQJ6dp7nA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tURQJ6dp7nA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tURQJ6dp7nA/video.m3u8",
+          "duration": 547,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-29",
+          "title": "Sales Psychology Copywriting Customer Service",
+          "url": "https://docs.google.com/document/d/1UZYv8UfpLLJBPK33J1ugod2_jsAsxuf2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1UZYv8UfpLLJBPK33J1ugod2_jsAsxuf2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1UZYv8UfpLLJBPK33J1ugod2_jsAsxuf2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1UZYv8UfpLLJBPK33J1ugod2_jsAsxuf2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Social media marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-105",
+          "title": "Introduction to the Social media marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brkqBfc8DJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brkqBfc8DJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brkqBfc8DJ/video.m3u8",
+          "duration": 1249,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-106",
+          "title": "ECLPC Approach of Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4n9k8XjR4q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4n9k8XjR4q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4n9k8XjR4q/video.m3u8",
+          "duration": 1125,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-107",
+          "title": "Introduction to the Facebook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tbbh4escTA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tbbh4escTA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tbbh4escTA/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-108",
+          "title": "FB Profile vs. Page And its creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d3UNmg6CRA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d3UNmg6CRA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d3UNmg6CRA/video.m3u8",
+          "duration": 1251,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-109",
+          "title": "How to Create an Instagram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGA66KQb7m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGA66KQb7m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGA66KQb7m/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-110",
+          "title": "How to Merge Facebook Page and Business Instagram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GnG6nEzcNP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GnG6nEzcNP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GnG6nEzcNP/video.m3u8",
+          "duration": 579,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-111",
+          "title": "How to Monetize the Facebook Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QE3Uf9Z4YE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QE3Uf9Z4YE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QE3Uf9Z4YE/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-112",
+          "title": "Hook and Jab Strategy of the Social Media",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkRB26dESec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkRB26dESec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkRB26dESec/video.m3u8",
+          "duration": 1612,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-31",
+          "title": "Social Media Profile Business Manager Setup",
+          "url": "https://docs.google.com/document/d/1FjtxutJxLbcgCUOm8uFtqXwWbJcI7eqB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FjtxutJxLbcgCUOm8uFtqXwWbJcI7eqB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FjtxutJxLbcgCUOm8uFtqXwWbJcI7eqB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FjtxutJxLbcgCUOm8uFtqXwWbJcI7eqB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Instagram Optimization",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-113",
+          "title": "Practical Implementation of Content Calender",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64C4ut5BAsH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64C4ut5BAsH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64C4ut5BAsH/video.m3u8",
+          "duration": 721,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-114",
+          "title": "How to switch Personal to Professional account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GPDc7k7DDKZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GPDc7k7DDKZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GPDc7k7DDKZ/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-115",
+          "title": "Setting Up an Optimized Instagram Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AnYXyT9fut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AnYXyT9fut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AnYXyT9fut/video.m3u8",
+          "duration": 534,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Business Manager",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-116",
+          "title": "Business Manager Account Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbTcHuDk3rj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbTcHuDk3rj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbTcHuDk3rj/video.m3u8",
+          "duration": 825,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-117",
+          "title": "How to ADD Page in Business Portfolio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU78h2gxK3A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU78h2gxK3A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU78h2gxK3A/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-118",
+          "title": "Automation in Business Manaager & Schdeuling of Post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mBM6eAHkjb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mBM6eAHkjb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mBM6eAHkjb/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ad Manager Account",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-119",
+          "title": "Meta Ad Account Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yby5hBhDzX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yby5hBhDzX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yby5hBhDzX/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-120",
+          "title": "Walkthrough of Ad manager account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bb2Z2yaHftc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bb2Z2yaHftc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bb2Z2yaHftc/video.m3u8",
+          "duration": 611,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-121",
+          "title": "Types of Objective in Meta Ads_final",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gxmmKA8CBQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gxmmKA8CBQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gxmmKA8CBQ/video.m3u8",
+          "duration": 615,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-122",
+          "title": "Structure of Ad Managaer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G4TnE3nauF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G4TnE3nauF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G4TnE3nauF/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-123",
+          "title": "Meta Ads Library",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abty73aByjf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abty73aByjf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abty73aByjf/video.m3u8",
+          "duration": 407,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-124",
+          "title": "Intro of Traffic Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paKm4bfZyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paKm4bfZyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8paKm4bfZyH/video.m3u8",
+          "duration": 141,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-125",
+          "title": "Name Convention of the Campaigns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ButKZkbTYbC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ButKZkbTYbC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ButKZkbTYbC/video.m3u8",
+          "duration": 536,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-126",
+          "title": "CBO and ABO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBmEF948Qtr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBmEF948Qtr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBmEF948Qtr/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-127",
+          "title": "A B testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqC3JhSz5x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqC3JhSz5x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqC3JhSz5x/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-128",
+          "title": "Bidding Types in Meta Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3efmR9eDdhf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3efmR9eDdhf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3efmR9eDdhf/video.m3u8",
+          "duration": 726,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-129",
+          "title": "Ad set Levle of Traffic Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmATckNqhBA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmATckNqhBA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmATckNqhBA/video.m3u8",
+          "duration": 1058,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-130",
+          "title": "Ads Level of Traffic Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApXmj6ceSG4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApXmj6ceSG4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApXmj6ceSG4/video.m3u8",
+          "duration": 264,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-131",
+          "title": "Ad Copy Creation into the Traffic Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mU5sk3x8Cn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mU5sk3x8Cn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mU5sk3x8Cn/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-132",
+          "title": "Lead Gen Campaign and How to create Lead Gen Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8duJ76tFBTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8duJ76tFBTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8duJ76tFBTk/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-133",
+          "title": "How to Setup Pixel and Re-marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qadsqj63BT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qadsqj63BT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qadsqj63BT/video.m3u8",
+          "duration": 1846,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-35",
+          "title": "Meta Ads Manager Campaign Setup",
+          "url": "https://docs.google.com/document/d/1JxZH51_msEa2z2VnQ-7lXABlOuqch2iI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JxZH51_msEa2z2VnQ-7lXABlOuqch2iI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JxZH51_msEa2z2VnQ-7lXABlOuqch2iI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JxZH51_msEa2z2VnQ-7lXABlOuqch2iI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linkedin Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-134",
+          "title": "Introduction to the Linkedin Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnhJANc77T7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnhJANc77T7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnhJANc77T7/video.m3u8",
+          "duration": 995,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-135",
+          "title": "Deep Dive into the Linkedin Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgfjXNzyPu6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgfjXNzyPu6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgfjXNzyPu6/video.m3u8",
+          "duration": 1331,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-136",
+          "title": "How to create Linkedin Page",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F2fSsG92B8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F2fSsG92B8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F2fSsG92B8/video.m3u8",
+          "duration": 305,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-37",
+          "title": "LinkedIn Marketing Ad Campaign",
+          "url": "https://docs.google.com/document/d/1AhdZrWuXC0wXA2doWtT8CrMjwx0-M_-w/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1AhdZrWuXC0wXA2doWtT8CrMjwx0-M_-w/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1AhdZrWuXC0wXA2doWtT8CrMjwx0-M_-w/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1AhdZrWuXC0wXA2doWtT8CrMjwx0-M_-w/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Twitter Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-137",
+          "title": "Twitter - Accout and Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUBnQd55GKp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUBnQd55GKp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUBnQd55GKp/video.m3u8",
+          "duration": 1306,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-138",
+          "title": "How to Find out the trensing topic on X",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j4Dt6ytD6M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j4Dt6ytD6M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j4Dt6ytD6M/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-139",
+          "title": "How to do Thread Posting on X",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39z2StpM9Xk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39z2StpM9Xk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39z2StpM9Xk/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-39",
+          "title": "X (Twitter) Marketing",
+          "url": "https://docs.google.com/document/d/1t8aumHtdPzgk2hKkETXQW7CkPTdu7rQa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1t8aumHtdPzgk2hKkETXQW7CkPTdu7rQa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1t8aumHtdPzgk2hKkETXQW7CkPTdu7rQa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1t8aumHtdPzgk2hKkETXQW7CkPTdu7rQa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Whatsapp Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-140",
+          "title": "Introduction to Whatsap Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bKcdMkGBxK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bKcdMkGBxK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bKcdMkGBxK/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-141",
+          "title": "Deep Dive into the Whatsapp Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7stuHqete5s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7stuHqete5s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7stuHqete5s/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-41",
+          "title": "WhatsApp Marketing Setup",
+          "url": "https://docs.google.com/document/d/1MakSyplSRALEGUA5P202b3VbDnk1a8GZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MakSyplSRALEGUA5P202b3VbDnk1a8GZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MakSyplSRALEGUA5P202b3VbDnk1a8GZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MakSyplSRALEGUA5P202b3VbDnk1a8GZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pinterest Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-142",
+          "title": "Intro to Pinterest",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZyrzf6JcjT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZyrzf6JcjT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZyrzf6JcjT/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-143",
+          "title": "Deep Dive into the Pinterest Marketing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AEE3JUbeGZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AEE3JUbeGZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AEE3JUbeGZ/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-43",
+          "title": "Pinterest Marketing",
+          "url": "https://docs.google.com/document/d/1q46_79_xwbuDp_nXk2KATTh3gKfkuFNV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1q46_79_xwbuDp_nXk2KATTh3gKfkuFNV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1q46_79_xwbuDp_nXk2KATTh3gKfkuFNV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1q46_79_xwbuDp_nXk2KATTh3gKfkuFNV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linkedin ads",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-144",
+          "title": "Linkedin Campaign Manaager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hh5N2D6ZTh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hh5N2D6ZTh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hh5N2D6ZTh/video.m3u8",
+          "duration": 522,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-145",
+          "title": "Campaign Set-Up",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UFcUNayZ3M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UFcUNayZ3M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UFcUNayZ3M/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Google Ads & Paid Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-146",
+          "title": "Into of Google_ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62CTnnnDyM3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62CTnnnDyM3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62CTnnnDyM3/video.m3u8",
+          "duration": 1273,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-147",
+          "title": "Types of Ads in Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSktQCEr2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSktQCEr2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSktQCEr2E/video.m3u8",
+          "duration": 1836,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-148",
+          "title": "How to Create Google Ads Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S38HRuBbgS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S38HRuBbgS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S38HRuBbgS/video.m3u8",
+          "duration": 1038,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-149",
+          "title": "Structure of Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TehZuagGrc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TehZuagGrc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TehZuagGrc/video.m3u8",
+          "duration": 1909,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-150",
+          "title": "Structure Category of Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5TXbXqnmN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5TXbXqnmN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5TXbXqnmN/video.m3u8",
+          "duration": 166,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-151",
+          "title": "How to Give Acces of Google Ad Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkJttnKMAUk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkJttnKMAUk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkJttnKMAUk/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-152",
+          "title": "Basic Google Ads Terminologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PcyTFhjsDm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PcyTFhjsDm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PcyTFhjsDm/video.m3u8",
+          "duration": 654,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-153",
+          "title": "Objectives and Campaigns of Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cshjTTgzkx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cshjTTgzkx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cshjTTgzkx/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Search Ads Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-154",
+          "title": "How to Setup Search Ads Name convention and bidding Strategy_Hindiseries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BepntmdR4C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BepntmdR4C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BepntmdR4C/video.m3u8",
+          "duration": 1886,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-155",
+          "title": "Google Ads Campaign Setting and Location Setting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JDagbzUp3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JDagbzUp3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JDagbzUp3c/video.m3u8",
+          "duration": 1467,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-156",
+          "title": "Google Ads _language and Audience Segment setting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NKU9aK4crQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NKU9aK4crQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NKU9aK4crQ/video.m3u8",
+          "duration": 1602,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-157",
+          "title": "AI Keyword and Asset Generation in Google Ads hindifinal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/546YkheCCNk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/546YkheCCNk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/546YkheCCNk/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-158",
+          "title": "How to do Keyword Research using Keyword Planner Tool in Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A32H4ZZGakY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A32H4ZZGakY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A32H4ZZGakY/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-159",
+          "title": "Types of Keywords Matches in Search Ads ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/623hMRFJAEE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/623hMRFJAEE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/623hMRFJAEE/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-160",
+          "title": "Headlines and Description of Search Ads ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrSpqDGTcfr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrSpqDGTcfr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrSpqDGTcfr/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-161",
+          "title": "What is Extensions in Search Ads _ Final ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MSjd7KQsRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MSjd7KQsRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MSjd7KQsRg/video.m3u8",
+          "duration": 1175,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-162",
+          "title": "How to set Budget in Search Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55faaRtfBbt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55faaRtfBbt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55faaRtfBbt/video.m3u8",
+          "duration": 1971,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-163",
+          "title": "Types of Ad Group in Search ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K2zzyJDTr8n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K2zzyJDTr8n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K2zzyJDTr8n/video.m3u8",
+          "duration": 902,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-164",
+          "title": "How to Check Quality Score and Ad Ranking in Search Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ankn9sn5HJC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ankn9sn5HJC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ankn9sn5HJC/video.m3u8",
+          "duration": 1368,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-47",
+          "title": "Google Ads Account Setup Search Campaign",
+          "url": "https://docs.google.com/document/d/1eWauoCFWPqBdllNYYN8BckDXhEnGkm-m/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1eWauoCFWPqBdllNYYN8BckDXhEnGkm-m/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1eWauoCFWPqBdllNYYN8BckDXhEnGkm-m/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1eWauoCFWPqBdllNYYN8BckDXhEnGkm-m/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Display Ads Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-165",
+          "title": "Introduction to the Display Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93fSk6sNFq9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93fSk6sNFq9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93fSk6sNFq9/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-166",
+          "title": "Display Campaign - Walkthorugh",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAk3723qCq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAk3723qCq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAk3723qCq3/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-167",
+          "title": "How to Create the Display Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUB2QYxUjTb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUB2QYxUjTb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUB2QYxUjTb/video.m3u8",
+          "duration": 1448,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-168",
+          "title": "Ad Group Targeting in Display Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gxk6CDBez6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gxk6CDBez6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gxk6CDBez6/video.m3u8",
+          "duration": 1579,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-169",
+          "title": "Targeting Options of Display Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7qXthybPFm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7qXthybPFm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7qXthybPFm/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-170",
+          "title": "Ad Copy in Display Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Df98xS2BrC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Df98xS2BrC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Df98xS2BrC/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-49",
+          "title": "Display Advertising Campaign",
+          "url": "https://docs.google.com/document/d/1Zx6aZHqU6QY7JsXm7isKCC1b_7ZWQS7W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Zx6aZHqU6QY7JsXm7isKCC1b_7ZWQS7W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Zx6aZHqU6QY7JsXm7isKCC1b_7ZWQS7W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Zx6aZHqU6QY7JsXm7isKCC1b_7ZWQS7W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Video Advertising",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-171",
+          "title": "Introduction to Video Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CmM3AJfSa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CmM3AJfSa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CmM3AJfSa/video.m3u8",
+          "duration": 1192,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-172",
+          "title": "Pre- Requirments to Launch Video Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YbnJaqxZ94/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YbnJaqxZ94/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YbnJaqxZ94/video.m3u8",
+          "duration": 894,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-173",
+          "title": "How to Connect Youtube Channel with Google Ad Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZUBS3Ny3Pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZUBS3Ny3Pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZUBS3Ny3Pa/video.m3u8",
+          "duration": 404,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-174",
+          "title": "Campaign Level of Video Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66jrRzgBS6u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66jrRzgBS6u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66jrRzgBS6u/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-175",
+          "title": "Ad Group Level of Video ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnmjUtzUKK3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnmjUtzUKK3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnmjUtzUKK3/video.m3u8",
+          "duration": 1416,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-176",
+          "title": "Types of Video Ads Format in Video Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JTA9ncRYz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JTA9ncRYz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JTA9ncRYz/video.m3u8",
+          "duration": 1278,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-177",
+          "title": "How to Calculate CPV in Video Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DX4MYxa7AU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DX4MYxa7AU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DX4MYxa7AU/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-51",
+          "title": "Video Advertising Campaign",
+          "url": "https://docs.google.com/document/d/1yOgjzBFkkluwomfDMJ3sewk9xzHdsTQj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1yOgjzBFkkluwomfDMJ3sewk9xzHdsTQj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1yOgjzBFkkluwomfDMJ3sewk9xzHdsTQj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1yOgjzBFkkluwomfDMJ3sewk9xzHdsTQj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "App Promotio Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-178",
+          "title": "Introduction to App Promotion Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E7abqDBPTf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E7abqDBPTf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3E7abqDBPTf/video.m3u8",
+          "duration": 702,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-179",
+          "title": "How to Setup App Promotion Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qPyu57MkTh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qPyu57MkTh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qPyu57MkTh/video.m3u8",
+          "duration": 1916,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-180",
+          "title": "App Store Optimization [ASO]",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPurXfJJxaX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPurXfJJxaX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPurXfJJxaX/video.m3u8",
+          "duration": 905,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-53",
+          "title": "App Promotion Shopping Campaign",
+          "url": "https://docs.google.com/document/d/168WhJcMa_Yo3pp1FgwfSJS3YMo5Xvy3o/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/168WhJcMa_Yo3pp1FgwfSJS3YMo5Xvy3o/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/168WhJcMa_Yo3pp1FgwfSJS3YMo5Xvy3o/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/168WhJcMa_Yo3pp1FgwfSJS3YMo5Xvy3o/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Shopping Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-181",
+          "title": "Introduction to Shopping Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/876xt4XY6ft/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/876xt4XY6ft/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/876xt4XY6ft/video.m3u8",
+          "duration": 852,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-182",
+          "title": "Google Merchant Center - How to upload the Product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By7NjUzrsxt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By7NjUzrsxt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By7NjUzrsxt/video.m3u8",
+          "duration": 1752,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-183",
+          "title": "How to Setup Shopping Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/emU43bruDe2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/emU43bruDe2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/emU43bruDe2/video.m3u8",
+          "duration": 889,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Performance Max Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-184",
+          "title": "Introduction to Pmax Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FA5zHPABqr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FA5zHPABqr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FA5zHPABqr/video.m3u8",
+          "duration": 1179,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-185",
+          "title": "How to Setup Pmax Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A7tmfeqczu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A7tmfeqczu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A7tmfeqczu/video.m3u8",
+          "duration": 1133,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-56",
+          "title": "Performance Max Demand Gen Campaign",
+          "url": "https://docs.google.com/document/d/1hkFvDJj8LImdIZbaVYGRbabLPBsAiFf0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hkFvDJj8LImdIZbaVYGRbabLPBsAiFf0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hkFvDJj8LImdIZbaVYGRbabLPBsAiFf0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hkFvDJj8LImdIZbaVYGRbabLPBsAiFf0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Demand Gen Campaign",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-186",
+          "title": "Demand Gen Campaign",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzfxAqSTKhs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzfxAqSTKhs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzfxAqSTKhs/video.m3u8",
+          "duration": 1418,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Strategy of Google ADS",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-187",
+          "title": "Strategy of Google Ads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qKqhMCRnhQf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qKqhMCRnhQf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qKqhMCRnhQf/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-59",
+          "title": "Google Ads Strategy Media Planning",
+          "url": "https://docs.google.com/document/d/1aZ-28PJiNlP8FfSgaSn87wgDjzCPDIe4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aZ-28PJiNlP8FfSgaSn87wgDjzCPDIe4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aZ-28PJiNlP8FfSgaSn87wgDjzCPDIe4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aZ-28PJiNlP8FfSgaSn87wgDjzCPDIe4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Google Tag Manager",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-188",
+          "title": "Google Tag Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aMafydGyPQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aMafydGyPQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aMafydGyPQ/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-61",
+          "title": "Google Tag Manager Setup",
+          "url": "https://docs.google.com/document/d/1HcqVWhQxtrASCNBhNhSq0EnCnpfWMziV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1HcqVWhQxtrASCNBhNhSq0EnCnpfWMziV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1HcqVWhQxtrASCNBhNhSq0EnCnpfWMziV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1HcqVWhQxtrASCNBhNhSq0EnCnpfWMziV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Google Business Profile",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-189",
+          "title": "Intro to Local SEO",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q8XDayHPQj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q8XDayHPQj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q8XDayHPQj/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-190",
+          "title": "What is Local SEO and How to Create GBP Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xbGD3N85dQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xbGD3N85dQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xbGD3N85dQ/video.m3u8",
+          "duration": 1715,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-63",
+          "title": "Google Business Profile Local SEO",
+          "url": "https://docs.google.com/document/d/1nHmp2E_ATmaTlYpleZ2oytPX8rx6Gy6F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1nHmp2E_ATmaTlYpleZ2oytPX8rx6Gy6F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1nHmp2E_ATmaTlYpleZ2oytPX8rx6Gy6F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1nHmp2E_ATmaTlYpleZ2oytPX8rx6Gy6F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Tools for Digital-Marketing",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-191",
+          "title": "Intro to the AI Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fb4D3GcMCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fb4D3GcMCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fb4D3GcMCY/video.m3u8",
+          "duration": 911,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-192",
+          "title": "How to create videos and Content Using AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nsuB7S4BaS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nsuB7S4BaS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nsuB7S4BaS/video.m3u8",
+          "duration": 1594,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-193",
+          "title": "AI Reels creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbGQkzcgtt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbGQkzcgtt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbGQkzcgtt/video.m3u8",
+          "duration": 735,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-194",
+          "title": "Introducing Hey GEN Ai tool",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zfz2JFafY4N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zfz2JFafY4N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zfz2JFafY4N/video.m3u8",
+          "duration": 217,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-65",
+          "title": "AI Tools for Digital Marketing ",
+          "url": "https://docs.google.com/document/d/1SEea9qjXZr6VItXYbPdx7KC9JSlIozmJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1SEea9qjXZr6VItXYbPdx7KC9JSlIozmJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1SEea9qjXZr6VItXYbPdx7KC9JSlIozmJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1SEea9qjXZr6VItXYbPdx7KC9JSlIozmJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Google Analytics",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-195",
+          "title": "Into & History of Google Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M26883UkEk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M26883UkEk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M26883UkEk/video.m3u8",
+          "duration": 314,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-196",
+          "title": "Benefits of using GA-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AmxqZb3djS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AmxqZb3djS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AmxqZb3djS/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-197",
+          "title": "How to create Google Analytics Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHfmbxZTec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHfmbxZTec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHfmbxZTec/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-198",
+          "title": "Track Leads",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rpxxaqhpJy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rpxxaqhpJy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rpxxaqhpJy/video.m3u8",
+          "duration": 1253,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-199",
+          "title": "Track campaigns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctkTyJNXGt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctkTyJNXGt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ctkTyJNXGt/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-200",
+          "title": "Analytics Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQk7E7Fems/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQk7E7Fems/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGQk7E7Fems/video.m3u8",
+          "duration": 631,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-67",
+          "title": "Google Analytics GA4 Setup Reporting",
+          "url": "https://docs.google.com/document/d/19JNa2q79i7RXoOEAGrhzbiGWUx---xSJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/19JNa2q79i7RXoOEAGrhzbiGWUx---xSJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/19JNa2q79i7RXoOEAGrhzbiGWUx---xSJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/19JNa2q79i7RXoOEAGrhzbiGWUx---xSJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Freelance & Placement",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-201",
+          "title": "How to create Account on Upwork Profile",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MYcMBxXSx5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MYcMBxXSx5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MYcMBxXSx5/video.m3u8",
+          "duration": 1670,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-202",
+          "title": "Introduction to the Fiverr Platform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GAXNT7QxjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GAXNT7QxjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GAXNT7QxjU/video.m3u8",
+          "duration": 1595,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CV and Portfolio using AI",
+      "lectures": [
+        {
+          "id": "td-digitalmarketing-203",
+          "title": "How to create the CV",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APfQPcKzPCJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APfQPcKzPCJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APfQPcKzPCJ/video.m3u8",
+          "duration": 1142,
+          "type": "video"
+        },
+        {
+          "id": "td-digitalmarketing-204",
+          "title": "How to apply for the Job",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6akKMXmD6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6akKMXmD6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6akKMXmD6/video.m3u8",
+          "duration": 1875,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-digitalmarketing-70",
+          "title": "Capstone Freelance Profile Resume Building",
+          "url": "https://docs.google.com/document/d/1aE6LpeKSi8XqSzyuf1QJqIZWS_8p38bt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aE6LpeKSi8XqSzyuf1QJqIZWS_8p38bt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aE6LpeKSi8XqSzyuf1QJqIZWS_8p38bt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aE6LpeKSi8XqSzyuf1QJqIZWS_8p38bt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

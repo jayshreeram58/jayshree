@@ -1,0 +1,2826 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dataengineering",
+  "batchSlug": "dataengineering",
+  "batchName": "Data Engineering",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dataengineering.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dataengineering",
+  "totalSections": 50,
+  "totalLectures": 270,
+  "totalNotes": 8,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-dataengineering-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To Data Engineering",
+      "lectures": [
+        {
+          "id": "td-dataengineering-2",
+          "title": "Introduction to Data engineering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dkT3K8xKxm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dkT3K8xKxm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dkT3K8xKxm/video.m3u8",
+          "duration": 385,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-3",
+          "title": "What is SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AephyNMZUFT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AephyNMZUFT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AephyNMZUFT/video.m3u8",
+          "duration": 273,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-4",
+          "title": "Overview of Application Architecture and RDBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78yPrscrEb8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78yPrscrEb8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78yPrscrEb8/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-5",
+          "title": "Overview of Database Technologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BysTArkRSHa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BysTArkRSHa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BysTArkRSHa/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-6",
+          "title": "Purpose Built Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqETCsRPUFA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqETCsRPUFA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqETCsRPUFA/video.m3u8",
+          "duration": 672,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-7",
+          "title": "RDBMS vs Database Technologies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGHGxxcyZ9F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGHGxxcyZ9F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGHGxxcyZ9F/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Setting Up the System",
+      "lectures": [
+        {
+          "id": "td-dataengineering-8",
+          "title": "Setting up VS code and Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aRsSk8Mp3n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aRsSk8Mp3n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aRsSk8Mp3n/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-9",
+          "title": "Setting up MYSQL Server and PostgreSQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbDxkdENrJ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbDxkdENrJ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbDxkdENrJ3/video.m3u8",
+          "duration": 1156,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-10",
+          "title": "Setting up Jupyter Lab online",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SeScNbcfCj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SeScNbcfCj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SeScNbcfCj/video.m3u8",
+          "duration": 453,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to SQL Queries",
+      "lectures": [
+        {
+          "id": "td-dataengineering-11",
+          "title": "Starting with SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RCHkSNT8Yc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RCHkSNT8Yc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RCHkSNT8Yc/video.m3u8",
+          "duration": 855,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-12",
+          "title": "Relationship Model In SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/999QMyUgpaa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/999QMyUgpaa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/999QMyUgpaa/video.m3u8",
+          "duration": 763,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-13",
+          "title": "Creating the table in SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XzyM3hyCmx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XzyM3hyCmx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XzyM3hyCmx/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Manipulation Commands in SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-14",
+          "title": "Insert Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cCZtRm7AeG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cCZtRm7AeG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cCZtRm7AeG/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-15",
+          "title": "Update part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TaUy8fehs7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TaUy8fehs7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TaUy8fehs7/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-16",
+          "title": "Update part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fSAuUKjZB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fSAuUKjZB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85fSAuUKjZB/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-17",
+          "title": "Delete command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7juRU4JyUeN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7juRU4JyUeN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7juRU4JyUeN/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-18",
+          "title": "Drop and Truncate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KrJmbAZN8n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KrJmbAZN8n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KrJmbAZN8n/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-19",
+          "title": "Alter Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABTGM2DyaNp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABTGM2DyaNp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABTGM2DyaNp/video.m3u8",
+          "duration": 891,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-20",
+          "title": "Alter Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G9urJ3YZEQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G9urJ3YZEQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G9urJ3YZEQ/video.m3u8",
+          "duration": 828,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Retrieving Data in SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-21",
+          "title": "Retrieving data using Select and where",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yZ4BUpkN7e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yZ4BUpkN7e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yZ4BUpkN7e/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-22",
+          "title": "Sorting and using Alias",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJSSY6Qg8ub/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJSSY6Qg8ub/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJSSY6Qg8ub/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-23",
+          "title": "Limit and Select with Expression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hMs2zE6Gne/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hMs2zE6Gne/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hMs2zE6Gne/video.m3u8",
+          "duration": 319,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-24",
+          "title": "Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJb5RbQckrz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJb5RbQckrz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJb5RbQckrz/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Aggregation in SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-25",
+          "title": "Aggregation function part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dzmRKtk4Aa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dzmRKtk4Aa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dzmRKtk4Aa/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-26",
+          "title": "Aggregation Function part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tYaUEYH7hR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tYaUEYH7hR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tYaUEYH7hR/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joins in SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-27",
+          "title": "Types of joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53sN3k9MK9U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53sN3k9MK9U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53sN3k9MK9U/video.m3u8",
+          "duration": 887,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-28",
+          "title": "Inner join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPDFth8xZJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPDFth8xZJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xPDFth8xZJ/video.m3u8",
+          "duration": 802,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-29",
+          "title": "Left Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XsdFXcsUQf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XsdFXcsUQf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XsdFXcsUQf/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-30",
+          "title": "Right Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QQDpTe8JRtN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QQDpTe8JRtN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QQDpTe8JRtN/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-31",
+          "title": "Full Outer Join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kbgDbARyeJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kbgDbARyeJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kbgDbARyeJ/video.m3u8",
+          "duration": 522,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-32",
+          "title": "Self join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKNNTmTrspH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKNNTmTrspH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKNNTmTrspH/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-33",
+          "title": "Cross join",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARkZXRRaQuQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARkZXRRaQuQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARkZXRRaQuQ/video.m3u8",
+          "duration": 667,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Set Operators in SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-34",
+          "title": "Set Operator Part1mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUqbsM4zbG7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUqbsM4zbG7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUqbsM4zbG7/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-35",
+          "title": "Set Operator Part2mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D8PHxQkUds/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D8PHxQkUds/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D8PHxQkUds/video.m3u8",
+          "duration": 734,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Subqueries and Case Statements",
+      "lectures": [
+        {
+          "id": "td-dataengineering-36",
+          "title": "Subqueries Part4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MRkER7Y6sd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MRkER7Y6sd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MRkER7Y6sd/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-37",
+          "title": "Subqueries Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SzpMj8qJuGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SzpMj8qJuGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SzpMj8qJuGY/video.m3u8",
+          "duration": 884,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-38",
+          "title": "Subqueries Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pcEreNfjYxF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pcEreNfjYxF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pcEreNfjYxF/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-39",
+          "title": "Subqueries Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYrurcJp5jp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYrurcJp5jp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYrurcJp5jp/video.m3u8",
+          "duration": 560,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-40",
+          "title": "Case Statements Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Et3kNBfud2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Et3kNBfud2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Et3kNBfud2/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-41",
+          "title": "Case Statements Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tdqTFpasq2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tdqTFpasq2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tdqTFpasq2/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-42",
+          "title": "Case Statements Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mc7bh593MF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mc7bh593MF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mc7bh593MF/video.m3u8",
+          "duration": 622,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CTEs and Views",
+      "lectures": [
+        {
+          "id": "td-dataengineering-43",
+          "title": "CTEs Part1mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Dkx3Mqxkr2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Dkx3Mqxkr2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Dkx3Mqxkr2/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-44",
+          "title": "CTEs Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BtKkjCmu5Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BtKkjCmu5Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BtKkjCmu5Z/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-45",
+          "title": "Views Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mQmt5HZSQmc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mQmt5HZSQmc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mQmt5HZSQmc/video.m3u8",
+          "duration": 896,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-46",
+          "title": "View Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbDmSn3kMZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbDmSn3kMZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DbDmSn3kMZ/video.m3u8",
+          "duration": 355,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Topics",
+      "lectures": [
+        {
+          "id": "td-dataengineering-47",
+          "title": "Window Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzeGkr9JNCs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzeGkr9JNCs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzeGkr9JNCs/video.m3u8",
+          "duration": 887,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-48",
+          "title": "RowNumber(), Rank(), DenseRank()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MhRPueQCYc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MhRPueQCYc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MhRPueQCYc/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-49",
+          "title": "NTILE(), Lead(), Lag()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ununyfa3CaT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ununyfa3CaT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ununyfa3CaT/video.m3u8",
+          "duration": 853,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-50",
+          "title": "Window Functions examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N397H3kZ8y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N397H3kZ8y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N397H3kZ8y/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-51",
+          "title": "Stored Procedure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ8FbRFh8u3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ8FbRFh8u3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ8FbRFh8u3/video.m3u8",
+          "duration": 874,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-52",
+          "title": "Index",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeRuSuTAuHt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeRuSuTAuHt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeRuSuTAuHt/video.m3u8",
+          "duration": 755,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-53",
+          "title": "Mini Project Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4x6RbEgzUh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4x6RbEgzUh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4x6RbEgzUh/video.m3u8",
+          "duration": 884,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-54",
+          "title": "Mini Project Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MteAAjTU58/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MteAAjTU58/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MteAAjTU58/video.m3u8",
+          "duration": 876,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-13",
+          "title": "SQL MASTERY - The E-Commerce Analytics Challenge",
+          "url": "https://docs.google.com/document/d/1lUxGAWLXWVt3qEY_DOdSBtcSep_xgLodFIZIOeM2o54/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1lUxGAWLXWVt3qEY_DOdSBtcSep_xgLodFIZIOeM2o54/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1lUxGAWLXWVt3qEY_DOdSBtcSep_xgLodFIZIOeM2o54/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1lUxGAWLXWVt3qEY_DOdSBtcSep_xgLodFIZIOeM2o54/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Python Programming",
+      "lectures": [
+        {
+          "id": "td-dataengineering-55",
+          "title": "Introduction to Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ac7gudCH8NZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ac7gudCH8NZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ac7gudCH8NZ/video.m3u8",
+          "duration": 895,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-56",
+          "title": "Variables and Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tgQDpH6brn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tgQDpH6brn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tgQDpH6brn/video.m3u8",
+          "duration": 884,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-57",
+          "title": "Input and Output",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BskcUSZR4ut/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BskcUSZR4ut/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BskcUSZR4ut/video.m3u8",
+          "duration": 884,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-58",
+          "title": "Basic Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUUfs5eQcc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUUfs5eQcc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RUUfs5eQcc/video.m3u8",
+          "duration": 846,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-59",
+          "title": "Constants and Type casting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T79xkKHD4a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T79xkKHD4a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T79xkKHD4a/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Structures in Python",
+      "lectures": [
+        {
+          "id": "td-dataengineering-60",
+          "title": "Conditional Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ZSzg6TQyK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ZSzg6TQyK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ZSzg6TQyK/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-61",
+          "title": "Loop Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpjXtjC64ch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpjXtjC64ch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpjXtjC64ch/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-62",
+          "title": "Loop Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aQjeQPh63F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aQjeQPh63F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aQjeQPh63F/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-63",
+          "title": "Loop Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZRNNQ9eeKh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZRNNQ9eeKh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZRNNQ9eeKh/video.m3u8",
+          "duration": 254,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-64",
+          "title": "List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmA46kj85k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmA46kj85k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmA46kj85k/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-65",
+          "title": "Tuple and Dictionary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsNHXAZdeM4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsNHXAZdeM4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsNHXAZdeM4/video.m3u8",
+          "duration": 891,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-66",
+          "title": "Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k77MuETfzz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k77MuETfzz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k77MuETfzz/video.m3u8",
+          "duration": 905,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-67",
+          "title": "Mini project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dQkAjxNjN5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dQkAjxNjN5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dQkAjxNjN5/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Functions, Modules & File Handling",
+      "lectures": [
+        {
+          "id": "td-dataengineering-68",
+          "title": "Functions Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C78f2FXBMBg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C78f2FXBMBg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C78f2FXBMBg/video.m3u8",
+          "duration": 668,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-69",
+          "title": "Functions Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FM37tP7ymR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FM37tP7ymR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FM37tP7ymR/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-70",
+          "title": "Functions Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6XNNbBC8Mt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6XNNbBC8Mt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6XNNbBC8Mt/video.m3u8",
+          "duration": 882,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-71",
+          "title": "Project Calculator Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPUUsq5rQ94/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPUUsq5rQ94/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPUUsq5rQ94/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-72",
+          "title": "Project Calculator Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uJzMTFHbjK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uJzMTFHbjK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uJzMTFHbjK/video.m3u8",
+          "duration": 567,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-73",
+          "title": "Modules Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gyUuKu82Bc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gyUuKu82Bc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gyUuKu82Bc/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-74",
+          "title": "Modules part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AFsKFHe27Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AFsKFHe27Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AFsKFHe27Y/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-75",
+          "title": "Module Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RM68aAzqs3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RM68aAzqs3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RM68aAzqs3/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-76",
+          "title": "File Handling Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gTjFUhgjg2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gTjFUhgjg2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gTjFUhgjg2/video.m3u8",
+          "duration": 899,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-77",
+          "title": "File Handling Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4sTcP8ak4t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4sTcP8ak4t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4sTcP8ak4t/video.m3u8",
+          "duration": 150,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-78",
+          "title": "Error Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jXMyspM6Qg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jXMyspM6Qg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jXMyspM6Qg/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Collections for Data Engineering",
+      "lectures": [
+        {
+          "id": "td-dataengineering-79",
+          "title": "File I_O using Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TAfYsQRXbu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TAfYsQRXbu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TAfYsQRXbu/video.m3u8",
+          "duration": 789,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-80",
+          "title": "Read Data from CSV into python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae26Pju493D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae26Pju493D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae26Pju493D/video.m3u8",
+          "duration": 700,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-81",
+          "title": "Python Collectionsmp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMfGrA6m6st/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMfGrA6m6st/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hMfGrA6m6st/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-82",
+          "title": "Processing Python List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ejEA2zs7Fe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ejEA2zs7Fe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ejEA2zs7Fe/video.m3u8",
+          "duration": 669,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-83",
+          "title": "Lambda Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6BAYN5Z4x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6BAYN5Z4x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6BAYN5Z4x/video.m3u8",
+          "duration": 830,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-84",
+          "title": "Filter data in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArYUpcsKESF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArYUpcsKESF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArYUpcsKESF/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-85",
+          "title": "Manipulating List using set()mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2d2Fq5mepe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2d2Fq5mepe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2d2Fq5mepe/video.m3u8",
+          "duration": 739,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-86",
+          "title": "Sort() & Overview of json strings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/476XZ93UjnB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/476XZ93UjnB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/476XZ93UjnB/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-87",
+          "title": "Reading data from json files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88MDChMTsBF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88MDChMTsBF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88MDChMTsBF/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-88",
+          "title": "Extracting column from json file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/779UFtqha46/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/779UFtqha46/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/779UFtqha46/video.m3u8",
+          "duration": 486,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Processing using Pandas",
+      "lectures": [
+        {
+          "id": "td-dataengineering-89",
+          "title": "Overview of pandas for Data Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMqcNUQcygR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMqcNUQcygR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMqcNUQcygR/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-90",
+          "title": "Pandas Dataframe functionalities",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zeqTQUMSpP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zeqTQUMSpP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zeqTQUMSpP/video.m3u8",
+          "duration": 858,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-91",
+          "title": "Aggregation using pandas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75bt3QMsFG7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75bt3QMsFG7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75bt3QMsFG7/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-92",
+          "title": "Joining data using pandas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rDFZJFds4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rDFZJFds4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rDFZJFds4d/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-93",
+          "title": "Summarizing Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TrPDMhSc2N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TrPDMhSc2N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TrPDMhSc2N/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-94",
+          "title": "Aggregation on Join Results Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZmQpjYguRs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZmQpjYguRs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZmQpjYguRs/video.m3u8",
+          "duration": 430,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-95",
+          "title": "Aggregation on Join Results Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bE7dX6Kf5R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bE7dX6Kf5R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bE7dX6Kf5R/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-96",
+          "title": "Aggregation on Join Results Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cjH5gUx774/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cjH5gUx774/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cjH5gUx774/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-97",
+          "title": "Sort data using pandas dataframe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/532QEkFN3s9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/532QEkFN3s9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/532QEkFN3s9/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-98",
+          "title": "Exporting data to JSON files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XeXzCd36xX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XeXzCd36xX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XeXzCd36xX/video.m3u8",
+          "duration": 178,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project1: File Format Converter",
+      "lectures": [
+        {
+          "id": "td-dataengineering-99",
+          "title": "Overview of the files to be processed",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yyqzpUmDbX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yyqzpUmDbX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yyqzpUmDbX/video.m3u8",
+          "duration": 830,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-100",
+          "title": "Working with regular expressions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX2xxyq6aj3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX2xxyq6aj3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX2xxyq6aj3/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-101",
+          "title": "Getting Column names from the data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8neE2QSu4T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8neE2QSu4T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8neE2QSu4T/video.m3u8",
+          "duration": 895,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-102",
+          "title": "Generating File paths and writing dataframe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bu8HcXdXdj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bu8HcXdXdj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bu8HcXdXdj/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-103",
+          "title": "Recap of the Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtQ6CXNb6Zy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtQ6CXNb6Zy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtQ6CXNb6Zy/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-104",
+          "title": "Writing pandas dataframe to JSON file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qCNctRfDDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qCNctRfDDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qCNctRfDDx/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-105",
+          "title": "Converting csv to json",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jZS88qu8mj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jZS88qu8mj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jZS88qu8mj/video.m3u8",
+          "duration": 883,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-106",
+          "title": "Modularize File Format Converter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49AyfFrusc5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49AyfFrusc5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49AyfFrusc5/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-107",
+          "title": "Wrapping up the Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uXm4Jjsc6c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uXm4Jjsc6c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uXm4Jjsc6c/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-108",
+          "title": "Runtime Arguments part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KrTdG84dYp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KrTdG84dYp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KrTdG84dYp/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-109",
+          "title": "Runtime Arguments part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q4GC8TK7bqp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q4GC8TK7bqp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q4GC8TK7bqp/video.m3u8",
+          "duration": 545,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-110",
+          "title": "Environment variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y68EYSYaGn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y68EYSYaGn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y68EYSYaGn/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project 2: File to Database Loader",
+      "lectures": [
+        {
+          "id": "td-dataengineering-111",
+          "title": "Configuring sql to python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK6K3QRybxd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK6K3QRybxd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AK6K3QRybxd/video.m3u8",
+          "duration": 853,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-112",
+          "title": "Connecting to the database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eQQSFPn4CF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eQQSFPn4CF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eQQSFPn4CF/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-113",
+          "title": "Validate pandas and SQL integration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B5JC3g6cUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B5JC3g6cUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B5JC3g6cUM/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-114",
+          "title": "Write CSV data to tables in chunks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ZQkzgAxqq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ZQkzgAxqq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ZQkzgAxqq/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-115",
+          "title": "Project ready for deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zEdhFFkKs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zEdhFFkKs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zEdhFFkKs/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Troubleshoot and Debugging Python Issues",
+      "lectures": [
+        {
+          "id": "td-dataengineering-116",
+          "title": "Troubleshooting and Debugging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xbt8rPdbbB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xbt8rPdbbB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xbt8rPdbbB/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-117",
+          "title": "Troubleshooting Database connectivity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6N9Sn3cgU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6N9Sn3cgU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6N9Sn3cgU/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-118",
+          "title": "Troubleshooting Credentials for Database connectivity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rubeN4fq9M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rubeN4fq9M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rubeN4fq9M/video.m3u8",
+          "duration": 899,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-119",
+          "title": "Troubleshooting Errors in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sS7edSFtDJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sS7edSFtDJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sS7edSFtDJ/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-120",
+          "title": "Overview of SDLC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RXG5Fm4CXt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RXG5Fm4CXt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RXG5Fm4CXt/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-121",
+          "title": "Unit Testing & Debugging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MC78ukShZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MC78ukShZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37MC78ukShZ/video.m3u8",
+          "duration": 870,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-22",
+          "title": "PYTHON FOR DATA ENGINEERING - The Data Pipeline Builder",
+          "url": "https://docs.google.com/document/d/19aPcUMEQRnP41uefAwfrZr_w23QL2u7WjXWxKpn4ZuM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/19aPcUMEQRnP41uefAwfrZr_w23QL2u7WjXWxKpn4ZuM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/19aPcUMEQRnP41uefAwfrZr_w23QL2u7WjXWxKpn4ZuM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/19aPcUMEQRnP41uefAwfrZr_w23QL2u7WjXWxKpn4ZuM/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Overview of Performance Tunning in Python",
+      "lectures": [
+        {
+          "id": "td-dataengineering-122",
+          "title": "Introduction to Performance of Python Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fQdQNJKJ7N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fQdQNJKJ7N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fQdQNJKJ7N/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-123",
+          "title": "Setting up Database Loader",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K2sfDa7Af4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K2sfDa7Af4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K2sfDa7Af4/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-124",
+          "title": "Cleaning the data and Performance Tunning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uyjA8Bx8AU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uyjA8Bx8AU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uyjA8Bx8AU/video.m3u8",
+          "duration": 899,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-125",
+          "title": "Performance Tunning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53xNsgBbYGH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53xNsgBbYGH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53xNsgBbYGH/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-126",
+          "title": "Loading Multi Files in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PmUyRXahF3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PmUyRXahF3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PmUyRXahF3/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-127",
+          "title": "Develop applications for Multiprocessing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XzaGK9DUAP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XzaGK9DUAP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XzaGK9DUAP/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-128",
+          "title": "Multiprocessing using python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CE2MzkguPY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CE2MzkguPY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CE2MzkguPY/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-129",
+          "title": "Introduction to Parallel Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MCRC5S9f9G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MCRC5S9f9G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MCRC5S9f9G/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-130",
+          "title": "Executing Parallel Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bZFSRftq9Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bZFSRftq9Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bZFSRftq9Y/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting started with GCP",
+      "lectures": [
+        {
+          "id": "td-dataengineering-131",
+          "title": "Introduction to Getting started with GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97qGaTMAhSS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97qGaTMAhSS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97qGaTMAhSS/video.m3u8",
+          "duration": 838,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-132",
+          "title": "Signing Up for GCP Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz5xX7XJTZm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz5xX7XJTZm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz5xX7XJTZm/video.m3u8",
+          "duration": 872,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-133",
+          "title": "Overview of Google cloud platform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HMD6GFejy8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HMD6GFejy8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HMD6GFejy8/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-134",
+          "title": "Overview of google cloud shell",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnZAHJzzxX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnZAHJzzxX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnZAHJzzxX/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-135",
+          "title": "Overview of Analytics services on GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Gy8rnC2buP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Gy8rnC2buP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Gy8rnC2buP/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Overview of Big Data and Data Lakes",
+      "lectures": [
+        {
+          "id": "td-dataengineering-136",
+          "title": "Database and Their Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeGsZcXcm2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeGsZcXcm2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeGsZcXcm2/video.m3u8",
+          "duration": 898,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-137",
+          "title": "Technologies for Different Databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PazQXXY9ar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PazQXXY9ar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PazQXXY9ar/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-138",
+          "title": "Usecase of different databases",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NNxf3QmYcE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NNxf3QmYcE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NNxf3QmYcE/video.m3u8",
+          "duration": 511,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-139",
+          "title": "Volume of different database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BjPYGdH7tz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BjPYGdH7tz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BjPYGdH7tz/video.m3u8",
+          "duration": 287,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-140",
+          "title": "Overview of Big data and its evaluation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZZz72KeP6R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZZz72KeP6R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZZz72KeP6R/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-141",
+          "title": "Data Lake using Hadoop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7GRzTDSjm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7GRzTDSjm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7GRzTDSjm3/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-142",
+          "title": "Overview of Modern Data Lakes on Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7kHfxBUdhb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7kHfxBUdhb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e7kHfxBUdhb/video.m3u8",
+          "duration": 900,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-143",
+          "title": "Implementation of Modern Data Lakes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ez3Ep8EkSzG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ez3Ep8EkSzG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ez3Ep8EkSzG/video.m3u8",
+          "duration": 209,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-144",
+          "title": "Implementation + Advantages of Modern Data Lakes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695Y35JJSkb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695Y35JJSkb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695Y35JJSkb/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Overview of Spark and Spark Architecture",
+      "lectures": [
+        {
+          "id": "td-dataengineering-145",
+          "title": "Overview of Data Processing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PHbDKNm4UB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PHbDKNm4UB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PHbDKNm4UB/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-146",
+          "title": "Setting up the Environment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANE8ZGHbEN3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANE8ZGHbEN3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANE8ZGHbEN3/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-147",
+          "title": "Code Examples of different Libraries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DEaBggHhZG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DEaBggHhZG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DEaBggHhZG/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-148",
+          "title": "Difference between libraries and Distributed Computing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CYNenmbE4E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CYNenmbE4E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CYNenmbE4E/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-149",
+          "title": "Example of Distributed Computing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PaaZgqebQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PaaZgqebQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PaaZgqebQc/video.m3u8",
+          "duration": 452,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-150",
+          "title": "Overview of Apache Spark Documentation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mqZ8QjPHRj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mqZ8QjPHRj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mqZ8QjPHRj/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-151",
+          "title": "Spark Key Features and Infrastructure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aFPq67HxdJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aFPq67HxdJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aFPq67HxdJ/video.m3u8",
+          "duration": 898,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-152",
+          "title": "Overview of Spark clusters and Key terms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mfHSfKP52y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mfHSfKP52y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mfHSfKP52y/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Setup Databricks Environment using GCP",
+      "lectures": [
+        {
+          "id": "td-dataengineering-153",
+          "title": "Overview of Databricks on GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9faabND4D6n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9faabND4D6n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9faabND4D6n/video.m3u8",
+          "duration": 628,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-154",
+          "title": "Signing up for Databricks on GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ayNK2Usq6h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ayNK2Usq6h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ayNK2Usq6h/video.m3u8",
+          "duration": 1026,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-155",
+          "title": "Resolving Workspace errors and creating cluster",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrA6jPAqSB5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrA6jPAqSB5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrA6jPAqSB5/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-156",
+          "title": "Setup Databricks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JdcgMKDuSh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JdcgMKDuSh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JdcgMKDuSh/video.m3u8",
+          "duration": 645,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-157",
+          "title": "Databricks Features and Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tMeRzRujQJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tMeRzRujQJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tMeRzRujQJ/video.m3u8",
+          "duration": 925,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-28",
+          "title": "Assignment 3",
+          "url": "https://drive.google.com/file/d/1r6BR5brrUGUidSSkS-HvtJn8QDvKA1N5/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1r6BR5brrUGUidSSkS-HvtJn8QDvKA1N5/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1r6BR5brrUGUidSSkS-HvtJn8QDvKA1N5/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1r6BR5brrUGUidSSkS-HvtJn8QDvKA1N5/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Basic Transformation using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-158",
+          "title": "Processing Data in databricks using spark",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SCdKGHXrfJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SCdKGHXrfJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SCdKGHXrfJ/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-159",
+          "title": "Getting started with Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F7xZQEHMM7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F7xZQEHMM7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F7xZQEHMM7/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-160",
+          "title": "Create views and retrieve them using Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YqMuUG8Mcb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YqMuUG8Mcb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YqMuUG8Mcb/video.m3u8",
+          "duration": 1723,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-161",
+          "title": "Spark SQL Query to compute Daily Product Revenue",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dHT6Tk8RPD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dHT6Tk8RPD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dHT6Tk8RPD/video.m3u8",
+          "duration": 1503,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-162",
+          "title": "Overview of pyspark and Reading json files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AkTnnrpPCt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AkTnnrpPCt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AkTnnrpPCt/video.m3u8",
+          "duration": 1164,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-163",
+          "title": "Get Schema details using pyspark",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bGfQYpkEhh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bGfQYpkEhh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bGfQYpkEhh/video.m3u8",
+          "duration": 873,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-164",
+          "title": "Writing a function using Pyspark Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99NGj65QxBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99NGj65QxBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99NGj65QxBK/video.m3u8",
+          "duration": 1917,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Create Delta tables using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-165",
+          "title": "Understanding delta tables and Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44R8YrfFA3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44R8YrfFA3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44R8YrfFA3/video.m3u8",
+          "duration": 1188,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-166",
+          "title": "Creating Delta tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YDHbm2cHnK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YDHbm2cHnK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YDHbm2cHnK/video.m3u8",
+          "duration": 1003,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-167",
+          "title": "Copy data from external file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PM5CSuMscm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PM5CSuMscm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PM5CSuMscm/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-168",
+          "title": "Performing operations in delta tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxFReYFyAQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxFReYFyAQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxFReYFyAQ/video.m3u8",
+          "duration": 1334,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pre-defined Functions in Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-169",
+          "title": "Overview of Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpC4SzjfDH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpC4SzjfDH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpC4SzjfDH/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-170",
+          "title": "Describe Functions in Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqxNyknhCCQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqxNyknhCCQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqxNyknhCCQ/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-171",
+          "title": "Case Conversion Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u8rHRRheNj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u8rHRRheNj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u8rHRRheNj/video.m3u8",
+          "duration": 934,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-172",
+          "title": "Extracting Data using Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTmZD4dzn2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTmZD4dzn2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTmZD4dzn2/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-173",
+          "title": "Trimming and Padding Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G5aZAzPA7N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G5aZAzPA7N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G5aZAzPA7N/video.m3u8",
+          "duration": 929,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-174",
+          "title": "Reverse and Concatenation functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qez6gKudJ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qez6gKudJ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qez6gKudJ3/video.m3u8",
+          "duration": 814,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-175",
+          "title": "Date Manipulation Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzZuFGBHz3b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzZuFGBHz3b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzZuFGBHz3b/video.m3u8",
+          "duration": 1388,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-176",
+          "title": "Beginning Date or Time Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rKGbCFaDx6Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rKGbCFaDx6Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rKGbCFaDx6Z/video.m3u8",
+          "duration": 569,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-177",
+          "title": "Extracting information using date_format Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TbaQ78pgGr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TbaQ78pgGr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TbaQ78pgGr/video.m3u8",
+          "duration": 1133,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-178",
+          "title": "Extracting information using date_format Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H5SGTx8QQMM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H5SGTx8QQMM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H5SGTx8QQMM/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-179",
+          "title": "Calendar Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DbQ7nmMFtD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DbQ7nmMFtD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DbQ7nmMFtD/video.m3u8",
+          "duration": 626,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-180",
+          "title": "Dealing with Unix Timestamp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XpU5rPsB3j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XpU5rPsB3j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XpU5rPsB3j/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-181",
+          "title": "Mathematical Functions Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SAkaqT4Z6cy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SAkaqT4Z6cy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SAkaqT4Z6cy/video.m3u8",
+          "duration": 1286,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-182",
+          "title": "Mathematical Functions Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gKQ4bmxKqE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gKQ4bmxKqE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gKQ4bmxKqE/video.m3u8",
+          "duration": 1036,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-183",
+          "title": "Miscellaneous Functions Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esb83rNshp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esb83rNshp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esb83rNshp/video.m3u8",
+          "duration": 1339,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-184",
+          "title": "Miscellaneous Functions Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SsRdyragC5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SsRdyragC5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SsRdyragC5/video.m3u8",
+          "duration": 684,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-185",
+          "title": "Miscellaneous Functions Part3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BTXeyh2QAf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BTXeyh2QAf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BTXeyh2QAf/video.m3u8",
+          "duration": 1011,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-186",
+          "title": "CASE Statements Part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R5g29JfRf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R5g29JfRf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R5g29JfRf/video.m3u8",
+          "duration": 715,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-187",
+          "title": "CASE Statements Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ep65y3G3Ca/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ep65y3G3Ca/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ep65y3G3Ca/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-188",
+          "title": "Word count Query part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ba9agnk9Km/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ba9agnk9Km/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ba9agnk9Km/video.m3u8",
+          "duration": 254,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-189",
+          "title": "Word count query Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nmffFrPmGc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nmffFrPmGc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nmffFrPmGc/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-190",
+          "title": "Practice Exercise1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APZPqp5HdRq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APZPqp5HdRq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APZPqp5HdRq/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-191",
+          "title": "Practice Exercise2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56cmueuXbrt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56cmueuXbrt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56cmueuXbrt/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-192",
+          "title": "Practice Exercise3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UrchcKBZhe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UrchcKBZhe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UrchcKBZhe/video.m3u8",
+          "duration": 703,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-193",
+          "title": "Practice Exercise4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fCpktR6ZXH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fCpktR6ZXH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fCpktR6ZXH/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-194",
+          "title": "Practice Exercise5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASXsskEEDM3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASXsskEEDM3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASXsskEEDM3/video.m3u8",
+          "duration": 885,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-195",
+          "title": "Practice Exercise6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3bHy83zBBr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3bHy83zBBr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3bHy83zBBr/video.m3u8",
+          "duration": 1041,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-196",
+          "title": "Practice Exercise7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGq7n7aAKe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGq7n7aAKe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGq7n7aAKe/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-197",
+          "title": "Practice Exercise8-",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AadJEAEhg3p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AadJEAEhg3p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AadJEAEhg3p/video.m3u8",
+          "duration": 794,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Setup Spark Tables for Basic Transformations",
+      "lectures": [
+        {
+          "id": "td-dataengineering-198",
+          "title": "Introduction to transformation using Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59UnBgBAzF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59UnBgBAzF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59UnBgBAzF6/video.m3u8",
+          "duration": 1481,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Filtering Data using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-199",
+          "title": "Filtering using Spark SQL part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jqeeDtqnj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jqeeDtqnj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jqeeDtqnj/video.m3u8",
+          "duration": 2199,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-200",
+          "title": "Filtering using Spark SQL Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ffSqbQKm6fR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ffSqbQKm6fR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ffSqbQKm6fR/video.m3u8",
+          "duration": 224,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Aggregations using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-201",
+          "title": "Aggregation using Spark SQL part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35uUfzy4qyk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35uUfzy4qyk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35uUfzy4qyk/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-202",
+          "title": "Aggregation using Spark SQL part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QY7fbMA7Pr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QY7fbMA7Pr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QY7fbMA7Pr/video.m3u8",
+          "duration": 1707,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joins using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-203",
+          "title": "Joins using Spark SQL part1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F7c6sFtkFz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F7c6sFtkFz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F7c6sFtkFz/video.m3u8",
+          "duration": 1778,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-204",
+          "title": "Joins using Spark SQL part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EtAMTaduz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EtAMTaduz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EtAMTaduz9/video.m3u8",
+          "duration": 1135,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sorting using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-205",
+          "title": "Sorting using Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xD3Nq9cgsNz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xD3Nq9cgsNz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xD3Nq9cgsNz/video.m3u8",
+          "duration": 1132,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Copy Query Results into Spark Tables",
+      "lectures": [
+        {
+          "id": "td-dataengineering-206",
+          "title": "Copy Query Results using CTAS and INSERT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsrhkajnE8J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsrhkajnE8J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsrhkajnE8J/video.m3u8",
+          "duration": 1349,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-207",
+          "title": "Design Pipleline using CTAS and INSERT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DT6bAuGtKA6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DT6bAuGtKA6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DT6bAuGtKA6/video.m3u8",
+          "duration": 1042,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-208",
+          "title": "Copy Query Results using MERGE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U5bkzKyrbsk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U5bkzKyrbsk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/U5bkzKyrbsk/video.m3u8",
+          "duration": 966,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ranking using Spark SQL Windowing Functions",
+      "lectures": [
+        {
+          "id": "td-dataengineering-209",
+          "title": "Ranking using Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCXYthZEsh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCXYthZEsh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fCXYthZEsh/video.m3u8",
+          "duration": 1680,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-39",
+          "title": "Assignment 4",
+          "url": "https://drive.google.com/file/d/1qImNCEP2FXb-msA_zD7WILkHluT3Op7i/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1qImNCEP2FXb-msA_zD7WILkHluT3Op7i/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1qImNCEP2FXb-msA_zD7WILkHluT3Op7i/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1qImNCEP2FXb-msA_zD7WILkHluT3Op7i/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Processing JSON like data using Spark SQL",
+      "lectures": [
+        {
+          "id": "td-dataengineering-210",
+          "title": "Creating Tables with Array type Columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZE4XmyfK3h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZE4XmyfK3h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZE4XmyfK3h/video.m3u8",
+          "duration": 1416,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-211",
+          "title": "Creating and Dealing with Array of Struct Type columns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zagdR6ZTJb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zagdR6ZTJb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zagdR6ZTJb/video.m3u8",
+          "duration": 1351,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-212",
+          "title": "Overview of Functions to Process Data in Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HBrRrPEtgp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HBrRrPEtgp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HBrRrPEtgp/video.m3u8",
+          "duration": 1810,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-213",
+          "title": "Processing Delimited strings using Spark SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTXHMPEtkSG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTXHMPEtkSG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTXHMPEtkSG/video.m3u8",
+          "duration": 487,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started with Pyspark DataFrame APIs",
+      "lectures": [
+        {
+          "id": "td-dataengineering-214",
+          "title": "Introduction and Setup pf Pyspark",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6KueD77gfN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6KueD77gfN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6KueD77gfN/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-215",
+          "title": "Process schema details in json using pyspark",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KnhD7h7JXM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KnhD7h7JXM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KnhD7h7JXM/video.m3u8",
+          "duration": 766,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-216",
+          "title": "Transforming and Processing Schemas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sdyq6JjFcdz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sdyq6JjFcdz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sdyq6JjFcdz/video.m3u8",
+          "duration": 1169,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-217",
+          "title": "Convert CSV to Parquet with schema",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RnPDQmTgnq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RnPDQmTgnq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RnPDQmTgnq/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Create spark data frames using Pyspark",
+      "lectures": [
+        {
+          "id": "td-dataengineering-218",
+          "title": "Creating Spark DataFrame and Processing json-like data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bub2Fm6x5Nj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bub2Fm6x5Nj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bub2Fm6x5Nj/video.m3u8",
+          "duration": 1027,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-219",
+          "title": "Overview of Data Processing and DataFrame concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2RjRz6aafJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2RjRz6aafJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2RjRz6aafJ/video.m3u8",
+          "duration": 1221,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-220",
+          "title": "Advantages and Transformations of DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PUrMfmXGnN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PUrMfmXGnN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PUrMfmXGnN/video.m3u8",
+          "duration": 1429,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-221",
+          "title": "using withColumn() and Writing Dataframe to Delta Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/efXcJ6yc7EY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/efXcJ6yc7EY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/efXcJ6yc7EY/video.m3u8",
+          "duration": 789,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basic Transformation using Pyspark",
+      "lectures": [
+        {
+          "id": "td-dataengineering-222",
+          "title": "Overview of Transformations and withColumn usecase",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KYkrxkanky/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KYkrxkanky/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KYkrxkanky/video.m3u8",
+          "duration": 1298,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-223",
+          "title": "Filtering Data using PySpark DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7asnQFhQhF3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7asnQFhQhF3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7asnQFhQhF3/video.m3u8",
+          "duration": 1215,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-224",
+          "title": "Aggregations using Spark DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfjtDRPJ6G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfjtDRPJ6G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfjtDRPJ6G/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-225",
+          "title": "Aggregation using Spark DataFrame APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGCSBrHk8e4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGCSBrHk8e4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGCSBrHk8e4/video.m3u8",
+          "duration": 1226,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-226",
+          "title": "Sorting data using PySpark DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RjgYHQN8sE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RjgYHQN8sE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RjgYHQN8sE/video.m3u8",
+          "duration": 1175,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-227",
+          "title": "Dealing with Nulls while sorting the data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PEA9eycG7J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PEA9eycG7J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PEA9eycG7J/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joining Data using Spark DataFrame",
+      "lectures": [
+        {
+          "id": "td-dataengineering-228",
+          "title": "Inner Join over the Spark dataframe APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CJzyzXPK99/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CJzyzXPK99/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CJzyzXPK99/video.m3u8",
+          "duration": 1513,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-229",
+          "title": "Left and Right Join using Spark dataframe APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rHBmaBZNC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rHBmaBZNC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rHBmaBZNC/video.m3u8",
+          "duration": 1389,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ranking using Pyspark",
+      "lectures": [
+        {
+          "id": "td-dataengineering-230",
+          "title": "Overview of ranking along with OrderBy functionality",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubkhuYnBfY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubkhuYnBfY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubkhuYnBfY/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-231",
+          "title": "Filter Based on rank using Spark dataframe APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5egyPuzaykX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5egyPuzaykX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5egyPuzaykX/video.m3u8",
+          "duration": 1235,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-232",
+          "title": "Filter based on Rank per Partition using spark Dataframe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bxtb7qFQBk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bxtb7qFQBk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bxtb7qFQBk/video.m3u8",
+          "duration": 907,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-233",
+          "title": "Difference Between Rank() and Dense_Rank()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M3xzG3EU88/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M3xzG3EU88/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M3xzG3EU88/video.m3u8",
+          "duration": 685,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-46",
+          "title": "Assignment 5",
+          "url": "https://drive.google.com/file/d/1xJKP_9lsD-gYpKNokyAAio1I4IvWzvRn/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1xJKP_9lsD-gYpKNokyAAio1I4IvWzvRn/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1xJKP_9lsD-gYpKNokyAAio1I4IvWzvRn/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1xJKP_9lsD-gYpKNokyAAio1I4IvWzvRn/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Integration of Spark SQL and Pyspark data frame",
+      "lectures": [
+        {
+          "id": "td-dataengineering-234",
+          "title": "Introduction to Integration of Spark SQL and PySpark Dataframe APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BChG8mGF3nS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BChG8mGF3nS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BChG8mGF3nS/video.m3u8",
+          "duration": 914,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-235",
+          "title": "Run Spark SQL queries and Create Spark Metastore Tables using DataFrames",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BenXn4zTKHa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BenXn4zTKHa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BenXn4zTKHa/video.m3u8",
+          "duration": 936,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-236",
+          "title": "Dataframe Transformations over Metastore Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ynhQ998ND/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ynhQ998ND/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ynhQ998ND/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ELT Data Pipelines using Databricks",
+      "lectures": [
+        {
+          "id": "td-dataengineering-237",
+          "title": "Overview of Databricks Workflows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZhHrxQ3ka3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZhHrxQ3ka3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZhHrxQ3ka3/video.m3u8",
+          "duration": 1740,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-238",
+          "title": "Multi-Task Workflows using Databricks jobs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FpF7DYSCCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FpF7DYSCCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FpF7DYSCCp/video.m3u8",
+          "duration": 2022,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-239",
+          "title": "Working on Multi-Task job",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tf4C6uFnbN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tf4C6uFnbN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tf4C6uFnbN/video.m3u8",
+          "duration": 881,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-49",
+          "title": "Assignment 6",
+          "url": "https://drive.google.com/file/d/1wJ5q05jhfLFlT4YF4yIyaAn7W-4qwDsb/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1wJ5q05jhfLFlT4YF4yIyaAn7W-4qwDsb/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1wJ5q05jhfLFlT4YF4yIyaAn7W-4qwDsb/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1wJ5q05jhfLFlT4YF4yIyaAn7W-4qwDsb/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Performance Tuning of Spark-Catalyst Optimizer",
+      "lectures": [
+        {
+          "id": "td-dataengineering-240",
+          "title": "Getting Started with Performance Tuning and Spark Catalyst Optimizer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49kmmhPx3kb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49kmmhPx3kb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49kmmhPx3kb/video.m3u8",
+          "duration": 1746,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-241",
+          "title": "Overview of Plans using Spark UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFphCCtJTd3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFphCCtJTd3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFphCCtJTd3/video.m3u8",
+          "duration": 1752,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-242",
+          "title": "Understanding of Spark Architecture with Example",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uruesEHp8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uruesEHp8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uruesEHp8/video.m3u8",
+          "duration": 1125,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-243",
+          "title": "Filter, Broadcast Joins & Aggregations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YPHAREybf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YPHAREybf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8YPHAREybf/video.m3u8",
+          "duration": 1134,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Performance Tuning of Spark Cluster Configuration",
+      "lectures": [
+        {
+          "id": "td-dataengineering-244",
+          "title": "Introduction to Databricks Cluster Configuration and its Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UkB8DQcag3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UkB8DQcag3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UkB8DQcag3/video.m3u8",
+          "duration": 1375,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-245",
+          "title": "Setting up All-Purpose Cluster and Overview of Auto-Scaling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zB9UCNyuMr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zB9UCNyuMr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zB9UCNyuMr/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-246",
+          "title": "Cluster Performance Tuning using Auto Scaling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/834DcNAzcZU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/834DcNAzcZU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/834DcNAzcZU/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Performance Tuning while inferring schema from csv or json files",
+      "lectures": [
+        {
+          "id": "td-dataengineering-247",
+          "title": "Overview of Inferring Schema from CSV or JSON files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4S6xfPsHPQ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4S6xfPsHPQ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4S6xfPsHPQ3/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-248",
+          "title": "Overview of CSV_JSON files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEJXunpmPz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEJXunpmPz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEJXunpmPz/video.m3u8",
+          "duration": 1741,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-249",
+          "title": "Overhead of Inferring Schema",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTe4uRP3nY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTe4uRP3nY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTe4uRP3nY/video.m3u8",
+          "duration": 1603,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Performance Tuning using Columnar File Format and Partitioning Strategy",
+      "lectures": [
+        {
+          "id": "td-dataengineering-250",
+          "title": "Introduction of Performance tuning while storing data and Side effects of CSV files in Data Lake",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rgrErGh6Kg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rgrErGh6Kg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rgrErGh6Kg/video.m3u8",
+          "duration": 1068,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-251",
+          "title": "Restructure CSV Data and performance Boosting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ehRyhGk3PK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ehRyhGk3PK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ehRyhGk3PK/video.m3u8",
+          "duration": 1375,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-54",
+          "title": "Assignment 7",
+          "url": "https://drive.google.com/file/d/1JFhgXbPompppTM8Ho5sNr90rtxLuqLN3/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1JFhgXbPompppTM8Ho5sNr90rtxLuqLN3/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1JFhgXbPompppTM8Ho5sNr90rtxLuqLN3/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1JFhgXbPompppTM8Ho5sNr90rtxLuqLN3/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Linux Commands for Data Engineering",
+      "lectures": [
+        {
+          "id": "td-dataengineering-252",
+          "title": "Introduction to linux and Basic Navigation Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzAr6Pmk7P8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzAr6Pmk7P8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzAr6Pmk7P8/video.m3u8",
+          "duration": 1093,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-253",
+          "title": "File and Folder Management Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MuY3eaq2JM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MuY3eaq2JM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MuY3eaq2JM/video.m3u8",
+          "duration": 1909,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-254",
+          "title": "Commands for Viewing and Editing Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZBZFXdKRTd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZBZFXdKRTd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZBZFXdKRTd/video.m3u8",
+          "duration": 1041,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-255",
+          "title": "Commands to make modification inside a Vi Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sGUFp4mF4n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sGUFp4mF4n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sGUFp4mF4n/video.m3u8",
+          "duration": 1019,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-256",
+          "title": "Understanding of SED Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t57krFXGBY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t57krFXGBY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t57krFXGBY/video.m3u8",
+          "duration": 1679,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-257",
+          "title": "Understanding of GREP Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NXHAyb2Cg8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NXHAyb2Cg8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NXHAyb2Cg8/video.m3u8",
+          "duration": 1579,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-258",
+          "title": "Understanding of AWK Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96SBHHZBT9d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96SBHHZBT9d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96SBHHZBT9d/video.m3u8",
+          "duration": 1773,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-259",
+          "title": "Understanding of Find Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5er2yPkZ63B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5er2yPkZ63B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5er2yPkZ63B/video.m3u8",
+          "duration": 1138,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-260",
+          "title": "Disk, Process & System Monitoring",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaC2q5jbRZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaC2q5jbRZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaC2q5jbRZ/video.m3u8",
+          "duration": 466,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Submitting Python-based spark applications",
+      "lectures": [
+        {
+          "id": "td-dataengineering-261",
+          "title": "Introduction to Submitting Python-based Spark Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKCqpgSMEJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKCqpgSMEJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKCqpgSMEJ/video.m3u8",
+          "duration": 2558,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-262",
+          "title": "Submitting Applications with Dependencies Developing shell wrappers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63B6hqf787c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63B6hqf787c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63B6hqf787c/video.m3u8",
+          "duration": 880,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataengineering-57",
+          "title": "Assignment 8",
+          "url": "https://drive.google.com/file/d/1LdPekrYWwRqTA5EGxBpYITVf0xCazcgq/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1LdPekrYWwRqTA5EGxBpYITVf0xCazcgq/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1LdPekrYWwRqTA5EGxBpYITVf0xCazcgq/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1LdPekrYWwRqTA5EGxBpYITVf0xCazcgq/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Major Capstone project - Ecom Analytics Pipeline",
+      "lectures": [
+        {
+          "id": "td-dataengineering-263",
+          "title": "Introduction to E-commerce Analytics Pipeline Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MdDk7UChmr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MdDk7UChmr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MdDk7UChmr/video.m3u8",
+          "duration": 1269,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-264",
+          "title": "Overview and Loading of Data in Databricks GCP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yqDqMzcAmQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yqDqMzcAmQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yqDqMzcAmQ/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-265",
+          "title": "01 Data Ingestion and Schema validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fk66XszSKZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fk66XszSKZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Fk66XszSKZ/video.m3u8",
+          "duration": 2345,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-266",
+          "title": "02 Cleaning and Normalization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gBrZS8f7Yu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gBrZS8f7Yu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gBrZS8f7Yu/video.m3u8",
+          "duration": 3690,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-267",
+          "title": "02 Cleaning and Normalization Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57eTd6CD4k8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57eTd6CD4k8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57eTd6CD4k8/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-268",
+          "title": "03 Business KPIs, Aggregations & Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n4U2nCDKM4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n4U2nCDKM4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n4U2nCDKM4/video.m3u8",
+          "duration": 1740,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-269",
+          "title": "03 Business KPIs, Aggregations & Analytics Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYBGgYaR53m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYBGgYaR53m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYBGgYaR53m/video.m3u8",
+          "duration": 1861,
+          "type": "video"
+        },
+        {
+          "id": "td-dataengineering-270",
+          "title": "04 Loading into BigQuery and Analysis using Looker Studio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PFZtsR2RHT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PFZtsR2RHT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PFZtsR2RHT/video.m3u8",
+          "duration": 2965,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

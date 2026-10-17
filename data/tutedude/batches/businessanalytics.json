@@ -1,0 +1,3172 @@
+{
+  "platform": "TuteDude",
+  "batchId": "businessanalytics",
+  "batchSlug": "businessanalytics",
+  "batchName": "Business Analytics",
+  "thumbnail": "https://www.tutedude.com/assets/avif/businessanalytics.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/businessanalytics",
+  "totalSections": 86,
+  "totalLectures": 259,
+  "totalNotes": 31,
+  "price": "699.00",
+  "category": "Data Science & Analytics",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Business Analytics",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-2",
+          "title": "Introduction to Business Analytics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S7Uh4AjSpP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S7Uh4AjSpP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S7Uh4AjSpP/video.m3u8",
+          "duration": 1824,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-3",
+          "title": "Environment Setup and Dataset Preparation",
+          "url": "https://docs.google.com/document/d/1njRFNpzzE3N37x66eAy_jWhzpvA4iPuPVfVdz2dHROk/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1njRFNpzzE3N37x66eAy_jWhzpvA4iPuPVfVdz2dHROk/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1njRFNpzzE3N37x66eAy_jWhzpvA4iPuPVfVdz2dHROk/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1njRFNpzzE3N37x66eAy_jWhzpvA4iPuPVfVdz2dHROk/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Installation Videos",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-3",
+          "title": "Anaconda Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k9KxYBdDjN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k9KxYBdDjN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k9KxYBdDjN/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-4",
+          "title": "MySQL Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKhZcFSr3b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKhZcFSr3b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKhZcFSr3b/video.m3u8",
+          "duration": 710,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-5",
+          "title": "PowerBI Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9azM7TJgT7Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9azM7TJgT7Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9azM7TJgT7Z/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-5",
+          "title": "Exploring and Understanding the Customer Churn Dataset",
+          "url": "https://docs.google.com/document/d/1JnZx-tJkDzpquD_GpRdPOdEEsRZfo5aKQjMYrQ1Hd34/edit?tab=t.0#heading=h.yxnx10dfiv6n",
+          "pdfUrl": "https://docs.google.com/document/d/1JnZx-tJkDzpquD_GpRdPOdEEsRZfo5aKQjMYrQ1Hd34/edit?tab=t.0#heading=h.yxnx10dfiv6n",
+          "playerUrl": "https://docs.google.com/document/d/1JnZx-tJkDzpquD_GpRdPOdEEsRZfo5aKQjMYrQ1Hd34/edit?tab=t.0#heading=h.yxnx10dfiv6n",
+          "downloadUrl": "https://docs.google.com/document/d/1JnZx-tJkDzpquD_GpRdPOdEEsRZfo5aKQjMYrQ1Hd34/edit?tab=t.0#heading=h.yxnx10dfiv6n",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Spreadsheets, Data and Analysis",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-6",
+          "title": "Introduction to Spreadsheets, Data and Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByuQgRRNtac/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByuQgRRNtac/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByuQgRRNtac/video.m3u8",
+          "duration": 3514,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-7",
+          "title": "Assignment",
+          "url": "https://docs.google.com/document/d/1f5_ZBIzBtvHggHXax1_i8xTfsZMODfF00woun9bY7vE/edit?tab=t.0#heading=h.todcaikp2d2q",
+          "pdfUrl": "https://docs.google.com/document/d/1f5_ZBIzBtvHggHXax1_i8xTfsZMODfF00woun9bY7vE/edit?tab=t.0#heading=h.todcaikp2d2q",
+          "playerUrl": "https://docs.google.com/document/d/1f5_ZBIzBtvHggHXax1_i8xTfsZMODfF00woun9bY7vE/edit?tab=t.0#heading=h.todcaikp2d2q",
+          "downloadUrl": "https://docs.google.com/document/d/1f5_ZBIzBtvHggHXax1_i8xTfsZMODfF00woun9bY7vE/edit?tab=t.0#heading=h.todcaikp2d2q",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Preparation Techniques",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-7",
+          "title": "Cell Referencing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yFSgkQU4bK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yFSgkQU4bK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yFSgkQU4bK/video.m3u8",
+          "duration": 1073,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-8",
+          "title": "QA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c3YYAQEUzX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c3YYAQEUzX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c3YYAQEUzX/video.m3u8",
+          "duration": 383,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-9",
+          "title": "Data Filtering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Tsy4TJN3m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Tsy4TJN3m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Tsy4TJN3m/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-10",
+          "title": "Find and Replace, Remove Duplicates, Missing Data, Data Validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QU9FAmXJ2n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QU9FAmXJ2n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QU9FAmXJ2n/video.m3u8",
+          "duration": 1231,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-9",
+          "title": "Business Metrics Analysis Using Spreadsheet Functions",
+          "url": "https://docs.google.com/document/d/1FCrq651AyyZtLUpMaac4WkCtRNcklmzRm4x0p5M_f24/edit?tab=t.0#heading=h.ze5yva2y1950",
+          "pdfUrl": "https://docs.google.com/document/d/1FCrq651AyyZtLUpMaac4WkCtRNcklmzRm4x0p5M_f24/edit?tab=t.0#heading=h.ze5yva2y1950",
+          "playerUrl": "https://docs.google.com/document/d/1FCrq651AyyZtLUpMaac4WkCtRNcklmzRm4x0p5M_f24/edit?tab=t.0#heading=h.ze5yva2y1950",
+          "downloadUrl": "https://docs.google.com/document/d/1FCrq651AyyZtLUpMaac4WkCtRNcklmzRm4x0p5M_f24/edit?tab=t.0#heading=h.ze5yva2y1950",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-11",
+          "title": "Count Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nCEPQ96U8a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nCEPQ96U8a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nCEPQ96U8a/video.m3u8",
+          "duration": 339,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-12",
+          "title": "Aggregate Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMAS76XAxXB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMAS76XAxXB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMAS76XAxXB/video.m3u8",
+          "duration": 1437,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-13",
+          "title": "String Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xCpNq6ertmJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xCpNq6ertmJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xCpNq6ertmJ/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-14",
+          "title": "DateTime Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AncXpBT3chB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AncXpBT3chB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AncXpBT3chB/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-15",
+          "title": "Find, Replace, Substitute",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y4hxcYKC7yP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y4hxcYKC7yP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y4hxcYKC7yP/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-11",
+          "title": "Customer Behavior Analysis Using Advanced Spreadsheet Functions",
+          "url": "https://docs.google.com/document/d/1IS6GumqFns0MAyntyWvjo8_4cUO-WwEt-QdnxZkqaac/edit?tab=t.0#heading=h.ddvplcjf0qlg",
+          "pdfUrl": "https://docs.google.com/document/d/1IS6GumqFns0MAyntyWvjo8_4cUO-WwEt-QdnxZkqaac/edit?tab=t.0#heading=h.ddvplcjf0qlg",
+          "playerUrl": "https://docs.google.com/document/d/1IS6GumqFns0MAyntyWvjo8_4cUO-WwEt-QdnxZkqaac/edit?tab=t.0#heading=h.ddvplcjf0qlg",
+          "downloadUrl": "https://docs.google.com/document/d/1IS6GumqFns0MAyntyWvjo8_4cUO-WwEt-QdnxZkqaac/edit?tab=t.0#heading=h.ddvplcjf0qlg",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced Functions",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-16",
+          "title": "Conditional Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5udbYRS2Mh3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5udbYRS2Mh3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5udbYRS2Mh3/video.m3u8",
+          "duration": 1074,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-17",
+          "title": "Scenario",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZsR7SgFd6B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZsR7SgFd6B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZsR7SgFd6B/video.m3u8",
+          "duration": 1068,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-18",
+          "title": "Conditional Aggregation Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J8kjhaHU5t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J8kjhaHU5t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J8kjhaHU5t/video.m3u8",
+          "duration": 732,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-19",
+          "title": "Conditional Formatting Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N6GH5CXF9k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N6GH5CXF9k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N6GH5CXF9k/video.m3u8",
+          "duration": 209,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-20",
+          "title": "Match and Index Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nphgSqYMBc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nphgSqYMBc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nphgSqYMBc/video.m3u8",
+          "duration": 706,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Lookups",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-21",
+          "title": "Lookup Functions (VLookup, HLookup, XLookup)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mFAQYtU4HTS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mFAQYtU4HTS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mFAQYtU4HTS/video.m3u8",
+          "duration": 1668,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pivot Tables and Charts",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-22",
+          "title": "Pivot Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NDE3rNJB2e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NDE3rNJB2e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NDE3rNJB2e/video.m3u8",
+          "duration": 2440,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-23",
+          "title": "Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYc5k3MUGed/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYc5k3MUGed/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYc5k3MUGed/video.m3u8",
+          "duration": 2656,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-24",
+          "title": "Surprise Q",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HscbJgrd5x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HscbJgrd5x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HscbJgrd5x/video.m3u8",
+          "duration": 1135,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-15",
+          "title": "Customer Segmentation and Insights Using Lookups and Pivot Tables",
+          "url": "https://docs.google.com/document/d/1tZjQwz0kjOetz6Fgfb1xJOMYrGcmeGPqmUjt2H5pzq8/edit?tab=t.0#heading=h.bslz1sn02q6g",
+          "pdfUrl": "https://docs.google.com/document/d/1tZjQwz0kjOetz6Fgfb1xJOMYrGcmeGPqmUjt2H5pzq8/edit?tab=t.0#heading=h.bslz1sn02q6g",
+          "playerUrl": "https://docs.google.com/document/d/1tZjQwz0kjOetz6Fgfb1xJOMYrGcmeGPqmUjt2H5pzq8/edit?tab=t.0#heading=h.bslz1sn02q6g",
+          "downloadUrl": "https://docs.google.com/document/d/1tZjQwz0kjOetz6Fgfb1xJOMYrGcmeGPqmUjt2H5pzq8/edit?tab=t.0#heading=h.bslz1sn02q6g",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "What If Analysis",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-25",
+          "title": "Goal Seek",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm6nmbbMXRp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm6nmbbMXRp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm6nmbbMXRp/video.m3u8",
+          "duration": 2132,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-26",
+          "title": "Scenario Manager",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3b5fyjtFrgP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3b5fyjtFrgP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3b5fyjtFrgP/video.m3u8",
+          "duration": 1507,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-27",
+          "title": "Data Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRd2QexajF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRd2QexajF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRd2QexajF/video.m3u8",
+          "duration": 825,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-17",
+          "title": "Business Scenario Simulation Using What-If Analysis",
+          "url": "https://docs.google.com/document/d/1cWVlXpOeMVmd9p2Y4L33kc5eCRLlH71VP9iA2i9E8RE/edit?tab=t.0#heading=h.7w70byod4o62",
+          "pdfUrl": "https://docs.google.com/document/d/1cWVlXpOeMVmd9p2Y4L33kc5eCRLlH71VP9iA2i9E8RE/edit?tab=t.0#heading=h.7w70byod4o62",
+          "playerUrl": "https://docs.google.com/document/d/1cWVlXpOeMVmd9p2Y4L33kc5eCRLlH71VP9iA2i9E8RE/edit?tab=t.0#heading=h.7w70byod4o62",
+          "downloadUrl": "https://docs.google.com/document/d/1cWVlXpOeMVmd9p2Y4L33kc5eCRLlH71VP9iA2i9E8RE/edit?tab=t.0#heading=h.7w70byod4o62",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Analysis in Excel",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-28",
+          "title": "Data Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkRDfPUb5d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkRDfPUb5d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkRDfPUb5d/video.m3u8",
+          "duration": 1880,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-19",
+          "title": "Customer Churn Analysis Using Excel",
+          "url": "https://docs.google.com/document/d/18Y7_hK6jVLZaA99MhATnAnITdEY7DBBqiTJa_QQKdCc/edit?tab=t.0#heading=h.kh64eslfxlgd",
+          "pdfUrl": "https://docs.google.com/document/d/18Y7_hK6jVLZaA99MhATnAnITdEY7DBBqiTJa_QQKdCc/edit?tab=t.0#heading=h.kh64eslfxlgd",
+          "playerUrl": "https://docs.google.com/document/d/18Y7_hK6jVLZaA99MhATnAnITdEY7DBBqiTJa_QQKdCc/edit?tab=t.0#heading=h.kh64eslfxlgd",
+          "downloadUrl": "https://docs.google.com/document/d/18Y7_hK6jVLZaA99MhATnAnITdEY7DBBqiTJa_QQKdCc/edit?tab=t.0#heading=h.kh64eslfxlgd",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to DBMS",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-29",
+          "title": "DBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xR4FXmEynA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xR4FXmEynA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xR4FXmEynA/video.m3u8",
+          "duration": 2720,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL Commands",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-30",
+          "title": "SQL Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEAmsMcMBc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEAmsMcMBc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEAmsMcMBc/video.m3u8",
+          "duration": 3156,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-31",
+          "title": "SQL Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xaktRSDKX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xaktRSDKX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xaktRSDKX7/video.m3u8",
+          "duration": 2528,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL Basics",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-32",
+          "title": "SQL Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KBT9tjF7tj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KBT9tjF7tj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KBT9tjF7tj/video.m3u8",
+          "duration": 4897,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-23",
+          "title": "Customer Data Exploration Using SQL",
+          "url": "https://docs.google.com/document/d/1g9vpjAYWKd51GblYzxpqEzix-jQzslRt8k_25e4oUMg/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1g9vpjAYWKd51GblYzxpqEzix-jQzslRt8k_25e4oUMg/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1g9vpjAYWKd51GblYzxpqEzix-jQzslRt8k_25e4oUMg/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1g9vpjAYWKd51GblYzxpqEzix-jQzslRt8k_25e4oUMg/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Aggregate Functions",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-33",
+          "title": "Aggregate Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gQ4xf2mtGy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gQ4xf2mtGy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gQ4xf2mtGy/video.m3u8",
+          "duration": 4316,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Joins",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-34",
+          "title": "What is Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ms6es8SqxJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ms6es8SqxJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ms6es8SqxJ/video.m3u8",
+          "duration": 3225,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-35",
+          "title": "Type of Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NAG8etgtfD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NAG8etgtfD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NAG8etgtfD/video.m3u8",
+          "duration": 2933,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-36",
+          "title": "Joins Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q3Q8FZChR8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q3Q8FZChR8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q3Q8FZChR8/video.m3u8",
+          "duration": 1695,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Case Statements",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-37",
+          "title": "Case Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phMBgupuas/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phMBgupuas/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phMBgupuas/video.m3u8",
+          "duration": 4869,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Date Functions",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-38",
+          "title": "Date Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmeQhjzDnhj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmeQhjzDnhj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmeQhjzDnhj/video.m3u8",
+          "duration": 3047,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Set Operators",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-39",
+          "title": "Set Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JPYY6eqEG5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JPYY6eqEG5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JPYY6eqEG5/video.m3u8",
+          "duration": 1923,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sub-Query",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-40",
+          "title": "Sub-Query",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXY6hyFMadd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXY6hyFMadd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXY6hyFMadd/video.m3u8",
+          "duration": 3452,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CTE & View",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-41",
+          "title": "CTE & View",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7k2Z7PcrujR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7k2Z7PcrujR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7k2Z7PcrujR/video.m3u8",
+          "duration": 4166,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Window Functions",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-42",
+          "title": "Window Functions Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cebXcJuSgx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cebXcJuSgx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cebXcJuSgx/video.m3u8",
+          "duration": 3692,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-43",
+          "title": "Window Functions Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F3CbzkzGPB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F3CbzkzGPB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F3CbzkzGPB/video.m3u8",
+          "duration": 1532,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-44",
+          "title": "Project_1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tUm7ZaQ2Bu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tUm7ZaQ2Bu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tUm7ZaQ2Bu/video.m3u8",
+          "duration": 3513,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-45",
+          "title": "Project_2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FPXARjCuUN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FPXARjCuUN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FPXARjCuUN/video.m3u8",
+          "duration": 2930,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-46",
+          "title": "Project_3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J6b6yhUAYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J6b6yhUAYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J6b6yhUAYR/video.m3u8",
+          "duration": 2002,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-47",
+          "title": "Project_4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K6e2RQyRj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K6e2RQyRj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K6e2RQyRj/video.m3u8",
+          "duration": 2325,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-33",
+          "title": "Customer Data Exploration Using SQL",
+          "url": "https://docs.google.com/document/d/1BwAzKLyNPfsktyBKjw0tUmgIhUedRSyYDJOVt7cAT4U/edit?tab=t.0#heading=h.pokvd8tcn65p",
+          "pdfUrl": "https://docs.google.com/document/d/1BwAzKLyNPfsktyBKjw0tUmgIhUedRSyYDJOVt7cAT4U/edit?tab=t.0#heading=h.pokvd8tcn65p",
+          "playerUrl": "https://docs.google.com/document/d/1BwAzKLyNPfsktyBKjw0tUmgIhUedRSyYDJOVt7cAT4U/edit?tab=t.0#heading=h.pokvd8tcn65p",
+          "downloadUrl": "https://docs.google.com/document/d/1BwAzKLyNPfsktyBKjw0tUmgIhUedRSyYDJOVt7cAT4U/edit?tab=t.0#heading=h.pokvd8tcn65p",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to BI",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-48",
+          "title": "Introduction to Power BI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZrk8sTHMnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZrk8sTHMnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZrk8sTHMnJ/video.m3u8",
+          "duration": 2749,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Power Query Editor",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-49",
+          "title": "Data Transformation + Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGPCtcJTCj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGPCtcJTCj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGPCtcJTCj/video.m3u8",
+          "duration": 1866,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-50",
+          "title": "Replace Text + Extract + Split",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7brtcu42xTD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7brtcu42xTD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7brtcu42xTD/video.m3u8",
+          "duration": 1126,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-51",
+          "title": "Trim + Clean",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jK79NEGf3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jK79NEGf3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jK79NEGf3/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-52",
+          "title": "Assignment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DGTScfxBhC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DGTScfxBhC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DGTScfxBhC/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-36",
+          "title": "Data Preparation and Transformation Using Power BI",
+          "url": "https://docs.google.com/document/d/1QNI3O4okWIwjpJrP_WXiWIaDG1E20Js8yKZAqQL3GHc/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1QNI3O4okWIwjpJrP_WXiWIaDG1E20Js8yKZAqQL3GHc/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1QNI3O4okWIwjpJrP_WXiWIaDG1E20Js8yKZAqQL3GHc/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1QNI3O4okWIwjpJrP_WXiWIaDG1E20Js8yKZAqQL3GHc/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Modelling",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-53",
+          "title": "Data Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QgjjrFqE4x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QgjjrFqE4x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QgjjrFqE4x/video.m3u8",
+          "duration": 4103,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Visualization",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-54",
+          "title": "Visualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhS3HHfnprS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhS3HHfnprS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhS3HHfnprS/video.m3u8",
+          "duration": 2268,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-55",
+          "title": "ETL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5q47xxMxN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5q47xxMxN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5q47xxMxN/video.m3u8",
+          "duration": 732,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-56",
+          "title": "Column Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94sSuG69E4Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94sSuG69E4Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94sSuG69E4Q/video.m3u8",
+          "duration": 764,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-57",
+          "title": "Pie Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5fxgY9fa42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5fxgY9fa42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5fxgY9fa42/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-58",
+          "title": "Line Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HEpttSAuJmg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HEpttSAuJmg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HEpttSAuJmg/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-59",
+          "title": "Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AuaE3fjTxY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AuaE3fjTxY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AuaE3fjTxY/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-60",
+          "title": "Slicers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mYfHSXRj7m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mYfHSXRj7m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mYfHSXRj7m/video.m3u8",
+          "duration": 338,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-61",
+          "title": "Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s4z6apj4n3Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s4z6apj4n3Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s4z6apj4n3Y/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-62",
+          "title": "Tree Visualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fuT5zsuY7X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fuT5zsuY7X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fuT5zsuY7X/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-39",
+          "title": " Customer Churn Dashboard Development Using Power BI",
+          "url": "https://docs.google.com/document/d/1W78izgoGElYRfA7F8c9QXG11-KgxSPkSqgStxlxqxik/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1W78izgoGElYRfA7F8c9QXG11-KgxSPkSqgStxlxqxik/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1W78izgoGElYRfA7F8c9QXG11-KgxSPkSqgStxlxqxik/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1W78izgoGElYRfA7F8c9QXG11-KgxSPkSqgStxlxqxik/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "DAX",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-63",
+          "title": "Logical DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M8MNgN2BRX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M8MNgN2BRX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M8MNgN2BRX/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-64",
+          "title": "Text DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c2bhtrENy5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c2bhtrENy5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c2bhtrENy5p/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-65",
+          "title": "DateTime DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T8bcGnMhTP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T8bcGnMhTP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T8bcGnMhTP/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Business Cases with Advanced DAX",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-66",
+          "title": "Problem-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbrM3UXk2pY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbrM3UXk2pY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbrM3UXk2pY/video.m3u8",
+          "duration": 1402,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-67",
+          "title": "Problem-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JhrkH8td5yu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JhrkH8td5yu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JhrkH8td5yu/video.m3u8",
+          "duration": 1204,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-68",
+          "title": "Problem-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S6f4P7DJz5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S6f4P7DJz5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S6f4P7DJz5/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-69",
+          "title": "Problem-4 Extended",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdZSckagNqH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdZSckagNqH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdZSckagNqH/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-70",
+          "title": "Problem-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjY3yg7FZdb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjY3yg7FZdb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjY3yg7FZdb/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-71",
+          "title": "Problem-5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eupmjsFpAR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eupmjsFpAR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eupmjsFpAR/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-72",
+          "title": "Problem-6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H7tKjfBqa7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H7tKjfBqa7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H7tKjfBqa7/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-42",
+          "title": "Business KPI Development Using DAX",
+          "url": "https://docs.google.com/document/d/14pfkS5fRonqE8LV0oEdwKkQ6ewl4o_dT1jw5o5076oI/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/14pfkS5fRonqE8LV0oEdwKkQ6ewl4o_dT1jw5o5076oI/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/14pfkS5fRonqE8LV0oEdwKkQ6ewl4o_dT1jw5o5076oI/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/14pfkS5fRonqE8LV0oEdwKkQ6ewl4o_dT1jw5o5076oI/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Advanced PowerBI Features",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-73",
+          "title": "Bookmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pSUxK84tpt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pSUxK84tpt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pSUxK84tpt/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-74",
+          "title": "RLS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctDFaas4DE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctDFaas4DE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctDFaas4DE/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-75",
+          "title": "Field Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y36DHqEfST/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y36DHqEfST/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y36DHqEfST/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-76",
+          "title": "AI Visuals + Quick Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FBsE48KTHA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FBsE48KTHA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FBsE48KTHA/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-44",
+          "title": "Advanced Power BI Dashboard Enhancements",
+          "url": "https://docs.google.com/document/d/1EoybCSHxnicxkYoGjzKgIMxC2jPNdR0DS539Otpdye0/edit?tab=t.0#heading=h.v508sswyda60",
+          "pdfUrl": "https://docs.google.com/document/d/1EoybCSHxnicxkYoGjzKgIMxC2jPNdR0DS539Otpdye0/edit?tab=t.0#heading=h.v508sswyda60",
+          "playerUrl": "https://docs.google.com/document/d/1EoybCSHxnicxkYoGjzKgIMxC2jPNdR0DS539Otpdye0/edit?tab=t.0#heading=h.v508sswyda60",
+          "downloadUrl": "https://docs.google.com/document/d/1EoybCSHxnicxkYoGjzKgIMxC2jPNdR0DS539Otpdye0/edit?tab=t.0#heading=h.v508sswyda60",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Folder Problem",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-77",
+          "title": "Folder Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fr6k3neeGBz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fr6k3neeGBz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fr6k3neeGBz/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL+PowerBI",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-78",
+          "title": "SQL+PowerBI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9buf2KHaYzk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9buf2KHaYzk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9buf2KHaYzk/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-47",
+          "title": "Exploratory Data Analysis (EDA) for Customer Churn Dataset",
+          "url": "https://docs.google.com/document/d/177h1B7L8LTNso-pNHA0x9Ag4SVXBPIGHhQUxBZniTf4/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/177h1B7L8LTNso-pNHA0x9Ag4SVXBPIGHhQUxBZniTf4/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/177h1B7L8LTNso-pNHA0x9Ag4SVXBPIGHhQUxBZniTf4/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/177h1B7L8LTNso-pNHA0x9Ag4SVXBPIGHhQUxBZniTf4/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction_To_Python",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-79",
+          "title": "Introduction_To_Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44XyKrhGCm9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44XyKrhGCm9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44XyKrhGCm9/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Variables",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-80",
+          "title": "Python Variables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BksNa3FyeJm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BksNa3FyeJm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BksNa3FyeJm/video.m3u8",
+          "duration": 1730,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Data Types",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-81",
+          "title": "Python Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ktBP3Ea5aE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ktBP3Ea5aE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ktBP3Ea5aE/video.m3u8",
+          "duration": 1480,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Operators",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-82",
+          "title": "Python Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t7ge5KGC7mx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t7ge5KGC7mx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t7ge5KGC7mx/video.m3u8",
+          "duration": 1952,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-52",
+          "title": "Getting Started with Python for Data Analysis",
+          "url": "https://docs.google.com/document/d/1nIuaByL9cjxz8o36iYIxthUKEyf9owWYUa97rItr2sg/edit?tab=t.0#heading=h.elcya5a9c4er",
+          "pdfUrl": "https://docs.google.com/document/d/1nIuaByL9cjxz8o36iYIxthUKEyf9owWYUa97rItr2sg/edit?tab=t.0#heading=h.elcya5a9c4er",
+          "playerUrl": "https://docs.google.com/document/d/1nIuaByL9cjxz8o36iYIxthUKEyf9owWYUa97rItr2sg/edit?tab=t.0#heading=h.elcya5a9c4er",
+          "downloadUrl": "https://docs.google.com/document/d/1nIuaByL9cjxz8o36iYIxthUKEyf9owWYUa97rItr2sg/edit?tab=t.0#heading=h.elcya5a9c4er",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Python Strings",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-83",
+          "title": "Python Strings-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD7QgPTfgu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD7QgPTfgu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD7QgPTfgu/video.m3u8",
+          "duration": 1565,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-84",
+          "title": "Python Strings-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPdper6TF3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPdper6TF3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPdper6TF3/video.m3u8",
+          "duration": 2764,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Conditional Statements",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-85",
+          "title": "Python Conditional Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jkDEYuHU27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jkDEYuHU27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jkDEYuHU27/video.m3u8",
+          "duration": 1937,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Loops",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-86",
+          "title": "Python Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CfRmbSTajc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CfRmbSTajc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CfRmbSTajc/video.m3u8",
+          "duration": 1055,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Data Structures",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-87",
+          "title": "Data Structures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89Y6MXFJcg2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89Y6MXFJcg2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89Y6MXFJcg2/video.m3u8",
+          "duration": 864,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-88",
+          "title": "List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3abaaETQ4Z4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3abaaETQ4Z4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3abaaETQ4Z4/video.m3u8",
+          "duration": 2120,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-89",
+          "title": "Tuple",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCEyzYS9Qdn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCEyzYS9Qdn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCEyzYS9Qdn/video.m3u8",
+          "duration": 780,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-90",
+          "title": "Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58buHU3ekt3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58buHU3ekt3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58buHU3ekt3/video.m3u8",
+          "duration": 1256,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-91",
+          "title": "Dictionary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbZmMmJxSSk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbZmMmJxSSk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbZmMmJxSSk/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-92",
+          "title": "Comprehension",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75dRhxbZ9Db/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75dRhxbZ9Db/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75dRhxbZ9Db/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-57",
+          "title": "Data Processing Using Python Programming Concepts",
+          "url": "https://docs.google.com/document/d/17IFI3jXSJOcRa5tGjrS5KrJv8vraN4_omDxOoVedRqo/edit?tab=t.0#heading=h.c1lt50qgdiim",
+          "pdfUrl": "https://docs.google.com/document/d/17IFI3jXSJOcRa5tGjrS5KrJv8vraN4_omDxOoVedRqo/edit?tab=t.0#heading=h.c1lt50qgdiim",
+          "playerUrl": "https://docs.google.com/document/d/17IFI3jXSJOcRa5tGjrS5KrJv8vraN4_omDxOoVedRqo/edit?tab=t.0#heading=h.c1lt50qgdiim",
+          "downloadUrl": "https://docs.google.com/document/d/17IFI3jXSJOcRa5tGjrS5KrJv8vraN4_omDxOoVedRqo/edit?tab=t.0#heading=h.c1lt50qgdiim",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions in Python",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-93",
+          "title": "Basics of Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hx29qJuNz5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hx29qJuNz5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hx29qJuNz5/video.m3u8",
+          "duration": 2027,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-94",
+          "title": "Lambda Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7J5h9UY7rQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7J5h9UY7rQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7J5h9UY7rQ/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-95",
+          "title": "Special Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59xtsfTuYDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59xtsfTuYDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59xtsfTuYDh/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-96",
+          "title": "In-Built Function and Recursion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KZGjfpysCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KZGjfpysCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KZGjfpysCp/video.m3u8",
+          "duration": 825,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "OOPs in Python",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-97",
+          "title": "Oops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6PkCAqa9E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6PkCAqa9E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6PkCAqa9E/video.m3u8",
+          "duration": 2672,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-98",
+          "title": "Pillars of OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ucryC3jTZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ucryC3jTZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ucryC3jTZ8/video.m3u8",
+          "duration": 1660,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-60",
+          "title": "Building Reusable Analysis Functions in Python",
+          "url": "https://docs.google.com/document/d/1_4K6LN5QjJCvPDB38oapcPgT0nu_FuX44VqXjs6lpIg/edit?tab=t.0#heading=h.a7546pghwlab",
+          "pdfUrl": "https://docs.google.com/document/d/1_4K6LN5QjJCvPDB38oapcPgT0nu_FuX44VqXjs6lpIg/edit?tab=t.0#heading=h.a7546pghwlab",
+          "playerUrl": "https://docs.google.com/document/d/1_4K6LN5QjJCvPDB38oapcPgT0nu_FuX44VqXjs6lpIg/edit?tab=t.0#heading=h.a7546pghwlab",
+          "downloadUrl": "https://docs.google.com/document/d/1_4K6LN5QjJCvPDB38oapcPgT0nu_FuX44VqXjs6lpIg/edit?tab=t.0#heading=h.a7546pghwlab",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "NumPy Basics",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-99",
+          "title": "Creating Numpy Arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bebfbxA4gx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bebfbxA4gx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bebfbxA4gx/video.m3u8",
+          "duration": 2180,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-100",
+          "title": "Attributes of a NumPy Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C8BEkpGPH3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C8BEkpGPH3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C8BEkpGPH3/video.m3u8",
+          "duration": 925,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-101",
+          "title": "Creating NumPy of Different Dimensions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyzYk3hKfq8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyzYk3hKfq8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyzYk3hKfq8/video.m3u8",
+          "duration": 1028,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-102",
+          "title": "Accessing Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTK5cUszQ7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTK5cUszQ7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTK5cUszQ7/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-103",
+          "title": "Why NumPy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApQn5dFHEtQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApQn5dFHEtQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApQn5dFHEtQ/video.m3u8",
+          "duration": 1240,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-104",
+          "title": "Case-Study-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P9U7yjbGQgC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P9U7yjbGQgC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P9U7yjbGQgC/video.m3u8",
+          "duration": 1148,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-105",
+          "title": "Case-Study-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "NumPy Operations",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-106",
+          "title": "Comparison Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy7U4ZA7Tq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy7U4ZA7Tq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy7U4ZA7Tq/video.m3u8",
+          "duration": 537,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-107",
+          "title": "Mathematical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "duration": 2623,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-108",
+          "title": "Statistical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJSZEa44qu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJSZEa44qu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJSZEa44qu/video.m3u8",
+          "duration": 908,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-109",
+          "title": "Sorting Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQBM2XprrSr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQBM2XprrSr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQBM2XprrSr/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-110",
+          "title": "Combining Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZURrkPYp6B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZURrkPYp6B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZURrkPYp6B/video.m3u8",
+          "duration": 124,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-111",
+          "title": "Manipulation Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkJhbbqSC3B/video.m3u8",
+          "duration": 2623,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-112",
+          "title": "Random Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jPhRh7k5E2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jPhRh7k5E2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jPhRh7k5E2/video.m3u8",
+          "duration": 452,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-113",
+          "title": "Miscellaneous Opeartors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6gkcfMUNxy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6gkcfMUNxy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H6gkcfMUNxy/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-114",
+          "title": "Case Study 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtFj7JC4aFY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtFj7JC4aFY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtFj7JC4aFY/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-115",
+          "title": "Case Study 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k74fKkmMkz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k74fKkmMkz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k74fKkmMkz/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-116",
+          "title": "Correction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fXqHkmJmjh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fXqHkmJmjh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fXqHkmJmjh/video.m3u8",
+          "duration": 118,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-63",
+          "title": "Business Metrics Analysis Using NumPy",
+          "url": "https://docs.google.com/document/d/1M6TVodNf7GfUE0cgkozc5WwiF8QQtObRNNEO8tIlyBo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1M6TVodNf7GfUE0cgkozc5WwiF8QQtObRNNEO8tIlyBo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1M6TVodNf7GfUE0cgkozc5WwiF8QQtObRNNEO8tIlyBo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1M6TVodNf7GfUE0cgkozc5WwiF8QQtObRNNEO8tIlyBo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pandas Basics",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-117",
+          "title": "Pandas Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GhX8h5JSgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GhX8h5JSgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GhX8h5JSgh/video.m3u8",
+          "duration": 1775,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-118",
+          "title": "Pandas Data Structures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GBf6D2Dbd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GBf6D2Dbd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GBf6D2Dbd/video.m3u8",
+          "duration": 265,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-119",
+          "title": "Column Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uScfchrG5B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uScfchrG5B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uScfchrG5B/video.m3u8",
+          "duration": 1029,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-120",
+          "title": "Row Operation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EZMgS5HQ6X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EZMgS5HQ6X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EZMgS5HQ6X/video.m3u8",
+          "duration": 2475,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-121",
+          "title": "Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698MDJncSx3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698MDJncSx3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698MDJncSx3/video.m3u8",
+          "duration": 1114,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pandas Analysis",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-122",
+          "title": "Accessing specific rows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E67t6ajupn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E67t6ajupn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E67t6ajupn/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-123",
+          "title": "Miscellaneous functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkN2amxb5H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkN2amxb5H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HkN2amxb5H/video.m3u8",
+          "duration": 387,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-124",
+          "title": "String functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Usth5MmTSm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Usth5MmTSm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Usth5MmTSm/video.m3u8",
+          "duration": 286,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-125",
+          "title": "Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8smg3gtUR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8smg3gtUR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8smg3gtUR/video.m3u8",
+          "duration": 475,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-126",
+          "title": "Group By",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AurJkq2MjEB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AurJkq2MjEB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AurJkq2MjEB/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-127",
+          "title": "Pivot Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kXtkQtu8KG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kXtkQtu8KG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kXtkQtu8KG/video.m3u8",
+          "duration": 472,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-128",
+          "title": "Group By vs Pivot Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PnhkhBCKxR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PnhkhBCKxR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PnhkhBCKxR/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-129",
+          "title": "Case Study - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hBrKXnEza8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hBrKXnEza8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hBrKXnEza8/video.m3u8",
+          "duration": 1102,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-130",
+          "title": "Melt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CAgTD7tPm5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CAgTD7tPm5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CAgTD7tPm5/video.m3u8",
+          "duration": 861,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-131",
+          "title": "CrossTab",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X2mAMfNuJH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X2mAMfNuJH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X2mAMfNuJH/video.m3u8",
+          "duration": 184,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-132",
+          "title": "Pandas Cut",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAqkrRnAmF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAqkrRnAmF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAqkrRnAmF6/video.m3u8",
+          "duration": 811,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-133",
+          "title": "Date Time Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FFJnEuF5cR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FFJnEuF5cR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FFJnEuF5cR/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pandas Merge and Concat",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-134",
+          "title": "Concat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BaP5z9Ym3F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BaP5z9Ym3F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BaP5z9Ym3F/video.m3u8",
+          "duration": 1100,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-135",
+          "title": "Merge",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MMx6AHcGnm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MMx6AHcGnm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MMx6AHcGnm/video.m3u8",
+          "duration": 634,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Missing Values",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-136",
+          "title": "None vs Nan",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7knYBDbb4Dz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7knYBDbb4Dz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7knYBDbb4Dz/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-137",
+          "title": "isnull vs isna",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jDyThmDFCE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jDyThmDFCE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jDyThmDFCE/video.m3u8",
+          "duration": 331,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-138",
+          "title": "Treating Missing Values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSpcPBrfFh4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSpcPBrfFh4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSpcPBrfFh4/video.m3u8",
+          "duration": 2538,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-139",
+          "title": "Apply vs Transform",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4454rmY6qSD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4454rmY6qSD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4454rmY6qSD/video.m3u8",
+          "duration": 655,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-140",
+          "title": "Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeXKnHypE7m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeXKnHypE7m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeXKnHypE7m/video.m3u8",
+          "duration": 1621,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-68",
+          "title": "Customer Insights Discovery Using Pandas",
+          "url": "https://docs.google.com/document/d/1BrolDMkWRnppwtcwVTR6P-IvxL40227EgYKUswXkK24/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1BrolDMkWRnppwtcwVTR6P-IvxL40227EgYKUswXkK24/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1BrolDMkWRnppwtcwVTR6P-IvxL40227EgYKUswXkK24/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1BrolDMkWRnppwtcwVTR6P-IvxL40227EgYKUswXkK24/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "EDA Data Visualization",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-141",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r3NF8ys5uP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r3NF8ys5uP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r3NF8ys5uP/video.m3u8",
+          "duration": 848,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-142",
+          "title": "Univariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uz8j487AEa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uz8j487AEa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uz8j487AEa/video.m3u8",
+          "duration": 1384,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-143",
+          "title": "Bivariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TjNnhzGkg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TjNnhzGkg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TjNnhzGkg/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-144",
+          "title": "Multivariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HG5gymA6RkA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HG5gymA6RkA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HG5gymA6RkA/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Matplotlib",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-145",
+          "title": "Matplotlib - Line Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPQRRNzXAz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPQRRNzXAz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPQRRNzXAz/video.m3u8",
+          "duration": 1836,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-146",
+          "title": "Matplotlib - Bar Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Cfckb8PZfH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Cfckb8PZfH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Cfckb8PZfH/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-147",
+          "title": "Matplotlib - Pie Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXykx86yNc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXykx86yNc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXykx86yNc/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-148",
+          "title": "Matplotlib - Histograms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ezpdbuJXdb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ezpdbuJXdb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ezpdbuJXdb/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-149",
+          "title": "Matplotlib - Scatter Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtT3d8DEkr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtT3d8DEkr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtT3d8DEkr/video.m3u8",
+          "duration": 459,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-150",
+          "title": "Matplotlib - Sub Plots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2CKRaXsgn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2CKRaXsgn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2CKRaXsgn/video.m3u8",
+          "duration": 739,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Seaborn",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-151",
+          "title": "Seaborn - Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg3g7EGxQn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg3g7EGxQn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg3g7EGxQn/video.m3u8",
+          "duration": 396,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-152",
+          "title": "Seaborn - Line Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96sDkFfxcQy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96sDkFfxcQy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96sDkFfxcQy/video.m3u8",
+          "duration": 1490,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-153",
+          "title": "Seaborn - Bar Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkArsshbkkF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkArsshbkkF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkArsshbkkF/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-154",
+          "title": "Seaborn - Count Plot vs Histogram vs Distplot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyS9X2bzYzy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyS9X2bzYzy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyS9X2bzYzy/video.m3u8",
+          "duration": 1003,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-155",
+          "title": "Seaborn - BoxPlot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HGa77T4B4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HGa77T4B4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HGa77T4B4/video.m3u8",
+          "duration": 656,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-156",
+          "title": "Seaborn - Vioin Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbqycNHkC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbqycNHkC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbqycNHkC7/video.m3u8",
+          "duration": 680,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-157",
+          "title": "Seaborn - Scatter Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93urFdSqzSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93urFdSqzSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93urFdSqzSd/video.m3u8",
+          "duration": 815,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Plotly",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-158",
+          "title": "Plotly - Line Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SmpgPN4xju/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SmpgPN4xju/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SmpgPN4xju/video.m3u8",
+          "duration": 402,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-159",
+          "title": "Plotly - Area Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GaEkBtes3at/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GaEkBtes3at/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GaEkBtes3at/video.m3u8",
+          "duration": 310,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-160",
+          "title": "Plotly -Scatter Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtGbAsQCYZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtGbAsQCYZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtGbAsQCYZk/video.m3u8",
+          "duration": 149,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-161",
+          "title": "Plotly - Box + Violin Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AB9dEZKHTf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AB9dEZKHTf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AB9dEZKHTf/video.m3u8",
+          "duration": 182,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-162",
+          "title": "Plotly - 3-D Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JjcQuKdz2A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JjcQuKdz2A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JjcQuKdz2A/video.m3u8",
+          "duration": 279,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-73",
+          "title": "Visualizing Customer Behavior Using Python",
+          "url": "https://docs.google.com/document/d/1S2ooefaFhtOoNKOt_8WajYLRIOeUa7Ic4XUPpjDCAHk/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1S2ooefaFhtOoNKOt_8WajYLRIOeUa7Ic4XUPpjDCAHk/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1S2ooefaFhtOoNKOt_8WajYLRIOeUa7Ic4XUPpjDCAHk/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1S2ooefaFhtOoNKOt_8WajYLRIOeUa7Ic4XUPpjDCAHk/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Probability",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-163",
+          "title": "Intro to Probablity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GTK4QfQuQY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GTK4QfQuQY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GTK4QfQuQY/video.m3u8",
+          "duration": 124,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-164",
+          "title": "Probability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A9SAsnt4tz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A9SAsnt4tz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A9SAsnt4tz/video.m3u8",
+          "duration": 1293,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-165",
+          "title": "Permutation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r2MMqHY5BNA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r2MMqHY5BNA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r2MMqHY5BNA/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-166",
+          "title": "Combination",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H55f5G3D9g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H55f5G3D9g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H55f5G3D9g/video.m3u8",
+          "duration": 648,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Baye's Theorem",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-167",
+          "title": "Baye_s Theorem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyG22ySs3J6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyG22ySs3J6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyG22ySs3J6/video.m3u8",
+          "duration": 2057,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Discrete Probability (Probability Mass Function)",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-168",
+          "title": "Discrete Probability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SGqCadk2mzR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SGqCadk2mzR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SGqCadk2mzR/video.m3u8",
+          "duration": 1115,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Continuous Probability (Probability Dist Function)",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-169",
+          "title": "Continuous Probability",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cApuxeDy6p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cApuxeDy6p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cApuxeDy6p/video.m3u8",
+          "duration": 3429,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Central Limit Theorem",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-170",
+          "title": "Central Limit Theorem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaActnBtTg3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaActnBtTg3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaActnBtTg3/video.m3u8",
+          "duration": 3418,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-79",
+          "title": "Customer Behavior Analysis Using Statistical Concepts",
+          "url": "https://docs.google.com/document/d/1nHjNl6omgiVTgXmF2svBuvo8kPLl1NHUU-TBoWXIjNM/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1nHjNl6omgiVTgXmF2svBuvo8kPLl1NHUU-TBoWXIjNM/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1nHjNl6omgiVTgXmF2svBuvo8kPLl1NHUU-TBoWXIjNM/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1nHjNl6omgiVTgXmF2svBuvo8kPLl1NHUU-TBoWXIjNM/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hypothesis Testing",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-171",
+          "title": "Hypothesis Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34R6eMhKEHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34R6eMhKEHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34R6eMhKEHF/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-172",
+          "title": "Establish Hypothesis + Tests",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UhYjKpfFD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UhYjKpfFD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UhYjKpfFD/video.m3u8",
+          "duration": 1120,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-173",
+          "title": "Hypothesis Testing - Z,T Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8T2CaxzABY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8T2CaxzABY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8T2CaxzABY/video.m3u8",
+          "duration": 2620,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-174",
+          "title": "Hypothesis Testing - ANOVA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52zDsTqygZG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52zDsTqygZG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52zDsTqygZG/video.m3u8",
+          "duration": 825,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-175",
+          "title": "Hypothesis Testing - KS Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bDtyuSnsMY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bDtyuSnsMY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bDtyuSnsMY/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-176",
+          "title": "Hypothesis Testing - Chi Square Test",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dqx8Q7aeNz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dqx8Q7aeNz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dqx8Q7aeNz/video.m3u8",
+          "duration": 1614,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "AB Testing",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-177",
+          "title": "AB Testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65uuu2xgxZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65uuu2xgxZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65uuu2xgxZr/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "EDA Project",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-178",
+          "title": "Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C37Sxrf8uEp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C37Sxrf8uEp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C37Sxrf8uEp/video.m3u8",
+          "duration": 5056,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Guestimates",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-179",
+          "title": "Gustimates Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzJdtpcDHM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzJdtpcDHM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzJdtpcDHM/video.m3u8",
+          "duration": 1687,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-180",
+          "title": "Guestimate in detail + Problem-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t59Jk3zNkN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t59Jk3zNkN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t59Jk3zNkN/video.m3u8",
+          "duration": 2296,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-181",
+          "title": "Problem-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X8TCdyad94/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X8TCdyad94/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X8TCdyad94/video.m3u8",
+          "duration": 1122,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-182",
+          "title": "Problem-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TgQmJDSTbX9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TgQmJDSTbX9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TgQmJDSTbX9/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-183",
+          "title": "Problem-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Dj8KtfbKSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Dj8KtfbKSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Dj8KtfbKSd/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-184",
+          "title": "Problem-5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rbRFQBJNt36/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rbRFQBJNt36/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rbRFQBJNt36/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-185",
+          "title": "Problem-6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bKjP42cMPq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bKjP42cMPq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bKjP42cMPq/video.m3u8",
+          "duration": 378,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-186",
+          "title": "Problem-7",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PNdepRTHQeJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PNdepRTHQeJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PNdepRTHQeJ/video.m3u8",
+          "duration": 1401,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-84",
+          "title": "Hypothesis Testing for Customer Churn Analysis",
+          "url": "https://docs.google.com/document/d/1FEAi611D2EqNtLjFSlL08xcXePgNEU-j-oYLrPcyqys/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1FEAi611D2EqNtLjFSlL08xcXePgNEU-j-oYLrPcyqys/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1FEAi611D2EqNtLjFSlL08xcXePgNEU-j-oYLrPcyqys/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1FEAi611D2EqNtLjFSlL08xcXePgNEU-j-oYLrPcyqys/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction To ML",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-187",
+          "title": "Introduction To ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hjTSYDeAkB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hjTSYDeAkB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hjTSYDeAkB/video.m3u8",
+          "duration": 2405,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Framing an ML Problem",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-188",
+          "title": "Framing an ML Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HZf9rkZ7cu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HZf9rkZ7cu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HZf9rkZ7cu/video.m3u8",
+          "duration": 1790,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Cleansing",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-189",
+          "title": "Data Cleansing Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7TXqAbZ7zX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7TXqAbZ7zX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7TXqAbZ7zX/video.m3u8",
+          "duration": 238,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-190",
+          "title": "Data Cleansing Practical - 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nJG3Tg3Jpy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nJG3Tg3Jpy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nJG3Tg3Jpy/video.m3u8",
+          "duration": 1601,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-191",
+          "title": "Data Cleansing Practical - 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GhsedaJx4A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GhsedaJx4A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GhsedaJx4A/video.m3u8",
+          "duration": 951,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-192",
+          "title": "Data Cleansing Practical - 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ngRAxmqg5R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ngRAxmqg5R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ngRAxmqg5R/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-193",
+          "title": "Data Cleansing Practical - 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RqKr4ub43a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RqKr4ub43a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RqKr4ub43a/video.m3u8",
+          "duration": 592,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Treating Missing Values",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-194",
+          "title": "Treating Missing Values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aaXcsKzyyr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aaXcsKzyyr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aaXcsKzyyr/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "CCA",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-195",
+          "title": "CCA Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xCtH7GAEZE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xCtH7GAEZE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xCtH7GAEZE/video.m3u8",
+          "duration": 643,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-196",
+          "title": "CCA Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFryBSqqPt3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFryBSqqPt3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFryBSqqPt3/video.m3u8",
+          "duration": 1497,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-90",
+          "title": "Comparing Predictive Models for Customer Churn",
+          "url": "https://docs.google.com/document/d/1dJfHwAOBz8hqKuPHZlsLstj_LRf109dpeC75ThfYVfA/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1dJfHwAOBz8hqKuPHZlsLstj_LRf109dpeC75ThfYVfA/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1dJfHwAOBz8hqKuPHZlsLstj_LRf109dpeC75ThfYVfA/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1dJfHwAOBz8hqKuPHZlsLstj_LRf109dpeC75ThfYVfA/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Mean Median Mode",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-197",
+          "title": "Mean Median Mode Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HCxXPK5s6g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HCxXPK5s6g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HCxXPK5s6g/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-198",
+          "title": "Mean Median Mode Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfSgnCEtfx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfSgnCEtfx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfSgnCEtfx/video.m3u8",
+          "duration": 2282,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Random Sample Imputation",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-199",
+          "title": "Random Sample Imputation Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DPHxY4KrbC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DPHxY4KrbC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DPHxY4KrbC/video.m3u8",
+          "duration": 153,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-200",
+          "title": "Random Sample Imputation Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fsPKdXJTE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fsPKdXJTE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fsPKdXJTE/video.m3u8",
+          "duration": 492,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Missing Indicators",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-201",
+          "title": "Missing Indicators Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D7kdpcT9Xe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D7kdpcT9Xe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D7kdpcT9Xe/video.m3u8",
+          "duration": 166,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-202",
+          "title": "Missing Indicators Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ5QU8NGTkD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ5QU8NGTkD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ5QU8NGTkD/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "KNN Imputation",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-203",
+          "title": "KNN  Imputation Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88UumqGsPE5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88UumqGsPE5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88UumqGsPE5/video.m3u8",
+          "duration": 870,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-204",
+          "title": "KNN  Imputation Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88HH3u7eRFa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88HH3u7eRFa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88HH3u7eRFa/video.m3u8",
+          "duration": 291,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MICE",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-205",
+          "title": "MICE Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtdNsGdd3Tj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtdNsGdd3Tj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtdNsGdd3Tj/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-206",
+          "title": "MICE Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Mdut94gST/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Mdut94gST/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Mdut94gST/video.m3u8",
+          "duration": 468,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-96",
+          "title": "Handling Missing Data Using Advanced Imputation Techniques",
+          "url": "https://docs.google.com/document/d/1mnubyJq_5wFcF9qdWhzmfEZOYPclttzzQphMeDh1KsY/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1mnubyJq_5wFcF9qdWhzmfEZOYPclttzzQphMeDh1KsY/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1mnubyJq_5wFcF9qdWhzmfEZOYPclttzzQphMeDh1KsY/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1mnubyJq_5wFcF9qdWhzmfEZOYPclttzzQphMeDh1KsY/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Outlier Detection",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-207",
+          "title": "Outlier Detection Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/768S5RnpTSa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/768S5RnpTSa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/768S5RnpTSa/video.m3u8",
+          "duration": 790,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-208",
+          "title": "Z-Score based Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXb9SjThAZG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXb9SjThAZG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXb9SjThAZG/video.m3u8",
+          "duration": 898,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-209",
+          "title": "IQR based Filter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tt5z3fyJ2f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tt5z3fyJ2f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tt5z3fyJ2f/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-98",
+          "title": "Data Quality Assessment and Data Cleaning",
+          "url": "https://docs.google.com/document/d/1UOOsG4Q4zKdZ0UOgHkHA3aW6pvwUXkaPbjODWHYh2uc/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1UOOsG4Q4zKdZ0UOgHkHA3aW6pvwUXkaPbjODWHYh2uc/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1UOOsG4Q4zKdZ0UOgHkHA3aW6pvwUXkaPbjODWHYh2uc/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1UOOsG4Q4zKdZ0UOgHkHA3aW6pvwUXkaPbjODWHYh2uc/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "EDA",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-210",
+          "title": "EDA Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQxY3raHBu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQxY3raHBu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQxY3raHBu/video.m3u8",
+          "duration": 349,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-211",
+          "title": "Understanding Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fGuGrnyryu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fGuGrnyryu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fGuGrnyryu/video.m3u8",
+          "duration": 1865,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-212",
+          "title": "Univariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98Tur8yaUPE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98Tur8yaUPE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98Tur8yaUPE/video.m3u8",
+          "duration": 1055,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-213",
+          "title": "Bivariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jaEXPPkEAB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jaEXPPkEAB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jaEXPPkEAB/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-214",
+          "title": "Multivariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A87adZDJst5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A87adZDJst5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A87adZDJst5/video.m3u8",
+          "duration": 729,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-215",
+          "title": "Sweetviz",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6ZR6MSFuNJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6ZR6MSFuNJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6ZR6MSFuNJ/video.m3u8",
+          "duration": 445,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Handling Categorical Values",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-216",
+          "title": "Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "duration": 1535,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-217",
+          "title": "Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "duration": 2516,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-218",
+          "title": "Case Study",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8",
+          "duration": 2291,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Feature Scaling",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-219",
+          "title": "Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8",
+          "duration": 1535,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-220",
+          "title": "Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8",
+          "duration": 2516,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-102",
+          "title": "Preparing Data for Machine Learning Models",
+          "url": "https://docs.google.com/document/d/14feXKj2te1nlrFNAKyJFpg0M42-9MtQuqQLOjRsCww0/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/14feXKj2te1nlrFNAKyJFpg0M42-9MtQuqQLOjRsCww0/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/14feXKj2te1nlrFNAKyJFpg0M42-9MtQuqQLOjRsCww0/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/14feXKj2te1nlrFNAKyJFpg0M42-9MtQuqQLOjRsCww0/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Feature Construction",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-221",
+          "title": "Feature Construction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G97cAb6n4R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G97cAb6n4R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G97cAb6n4R/video.m3u8",
+          "duration": 637,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Feature Selection",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-222",
+          "title": "Correlation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2kypPFM45/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2kypPFM45/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2kypPFM45/video.m3u8",
+          "duration": 1625,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-223",
+          "title": "Mutual Information Score",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jrmHJuUYj3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jrmHJuUYj3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jrmHJuUYj3/video.m3u8",
+          "duration": 826,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-224",
+          "title": "Variance Inflation Factor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FBEmRgXkEB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FBEmRgXkEB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FBEmRgXkEB/video.m3u8",
+          "duration": 645,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-225",
+          "title": "ANOVA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53YnMSyuFes/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53YnMSyuFes/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53YnMSyuFes/video.m3u8",
+          "duration": 350,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-226",
+          "title": "Chi-Square",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X3D7Sr7R7a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X3D7Sr7R7a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X3D7Sr7R7a/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-227",
+          "title": "Recursive Feature Elimination",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qmu6jmR3eS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qmu6jmR3eS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qmu6jmR3eS/video.m3u8",
+          "duration": 2055,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Feature Extraction",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-228",
+          "title": "Feature Extraction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JmdDsdtRja/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JmdDsdtRja/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JmdDsdtRja/video.m3u8",
+          "duration": 1040,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-106",
+          "title": "Customer Segmentation and Feature Engineering",
+          "url": "https://docs.google.com/document/d/1K1JmKOvD8gv4s7BelUXgX8yHak74DeHqWsRzpbW-340/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1K1JmKOvD8gv4s7BelUXgX8yHak74DeHqWsRzpbW-340/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1K1JmKOvD8gv4s7BelUXgX8yHak74DeHqWsRzpbW-340/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1K1JmKOvD8gv4s7BelUXgX8yHak74DeHqWsRzpbW-340/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "All Supervised Models",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-229",
+          "title": "Types of ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ET4ZJzNApP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ET4ZJzNApP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ET4ZJzNApP/video.m3u8",
+          "duration": 2100,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-230",
+          "title": "All Supervised Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3qxNTdc7z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3qxNTdc7z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3qxNTdc7z/video.m3u8",
+          "duration": 3494,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linear Regression",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-231",
+          "title": "Simple LR Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57Jkj2QeeyR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57Jkj2QeeyR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57Jkj2QeeyR/video.m3u8",
+          "duration": 716,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-232",
+          "title": "Assumptions for LR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4js3geBXRkb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4js3geBXRkb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4js3geBXRkb/video.m3u8",
+          "duration": 557,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-233",
+          "title": "Evaluation Metrics for Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqtZfXckMM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqtZfXckMM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqtZfXckMM/video.m3u8",
+          "duration": 1267,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-234",
+          "title": "Types of LR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44tngtaCST4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44tngtaCST4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44tngtaCST4/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-235",
+          "title": "LR Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuKKRSGu3Tp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuKKRSGu3Tp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuKKRSGu3Tp/video.m3u8",
+          "duration": 1907,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-236",
+          "title": "Gradient Descent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cNa7SNSxzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cNa7SNSxzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cNa7SNSxzh/video.m3u8",
+          "duration": 2930,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-237",
+          "title": "Bias Variance Tradeoff",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHdp6XY2qP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHdp6XY2qP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHdp6XY2qP/video.m3u8",
+          "duration": 1178,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-238",
+          "title": "Regularization Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t4zYJ57QKG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t4zYJ57QKG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t4zYJ57QKG/video.m3u8",
+          "duration": 1405,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-239",
+          "title": "Regularization Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93RKNxXxgze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93RKNxXxgze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93RKNxXxgze/video.m3u8",
+          "duration": 829,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Logistic Regression",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-240",
+          "title": "Logistic Regression Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmeAdNUrd6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmeAdNUrd6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmeAdNUrd6A/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-241",
+          "title": "Logistic Regression Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EfRMrfRbFE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EfRMrfRbFE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EfRMrfRbFE/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-242",
+          "title": "Evaluation Metrics for Classification Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5P8yexSKND/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5P8yexSKND/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5P8yexSKND/video.m3u8",
+          "duration": 2454,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-243",
+          "title": "Evaluation Metrics for Classification Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68raB9gSemZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68raB9gSemZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68raB9gSemZ/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-244",
+          "title": "Imbalanced Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8deffmYA9XA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8deffmYA9XA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8deffmYA9XA/video.m3u8",
+          "duration": 1264,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decision Tree",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-245",
+          "title": "Decision Tree Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pC6ttTqjsA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pC6ttTqjsA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pC6ttTqjsA/video.m3u8",
+          "duration": 3131,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-246",
+          "title": "Decision Tree Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JZRu5CcyGG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JZRu5CcyGG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JZRu5CcyGG/video.m3u8",
+          "duration": 1354,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-111",
+          "title": "Customer Churn Prediction Analysis",
+          "url": "https://docs.google.com/document/d/1rWT2Cu4ybkDVbFdBUTGgk84Xn9L0n-mASTesUlP81FI/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1rWT2Cu4ybkDVbFdBUTGgk84Xn9L0n-mASTesUlP81FI/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1rWT2Cu4ybkDVbFdBUTGgk84Xn9L0n-mASTesUlP81FI/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1rWT2Cu4ybkDVbFdBUTGgk84Xn9L0n-mASTesUlP81FI/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "KNN",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-247",
+          "title": "KNN Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NrGEnNDX5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NrGEnNDX5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NrGEnNDX5/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-248",
+          "title": "KNN Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hprRmffCDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hprRmffCDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hprRmffCDh/video.m3u8",
+          "duration": 995,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ensemble Techniques",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-249",
+          "title": "Introduction to Ensemble Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H9yu6bp6aF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H9yu6bp6aF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H9yu6bp6aF/video.m3u8",
+          "duration": 1291,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-250",
+          "title": "Random Forest Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YtePQp6MGS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YtePQp6MGS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YtePQp6MGS/video.m3u8",
+          "duration": 1338,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-251",
+          "title": "Random Forest Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUkpXgzDS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUkpXgzDS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUkpXgzDS/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-252",
+          "title": "Boosting Algorithms Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaJj39MNcS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaJj39MNcS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaJj39MNcS/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-253",
+          "title": "Boosting Algorithms Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CeRksfynpZU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CeRksfynpZU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CeRksfynpZU/video.m3u8",
+          "duration": 1377,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-254",
+          "title": "Stacking Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gPmMxaHe25/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gPmMxaHe25/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gPmMxaHe25/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-255",
+          "title": "Stacking Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMB65gzdGJJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMB65gzdGJJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMB65gzdGJJ/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Naive Bayes",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-256",
+          "title": "Naive Bayes Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99eJqA8DCkc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99eJqA8DCkc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99eJqA8DCkc/video.m3u8",
+          "duration": 1210,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-257",
+          "title": "Naive Bayes Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97hQAz6h5ay/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97hQAz6h5ay/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97hQAz6h5ay/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SVM",
+      "lectures": [
+        {
+          "id": "td-businessanalytics-258",
+          "title": "SVM Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nD4cF97fxk8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nD4cF97fxk8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nD4cF97fxk8/video.m3u8",
+          "duration": 1250,
+          "type": "video"
+        },
+        {
+          "id": "td-businessanalytics-259",
+          "title": "SVM Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTYhjq72j2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTYhjq72j2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTYhjq72j2/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-businessanalytics-116",
+          "title": "Capstone-1",
+          "url": "https://docs.google.com/document/d/1X_tU5LeVc-0mjZXuXyr9Ly3YKEx4xxA-4vlCuC5rvJc/edit?tab=t.0#heading=h.ich9gvb5bbrk",
+          "pdfUrl": "https://docs.google.com/document/d/1X_tU5LeVc-0mjZXuXyr9Ly3YKEx4xxA-4vlCuC5rvJc/edit?tab=t.0#heading=h.ich9gvb5bbrk",
+          "playerUrl": "https://docs.google.com/document/d/1X_tU5LeVc-0mjZXuXyr9Ly3YKEx4xxA-4vlCuC5rvJc/edit?tab=t.0#heading=h.ich9gvb5bbrk",
+          "downloadUrl": "https://docs.google.com/document/d/1X_tU5LeVc-0mjZXuXyr9Ly3YKEx4xxA-4vlCuC5rvJc/edit?tab=t.0#heading=h.ich9gvb5bbrk",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-businessanalytics-117",
+          "title": "Capstone Project-2",
+          "url": "https://docs.google.com/document/d/1OLKy76Y8FdS7rSa-eijXv0NZFuNiQ-8MXe8qfjayPEk/edit?tab=t.0",
+          "pdfUrl": "https://docs.google.com/document/d/1OLKy76Y8FdS7rSa-eijXv0NZFuNiQ-8MXe8qfjayPEk/edit?tab=t.0",
+          "playerUrl": "https://docs.google.com/document/d/1OLKy76Y8FdS7rSa-eijXv0NZFuNiQ-8MXe8qfjayPEk/edit?tab=t.0",
+          "downloadUrl": "https://docs.google.com/document/d/1OLKy76Y8FdS7rSa-eijXv0NZFuNiQ-8MXe8qfjayPEk/edit?tab=t.0",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

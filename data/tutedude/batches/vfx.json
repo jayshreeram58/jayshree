@@ -1,0 +1,191 @@
+{
+  "platform": "TuteDude",
+  "batchId": "vfx",
+  "batchSlug": "vfx",
+  "batchName": "VFX",
+  "thumbnail": "https://www.tutedude.com/assets/avif/vfx.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/vfx",
+  "totalSections": 5,
+  "totalLectures": 15,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-vfx-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "VFX Fundamentals ",
+      "lectures": [
+        {
+          "id": "td-vfx-2",
+          "title": "Intro to vfx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NspuKEZFnq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NspuKEZFnq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NspuKEZFnq/video.m3u8",
+          "duration": 836,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-3",
+          "title": "Get familiar with the Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqKFzZAFHne/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqKFzZAFHne/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqKFzZAFHne/video.m3u8",
+          "duration": 3824,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-4",
+          "title": "Creating first visual effects scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gq9fZuXTTU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gq9fZuXTTU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gq9fZuXTTU/video.m3u8",
+          "duration": 3664,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Scene Creation & Environments",
+      "lectures": [
+        {
+          "id": "td-vfx-5",
+          "title": "Creating a space Scene Vfx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45m9YqK82gX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45m9YqK82gX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45m9YqK82gX/video.m3u8",
+          "duration": 3667,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-6",
+          "title": "Road scene helicoptor jump",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTnMPzdCB7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTnMPzdCB7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTnMPzdCB7/video.m3u8",
+          "duration": 3794,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-7",
+          "title": "Creating rainfall in city",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndE7HKDqef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndE7HKDqef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndE7HKDqef/video.m3u8",
+          "duration": 3770,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-8",
+          "title": "Free flow objects in the air",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueZYu8CPD9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueZYu8CPD9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueZYu8CPD9/video.m3u8",
+          "duration": 3685,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Creative Techniques",
+      "lectures": [
+        {
+          "id": "td-vfx-9",
+          "title": "Creating your own clone",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Hff2Ysxfj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Hff2Ysxfj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Hff2Ysxfj/video.m3u8",
+          "duration": 3520,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-10",
+          "title": "Magically Disappear from the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFQBk7C4Yj6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFQBk7C4Yj6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFQBk7C4Yj6/video.m3u8",
+          "duration": 3873,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-11",
+          "title": "Changing scene with Chroma techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bUFjJk3UP3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bUFjJk3UP3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bUFjJk3UP3/video.m3u8",
+          "duration": 4091,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advance Visual Effects",
+      "lectures": [
+        {
+          "id": "td-vfx-12",
+          "title": "Adding Fire in the Scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EGPXtcmTTd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EGPXtcmTTd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EGPXtcmTTd/video.m3u8",
+          "duration": 3641,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-13",
+          "title": "Creating CG Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MtzFYzTtYh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MtzFYzTtYh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MtzFYzTtYh/video.m3u8",
+          "duration": 2989,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-14",
+          "title": "Tracking objects in live video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F6NmT9h33C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F6NmT9h33C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F6NmT9h33C/video.m3u8",
+          "duration": 4022,
+          "type": "video"
+        },
+        {
+          "id": "td-vfx-15",
+          "title": "Particles in Visual effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SPEBazyHNy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SPEBazyHNy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SPEBazyHNy/video.m3u8",
+          "duration": 3807,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-vfx-6",
+          "title": "Final Assignment",
+          "url": "https://docs.google.com/document/d/1SDNHPEyo1pVg8Lhp_HE5PImbxbj6-Nva-gEurS3PGkY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1SDNHPEyo1pVg8Lhp_HE5PImbxbj6-Nva-gEurS3PGkY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1SDNHPEyo1pVg8Lhp_HE5PImbxbj6-Nva-gEurS3PGkY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1SDNHPEyo1pVg8Lhp_HE5PImbxbj6-Nva-gEurS3PGkY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

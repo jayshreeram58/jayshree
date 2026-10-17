@@ -1,0 +1,1274 @@
+{
+  "platform": "TuteDude",
+  "batchId": "blender",
+  "batchSlug": "blender",
+  "batchName": "Blender",
+  "thumbnail": "https://www.tutedude.com/assets/avif/blender.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/blender",
+  "totalSections": 9,
+  "totalLectures": 91,
+  "totalNotes": 42,
+  "price": "699.00",
+  "category": "Software Development",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-blender-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Blender",
+      "lectures": [
+        {
+          "id": "td-blender-2",
+          "title": "Intro to Blender",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "duration": 73,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics",
+      "lectures": [
+        {
+          "id": "td-blender-3",
+          "title": "Basic UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89FCcEksKzC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89FCcEksKzC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89FCcEksKzC/video.m3u8",
+          "duration": 2104,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-4",
+          "title": "Modeling 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HjaxhQ8gQA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HjaxhQ8gQA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HjaxhQ8gQA/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-5",
+          "title": "Modeling 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DAMQmY2HZX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DAMQmY2HZX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DAMQmY2HZX/video.m3u8",
+          "duration": 500,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-6",
+          "title": "Modeling a Mug",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbA6Z2k9CbN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbA6Z2k9CbN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbA6Z2k9CbN/video.m3u8",
+          "duration": 1690,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-7",
+          "title": "Modifier 1 (subdivision)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ttskyzxeXQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ttskyzxeXQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ttskyzxeXQ/video.m3u8",
+          "duration": 889,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-8",
+          "title": "Street light 1 (subdivision)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U3Mx2s6CRh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U3Mx2s6CRh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U3Mx2s6CRh/video.m3u8",
+          "duration": 1344,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-9",
+          "title": "Street Light 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bbUAgs7S7Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bbUAgs7S7Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bbUAgs7S7Z/video.m3u8",
+          "duration": 1383,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-10",
+          "title": "Street Light 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ep6Er964t3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ep6Er964t3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ep6Er964t3/video.m3u8",
+          "duration": 2182,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-11",
+          "title": "Table 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NcsseBnCR5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NcsseBnCR5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NcsseBnCR5/video.m3u8",
+          "duration": 765,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-12",
+          "title": "Table 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fY9a5XStgE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fY9a5XStgE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fY9a5XStgE/video.m3u8",
+          "duration": 1690,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-13",
+          "title": "texturing basics part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aTPFquQBJG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aTPFquQBJG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aTPFquQBJG/video.m3u8",
+          "duration": 1676,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-14",
+          "title": "Texturing Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sGtyg49gTD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sGtyg49gTD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sGtyg49gTD/video.m3u8",
+          "duration": 3153,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-15",
+          "title": "UV Unwrapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r3ANKPrXuH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r3ANKPrXuH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r3ANKPrXuH/video.m3u8",
+          "duration": 2636,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-16",
+          "title": "Rendering Part I",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRGPsMeXjEb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRGPsMeXjEb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRGPsMeXjEb/video.m3u8",
+          "duration": 1213,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-17",
+          "title": "Rendering II",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxAN59Bq83h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxAN59Bq83h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxAN59Bq83h/video.m3u8",
+          "duration": 3436,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-18",
+          "title": "Rendering Part III",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnczsxffcTb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnczsxffcTb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnczsxffcTb/video.m3u8",
+          "duration": 3846,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-4",
+          "title": "The Sentinel Tower ",
+          "url": "https://docs.google.com/document/d/1so72W_LHp3_p0ZQOekkJhJIn4pHYvThD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1so72W_LHp3_p0ZQOekkJhJIn4pHYvThD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1so72W_LHp3_p0ZQOekkJhJIn4pHYvThD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1so72W_LHp3_p0ZQOekkJhJIn4pHYvThD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-5",
+          "title": "The Modular Watchtower",
+          "url": "https://docs.google.com/document/d/1Ef1iyE4nk88ONnfNiBNhwK9VZZQtfowZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Ef1iyE4nk88ONnfNiBNhwK9VZZQtfowZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Ef1iyE4nk88ONnfNiBNhwK9VZZQtfowZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Ef1iyE4nk88ONnfNiBNhwK9VZZQtfowZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-6",
+          "title": "The Coffee Mug",
+          "url": "https://docs.google.com/document/d/1zWs-j14GFdwaAyB4and5Awwf6N-YYBU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1zWs-j14GFdwaAyB4and5Awwf6N-YYBU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1zWs-j14GFdwaAyB4and5Awwf6N-YYBU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1zWs-j14GFdwaAyB4and5Awwf6N-YYBU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-7",
+          "title": "Street Light Distribution",
+          "url": "https://docs.google.com/document/d/1WljZknQRPd8UJB1v9XJNCyzHm7BLX_JB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WljZknQRPd8UJB1v9XJNCyzHm7BLX_JB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WljZknQRPd8UJB1v9XJNCyzHm7BLX_JB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WljZknQRPd8UJB1v9XJNCyzHm7BLX_JB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-8",
+          "title": "The Ceramic Gallery",
+          "url": "https://docs.google.com/document/d/1ye0S7LEjdklZDMhvvgRjLEJOBdSl9kP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ye0S7LEjdklZDMhvvgRjLEJOBdSl9kP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ye0S7LEjdklZDMhvvgRjLEJOBdSl9kP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ye0S7LEjdklZDMhvvgRjLEJOBdSl9kP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Lantern Project",
+      "lectures": [
+        {
+          "id": "td-blender-19",
+          "title": "Choosing reference image, Screw modifier basics and snap tool basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T8ZS42a9Ze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T8ZS42a9Ze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T8ZS42a9Ze/video.m3u8",
+          "duration": 831,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-20",
+          "title": "Setting up the layout and changing the default startup file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZYfuZDdSjz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZYfuZDdSjz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZYfuZDdSjz/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-21",
+          "title": "3D Modelling the Lantern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x98gQnaaBXj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x98gQnaaBXj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x98gQnaaBXj/video.m3u8",
+          "duration": 843,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-22",
+          "title": "3D modeling the holding bars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pr9u6hs24m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pr9u6hs24m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pr9u6hs24m/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-23",
+          "title": "3D modeling the handle bars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C68ex8aFQz2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C68ex8aFQz2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C68ex8aFQz2/video.m3u8",
+          "duration": 911,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-24",
+          "title": "Material Sots in Lantern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ncQDpa7Qmj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ncQDpa7Qmj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ncQDpa7Qmj/video.m3u8",
+          "duration": 637,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-25",
+          "title": "Metal Color 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGBHCPm7dZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGBHCPm7dZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGBHCPm7dZ/video.m3u8",
+          "duration": 957,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-26",
+          "title": "Metal Color 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9YJYGtA7nU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9YJYGtA7nU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9YJYGtA7nU/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-27",
+          "title": "Lighting and glass",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZaX9yrcpE9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZaX9yrcpE9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZaX9yrcpE9/video.m3u8",
+          "duration": 1260,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-10",
+          "title": "The Lantern (Vertex-to-Volume)",
+          "url": "https://docs.google.com/document/d/1JL7dnJgRL8obJPmpw3wgRo_1nluFHO8Y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1JL7dnJgRL8obJPmpw3wgRo_1nluFHO8Y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1JL7dnJgRL8obJPmpw3wgRo_1nluFHO8Y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1JL7dnJgRL8obJPmpw3wgRo_1nluFHO8Y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-11",
+          "title": " Handlebar Crafting & Asset Organization",
+          "url": "https://docs.google.com/document/d/1GTTayQieMYgxR4g3gW_147qQHtI1zfin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1GTTayQieMYgxR4g3gW_147qQHtI1zfin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1GTTayQieMYgxR4g3gW_147qQHtI1zfin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1GTTayQieMYgxR4g3gW_147qQHtI1zfin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-12",
+          "title": "The Weathered Lantern (Final Polish)",
+          "url": "https://docs.google.com/document/d/1NJc01xWuAp4lnPoudPRCRfZD8msRcaK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1NJc01xWuAp4lnPoudPRCRfZD8msRcaK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1NJc01xWuAp4lnPoudPRCRfZD8msRcaK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1NJc01xWuAp4lnPoudPRCRfZD8msRcaK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-13",
+          "title": "Texturing & Technical Refinement",
+          "url": "https://docs.google.com/document/d/1hdr641UvA34hXf6V3zfMh1FNl0jDBLxN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hdr641UvA34hXf6V3zfMh1FNl0jDBLxN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hdr641UvA34hXf6V3zfMh1FNl0jDBLxN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hdr641UvA34hXf6V3zfMh1FNl0jDBLxN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-14",
+          "title": "Advanced Metal & Procedural Rust",
+          "url": "https://docs.google.com/document/d/1VAGn0SCqwwmMbX0wQ_5V3x3y5_5B8dQB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1VAGn0SCqwwmMbX0wQ_5V3x3y5_5B8dQB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1VAGn0SCqwwmMbX0wQ_5V3x3y5_5B8dQB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1VAGn0SCqwwmMbX0wQ_5V3x3y5_5B8dQB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-15",
+          "title": "The Eternal Flame",
+          "url": "https://docs.google.com/document/d/1MKKh8H4-Rt_tqiJAZj5_eiUZ2yk1WShY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MKKh8H4-Rt_tqiJAZj5_eiUZ2yk1WShY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MKKh8H4-Rt_tqiJAZj5_eiUZ2yk1WShY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MKKh8H4-Rt_tqiJAZj5_eiUZ2yk1WShY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Fire Hydrant Project",
+      "lectures": [
+        {
+          "id": "td-blender-28",
+          "title": "Fire Hydrant references",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86392hdDCyf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86392hdDCyf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86392hdDCyf/video.m3u8",
+          "duration": 714,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-29",
+          "title": "Modeling the base shape",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bggu2ABU7sH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bggu2ABU7sH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bggu2ABU7sH/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-30",
+          "title": "Adding Bolts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTfaA7nSpJA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTfaA7nSpJA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTfaA7nSpJA/video.m3u8",
+          "duration": 866,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-31",
+          "title": "Top Dome of Hydrant",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YTZrUtCay5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YTZrUtCay5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YTZrUtCay5/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-32",
+          "title": "Boolean of side nozzles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JMpdjq3Eku/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JMpdjq3Eku/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JMpdjq3Eku/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-33",
+          "title": "Boolean-Cleanup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBPXPKnMck8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBPXPKnMck8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBPXPKnMck8/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-34",
+          "title": "Boolean-smoothing and Mirror modifier",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DADdRd8yZq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DADdRd8yZq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DADdRd8yZq/video.m3u8",
+          "duration": 965,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-35",
+          "title": "Boolean Alternative for metal welding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99guqJxtSyT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99guqJxtSyT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99guqJxtSyT/video.m3u8",
+          "duration": 654,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-36",
+          "title": "Central Nozzle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92BR828SsYk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92BR828SsYk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92BR828SsYk/video.m3u8",
+          "duration": 690,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-37",
+          "title": "Sky texture settings and base material setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36B2QDkcMsG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36B2QDkcMsG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36B2QDkcMsG/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-38",
+          "title": "Sky light and Exposure values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QSKg6ZxRx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QSKg6ZxRx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QSKg6ZxRx/video.m3u8",
+          "duration": 765,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-39",
+          "title": "Texture Prep",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeGfTSMBzk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeGfTSMBzk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeGfTSMBzk/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-17",
+          "title": "Mechanical Detailing & High-Poly Workflow",
+          "url": "https://docs.google.com/document/d/1wN_SAoqcmaFONu-0d89BbsCQyrKvVzcr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1wN_SAoqcmaFONu-0d89BbsCQyrKvVzcr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1wN_SAoqcmaFONu-0d89BbsCQyrKvVzcr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1wN_SAoqcmaFONu-0d89BbsCQyrKvVzcr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-18",
+          "title": "Radial Hardware & Offset Arrays",
+          "url": "https://docs.google.com/document/d/1FB_CK9qTX3fx7dPdzfyMtHNpcZyg9tt2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1FB_CK9qTX3fx7dPdzfyMtHNpcZyg9tt2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1FB_CK9qTX3fx7dPdzfyMtHNpcZyg9tt2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1FB_CK9qTX3fx7dPdzfyMtHNpcZyg9tt2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-19",
+          "title": "The Fire Hydrant Dome",
+          "url": "https://docs.google.com/document/d/1MB1Ofci3PhUNkbwgwQdFjFCzJN5dC1PX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1MB1Ofci3PhUNkbwgwQdFjFCzJN5dC1PX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1MB1Ofci3PhUNkbwgwQdFjFCzJN5dC1PX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1MB1Ofci3PhUNkbwgwQdFjFCzJN5dC1PX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-20",
+          "title": "Nozzle Integration & Boolean Logic",
+          "url": "https://docs.google.com/document/d/1deVj_4pWavtIw7d3UUH7bzD7rL5lXXj-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1deVj_4pWavtIw7d3UUH7bzD7rL5lXXj-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1deVj_4pWavtIw7d3UUH7bzD7rL5lXXj-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1deVj_4pWavtIw7d3UUH7bzD7rL5lXXj-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-21",
+          "title": "Topology Repair & Local Transforms",
+          "url": "https://docs.google.com/document/d/1Io0f641Q8DBOzXWT_wUvcNxG7KLY_Wzi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Io0f641Q8DBOzXWT_wUvcNxG7KLY_Wzi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Io0f641Q8DBOzXWT_wUvcNxG7KLY_Wzi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Io0f641Q8DBOzXWT_wUvcNxG7KLY_Wzi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-22",
+          "title": "The Bevel & Mirror Workflow",
+          "url": "https://docs.google.com/document/d/1cjZAS0rAUVd__J0lwNN4WAXb5qqGI7DX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1cjZAS0rAUVd__J0lwNN4WAXb5qqGI7DX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1cjZAS0rAUVd__J0lwNN4WAXb5qqGI7DX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1cjZAS0rAUVd__J0lwNN4WAXb5qqGI7DX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-23",
+          "title": "Central Nozzle Assembly",
+          "url": "https://docs.google.com/document/d/1ANt8ei8rADZThqW47fxlSzfAeCdxp922/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ANt8ei8rADZThqW47fxlSzfAeCdxp922/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ANt8ei8rADZThqW47fxlSzfAeCdxp922/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ANt8ei8rADZThqW47fxlSzfAeCdxp922/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Grenade",
+      "lectures": [
+        {
+          "id": "td-blender-40",
+          "title": "Intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8",
+          "duration": 73,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-41",
+          "title": "Modeling the base of grenade 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEuxmYQGGb2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEuxmYQGGb2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEuxmYQGGb2/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-42",
+          "title": "Modeling the top of grenade 1 Part - I",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9BE5Nr6ZB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9BE5Nr6ZB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9BE5Nr6ZB/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-43",
+          "title": "Modelling the top of grenade 1 part -II",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AReHttaxdU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AReHttaxdU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AReHttaxdU/video.m3u8",
+          "duration": 779,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-44",
+          "title": "modeling the top of grenade 1 part - III",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CNac5PERU5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CNac5PERU5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CNac5PERU5/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-45",
+          "title": "Texturing Grenade 1 part - I",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ajPZQtEGm6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ajPZQtEGm6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ajPZQtEGm6/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-46",
+          "title": "Texturing and UV Unwrap Grenade 1 Part - II",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqe63QSqpsE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqe63QSqpsE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqe63QSqpsE/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-47",
+          "title": "Texture Painting of Grenade 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CEEPQNSU6Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CEEPQNSU6Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CEEPQNSU6Z/video.m3u8",
+          "duration": 700,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-48",
+          "title": "Lighting and Texture Details Part - I",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TK8ScfT4Bz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TK8ScfT4Bz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TK8ScfT4Bz/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-49",
+          "title": "Grenade -2 Modeling Base",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak2jqh29gt8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak2jqh29gt8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak2jqh29gt8/video.m3u8",
+          "duration": 807,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-50",
+          "title": "Grenade 2 - Modelling the top handle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xNZNrrEyc2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xNZNrrEyc2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xNZNrrEyc2/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-51",
+          "title": "Grenade - 2 Modeling the top part",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7G8EuahHgF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7G8EuahHgF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7G8EuahHgF/video.m3u8",
+          "duration": 448,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-52",
+          "title": "Grenade 2 Adding the ring",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t23ksYNjHh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t23ksYNjHh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t23ksYNjHh/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-53",
+          "title": "Grenade -2 Adding details and bevels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ5B8Rn4UKQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ5B8Rn4UKQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ5B8Rn4UKQ/video.m3u8",
+          "duration": 506,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-54",
+          "title": "Grenade -2 Base Material Setup and UV unwrap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ky7DCq3pyF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ky7DCq3pyF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ky7DCq3pyF/video.m3u8",
+          "duration": 245,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-55",
+          "title": "Adding Texture Details using Texture painting and Layering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UpBdPhS7Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UpBdPhS7Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UpBdPhS7Z/video.m3u8",
+          "duration": 983,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-56",
+          "title": "Grenade -2 Rendering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QSdhdm4p36/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QSdhdm4p36/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QSdhdm4p36/video.m3u8",
+          "duration": 211,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-25",
+          "title": "The Frag Grenade (Lathe Workflow)",
+          "url": "https://docs.google.com/document/d/1IJkbpBhlb1FAiyDRXoE5svTGcZxUCX-H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1IJkbpBhlb1FAiyDRXoE5svTGcZxUCX-H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1IJkbpBhlb1FAiyDRXoE5svTGcZxUCX-H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1IJkbpBhlb1FAiyDRXoE5svTGcZxUCX-H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-26",
+          "title": "Grenade Mechanism (Part I)",
+          "url": "https://docs.google.com/document/d/1ztgXBdH8Kx6puq7wD0vrw6_Enf_ogA7_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ztgXBdH8Kx6puq7wD0vrw6_Enf_ogA7_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ztgXBdH8Kx6puq7wD0vrw6_Enf_ogA7_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ztgXBdH8Kx6puq7wD0vrw6_Enf_ogA7_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-27",
+          "title": "Mechanical Integration & The Safety Clip",
+          "url": "https://docs.google.com/document/d/144-qEeqXG6chFeuS5DNJi1l2zJdJ56DN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/144-qEeqXG6chFeuS5DNJi1l2zJdJ56DN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/144-qEeqXG6chFeuS5DNJi1l2zJdJ56DN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/144-qEeqXG6chFeuS5DNJi1l2zJdJ56DN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-28",
+          "title": "The Pull Ring & Spring",
+          "url": "https://docs.google.com/document/d/1D6VXoY1T-kCYhGvDbz3yjcCCkow-Fqeq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1D6VXoY1T-kCYhGvDbz3yjcCCkow-Fqeq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1D6VXoY1T-kCYhGvDbz3yjcCCkow-Fqeq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1D6VXoY1T-kCYhGvDbz3yjcCCkow-Fqeq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-29",
+          "title": "Texture Prep & UV Foundations",
+          "url": "https://docs.google.com/document/d/1skqavzc657G4RZV9VmgcCENmWCXszsjQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1skqavzc657G4RZV9VmgcCENmWCXszsjQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1skqavzc657G4RZV9VmgcCENmWCXszsjQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1skqavzc657G4RZV9VmgcCENmWCXszsjQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-30",
+          "title": "PBR Grunge & Advanced Shading",
+          "url": "https://docs.google.com/document/d/1dSHn-dGINJ3gAjWg6YOmJsvdv_6rz15q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1dSHn-dGINJ3gAjWg6YOmJsvdv_6rz15q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1dSHn-dGINJ3gAjWg6YOmJsvdv_6rz15q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1dSHn-dGINJ3gAjWg6YOmJsvdv_6rz15q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Architectural Visualisation",
+      "lectures": [
+        {
+          "id": "td-blender-57",
+          "title": "archviz one",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFUHuB9C9j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFUHuB9C9j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFUHuB9C9j/video.m3u8",
+          "duration": 3601,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-58",
+          "title": "FSPY tutorial - Importing and setting up in blender",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fYZaC453Ef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fYZaC453Ef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fYZaC453Ef/video.m3u8",
+          "duration": 803,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-59",
+          "title": "FSPY tutorial camera projection mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkTQq7XNeGc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkTQq7XNeGc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkTQq7XNeGc/video.m3u8",
+          "duration": 775,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-60",
+          "title": "library blockout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn8ZQNbGfZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn8ZQNbGfZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn8ZQNbGfZ/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-61",
+          "title": "Fixing errors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnrYatkKYfr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnrYatkKYfr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnrYatkKYfr/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-62",
+          "title": "Explanation to shadow catcher",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmBqBR82Pj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmBqBR82Pj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmBqBR82Pj/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-63",
+          "title": "Use case of shadow catcher",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GjgDZqpCnE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GjgDZqpCnE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GjgDZqpCnE/video.m3u8",
+          "duration": 1685,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-64",
+          "title": "multiple approach to complex projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gk24yreYxx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gk24yreYxx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gk24yreYxx/video.m3u8",
+          "duration": 730,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-65",
+          "title": "Very Important Full workflow of archviz from reference",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g6pYAZheCU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g6pYAZheCU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g6pYAZheCU/video.m3u8",
+          "duration": 4091,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-32",
+          "title": "Importing fSpy Data and Scene Blocking in Blender",
+          "url": "https://docs.google.com/document/d/11-R1nIRYyt5SWg9_T-BcD-xZ7tBkHy-C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11-R1nIRYyt5SWg9_T-BcD-xZ7tBkHy-C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11-R1nIRYyt5SWg9_T-BcD-xZ7tBkHy-C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11-R1nIRYyt5SWg9_T-BcD-xZ7tBkHy-C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-33",
+          "title": "ArchViz Workflow and Basic Blockout",
+          "url": "https://docs.google.com/document/d/1p3mEUbc2XGLzNIWNGCK7h1GzYQpdOdBF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1p3mEUbc2XGLzNIWNGCK7h1GzYQpdOdBF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1p3mEUbc2XGLzNIWNGCK7h1GzYQpdOdBF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1p3mEUbc2XGLzNIWNGCK7h1GzYQpdOdBF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-34",
+          "title": "Architectural Visualization – Initial Scene Blockout",
+          "url": "https://docs.google.com/document/d/1bjJWoIOXtglGPoSm-KEcpPFUx-XIcrVA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1bjJWoIOXtglGPoSm-KEcpPFUx-XIcrVA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1bjJWoIOXtglGPoSm-KEcpPFUx-XIcrVA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1bjJWoIOXtglGPoSm-KEcpPFUx-XIcrVA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-35",
+          "title": "Shadow Catcher and Compositing Integration",
+          "url": "https://docs.google.com/document/d/1H9Rc4q-a2PPQ1Aei83ls7MwmbyJEdFt0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1H9Rc4q-a2PPQ1Aei83ls7MwmbyJEdFt0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1H9Rc4q-a2PPQ1Aei83ls7MwmbyJEdFt0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1H9Rc4q-a2PPQ1Aei83ls7MwmbyJEdFt0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Space VFX - PART 1",
+      "lectures": [
+        {
+          "id": "td-blender-66",
+          "title": "Setting up scene and Textures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xk8EdbTPtY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xk8EdbTPtY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xk8EdbTPtY/video.m3u8",
+          "duration": 1329,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-67",
+          "title": "Adding base texture to surface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9StM8DTPBdK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9StM8DTPBdK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9StM8DTPBdK/video.m3u8",
+          "duration": 858,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-68",
+          "title": "Atmosphere",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rr6S9he2gJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rr6S9he2gJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rr6S9he2gJ/video.m3u8",
+          "duration": 677,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-69",
+          "title": "Tweaking atmosphere and subdiv values",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUE4GrkX7Hp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUE4GrkX7Hp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUE4GrkX7Hp/video.m3u8",
+          "duration": 936,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-70",
+          "title": "adding clouds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQA9thMsrg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQA9thMsrg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQA9thMsrg/video.m3u8",
+          "duration": 1364,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-71",
+          "title": "Compositing the Entire scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuASta4cxCh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuASta4cxCh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuASta4cxCh/video.m3u8",
+          "duration": 1086,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-72",
+          "title": "Spaceship-I (Blockout)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AtNPAfST6D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AtNPAfST6D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AtNPAfST6D/video.m3u8",
+          "duration": 1132,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-73",
+          "title": "adding material and earth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GpZ2gSJA9x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GpZ2gSJA9x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GpZ2gSJA9x/video.m3u8",
+          "duration": 1381,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-74",
+          "title": "adding glass material and object",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TeuuqAA9Fe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TeuuqAA9Fe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TeuuqAA9Fe/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-75",
+          "title": "adding another glass and fixing the render perspective",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDJfSaB7Ak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDJfSaB7Ak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDJfSaB7Ak/video.m3u8",
+          "duration": 544,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-76",
+          "title": "adding a different window",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TtJCHf8BfN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TtJCHf8BfN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TtJCHf8BfN/video.m3u8",
+          "duration": 1840,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-77",
+          "title": "Alternate compositing and look",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHD7e9JrE5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHD7e9JrE5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHD7e9JrE5/video.m3u8",
+          "duration": 1575,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-78",
+          "title": "adding a better texture for spaceship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JQ5ha5QfS6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JQ5ha5QfS6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JQ5ha5QfS6/video.m3u8",
+          "duration": 1006,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-79",
+          "title": "Minor final tweaks to get that hollywood look and some tips",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACngxaDz6D5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACngxaDz6D5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACngxaDz6D5/video.m3u8",
+          "duration": 2412,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-37",
+          "title": "Planetary Foundations",
+          "url": "https://docs.google.com/document/d/1l5836AFzQI0I0GZc74e64vSAKHAQ8T-z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1l5836AFzQI0I0GZc74e64vSAKHAQ8T-z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1l5836AFzQI0I0GZc74e64vSAKHAQ8T-z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1l5836AFzQI0I0GZc74e64vSAKHAQ8T-z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-38",
+          "title": "Adaptive Displacement & Surface Logic",
+          "url": "https://docs.google.com/document/d/1jDO9Nx_8qZNcuQLDT7kTDDDdubBtoSsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jDO9Nx_8qZNcuQLDT7kTDDDdubBtoSsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jDO9Nx_8qZNcuQLDT7kTDDDdubBtoSsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jDO9Nx_8qZNcuQLDT7kTDDDdubBtoSsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-39",
+          "title": "Volumetric Atmosphere & Composition",
+          "url": "https://docs.google.com/document/d/1EDRZRkf_AONdi1OTjH8TyRKJnDF9DwlJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1EDRZRkf_AONdi1OTjH8TyRKJnDF9DwlJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1EDRZRkf_AONdi1OTjH8TyRKJnDF9DwlJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1EDRZRkf_AONdi1OTjH8TyRKJnDF9DwlJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-40",
+          "title": "Data Calibration & Atmospheric Rayleigh",
+          "url": "https://docs.google.com/document/d/1U0Tq2iP6wyZiwslI4ETPqm_I4VKvQnwx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1U0Tq2iP6wyZiwslI4ETPqm_I4VKvQnwx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1U0Tq2iP6wyZiwslI4ETPqm_I4VKvQnwx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1U0Tq2iP6wyZiwslI4ETPqm_I4VKvQnwx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-41",
+          "title": "Layering & Cloud Volumetrics",
+          "url": "https://docs.google.com/document/d/1r4LCNRMqau_KzhxF6oVp5AIOQmw9dKob/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1r4LCNRMqau_KzhxF6oVp5AIOQmw9dKob/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1r4LCNRMqau_KzhxF6oVp5AIOQmw9dKob/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1r4LCNRMqau_KzhxF6oVp5AIOQmw9dKob/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-42",
+          "title": "Final Compositing & Volume Isolation",
+          "url": "https://docs.google.com/document/d/1tsVk9ZLQYpEr5MO2LjqMP8Y4AmBnZ87i/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1tsVk9ZLQYpEr5MO2LjqMP8Y4AmBnZ87i/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1tsVk9ZLQYpEr5MO2LjqMP8Y4AmBnZ87i/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1tsVk9ZLQYpEr5MO2LjqMP8Y4AmBnZ87i/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-43",
+          "title": "Cinematic Integration & Optical Systems",
+          "url": "https://docs.google.com/document/d/1TltemH3bhbVpgxf9FY3gmbldo31olCgN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1TltemH3bhbVpgxf9FY3gmbldo31olCgN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1TltemH3bhbVpgxf9FY3gmbldo31olCgN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1TltemH3bhbVpgxf9FY3gmbldo31olCgN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terrain FX",
+      "lectures": [
+        {
+          "id": "td-blender-80",
+          "title": "Basic sculpting techniques for terrain.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azyhNbBcPF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azyhNbBcPF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azyhNbBcPF/video.m3u8",
+          "duration": 1494,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-81",
+          "title": "Megascans tutorial.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZFNJSM4ds/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZFNJSM4ds/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZFNJSM4ds/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-82",
+          "title": "Importing megascans assets into blender.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxBc6rCQ4uT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxBc6rCQ4uT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxBc6rCQ4uT/video.m3u8",
+          "duration": 1797,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-83",
+          "title": "Terrain Material Setup and Weight painting.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HjuRyuePNX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HjuRyuePNX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HjuRyuePNX/video.m3u8",
+          "duration": 1787,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-84",
+          "title": "Scattering grass the default way.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgKdDDfpyz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgKdDDfpyz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgKdDDfpyz/video.m3u8",
+          "duration": 1265,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-85",
+          "title": "Beautiful Pond secene using advanced terrain techniques.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Qdbg2a7s4H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Qdbg2a7s4H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Qdbg2a7s4H/video.m3u8",
+          "duration": 1641,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-86",
+          "title": "Adding Detailed assets to the scene with texture painting.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5uHRgSz9e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5uHRgSz9e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5uHRgSz9e/video.m3u8",
+          "duration": 2167,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-87",
+          "title": "Water shader plugin.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99daA48Rq2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99daA48Rq2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99daA48Rq2h/video.m3u8",
+          "duration": 975,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-88",
+          "title": "More Assets.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cMJPU7UJtR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cMJPU7UJtR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cMJPU7UJtR/video.m3u8",
+          "duration": 1403,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-89",
+          "title": "Adding Boats.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkZbPsG8eC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkZbPsG8eC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkZbPsG8eC/video.m3u8",
+          "duration": 1750,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-90",
+          "title": "Animation and Dynamic Paint.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mNzn8E7yrY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mNzn8E7yrY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mNzn8E7yrY/video.m3u8",
+          "duration": 2304,
+          "type": "video"
+        },
+        {
+          "id": "td-blender-91",
+          "title": "Adding Dynamic paint to boats and water.mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRh2G4d5YUQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRh2G4d5YUQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRh2G4d5YUQ/video.m3u8",
+          "duration": 1799,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blender-45",
+          "title": "Designing Custom Realistic Terrain",
+          "url": "https://docs.google.com/document/d/1kLOY4spXeBN8aVY6MyZR8lfiPyTMgajb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kLOY4spXeBN8aVY6MyZR8lfiPyTMgajb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kLOY4spXeBN8aVY6MyZR8lfiPyTMgajb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kLOY4spXeBN8aVY6MyZR8lfiPyTMgajb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-46",
+          "title": " Advanced Terrain Creation and Material Masking",
+          "url": "https://docs.google.com/document/d/1QGnNzQwDllUa8EfW1sWeRFReEB7hGEZf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1QGnNzQwDllUa8EfW1sWeRFReEB7hGEZf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1QGnNzQwDllUa8EfW1sWeRFReEB7hGEZf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1QGnNzQwDllUa8EfW1sWeRFReEB7hGEZf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-47",
+          "title": "Advanced Scene Scattering and Environmental Detailing",
+          "url": "https://docs.google.com/document/d/1hMfWpkgNOIDRJgBlL4Tx_zNmnUuM0Y5F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hMfWpkgNOIDRJgBlL4Tx_zNmnUuM0Y5F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hMfWpkgNOIDRJgBlL4Tx_zNmnUuM0Y5F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hMfWpkgNOIDRJgBlL4Tx_zNmnUuM0Y5F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-48",
+          "title": "Detailed Environment & Texture Painting",
+          "url": "https://docs.google.com/document/d/1Pv9FgxBJdmRaFHnNdbFBSYOTM6nFG7X5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Pv9FgxBJdmRaFHnNdbFBSYOTM6nFG7X5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Pv9FgxBJdmRaFHnNdbFBSYOTM6nFG7X5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Pv9FgxBJdmRaFHnNdbFBSYOTM6nFG7X5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-49",
+          "title": "Advanced Water Environment Creation",
+          "url": "https://docs.google.com/document/d/1AQdLZSO54vmacXfgt8Ce_2o5z6fmqkwP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1AQdLZSO54vmacXfgt8Ce_2o5z6fmqkwP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1AQdLZSO54vmacXfgt8Ce_2o5z6fmqkwP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1AQdLZSO54vmacXfgt8Ce_2o5z6fmqkwP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-50",
+          "title": "Optimized Nature Scene Population",
+          "url": "https://docs.google.com/document/d/16S7HGwYTAtU80-yuZqNSVXGWwQCTs_my/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/16S7HGwYTAtU80-yuZqNSVXGWwQCTs_my/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/16S7HGwYTAtU80-yuZqNSVXGWwQCTs_my/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/16S7HGwYTAtU80-yuZqNSVXGWwQCTs_my/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blender-51",
+          "title": "Dynamic Paint and Animation Basics",
+          "url": "https://docs.google.com/document/d/1WxdHHvt0DO9pbiFSbJDKkOJ_hb5vywJG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WxdHHvt0DO9pbiFSbJDKkOJ_hb5vywJG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WxdHHvt0DO9pbiFSbJDKkOJ_hb5vywJG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WxdHHvt0DO9pbiFSbJDKkOJ_hb5vywJG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

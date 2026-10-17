@@ -1,0 +1,1019 @@
+{
+  "platform": "TuteDude",
+  "batchId": "web3",
+  "batchSlug": "web3",
+  "batchName": "Web3 Mastery",
+  "thumbnail": "https://www.tutedude.com/assets/avif/web3.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/web3",
+  "totalSections": 17,
+  "totalLectures": 99,
+  "totalNotes": 1,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Course Overview",
+      "lectures": [
+        {
+          "id": "td-web3-1",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48nx5sJft2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48nx5sJft2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48nx5sJft2h/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To Blockchain",
+      "lectures": [
+        {
+          "id": "td-web3-2",
+          "title": "Welcome To Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUPSThZp2Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUPSThZp2Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUPSThZp2Q/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-3",
+          "title": "Distributed systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FamHsSKdyM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FamHsSKdyM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FamHsSKdyM/video.m3u8",
+          "duration": 934,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-4",
+          "title": "History",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJXzJcJmsf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJXzJcJmsf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJXzJcJmsf/video.m3u8",
+          "duration": 1298,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-5",
+          "title": "Introduction to blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C56MS9NPU9t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C56MS9NPU9t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C56MS9NPU9t/video.m3u8",
+          "duration": 707,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-6",
+          "title": "Generic Elements Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TzXnpXtsxM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TzXnpXtsxM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TzXnpXtsxM/video.m3u8",
+          "duration": 1121,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-7",
+          "title": "Types Of Consensus",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYjruN2NEu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYjruN2NEu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYjruN2NEu/video.m3u8",
+          "duration": 1091,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-8",
+          "title": "Features Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDb4ureMHSa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDb4ureMHSa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDb4ureMHSa/video.m3u8",
+          "duration": 1806,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-9",
+          "title": "Applications Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g4XfQYX9pQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g4XfQYX9pQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g4XfQYX9pQ/video.m3u8",
+          "duration": 863,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-10",
+          "title": "Types Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHZCGe3mUD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHZCGe3mUD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHZCGe3mUD/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-11",
+          "title": "Benefits And Limitations Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afum6qQ4DCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afum6qQ4DCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afum6qQ4DCp/video.m3u8",
+          "duration": 347,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-12",
+          "title": "Mining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtacCmPnbhA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtacCmPnbhA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtacCmPnbhA/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Solidity",
+      "lectures": [
+        {
+          "id": "td-web3-13",
+          "title": "Introduction To Solidity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa43RR9ExPP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa43RR9ExPP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa43RR9ExPP/video.m3u8",
+          "duration": 819,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-14",
+          "title": "Conditional and loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mN65HGFNKDT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mN65HGFNKDT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mN65HGFNKDT/video.m3u8",
+          "duration": 1099,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-15",
+          "title": "Arrays And Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4YeMXhRkNd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4YeMXhRkNd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4YeMXhRkNd/video.m3u8",
+          "duration": 1462,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-16",
+          "title": "Mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r4SjhuGRjY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r4SjhuGRjY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r4SjhuGRjY/video.m3u8",
+          "duration": 705,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-17",
+          "title": "Inheritance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYhrhmUthC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYhrhmUthC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYhrhmUthC/video.m3u8",
+          "duration": 893,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-18",
+          "title": "Interfaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qScpRfjb9K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qScpRfjb9K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qScpRfjb9K/video.m3u8",
+          "duration": 1346,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-19",
+          "title": "Abstract Contracts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fq87URjbyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fq87URjbyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fq87URjbyH/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-20",
+          "title": "Interfaces,Abstract and Inheritence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XaXGshaJah/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XaXGshaJah/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XaXGshaJah/video.m3u8",
+          "duration": 1772,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-21",
+          "title": "Functions to revert transactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DUM2cFY4dr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DUM2cFY4dr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DUM2cFY4dr/video.m3u8",
+          "duration": 434,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-22",
+          "title": "Deploying one contract in another",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhUCe9j5YJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhUCe9j5YJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhUCe9j5YJ/video.m3u8",
+          "duration": 1013,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-23",
+          "title": "Injected Web3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdCfHrsqFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdCfHrsqFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdCfHrsqFr/video.m3u8",
+          "duration": 717,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-24",
+          "title": "Gas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9Xu33G7nrt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9Xu33G7nrt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9Xu33G7nrt/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-25",
+          "title": "Storage Locations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gB8xFsdkdE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gB8xFsdkdE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gB8xFsdkdE/video.m3u8",
+          "duration": 465,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-26",
+          "title": "Oracles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q9N5u8jUGf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q9N5u8jUGf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q9N5u8jUGf/video.m3u8",
+          "duration": 254,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-27",
+          "title": "Keeping Private Key Safe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rs9Mpqe3S6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rs9Mpqe3S6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rs9Mpqe3S6/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Remix Simple Storage",
+      "lectures": [
+        {
+          "id": "td-web3-28",
+          "title": "Simple Storage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e4suZ7MKxXh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e4suZ7MKxXh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e4suZ7MKxXh/video.m3u8",
+          "duration": 1307,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Remix Fundme",
+      "lectures": [
+        {
+          "id": "td-web3-29",
+          "title": "FundMe Remix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9myyr9njDYG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9myyr9njDYG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9myyr9njDYG/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-30",
+          "title": "Methods Used to Pay",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPSEgCKz2K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPSEgCKz2K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPSEgCKz2K/video.m3u8",
+          "duration": 502,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-31",
+          "title": "Withdraw in Remix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qsEk5nz9hd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qsEk5nz9hd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qsEk5nz9hd/video.m3u8",
+          "duration": 1053,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-32",
+          "title": "Keep track of Funders using Mapping",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BTHs34kNqh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BTHs34kNqh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BTHs34kNqh/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Javascipt Basics",
+      "lectures": [
+        {
+          "id": "td-web3-33",
+          "title": "JS introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FuPrgyEjPg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FuPrgyEjPg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FuPrgyEjPg/video.m3u8",
+          "duration": 1415,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-34",
+          "title": "JS functions and Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXAq6eGYbp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXAq6eGYbp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXAq6eGYbp/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-35",
+          "title": "Events in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gPxXN7nzdH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gPxXN7nzdH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gPxXN7nzdH/video.m3u8",
+          "duration": 651,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-36",
+          "title": "Arrays in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASAsJcKqsZT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASAsJcKqsZT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASAsJcKqsZT/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-37",
+          "title": "Conditional Statements and Looping in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E2SSDmmptH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E2SSDmmptH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E2SSDmmptH/video.m3u8",
+          "duration": 726,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-38",
+          "title": "Date in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Gh5xpBm3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Gh5xpBm3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Gh5xpBm3c/video.m3u8",
+          "duration": 484,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-39",
+          "title": "Callbacks,Async_Await in JS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaxY7ra4hH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaxY7ra4hH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaxY7ra4hH/video.m3u8",
+          "duration": 677,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ethers.js Simple Storage",
+      "lectures": [
+        {
+          "id": "td-web3-40",
+          "title": "Basic Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NJ5dyRMEkF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NJ5dyRMEkF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NJ5dyRMEkF/video.m3u8",
+          "duration": 297,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-41",
+          "title": "Simple storage intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cBRDpUuy3n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cBRDpUuy3n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cBRDpUuy3n/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-42",
+          "title": "Simple Storage deploy.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TR6e6Xr9bg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TR6e6Xr9bg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TR6e6Xr9bg/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-43",
+          "title": "Signing Transactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JdcDPPHj2QP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JdcDPPHj2QP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JdcDPPHj2QP/video.m3u8",
+          "duration": 538,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-44",
+          "title": "Interacting with Smart Contract",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ujEx63Db9d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ujEx63Db9d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ujEx63Db9d/video.m3u8",
+          "duration": 718,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-45",
+          "title": "Verifying Contracts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7akxmYtj5h7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7akxmYtj5h7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7akxmYtj5h7/video.m3u8",
+          "duration": 908,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat Simple Storage",
+      "lectures": [
+        {
+          "id": "td-web3-46",
+          "title": "Hardhat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BeMR2uGuke/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BeMR2uGuke/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BeMR2uGuke/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-47",
+          "title": "Working With Hardhat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhgyZhbcP5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhgyZhbcP5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhgyZhbcP5/video.m3u8",
+          "duration": 1808,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-48",
+          "title": "Dotenv",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JSfNfxRNhK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JSfNfxRNhK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JSfNfxRNhK/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-49",
+          "title": "Keeping Private Key Safe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z4yxcjFgMX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z4yxcjFgMX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z4yxcjFgMX/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-50",
+          "title": "Interacting with contract in Hardhat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJzt4KTejeK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJzt4KTejeK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJzt4KTejeK/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat Fundme",
+      "lectures": [
+        {
+          "id": "td-web3-51",
+          "title": "Hardhat Fundme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hJ2SGQuerH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hJ2SGQuerH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hJ2SGQuerH/video.m3u8",
+          "duration": 674,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-52",
+          "title": "Deploy for Fundme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUdNyrKcTXg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUdNyrKcTXg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUdNyrKcTXg/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-53",
+          "title": "Customised Deploying of Fundme",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yUtKtZYFaZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yUtKtZYFaZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yUtKtZYFaZ/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-54",
+          "title": "Deploying in Sepolia network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTzXA4Nmuc4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTzXA4Nmuc4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTzXA4Nmuc4/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-55",
+          "title": "Interact With Contract in Hardhat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEMNFYXHYP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEMNFYXHYP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEMNFYXHYP/video.m3u8",
+          "duration": 756,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-56",
+          "title": "Deploying using Metamask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctUZrggbGd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctUZrggbGd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctUZrggbGd/video.m3u8",
+          "duration": 566,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "HTML/Javascript Fund Me",
+      "lectures": [
+        {
+          "id": "td-web3-57",
+          "title": "Connecting to Browser",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bf7Ry5ghfZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bf7Ry5ghfZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bf7Ry5ghfZ/video.m3u8",
+          "duration": 1190,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-58",
+          "title": "Fund frontend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/732yDGajAcH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/732yDGajAcH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/732yDGajAcH/video.m3u8",
+          "duration": 674,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-59",
+          "title": "Fund",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkTg28xprX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkTg28xprX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkTg28xprX/video.m3u8",
+          "duration": 908,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-60",
+          "title": "Get Balance Frontend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dg5JM5k7A4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dg5JM5k7A4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dg5JM5k7A4/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-61",
+          "title": "Withdraw frontend",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHAsfgh4fn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHAsfgh4fn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHAsfgh4fn/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LOR WEB3 Project",
+      "lectures": [
+        {
+          "id": "td-web3-62",
+          "title": "LOR-Inroduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqAjpAsC2bg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqAjpAsC2bg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqAjpAsC2bg/video.m3u8",
+          "duration": 529,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-63",
+          "title": "Smart Contract for LOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBbnybsQUy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBbnybsQUy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBbnybsQUy/video.m3u8",
+          "duration": 855,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-64",
+          "title": "Deploy.js for LOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RfpZjPqesf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RfpZjPqesf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RfpZjPqesf/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LOR Web3 Project Frontend",
+      "lectures": [
+        {
+          "id": "td-web3-65",
+          "title": "React.js Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNSPakpsFS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNSPakpsFS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNSPakpsFS/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-66",
+          "title": "Frontend introduction for LOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bTKqeERSne/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bTKqeERSne/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bTKqeERSne/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-67",
+          "title": "Connect Metamask to Browser",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78S2HxtSzNE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78S2HxtSzNE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78S2HxtSzNE/video.m3u8",
+          "duration": 733,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-68",
+          "title": "RequestLetter.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryfnybSxNP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryfnybSxNP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryfnybSxNP/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-69",
+          "title": "RequestLetter.js Continuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35JbREPFAUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35JbREPFAUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35JbREPFAUj/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-70",
+          "title": "ApproveLetter.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYUQyQBzPx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYUQyQBzPx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYUQyQBzPx/video.m3u8",
+          "duration": 592,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-71",
+          "title": "ApproveLetter.js Continuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM7X9jnxndk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM7X9jnxndk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM7X9jnxndk/video.m3u8",
+          "duration": 592,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-72",
+          "title": "GetDetails.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75By4P8fGNK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75By4P8fGNK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75By4P8fGNK/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-73",
+          "title": "GetDetails.js Continuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x5bxAsdsrh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x5bxAsdsrh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x5bxAsdsrh/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-74",
+          "title": "Displaying in GetDetails.js",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SdhH95sYR9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SdhH95sYR9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SdhH95sYR9/video.m3u8",
+          "duration": 397,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-75",
+          "title": "Demo Of LOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mSTtNM3MZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mSTtNM3MZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mSTtNM3MZ8/video.m3u8",
+          "duration": 162,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-76",
+          "title": "RequestLetter.js handleRequest ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c59P8kKaah/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c59P8kKaah/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c59P8kKaah/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-web3-13",
+          "title": "Project",
+          "url": "https://docs.google.com/document/d/19TYIg8C-hC8AG0YDV6w19NiHPZqTJPjlCyb9s5emK5w/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/19TYIg8C-hC8AG0YDV6w19NiHPZqTJPjlCyb9s5emK5w/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/19TYIg8C-hC8AG0YDV6w19NiHPZqTJPjlCyb9s5emK5w/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/19TYIg8C-hC8AG0YDV6w19NiHPZqTJPjlCyb9s5emK5w/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hardhat ERC",
+      "lectures": [
+        {
+          "id": "td-web3-77",
+          "title": "Tokens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfTBrx7xBj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfTBrx7xBj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfTBrx7xBj/video.m3u8",
+          "duration": 1396,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-78",
+          "title": "ERC20",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XauBUu85MU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XauBUu85MU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XauBUu85MU/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-79",
+          "title": "Example Of ERC tokens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6x4aJyYYe6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6x4aJyYYe6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6x4aJyYYe6/video.m3u8",
+          "duration": 745,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-80",
+          "title": "Native vs ERC Tokens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbBMyruG8R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbBMyruG8R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbBMyruG8R/video.m3u8",
+          "duration": 216,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-81",
+          "title": "Ethereum Standards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDnmfzBXDTS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDnmfzBXDTS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDnmfzBXDTS/video.m3u8",
+          "duration": 491,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat Starter Kit",
+      "lectures": [
+        {
+          "id": "td-web3-82",
+          "title": "Hardhat Starter Kit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FXzsncQksu8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FXzsncQksu8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FXzsncQksu8/video.m3u8",
+          "duration": 532,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-83",
+          "title": "Adding Hardhat Account To Metamask",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rq9gHTE95yG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rq9gHTE95yG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rq9gHTE95yG/video.m3u8",
+          "duration": 398,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat NFT",
+      "lectures": [
+        {
+          "id": "td-web3-84",
+          "title": "Hardhat NFT introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7zCT8kqUhS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7zCT8kqUhS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7zCT8kqUhS/video.m3u8",
+          "duration": 572,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-85",
+          "title": "Writing MyNFT.sol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YFHxcnxhf7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YFHxcnxhf7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YFHxcnxhf7/video.m3u8",
+          "duration": 1034,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-86",
+          "title": "Deploy.js for MyNFT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UexHCsX58U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UexHCsX58U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UexHCsX58U/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-87",
+          "title": "IPFS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A9JUExQtRJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A9JUExQtRJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A9JUExQtRJ/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-88",
+          "title": "Deploying MyNFT in Sepolia ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77CgJjfBHZM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77CgJjfBHZM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77CgJjfBHZM/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-89",
+          "title": "Upload files in Pinta",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58ejFuQ36Mr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58ejFuQ36Mr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58ejFuQ36Mr/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat NFT React.js",
+      "lectures": [
+        {
+          "id": "td-web3-90",
+          "title": "NFT Viewer Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t2br5amtUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t2br5amtUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t2br5amtUf/video.m3u8",
+          "duration": 357,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-91",
+          "title": "NFTGallery.js Connect Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AabNRsHe2UN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AabNRsHe2UN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AabNRsHe2UN/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-92",
+          "title": "NFTGallery.js Fetch NFT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UtkRF93uHC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UtkRF93uHC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UtkRF93uHC/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-93",
+          "title": "NFTGallery.js Return",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NEm7KECzSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NEm7KECzSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NEm7KECzSu/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-94",
+          "title": "NFTGallery.css and Demo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42K3ccjUtTG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42K3ccjUtTG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42K3ccjUtTG/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-95",
+          "title": "NFTGallery Summary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYbUfq2qKYS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYbUfq2qKYS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYbUfq2qKYS/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hardhat DeFi",
+      "lectures": [
+        {
+          "id": "td-web3-96",
+          "title": "Creation Of Token Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHafeGQSCBd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHafeGQSCBd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHafeGQSCBd/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-97",
+          "title": "MyToken deploy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YEhmz5GSxG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YEhmz5GSxG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YEhmz5GSxG/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-98",
+          "title": "MyToken mint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uJE5ahtsh2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uJE5ahtsh2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uJE5ahtsh2/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-web3-99",
+          "title": "MyToken burn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8X8csEMfJA7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8X8csEMfJA7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8X8csEMfJA7/video.m3u8",
+          "duration": 341,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "platform": "TuteDude",
+  "batchId": "blockchain",
+  "batchSlug": "blockchain",
+  "batchName": "Blockchain",
+  "thumbnail": "https://www.tutedude.com/assets/avif/blockchain.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/blockchain",
+  "totalSections": 10,
+  "totalLectures": 58,
+  "totalNotes": 2,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Fundamentals Of Blockchain",
+      "lectures": [
+        {
+          "id": "td-blockchain-1",
+          "title": "History Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MJEmPn7qD4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MJEmPn7qD4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MJEmPn7qD4/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-2",
+          "title": "Basics Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9ZjCbf8Xr9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9ZjCbf8Xr9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9ZjCbf8Xr9/video.m3u8",
+          "duration": 647,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-3",
+          "title": "Generic Elements Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uxkMZtczK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uxkMZtczK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uxkMZtczK/video.m3u8",
+          "duration": 942,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-4",
+          "title": "Features Of Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Y7ZzzJ5pH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Y7ZzzJ5pH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Y7ZzzJ5pH/video.m3u8",
+          "duration": 1334,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-5",
+          "title": "Consensus Mechanism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANSCkkbrkX2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANSCkkbrkX2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANSCkkbrkX2/video.m3u8",
+          "duration": 945,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-6",
+          "title": "Applications Of Blockchain Technology",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jjQ8jHGp45/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jjQ8jHGp45/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jjQ8jHGp45/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Types Of Blockchain",
+      "lectures": [
+        {
+          "id": "td-blockchain-7",
+          "title": "Distributed Ledger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C7YQbH5jUF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C7YQbH5jUF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C7YQbH5jUF/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-8",
+          "title": "Public Blockchains",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93xK53qpJCx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93xK53qpJCx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93xK53qpJCx/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-9",
+          "title": "Private Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZPKHanmtB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZPKHanmtB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZPKHanmtB/video.m3u8",
+          "duration": 584,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-10",
+          "title": "Semi Private Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bzzd33DfC9M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bzzd33DfC9M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bzzd33DfC9M/video.m3u8",
+          "duration": 578,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-11",
+          "title": "Permissioned Ledger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EXFftdrtHJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EXFftdrtHJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EXFftdrtHJ/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-12",
+          "title": "Tokenized and Tokenless Blockchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJuBrgceb6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJuBrgceb6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJuBrgceb6/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-13",
+          "title": "Shared Ledger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFfNHhGMet/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFfNHhGMet/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFfNHhGMet/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-14",
+          "title": "Sidechains",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yKqrZgfZ3A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yKqrZgfZ3A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yKqrZgfZ3A/video.m3u8",
+          "duration": 915,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Decentralization",
+      "lectures": [
+        {
+          "id": "td-blockchain-15",
+          "title": "Introduction To Decentralization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXFxTFtUXqy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXFxTFtUXqy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXFxTFtUXqy/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-16",
+          "title": "Methods Of Decentralization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97gKYTCFYz4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97gKYTCFYz4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97gKYTCFYz4/video.m3u8",
+          "duration": 281,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-17",
+          "title": "How To Decentralize",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEgrQrJJat7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEgrQrJJat7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEgrQrJJat7/video.m3u8",
+          "duration": 266,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-18",
+          "title": "Decentralized Organisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JmsP6CtPaKr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JmsP6CtPaKr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JmsP6CtPaKr/video.m3u8",
+          "duration": 522,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-19",
+          "title": "Decentralized Autonomous Organisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppGeqyAQnJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppGeqyAQnJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppGeqyAQnJ/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-20",
+          "title": "Decentralized Autonomous Societies",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKUKcFfPh7E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKUKcFfPh7E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKUKcFfPh7E/video.m3u8",
+          "duration": 446,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-21",
+          "title": "Decentralized Autonomous Cooperation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4UdpnHRkkM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4UdpnHRkkM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4UdpnHRkkM/video.m3u8",
+          "duration": 576,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Cryptography",
+      "lectures": [
+        {
+          "id": "td-blockchain-22",
+          "title": "SHA Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xdBd7y8bYq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xdBd7y8bYq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xdBd7y8bYq/video.m3u8",
+          "duration": 599,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-23",
+          "title": "Advanced Encryption Standard",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HUHhMSGQG8j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HUHhMSGQG8j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HUHhMSGQG8j/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-24",
+          "title": "Merkle Tree",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgYrRfZaNF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgYrRfZaNF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgYrRfZaNF/video.m3u8",
+          "duration": 535,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-25",
+          "title": "Elliptic Curve Digital Signature Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GMnGHhKUPSK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GMnGHhKUPSK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GMnGHhKUPSK/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-26",
+          "title": "Digital Signature Using RSA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XQYRsDN643/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XQYRsDN643/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XQYRsDN643/video.m3u8",
+          "duration": 673,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mining",
+      "lectures": [
+        {
+          "id": "td-blockchain-27",
+          "title": "Introduction to Mining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag99buFcspy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag99buFcspy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag99buFcspy/video.m3u8",
+          "duration": 636,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-28",
+          "title": "Ethereum Mining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tTSC5HSmcT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tTSC5HSmcT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tTSC5HSmcT/video.m3u8",
+          "duration": 627,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-29",
+          "title": "Practical Program Of Mining",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39TUgsfGDu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39TUgsfGDu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39TUgsfGDu/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Bitcoin",
+      "lectures": [
+        {
+          "id": "td-blockchain-30",
+          "title": "How does Bitcoin Work",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/749f3b4FHBy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/749f3b4FHBy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/749f3b4FHBy/video.m3u8",
+          "duration": 887,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-31",
+          "title": "Where do Bitcoins come from",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rSe4yG4YSn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rSe4yG4YSn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rSe4yG4YSn/video.m3u8",
+          "duration": 587,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-32",
+          "title": "How do you own Bitcoins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKeP8GyKjA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKeP8GyKjA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKeP8GyKjA/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-33",
+          "title": "Summary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4smpDMQabk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4smpDMQabk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4smpDMQabk/video.m3u8",
+          "duration": 384,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-34",
+          "title": "Blocks in Bitcoin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DPhQsPDTFeZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DPhQsPDTFeZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DPhQsPDTFeZ/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-35",
+          "title": "Transactions in Bitcoin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RTZXPQ9bhSy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RTZXPQ9bhSy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RTZXPQ9bhSy/video.m3u8",
+          "duration": 250,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-36",
+          "title": "Locks in Bitcoin",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cq3Zqzx3KB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cq3Zqzx3KB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cq3Zqzx3KB/video.m3u8",
+          "duration": 424,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Ethereum",
+      "lectures": [
+        {
+          "id": "td-blockchain-37",
+          "title": "Introduction to Ethereum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ag3PTqzcJ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ag3PTqzcJ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ag3PTqzcJ2/video.m3u8",
+          "duration": 480,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-38",
+          "title": "Components Of Ethereum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JNAhqqKcYq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JNAhqqKcYq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JNAhqqKcYq/video.m3u8",
+          "duration": 1185,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-39",
+          "title": "Block in Ethereum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae7T9QCpdKR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae7T9QCpdKR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae7T9QCpdKR/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-40",
+          "title": "How Ethereum Works",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4EBqh5NA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4EBqh5NA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4EBqh5NA4/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-41",
+          "title": "Blockchain Payroll System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pX5fgMQcmMA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pX5fgMQcmMA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pX5fgMQcmMA/video.m3u8",
+          "duration": 741,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-42",
+          "title": "Smart Contract For Payroll System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMNQJxKYRpJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMNQJxKYRpJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMNQJxKYRpJ/video.m3u8",
+          "duration": 1297,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-43",
+          "title": "Continuation of Smart Contract",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4STmFDdU5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4STmFDdU5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4STmFDdU5/video.m3u8",
+          "duration": 609,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-44",
+          "title": "Deploy Payroll System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sj9fQe5359/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sj9fQe5359/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sj9fQe5359/video.m3u8",
+          "duration": 1385,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DeFi",
+      "lectures": [
+        {
+          "id": "td-blockchain-45",
+          "title": "Introduction To full fledged DeFi Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggGMXqEAJk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggGMXqEAJk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggGMXqEAJk/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-46",
+          "title": "Writing ERC20.sol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dF8STeJPXrr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dF8STeJPXrr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dF8STeJPXrr/video.m3u8",
+          "duration": 1152,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-47",
+          "title": "Creating tokens by writing TokenA.sol and TokenB.sol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5QDHjxc6NJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5QDHjxc6NJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5QDHjxc6NJ/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-48",
+          "title": "SimpleAMM.sol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7duHu8HXkz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7duHu8HXkz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7duHu8HXkz7/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-49",
+          "title": "SimpleAMM.sol",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QpnSEZdA98/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QpnSEZdA98/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QpnSEZdA98/video.m3u8",
+          "duration": 809,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-50",
+          "title": "Demonstration Of Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZdFdqT3e92/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZdFdqT3e92/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZdFdqT3e92/video.m3u8",
+          "duration": 834,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-51",
+          "title": "DeFi Tokens",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SEeQqpz4sJ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SEeQqpz4sJ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SEeQqpz4sJ3/video.m3u8",
+          "duration": 1396,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-52",
+          "title": "Introduction to ERC20",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfkcXZFsFr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfkcXZFsFr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfkcXZFsFr/video.m3u8",
+          "duration": 553,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hyperledger",
+      "lectures": [
+        {
+          "id": "td-blockchain-53",
+          "title": "Hyperledger Fabric",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cCct3RHb6r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cCct3RHb6r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cCct3RHb6r/video.m3u8",
+          "duration": 660,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-54",
+          "title": "Transaction Flow Of Hyperledger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNdFHjjpnQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNdFHjjpnQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNdFHjjpnQ/video.m3u8",
+          "duration": 336,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-55",
+          "title": "Use Cases Of Hyperledger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXZUcQXAQb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXZUcQXAQb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXZUcQXAQb/video.m3u8",
+          "duration": 539,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-56",
+          "title": "Sawtooth Lake",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PxprEXj5hk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PxprEXj5hk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PxprEXj5hk/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-blockchain-57",
+          "title": "Corda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gqRnbEAa42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gqRnbEAa42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gqRnbEAa42/video.m3u8",
+          "duration": 428,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Voting Management System",
+      "lectures": [
+        {
+          "id": "td-blockchain-58",
+          "title": "Voting Management System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBb2PzgzGg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBb2PzgzGg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBb2PzgzGg/video.m3u8",
+          "duration": 1517,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-blockchain-11",
+          "title": "Voting Management System on a Simple Blockchain",
+          "url": "https://docs.google.com/document/d/13IVU_GNfSVdKDqCU5Yt0B9al_rxrbUZj/edit?usp=drive_link&ouid=104151095501772866793&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13IVU_GNfSVdKDqCU5Yt0B9al_rxrbUZj/edit?usp=drive_link&ouid=104151095501772866793&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13IVU_GNfSVdKDqCU5Yt0B9al_rxrbUZj/edit?usp=drive_link&ouid=104151095501772866793&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13IVU_GNfSVdKDqCU5Yt0B9al_rxrbUZj/edit?usp=drive_link&ouid=104151095501772866793&rtpof=true&sd=true",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-blockchain-12",
+          "title": "Assignment 2: Cryptography and Blockchain Fundamentals",
+          "url": "https://docs.google.com/document/d/1hysZbPwQAtTRXdP3eQWd8OQOoodMZut7/edit?usp=sharing&ouid=116755620215396915718&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1hysZbPwQAtTRXdP3eQWd8OQOoodMZut7/edit?usp=sharing&ouid=116755620215396915718&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1hysZbPwQAtTRXdP3eQWd8OQOoodMZut7/edit?usp=sharing&ouid=116755620215396915718&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1hysZbPwQAtTRXdP3eQWd8OQOoodMZut7/edit?usp=sharing&ouid=116755620215396915718&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

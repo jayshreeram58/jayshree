@@ -1,0 +1,1141 @@
+{
+  "platform": "TuteDude",
+  "batchId": "aftereffects",
+  "batchSlug": "aftereffects",
+  "batchName": "AfterEffects",
+  "thumbnail": "https://www.tutedude.com/assets/avif/aftereffects.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/aftereffects",
+  "totalSections": 23,
+  "totalLectures": 103,
+  "totalNotes": 6,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-aftereffects-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Introduction to Motion Graphics",
+      "lectures": [
+        {
+          "id": "td-aftereffects-2",
+          "title": "Introduction To The course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63XJAQ4M366/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63XJAQ4M366/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63XJAQ4M366/video.m3u8",
+          "duration": 665,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-3",
+          "title": "Intro to Motion graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MGGC3SrBQk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MGGC3SrBQk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MGGC3SrBQk/video.m3u8",
+          "duration": 932,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-4",
+          "title": "Understanding UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkQJdFs2Pp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkQJdFs2Pp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkQJdFs2Pp/video.m3u8",
+          "duration": 798,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-5",
+          "title": "More about UI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qMC868cRKJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qMC868cRKJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qMC868cRKJ/video.m3u8",
+          "duration": 1070,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-6",
+          "title": "Timeline Panel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UdfK8pYFB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UdfK8pYFB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UdfK8pYFB/video.m3u8",
+          "duration": 1511,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Kinetic motion graphics part 1",
+      "lectures": [
+        {
+          "id": "td-aftereffects-7",
+          "title": "Writing Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tf8jQ5ZABy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tf8jQ5ZABy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tf8jQ5ZABy/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-8",
+          "title": "Animating Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CCXac7yE5T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CCXac7yE5T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CCXac7yE5T/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-9",
+          "title": "Typography Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMbYpJtK2n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMbYpJtK2n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMbYpJtK2n/video.m3u8",
+          "duration": 712,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-10",
+          "title": "Kinetic motion graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpD6tKN5pHB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpD6tKN5pHB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpD6tKN5pHB/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Animating Slide Show",
+      "lectures": [
+        {
+          "id": "td-aftereffects-11",
+          "title": "Basics of Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SsD9MB5pEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SsD9MB5pEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SsD9MB5pEr/video.m3u8",
+          "duration": 960,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-12",
+          "title": "Preparing for Slideshow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cG54Ffhsc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cG54Ffhsc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cG54Ffhsc/video.m3u8",
+          "duration": 1000,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-13",
+          "title": "Animating Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cf75aSRTTG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cf75aSRTTG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cf75aSRTTG/video.m3u8",
+          "duration": 973,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-14",
+          "title": "Creating depth base slide show",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AE2Y8Bba9fq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AE2Y8Bba9fq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AE2Y8Bba9fq/video.m3u8",
+          "duration": 951,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Understanding Layers",
+      "lectures": [
+        {
+          "id": "td-aftereffects-15",
+          "title": "Importing Images",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5833ssxkZDq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5833ssxkZDq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5833ssxkZDq/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-16",
+          "title": "Creating Depth",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QuTpembRFN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QuTpembRFN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QuTpembRFN/video.m3u8",
+          "duration": 919,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-17",
+          "title": "Adding color correction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S9fTa2K79g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S9fTa2K79g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S9fTa2K79g/video.m3u8",
+          "duration": 940,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics -  Working with masks and VFX",
+      "lectures": [
+        {
+          "id": "td-aftereffects-18",
+          "title": "Blending modes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At7rRE2DDXm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At7rRE2DDXm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At7rRE2DDXm/video.m3u8",
+          "duration": 874,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-19",
+          "title": "Masking in After Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/faB8RrKB88m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/faB8RrKB88m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/faB8RrKB88m/video.m3u8",
+          "duration": 985,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-20",
+          "title": "Blending fog",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Tg4Z5PKRk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Tg4Z5PKRk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Tg4Z5PKRk/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-21",
+          "title": "Color maching and Rendering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RyTnQtNEkq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RyTnQtNEkq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RyTnQtNEkq/video.m3u8",
+          "duration": 834,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-7",
+          "title": "Assignment 1: Motion & Timing Animation Project",
+          "url": "https://drive.google.com/file/d/1cxgFmhuEcjiTwtEGj8rDIRTShSCaJ5Un/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1cxgFmhuEcjiTwtEGj8rDIRTShSCaJ5Un/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1cxgFmhuEcjiTwtEGj8rDIRTShSCaJ5Un/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1cxgFmhuEcjiTwtEGj8rDIRTShSCaJ5Un/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Motion graphics - Text effects in after effects",
+      "lectures": [
+        {
+          "id": "td-aftereffects-22",
+          "title": "Special effects in After Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drjzdREqGs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drjzdREqGs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drjzdREqGs/video.m3u8",
+          "duration": 993,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-23",
+          "title": "Text Effects part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADdXfa9U4TM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADdXfa9U4TM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADdXfa9U4TM/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-24",
+          "title": "Text Effects part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2kN3sDGz9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2kN3sDGz9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2kN3sDGz9/video.m3u8",
+          "duration": 906,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-25",
+          "title": "Text Effects part 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az7tPcRgY7a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az7tPcRgY7a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az7tPcRgY7a/video.m3u8",
+          "duration": 1101,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Vector Shapes in After effects",
+      "lectures": [
+        {
+          "id": "td-aftereffects-26",
+          "title": "Understanding Vector shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cD5NZRG8E8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cD5NZRG8E8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cD5NZRG8E8/video.m3u8",
+          "duration": 913,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-27",
+          "title": "Animating Vector Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UPyUtnSNuU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UPyUtnSNuU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UPyUtnSNuU/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-28",
+          "title": "Animation with Repeaters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9caXNHzednR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9caXNHzednR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9caXNHzednR/video.m3u8",
+          "duration": 548,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-29",
+          "title": "Combining multiple animations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZCsQKdfYea/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZCsQKdfYea/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZCsQKdfYea/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-30",
+          "title": "Animating Social media Icons",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34HTkSRH2qC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34HTkSRH2qC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34HTkSRH2qC/video.m3u8",
+          "duration": 515,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-31",
+          "title": "Finalizing Vector Ad",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afu8sQXddJC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afu8sQXddJC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afu8sQXddJC/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-10",
+          "title": "Assignment 2: Animated Mobile Weather App Promo",
+          "url": "https://drive.google.com/file/d/17GP8sw5VRiSjt9bn3Js2bkvJlYfkDy1c/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/17GP8sw5VRiSjt9bn3Js2bkvJlYfkDy1c/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/17GP8sw5VRiSjt9bn3Js2bkvJlYfkDy1c/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/17GP8sw5VRiSjt9bn3Js2bkvJlYfkDy1c/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Motion graphics - Logo Animation",
+      "lectures": [
+        {
+          "id": "td-aftereffects-32",
+          "title": "Understanding Blending Modes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bjRjc4jXAx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bjRjc4jXAx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bjRjc4jXAx/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-33",
+          "title": "Understanding Mask in After effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crgRgq5KHn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crgRgq5KHn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crgRgq5KHn/video.m3u8",
+          "duration": 615,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-34",
+          "title": "Applying Effect animation on logo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3SXRhj6GYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3SXRhj6GYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3SXRhj6GYR/video.m3u8",
+          "duration": 519,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-35",
+          "title": "Animation Brand Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f4QhcSbKqQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f4QhcSbKqQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f4QhcSbKqQ/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-36",
+          "title": "Applying Special Effects on logo",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mxN9FdaSSG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mxN9FdaSSG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mxN9FdaSSG/video.m3u8",
+          "duration": 527,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Lower Thirds Design",
+      "lectures": [
+        {
+          "id": "td-aftereffects-37",
+          "title": "Creating Vector Shapes in After Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79U3UCU9ZPe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79U3UCU9ZPe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79U3UCU9ZPe/video.m3u8",
+          "duration": 556,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-38",
+          "title": "Animation Vector Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhFnDaAa4e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhFnDaAa4e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhFnDaAa4e/video.m3u8",
+          "duration": 878,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-39",
+          "title": "Trim paths for Arrow Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynDdfmcPtM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynDdfmcPtM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynDdfmcPtM/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-40",
+          "title": "Creating Lower thirds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaDCJQEMcQd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaDCJQEMcQd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaDCJQEMcQd/video.m3u8",
+          "duration": 1289,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-41",
+          "title": "Creating Highlights",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5haPjaf7zQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5haPjaf7zQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5haPjaf7zQs/video.m3u8",
+          "duration": 857,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Explainer Video Icons",
+      "lectures": [
+        {
+          "id": "td-aftereffects-42",
+          "title": "Animation Explainer videos",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qqNCEu4fsc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qqNCEu4fsc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qqNCEu4fsc/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-43",
+          "title": "Preparing Vector Shapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7myFyy2fhQS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7myFyy2fhQS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7myFyy2fhQS/video.m3u8",
+          "duration": 650,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-44",
+          "title": "Refining Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UFcq8Gah2y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UFcq8Gah2y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UFcq8Gah2y/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-45",
+          "title": "Animation Character",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32HzerFNrXY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32HzerFNrXY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32HzerFNrXY/video.m3u8",
+          "duration": 997,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-46",
+          "title": "Animation Apps features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rhr5kpR7HK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rhr5kpR7HK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rhr5kpR7HK/video.m3u8",
+          "duration": 728,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Infographic Animation",
+      "lectures": [
+        {
+          "id": "td-aftereffects-47",
+          "title": "Infographic Animation in After Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9teBXAuTSNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9teBXAuTSNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9teBXAuTSNe/video.m3u8",
+          "duration": 798,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-48",
+          "title": "Loop Expressions in Effcter Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgu5cht9xM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgu5cht9xM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgu5cht9xM/video.m3u8",
+          "duration": 747,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-49",
+          "title": "Expression Animation in After effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8yqzCAHAY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8yqzCAHAY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8yqzCAHAY/video.m3u8",
+          "duration": 598,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-50",
+          "title": "Animating Graphs n AFX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S6qXApbj6yH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S6qXApbj6yH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S6qXApbj6yH/video.m3u8",
+          "duration": 710,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-51",
+          "title": "Dynamic Expressions in  After effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGncSUYQEMk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGncSUYQEMk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGncSUYQEMk/video.m3u8",
+          "duration": 799,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - City Exploration",
+      "lectures": [
+        {
+          "id": "td-aftereffects-52",
+          "title": "Creating City exploration motion graphics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89PZ6AKkHN3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89PZ6AKkHN3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89PZ6AKkHN3/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-53",
+          "title": "Car loop Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77PRZeadMda/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77PRZeadMda/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77PRZeadMda/video.m3u8",
+          "duration": 954,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-54",
+          "title": "Adding more cars in the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HBymyTe4673/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HBymyTe4673/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HBymyTe4673/video.m3u8",
+          "duration": 674,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-55",
+          "title": "Animating Rods and rails for the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Kg6ehDCFYB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Kg6ehDCFYB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Kg6ehDCFYB/video.m3u8",
+          "duration": 1061,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-56",
+          "title": "Adding foreground elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZGq4BafZF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZGq4BafZF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZGq4BafZF/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-57",
+          "title": "Applying fog effects in the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bc5rbz87Er/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bc5rbz87Er/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bc5rbz87Er/video.m3u8",
+          "duration": 893,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Parallax Photo Animation",
+      "lectures": [
+        {
+          "id": "td-aftereffects-58",
+          "title": "Understanding 3d layers in Afx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM2DtpdBSpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM2DtpdBSpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM2DtpdBSpQ/video.m3u8",
+          "duration": 740,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-59",
+          "title": "3d Camera In After Effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y3NXFA7Btf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y3NXFA7Btf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y3NXFA7Btf/video.m3u8",
+          "duration": 979,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-60",
+          "title": "Animation 3d Camera in AFX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qSdpjfjeYQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qSdpjfjeYQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qSdpjfjeYQ/video.m3u8",
+          "duration": 342,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-61",
+          "title": "Adding Window in a 3d scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxZBFmNdPc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxZBFmNdPc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxZBFmNdPc/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-62",
+          "title": "Adding Lights in 3d",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhbR8HtfHBZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhbR8HtfHBZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhbR8HtfHBZ/video.m3u8",
+          "duration": 944,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-63",
+          "title": "adding 3d Fog effect in the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57d8KgpkQGm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57d8KgpkQGm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57d8KgpkQGm/video.m3u8",
+          "duration": 740,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-17",
+          "title": "Assignment 3: Journey Through Space",
+          "url": "https://drive.google.com/file/d/1saEupedmzdWRfV636gIwuC5rRBXb_cc8/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1saEupedmzdWRfV636gIwuC5rRBXb_cc8/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1saEupedmzdWRfV636gIwuC5rRBXb_cc8/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1saEupedmzdWRfV636gIwuC5rRBXb_cc8/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Motion graphics - Creating Loopable Backgrounds",
+      "lectures": [
+        {
+          "id": "td-aftereffects-64",
+          "title": "Creating Background Elements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z4HjK4NcHR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z4HjK4NcHR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z4HjK4NcHR/video.m3u8",
+          "duration": 1156,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-65",
+          "title": "Tiling background Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Xz32dXgnN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Xz32dXgnN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Xz32dXgnN/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-66",
+          "title": "3D background effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/642DxMBdGjS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/642DxMBdGjS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/642DxMBdGjS/video.m3u8",
+          "duration": 705,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-67",
+          "title": "Special Effects Background",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARABT6Fc9A5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARABT6Fc9A5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARABT6Fc9A5/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Motion Graphics + Video",
+      "lectures": [
+        {
+          "id": "td-aftereffects-68",
+          "title": "Learning Chroma techniques in Afx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZzepgA4zgc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZzepgA4zgc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZzepgA4zgc/video.m3u8",
+          "duration": 858,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-69",
+          "title": "Advance Chroma techniques in Afx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7ZuZtGKRKH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7ZuZtGKRKH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7ZuZtGKRKH/video.m3u8",
+          "duration": 686,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-70",
+          "title": "working for chroma .vfx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CgHQTPtmjF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CgHQTPtmjF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CgHQTPtmjF/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-71",
+          "title": "Integrating Real footages in MG",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJxgUXFYa2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJxgUXFYa2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJxgUXFYa2E/video.m3u8",
+          "duration": 516,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-72",
+          "title": "Refining and Finalizing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tHU5YeCUpsb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tHU5YeCUpsb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tHU5YeCUpsb/video.m3u8",
+          "duration": 1405,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Creating Audio driven Animation",
+      "lectures": [
+        {
+          "id": "td-aftereffects-73",
+          "title": "Creating Graphics for Audio animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yJKSKBHEU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yJKSKBHEU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yJKSKBHEU/video.m3u8",
+          "duration": 852,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-74",
+          "title": "Syncing Animation with audio Keyframes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3NHzM5kAYz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3NHzM5kAYz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3NHzM5kAYz/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-75",
+          "title": "Adding Text and Curtains",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qRkq7jTqeu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qRkq7jTqeu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qRkq7jTqeu/video.m3u8",
+          "duration": 1034,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Social Media Video Templates",
+      "lectures": [
+        {
+          "id": "td-aftereffects-76",
+          "title": "creating social media post",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hQQcctsRgt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hQQcctsRgt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hQQcctsRgt/video.m3u8",
+          "duration": 608,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-77",
+          "title": "vector mask effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pJgMSASADB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pJgMSASADB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pJgMSASADB/video.m3u8",
+          "duration": 851,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-78",
+          "title": "Creating Vector Animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r7nzktA8Ch/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r7nzktA8Ch/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r7nzktA8Ch/video.m3u8",
+          "duration": 1118,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-79",
+          "title": "Creating 3d Reflection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7n8YR9agBe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7n8YR9agBe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7n8YR9agBe/video.m3u8",
+          "duration": 808,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-80",
+          "title": "Creating Copy text animation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j2JhqURyk5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j2JhqURyk5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j2JhqURyk5/video.m3u8",
+          "duration": 860,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Motion graphics - Working with Particle effects",
+      "lectures": [
+        {
+          "id": "td-aftereffects-81",
+          "title": "VFX Particle system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/847pYNyMn2f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/847pYNyMn2f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/847pYNyMn2f/video.m3u8",
+          "duration": 621,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-82",
+          "title": "Creating fire and Smoke",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz3qPCz54E4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz3qPCz54E4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz3qPCz54E4/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-83",
+          "title": "Falling Leaves effect",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85EyndZqFh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85EyndZqFh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85EyndZqFh/video.m3u8",
+          "duration": 753,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-84",
+          "title": "Sky Fireworks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AGhKMaDeRt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AGhKMaDeRt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AGhKMaDeRt/video.m3u8",
+          "duration": 1276,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-85",
+          "title": "Creating CG rain effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mDJ8uNhNg7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mDJ8uNhNg7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mDJ8uNhNg7/video.m3u8",
+          "duration": 489,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-23",
+          "title": "Assignment 4: City Life An Animated Motion Scene",
+          "url": "https://drive.google.com/file/d/1SybCLCWxA3K13OigY-vNhWEoGLE8KG6I/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1SybCLCWxA3K13OigY-vNhWEoGLE8KG6I/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1SybCLCWxA3K13OigY-vNhWEoGLE8KG6I/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1SybCLCWxA3K13OigY-vNhWEoGLE8KG6I/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Motion graphics - Using external plugins in after effects",
+      "lectures": [
+        {
+          "id": "td-aftereffects-86",
+          "title": "Plugins in Aftereffects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuHRAF6FeC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuHRAF6FeC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuHRAF6FeC/video.m3u8",
+          "duration": 747,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-87",
+          "title": "Animation composer presets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83B7n3d4nSC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83B7n3d4nSC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83B7n3d4nSC/video.m3u8",
+          "duration": 518,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-88",
+          "title": "Animation composer Transitions1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63YsByXa46y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63YsByXa46y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63YsByXa46y/video.m3u8",
+          "duration": 393,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-89",
+          "title": "Animation composer transitions2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rzmGzQSgNU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rzmGzQSgNU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rzmGzQSgNU/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Basics of VFX in After Effects",
+      "lectures": [
+        {
+          "id": "td-aftereffects-90",
+          "title": "Intro to vfx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EpPcr7PHQp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EpPcr7PHQp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EpPcr7PHQp/video.m3u8",
+          "duration": 836,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-91",
+          "title": "Get familiar with the Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9T8RMS7Arj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9T8RMS7Arj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9T8RMS7Arj/video.m3u8",
+          "duration": 3824,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-92",
+          "title": "Creating first visual effects scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQYNsep4RS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQYNsep4RS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQYNsep4RS/video.m3u8",
+          "duration": 3664,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-93",
+          "title": "Creating a space Scene Vfx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G5JzBPGk6x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G5JzBPGk6x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G5JzBPGk6x/video.m3u8",
+          "duration": 3667,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-94",
+          "title": "Road scene helicoptor jump",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ta9ExrDUMu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ta9ExrDUMu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ta9ExrDUMu/video.m3u8",
+          "duration": 3794,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-26",
+          "title": "Assignment 5",
+          "url": "https://drive.google.com/file/d/1eO_wD8Kfb07CLqPbjs18YlatIhqDDaJH/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1eO_wD8Kfb07CLqPbjs18YlatIhqDDaJH/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1eO_wD8Kfb07CLqPbjs18YlatIhqDDaJH/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1eO_wD8Kfb07CLqPbjs18YlatIhqDDaJH/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Intermediate VFX in After effect",
+      "lectures": [
+        {
+          "id": "td-aftereffects-95",
+          "title": "Creating rainfall in city",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uY384FPhGE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uY384FPhGE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uY384FPhGE/video.m3u8",
+          "duration": 3770,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-96",
+          "title": "Creating your own clone",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/unF7S7nskeS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/unF7S7nskeS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/unF7S7nskeS/video.m3u8",
+          "duration": 3520,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-97",
+          "title": "Magically Disappear from the scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53XPQQan6fN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53XPQQan6fN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53XPQQan6fN/video.m3u8",
+          "duration": 3873,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-98",
+          "title": "Free flow objects in the air",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UDJdbrpA2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UDJdbrpA2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UDJdbrpA2/video.m3u8",
+          "duration": 3685,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-99",
+          "title": "Changing scene with Chroma techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8hBSrgYYKc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8hBSrgYYKc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8hBSrgYYKc/video.m3u8",
+          "duration": 4091,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advance VFX Tecniques",
+      "lectures": [
+        {
+          "id": "td-aftereffects-100",
+          "title": "Adding Fire in the Scene",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Cj6Ug8UgGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Cj6Ug8UgGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Cj6Ug8UgGY/video.m3u8",
+          "duration": 3641,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-101",
+          "title": "Creating CG Set",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpb2357UaB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpb2357UaB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpb2357UaB/video.m3u8",
+          "duration": 2989,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-102",
+          "title": "Tracking objects in live video",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsuaTB3c94G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsuaTB3c94G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsuaTB3c94G/video.m3u8",
+          "duration": 4022,
+          "type": "video"
+        },
+        {
+          "id": "td-aftereffects-103",
+          "title": "Particles in Visual effects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cJJXRkcKgdK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cJJXRkcKgdK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cJJXRkcKgdK/video.m3u8",
+          "duration": 3807,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-aftereffects-29",
+          "title": "Assignment 6 - Final Voyage",
+          "url": "https://drive.google.com/file/d/186WKMvM1oOJ3zeMq35K2MReHpuu5TAkT/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/186WKMvM1oOJ3zeMq35K2MReHpuu5TAkT/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/186WKMvM1oOJ3zeMq35K2MReHpuu5TAkT/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/186WKMvM1oOJ3zeMq35K2MReHpuu5TAkT/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

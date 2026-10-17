@@ -1,0 +1,1213 @@
+{
+  "platform": "TuteDude",
+  "batchId": "llm",
+  "batchSlug": "llm",
+  "batchName": "Large Language Mode(LLM)",
+  "thumbnail": "https://www.tutedude.com/assets/avif/llm.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/llm",
+  "totalSections": 9,
+  "totalLectures": 127,
+  "totalNotes": 0,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction to Course",
+      "lectures": [
+        {
+          "id": "td-llm-1",
+          "title": "Introduction to course LLM Engineering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Building LLM Products",
+      "lectures": [
+        {
+          "id": "td-llm-2",
+          "title": "Introduction to Large Language model engineering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YztSDmJ5M2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YztSDmJ5M2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YztSDmJ5M2/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-3",
+          "title": "Ollama setup - windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nAH7yqbCYR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nAH7yqbCYR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nAH7yqbCYR/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-4",
+          "title": "Ollama setup Mac",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TmhnAg5hehU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TmhnAg5hehU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TmhnAg5hehU/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-5",
+          "title": "Building LLM Applications & best practises",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73sk8UREc5f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73sk8UREc5f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73sk8UREc5f/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-6",
+          "title": "Key Skills & Tools for AI development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46j52TfNck2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46j52TfNck2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46j52TfNck2/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-7",
+          "title": "Understanding frontier models gpt, claude, open source llms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZMcxtC29d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZMcxtC29d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZMcxtC29d/video.m3u8",
+          "duration": 723,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-8",
+          "title": "Power of local llms - hindi tutor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYcyK3TbQ5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYcyK3TbQ5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYcyK3TbQ5/video.m3u8",
+          "duration": 276,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-9",
+          "title": "Creating AI Powered Web Summarizer using Gemini and BS4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az34BtAbNTY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az34BtAbNTY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az34BtAbNTY/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-10",
+          "title": "Comparing LLM models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RtpBrHrJPs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RtpBrHrJPs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RtpBrHrJPs/video.m3u8",
+          "duration": 1023,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-11",
+          "title": "Leveraging GPTs canvas feature",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PXEaZ2pGFy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PXEaZ2pGFy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PXEaZ2pGFy/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-12",
+          "title": "Gemini vs Cohere for analytical tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZpqshYGD9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZpqshYGD9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZpqshYGD9/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-13",
+          "title": "Evaluating metaAI and perplexity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mK6caDDG5xr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mK6caDDG5xr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mK6caDDG5xr/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-14",
+          "title": "Introduction to transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQj5zEmzhg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQj5zEmzhg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQj5zEmzhg/video.m3u8",
+          "duration": 1084,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-15",
+          "title": "Enhancing LLM reliability through prompt engineering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dC2xjFFyq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dC2xjFFyq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dC2xjFFyq/video.m3u8",
+          "duration": 2167,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-16",
+          "title": "Understanding llm parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3CseTqnRrA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3CseTqnRrA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3CseTqnRrA/video.m3u8",
+          "duration": 783,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-17",
+          "title": "Understanding gpt tokenization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tg8CTnKUMK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tg8CTnKUMK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tg8CTnKUMK/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-18",
+          "title": "Claude 3.5s Alignment and Artifact Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DybheFf5s/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DybheFf5s/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DybheFf5s/video.m3u8",
+          "duration": 188,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Build a multimodal chatbot : LLMS, Agents, Gradio UI",
+      "lectures": [
+        {
+          "id": "td-llm-19",
+          "title": "Building MultiModal Chatbots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kh2kmhhrafD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kh2kmhhrafD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kh2kmhhrafD/video.m3u8",
+          "duration": 1321,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-20",
+          "title": "Mastering multiple AI APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HUzxphAj9R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HUzxphAj9R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HUzxphAj9R/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-21",
+          "title": "Building Advanced AI Assistants with LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KDNp8jCSyp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KDNp8jCSyp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KDNp8jCSyp/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-22",
+          "title": "Building Multimodal AI Assistants",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRgJ5m2CnsF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRgJ5m2CnsF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRgJ5m2CnsF/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-23",
+          "title": "Creating Adversarial AI Conversations with OpenAI & Claude",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HZ3Nqj6qA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HZ3Nqj6qA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HZ3Nqj6qA/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-24",
+          "title": "Introduction to Gradio",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9csURYNJKgt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9csURYNJKgt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9csURYNJKgt/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-25",
+          "title": "Implementing Streaming Responses from LLM APIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8cpNh8mD9X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8cpNh8mD9X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8cpNh8mD9X/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-26",
+          "title": "Advanced Chatbot Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHYzC4TSGp5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHYzC4TSGp5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHYzC4TSGp5/video.m3u8",
+          "duration": 844,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-27",
+          "title": "Practical Implementation - Chatbot Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCeJC7tGTXA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCeJC7tGTXA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCeJC7tGTXA/video.m3u8",
+          "duration": 1502,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Open Source Gen AI:Build Autonomous Solutions with Gen AI",
+      "lectures": [
+        {
+          "id": "td-llm-28",
+          "title": "Getting Started with Hugging Face",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QKQ96USCEn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QKQ96USCEn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QKQ96USCEn/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-29",
+          "title": "Exploring Hugging Face",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jZttcZYmSm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jZttcZYmSm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jZttcZYmSm/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-30",
+          "title": "Google Colab Free Cloud platform for ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4edAUN3RFUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4edAUN3RFUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4edAUN3RFUj/video.m3u8",
+          "duration": 364,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-31",
+          "title": "Running AI Models with Google Colab & Hugging Face",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBqZjbzBfA6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBqZjbzBfA6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBqZjbzBfA6/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-32",
+          "title": "Using Google Colab+HuggingFace",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteeQkRKppr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteeQkRKppr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteeQkRKppr/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-33",
+          "title": "Hugging Face Transformers for AI Tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GF4jh8cTBg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GF4jh8cTBg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GF4jh8cTBg/video.m3u8",
+          "duration": 1083,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-34",
+          "title": "Hugging Face Pipelines Simplifying AI Tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XJ8HyHc7RP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XJ8HyHc7RP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XJ8HyHc7RP/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-35",
+          "title": "Tokenization for LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZYEGtg2PGq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZYEGtg2PGq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZYEGtg2PGq/video.m3u8",
+          "duration": 1153,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-36",
+          "title": "Tokenization in Modern AI LLAMA 3.1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JCNHkmHHTR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JCNHkmHHTR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JCNHkmHHTR/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-37",
+          "title": "Comparing Tokenizers in Open source AI Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uhg5gc3Amz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uhg5gc3Amz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uhg5gc3Amz/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-38",
+          "title": "Efficient Inference with Open Source LLMs on Hugging Face",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTU7SKP8Nds/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTU7SKP8Nds/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTU7SKP8Nds/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-39",
+          "title": "Efficiently Running LLMs with Quantisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33RjspAqXA8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33RjspAqXA8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33RjspAqXA8/video.m3u8",
+          "duration": 243,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-40",
+          "title": "Combining Frontier & Open Source Models for Audio- Text",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqPmbygkPTR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqPmbygkPTR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqPmbygkPTR/video.m3u8",
+          "duration": 1321,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-41",
+          "title": "Building synthetic data for AI Model Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ed5EJXCZym/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ed5EJXCZym/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ed5EJXCZym/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LLM Showdown:Evaluating Models",
+      "lectures": [
+        {
+          "id": "td-llm-42",
+          "title": "Choosing b w open source & closed source llms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYyGy7gt9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYyGy7gt9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYyGy7gt9/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-43",
+          "title": "Scaling Laws, Model Size and Evaluating LLM Performance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/337yg677xqa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/337yg677xqa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/337yg677xqa/video.m3u8",
+          "duration": 1142,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-44",
+          "title": "Evaluating Real World LLMs beyond Benchmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qZaKRDjCAj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qZaKRDjCAj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qZaKRDjCAj/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-45",
+          "title": "Choosing the Best LLM for Coding Projects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ajHxAdacmM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ajHxAdacmM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ajHxAdacmM/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-46",
+          "title": "Closed vs Open LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ecYQrna8rBK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ecYQrna8rBK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ecYQrna8rBK/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-47",
+          "title": "How to compare Open Source Language Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96uMh89UNSR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96uMh89UNSR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96uMh89UNSR/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-48",
+          "title": "Human Evaluation of LLMs with Chatbot Arena",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtaAGQyDDY6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtaAGQyDDY6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtaAGQyDDY6/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-49",
+          "title": "AI Powered Python to C++",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghcfY8MKKpB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghcfY8MKKpB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghcfY8MKKpB/video.m3u8",
+          "duration": 1021,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-50",
+          "title": "Python to C++ Code Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gzAPBdKeMy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gzAPBdKeMy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gzAPBdKeMy/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-51",
+          "title": "Comparing GPT-4 and Claude 3.5 Sonnet for code generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXfR6g8tffd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXfR6g8tffd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXfR6g8tffd/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-52",
+          "title": "GPT vs Claude Code Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABNCsg9x8pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABNCsg9x8pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABNCsg9x8pa/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-53",
+          "title": "Leveraging LLMs for Code Optimisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t737c7PCjN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t737c7PCjN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t737c7PCjN/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-54",
+          "title": "How LLMs handle complex code conversion tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CmTAmEEFFN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CmTAmEEFFN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CmTAmEEFFN/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-55",
+          "title": "Claude vs Python for Code Generation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q5JzRg3gY2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q5JzRg3gY2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q5JzRg3gY2/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-56",
+          "title": "Building LLM powered Code Generation UIs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8D8RSTjTr4P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8D8RSTjTr4P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8D8RSTjTr4P/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-57",
+          "title": "Open Source LLMs for Code Generation Hugging Face Endpoints Explored",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qFpDTFxKH7G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qFpDTFxKH7G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qFpDTFxKH7G/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-58",
+          "title": "Deploying Code Generation Models with Hugging Face Inference Endpoints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ7RTPFz7cS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ7RTPFz7cS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ7RTPFz7cS/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-59",
+          "title": "Building Hybrid LLM Systems for Code Conversion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ZGKDFG8rq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ZGKDFG8rq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ZGKDFG8rq/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-60",
+          "title": "AI Code Generation Comprehensive Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kEUQDQNC2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kEUQDQNC2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kEUQDQNC2/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-61",
+          "title": "Evaluating Code Generation Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xg5ger2Dfr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xg5ger2Dfr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xg5ger2Dfr/video.m3u8",
+          "duration": 361,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-62",
+          "title": "Evaluating LLM Performance in Real World Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XDY2gdQxq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XDY2gdQxq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XDY2gdQxq3/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mastering RAG",
+      "lectures": [
+        {
+          "id": "td-llm-63",
+          "title": "What is RAG(Retrieval Augmented Generation)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDRTpPbyyBy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDRTpPbyyBy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDRTpPbyyBy/video.m3u8",
+          "duration": 2162,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-64",
+          "title": "Building a RAG System from Scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ysk6NAxxkc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ysk6NAxxkc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ysk6NAxxkc/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-65",
+          "title": "RAG Practical Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/947rqBd5nzT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/947rqBd5nzT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/947rqBd5nzT/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-66",
+          "title": "Vector Embeddings & their role in RAG",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATBUFeBk7NU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATBUFeBk7NU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATBUFeBk7NU/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-67",
+          "title": "Simplifying RAG with LangChain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ThE73Jfh8rG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ThE73Jfh8rG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ThE73Jfh8rG/video.m3u8",
+          "duration": 1082,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-68",
+          "title": "Effective Text Splitting for RAG Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42PZSntqpaA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42PZSntqpaA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42PZSntqpaA/video.m3u8",
+          "duration": 962,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-69",
+          "title": "Preparing Data for Vector Databases in RAG Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c6x7emNNY7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c6x7emNNY7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c6x7emNNY7/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-70",
+          "title": "Understanding Vector Embeddings & RAG Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THzuaReSse/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THzuaReSse/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THzuaReSse/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-71",
+          "title": "Visualising Vector Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UKNmGn5Gu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UKNmGn5Gu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UKNmGn5Gu7/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-72",
+          "title": "RAG Hands On Codes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3euryQhfMt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3euryQhfMt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3euryQhfMt/video.m3u8",
+          "duration": 769,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-73",
+          "title": "Troubleshooting & optimising RAG Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkDsRXnBEE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkDsRXnBEE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkDsRXnBEE/video.m3u8",
+          "duration": 1802,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fine Tuning Frontier LLMs using LoRA , QLoRA",
+      "lectures": [
+        {
+          "id": "td-llm-74",
+          "title": "Finetuning LLMs - From Inference to Training",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xFnZqJP7pY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xFnZqJP7pY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xFnZqJP7pY/video.m3u8",
+          "duration": 961,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-75",
+          "title": "Finding and Crafting Datasets for LLM Fine Tuning Sources & Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678MH6EnMXD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678MH6EnMXD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678MH6EnMXD/video.m3u8",
+          "duration": 949,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-76",
+          "title": "Evaluating LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgCSZMst2D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgCSZMst2D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgCSZMst2D/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-77",
+          "title": "LLM Deployment Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87RJ23zCJnP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87RJ23zCJnP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87RJ23zCJnP/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-78",
+          "title": "Prompting, RAG & Fine Tuning When to use which approach",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U97jShGn54/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U97jShGn54/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U97jShGn54/video.m3u8",
+          "duration": 1021,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-79",
+          "title": "How to create a balanced dataset for LLM Training",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jUZrEBbej2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jUZrEBbej2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jUZrEBbej2/video.m3u8",
+          "duration": 665,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-80",
+          "title": "Building Effective ML Baselines for NLP Tasks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mdQp7rXrys/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mdQp7rXrys/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mdQp7rXrys/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-81",
+          "title": "Feature Scaling in ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pKKhRzGdq3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pKKhRzGdq3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pKKhRzGdq3/video.m3u8",
+          "duration": 425,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-82",
+          "title": "Linear Regression in ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89SkxkgD576/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89SkxkgD576/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89SkxkgD576/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-83",
+          "title": "Random Forest Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjNucd3hJC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjNucd3hJC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjNucd3hJC/video.m3u8",
+          "duration": 764,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-84",
+          "title": "Bag of Words NLP Implementing Count Vectorizer for Text Analysis in ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6ubAYF7Qs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6ubAYF7Qs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6ubAYF7Qs/video.m3u8",
+          "duration": 1530,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-85",
+          "title": "Support Vector Regression in ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t2Xm8YhMbCc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t2Xm8YhMbCc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t2Xm8YhMbCc/video.m3u8",
+          "duration": 785,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-86",
+          "title": "Comparing GPT-4 Mini to Traditional AI Models in price estimation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be6Uh4rYuSr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be6Uh4rYuSr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be6Uh4rYuSr/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-87",
+          "title": "LLMs vs Traditional ML",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCYZxPXF2K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCYZxPXF2K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCYZxPXF2K/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-88",
+          "title": "LoRA, QLoRA, PEFT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PSjGk3hrza/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PSjGk3hrza/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PSjGk3hrza/video.m3u8",
+          "duration": 1381,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-89",
+          "title": "Fine Tuning GPT Models with Open API & Monitoring Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CraAYNS6KQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CraAYNS6KQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CraAYNS6KQ/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-90",
+          "title": "Mastering LLM Fine Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DcRDmbDepq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DcRDmbDepq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DcRDmbDepq/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-91",
+          "title": "Monitoring & Interpreting LLM Fine tuning process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U2jZ9Nssmb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U2jZ9Nssmb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U2jZ9Nssmb/video.m3u8",
+          "duration": 1561,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-92",
+          "title": "Why fine tuning LLMs might fail and how to overcome it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x62FKNbNTF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x62FKNbNTF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x62FKNbNTF/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fine-tuned Open Source Models to compete with Frontier Models",
+      "lectures": [
+        {
+          "id": "td-llm-93",
+          "title": "Parameter Efficient Fine Tuning for LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABpTFf4Qrnr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABpTFf4Qrnr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABpTFf4Qrnr/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-94",
+          "title": "Fine Tuning LLMs with Limited GPU Memory using QLoRA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FChdGp599k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FChdGp599k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FChdGp599k/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-95",
+          "title": "Hyperparameters & best practices in LoRA QLoRA",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MYfxntFfSH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MYfxntFfSH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MYfxntFfSH/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-96",
+          "title": "Reducing LLM Size without sacrificing performance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3MGpU274jr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3MGpU274jr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3MGpU274jr/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-97",
+          "title": "Advanced Quantisation Techniques for reducing LLM Memory Footprint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RmtDPen68e9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RmtDPen68e9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RmtDPen68e9/video.m3u8",
+          "duration": 249,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-98",
+          "title": "Tokenization strategies in LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKYYGfbuP5M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKYYGfbuP5M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKYYGfbuP5M/video.m3u8",
+          "duration": 1623,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-99",
+          "title": "Efficient Loading, Tokenization and Fine Tuning of LLaMA 3.1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bPEq6BxXe9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bPEq6BxXe9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bPEq6BxXe9/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-100",
+          "title": "Navigating HuggingFace_s LLM Leaderboard & selecting base models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H2J326EN78/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H2J326EN78/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H2J326EN78/video.m3u8",
+          "duration": 1201,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-101",
+          "title": "Impact of Quantization on LLM Performance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mQJ67SMkMY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mQJ67SMkMY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mQJ67SMkMY/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-102",
+          "title": "Optimising LLAMA to compete with GPT 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QmD8NEkuDJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QmD8NEkuDJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QmD8NEkuDJ/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-103",
+          "title": "Epochs and training dynamics in LLM Fine Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Me84y5tGmU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Me84y5tGmU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Me84y5tGmU/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-104",
+          "title": "Setting optimal hyperparameters for LLM Fine Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQnTepTua9Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQnTepTua9Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQnTepTua9Z/video.m3u8",
+          "duration": 579,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-105",
+          "title": "Monitoring & Optimising LLM Fine Tuning with W&B",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJ7bmH7Sdn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJ7bmH7Sdn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJ7bmH7Sdn/video.m3u8",
+          "duration": 611,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-106",
+          "title": "Tracking & visualising LLM Fine tuning Progress",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nqazjmsEej/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nqazjmsEej/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nqazjmsEej/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-107",
+          "title": "Visualising Model training with W&B , Hugging Face",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nHDjD73tGZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nHDjD73tGZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nHDjD73tGZ/video.m3u8",
+          "duration": 363,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-108",
+          "title": "End to End LLM Fine tuning for Business Solutions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S22zNbgF8E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S22zNbgF8E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S22zNbgF8E/video.m3u8",
+          "duration": 661,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-109",
+          "title": "Training Process in LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez2buNK57e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez2buNK57e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez2buNK57e/video.m3u8",
+          "duration": 680,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-110",
+          "title": "Token Prediction & Real Time Monitoring in LLM Fine Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xg3AAyRug2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xg3AAyRug2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xg3AAyRug2/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-111",
+          "title": "Fine Tuned Models vs Frontier Models & Performance Optimisation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FprAjA59k8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FprAjA59k8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FprAjA59k8/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-112",
+          "title": "Evaluating & Comparing Fine tuned LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rdh5rTGFTX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rdh5rTGFTX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rdh5rTGFTX/video.m3u8",
+          "duration": 182,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Build autonomous multi agent systems collaborating with models",
+      "lectures": [
+        {
+          "id": "td-llm-113",
+          "title": "LLMS with Multi Agent & Serverless Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaA73JC74D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaA73JC74D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaA73JC74D/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-114",
+          "title": "Efficiently running LLMs in cloud environments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxsNF873dyH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxsNF873dyH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxsNF873dyH/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-115",
+          "title": "Deploying AI Models as Serverless APIs in the Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cUH4pG8g24/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cUH4pG8g24/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cUH4pG8g24/video.m3u8",
+          "duration": 417,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-116",
+          "title": "Building production ready RAG Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cXYgQh87Up/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cXYgQh87Up/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cXYgQh87Up/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-117",
+          "title": "Understanding Vector spaces in RAG",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87PT66HbDkB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87PT66HbDkB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87PT66HbDkB/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-118",
+          "title": "RAG Value proposition & core mechanics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h3qpfzgpBH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h3qpfzgpBH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h3qpfzgpBH/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-119",
+          "title": "Hybrid Ensemble architecture for pricing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XNuMu7zDaQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XNuMu7zDaQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XNuMu7zDaQ/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-120",
+          "title": "Mastering Structured Outputs for LLM Automation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9psBjux66dG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9psBjux66dG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9psBjux66dG/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-121",
+          "title": "Mastering structured output with GPT-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DBPAXnqdNA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DBPAXnqdNA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DBPAXnqdNA/video.m3u8",
+          "duration": 602,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-122",
+          "title": "Defining Agentic AI Hallmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3cDhqJN2a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3cDhqJN2a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3cDhqJN2a/video.m3u8",
+          "duration": 662,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-123",
+          "title": "The architecture of Autonomy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qxyj5hnq36/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qxyj5hnq36/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qxyj5hnq36/video.m3u8",
+          "duration": 691,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-124",
+          "title": "Agents Core Loop Building from scratch",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZxKgxschT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZxKgxschT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZxKgxschT/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-125",
+          "title": "Gradio AI Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j38aXbBKxU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j38aXbBKxU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j38aXbBKxU/video.m3u8",
+          "duration": 515,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-126",
+          "title": "Real Time Monitoring for autonomous AI agents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EZqcgQRnpe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EZqcgQRnpe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EZqcgQRnpe/video.m3u8",
+          "duration": 685,
+          "type": "video"
+        },
+        {
+          "id": "td-llm-127",
+          "title": "Autonomus agent framework",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hzZZeFJZx8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hzZZeFJZx8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hzZZeFJZx8/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "platform": "TuteDude",
+  "batchId": "nestjs",
+  "batchSlug": "nestjs",
+  "batchName": "Nestjs",
+  "thumbnail": "https://www.tutedude.com/assets/avif/nestjs.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/nestjs",
+  "totalSections": 10,
+  "totalLectures": 48,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "NestJs course",
+      "lectures": [
+        {
+          "id": "td-nestjs-1",
+          "title": "Introduction SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qz4tkbrC5T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qz4tkbrC5T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qz4tkbrC5T/video.m3u8",
+          "duration": 966,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to NestJS and Setup",
+      "lectures": [
+        {
+          "id": "td-nestjs-2",
+          "title": "Course introduction and overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HCHegUBkJt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HCHegUBkJt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HCHegUBkJt/video.m3u8",
+          "duration": 284,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-3",
+          "title": "Understanding NestJS architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6znquTYu3Mp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6znquTYu3Mp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6znquTYu3Mp/video.m3u8",
+          "duration": 377,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-4",
+          "title": "Setting up the development environment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APpEg8GJAa2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APpEg8GJAa2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APpEg8GJAa2/video.m3u8",
+          "duration": 461,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-5",
+          "title": "Starting up a NestJS application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUUBxHUfPCm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUUBxHUfPCm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUUBxHUfPCm/video.m3u8",
+          "duration": 617,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-6",
+          "title": "IDE configuration and tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GX5tX5eb4x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GX5tX5eb4x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GX5tX5eb4x/video.m3u8",
+          "duration": 595,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nestjs-3",
+          "title": "Assignment 1",
+          "url": "https://www.canva.com/design/DAGzrx2H8hU/WnoRxODMNrUG9b2BiMq5AQ/edit?utm_content=DAGzrx2H8hU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzrx2H8hU/WnoRxODMNrUG9b2BiMq5AQ/edit?utm_content=DAGzrx2H8hU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzrx2H8hU/WnoRxODMNrUG9b2BiMq5AQ/edit?utm_content=DAGzrx2H8hU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzrx2H8hU/WnoRxODMNrUG9b2BiMq5AQ/edit?utm_content=DAGzrx2H8hU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "NestJS Fundamentals",
+      "lectures": [
+        {
+          "id": "td-nestjs-7",
+          "title": "Core concepts_ Controllers, Services, and Modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74pQMUHUQjs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74pQMUHUQjs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74pQMUHUQjs/video.m3u8",
+          "duration": 1709,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-8",
+          "title": "Request Handling and Routing with Decorators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgTxkXZzxyR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgTxkXZzxyR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgTxkXZzxyR/video.m3u8",
+          "duration": 3355,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-9",
+          "title": "Validation Pipes and DTOs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9trZMmkkAeP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9trZMmkkAeP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9trZMmkkAeP/video.m3u8",
+          "duration": 3659,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-10",
+          "title": "RESTful API with NestJS (CRUD Operations)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77FCq2Kffad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77FCq2Kffad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77FCq2Kffad/video.m3u8",
+          "duration": 3030,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nestjs-5",
+          "title": "Assignment 2",
+          "url": "https://www.canva.com/design/DAGzrzvPCpw/NYAdYzPk6NltBnxtnSfOAQ/edit?utm_content=DAGzrzvPCpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzrzvPCpw/NYAdYzPk6NltBnxtnSfOAQ/edit?utm_content=DAGzrzvPCpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzrzvPCpw/NYAdYzPk6NltBnxtnSfOAQ/edit?utm_content=DAGzrzvPCpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzrzvPCpw/NYAdYzPk6NltBnxtnSfOAQ/edit?utm_content=DAGzrzvPCpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Dependency Injection and Modules",
+      "lectures": [
+        {
+          "id": "td-nestjs-11",
+          "title": "Understanding Inversion of Control principle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kHcZrGQ2hc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kHcZrGQ2hc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kHcZrGQ2hc/video.m3u8",
+          "duration": 3150,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-12",
+          "title": "Dependency Injection in NestJS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PT3KexQAcq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PT3KexQAcq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PT3KexQAcq/video.m3u8",
+          "duration": 1263,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-13",
+          "title": "Creating and using Services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2JKfGDFaPd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2JKfGDFaPd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2JKfGDFaPd/video.m3u8",
+          "duration": 1158,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-14",
+          "title": "Creating feature modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBUtfgXxJx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBUtfgXxJx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBUtfgXxJx/video.m3u8",
+          "duration": 1554,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-15",
+          "title": "Introduction to Repositories pattern",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q4gCNpezqd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q4gCNpezqd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q4gCNpezqd/video.m3u8",
+          "duration": 1298,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-16",
+          "title": "Module communication and DI between modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cDAEazPfUE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cDAEazPfUE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cDAEazPfUE/video.m3u8",
+          "duration": 2759,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nestjs-7",
+          "title": "Assignment 3",
+          "url": "https://www.canva.com/design/DAGzr-whil8/Tn02u3SS0agr0WDABxuafA/edit?utm_content=DAGzr-whil8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzr-whil8/Tn02u3SS0agr0WDABxuafA/edit?utm_content=DAGzr-whil8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzr-whil8/Tn02u3SS0agr0WDABxuafA/edit?utm_content=DAGzr-whil8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzr-whil8/Tn02u3SS0agr0WDABxuafA/edit?utm_content=DAGzr-whil8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Data Persistence with TypeORM",
+      "lectures": [
+        {
+          "id": "td-nestjs-17",
+          "title": "Environment-specific database configuration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxpP9Jzynj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxpP9Jzynj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxpP9Jzynj/video.m3u8",
+          "duration": 588,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-18",
+          "title": "Introduction to TypeORM and how it works",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98m97NDnAuE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98m97NDnAuE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98m97NDnAuE/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-19",
+          "title": "Setting Up MySQL and Installing TypeORM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kr6kj29CaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kr6kj29CaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kr6kj29CaC/video.m3u8",
+          "duration": 796,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-20",
+          "title": "Creating entity classes using typeorm decorators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pFuh5q8zFH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pFuh5q8zFH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pFuh5q8zFH/video.m3u8",
+          "duration": 531,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-21",
+          "title": "What are repositories and how to use them in nestjs with typeorm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nYZTGUmtak/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nYZTGUmtak/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nYZTGUmtak/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-22",
+          "title": "Implementing full crud operations with repository methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHzKxZnEazA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHzKxZnEazA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHzKxZnEazA/video.m3u8",
+          "duration": 1117,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-23",
+          "title": "Query Building and filtering  in nestjs with typeORM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4qsFHX96Xd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4qsFHX96Xd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4qsFHX96Xd/video.m3u8",
+          "duration": 1113,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-24",
+          "title": "Relationship Mappings In nestjs with typeorm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPPPdZPAuM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPPPdZPAuM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPPPdZPAuM/video.m3u8",
+          "duration": 2559,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nestjs-9",
+          "title": "Assignment 4",
+          "url": "https://www.canva.com/design/DAGzr2MoMhU/Gk5Tr88hXrHNMB3hpYczgQ/edit",
+          "pdfUrl": "https://www.canva.com/design/DAGzr2MoMhU/Gk5Tr88hXrHNMB3hpYczgQ/edit",
+          "playerUrl": "https://www.canva.com/design/DAGzr2MoMhU/Gk5Tr88hXrHNMB3hpYczgQ/edit",
+          "downloadUrl": "https://www.canva.com/design/DAGzr2MoMhU/Gk5Tr88hXrHNMB3hpYczgQ/edit",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Authentication and Authorization",
+      "lectures": [
+        {
+          "id": "td-nestjs-25",
+          "title": "Authentication and Authorization  Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzpJhYu3TK6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzpJhYu3TK6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzpJhYu3TK6/video.m3u8",
+          "duration": 758,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-26",
+          "title": "Secure Password Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGfQu6UstgC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGfQu6UstgC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGfQu6UstgC/video.m3u8",
+          "duration": 1288,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-27",
+          "title": "JWT Authentication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A64P8CpEXH6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A64P8CpEXH6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A64P8CpEXH6/video.m3u8",
+          "duration": 1401,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-28",
+          "title": "Session-based Authentication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NcqeuGsg2q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NcqeuGsg2q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NcqeuGsg2q/video.m3u8",
+          "duration": 1812,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-29",
+          "title": "Auth Guards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATKgHPetNpQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATKgHPetNpQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATKgHPetNpQ/video.m3u8",
+          "duration": 1134,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-30",
+          "title": "Role Based Access Control (RBAC)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dJsDC93Ujp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dJsDC93Ujp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dJsDC93Ujp/video.m3u8",
+          "duration": 5449,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Advanced Request Handling",
+      "lectures": [
+        {
+          "id": "td-nestjs-31",
+          "title": "Custom parameter decorators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXDSKFUYGZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXDSKFUYGZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXDSKFUYGZ/video.m3u8",
+          "duration": 1158,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-32",
+          "title": "Interceptors for requestresponse transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pfZsMEeaQnr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pfZsMEeaQnr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pfZsMEeaQnr/video.m3u8",
+          "duration": 1333,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-33",
+          "title": "Response serialization and DTO transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dc6QErpTDe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dc6QErpTDe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dc6QErpTDe/video.m3u8",
+          "duration": 1095,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-34",
+          "title": "Exception filters and custom exceptions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4deygb2jYAE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4deygb2jYAE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4deygb2jYAE/video.m3u8",
+          "duration": 1468,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-35",
+          "title": "Middleware implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/667y5trG222/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/667y5trG222/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/667y5trG222/video.m3u8",
+          "duration": 1463,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Testing in NestJS",
+      "lectures": [
+        {
+          "id": "td-nestjs-36",
+          "title": "Introduction to testing in NestJS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtp83EHHYX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtp83EHHYX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtp83EHHYX/video.m3u8",
+          "duration": 1786,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-37",
+          "title": "Unit testing controllers and services",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uB6kcZpeZ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uB6kcZpeZ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uB6kcZpeZ4/video.m3u8",
+          "duration": 1849,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-38",
+          "title": "Using mocks effectively",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63gAceE8EXB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63gAceE8EXB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63gAceE8EXB/video.m3u8",
+          "duration": 2285,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-39",
+          "title": "End-to-end (E2E) testing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9kdDnmBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9kdDnmBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9kdDnmBC/video.m3u8",
+          "duration": 1309,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-40",
+          "title": "Test database setup and management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zCJJJM35Cbp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zCJJJM35Cbp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zCJJJM35Cbp/video.m3u8",
+          "duration": 2192,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-41",
+          "title": "Testing authentication flows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KpBK4damRRQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KpBK4damRRQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KpBK4damRRQ/video.m3u8",
+          "duration": 4345,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project Structure and Best Practices",
+      "lectures": [
+        {
+          "id": "td-nestjs-42",
+          "title": "Scalable project organization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxS6uFJhhg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxS6uFJhhg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxS6uFJhhg/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-43",
+          "title": "Environment-specific configuration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EDnZDMHxk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EDnZDMHxk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EDnZDMHxk/video.m3u8",
+          "duration": 336,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-44",
+          "title": "Logging and error handling best practices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Nq2CaUMbx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Nq2CaUMbx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Nq2CaUMbx/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-45",
+          "title": "Performance optimization techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PZKNQBf5kX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PZKNQBf5kX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PZKNQBf5kX/video.m3u8",
+          "duration": 1177,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deployment and Production",
+      "lectures": [
+        {
+          "id": "td-nestjs-46",
+          "title": "Database migrations with TypeORM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CZn2rTYjxY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CZn2rTYjxY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CZn2rTYjxY/video.m3u8",
+          "duration": 450,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-47",
+          "title": "Preparing for production deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RxQsp9H5ek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RxQsp9H5ek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RxQsp9H5ek/video.m3u8",
+          "duration": 563,
+          "type": "video"
+        },
+        {
+          "id": "td-nestjs-48",
+          "title": "Deployment options and CICD overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tN8upzEKsn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tN8upzEKsn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tN8upzEKsn/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nestjs-15",
+          "title": "Assignment 5",
+          "url": "https://www.canva.com/design/DAGzr9QSANA/sHO4tydouKiK43m4_RT4NQ/edit?utm_content=DAGzr9QSANA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "pdfUrl": "https://www.canva.com/design/DAGzr9QSANA/sHO4tydouKiK43m4_RT4NQ/edit?utm_content=DAGzr9QSANA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "playerUrl": "https://www.canva.com/design/DAGzr9QSANA/sHO4tydouKiK43m4_RT4NQ/edit?utm_content=DAGzr9QSANA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "downloadUrl": "https://www.canva.com/design/DAGzr9QSANA/sHO4tydouKiK43m4_RT4NQ/edit?utm_content=DAGzr9QSANA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

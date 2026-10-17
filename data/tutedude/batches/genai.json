@@ -1,0 +1,3370 @@
+{
+  "platform": "TuteDude",
+  "batchId": "genai",
+  "batchSlug": "genai",
+  "batchName": "Gen AI",
+  "thumbnail": "https://www.tutedude.com/assets/avif/genai.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/genai",
+  "totalSections": 42,
+  "totalLectures": 303,
+  "totalNotes": 39,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-genai-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "How to Learn from this Course",
+      "lectures": [
+        {
+          "id": "td-genai-2",
+          "title": "How to Learn from this Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7GQay6p6XJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7GQay6p6XJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7GQay6p6XJ/video.m3u8",
+          "duration": 1552,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-genai-3",
+          "title": "Generative AI Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4CHC7UNPhx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4CHC7UNPhx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4CHC7UNPhx/video.m3u8",
+          "duration": 2870,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-4",
+          "title": "Generative AI End to End Flowchart Roadmap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mb6Qfn4CAQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mb6Qfn4CAQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mb6Qfn4CAQ/video.m3u8",
+          "duration": 4903,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deep Dive In python ",
+      "lectures": [
+        {
+          "id": "td-genai-5",
+          "title": "Python Getting Started (VS Code)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ETufe4sH6kA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ETufe4sH6kA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ETufe4sH6kA/video.m3u8",
+          "duration": 2326,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-6",
+          "title": "Python Getting Started (Optional)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEBUyTJRH5J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEBUyTJRH5J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEBUyTJRH5J/video.m3u8",
+          "duration": 1913,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-7",
+          "title": "Python Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QTF4QZtK3z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QTF4QZtK3z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QTF4QZtK3z/video.m3u8",
+          "duration": 1903,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-8",
+          "title": "Variables and print & input functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aPjHrSDbNr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aPjHrSDbNr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aPjHrSDbNr/video.m3u8",
+          "duration": 3163,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-9",
+          "title": "Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKRedZ4tg3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKRedZ4tg3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKRedZ4tg3/video.m3u8",
+          "duration": 1187,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-10",
+          "title": "Operators in python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NTenPhUhh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NTenPhUhh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NTenPhUhh/video.m3u8",
+          "duration": 2762,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-11",
+          "title": "Data Structures and List",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p7TpmUrxsH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p7TpmUrxsH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p7TpmUrxsH/video.m3u8",
+          "duration": 2310,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-12",
+          "title": "List Mutability and List Slicing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qyG3HTHZgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qyG3HTHZgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qyG3HTHZgM/video.m3u8",
+          "duration": 1954,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-13",
+          "title": "List Methods and List Comprehension",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PtAZGbnYyX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PtAZGbnYyX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PtAZGbnYyX/video.m3u8",
+          "duration": 3226,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-14",
+          "title": "Tuples in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xyxkCKSRhm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xyxkCKSRhm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xyxkCKSRhm/video.m3u8",
+          "duration": 2619,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-15",
+          "title": "Dictionary in Data Structure",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ncmH53HnFE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ncmH53HnFE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ncmH53HnFE/video.m3u8",
+          "duration": 4235,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-16",
+          "title": "Sets in Data Structures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/986y8uMrDMH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/986y8uMrDMH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/986y8uMrDMH/video.m3u8",
+          "duration": 1181,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-17",
+          "title": "Conditional Statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BbReB92R6n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BbReB92R6n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BbReB92R6n/video.m3u8",
+          "duration": 2838,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-18",
+          "title": "Looping Statements_for loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NrxtcQ2u3a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NrxtcQ2u3a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NrxtcQ2u3a/video.m3u8",
+          "duration": 2189,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-19",
+          "title": "looping Statements While loop and loop control statements",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5chpZbBh8An/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5chpZbBh8An/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5chpZbBh8An/video.m3u8",
+          "duration": 3301,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-20",
+          "title": "Functions Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcmFKAbrqN7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcmFKAbrqN7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcmFKAbrqN7/video.m3u8",
+          "duration": 842,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-21",
+          "title": "Functions Definition intro",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55eraqyB6Kd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55eraqyB6Kd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55eraqyB6Kd/video.m3u8",
+          "duration": 2641,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-22",
+          "title": "Functions examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H8S8f3rNER8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H8S8f3rNER8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H8S8f3rNER8/video.m3u8",
+          "duration": 2104,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-23",
+          "title": "Functions Recursive and Variable Arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TtTYGr5dg6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TtTYGr5dg6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TtTYGr5dg6/video.m3u8",
+          "duration": 2815,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-24",
+          "title": "Functions Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtX8QuMsnrQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtX8QuMsnrQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtX8QuMsnrQ/video.m3u8",
+          "duration": 3814,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-25",
+          "title": "Lambda Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2KRDCNd88J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2KRDCNd88J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2KRDCNd88J/video.m3u8",
+          "duration": 1219,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-26",
+          "title": "Map Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHXxmuSPtJK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHXxmuSPtJK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHXxmuSPtJK/video.m3u8",
+          "duration": 2378,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-27",
+          "title": "Filter Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64ycJ9A9Z97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64ycJ9A9Z97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64ycJ9A9Z97/video.m3u8",
+          "duration": 1306,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-28",
+          "title": "File Handling Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y96zHQAuAe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y96zHQAuAe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y96zHQAuAe/video.m3u8",
+          "duration": 2768,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-29",
+          "title": "File Handling Questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xnqxuMNB3uY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xnqxuMNB3uY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xnqxuMNB3uY/video.m3u8",
+          "duration": 2938,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-30",
+          "title": "OS Library",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jZQ6Fq49fkr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jZQ6Fq49fkr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jZQ6Fq49fkr/video.m3u8",
+          "duration": 2232,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-31",
+          "title": "Modules and Packages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m7jxTxe8F9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m7jxTxe8F9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m7jxTxe8F9/video.m3u8",
+          "duration": 3603,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-32",
+          "title": "Important Libraries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ajx7a3nr5p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ajx7a3nr5p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ajx7a3nr5p/video.m3u8",
+          "duration": 4564,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-33",
+          "title": "Exception Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BPe3zDds9G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BPe3zDds9G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BPe3zDds9G/video.m3u8",
+          "duration": 4784,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-5",
+          "title": "A1 - Data Structure(Lists & Tuples, Sets, Dictionaries, Operations)",
+          "url": "https://docs.google.com/document/d/1ddgbgRVFMOPDXZpNac_O0GER04-yo2qcUXOVN3r2tYE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ddgbgRVFMOPDXZpNac_O0GER04-yo2qcUXOVN3r2tYE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ddgbgRVFMOPDXZpNac_O0GER04-yo2qcUXOVN3r2tYE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ddgbgRVFMOPDXZpNac_O0GER04-yo2qcUXOVN3r2tYE/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-6",
+          "title": "A2 - Control Flow (Conditionals & Loops)",
+          "url": "https://docs.google.com/document/d/1E5UJlzIKbthubM3SuAVkAT3m82-lZo05OkUcYQCc9ZY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1E5UJlzIKbthubM3SuAVkAT3m82-lZo05OkUcYQCc9ZY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1E5UJlzIKbthubM3SuAVkAT3m82-lZo05OkUcYQCc9ZY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1E5UJlzIKbthubM3SuAVkAT3m82-lZo05OkUcYQCc9ZY/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-7",
+          "title": "A3: Functions (User-Defined, Recursive, Lambda, Map, Filter)",
+          "url": "https://docs.google.com/document/d/1r6coF2ASWzwSez0CTMbLpJ9BaKA14YmYz3Ls1wiONO4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1r6coF2ASWzwSez0CTMbLpJ9BaKA14YmYz3Ls1wiONO4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1r6coF2ASWzwSez0CTMbLpJ9BaKA14YmYz3Ls1wiONO4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1r6coF2ASWzwSez0CTMbLpJ9BaKA14YmYz3Ls1wiONO4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-8",
+          "title": "A4: File Handling (Read, Write, Append, Modes)",
+          "url": "https://docs.google.com/document/d/19Y6ss0CS4pCDVE0eKodbdCiPSJNIsLolBsm275yQbuk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/19Y6ss0CS4pCDVE0eKodbdCiPSJNIsLolBsm275yQbuk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/19Y6ss0CS4pCDVE0eKodbdCiPSJNIsLolBsm275yQbuk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/19Y6ss0CS4pCDVE0eKodbdCiPSJNIsLolBsm275yQbuk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-9",
+          "title": "A5: Importing, Creating Modules & Packages",
+          "url": "https://docs.google.com/document/d/1e0dyOXjxHq3YFmLDrhEc1OT3piS7MCMpi5NCSeRq-dw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1e0dyOXjxHq3YFmLDrhEc1OT3piS7MCMpi5NCSeRq-dw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1e0dyOXjxHq3YFmLDrhEc1OT3piS7MCMpi5NCSeRq-dw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1e0dyOXjxHq3YFmLDrhEc1OT3piS7MCMpi5NCSeRq-dw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-10",
+          "title": "A6: Exception Handling",
+          "url": "https://docs.google.com/document/d/1sG6ZfFGcdM7YdO91vspIlYq9cSvMxKTCIGiFFPsbpZY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1sG6ZfFGcdM7YdO91vspIlYq9cSvMxKTCIGiFFPsbpZY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1sG6ZfFGcdM7YdO91vspIlYq9cSvMxKTCIGiFFPsbpZY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1sG6ZfFGcdM7YdO91vspIlYq9cSvMxKTCIGiFFPsbpZY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Object Oriented Programming",
+      "lectures": [
+        {
+          "id": "td-genai-34",
+          "title": "Object Oriented Programming Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NpfkGygyDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NpfkGygyDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NpfkGygyDx/video.m3u8",
+          "duration": 2642,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-35",
+          "title": "Object Oriented Programming Concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EMTCb2GHA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EMTCb2GHA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EMTCb2GHA/video.m3u8",
+          "duration": 5435,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-36",
+          "title": "Inheritance in OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hx2RcePKPD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hx2RcePKPD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hx2RcePKPD/video.m3u8",
+          "duration": 3973,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-37",
+          "title": "Polymorphism in OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NxhSyahRuK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NxhSyahRuK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NxhSyahRuK/video.m3u8",
+          "duration": 1937,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-38",
+          "title": "Encapsulation in OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6K3fHSqe45T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6K3fHSqe45T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6K3fHSqe45T/video.m3u8",
+          "duration": 4346,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-39",
+          "title": "Abstraction in OOPs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYy9hy3xCnC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYy9hy3xCnC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYy9hy3xCnC/video.m3u8",
+          "duration": 1401,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-40",
+          "title": "Magic Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dCNz4CceU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dCNz4CceU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dCNz4CceU/video.m3u8",
+          "duration": 1346,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-41",
+          "title": "Operator Overloading",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5SPXBBTx2N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5SPXBBTx2N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5SPXBBTx2N/video.m3u8",
+          "duration": 1921,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-12",
+          "title": "A7: Object-Oriented Programming (OOP)",
+          "url": "https://docs.google.com/document/d/1_dmIXXH6IR1sKD6_wxH8ktSHBvPC1IDOUD_JRENotRo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1_dmIXXH6IR1sKD6_wxH8ktSHBvPC1IDOUD_JRENotRo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1_dmIXXH6IR1sKD6_wxH8ktSHBvPC1IDOUD_JRENotRo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1_dmIXXH6IR1sKD6_wxH8ktSHBvPC1IDOUD_JRENotRo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Streamlit in Python",
+      "lectures": [
+        {
+          "id": "td-genai-42",
+          "title": "Streamlit in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TcbjusrZS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TcbjusrZS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TcbjusrZS/video.m3u8",
+          "duration": 2175,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-14",
+          "title": "A8: Streamlit (Basic App Building)",
+          "url": "https://docs.google.com/document/d/1L-gZRSETKTrL2GjKiSJQ5XTXeqnT1cKh4-w0hWkpzF0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1L-gZRSETKTrL2GjKiSJQ5XTXeqnT1cKh4-w0hWkpzF0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1L-gZRSETKTrL2GjKiSJQ5XTXeqnT1cKh4-w0hWkpzF0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1L-gZRSETKTrL2GjKiSJQ5XTXeqnT1cKh4-w0hWkpzF0/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Numpy",
+      "lectures": [
+        {
+          "id": "td-genai-43",
+          "title": "Numpy Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ESu4pYUFmT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ESu4pYUFmT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ESu4pYUFmT/video.m3u8",
+          "duration": 2998,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-44",
+          "title": "Numpy Important Formulas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9EeZ4DKFe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9EeZ4DKFe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9EeZ4DKFe/video.m3u8",
+          "duration": 4124,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-45",
+          "title": "Mathematical Operations in Numpy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fEn8DF9EZu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fEn8DF9EZu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fEn8DF9EZu/video.m3u8",
+          "duration": 2951,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-46",
+          "title": "Numpy Statistical Functions and Other Important Concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynzNM92pht/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynzNM92pht/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynzNM92pht/video.m3u8",
+          "duration": 5415,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-16",
+          "title": "A9: NumPy (Mathematical & Statistical Operations)",
+          "url": "https://docs.google.com/document/d/13DdLaiykLkUhyI990Cdnvvue1dJU18V2K_bC88IeVdw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/13DdLaiykLkUhyI990Cdnvvue1dJU18V2K_bC88IeVdw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/13DdLaiykLkUhyI990Cdnvvue1dJU18V2K_bC88IeVdw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/13DdLaiykLkUhyI990Cdnvvue1dJU18V2K_bC88IeVdw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pandas",
+      "lectures": [
+        {
+          "id": "td-genai-47",
+          "title": "Pandas Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q5r9hU22Sm6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q5r9hU22Sm6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q5r9hU22Sm6/video.m3u8",
+          "duration": 2062,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-48",
+          "title": "Getting Started with Series",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZezBqPP9aT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZezBqPP9aT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZezBqPP9aT/video.m3u8",
+          "duration": 3894,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-49",
+          "title": "Mathematical Functions in Series and indexing in Series",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82dPPaDQfJN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82dPPaDQfJN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82dPPaDQfJN/video.m3u8",
+          "duration": 4017,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-50",
+          "title": "Getting Started with Real World Datasets in Series",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mNZzrdsC2E/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mNZzrdsC2E/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mNZzrdsC2E/video.m3u8",
+          "duration": 4784,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-51",
+          "title": "DataFrame Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PUNBcDRgam/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PUNBcDRgam/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PUNBcDRgam/video.m3u8",
+          "duration": 1425,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-52",
+          "title": "Python Functionalities in Series and Plotting Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Gc9asdF7T8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Gc9asdF7T8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Gc9asdF7T8/video.m3u8",
+          "duration": 3487,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-53",
+          "title": "Creating dataframe and Attributes and Functions in DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSeGnxAyzk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSeGnxAyzk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSeGnxAyzk/video.m3u8",
+          "duration": 4204,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-54",
+          "title": "Important Functions and Fetching Specific Records and Columns From DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCBXs5rKmC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCBXs5rKmC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCBXs5rKmC/video.m3u8",
+          "duration": 4668,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-55",
+          "title": "Performing Analysis Through Filtering Data & Adding New Columns and Discussing Other Important Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKfNpsUFtM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKfNpsUFtM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKfNpsUFtM/video.m3u8",
+          "duration": 4389,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-18",
+          "title": "A10: Pandas (Series, DataFrame, Functions, Filtering & Analysis)",
+          "url": "https://docs.google.com/document/d/1FuwP71rVWezK6l9HsWrrCXpAFMWug5nQZpP1GtBHN3Y/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1FuwP71rVWezK6l9HsWrrCXpAFMWug5nQZpP1GtBHN3Y/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1FuwP71rVWezK6l9HsWrrCXpAFMWug5nQZpP1GtBHN3Y/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1FuwP71rVWezK6l9HsWrrCXpAFMWug5nQZpP1GtBHN3Y/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Matplotlib",
+      "lectures": [
+        {
+          "id": "td-genai-56",
+          "title": "Matplotlib Overview and Installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Th7bJBCxJ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Th7bJBCxJ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Th7bJBCxJ9/video.m3u8",
+          "duration": 1903,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-57",
+          "title": "Getting Started with Practically working with Matplotlib",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kK38fGNPty/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kK38fGNPty/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kK38fGNPty/video.m3u8",
+          "duration": 5182,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-58",
+          "title": "Deep Dive into Line Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qU8zpuEAd6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qU8zpuEAd6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qU8zpuEAd6/video.m3u8",
+          "duration": 4560,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-59",
+          "title": "Scatter Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NjN5CHJEtP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NjN5CHJEtP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NjN5CHJEtP/video.m3u8",
+          "duration": 2486,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-60",
+          "title": "Getting Started with Bar Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcMXcbMpeRQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcMXcbMpeRQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcMXcbMpeRQ/video.m3u8",
+          "duration": 3390,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-61",
+          "title": "Horizontal,Multiple and Stacked Bars",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xJdTJX4cP6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xJdTJX4cP6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xJdTJX4cP6/video.m3u8",
+          "duration": 3999,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-62",
+          "title": "Histogram",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbTDeMuNnxk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbTDeMuNnxk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbTDeMuNnxk/video.m3u8",
+          "duration": 2109,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-63",
+          "title": "Pie Chart and Changing Styles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yBsyrd34RsK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yBsyrd34RsK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yBsyrd34RsK/video.m3u8",
+          "duration": 2172,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-20",
+          "title": "A11: Matplotlib (Core Plot Types & Visualization)",
+          "url": "https://docs.google.com/document/d/1J_nAAqkcHRyJ7-6M3h46kls1ZugC0qIAcxc9KF6eAiY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1J_nAAqkcHRyJ7-6M3h46kls1ZugC0qIAcxc9KF6eAiY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1J_nAAqkcHRyJ7-6M3h46kls1ZugC0qIAcxc9KF6eAiY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1J_nAAqkcHRyJ7-6M3h46kls1ZugC0qIAcxc9KF6eAiY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Seaborn",
+      "lectures": [
+        {
+          "id": "td-genai-64",
+          "title": "Seaborn Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuQmkp9dtK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuQmkp9dtK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuQmkp9dtK/video.m3u8",
+          "duration": 3229,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-65",
+          "title": "Relational Plot Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TGRjhpFDqmU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TGRjhpFDqmU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TGRjhpFDqmU/video.m3u8",
+          "duration": 3976,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-66",
+          "title": "Lineplot Other Examples and Scatter and Facet Plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yBST7RGuzZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yBST7RGuzZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yBST7RGuzZ/video.m3u8",
+          "duration": 4152,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-67",
+          "title": "Distribution Plots as histplot,kdeplot,rugplot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M6mqjcEa2e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M6mqjcEa2e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M6mqjcEa2e/video.m3u8",
+          "duration": 3894,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-68",
+          "title": "Bivariate Histogram & KDE plots and Matrix Plots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fQTDYBaJ7P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fQTDYBaJ7P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fQTDYBaJ7P/video.m3u8",
+          "duration": 3661,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-69",
+          "title": "Categorical Plots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xuGPKK6Sbf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xuGPKK6Sbf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xuGPKK6Sbf/video.m3u8",
+          "duration": 3376,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-70",
+          "title": "Regression Plots and Multi Plots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42qmkEB2gZA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42qmkEB2gZA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42qmkEB2gZA/video.m3u8",
+          "duration": 2349,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-22",
+          "title": "A12: Seaborn (Relational, Distribution, Categorical & Multi-Plots)",
+          "url": "https://docs.google.com/document/d/1s3qALl29_RGUuX2xgrPla2JDDY-sAvsg89esNPBcCWg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1s3qALl29_RGUuX2xgrPla2JDDY-sAvsg89esNPBcCWg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1s3qALl29_RGUuX2xgrPla2JDDY-sAvsg89esNPBcCWg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1s3qALl29_RGUuX2xgrPla2JDDY-sAvsg89esNPBcCWg/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Why Data Science Knowledge For Being An AI Engineer",
+      "lectures": [
+        {
+          "id": "td-genai-71",
+          "title": "Why Data Science Knowledge For Being an AI Engineer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fxCa7U8dEZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fxCa7U8dEZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fxCa7U8dEZ/video.m3u8",
+          "duration": 2729,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Machine Learning",
+      "lectures": [
+        {
+          "id": "td-genai-72",
+          "title": "What is Artificial Intelligence and Machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NFFpAmFnXx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NFFpAmFnXx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NFFpAmFnXx/video.m3u8",
+          "duration": 4078,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-73",
+          "title": "AI vs ML vs NLP vs DL vs GenAI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3krXDEXZE6k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3krXDEXZE6k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3krXDEXZE6k/video.m3u8",
+          "duration": 3716,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-74",
+          "title": "Types of machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4czhPgZBq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4czhPgZBq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4czhPgZBq/video.m3u8",
+          "duration": 4725,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-75",
+          "title": "Machine Learning Development Life Cycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2UZp8ZN6Aj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2UZp8ZN6Aj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2UZp8ZN6Aj/video.m3u8",
+          "duration": 5330,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-76",
+          "title": "Tensors in Machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/daRGRJSmJ7K/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/daRGRJSmJ7K/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/daRGRJSmJ7K/video.m3u8",
+          "duration": 3391,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-77",
+          "title": "Framing The Business Problem To ML Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hcfjnYC8XE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hcfjnYC8XE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hcfjnYC8XE/video.m3u8",
+          "duration": 2895,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-78",
+          "title": "Data Gathering using csv",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/567sjRnt9Bz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/567sjRnt9Bz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/567sjRnt9Bz/video.m3u8",
+          "duration": 6542,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-79",
+          "title": "Json,SQL Data Gathering & Role in Agentic AI & AI App Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ttSJJJfCam/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ttSJJJfCam/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ttSJJJfCam/video.m3u8",
+          "duration": 4451,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-80",
+          "title": "Data Gathering using APIs for AI Apps,Agents,RAGs Development",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Qsu5gnkTUb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Qsu5gnkTUb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Qsu5gnkTUb/video.m3u8",
+          "duration": 2969,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-81",
+          "title": "Data Gathering Using API and Publishing on Kaggle(Mini Project)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4prmJXHPTCY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4prmJXHPTCY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4prmJXHPTCY/video.m3u8",
+          "duration": 4692,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-82",
+          "title": "Data Cleaning in ML,AI Data Management,Fine Tuning AI Models & NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58hPKCaGgGz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58hPKCaGgGz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58hPKCaGgGz/video.m3u8",
+          "duration": 7454,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-83",
+          "title": "Automated data Cleaning and importance while building Langchain Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pbYu7umCN9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pbYu7umCN9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pbYu7umCN9/video.m3u8",
+          "duration": 3156,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-84",
+          "title": "Automated Data-Cleaning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/429nfQsXhQ6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/429nfQsXhQ6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/429nfQsXhQ6/video.m3u8",
+          "duration": 5075,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-85",
+          "title": "Exploratory Data Analysis Steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3653yBdB22/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3653yBdB22/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3653yBdB22/video.m3u8",
+          "duration": 2891,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-86",
+          "title": "Exploratory Data Analysis( Feature Engineering)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q8aCFxXxy3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q8aCFxXxy3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q8aCFxXxy3/video.m3u8",
+          "duration": 3641,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-87",
+          "title": "Feature Engineering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FFUuEMYkAt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FFUuEMYkAt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FFUuEMYkAt/video.m3u8",
+          "duration": 3041,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-88",
+          "title": "Feature Encoding",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYrNZEpepQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYrNZEpepQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYrNZEpepQ/video.m3u8",
+          "duration": 3607,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-89",
+          "title": "One Hot Encoder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yx7D6yYh9HQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yx7D6yYh9HQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yx7D6yYh9HQ/video.m3u8",
+          "duration": 1657,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-90",
+          "title": "Feature Scaling - Standardization & Normalization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS2kG4kRjMY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS2kG4kRjMY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS2kG4kRjMY/video.m3u8",
+          "duration": 3308,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-91",
+          "title": "Column Transformer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/489F7dRCqPu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/489F7dRCqPu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/489F7dRCqPu/video.m3u8",
+          "duration": 2393,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-92",
+          "title": "ML PipeLine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx9n6m6pdSu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx9n6m6pdSu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx9n6m6pdSu/video.m3u8",
+          "duration": 4442,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-93",
+          "title": "Train vs Validation vs Test Data & Cross Validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmCYNP827j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmCYNP827j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmCYNP827j/video.m3u8",
+          "duration": 2909,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-94",
+          "title": "Machine Learning Algorithm- Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67FF6b7YGKr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67FF6b7YGKr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67FF6b7YGKr/video.m3u8",
+          "duration": 4142,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-95",
+          "title": "Metrics in Regression - RMSE, MAE, MSE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K7tnYr6nFRH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K7tnYr6nFRH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K7tnYr6nFRH/video.m3u8",
+          "duration": 1482,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-96",
+          "title": "Overfitting, Underfitting , Variance & Bias",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZUZdjpaG6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZUZdjpaG6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZUZdjpaG6d/video.m3u8",
+          "duration": 2283,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-97",
+          "title": "Logistic Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmdAFaPU73j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmdAFaPU73j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmdAFaPU73j/video.m3u8",
+          "duration": 2558,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-98",
+          "title": "Classification Metrics Accuracy , Precision , Recall",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eDzXEz9Qmj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eDzXEz9Qmj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eDzXEz9Qmj/video.m3u8",
+          "duration": 3891,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-99",
+          "title": "Naive Bayes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RTpUcaNCDJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RTpUcaNCDJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RTpUcaNCDJ/video.m3u8",
+          "duration": 2869,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-100",
+          "title": "K Nearest Neighbors (KNN)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DGFyzftpAK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DGFyzftpAK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DGFyzftpAK/video.m3u8",
+          "duration": 2669,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-101",
+          "title": "Support Vector Machine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJ8jmyU5kxg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJ8jmyU5kxg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJ8jmyU5kxg/video.m3u8",
+          "duration": 4561,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-102",
+          "title": "Decision Tree Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hEsBaUJYQK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hEsBaUJYQK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hEsBaUJYQK/video.m3u8",
+          "duration": 7135,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-103",
+          "title": "Bagging vs Boosting & Random Forest Bagging Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35aBc9CH3cA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35aBc9CH3cA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35aBc9CH3cA/video.m3u8",
+          "duration": 3437,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-104",
+          "title": "Building an Demo Machine Learning Model 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATPYe5q2qG6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATPYe5q2qG6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATPYe5q2qG6/video.m3u8",
+          "duration": 6789,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-105",
+          "title": "Building an Demo Machine Learning Model 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39R8x62KHzG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39R8x62KHzG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39R8x62KHzG/video.m3u8",
+          "duration": 7548,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-106",
+          "title": "Building an Demo Machine Learning Model 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G66CNuMzjS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G66CNuMzjS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G66CNuMzjS/video.m3u8",
+          "duration": 5432,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-107",
+          "title": "Unsupervised Machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANdTMYfkPRu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANdTMYfkPRu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANdTMYfkPRu/video.m3u8",
+          "duration": 2715,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-108",
+          "title": "K Means Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HqxarH3SFt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HqxarH3SFt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HqxarH3SFt/video.m3u8",
+          "duration": 2224,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-109",
+          "title": "Heirarichal Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfP9U2S2qT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfP9U2S2qT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfP9U2S2qT/video.m3u8",
+          "duration": 2476,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-110",
+          "title": "DBSCAN Clustering",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zxpfgNJGnz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zxpfgNJGnz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zxpfgNJGnz/video.m3u8",
+          "duration": 2440,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-111",
+          "title": "Anomaly Detection",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PdeSxQxdCx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PdeSxQxdCx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PdeSxQxdCx/video.m3u8",
+          "duration": 2176,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-25",
+          "title": "A13: Data Gathering, Preprocessing & EDA",
+          "url": "https://docs.google.com/document/d/1wDFPuA3cjvhaXc8mEBfdOU4_JZlORjYviHLulag1VY0/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1wDFPuA3cjvhaXc8mEBfdOU4_JZlORjYviHLulag1VY0/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1wDFPuA3cjvhaXc8mEBfdOU4_JZlORjYviHLulag1VY0/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1wDFPuA3cjvhaXc8mEBfdOU4_JZlORjYviHLulag1VY0/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-26",
+          "title": "A14: Feature Engineering, Encoding, Scaling & Pipelines",
+          "url": "https://docs.google.com/document/d/1sI_OOSk1flFHWrYMPbnoVbLAY9lh899YkiLOPeNgAfc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1sI_OOSk1flFHWrYMPbnoVbLAY9lh899YkiLOPeNgAfc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1sI_OOSk1flFHWrYMPbnoVbLAY9lh899YkiLOPeNgAfc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1sI_OOSk1flFHWrYMPbnoVbLAY9lh899YkiLOPeNgAfc/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-27",
+          "title": "A15: Core Algorithms, Metrics & Model Behavior",
+          "url": "https://docs.google.com/document/d/15OqcYR8fR6c3jr5xfnL7B7rHyylv5v6ibJjXpAscbGs/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/15OqcYR8fR6c3jr5xfnL7B7rHyylv5v6ibJjXpAscbGs/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/15OqcYR8fR6c3jr5xfnL7B7rHyylv5v6ibJjXpAscbGs/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/15OqcYR8fR6c3jr5xfnL7B7rHyylv5v6ibJjXpAscbGs/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-28",
+          "title": "A16: SVM, Trees, Ensembles, Validation & Unsupervised Learning",
+          "url": "https://docs.google.com/document/d/1ng1-BB3IAs1hXBuGnZV2v5TQzOrJ-_55kFBnygOqeXg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ng1-BB3IAs1hXBuGnZV2v5TQzOrJ-_55kFBnygOqeXg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ng1-BB3IAs1hXBuGnZV2v5TQzOrJ-_55kFBnygOqeXg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ng1-BB3IAs1hXBuGnZV2v5TQzOrJ-_55kFBnygOqeXg/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Natural Language Processing",
+      "lectures": [
+        {
+          "id": "td-genai-112",
+          "title": "Natural Language Processing Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FqMbqHx8yR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FqMbqHx8yR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FqMbqHx8yR/video.m3u8",
+          "duration": 4021,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-113",
+          "title": "NLP Pipeline Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tk76cyyzKK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tk76cyyzKK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tk76cyyzKK/video.m3u8",
+          "duration": 2307,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-114",
+          "title": "NLP Daily Tasks , Approach for it And Challenges in it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mfyk9X2z6r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mfyk9X2z6r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mfyk9X2z6r/video.m3u8",
+          "duration": 6145,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-115",
+          "title": "NLP Pipeline Initial Steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3bXfyaYP5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3bXfyaYP5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3bXfyaYP5/video.m3u8",
+          "duration": 6380,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-116",
+          "title": "Feature Engineering and Modelling For Rule Based vs Generative AI Chatbots with Deployment in Further Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uerfJKTSyCn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uerfJKTSyCn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uerfJKTSyCn/video.m3u8",
+          "duration": 8565,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-117",
+          "title": "Recommendation System Project Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GakXXBXFXn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GakXXBXFXn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GakXXBXFXn/video.m3u8",
+          "duration": 3491,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-118",
+          "title": "Getting Started with Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9auds4RYyjK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9auds4RYyjK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9auds4RYyjK/video.m3u8",
+          "duration": 3268,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-119",
+          "title": "Preprocessing in Recommendation System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3udP6cSPeGz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3udP6cSPeGz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3udP6cSPeGz/video.m3u8",
+          "duration": 3679,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-120",
+          "title": "NLP Vectorization and Building the Recommendation System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qpjy6EMsUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qpjy6EMsUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qpjy6EMsUM/video.m3u8",
+          "duration": 7651,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-121",
+          "title": "Launching Recommendation System as a Website",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsRDgXadJQD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsRDgXadJQD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsRDgXadJQD/video.m3u8",
+          "duration": 3182,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-122",
+          "title": "Connecting to GitHub and Deployment in Render",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m8n7TrPAfc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m8n7TrPAfc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m8n7TrPAfc/video.m3u8",
+          "duration": 5775,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-123",
+          "title": "Basic Text Cleaning in NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c4FGC6nYU8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c4FGC6nYU8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c4FGC6nYU8/video.m3u8",
+          "duration": 6210,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-124",
+          "title": "Advance Text Cleaning in NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nm7NqDSBjU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nm7NqDSBjU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nm7NqDSBjU/video.m3u8",
+          "duration": 3821,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-125",
+          "title": "Basic Text Preprocessing in NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sdPN7uZ3XG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sdPN7uZ3XG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sdPN7uZ3XG/video.m3u8",
+          "duration": 7625,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-126",
+          "title": "Text Vectorization Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RErbf8ph4Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RErbf8ph4Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RErbf8ph4Y/video.m3u8",
+          "duration": 2567,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-127",
+          "title": "One Hot Encoding and Bag of Words in Text Vectorization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kKTyuQPCph/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kKTyuQPCph/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kKTyuQPCph/video.m3u8",
+          "duration": 5036,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-128",
+          "title": "N - Grams and TFIDF Text Vectorization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD6G6b4YUq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD6G6b4YUq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD6G6b4YUq/video.m3u8",
+          "duration": 5189,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-129",
+          "title": "Word2Vec Vector Embedding Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gXNqC6Sh4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gXNqC6Sh4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gXNqC6Sh4g/video.m3u8",
+          "duration": 5927,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-130",
+          "title": "Types of Word2Vec Techniques and Neural Networks Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aPgpEFDj4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aPgpEFDj4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aPgpEFDj4/video.m3u8",
+          "duration": 6252,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-131",
+          "title": "Training our own Word2Vec Model on our personal Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KgkhXNDtUk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KgkhXNDtUk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KgkhXNDtUk/video.m3u8",
+          "duration": 3984,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-30",
+          "title": "A17: Text Cleaning, Preprocessing & NLP Pipeline",
+          "url": "https://docs.google.com/document/d/1wEXvi5jxTrr4ktElXP_yGZMudUNkLbRWOsZvQ4YNBdk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1wEXvi5jxTrr4ktElXP_yGZMudUNkLbRWOsZvQ4YNBdk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1wEXvi5jxTrr4ktElXP_yGZMudUNkLbRWOsZvQ4YNBdk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1wEXvi5jxTrr4ktElXP_yGZMudUNkLbRWOsZvQ4YNBdk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-31",
+          "title": "A18: Text Vectorization Techniques",
+          "url": "https://docs.google.com/document/d/1GQ2YCtPV_LKwhTJHj1gxxwVMpTYqk7QqArdmta1qLk4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1GQ2YCtPV_LKwhTJHj1gxxwVMpTYqk7QqArdmta1qLk4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1GQ2YCtPV_LKwhTJHj1gxxwVMpTYqk7QqArdmta1qLk4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1GQ2YCtPV_LKwhTJHj1gxxwVMpTYqk7QqArdmta1qLk4/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-32",
+          "title": "A19: Word2Vec Text Embeddings",
+          "url": "https://docs.google.com/document/d/128G4ozoPtE275yz8JhpKtAqzKdp9h9xQF79eBUP_X0s/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/128G4ozoPtE275yz8JhpKtAqzKdp9h9xQF79eBUP_X0s/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/128G4ozoPtE275yz8JhpKtAqzKdp9h9xQF79eBUP_X0s/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/128G4ozoPtE275yz8JhpKtAqzKdp9h9xQF79eBUP_X0s/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-33",
+          "title": "A20: Building & Deploying a Recommendation System",
+          "url": "https://docs.google.com/document/d/1A1TmA8UpB5N24j_GmnXhWx01tK_OzIXQN96PDII1jYw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1A1TmA8UpB5N24j_GmnXhWx01tK_OzIXQN96PDII1jYw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1A1TmA8UpB5N24j_GmnXhWx01tK_OzIXQN96PDII1jYw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1A1TmA8UpB5N24j_GmnXhWx01tK_OzIXQN96PDII1jYw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Deep Learning",
+      "lectures": [
+        {
+          "id": "td-genai-132",
+          "title": "Introduction To Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ypgDdGfaQ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ypgDdGfaQ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ypgDdGfaQ2/video.m3u8",
+          "duration": 3838,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-133",
+          "title": "Working of Deep Learning and ML vs DL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xSe2s9JtgU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xSe2s9JtgU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xSe2s9JtgU/video.m3u8",
+          "duration": 2691,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-134",
+          "title": "Perceptron in Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aNEgtcCZYa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aNEgtcCZYa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aNEgtcCZYa/video.m3u8",
+          "duration": 3436,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-135",
+          "title": "Multi Layered Perceptron",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JU2TSb6y3c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JU2TSb6y3c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JU2TSb6y3c/video.m3u8",
+          "duration": 1896,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fundamentals for Training Deep Learning Model ",
+      "lectures": [
+        {
+          "id": "td-genai-136",
+          "title": "Requirements for Building Deep Learning Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF36c4UkB5P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF36c4UkB5P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF36c4UkB5P/video.m3u8",
+          "duration": 1504,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-137",
+          "title": "What is Loss Function and Training of GPT like networks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CxzxyCJZeY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CxzxyCJZeY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CxzxyCJZeY/video.m3u8",
+          "duration": 1981,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-138",
+          "title": "Regression Loss and Binary Cross Entropy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86YgYNuffQT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86YgYNuffQT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86YgYNuffQT/video.m3u8",
+          "duration": 1722,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-139",
+          "title": "GPT Model Training Loss and Multi classification loss",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hp5t5Z4S7S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hp5t5Z4S7S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hp5t5Z4S7S/video.m3u8",
+          "duration": 1808,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-140",
+          "title": "Backpropogation in Neural Network and use in Training Chatgpt",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZ9nZ6TeYr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZ9nZ6TeYr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZ9nZ6TeYr/video.m3u8",
+          "duration": 2218,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-141",
+          "title": "Backpropogation Step by Step process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PkUpFNuYG9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PkUpFNuYG9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PkUpFNuYG9/video.m3u8",
+          "duration": 2341,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-142",
+          "title": "What is Gradient Descent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3hdyhR8uUX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3hdyhR8uUX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3hdyhR8uUX/video.m3u8",
+          "duration": 1607,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-143",
+          "title": "Types of Gradient descent and batch size in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTdmYZkZUf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTdmYZkZUf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTdmYZkZUf/video.m3u8",
+          "duration": 1841,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-144",
+          "title": "What is Vanishing Gradient Problem in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NdjNtFhdZM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NdjNtFhdZM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NdjNtFhdZM/video.m3u8",
+          "duration": 1595,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-145",
+          "title": "Vanishing Gradient Reason and How to Identify and Handle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbrCt2NuaK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbrCt2NuaK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbrCt2NuaK/video.m3u8",
+          "duration": 1416,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Improving Performance of Model",
+      "lectures": [
+        {
+          "id": "td-genai-146",
+          "title": "How to Improve Performance of Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TFZGg5Ard/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TFZGg5Ard/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TFZGg5Ard/video.m3u8",
+          "duration": 2500,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-147",
+          "title": "Early Stopping and Data Scaling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5dSyaJrrU4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5dSyaJrrU4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5dSyaJrrU4/video.m3u8",
+          "duration": 1954,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-148",
+          "title": "Dropout Layers in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uj2RhBP74F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uj2RhBP74F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uj2RhBP74F/video.m3u8",
+          "duration": 1987,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-149",
+          "title": "Regularization in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NtakueTff/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NtakueTff/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NtakueTff/video.m3u8",
+          "duration": 1371,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-150",
+          "title": "Batch Normalization in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGDcUH6pAZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGDcUH6pAZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGDcUH6pAZr/video.m3u8",
+          "duration": 2083,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-151",
+          "title": "Batch Normalizaion Indepth and How used in Gen AI Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F4MHz5e8Rd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F4MHz5e8Rd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F4MHz5e8Rd/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-152",
+          "title": "What is Activation Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uPY5nybgue/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uPY5nybgue/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uPY5nybgue/video.m3u8",
+          "duration": 1827,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-153",
+          "title": "Types of Activation Function in DL and Gen AI Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d29pz9ujsp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d29pz9ujsp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d29pz9ujsp/video.m3u8",
+          "duration": 2532,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-154",
+          "title": "Optimizers in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEccbqb4N2T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEccbqb4N2T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEccbqb4N2T/video.m3u8",
+          "duration": 2365,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-155",
+          "title": "Adagrad Optimizer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BTbgc3zB6q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BTbgc3zB6q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BTbgc3zB6q/video.m3u8",
+          "duration": 1685,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-156",
+          "title": "RMSProp and Adam Optimizer and Optimizers used for GenAI Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yk7UExnuGN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yk7UExnuGN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yk7UExnuGN/video.m3u8",
+          "duration": 2404,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ANN Project Implementation",
+      "lectures": [
+        {
+          "id": "td-genai-157",
+          "title": "Getting Started with Building ANN Classification Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PeEeCxpDp7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PeEeCxpDp7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PeEeCxpDp7/video.m3u8",
+          "duration": 2521,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-158",
+          "title": "Data Preprocessing and Cleaning For ANN Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADczUAxJd8p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADczUAxJd8p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADczUAxJd8p/video.m3u8",
+          "duration": 2022,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-159",
+          "title": "Feature Encoding,Scaling and Train-Test split",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65xPpyXuKSe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65xPpyXuKSe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65xPpyXuKSe/video.m3u8",
+          "duration": 2515,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-160",
+          "title": "ANN Implementation in Model Building",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67GHcHnuDhu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67GHcHnuDhu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67GHcHnuDhu/video.m3u8",
+          "duration": 2633,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-161",
+          "title": "Prediction using ANN Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fDzzqrs6fgk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fDzzqrs6fgk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fDzzqrs6fgk/video.m3u8",
+          "duration": 2022,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-162",
+          "title": "Using Encoder and Model File for Prediction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hkCEsjTFRZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hkCEsjTFRZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hkCEsjTFRZ/video.m3u8",
+          "duration": 1413,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-163",
+          "title": "Creating Streamlit UI for the Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tpggNdQMRq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tpggNdQMRq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tpggNdQMRq/video.m3u8",
+          "duration": 2370,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-164",
+          "title": "Deployment of Application in Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBYZqu9ByB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBYZqu9ByB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBYZqu9ByB/video.m3u8",
+          "duration": 984,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-165",
+          "title": "Regression Problem using ANN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gJ4DDCAsrZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gJ4DDCAsrZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gJ4DDCAsrZ/video.m3u8",
+          "duration": 2587,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-166",
+          "title": "Hyperparameter Tuning using KerasTuner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gyCcTgZFtx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gyCcTgZFtx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gyCcTgZFtx/video.m3u8",
+          "duration": 3536,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-167",
+          "title": "Hyperparameter Tuning for Nodes Number in Hidden Layers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CNCNpYJRnc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CNCNpYJRnc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CNCNpYJRnc/video.m3u8",
+          "duration": 2442,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-168",
+          "title": "Deciding Optimal Number of Hidden Layers with Tuning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83uPb9g4BMm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83uPb9g4BMm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83uPb9g4BMm/video.m3u8",
+          "duration": 1463,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-169",
+          "title": "Hyperparameter Tuning For deciding Optimal Hidden Layers,Nodes,Optimizer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jedTj2k986/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jedTj2k986/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jedTj2k986/video.m3u8",
+          "duration": 2252,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Pretraining and Transfer Learning in Gen AI Models",
+      "lectures": [
+        {
+          "id": "td-genai-170",
+          "title": "Pre Trained Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYKFgnnG9uT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYKFgnnG9uT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYKFgnnG9uT/video.m3u8",
+          "duration": 2789,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-171",
+          "title": "Pre Training For Gen AI Apps in Industry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45RPzyGyUP2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45RPzyGyUP2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45RPzyGyUP2/video.m3u8",
+          "duration": 2121,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-172",
+          "title": "Transfer Learning in Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73jh7fjHHfB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73jh7fjHHfB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73jh7fjHHfB/video.m3u8",
+          "duration": 1940,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-173",
+          "title": "How Transfer Learning is Performed in Industry",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jyrnYGhDCz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jyrnYGhDCz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jyrnYGhDCz/video.m3u8",
+          "duration": 2144,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Simple RNN Indepth Intuition",
+      "lectures": [
+        {
+          "id": "td-genai-174",
+          "title": "Why RNNs are Needed",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pBCzP42K27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pBCzP42K27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pBCzP42K27/video.m3u8",
+          "duration": 2199,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-175",
+          "title": "Problem with ANN for solving Sequential Data Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nrtUPpnCDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nrtUPpnCDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nrtUPpnCDh/video.m3u8",
+          "duration": 2310,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-176",
+          "title": "What is Recurrent Neural Network",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5956rg6PbG6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5956rg6PbG6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5956rg6PbG6/video.m3u8",
+          "duration": 2474,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-177",
+          "title": "Forward Propogation in RNN with Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GTz68yBBDM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GTz68yBBDM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GTz68yBBDM/video.m3u8",
+          "duration": 2592,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-178",
+          "title": "Types of RNN - Many To One",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S6AN7A9X32/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S6AN7A9X32/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S6AN7A9X32/video.m3u8",
+          "duration": 1453,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-179",
+          "title": "Other Types of RNN for Gen AI Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jrBhfrQztu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jrBhfrQztu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jrBhfrQztu/video.m3u8",
+          "duration": 2332,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-180",
+          "title": "Backpropogation in RNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay8R3dpdKHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay8R3dpdKHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay8R3dpdKHK/video.m3u8",
+          "duration": 2194,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-181",
+          "title": "Backpropogating Through Time",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exummPq7kQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exummPq7kQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exummPq7kQ/video.m3u8",
+          "duration": 1948,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-182",
+          "title": "Problems with RNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YKxPcZU8dG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YKxPcZU8dG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YKxPcZU8dG/video.m3u8",
+          "duration": 1666,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-183",
+          "title": "Problem of Vanishing Gradient of Long Term in RNNs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At4GeyBpfHh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At4GeyBpfHh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At4GeyBpfHh/video.m3u8",
+          "duration": 2116,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deep Learning Project with Simple RNN",
+      "lectures": [
+        {
+          "id": "td-genai-184",
+          "title": "Getting Started with RNN Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnfSeZMZ5Nj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnfSeZMZ5Nj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnfSeZMZ5Nj/video.m3u8",
+          "duration": 1545,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-185",
+          "title": "Traditional Embedding Generation Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sx38e3ZCzh7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sx38e3ZCzh7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sx38e3ZCzh7/video.m3u8",
+          "duration": 1947,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-186",
+          "title": "Embedding Layer for capturing Context Info",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbGNJCpzb9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbGNJCpzb9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbGNJCpzb9/video.m3u8",
+          "duration": 2289,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-187",
+          "title": "RNN Project Initial Steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PKKAnxdKKC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PKKAnxdKKC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PKKAnxdKKC/video.m3u8",
+          "duration": 3236,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-188",
+          "title": "Training Simple RNN without Embedding Layer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPsTSybKnm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPsTSybKnm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPsTSybKnm/video.m3u8",
+          "duration": 1895,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-189",
+          "title": "Training with Embedding Layer in Simple RNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HgAqEKGuU9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HgAqEKGuU9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HgAqEKGuU9/video.m3u8",
+          "duration": 2682,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-190",
+          "title": "Creating Streamlit UI for the App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E8SquA5E5Dp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E8SquA5E5Dp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E8SquA5E5Dp/video.m3u8",
+          "duration": 1888,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-191",
+          "title": "Pushing Larger File in Github and Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U4DM6XRXRs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U4DM6XRXRs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U4DM6XRXRs/video.m3u8",
+          "duration": 1848,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LSTM and GRU Indepth Intuition",
+      "lectures": [
+        {
+          "id": "td-genai-192",
+          "title": "From RNN to LSTM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGsFjMgxR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGsFjMgxR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGsFjMgxR2/video.m3u8",
+          "duration": 2130,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-193",
+          "title": "Different Memory Types in LSTM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B39CtRQ42m4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B39CtRQ42m4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B39CtRQ42m4/video.m3u8",
+          "duration": 2462,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-194",
+          "title": "Gates in LSTM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pBxqcBqBj2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pBxqcBqBj2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pBxqcBqBj2/video.m3u8",
+          "duration": 2783,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-195",
+          "title": "GRU Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e5AmXThU2u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e5AmXThU2u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e5AmXThU2u/video.m3u8",
+          "duration": 2183,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-196",
+          "title": "Working of GRU",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRAUYxQ6bp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRAUYxQ6bp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRAUYxQ6bp/video.m3u8",
+          "duration": 2140,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "LSTM Next Word Prediction Project (Large Language Model)",
+      "lectures": [
+        {
+          "id": "td-genai-197",
+          "title": "Overview of Project Task",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DDygZh4A57/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DDygZh4A57/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DDygZh4A57/video.m3u8",
+          "duration": 2271,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-198",
+          "title": "Getting Started with Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JbpAegA4bA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JbpAegA4bA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JbpAegA4bA/video.m3u8",
+          "duration": 2267,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-199",
+          "title": "Tokenization and Text Prep for Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/X7enDZdjxT6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/X7enDZdjxT6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/X7enDZdjxT6/video.m3u8",
+          "duration": 2853,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-200",
+          "title": "Creating Model for Next Word Prediction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5DESfcJkZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5DESfcJkZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5DESfcJkZr/video.m3u8",
+          "duration": 2985,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-201",
+          "title": "Streamlit UI For App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4uBmjRkE8c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4uBmjRkE8c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4uBmjRkE8c/video.m3u8",
+          "duration": 3206,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-202",
+          "title": "Predicting Through Model and Pushing Code in Github with Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yaAZk877GX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yaAZk877GX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yaAZk877GX/video.m3u8",
+          "duration": 3784,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": " BIDirectional RNN Indepth Intuition",
+      "lectures": [
+        {
+          "id": "td-genai-203",
+          "title": "Introduction to BiDirectional RNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NqDb5N3HUt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NqDb5N3HUt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NqDb5N3HUt/video.m3u8",
+          "duration": 2068,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-204",
+          "title": "Working of BiDirectional RNN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNsF8GjcmM4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNsF8GjcmM4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNsF8GjcmM4/video.m3u8",
+          "duration": 2204,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Transformers and ChatGPT Evolution",
+      "lectures": [
+        {
+          "id": "td-genai-205",
+          "title": "How LLMs work Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J8TyNKc8pt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J8TyNKc8pt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J8TyNKc8pt/video.m3u8",
+          "duration": 1810,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-206",
+          "title": "TikTokenizer and Tokenization in Transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCneMgjtnCX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCneMgjtnCX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCneMgjtnCX/video.m3u8",
+          "duration": 2179,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-207",
+          "title": "OpenAI and HuggingFace for Embeddings in Transformer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UStR8FaUe6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UStR8FaUe6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UStR8FaUe6/video.m3u8",
+          "duration": 2591,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-208",
+          "title": "Positional Encoding and Self Attention in Transformer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Trgs2fNMaB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Trgs2fNMaB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Trgs2fNMaB/video.m3u8",
+          "duration": 1777,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-209",
+          "title": "Multi Head Attention and Encoder Other Layers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g344ZSCUX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g344ZSCUX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g344ZSCUX7/video.m3u8",
+          "duration": 1741,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-210",
+          "title": "Decoder Working in Transformer and HuggingFace Model For Predictions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cPJpdmxyAe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cPJpdmxyAe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cPJpdmxyAe/video.m3u8",
+          "duration": 3571,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-211",
+          "title": "History of LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eMgMJ7XQss/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eMgMJ7XQss/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eMgMJ7XQss/video.m3u8",
+          "duration": 1991,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-212",
+          "title": "Encoder Decoder For Seq to Seq Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9E2Pm7pJu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9E2Pm7pJu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9E2Pm7pJu/video.m3u8",
+          "duration": 1962,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-213",
+          "title": "Attention Mechanism",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45rUeTqBuQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45rUeTqBuQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45rUeTqBuQE/video.m3u8",
+          "duration": 2505,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-214",
+          "title": "Transformers in the Lifecycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mS5uAGj2PZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mS5uAGj2PZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mS5uAGj2PZ/video.m3u8",
+          "duration": 1347,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-215",
+          "title": "Transfer Learning with Transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HdmMfSZu4Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HdmMfSZu4Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HdmMfSZu4Y/video.m3u8",
+          "duration": 2462,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-216",
+          "title": "Transfer Learning with Language Modelling Task",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cAXhtzMc4J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cAXhtzMc4J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cAXhtzMc4J/video.m3u8",
+          "duration": 3170,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-217",
+          "title": "LLMs from OpenAI and Google",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56b7a6B5ZzS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56b7a6B5ZzS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56b7a6B5ZzS/video.m3u8",
+          "duration": 2441,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-218",
+          "title": "ChatGPT from LLMs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FUfYHKGs7j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FUfYHKGs7j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FUfYHKGs7j/video.m3u8",
+          "duration": 2502,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To Gen AI and LLM Models",
+      "lectures": [
+        {
+          "id": "td-genai-219",
+          "title": "AI vs ML vs DL vs GenAI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BnJBQyhjhX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BnJBQyhjhX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BnJBQyhjhX/video.m3u8",
+          "duration": 1811,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-220",
+          "title": "How Transformers were Introduced for OpenAI Chatgpt Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3czeh2NpzbZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3czeh2NpzbZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3czeh2NpzbZ/video.m3u8",
+          "duration": 1905,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-221",
+          "title": "OpenAI Chatgpt Model Training Initial Steps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zDGAMn4FQP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zDGAMn4FQP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zDGAMn4FQP/video.m3u8",
+          "duration": 2185,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-222",
+          "title": "OpenAI Chatgpt Training Final RLHF Step",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nXJ99EZxyfE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nXJ99EZxyfE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nXJ99EZxyfE/video.m3u8",
+          "duration": 1304,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-223",
+          "title": "Evolution of Large Language Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zkEEkzYPQR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zkEEkzYPQR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zkEEkzYPQR/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-224",
+          "title": "ALL LLM Models Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UjqbrhS3Sp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UjqbrhS3Sp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UjqbrhS3Sp/video.m3u8",
+          "duration": 1071,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To Langchain For Generative AI",
+      "lectures": [
+        {
+          "id": "td-genai-225",
+          "title": "Getting Started with Langchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kce6GFzn7S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kce6GFzn7S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kce6GFzn7S/video.m3u8",
+          "duration": 2163,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-226",
+          "title": "Why Langchain and Its Benefits",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FX5x2D7fHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FX5x2D7fHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FX5x2D7fHF/video.m3u8",
+          "duration": 1238,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started with Langchain and OpenAI",
+      "lectures": [
+        {
+          "id": "td-genai-227",
+          "title": "Langchain Website Overview with Langsmith , Langraph and Langserve",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ptNXxF72xp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ptNXxF72xp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ptNXxF72xp/video.m3u8",
+          "duration": 2345,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-228",
+          "title": "Getting Started with OpenAI LLM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BesnfjKtHXe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BesnfjKtHXe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BesnfjKtHXe/video.m3u8",
+          "duration": 2143,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Important Components and Modules in Langchain",
+      "lectures": [
+        {
+          "id": "td-genai-229",
+          "title": "Langchain Important Components - Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uu8QhzCzQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uu8QhzCzQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uu8QhzCzQc/video.m3u8",
+          "duration": 1534,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-230",
+          "title": "Langchain Components- Prompts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKC922Q5cjY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKC922Q5cjY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKC922Q5cjY/video.m3u8",
+          "duration": 2576,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-231",
+          "title": "Langchain Components- Chains and Indexes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5srbZZCRjJb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5srbZZCRjJb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5srbZZCRjJb/video.m3u8",
+          "duration": 2189,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-232",
+          "title": "Langchain Components- Memory and Agents",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TyDTT39Aek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TyDTT39Aek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TyDTT39Aek/video.m3u8",
+          "duration": 1506,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-233",
+          "title": "Introduction To Document Loaders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXnYk824MPS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXnYk824MPS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXnYk824MPS/video.m3u8",
+          "duration": 1856,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-234",
+          "title": "Text Loaders in Document Loaders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMSZsxtNuR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMSZsxtNuR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMSZsxtNuR/video.m3u8",
+          "duration": 1268,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-235",
+          "title": "PDF Loaders in Document Loaders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PAhyfCsFja/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PAhyfCsFja/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PAhyfCsFja/video.m3u8",
+          "duration": 1636,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-236",
+          "title": "DirectoryLoader in Document Loaders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brf7ZBs6Q4D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brf7ZBs6Q4D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brf7ZBs6Q4D/video.m3u8",
+          "duration": 1620,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-237",
+          "title": "Text Splitters in Langchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E8gY4ZbzhT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E8gY4ZbzhT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E8gY4ZbzhT/video.m3u8",
+          "duration": 1905,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-238",
+          "title": "WebBaseLoader and CSVLoader in DocumentLoaders",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75SNAFacGDk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75SNAFacGDk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75SNAFacGDk/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-239",
+          "title": "Length based Text Splitter in Text Splitter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/z7PBJG2auu8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/z7PBJG2auu8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/z7PBJG2auu8/video.m3u8",
+          "duration": 1895,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-240",
+          "title": "Text Structure Based Text Splitter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53AuDE4sFBZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53AuDE4sFBZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53AuDE4sFBZ/video.m3u8",
+          "duration": 2062,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-241",
+          "title": "Document Structure and Semantic Meaning based Text Splitting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a6ADsSXktB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a6ADsSXktB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a6ADsSXktB/video.m3u8",
+          "duration": 1854,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-242",
+          "title": "Introduction To Embedding Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kbHGGPb47r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kbHGGPb47r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kbHGGPb47r/video.m3u8",
+          "duration": 1687,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-243",
+          "title": "OpenAI and HuggingFace Embedding Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AXZMYrMxZB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AXZMYrMxZB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AXZMYrMxZB/video.m3u8",
+          "duration": 2041,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-244",
+          "title": "Document SImilarity Seach Application with OpenAI Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FxNUANX4yne/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FxNUANX4yne/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FxNUANX4yne/video.m3u8",
+          "duration": 1482,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-245",
+          "title": "Ollama Embeddings Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gu2jUKr6DY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gu2jUKr6DY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gu2jUKr6DY/video.m3u8",
+          "duration": 1963,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-246",
+          "title": "Getting Started with Vector Stores",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eHMzqqDUKA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eHMzqqDUKA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eHMzqqDUKA/video.m3u8",
+          "duration": 2286,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-247",
+          "title": "Vector Stores vs Vector Database and ChromaDB Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b77MaTHxhn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b77MaTHxhn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b77MaTHxhn/video.m3u8",
+          "duration": 1482,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-248",
+          "title": "Working with ChromaDB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qHEx6jusaz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qHEx6jusaz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qHEx6jusaz/video.m3u8",
+          "duration": 2127,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-249",
+          "title": "FAISS Vector Store",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFSB4xT3HAe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFSB4xT3HAe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFSB4xT3HAe/video.m3u8",
+          "duration": 1021,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-49",
+          "title": "A21: LangChain Document Loaders & Text Splitters",
+          "url": "https://docs.google.com/document/d/1Idj7UJ_4snECFzRiSTfEhbemKBPM3LHciFwENtHCB_w/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Idj7UJ_4snECFzRiSTfEhbemKBPM3LHciFwENtHCB_w/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Idj7UJ_4snECFzRiSTfEhbemKBPM3LHciFwENtHCB_w/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Idj7UJ_4snECFzRiSTfEhbemKBPM3LHciFwENtHCB_w/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-50",
+          "title": " A22:  Embedding Models, Vector Stores & Similarity Search",
+          "url": "https://docs.google.com/document/d/1Kid1ObTM8GAcULYgEmevn_tRo-9MB4y7YFEc4YVxOSQ/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Kid1ObTM8GAcULYgEmevn_tRo-9MB4y7YFEc4YVxOSQ/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Kid1ObTM8GAcULYgEmevn_tRo-9MB4y7YFEc4YVxOSQ/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Kid1ObTM8GAcULYgEmevn_tRo-9MB4y7YFEc4YVxOSQ/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Getting Started with OpenAI and OLLAMA and Creating RAG",
+      "lectures": [
+        {
+          "id": "td-genai-250",
+          "title": "Getting Started with Retrievers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zkddFKcqxZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zkddFKcqxZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zkddFKcqxZ/video.m3u8",
+          "duration": 1588,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-251",
+          "title": "Wikipedia Retriever & Vector Store Retriever",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NYfSUhhj3x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NYfSUhhj3x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NYfSUhhj3x/video.m3u8",
+          "duration": 2057,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-252",
+          "title": "Maximal Marginal Relevance Retriever",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAQ2b3kXAk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAQ2b3kXAk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAQ2b3kXAk/video.m3u8",
+          "duration": 1431,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-253",
+          "title": "Multi Query & Contextual Compression Retriever",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pyQ3d2j8Ph/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pyQ3d2j8Ph/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pyQ3d2j8Ph/video.m3u8",
+          "duration": 2753,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-254",
+          "title": "What is RAG (Shifting From Fine Tuning To RAG)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FpP9NCj2ez/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FpP9NCj2ez/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FpP9NCj2ez/video.m3u8",
+          "duration": 2014,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-255",
+          "title": "YouTube Content Chatbot(RAG Application)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFftZBsAnMc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFftZBsAnMc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFftZBsAnMc/video.m3u8",
+          "duration": 2984,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-256",
+          "title": "Simple ChatBot App with Ollama Model and Tracking using Langsmith",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMC3pSYFuE7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMC3pSYFuE7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMC3pSYFuE7/video.m3u8",
+          "duration": 1876,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-52",
+          "title": "A23: OpenAI & Retrieval-Augmented Generation (RAG)",
+          "url": "https://docs.google.com/document/d/1HsTDLvj_vjIKc6G_OjOYj6hK_wzuBcBlQipsqxZtoiw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1HsTDLvj_vjIKc6G_OjOYj6hK_wzuBcBlQipsqxZtoiw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1HsTDLvj_vjIKc6G_OjOYj6hK_wzuBcBlQipsqxZtoiw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1HsTDLvj_vjIKc6G_OjOYj6hK_wzuBcBlQipsqxZtoiw/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-53",
+          "title": "A24: Ollama Chatbot",
+          "url": "https://docs.google.com/document/d/1PkHuyp1XAL5ds6woDNIW0P9t45LF41jgbao7clDsKmM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1PkHuyp1XAL5ds6woDNIW0P9t45LF41jgbao7clDsKmM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1PkHuyp1XAL5ds6woDNIW0P9t45LF41jgbao7clDsKmM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1PkHuyp1XAL5ds6woDNIW0P9t45LF41jgbao7clDsKmM/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Building Basic LLM Application using LCEL",
+      "lectures": [
+        {
+          "id": "td-genai-257",
+          "title": "What is Prompting and Prompt Templates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jMjgJcdn7t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jMjgJcdn7t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jMjgJcdn7t/video.m3u8",
+          "duration": 3551,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-258",
+          "title": "Messages and ChatPromptTemplate",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32YGF8K7BbP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32YGF8K7BbP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32YGF8K7BbP/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-259",
+          "title": "Structured Output From LLM and Pydantic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcMksQhcNt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcMksQhcNt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcMksQhcNt/video.m3u8",
+          "duration": 2720,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-260",
+          "title": "Creating Schema Response using Pydantic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UGQDHJ6YUM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UGQDHJ6YUM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UGQDHJ6YUM/video.m3u8",
+          "duration": 1221,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-261",
+          "title": "Output Parsers in Langchain and StrOutputParser",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xfxphf9h4c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xfxphf9h4c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xfxphf9h4c/video.m3u8",
+          "duration": 2804,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-262",
+          "title": "Json and Pydantic Output Parser",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54nu6jR9FSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54nu6jR9FSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54nu6jR9FSd/video.m3u8",
+          "duration": 2772,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-263",
+          "title": "Chains in Langchain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G7bnGuDtf6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G7bnGuDtf6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G7bnGuDtf6/video.m3u8",
+          "duration": 1850,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-264",
+          "title": "Parallel and Conditional Chains",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56K9tpph8PQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56K9tpph8PQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56K9tpph8PQ/video.m3u8",
+          "duration": 4059,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-265",
+          "title": "What are Runnables and LCEL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGredUq8At/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGredUq8At/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGredUq8At/video.m3u8",
+          "duration": 3776,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-266",
+          "title": "Working With Groq API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E8fm9sk3US/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E8fm9sk3US/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E8fm9sk3US/video.m3u8",
+          "duration": 2061,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-267",
+          "title": "Creating APIs for App using FastAPI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jz3qpYxnzs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jz3qpYxnzs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jz3qpYxnzs/video.m3u8",
+          "duration": 2265,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-268",
+          "title": "Serving Groq App using FastAPI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HjrCbRAfaqp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HjrCbRAfaqp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HjrCbRAfaqp/video.m3u8",
+          "duration": 1745,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-55",
+          "title": "A25:  Prompting & LangChain Chains",
+          "url": "https://docs.google.com/document/d/1tzPOP0B-H4tNCV8DaUQSXaaQMQ-n168wzPBwd2CjSsk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1tzPOP0B-H4tNCV8DaUQSXaaQMQ-n168wzPBwd2CjSsk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1tzPOP0B-H4tNCV8DaUQSXaaQMQ-n168wzPBwd2CjSsk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1tzPOP0B-H4tNCV8DaUQSXaaQMQ-n168wzPBwd2CjSsk/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-56",
+          "title": "A26: Groq API Chatbot, RAG & FastAPI Serving",
+          "url": "https://docs.google.com/document/d/1DMHFqQ0opMiniF9wBByrxAoiOHsXNsfWhIYHvPERRNs/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1DMHFqQ0opMiniF9wBByrxAoiOHsXNsfWhIYHvPERRNs/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1DMHFqQ0opMiniF9wBByrxAoiOHsXNsfWhIYHvPERRNs/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1DMHFqQ0opMiniF9wBByrxAoiOHsXNsfWhIYHvPERRNs/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Building Chatbots with Conversation History using Langchain",
+      "lectures": [
+        {
+          "id": "td-genai-269",
+          "title": "Building ChatBots with Message History",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37sP4B7EMFh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37sP4B7EMFh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37sP4B7EMFh/video.m3u8",
+          "duration": 3224,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-270",
+          "title": "Messages Placeholder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GSdjPUQr87/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GSdjPUQr87/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GSdjPUQr87/video.m3u8",
+          "duration": 1725,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-271",
+          "title": "Trimming Chat History",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TtpcxDsDuG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TtpcxDsDuG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TtpcxDsDuG/video.m3u8",
+          "duration": 1992,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-272",
+          "title": "Q & A RAG Chatbot with Message History",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fxz2BYtPKD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fxz2BYtPKD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fxz2BYtPKD/video.m3u8",
+          "duration": 3063,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-58",
+          "title": "A27: Chatbots with Conversation History using LangChain",
+          "url": "https://docs.google.com/document/d/1jGWIpmVvopan3HM4Zhgv_IiAX77NMUAe2d1prS-zt-M/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1jGWIpmVvopan3HM4Zhgv_IiAX77NMUAe2d1prS-zt-M/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1jGWIpmVvopan3HM4Zhgv_IiAX77NMUAe2d1prS-zt-M/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1jGWIpmVvopan3HM4Zhgv_IiAX77NMUAe2d1prS-zt-M/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-genai-59",
+          "title": "A28: Q&A RAG Chatbot with Message History",
+          "url": "https://docs.google.com/document/d/1blw_wb7OhTyfXeYg-8KJ0ET79XQxYUwn5ZUxZztEGr4/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1blw_wb7OhTyfXeYg-8KJ0ET79XQxYUwn5ZUxZztEGr4/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1blw_wb7OhTyfXeYg-8KJ0ET79XQxYUwn5ZUxZztEGr4/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1blw_wb7OhTyfXeYg-8KJ0ET79XQxYUwn5ZUxZztEGr4/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "End to End Q and A ChatBot Gen AI App",
+      "lectures": [
+        {
+          "id": "td-genai-273",
+          "title": "Setup of Project with Environment and Keys",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79kfamzGGAn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79kfamzGGAn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79kfamzGGAn/video.m3u8",
+          "duration": 1713,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-274",
+          "title": "Creating The OpenAI Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmRJPmz97e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmRJPmz97e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmRJPmz97e/video.m3u8",
+          "duration": 2157,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-275",
+          "title": "Creating Ollama Open Source Model",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9N4tZ4Mmbfx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9N4tZ4Mmbfx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9N4tZ4Mmbfx/video.m3u8",
+          "duration": 1465,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-61",
+          "title": "A29: Q&A Chatbot Application (OpenAI & Ollama)",
+          "url": "https://docs.google.com/document/d/1ykJsExqOSZFdr3A9lCk3ytE14QGoGwWBHwZR6s9BhOk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ykJsExqOSZFdr3A9lCk3ytE14QGoGwWBHwZR6s9BhOk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ykJsExqOSZFdr3A9lCk3ytE14QGoGwWBHwZR6s9BhOk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ykJsExqOSZFdr3A9lCk3ytE14QGoGwWBHwZR6s9BhOk/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "RAG Document Q&A with GROQ API and LLAMA3",
+      "lectures": [
+        {
+          "id": "td-genai-276",
+          "title": "Getting Started with ChatGroq RAG Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZFK6zBXgsF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZFK6zBXgsF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZFK6zBXgsF/video.m3u8",
+          "duration": 1462,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-277",
+          "title": "Creating the End to End Groq Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AScSzP6SYTt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AScSzP6SYTt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AScSzP6SYTt/video.m3u8",
+          "duration": 2370,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-63",
+          "title": "A30:  Chat Groq RAG Application with Streamlit UI",
+          "url": "https://docs.google.com/document/d/1PFlC2DafQhXoc6L2JUr0kttFiYqC1Fo8kjFGC0XXxmE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1PFlC2DafQhXoc6L2JUr0kttFiYqC1Fo8kjFGC0XXxmE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1PFlC2DafQhXoc6L2JUr0kttFiYqC1Fo8kjFGC0XXxmE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1PFlC2DafQhXoc6L2JUr0kttFiYqC1Fo8kjFGC0XXxmE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Conversational Q & A Chat with PDF ChatBot with Message History",
+      "lectures": [
+        {
+          "id": "td-genai-278",
+          "title": "Getting Started with Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HdDBUAn3dxy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HdDBUAn3dxy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HdDBUAn3dxy/video.m3u8",
+          "duration": 1558,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-279",
+          "title": "Creating The Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MQkZBtNn8U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MQkZBtNn8U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MQkZBtNn8U/video.m3u8",
+          "duration": 3244,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-65",
+          "title": "A31: Conversational PDF Q&A Chatbot with Message History",
+          "url": "https://docs.google.com/document/d/1pKHqwqV7HPUFVwvnhJqWc8upFsRdYrMl7IsXSB11NNE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1pKHqwqV7HPUFVwvnhJqWc8upFsRdYrMl7IsXSB11NNE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1pKHqwqV7HPUFVwvnhJqWc8upFsRdYrMl7IsXSB11NNE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1pKHqwqV7HPUFVwvnhJqWc8upFsRdYrMl7IsXSB11NNE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "AI Agents and Search Engine with Langchain Tools",
+      "lectures": [
+        {
+          "id": "td-genai-280",
+          "title": "Tools in AI Agents and Built In Tools",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaB56bam8Hk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaB56bam8Hk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaB56bam8Hk/video.m3u8",
+          "duration": 2663,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-281",
+          "title": "Creating Custom Tools and Toolkit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QrbKGGEeRT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QrbKGGEeRT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QrbKGGEeRT/video.m3u8",
+          "duration": 2646,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-282",
+          "title": "Tool Binding For Tool Calling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JM54pynxN2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JM54pynxN2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JM54pynxN2/video.m3u8",
+          "duration": 1595,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-283",
+          "title": "Tool Calling and Tool Execution",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z59jszK7Ux/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z59jszK7Ux/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z59jszK7Ux/video.m3u8",
+          "duration": 2439,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-284",
+          "title": "What is an AI Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bzrBJK9ZGb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bzrBJK9ZGb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bzrBJK9ZGb/video.m3u8",
+          "duration": 2392,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-285",
+          "title": "Creating an AI Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjKtTYhbj5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjKtTYhbj5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjKtTYhbj5/video.m3u8",
+          "duration": 2147,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-286",
+          "title": "Working of an React AI Agent",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaPeC88NEB3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaPeC88NEB3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaPeC88NEB3/video.m3u8",
+          "duration": 2111,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-67",
+          "title": "A32:  AI Agents using LangChain",
+          "url": "https://docs.google.com/document/d/11bwH1cboFhwdRRWeUeiDHsF6xhEPVNJJRhsn454QTxY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/11bwH1cboFhwdRRWeUeiDHsF6xhEPVNJJRhsn454QTxY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/11bwH1cboFhwdRRWeUeiDHsF6xhEPVNJJRhsn454QTxY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/11bwH1cboFhwdRRWeUeiDHsF6xhEPVNJJRhsn454QTxY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Chat with SQL DB with Langchain SQL Toolkit and Agenttype",
+      "lectures": [
+        {
+          "id": "td-genai-287",
+          "title": "Storing Data in Sqlite Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rkbUxFNHH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rkbUxFNHH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rkbUxFNHH/video.m3u8",
+          "duration": 1938,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-288",
+          "title": "Connecting To SQL Database and Overview of Agentic App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kz6nkX9mJX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kz6nkX9mJX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kz6nkX9mJX/video.m3u8",
+          "duration": 1686,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-289",
+          "title": "Creating Langchain Database Engine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2e3G4Tu72p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2e3G4Tu72p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2e3G4Tu72p/video.m3u8",
+          "duration": 3208,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-290",
+          "title": "Connecting SQL Agent with Database",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b28ZPypK42/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b28ZPypK42/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b28ZPypK42/video.m3u8",
+          "duration": 2348,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-69",
+          "title": "A33: Chat with SQL Database using LangChain",
+          "url": "https://docs.google.com/document/d/1kYMcVVeTxjTmgKs54Le1EeYepApigDf_-9DJMJtibdk/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1kYMcVVeTxjTmgKs54Le1EeYepApigDf_-9DJMJtibdk/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1kYMcVVeTxjTmgKs54Le1EeYepApigDf_-9DJMJtibdk/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1kYMcVVeTxjTmgKs54Le1EeYepApigDf_-9DJMJtibdk/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Text Summarization with Langchain",
+      "lectures": [
+        {
+          "id": "td-genai-291",
+          "title": "Text Summarization Using Langchain Prompt Template",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZMDMt723R/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZMDMt723R/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZMDMt723R/video.m3u8",
+          "duration": 2032,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-292",
+          "title": "Stuff Summarization Chain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97Cm584jH5k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97Cm584jH5k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97Cm584jH5k/video.m3u8",
+          "duration": 1431,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-293",
+          "title": "Map Reduce and Refine Summarization Chain",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6MUHqQRbF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6MUHqQRbF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6MUHqQRbF/video.m3u8",
+          "duration": 2490,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-71",
+          "title": "A34: Text Summarization using LangChain",
+          "url": "https://docs.google.com/document/d/1YtB4ci5cWTaAjr3Gty0U5s4kBxBypjS3IgKnxnMlQfA/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1YtB4ci5cWTaAjr3Gty0U5s4kBxBypjS3IgKnxnMlQfA/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1YtB4ci5cWTaAjr3Gty0U5s4kBxBypjS3IgKnxnMlQfA/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1YtB4ci5cWTaAjr3Gty0U5s4kBxBypjS3IgKnxnMlQfA/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Text To Math Problem Solver",
+      "lectures": [
+        {
+          "id": "td-genai-294",
+          "title": "Getting Started with Text to Math App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tnyP3QT659/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tnyP3QT659/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tnyP3QT659/video.m3u8",
+          "duration": 2128,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-295",
+          "title": "Creating Agent and Session State For App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55GJNDfQk4B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55GJNDfQk4B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55GJNDfQk4B/video.m3u8",
+          "duration": 2988,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-73",
+          "title": "A35: Text-to-Math Agent",
+          "url": "https://docs.google.com/document/d/1YVGN2VvKmrIupJnkaDjfdP90Vwu1_uFDJrDODC4osVU/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1YVGN2VvKmrIupJnkaDjfdP90Vwu1_uFDJrDODC4osVU/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1YVGN2VvKmrIupJnkaDjfdP90Vwu1_uFDJrDODC4osVU/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1YVGN2VvKmrIupJnkaDjfdP90Vwu1_uFDJrDODC4osVU/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Huggingface and Langchain Integration",
+      "lectures": [
+        {
+          "id": "td-genai-296",
+          "title": "Getting Started with HuggingFace Models and Working with it",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PqCkb59tPZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PqCkb59tPZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PqCkb59tPZ/video.m3u8",
+          "duration": 2745,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-297",
+          "title": "Working with Chat prompt template with Huggingface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TBcmSXRnxf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TBcmSXRnxf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TBcmSXRnxf/video.m3u8",
+          "duration": 1132,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-75",
+          "title": "A36: HuggingFace Integration",
+          "url": "https://docs.google.com/document/d/1ggTKvhIHsZEMTalbTtIKdtKATImucB2fbjwZvcj1kLM/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ggTKvhIHsZEMTalbTtIKdtKATImucB2fbjwZvcj1kLM/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ggTKvhIHsZEMTalbTtIKdtKATImucB2fbjwZvcj1kLM/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ggTKvhIHsZEMTalbTtIKdtKATImucB2fbjwZvcj1kLM/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "PDF Query RAG with Langchain and AstraDB",
+      "lectures": [
+        {
+          "id": "td-genai-298",
+          "title": "Getting Started with Astra DB using DataStax",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApSsG4C6kU4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApSsG4C6kU4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApSsG4C6kU4/video.m3u8",
+          "duration": 1947,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-299",
+          "title": "Creating RAG App with Astra DB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/329yzKBPuYn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/329yzKBPuYn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/329yzKBPuYn/video.m3u8",
+          "duration": 1928,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-77",
+          "title": "A37: AstraDB RAG",
+          "url": "https://docs.google.com/document/d/1u3nje3bH2KNg2l6SKvwYNPBfdiF5spTWVkqJRnZ6Cxo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1u3nje3bH2KNg2l6SKvwYNPBfdiF5spTWVkqJRnZ6Cxo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1u3nje3bH2KNg2l6SKvwYNPBfdiF5spTWVkqJRnZ6Cxo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1u3nje3bH2KNg2l6SKvwYNPBfdiF5spTWVkqJRnZ6Cxo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with CodeLlama with Ollama",
+      "lectures": [
+        {
+          "id": "td-genai-300",
+          "title": "Getting Started with Working with Codellama",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jCr4JU58cU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jCr4JU58cU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jCr4JU58cU/video.m3u8",
+          "duration": 2003,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-301",
+          "title": "Creating the CodeLlama Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dspNfyeaKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dspNfyeaKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dspNfyeaKU/video.m3u8",
+          "duration": 1425,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-79",
+          "title": "A38: CodeLlama with Ollama",
+          "url": "https://docs.google.com/document/d/15jlUiKp7J6JPYghzOyXEg5eqWXPd4u3hVCpmxebvGgw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/15jlUiKp7J6JPYghzOyXEg5eqWXPd4u3hVCpmxebvGgw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/15jlUiKp7J6JPYghzOyXEg5eqWXPd4u3hVCpmxebvGgw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/15jlUiKp7J6JPYghzOyXEg5eqWXPd4u3hVCpmxebvGgw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Deployment of Gen AI Apps",
+      "lectures": [
+        {
+          "id": "td-genai-302",
+          "title": "Deployment in Streamlit Cloud",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Buar8hJnxD8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Buar8hJnxD8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Buar8hJnxD8/video.m3u8",
+          "duration": 823,
+          "type": "video"
+        },
+        {
+          "id": "td-genai-303",
+          "title": "Deployment in Huggingface Space",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gu2FBEChtq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gu2FBEChtq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gu2FBEChtq/video.m3u8",
+          "duration": 4723,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-genai-81",
+          "title": "A39-App Deployment",
+          "url": "https://docs.google.com/document/d/1RbG9g7xY8pyZ5cPzHWJOMXfnHYeVNXJM9O0ZIY6eDNw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1RbG9g7xY8pyZ5cPzHWJOMXfnHYeVNXJM9O0ZIY6eDNw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1RbG9g7xY8pyZ5cPzHWJOMXfnHYeVNXJM9O0ZIY6eDNw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1RbG9g7xY8pyZ5cPzHWJOMXfnHYeVNXJM9O0ZIY6eDNw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

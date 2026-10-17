@@ -1,0 +1,1115 @@
+{
+  "platform": "TuteDude",
+  "batchId": "nlp",
+  "batchSlug": "nlp",
+  "batchName": "Natural language processing (NLP)",
+  "thumbnail": "https://www.tutedude.com/assets/avif/nlp.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/nlp",
+  "totalSections": 26,
+  "totalLectures": 97,
+  "totalNotes": 7,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-nlp-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction to Python-Data Types & Data Structures",
+      "lectures": [
+        {
+          "id": "td-nlp-2",
+          "title": "Machine Learning Intuition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7CkFNn9xf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7CkFNn9xf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7CkFNn9xf/video.m3u8",
+          "duration": 1472,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-3",
+          "title": "Python Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9j8UUKRGtc7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9j8UUKRGtc7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9j8UUKRGtc7/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-4",
+          "title": "Data Types Practical",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52dDTMaY2A2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52dDTMaY2A2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52dDTMaY2A2/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-5",
+          "title": "List in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eSFb6qYnB6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eSFb6qYnB6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eSFb6qYnB6/video.m3u8",
+          "duration": 1205,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-6",
+          "title": "Tuples in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cUGCmpF87d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cUGCmpF87d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cUGCmpF87d/video.m3u8",
+          "duration": 967,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-7",
+          "title": "Dictionary in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2ySRz4Z9qN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2ySRz4Z9qN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2ySRz4Z9qN/video.m3u8",
+          "duration": 930,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-8",
+          "title": "Sets in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hUsNuZE7tnk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hUsNuZE7tnk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hUsNuZE7tnk/video.m3u8",
+          "duration": 943,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fundamentals of Python Programming",
+      "lectures": [
+        {
+          "id": "td-nlp-9",
+          "title": "Loops in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AFfgyMqdgb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AFfgyMqdgb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AFfgyMqdgb/video.m3u8",
+          "duration": 1522,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-10",
+          "title": "Comprehension in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5dHGffep2D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5dHGffep2D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5dHGffep2D/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-11",
+          "title": "Functions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZDGC2pgKa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZDGC2pgKa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZDGC2pgKa/video.m3u8",
+          "duration": 1537,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-12",
+          "title": "Lambda Functions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A67GMjPs4fQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A67GMjPs4fQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A67GMjPs4fQ/video.m3u8",
+          "duration": 669,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-13",
+          "title": "Exception Handling in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5erJ5j4EFQM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5erJ5j4EFQM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5erJ5j4EFQM/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Python Libraries-Numpy,Pandas,Matplotlib",
+      "lectures": [
+        {
+          "id": "td-nlp-14",
+          "title": "Numpy Array Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CSp2P8bPFT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CSp2P8bPFT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CSp2P8bPFT/video.m3u8",
+          "duration": 1363,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-15",
+          "title": "Numpy Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PxQMxRB8qC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PxQMxRB8qC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PxQMxRB8qC/video.m3u8",
+          "duration": 1033,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-16",
+          "title": "Numpy Bonus Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nHeJUhqGZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nHeJUhqGZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nHeJUhqGZR/video.m3u8",
+          "duration": 731,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-17",
+          "title": "Pandas in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ny7X5YDm2n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ny7X5YDm2n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ny7X5YDm2n/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-18",
+          "title": "Working with CSV Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Anj3yJ9mu4X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Anj3yJ9mu4X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Anj3yJ9mu4X/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-19",
+          "title": "Pandas Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHsUGdhA9x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHsUGdhA9x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHsUGdhA9x/video.m3u8",
+          "duration": 1457,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-20",
+          "title": "Pandas Bonus Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bZ8JNZznUm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bZ8JNZznUm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bZ8JNZznUm/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-21",
+          "title": "Matplotlib in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZYCB6ntXhM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZYCB6ntXhM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZYCB6ntXhM/video.m3u8",
+          "duration": 1217,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Regular Expressions in Python",
+      "lectures": [
+        {
+          "id": "td-nlp-22",
+          "title": "Regular Expressions in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qNkesjfxhr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qNkesjfxhr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qNkesjfxhr/video.m3u8",
+          "duration": 1273,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-6",
+          "title": "Assignment 1",
+          "url": "https://drive.google.com/file/d/1lJmj6WrFaWXJsDsn-6XomY63G00D2o7L/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1lJmj6WrFaWXJsDsn-6XomY63G00D2o7L/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1lJmj6WrFaWXJsDsn-6XomY63G00D2o7L/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1lJmj6WrFaWXJsDsn-6XomY63G00D2o7L/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to NLP-Challenges & Applications",
+      "lectures": [
+        {
+          "id": "td-nlp-23",
+          "title": "NLP-Introduction, Challenges & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xx8cJCGjNh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xx8cJCGjNh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xx8cJCGjNh/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-24",
+          "title": "Text Classification & Translation Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JScrAm8PyN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JScrAm8PyN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JScrAm8PyN/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-25",
+          "title": "Text Clustering & Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDgnpdjNyF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDgnpdjNyF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDgnpdjNyF/video.m3u8",
+          "duration": 614,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Text Cleaning & Preprocessing using NLTK",
+      "lectures": [
+        {
+          "id": "td-nlp-26",
+          "title": "Introduction to NLTK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kdHk6QUp7c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kdHk6QUp7c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kdHk6QUp7c/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-27",
+          "title": "Tokenization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9PamaHyS5c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9PamaHyS5c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9PamaHyS5c/video.m3u8",
+          "duration": 966,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-28",
+          "title": "Stop Word Removal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37X42FMHpe7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37X42FMHpe7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37X42FMHpe7/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-29",
+          "title": "Stemming and Lemmatization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RyMsuSQNZrz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RyMsuSQNZrz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RyMsuSQNZrz/video.m3u8",
+          "duration": 903,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-30",
+          "title": "Named Entity Recognition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NbmMbG4eT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NbmMbG4eT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NbmMbG4eT/video.m3u8",
+          "duration": 845,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-31",
+          "title": "Introduction to POS Tagging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU6x8BuhxEr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU6x8BuhxEr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU6x8BuhxEr/video.m3u8",
+          "duration": 676,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-32",
+          "title": "POS Tagging Architecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e72Q8z8qPm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e72Q8z8qPm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e72Q8z8qPm/video.m3u8",
+          "duration": 1227,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-33",
+          "title": "POS Tagging Approach & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bNzEHBGQAaJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bNzEHBGQAaJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bNzEHBGQAaJ/video.m3u8",
+          "duration": 1692,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-34",
+          "title": "Rare Word Removal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYtPgcbKzFZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYtPgcbKzFZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYtPgcbKzFZ/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-35",
+          "title": "Correcting Words using NLTK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmudBTeAP5N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmudBTeAP5N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmudBTeAP5N/video.m3u8",
+          "duration": 1277,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Text Cleaning and Preprocessing using SpaCy",
+      "lectures": [
+        {
+          "id": "td-nlp-36",
+          "title": "Tokenization using SpaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FYhYr4ffFHy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FYhYr4ffFHy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FYhYr4ffFHy/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-37",
+          "title": "POS Tagging using Spacy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke5xeghCHz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke5xeghCHz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke5xeghCHz/video.m3u8",
+          "duration": 1264,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-38",
+          "title": "Dependency Parsing using SpaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gxkpdZtr4t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gxkpdZtr4t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gxkpdZtr4t/video.m3u8",
+          "duration": 918,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-39",
+          "title": "Lemmatization using SpaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRnyteg65fm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRnyteg65fm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRnyteg65fm/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-40",
+          "title": "NER using SpaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392fAx3mGD9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392fAx3mGD9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392fAx3mGD9/video.m3u8",
+          "duration": 573,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-41",
+          "title": "Vector Similarity in spaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CuRdYqAHhb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CuRdYqAHhb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CuRdYqAHhb/video.m3u8",
+          "duration": 1323,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-42",
+          "title": "NLTK vs spaCy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yF68pzg56z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yF68pzg56z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yF68pzg56z/video.m3u8",
+          "duration": 995,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-10",
+          "title": "Assignment 2",
+          "url": "https://drive.google.com/file/d/1BLsdIO8XXUCyza3oN28InzOKgjuHuksA/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1BLsdIO8XXUCyza3oN28InzOKgjuHuksA/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1BLsdIO8XXUCyza3oN28InzOKgjuHuksA/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1BLsdIO8XXUCyza3oN28InzOKgjuHuksA/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Machine Learning Crash Course",
+      "lectures": [
+        {
+          "id": "td-nlp-43",
+          "title": "Linear Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69TEJJPTfCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69TEJJPTfCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69TEJJPTfCA/video.m3u8",
+          "duration": 1285,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-44",
+          "title": "Logistic Regression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKEH79EAP85/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKEH79EAP85/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKEH79EAP85/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-45",
+          "title": "Support Vector Machine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mFjYBrKYMa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mFjYBrKYMa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mFjYBrKYMa/video.m3u8",
+          "duration": 1445,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-46",
+          "title": "K Nearest Neighbors Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ycsSk9fZGx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ycsSk9fZGx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ycsSk9fZGx/video.m3u8",
+          "duration": 1632,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-47",
+          "title": "Decision Trees",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ejDruM2u6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ejDruM2u6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ejDruM2u6/video.m3u8",
+          "duration": 736,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-48",
+          "title": "Random Forest",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2f69dNd7aM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2f69dNd7aM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2f69dNd7aM/video.m3u8",
+          "duration": 1364,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Text Representation Techniques in NLP",
+      "lectures": [
+        {
+          "id": "td-nlp-49",
+          "title": "Bag of Words Technique",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2dFF8sZTAD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2dFF8sZTAD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2dFF8sZTAD/video.m3u8",
+          "duration": 1624,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-50",
+          "title": "TF-IDF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EFbht77jX8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EFbht77jX8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EFbht77jX8/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-51",
+          "title": "Word Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AJ9Ug5spN2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AJ9Ug5spN2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AJ9Ug5spN2/video.m3u8",
+          "duration": 1269,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-52",
+          "title": "Sentence Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FhjzrN6ctY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FhjzrN6ctY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FhjzrN6ctY/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with Text Files",
+      "lectures": [
+        {
+          "id": "td-nlp-53",
+          "title": "Working with Text Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3mBA7up3y4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3mBA7up3y4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3mBA7up3y4/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-14",
+          "title": "Assignment 3",
+          "url": "https://drive.google.com/file/d/1vLikelOam8GqeQRQ6IkBO2xSMSzsY3ry/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1vLikelOam8GqeQRQ6IkBO2xSMSzsY3ry/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1vLikelOam8GqeQRQ6IkBO2xSMSzsY3ry/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1vLikelOam8GqeQRQ6IkBO2xSMSzsY3ry/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Sentiment Analysis in NLP",
+      "lectures": [
+        {
+          "id": "td-nlp-54",
+          "title": "What is Sentiment Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M5s4E4GxPN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M5s4E4GxPN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M5s4E4GxPN/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-55",
+          "title": "Challenges, Applications & Takeaways",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fQhnJgNXUQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fQhnJgNXUQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fQhnJgNXUQ/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-56",
+          "title": "How sentiment is detected",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79JPEPrfZgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79JPEPrfZgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79JPEPrfZgM/video.m3u8",
+          "duration": 910,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-57",
+          "title": "Sentiment Analysis Implementation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bBmKyYh9QA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bBmKyYh9QA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bBmKyYh9QA/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-58",
+          "title": "Text Preprocessing for Sentiment Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sBuRNSYqyZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sBuRNSYqyZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sBuRNSYqyZ/video.m3u8",
+          "duration": 1569,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-59",
+          "title": "Text Cleaning Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ukscQKYfSX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ukscQKYfSX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ukscQKYfSX/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-60",
+          "title": "Sentiment Analysis with machine Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8U3JptF2hGD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8U3JptF2hGD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8U3JptF2hGD/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-61",
+          "title": "ML for Sentiment Analysis Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCycg629ey/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCycg629ey/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCycg629ey/video.m3u8",
+          "duration": 663,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-62",
+          "title": "Training & Hyperparameter Tuning for Sentiment Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YeSJXHARnD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YeSJXHARnD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YeSJXHARnD/video.m3u8",
+          "duration": 1924,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ML Model Deployment using Streamlit",
+      "lectures": [
+        {
+          "id": "td-nlp-63",
+          "title": "What is Model Deployment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYsXfZAQJG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYsXfZAQJG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYsXfZAQJG/video.m3u8",
+          "duration": 969,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-64",
+          "title": "Introduction to streamlit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crUBG2mhP5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crUBG2mhP5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crUBG2mhP5/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-65",
+          "title": "Model Deployment using Streamlit",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ttHpEMjDT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ttHpEMjDT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ttHpEMjDT/video.m3u8",
+          "duration": 1446,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Multi Label Text Classification",
+      "lectures": [
+        {
+          "id": "td-nlp-66",
+          "title": "Multi Label Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8hURPcjMAK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8hURPcjMAK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8hURPcjMAK/video.m3u8",
+          "duration": 1188,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-67",
+          "title": "Multi Label Binarization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/694ntQ8BApJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/694ntQ8BApJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/694ntQ8BApJ/video.m3u8",
+          "duration": 610,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sentiment Analysis using WordVec Embeddings",
+      "lectures": [
+        {
+          "id": "td-nlp-68",
+          "title": "Word2Vec Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gm8uerdsCp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gm8uerdsCp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gm8uerdsCp/video.m3u8",
+          "duration": 904,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-69",
+          "title": "Data Preparation for Sentiment Analysis using Word2Vec Embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH27bbdU2za/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH27bbdU2za/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH27bbdU2za/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-70",
+          "title": "Data preprocessing for sentiment analysis using word2vec embeddings",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PGgm3jHSAj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PGgm3jHSAj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PGgm3jHSAj/video.m3u8",
+          "duration": 912,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Emotion Recognition in Text using GloVe",
+      "lectures": [
+        {
+          "id": "td-nlp-71",
+          "title": "Emotion Recognition in Text using GloVe",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rZPgHxnZ8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rZPgHxnZ8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rZPgHxnZ8/video.m3u8",
+          "duration": 1265,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-20",
+          "title": "Assignment 4",
+          "url": "https://drive.google.com/file/d/1ZmzoSPJ8oigdMjVDLJK3kK-MOXhF5_rY/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1ZmzoSPJ8oigdMjVDLJK3kK-MOXhF5_rY/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1ZmzoSPJ8oigdMjVDLJK3kK-MOXhF5_rY/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1ZmzoSPJ8oigdMjVDLJK3kK-MOXhF5_rY/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "CV Parsing in NLP",
+      "lectures": [
+        {
+          "id": "td-nlp-72",
+          "title": "What is CV Parsing in NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9tpnRrJSmt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9tpnRrJSmt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9tpnRrJSmt/video.m3u8",
+          "duration": 1206,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-73",
+          "title": "Implementation of CV Parsing using Spacy3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gM7Be9NqXY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gM7Be9NqXY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gM7Be9NqXY/video.m3u8",
+          "duration": 1208,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Sentiment Analysis using Deep Learning",
+      "lectures": [
+        {
+          "id": "td-nlp-74",
+          "title": "What is Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GDnr2c4tCy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GDnr2c4tCy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GDnr2c4tCy/video.m3u8",
+          "duration": 1025,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-75",
+          "title": "Machine Learning vs. Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KbnNctDPUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KbnNctDPUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KbnNctDPUj/video.m3u8",
+          "duration": 847,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-76",
+          "title": "Sentiment Analysis using Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfMpQq5tDX4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfMpQq5tDX4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfMpQq5tDX4/video.m3u8",
+          "duration": 1024,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-77",
+          "title": "Data Preparation for Sentiment Analysis using Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eq4RQNnBcuQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eq4RQNnBcuQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eq4RQNnBcuQ/video.m3u8",
+          "duration": 672,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-78",
+          "title": "Train Test Split for Sentiment Analysis Using Deep Learning",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A23tar9J2KB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A23tar9J2KB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A23tar9J2KB/video.m3u8",
+          "duration": 493,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-79",
+          "title": "Artificial Neural Networks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UdMxGnsKG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UdMxGnsKG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UdMxGnsKG/video.m3u8",
+          "duration": 1746,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-80",
+          "title": "Convolutional Neural Networks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BCh2GrNmZX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BCh2GrNmZX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BCh2GrNmZX/video.m3u8",
+          "duration": 783,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hate Speech Classification",
+      "lectures": [
+        {
+          "id": "td-nlp-81",
+          "title": "Introduction to Hate Speech Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY7kcp3JFjH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY7kcp3JFjH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY7kcp3JFjH/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-82",
+          "title": "Workflow of Hate Speech Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65QKNFH4eZQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65QKNFH4eZQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65QKNFH4eZQ/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-83",
+          "title": "Implementation of Hate Speech Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CMmZ9uh3h9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CMmZ9uh3h9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CMmZ9uh3h9/video.m3u8",
+          "duration": 1324,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-84",
+          "title": "Testing in Hate Speech Classification",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Za8xtYGda/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Za8xtYGda/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Za8xtYGda/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-24",
+          "title": "Assignment 5",
+          "url": "https://drive.google.com/file/d/14fCcpxMBVTyWeP2Aelc5NaR1_ccK7SKI/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/14fCcpxMBVTyWeP2Aelc5NaR1_ccK7SKI/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/14fCcpxMBVTyWeP2Aelc5NaR1_ccK7SKI/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/14fCcpxMBVTyWeP2Aelc5NaR1_ccK7SKI/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Poetry Generation in NLP",
+      "lectures": [
+        {
+          "id": "td-nlp-85",
+          "title": "Understanding RNN and its types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAyDJxfmPX8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAyDJxfmPX8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAyDJxfmPX8/video.m3u8",
+          "duration": 1203,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-86",
+          "title": "Challenges of RNNs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x938R8aj6B7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x938R8aj6B7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x938R8aj6B7/video.m3u8",
+          "duration": 740,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-87",
+          "title": "Poetry Generation in NLP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sA4hr8s6UN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sA4hr8s6UN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sA4hr8s6UN/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Transformers",
+      "lectures": [
+        {
+          "id": "td-nlp-88",
+          "title": "Introduction to Transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHHAgbsFXE9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHHAgbsFXE9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHHAgbsFXE9/video.m3u8",
+          "duration": 1084,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-89",
+          "title": "Encoder Decoder Achitecture",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d7kerXaxRG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d7kerXaxRG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d7kerXaxRG/video.m3u8",
+          "duration": 784,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-90",
+          "title": "Applications of Transformers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkA3qkCGyh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkA3qkCGyh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkA3qkCGyh/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-91",
+          "title": "Pretrained Language Models - BERT & GPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5byfUbB7x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5byfUbB7x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5byfUbB7x/video.m3u8",
+          "duration": 1863,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prompt Engineering",
+      "lectures": [
+        {
+          "id": "td-nlp-92",
+          "title": "Prompt Engineering - Techniques & Examples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AygAnYecjbK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AygAnYecjbK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AygAnYecjbK/video.m3u8",
+          "duration": 2167,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-28",
+          "title": "Assignment 6",
+          "url": "https://drive.google.com/file/d/1LgTYfSal4GIsWCy8nlTZQpU4Xfr0vEoX/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1LgTYfSal4GIsWCy8nlTZQpU4Xfr0vEoX/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1LgTYfSal4GIsWCy8nlTZQpU4Xfr0vEoX/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1LgTYfSal4GIsWCy8nlTZQpU4Xfr0vEoX/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Multi-modal NLP",
+      "lectures": [
+        {
+          "id": "td-nlp-93",
+          "title": "Multi-modal NLP & Applications",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZnBgmzFfZr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZnBgmzFfZr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZnBgmzFfZr/video.m3u8",
+          "duration": 1384,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Intro to Gen AI",
+      "lectures": [
+        {
+          "id": "td-nlp-94",
+          "title": "Introduction to GEN AI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hZAkqRMx8zr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hZAkqRMx8zr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hZAkqRMx8zr/video.m3u8",
+          "duration": 1146,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Capstone Project",
+      "lectures": [
+        {
+          "id": "td-nlp-95",
+          "title": "Capstone Project Hands-On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dughpArre5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dughpArre5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dughpArre5/video.m3u8",
+          "duration": 2823,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-nlp-32",
+          "title": "Capstone Project",
+          "url": "https://drive.google.com/file/d/1BneOUqFi3m5UKCM3GZq8OZUyT9IeU5mP/view?usp=drive_link",
+          "pdfUrl": "https://drive.google.com/file/d/1BneOUqFi3m5UKCM3GZq8OZUyT9IeU5mP/view?usp=drive_link",
+          "playerUrl": "https://drive.google.com/file/d/1BneOUqFi3m5UKCM3GZq8OZUyT9IeU5mP/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/file/d/1BneOUqFi3m5UKCM3GZq8OZUyT9IeU5mP/view?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Conclusion",
+      "lectures": [
+        {
+          "id": "td-nlp-96",
+          "title": "NLP - Conclusion",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39H2MQnybJh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39H2MQnybJh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39H2MQnybJh/video.m3u8",
+          "duration": 1145,
+          "type": "video"
+        },
+        {
+          "id": "td-nlp-97",
+          "title": "NLP - Future & Scope",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FDNb5aZxQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FDNb5aZxQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FDNb5aZxQ/video.m3u8",
+          "duration": 546,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

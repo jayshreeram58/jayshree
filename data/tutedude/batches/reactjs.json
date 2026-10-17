@@ -1,0 +1,727 @@
+{
+  "platform": "TuteDude",
+  "batchId": "reactjs",
+  "batchSlug": "reactjs",
+  "batchName": "React Js",
+  "thumbnail": "https://www.tutedude.com/assets/avif/reactjs.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/reactjs",
+  "totalSections": 18,
+  "totalLectures": 57,
+  "totalNotes": 9,
+  "price": "699.00",
+  "category": "Technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-reactjs-1",
+          "title": "How to connect with mentors and Resolve doubts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Getting Started",
+      "lectures": [
+        {
+          "id": "td-reactjs-2",
+          "title": "Getting Started",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J8zMmeKQnx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J8zMmeKQnx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J8zMmeKQnx/video.m3u8",
+          "duration": 1704,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React Essentials",
+      "lectures": [
+        {
+          "id": "td-reactjs-3",
+          "title": "React Fundamentals - Portfolio Card Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u5XYMpffb3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u5XYMpffb3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u5XYMpffb3/video.m3u8",
+          "duration": 3846,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-4",
+          "title": "React Fundamentals - Portfolio Card CSS Styling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btKehMnRKa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btKehMnRKa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btKehMnRKa/video.m3u8",
+          "duration": 1817,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-5",
+          "title": "Dynamic Content and Props",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QnuUKJQHuB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QnuUKJQHuB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QnuUKJQHuB/video.m3u8",
+          "duration": 4872,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-6",
+          "title": "React Interactivity and Event Handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szsAZB96bR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szsAZB96bR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szsAZB96bR/video.m3u8",
+          "duration": 3359,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-7",
+          "title": "React State Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZjuA63CMFA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZjuA63CMFA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZjuA63CMFA/video.m3u8",
+          "duration": 3560,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-8",
+          "title": "Conditional Rendering and Dynamic Lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/778KnBdH27F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/778KnBdH27F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/778KnBdH27F/video.m3u8",
+          "duration": 3283,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-9",
+          "title": "Movie Database Interface",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FBy2MmumtU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FBy2MmumtU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FBy2MmumtU/video.m3u8",
+          "duration": 3593,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-4",
+          "title": "Assignments 1",
+          "url": "https://docs.google.com/document/d/1v4dFBVlstXYD0i36c5FtI0eBN-QnJKKb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1v4dFBVlstXYD0i36c5FtI0eBN-QnJKKb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1v4dFBVlstXYD0i36c5FtI0eBN-QnJKKb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1v4dFBVlstXYD0i36c5FtI0eBN-QnJKKb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Styling React Components",
+      "lectures": [
+        {
+          "id": "td-reactjs-10",
+          "title": "React Components Styling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BpB57q8tx3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BpB57q8tx3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BpB57q8tx3/video.m3u8",
+          "duration": 4678,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Working with Refs and Portals",
+      "lectures": [
+        {
+          "id": "td-reactjs-11",
+          "title": "React Refs and Portals",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zX5jJ4Qf3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zX5jJ4Qf3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zX5jJ4Qf3/video.m3u8",
+          "duration": 1429,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-12",
+          "title": "Creating Portal and Modal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YgB2CKmkBt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YgB2CKmkBt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YgB2CKmkBt/video.m3u8",
+          "duration": 2988,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React's Context API and useReducer - Advanced State Management",
+      "lectures": [
+        {
+          "id": "td-reactjs-13",
+          "title": "Setting up Context API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9shfrY8taT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9shfrY8taT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9shfrY8taT/video.m3u8",
+          "duration": 1323,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-14",
+          "title": "Introducing useReducer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jPmnAcNZXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jPmnAcNZXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jPmnAcNZXZ/video.m3u8",
+          "duration": 1855,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-15",
+          "title": "Building Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzAN92S7kZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzAN92S7kZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzAN92S7kZ/video.m3u8",
+          "duration": 3512,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-16",
+          "title": "Putting It All Togther",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJbyrBSBmf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJbyrBSBmf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJbyrBSBmf/video.m3u8",
+          "duration": 909,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-17",
+          "title": "Task Manager CSS Styling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87rZKbPjpdF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87rZKbPjpdF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87rZKbPjpdF/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-8",
+          "title": "Assignments 2",
+          "url": "https://docs.google.com/document/d/1l_eHnRyW7fVnewaMxVcalqd5coM6PcC4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1l_eHnRyW7fVnewaMxVcalqd5coM6PcC4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1l_eHnRyW7fVnewaMxVcalqd5coM6PcC4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1l_eHnRyW7fVnewaMxVcalqd5coM6PcC4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Handling Side Effects and Working with useEffect() Hook",
+      "lectures": [
+        {
+          "id": "td-reactjs-18",
+          "title": "Understanding useEffect and Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rUUmU5E956/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rUUmU5E956/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rUUmU5E956/video.m3u8",
+          "duration": 1085,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-19",
+          "title": "Implementing Our First useEffect - Data Fetching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A8Au37a67t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A8Au37a67t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A8Au37a67t/video.m3u8",
+          "duration": 1625,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-20",
+          "title": "Dependencies , cleanup and Advanced Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxMh8gMdYTE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxMh8gMdYTE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxMh8gMdYTE/video.m3u8",
+          "duration": 925,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-10",
+          "title": "Assignments 3",
+          "url": "https://docs.google.com/document/d/1xuyD4fweXXKpWfEIItPqyT2FvLHvSTDV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1xuyD4fweXXKpWfEIItPqyT2FvLHvSTDV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1xuyD4fweXXKpWfEIItPqyT2FvLHvSTDV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1xuyD4fweXXKpWfEIItPqyT2FvLHvSTDV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "A Look Behind the Scenes of React and Optimization Techniques",
+      "lectures": [
+        {
+          "id": "td-reactjs-21",
+          "title": "Virtual DOM and Reconcillation Algorithm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BanbXEY36Xh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BanbXEY36Xh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BanbXEY36Xh/video.m3u8",
+          "duration": 1337,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-22",
+          "title": "Performane Optimization Techniques",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARe2G9EZsPu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARe2G9EZsPu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARe2G9EZsPu/video.m3u8",
+          "duration": 2686,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Class-Based Components",
+      "lectures": [
+        {
+          "id": "td-reactjs-23",
+          "title": "Introduction and Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QP3qa9ZJr5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QP3qa9ZJr5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QP3qa9ZJr5/video.m3u8",
+          "duration": 1357,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-24",
+          "title": "Interactivity and Lifecycle",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcEX3xDYGae/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcEX3xDYGae/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcEX3xDYGae/video.m3u8",
+          "duration": 3190,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-25",
+          "title": "Student Grade Tracker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FaSaQ8f3th/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FaSaQ8f3th/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FaSaQ8f3th/video.m3u8",
+          "duration": 781,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-26",
+          "title": "Mastering state management - display logic and event hanlers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Q9jFynFef/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Q9jFynFef/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Q9jFynFef/video.m3u8",
+          "duration": 2181,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-27",
+          "title": "Forms , Events and User Interactions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgT9sxzdGY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgT9sxzdGY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgT9sxzdGY/video.m3u8",
+          "duration": 2070,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-13",
+          "title": "Assignments 4",
+          "url": "https://docs.google.com/document/d/12TIg8mIT570gnExZlFmvoOABibngAL1q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/12TIg8mIT570gnExZlFmvoOABibngAL1q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/12TIg8mIT570gnExZlFmvoOABibngAL1q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/12TIg8mIT570gnExZlFmvoOABibngAL1q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Sending Http Requests",
+      "lectures": [
+        {
+          "id": "td-reactjs-28",
+          "title": "Connecting to JSONPlaceholder API and CRUD Operations_",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/taSFYX6MRsc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/taSFYX6MRsc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/taSFYX6MRsc/video.m3u8",
+          "duration": 2635,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-29",
+          "title": "Complete CRUD Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YffE4hxAFE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YffE4hxAFE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YffE4hxAFE/video.m3u8",
+          "duration": 5525,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Building Custom Hooks",
+      "lectures": [
+        {
+          "id": "td-reactjs-30",
+          "title": "Understanding Custom Hooks and Project SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF6U5sS8EC4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF6U5sS8EC4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF6U5sS8EC4/video.m3u8",
+          "duration": 1471,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-31",
+          "title": "Personal Expense Tracker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BateFe4tA4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BateFe4tA4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BateFe4tA4/video.m3u8",
+          "duration": 3302,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-32",
+          "title": "Creating First Custom Hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hDXrSszSXJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hDXrSszSXJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hDXrSszSXJ/video.m3u8",
+          "duration": 1134,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-33",
+          "title": "Data Persistence with LocalStorage Hook",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aEBk74m2jA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aEBk74m2jA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aEBk74m2jA/video.m3u8",
+          "duration": 1278,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-34",
+          "title": "Adding Filtering and Advanced Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3StT5HamDA8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3StT5HamDA8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3StT5HamDA8/video.m3u8",
+          "duration": 2375,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-16",
+          "title": "Assignments 5",
+          "url": "https://docs.google.com/document/d/1kVDsngr9Azgthm7Nns8Df9Tftws8asJd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1kVDsngr9Azgthm7Nns8Df9Tftws8asJd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1kVDsngr9Azgthm7Nns8Df9Tftws8asJd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1kVDsngr9Azgthm7Nns8Df9Tftws8asJd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Working with Forms and User Input",
+      "lectures": [
+        {
+          "id": "td-reactjs-35",
+          "title": "User Registeration Form",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jxaJe9hsYQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jxaJe9hsYQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jxaJe9hsYQ/video.m3u8",
+          "duration": 4256,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-36",
+          "title": "Mario_s Pizza Online Ordering System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkycxBqATGP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkycxBqATGP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkycxBqATGP/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-37",
+          "title": "Adding state and Interactivity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUq43fdCbk5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUq43fdCbk5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUq43fdCbk5/video.m3u8",
+          "duration": 2058,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-38",
+          "title": "Business logic , validation and form submission",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m4QRtqTBtu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m4QRtqTBtu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m4QRtqTBtu/video.m3u8",
+          "duration": 6218,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-18",
+          "title": "Assignments 6",
+          "url": "https://docs.google.com/document/d/13vIhiu-Lss1XhTqmLnTKrXhoZmPV-pcC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/13vIhiu-Lss1XhTqmLnTKrXhoZmPV-pcC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/13vIhiu-Lss1XhTqmLnTKrXhoZmPV-pcC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/13vIhiu-Lss1XhTqmLnTKrXhoZmPV-pcC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Handling Forms via Form Actions",
+      "lectures": [
+        {
+          "id": "td-reactjs-39",
+          "title": "Building a User Signup Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZcFYsuERqC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZcFYsuERqC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZcFYsuERqC/video.m3u8",
+          "duration": 4256,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-40",
+          "title": "Designing an Online Pizza Ordering Workflow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RTrGryKs3p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RTrGryKs3p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RTrGryKs3p/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-41",
+          "title": "Enhancing Forms with Dynamic State & User Interaction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/764yJc7ZTu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/764yJc7ZTu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/764yJc7ZTu9/video.m3u8",
+          "duration": 2058,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-42",
+          "title": "Implementing Validation, Logic, and Smooth Submissions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37ySQCsje5N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37ySQCsje5N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37ySQCsje5N/video.m3u8",
+          "duration": 6218,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Diving into Redux",
+      "lectures": [
+        {
+          "id": "td-reactjs-43",
+          "title": "Introduction and SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADZ7dffxgX5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADZ7dffxgX5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADZ7dffxgX5/video.m3u8",
+          "duration": 939,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-44",
+          "title": "First Redux Store and Slices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9YxS8FGUFP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9YxS8FGUFP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9YxS8FGUFP/video.m3u8",
+          "duration": 3061,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-45",
+          "title": "Shopping Cart and user authentication",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tut43BSyU8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tut43BSyU8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tut43BSyU8/video.m3u8",
+          "duration": 5426,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-46",
+          "title": "Production Ready Features and Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GF4GEYHPeR2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GF4GEYHPeR2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GF4GEYHPeR2/video.m3u8",
+          "duration": 4251,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-21",
+          "title": "Assignments 7",
+          "url": "https://docs.google.com/document/d/1Uwq1bqZP5-WkETuaHTN17xTr8t_oBAK3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1Uwq1bqZP5-WkETuaHTN17xTr8t_oBAK3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1Uwq1bqZP5-WkETuaHTN17xTr8t_oBAK3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1Uwq1bqZP5-WkETuaHTN17xTr8t_oBAK3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Building a Multi-Page SPA with React Router",
+      "lectures": [
+        {
+          "id": "td-reactjs-47",
+          "title": "Introduction and SetUp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kgNHdudDpg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kgNHdudDpg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kgNHdudDpg/video.m3u8",
+          "duration": 1548,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-48",
+          "title": "Setting up Routes and Navigations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ms8qP2rzEK6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ms8qP2rzEK6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ms8qP2rzEK6/video.m3u8",
+          "duration": 1974,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-49",
+          "title": "Dynamic Routes and URL Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P6aJgQXHEc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P6aJgQXHEc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P6aJgQXHEc/video.m3u8",
+          "duration": 2154,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Adding Authentication to React Apps",
+      "lectures": [
+        {
+          "id": "td-reactjs-50",
+          "title": "Introduction and Project Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TmJhH6Cmu7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TmJhH6Cmu7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TmJhH6Cmu7/video.m3u8",
+          "duration": 1252,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-51",
+          "title": "Building Login and SignUp Pages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cZaxxgAzFp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cZaxxgAzFp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cZaxxgAzFp/video.m3u8",
+          "duration": 2998,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-52",
+          "title": "Implementing Authentication Logic with Context API",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36AmDy4Sj7u/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36AmDy4Sj7u/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36AmDy4Sj7u/video.m3u8",
+          "duration": 2749,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-24",
+          "title": "Assignment 8",
+          "url": "https://docs.google.com/document/d/1ZeDABYuXhYp12RkTR33b91blaSeG-EIq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1ZeDABYuXhYp12RkTR33b91blaSeG-EIq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1ZeDABYuXhYp12RkTR33b91blaSeG-EIq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1ZeDABYuXhYp12RkTR33b91blaSeG-EIq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Testing React Apps",
+      "lectures": [
+        {
+          "id": "td-reactjs-53",
+          "title": "Introduction and Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44p4uHq3KES/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44p4uHq3KES/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44p4uHq3KES/video.m3u8",
+          "duration": 1560,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-54",
+          "title": "Writing Tests for Counter Component",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bM4MGYkKrr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bM4MGYkKrr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bM4MGYkKrr/video.m3u8",
+          "duration": 1685,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-55",
+          "title": "Advanced Testing Concepts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NnFdJQPs2A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NnFdJQPs2A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NnFdJQPs2A/video.m3u8",
+          "duration": 3471,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Deploying React Apps",
+      "lectures": [
+        {
+          "id": "td-reactjs-56",
+          "title": "Deploying React Apps Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tpe5SDxNSd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tpe5SDxNSd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tpe5SDxNSd/video.m3u8",
+          "duration": 3939,
+          "type": "video"
+        },
+        {
+          "id": "td-reactjs-57",
+          "title": "Deploying React Apps Part2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n3NAQFkmp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n3NAQFkmp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n3NAQFkmp/video.m3u8",
+          "duration": 3609,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-reactjs-27",
+          "title": "Project",
+          "url": "https://docs.google.com/document/d/1cG268lMJjGH_PlHQF_i1ZvoZc37qqztf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1cG268lMJjGH_PlHQF_i1ZvoZc37qqztf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1cG268lMJjGH_PlHQF_i1ZvoZc37qqztf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1cG268lMJjGH_PlHQF_i1ZvoZc37qqztf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

@@ -54,6 +54,9 @@ from services.apna_college_service import (
 from services.selection_way_service import (
     get_selection_way_app_object
 )
+from services.tutedude_service import (
+    get_tutedude_app_object
+)
 
 @router.get("")
 async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
@@ -67,7 +70,12 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
             .selectinload(Subject.folders)
             .selectinload(Folder.lectures)
         )
-        .where(and_(App.status == "ACTIVE", App.slug != "apna-college", App.slug != "selection-way"))
+        .where(and_(
+            App.status == "ACTIVE",
+            App.slug != "apna-college",
+            App.slug != "selection-way",
+            App.slug != "tutedude"
+        ))
         .order_by(App.name)
     )
     res = await db.execute(stmt)
@@ -103,6 +111,13 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
     except Exception as e:
         logger.error("Failed to load Selection Way API app: %s", e)
 
+    # 4. Add TuteDude served via high-speed service
+    try:
+        tutedude_app = await get_tutedude_app_object()
+        app_results.append(tutedude_app)
+    except Exception as e:
+        logger.error("Failed to load TuteDude API app: %s", e)
+
     return app_results
 
 @router.get("/{slug}")
@@ -114,6 +129,10 @@ async def get_app_detail(slug: str, db: AsyncSession = Depends(get_db_dependency
     # If requesting Selection Way, serve instantly from high-speed service
     if slug in ("selection-way", "app_selection_way", "selectionway"):
         return await get_selection_way_app_object()
+
+    # If requesting TuteDude, serve instantly from high-speed service
+    if slug in ("tutedude", "app_tutedude", "tute-dude"):
+        return await get_tutedude_app_object()
 
     stmt = (
         select(App)

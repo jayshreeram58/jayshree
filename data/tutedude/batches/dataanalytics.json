@@ -1,0 +1,2688 @@
+{
+  "platform": "TuteDude",
+  "batchId": "dataanalytics",
+  "batchSlug": "dataanalytics",
+  "batchName": "Data Analytics",
+  "thumbnail": "https://www.tutedude.com/assets/avif/dataanalytics.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/dataanalytics",
+  "totalSections": 40,
+  "totalLectures": 258,
+  "totalNotes": 11,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-1",
+          "title": "How to connect with mentors",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-2",
+          "title": "Introduction to course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34XFDkPMzbH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34XFDkPMzbH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34XFDkPMzbH/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Excel Basics",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-3",
+          "title": "Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yeGBZyyDaQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yeGBZyyDaQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yeGBZyyDaQ/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-4",
+          "title": "Worksheet Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpGMRuYqaF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpGMRuYqaF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpGMRuYqaF/video.m3u8",
+          "duration": 914,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-5",
+          "title": "Data Formats",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ab8u2AFyus9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ab8u2AFyus9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ab8u2AFyus9/video.m3u8",
+          "duration": 478,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-6",
+          "title": "Data Handling Basics Cut, Copy & Paste",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37T8A4SAXxf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37T8A4SAXxf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37T8A4SAXxf/video.m3u8",
+          "duration": 840,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-7",
+          "title": "Saving and Printing Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sABKMYAe8p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sABKMYAe8p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sABKMYAe8p/video.m3u8",
+          "duration": 509,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-4",
+          "title": "Excel Basics",
+          "url": "https://docs.google.com/document/d/1Ul78qzgB8vZ8BCXJhSzCSEpRFhHWGn6z39t309bn6SA/edit?usp=drive_link",
+          "pdfUrl": "https://docs.google.com/document/d/1Ul78qzgB8vZ8BCXJhSzCSEpRFhHWGn6z39t309bn6SA/edit?usp=drive_link",
+          "playerUrl": "https://docs.google.com/document/d/1Ul78qzgB8vZ8BCXJhSzCSEpRFhHWGn6z39t309bn6SA/edit?usp=drive_link",
+          "downloadUrl": "https://docs.google.com/document/d/1Ul78qzgB8vZ8BCXJhSzCSEpRFhHWGn6z39t309bn6SA/edit?usp=drive_link",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Essential Formulas",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-8",
+          "title": "Basic Formula Operations",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRydDt7qYaT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRydDt7qYaT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRydDt7qYaT/video.m3u8",
+          "duration": 787,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-9",
+          "title": "Mathematical Functions 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATQfr3a6Mby/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATQfr3a6Mby/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATQfr3a6Mby/video.m3u8",
+          "duration": 823,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-10",
+          "title": "Mathematical Functions 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBuSm78Kz7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBuSm78Kz7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DBuSm78Kz7/video.m3u8",
+          "duration": 541,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-11",
+          "title": "Textual Functions Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jk5PauhZmF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jk5PauhZmF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Jk5PauhZmF/video.m3u8",
+          "duration": 473,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-12",
+          "title": "Textual Functions 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CrbdQhyt2p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CrbdQhyt2p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CrbdQhyt2p/video.m3u8",
+          "duration": 855,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-13",
+          "title": "Logical Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/755PDNUKmMf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/755PDNUKmMf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/755PDNUKmMf/video.m3u8",
+          "duration": 1432,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-14",
+          "title": "Date-Time Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cSgQNAqgdr2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cSgQNAqgdr2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cSgQNAqgdr2/video.m3u8",
+          "duration": 421,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-15",
+          "title": "Lookup functions (VLOOKUP,HLOOKUP,INDEX-MATCH)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h7dxzm4ZeC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h7dxzm4ZeC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h7dxzm4ZeC/video.m3u8",
+          "duration": 1202,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Xlookup - Only for Excel 2021 and Office 365",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-16",
+          "title": "XLOOKUP as a replacement of VLOOKUP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m46XED2day/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m46XED2day/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m46XED2day/video.m3u8",
+          "duration": 640,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-17",
+          "title": "Handling NA and approximate match in XLookup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hmxXe7UhK6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hmxXe7UhK6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hmxXe7UhK6/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-18",
+          "title": "Wildcard matching in XLOOKUP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ka7KnD7sjg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ka7KnD7sjg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ka7KnD7sjg/video.m3u8",
+          "duration": 356,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-19",
+          "title": "Search modes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXRhbyC36g9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXRhbyC36g9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXRhbyC36g9/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Tools",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-20",
+          "title": "Sorting, Filtering and Data Validation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZDGzdpcPRm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZDGzdpcPRm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZDGzdpcPRm/video.m3u8",
+          "duration": 1133,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-21",
+          "title": "Text-to-columns and remove duplicates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NxFbgnrgG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NxFbgnrgG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75NxFbgnrgG/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-22",
+          "title": "Advanced Filter option",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dZmJf387HU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dZmJf387HU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dZmJf387HU/video.m3u8",
+          "duration": 1538,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-23",
+          "title": "Formatting Data and Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fMJcyTZy5G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fMJcyTZy5G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fMJcyTZy5G/video.m3u8",
+          "duration": 1298,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Excel Charts",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-24",
+          "title": "Importance of Data Visualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhgukPZ3fUF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhgukPZ3fUF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhgukPZ3fUF/video.m3u8",
+          "duration": 206,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-25",
+          "title": "Elements of Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/353e7kCYaTG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/353e7kCYaTG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/353e7kCYaTG/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-26",
+          "title": "The Easy way of Creating Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQaggJGNU4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQaggJGNU4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQaggJGNU4p/video.m3u8",
+          "duration": 227,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-27",
+          "title": "Bar and Column Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384cuuGpa97/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384cuuGpa97/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/384cuuGpa97/video.m3u8",
+          "duration": 877,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-28",
+          "title": "Formatting Charts Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rZkCZ8SaBH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rZkCZ8SaBH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rZkCZ8SaBH/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-29",
+          "title": "Formatting Charts Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Dkc6btpK8U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Dkc6btpK8U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Dkc6btpK8U/video.m3u8",
+          "duration": 290,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-30",
+          "title": "Line Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xM4EaFxqQg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xM4EaFxqQg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xM4EaFxqQg/video.m3u8",
+          "duration": 601,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-31",
+          "title": "Area Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QHH9gcCtX6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QHH9gcCtX6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QHH9gcCtX6/video.m3u8",
+          "duration": 585,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-32",
+          "title": "Pie and Doughnut Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4srcMZbq7D3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4srcMZbq7D3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4srcMZbq7D3/video.m3u8",
+          "duration": 1118,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-33",
+          "title": "Scatter plot or XY Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2CrBJubQSM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2CrBJubQSM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2CrBJubQSM/video.m3u8",
+          "duration": 1040,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-34",
+          "title": "Waterfall Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5bR9GZEbPu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5bR9GZEbPu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5bR9GZEbPu/video.m3u8",
+          "duration": 644,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-35",
+          "title": "Sparklines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCnPMkD5PBQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCnPMkD5PBQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCnPMkD5PBQ/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-9",
+          "title": "Essential Formulas + xlookup",
+          "url": "https://docs.google.com/document/d/16jojrmADCo3AxZh7FNZ0sUqQuv2MYhNBezN1vu2xpJE/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/16jojrmADCo3AxZh7FNZ0sUqQuv2MYhNBezN1vu2xpJE/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/16jojrmADCo3AxZh7FNZ0sUqQuv2MYhNBezN1vu2xpJE/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/16jojrmADCo3AxZh7FNZ0sUqQuv2MYhNBezN1vu2xpJE/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pivot Tables and Pivot Charts",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-36",
+          "title": "Pivot Tables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65dm2Dq4sNe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65dm2Dq4sNe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65dm2Dq4sNe/video.m3u8",
+          "duration": 968,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-37",
+          "title": "Pivot Charts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bky7gkaEnF9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bky7gkaEnF9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bky7gkaEnF9/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-11",
+          "title": "Excel charts, Pivot tables and charts",
+          "url": "https://docs.google.com/document/d/1ijD45PMOY-A0qKEf586CIvf0FNIR7yP3VJ_1i7LsOpo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1ijD45PMOY-A0qKEf586CIvf0FNIR7yP3VJ_1i7LsOpo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1ijD45PMOY-A0qKEf586CIvf0FNIR7yP3VJ_1i7LsOpo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1ijD45PMOY-A0qKEf586CIvf0FNIR7yP3VJ_1i7LsOpo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Map Charts- Only for Excel 2019 & above",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-38",
+          "title": "Maps Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GsUBHQbNZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GsUBHQbNZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GsUBHQbNZk/video.m3u8",
+          "duration": 701,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Using ChatGPT with Excel",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-39",
+          "title": "Use ChatGPT For Excel Problems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FRBZMQNYA5M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FRBZMQNYA5M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FRBZMQNYA5M/video.m3u8",
+          "duration": 1023,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Macros",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-40",
+          "title": "Macros",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cdxcb2uQsQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cdxcb2uQsQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cdxcb2uQsQ/video.m3u8",
+          "duration": 707,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Importing Data from External Sources",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-41",
+          "title": "Importing Data from Websites Excel 2019 and 365",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D9xNdXCARq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D9xNdXCARq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D9xNdXCARq/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL Introduction",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-42",
+          "title": "Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QuG8EuTG6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QuG8EuTG6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59QuG8EuTG6/video.m3u8",
+          "duration": 720,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Installation and getting started",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-43",
+          "title": "Installing SQL Server and SSMS in your system",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/u2UXZG4RRDr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/u2UXZG4RRDr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/u2UXZG4RRDr/video.m3u8",
+          "duration": 292,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Database Basics",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-44",
+          "title": "What is SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jP67ecn6q8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jP67ecn6q8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jP67ecn6q8/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-45",
+          "title": "Tables and DBMS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BD3eDE9XReN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BD3eDE9XReN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BD3eDE9XReN/video.m3u8",
+          "duration": 380,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-46",
+          "title": "Types of SQL Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NEqgjmKAmy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NEqgjmKAmy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NEqgjmKAmy/video.m3u8",
+          "duration": 412,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Fundamental SQL Statements",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-47",
+          "title": "CREATE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Du8PmRJGEX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Du8PmRJGEX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Du8PmRJGEX/video.m3u8",
+          "duration": 1152,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-48",
+          "title": "INSERT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaFskRfsts/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaFskRfsts/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaFskRfsts/video.m3u8",
+          "duration": 869,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-49",
+          "title": "Primary Key Foreign Key",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbzRUKnMUBh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbzRUKnMUBh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbzRUKnMUBh/video.m3u8",
+          "duration": 719,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-50",
+          "title": "Import data from file",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tx52Tubr7Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tx52Tubr7Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tx52Tubr7Y/video.m3u8",
+          "duration": 679,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-51",
+          "title": "Select",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KtFqdjePM5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KtFqdjePM5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KtFqdjePM5/video.m3u8",
+          "duration": 231,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-52",
+          "title": "SELECT DISTINCT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TYbyAmjCUA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TYbyAmjCUA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TYbyAmjCUA/video.m3u8",
+          "duration": 540,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-53",
+          "title": "WHERE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HFkCZEQQtB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HFkCZEQQtB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HFkCZEQQtB/video.m3u8",
+          "duration": 367,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-54",
+          "title": "Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MyCtfZNhPK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MyCtfZNhPK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MyCtfZNhPK/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-55",
+          "title": "UPDATE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XxkPJ9C7Qy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XxkPJ9C7Qy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XxkPJ9C7Qy/video.m3u8",
+          "duration": 666,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-56",
+          "title": "DELETE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArPBE92ZgyD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArPBE92ZgyD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArPBE92ZgyD/video.m3u8",
+          "duration": 294,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-57",
+          "title": "ALTER Part 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmNuEaqcb2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmNuEaqcb2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmNuEaqcb2/video.m3u8",
+          "duration": 589,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-58",
+          "title": "ALTER Part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5zuDRgx6xX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5zuDRgx6xX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5zuDRgx6xX/video.m3u8",
+          "duration": 1077,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-20",
+          "title": "Fundamental SQL statements 1",
+          "url": "https://docs.google.com/document/d/1jqhiiw7I0Q-cxGC9VP0VGhgpH3kSfHeN7YqmaIzrQ5k/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1jqhiiw7I0Q-cxGC9VP0VGhgpH3kSfHeN7YqmaIzrQ5k/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1jqhiiw7I0Q-cxGC9VP0VGhgpH3kSfHeN7YqmaIzrQ5k/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1jqhiiw7I0Q-cxGC9VP0VGhgpH3kSfHeN7YqmaIzrQ5k/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Restore and Backup",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-59",
+          "title": "Restore and Backup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45dS2YA5926/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45dS2YA5926/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45dS2YA5926/video.m3u8",
+          "duration": 474,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-60",
+          "title": "Backup and Restore-Adventure Works DB",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUJZhXDYms/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUJZhXDYms/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUJZhXDYms/video.m3u8",
+          "duration": 612,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-61",
+          "title": "Creating tables using CSV files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y5KPfKDUAm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y5KPfKDUAm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y5KPfKDUAm/video.m3u8",
+          "duration": 679,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Selection Commands: Filtering",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-62",
+          "title": "IN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZjJgUnp5PX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZjJgUnp5PX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZjJgUnp5PX/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-63",
+          "title": "BETWEEN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82beeSBgJqT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82beeSBgJqT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82beeSBgJqT/video.m3u8",
+          "duration": 432,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-64",
+          "title": "LIKE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JgnUdzQeX4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JgnUdzQeX4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JgnUdzQeX4/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Selection Commands:Ordering",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-65",
+          "title": "Side Lecture Commenting in SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8fYQQ5pYg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8fYQQ5pYg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8fYQQ5pYg/video.m3u8",
+          "duration": 121,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-66",
+          "title": "ORDER BY",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hF25uPUp96H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hF25uPUp96H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hF25uPUp96H/video.m3u8",
+          "duration": 639,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-67",
+          "title": "TOP (LIMIT)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MgMfrxZ7uM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MgMfrxZ7uM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MgMfrxZ7uM/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-24",
+          "title": "Selection commands: filtering and ordering",
+          "url": "https://docs.google.com/document/d/1BBz5pcsI7QLGONV5Pp1_gc6tfsJBU_AIH9jdfWceA_U/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1BBz5pcsI7QLGONV5Pp1_gc6tfsJBU_AIH9jdfWceA_U/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1BBz5pcsI7QLGONV5Pp1_gc6tfsJBU_AIH9jdfWceA_U/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1BBz5pcsI7QLGONV5Pp1_gc6tfsJBU_AIH9jdfWceA_U/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Aliasing",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-68",
+          "title": "AS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sMYnq2BBa7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sMYnq2BBa7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sMYnq2BBa7/video.m3u8",
+          "duration": 317,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Aggregate Commands",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-69",
+          "title": "COUNT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BUhMKtBMe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BUhMKtBMe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BUhMKtBMe/video.m3u8",
+          "duration": 491,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-70",
+          "title": "SUM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Szjg7Nq4G9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Szjg7Nq4G9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Szjg7Nq4G9/video.m3u8",
+          "duration": 235,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-71",
+          "title": "AVG",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nBtjc456zB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nBtjc456zB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nBtjc456zB/video.m3u8",
+          "duration": 425,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-72",
+          "title": "MIN MAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n4ybbSRb5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n4ybbSRb5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n4ybbSRb5/video.m3u8",
+          "duration": 277,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "GROUP BY",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-73",
+          "title": "GROUP BY",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pC9rdfmKkmn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pC9rdfmKkmn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pC9rdfmKkmn/video.m3u8",
+          "duration": 566,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-74",
+          "title": "HAVING",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6scrbxJdbga/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6scrbxJdbga/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6scrbxJdbga/video.m3u8",
+          "duration": 635,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Conditional Statement",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-75",
+          "title": "CASE WHEN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pg7CQNcb55/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pg7CQNcb55/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pg7CQNcb55/video.m3u8",
+          "duration": 472,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-29",
+          "title": "Group by & conditional statements",
+          "url": "https://docs.google.com/document/d/1FgQbWoY7AYC4zb7dh7dY21_bjF5GhVXeoyEkRrvYcjc/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1FgQbWoY7AYC4zb7dh7dY21_bjF5GhVXeoyEkRrvYcjc/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1FgQbWoY7AYC4zb7dh7dY21_bjF5GhVXeoyEkRrvYcjc/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1FgQbWoY7AYC4zb7dh7dY21_bjF5GhVXeoyEkRrvYcjc/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "JOINS",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-76",
+          "title": "Introduction to Joins",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p2RmmUsQeH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p2RmmUsQeH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p2RmmUsQeH/video.m3u8",
+          "duration": 381,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-77",
+          "title": "Concepts of Joining and Combining Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dp6M3M2aXu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dp6M3M2aXu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dp6M3M2aXu/video.m3u8",
+          "duration": 897,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-78",
+          "title": "Preparing the Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xpZehGMbgj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xpZehGMbgj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xpZehGMbgj/video.m3u8",
+          "duration": 105,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-79",
+          "title": "INNER JOIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74kjfRZrxGN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74kjfRZrxGN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74kjfRZrxGN/video.m3u8",
+          "duration": 337,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-80",
+          "title": "LEFT JOIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ej2Pz6nSPp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ej2Pz6nSPp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ej2Pz6nSPp/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-81",
+          "title": "RIGHT JOIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7N75SBxcc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7N75SBxcc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7N75SBxcc/video.m3u8",
+          "duration": 325,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-82",
+          "title": "FULL OUTER JOIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMhMpyZxzC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMhMpyZxzC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mMhMpyZxzC/video.m3u8",
+          "duration": 387,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-83",
+          "title": "CROSS JOIN",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u52EPq88cd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u52EPq88cd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u52EPq88cd/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-84",
+          "title": "INTERSECT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SfjFzeJtz8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SfjFzeJtz8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SfjFzeJtz8/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-85",
+          "title": "EXCEPT",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZGRh9ktfuH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZGRh9ktfuH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZGRh9ktfuH/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-86",
+          "title": "UNION ALL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hCkrnKCyhE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hCkrnKCyhE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hCkrnKCyhE/video.m3u8",
+          "duration": 212,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-31",
+          "title": "Joins",
+          "url": "https://docs.google.com/document/d/1Q93Zm92M9WAoCajBCAza3BQBPbdLGtVwXrWRnCEe4dY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1Q93Zm92M9WAoCajBCAza3BQBPbdLGtVwXrWRnCEe4dY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1Q93Zm92M9WAoCajBCAza3BQBPbdLGtVwXrWRnCEe4dY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1Q93Zm92M9WAoCajBCAza3BQBPbdLGtVwXrWRnCEe4dY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Subqueries",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-87",
+          "title": "Part 1 - Subquery in WHERE Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zm4aAkHfbF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zm4aAkHfbF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zm4aAkHfbF/video.m3u8",
+          "duration": 494,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-88",
+          "title": "Part 2 - Subquery in FROM clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJfbnQD3a3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJfbnQD3a3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJfbnQD3a3/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-89",
+          "title": "Part 3 - Subquery in SELECT Clause",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yASpKR7RD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yASpKR7RD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yASpKR7RD/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Views and Indexes",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-90",
+          "title": "VIEW",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f6PgdnrqnDp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f6PgdnrqnDp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f6PgdnrqnDp/video.m3u8",
+          "duration": 787,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-91",
+          "title": "INDEX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HAaX5uHfeP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HAaX5uHfeP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HAaX5uHfeP/video.m3u8",
+          "duration": 416,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-34",
+          "title": "Subqueries & views",
+          "url": "https://docs.google.com/document/d/1GaEPCcojRk7HoFznrzUtCFLS26F2EULCUNPZttgO0Rw/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1GaEPCcojRk7HoFznrzUtCFLS26F2EULCUNPZttgO0Rw/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1GaEPCcojRk7HoFznrzUtCFLS26F2EULCUNPZttgO0Rw/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1GaEPCcojRk7HoFznrzUtCFLS26F2EULCUNPZttgO0Rw/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "String Functions",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-92",
+          "title": "LENGTH",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyAhd2tqtPM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyAhd2tqtPM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyAhd2tqtPM/video.m3u8",
+          "duration": 273,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-93",
+          "title": "UPPER LOWER",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brMCZHDarH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brMCZHDarH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brMCZHDarH/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-94",
+          "title": "REPLACE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9uhQUjzSgM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9uhQUjzSgM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9uhQUjzSgM/video.m3u8",
+          "duration": 173,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-95",
+          "title": "TRIM LTRIM RTRIM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsQ3UnxP4eY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsQ3UnxP4eY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsQ3UnxP4eY/video.m3u8",
+          "duration": 340,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-96",
+          "title": "Concatenation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ukrP8yPua/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ukrP8yPua/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77ukrP8yPua/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-97",
+          "title": "SUBSTRING",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKmhxyz5UQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKmhxyz5UQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKmhxyz5UQ/video.m3u8",
+          "duration": 289,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-98",
+          "title": "LIST AGGREGATION",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rYCnGNsXmS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rYCnGNsXmS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rYCnGNsXmS/video.m3u8",
+          "duration": 234,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Mathematical Functions",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-99",
+          "title": "CEIL FLOOR",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DDH3rFNCUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DDH3rFNCUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DDH3rFNCUj/video.m3u8",
+          "duration": 233,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-100",
+          "title": "RANDOM",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YF2b72K8AQs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YF2b72K8AQs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YF2b72K8AQs/video.m3u8",
+          "duration": 582,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-101",
+          "title": "ROUND",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p3ExxuEtaP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p3ExxuEtaP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p3ExxuEtaP/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-102",
+          "title": "POWER",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92P8bcC97Ym/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92P8bcC97Ym/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92P8bcC97Ym/video.m3u8",
+          "duration": 198,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DATE TIME Functions",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-103",
+          "title": "Current date time",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z56cshtahu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z56cshtahu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z56cshtahu/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-104",
+          "title": "AGE - DATEDIFF",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeZRssHpMn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeZRssHpMn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeZRssHpMn/video.m3u8",
+          "duration": 236,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-105",
+          "title": "EXTRACT - DATE AND TIME PARTS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F35efPq3pa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F35efPq3pa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F35efPq3pa/video.m3u8",
+          "duration": 407,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-38",
+          "title": "Date and time functions",
+          "url": "https://docs.google.com/document/d/11s83E6X06XA_Ql8RqeFmJ2HEZy6x8WpRGLsPUaUQF30/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/11s83E6X06XA_Ql8RqeFmJ2HEZy6x8WpRGLsPUaUQF30/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/11s83E6X06XA_Ql8RqeFmJ2HEZy6x8WpRGLsPUaUQF30/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/11s83E6X06XA_Ql8RqeFmJ2HEZy6x8WpRGLsPUaUQF30/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Pattern(String)Matching",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-106",
+          "title": "PATTERN MATCHING BASICS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JUuSmBkGHf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JUuSmBkGHf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JUuSmBkGHf/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-107",
+          "title": "PATTERN MATCHING PART 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJhGk9fjYtR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJhGk9fjYtR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJhGk9fjYtR/video.m3u8",
+          "duration": 495,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-108",
+          "title": "advance pattern matching part 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PtacZMpYuU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PtacZMpYuU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PtacZMpYuU/video.m3u8",
+          "duration": 477,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-40",
+          "title": "Pattern (string) matching",
+          "url": "https://docs.google.com/document/d/1FTJHh54y2v0s_nhcP3fnFTf24WZ7kIW0GIT2kTFktVY/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1FTJHh54y2v0s_nhcP3fnFTf24WZ7kIW0GIT2kTFktVY/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1FTJHh54y2v0s_nhcP3fnFTf24WZ7kIW0GIT2kTFktVY/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1FTJHh54y2v0s_nhcP3fnFTf24WZ7kIW0GIT2kTFktVY/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Window functions",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-109",
+          "title": "Introduction to window functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QM4Fzr3Buu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QM4Fzr3Buu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QM4Fzr3Buu/video.m3u8",
+          "duration": 839,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-110",
+          "title": "Introduction to Row numbers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxafR8YsAKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxafR8YsAKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxafR8YsAKU/video.m3u8",
+          "duration": 401,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-111",
+          "title": "Implementing row number in SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AGGHs5ZPmK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AGGHs5ZPmK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AGGHs5ZPmK/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-112",
+          "title": "RANK and DENSERANK",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f7mJ5JHf8T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f7mJ5JHf8T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f7mJ5JHf8T/video.m3u8",
+          "duration": 812,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-113",
+          "title": "NTILE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5f8cYpnnNeM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5f8cYpnnNeM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5f8cYpnnNeM/video.m3u8",
+          "duration": 462,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-114",
+          "title": "AVERAGE Window Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nG6auA2d4g/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nG6auA2d4g/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nG6auA2d4g/video.m3u8",
+          "duration": 331,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-115",
+          "title": "COUNT WINDOW FUNC",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqYjfptFGC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqYjfptFGC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqYjfptFGC/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-116",
+          "title": "SUM TOTAL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hEf5Z5s2Y3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hEf5Z5s2Y3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hEf5Z5s2Y3/video.m3u8",
+          "duration": 232,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-117",
+          "title": "RUNNING TOTAL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HJydCz2RDS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HJydCz2RDS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HJydCz2RDS/video.m3u8",
+          "duration": 488,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-118",
+          "title": "LAG and LEAD",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRYfHHFUxQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRYfHHFUxQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRYfHHFUxQ/video.m3u8",
+          "duration": 743,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data type conversion functions",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-119",
+          "title": "Converting number date to string and string to date",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/662HDjsjX3B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/662HDjsjX3B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/662HDjsjX3B/video.m3u8",
+          "duration": 887,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-dataanalytics-43",
+          "title": "Data type conversion functions",
+          "url": "https://docs.google.com/document/d/1RB1GN0ncDElKkfPMqoqvqz7d0egnziBDZLAbmqa_k58/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1RB1GN0ncDElKkfPMqoqvqz7d0egnziBDZLAbmqa_k58/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1RB1GN0ncDElKkfPMqoqvqz7d0egnziBDZLAbmqa_k58/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1RB1GN0ncDElKkfPMqoqvqz7d0egnziBDZLAbmqa_k58/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": " Deep dive  into Python",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-120",
+          "title": "Python introduction and installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxgDmmZaeP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxgDmmZaeP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxgDmmZaeP/video.m3u8",
+          "duration": 839,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-121",
+          "title": "Anaconda installation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5GBaDkdZSq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5GBaDkdZSq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5GBaDkdZSq/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-122",
+          "title": "Jupyter Walkthrough",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeCQdDHnGDm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeCQdDHnGDm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeCQdDHnGDm/video.m3u8",
+          "duration": 1164,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-123",
+          "title": "Data Types and Basics of OOP",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J5tRMUc2qb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J5tRMUc2qb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J5tRMUc2qb/video.m3u8",
+          "duration": 773,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-124",
+          "title": "Numbers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8jruUh9aPg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8jruUh9aPg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8jruUh9aPg/video.m3u8",
+          "duration": 871,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-125",
+          "title": "Maths",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39GPf5ccSd7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39GPf5ccSd7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39GPf5ccSd7/video.m3u8",
+          "duration": 410,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-126",
+          "title": "Operator precedence",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rmGgz3exMx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rmGgz3exMx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rmGgz3exMx/video.m3u8",
+          "duration": 431,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-127",
+          "title": "Strings Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58sNZ7bEf3G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58sNZ7bEf3G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58sNZ7bEf3G/video.m3u8",
+          "duration": 730,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-128",
+          "title": "Type conversion and Escape Sequences",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eYXukXZGm3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eYXukXZGm3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eYXukXZGm3/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-129",
+          "title": "Strings 101",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83eU4Z9K9ZA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83eU4Z9K9ZA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83eU4Z9K9ZA/video.m3u8",
+          "duration": 1309,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-130",
+          "title": "Booleans",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ujC7HXmUgf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ujC7HXmUgf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ujC7HXmUgf/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-131",
+          "title": "Lists",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KYpb8QffE4z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KYpb8QffE4z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KYpb8QffE4z/video.m3u8",
+          "duration": 1296,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-132",
+          "title": "List Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FY6rqnjx4S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FY6rqnjx4S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FY6rqnjx4S/video.m3u8",
+          "duration": 1730,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-133",
+          "title": "List Patterns and Unpacking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6j5DypKja/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6j5DypKja/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C6j5DypKja/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-134",
+          "title": "None",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AzJtU3cPs2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AzJtU3cPs2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AzJtU3cPs2/video.m3u8",
+          "duration": 254,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-135",
+          "title": "DIctionary",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3Q53p58Sm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3Q53p58Sm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3Q53p58Sm/video.m3u8",
+          "duration": 931,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-136",
+          "title": "Dict Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uCKZqgn4QD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uCKZqgn4QD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uCKZqgn4QD/video.m3u8",
+          "duration": 771,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-137",
+          "title": "Tuples",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qsn8uDNnd7x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qsn8uDNnd7x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qsn8uDNnd7x/video.m3u8",
+          "duration": 496,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-138",
+          "title": "Sets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/796XYx6MNad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/796XYx6MNad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/796XYx6MNad/video.m3u8",
+          "duration": 658,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-139",
+          "title": "Set Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46YrceUEUdJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46YrceUEUdJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46YrceUEUdJ/video.m3u8",
+          "duration": 875,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-140",
+          "title": "Conditional Logic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfBRZcxHKaY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfBRZcxHKaY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfBRZcxHKaY/video.m3u8",
+          "duration": 991,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-141",
+          "title": "Truthy and Falsy",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84YMYThjMrD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84YMYThjMrD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84YMYThjMrD/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-142",
+          "title": "Ternary Operator",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84ueR7h8QGt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84ueR7h8QGt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84ueR7h8QGt/video.m3u8",
+          "duration": 367,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-143",
+          "title": "Short Circuiting ( Optional )",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GYTxyMMUmb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GYTxyMMUmb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GYTxyMMUmb/video.m3u8",
+          "duration": 457,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-144",
+          "title": "Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ktmYZUbpbN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ktmYZUbpbN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ktmYZUbpbN/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-145",
+          "title": "Exercise - Logical Operators",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jh3jUuA99Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jh3jUuA99Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jh3jUuA99Q/video.m3u8",
+          "duration": 1078,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-146",
+          "title": "== vs is",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4SNR4aMHG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4SNR4aMHG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4SNR4aMHG/video.m3u8",
+          "duration": 625,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-147",
+          "title": "For Loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tAz7kxChXA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tAz7kxChXA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tAz7kxChXA/video.m3u8",
+          "duration": 832,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-148",
+          "title": "Iterables",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YSQGeAPM2c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YSQGeAPM2c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YSQGeAPM2c/video.m3u8",
+          "duration": 533,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-149",
+          "title": "Exercise - Tricky Counter",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69BacPXbtX7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69BacPXbtX7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69BacPXbtX7/video.m3u8",
+          "duration": 378,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-150",
+          "title": "range() and enumerate()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXgQ87dTa3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXgQ87dTa3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXgQ87dTa3/video.m3u8",
+          "duration": 697,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-151",
+          "title": "While Loop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nq9NYTxQ4N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nq9NYTxQ4N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nq9NYTxQ4N/video.m3u8",
+          "duration": 1269,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-152",
+          "title": "Break , continue , pass",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A66CnKcFRy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A66CnKcFRy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A66CnKcFRy/video.m3u8",
+          "duration": 566,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-153",
+          "title": " Exercise - Our first GUI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NtsXRRAhay/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NtsXRRAhay/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NtsXRRAhay/video.m3u8",
+          "duration": 577,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-154",
+          "title": "Exercise - Find Duplicates",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrnNrTRX3d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrnNrTRX3d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrnNrTRX3d/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-155",
+          "title": "Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ezqZTff3Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ezqZTff3Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ezqZTff3Q/video.m3u8",
+          "duration": 472,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-156",
+          "title": "Parameters & Arguments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8JPJuqQtu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8JPJuqQtu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8JPJuqQtu/video.m3u8",
+          "duration": 371,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-157",
+          "title": " Keyword arguments and Default parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/789EPCxycyy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/789EPCxycyy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/789EPCxycyy/video.m3u8",
+          "duration": 414,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-158",
+          "title": "Return",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85hUAGUQgcx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85hUAGUQgcx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85hUAGUQgcx/video.m3u8",
+          "duration": 751,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-159",
+          "title": "Funtions vs Methods",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Byh8jmHPUCt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Byh8jmHPUCt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Byh8jmHPUCt/video.m3u8",
+          "duration": 406,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-160",
+          "title": "Docstring",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84SCk72FJsj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84SCk72FJsj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84SCk72FJsj/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-161",
+          "title": "Clean Code",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EqkQgTcF5a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EqkQgTcF5a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EqkQgTcF5a/video.m3u8",
+          "duration": 413,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-162",
+          "title": "args and kwargs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AJxnc3Tyhu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AJxnc3Tyhu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AJxnc3Tyhu/video.m3u8",
+          "duration": 852,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-163",
+          "title": "Exercise - Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/575XxKpuxyF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/575XxKpuxyF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/575XxKpuxyF/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-164",
+          "title": "Scope",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BE2GjYza5f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BE2GjYza5f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BE2GjYza5f/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-165",
+          "title": " Global and nonlocal",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kun8YFNzDk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kun8YFNzDk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kun8YFNzDk/video.m3u8",
+          "duration": 757,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-166",
+          "title": "Pure Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgxc3m3yAfe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgxc3m3yAfe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xgxc3m3yAfe/video.m3u8",
+          "duration": 760,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-167",
+          "title": "Map()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zBXKRfPTDT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zBXKRfPTDT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zBXKRfPTDT/video.m3u8",
+          "duration": 690,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-168",
+          "title": "Filter() & Zip()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ycFCnn8hNS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ycFCnn8hNS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ycFCnn8hNS/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-169",
+          "title": "Reduce()",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nnxcHNcqrb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nnxcHNcqrb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nnxcHNcqrb/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-170",
+          "title": "Lambda",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DtsxBHytK9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DtsxBHytK9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DtsxBHytK9/video.m3u8",
+          "duration": 431,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-171",
+          "title": "Exception Error handling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHfUsATatY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHfUsATatY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHfUsATatY/video.m3u8",
+          "duration": 1266,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-172",
+          "title": "Project Objective and Creating Tables in SQL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mJsMCsTaza/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mJsMCsTaza/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mJsMCsTaza/video.m3u8",
+          "duration": 1233,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-173",
+          "title": "SQL Oueries across multiple tables for data extraction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E42RSNb2gT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E42RSNb2gT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5E42RSNb2gT/video.m3u8",
+          "duration": 2572,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-174",
+          "title": "Analysis, Validation and Visualization using Excel",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKRfDHsAct/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKRfDHsAct/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKRfDHsAct/video.m3u8",
+          "duration": 1781,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-175",
+          "title": "Creating a Risk Prediction model in Python",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HahyNyNmqB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HahyNyNmqB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HahyNyNmqB/video.m3u8",
+          "duration": 2804,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-176",
+          "title": "Deploying Healthcare Risk stratification App",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fnYxsH9jp2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fnYxsH9jp2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fnYxsH9jp2/video.m3u8",
+          "duration": 1152,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Modules, Packages and Libraries",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-177",
+          "title": "Modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pjPNpR7fgh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pjPNpR7fgh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pjPNpR7fgh/video.m3u8",
+          "duration": 724,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-178",
+          "title": "Packages",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tqdA5Sr2rmH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tqdA5Sr2rmH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tqdA5Sr2rmH/video.m3u8",
+          "duration": 886,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-179",
+          "title": "Ways to Import",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z8kQa8rYQ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z8kQa8rYQ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z8kQa8rYQ4/video.m3u8",
+          "duration": 618,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-180",
+          "title": "Built -in Modules",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRjpKu7d7ZQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRjpKu7d7ZQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRjpKu7d7ZQ/video.m3u8",
+          "duration": 630,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-181",
+          "title": "Python Libraries",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b6RT84FAaT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b6RT84FAaT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b6RT84FAaT/video.m3u8",
+          "duration": 273,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Numpy",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-182",
+          "title": "Numpy Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NsPCAgNC5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NsPCAgNC5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NsPCAgNC5/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-183",
+          "title": "Numpy Datatypes and Attributes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ezHnNrNb7e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ezHnNrNb7e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ezHnNrNb7e/video.m3u8",
+          "duration": 964,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-184",
+          "title": "Creating Numpy Arrays",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMTBbR2GR5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMTBbR2GR5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fMTBbR2GR5/video.m3u8",
+          "duration": 859,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-185",
+          "title": "Numpy Random Seed",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psYxbzCfNx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psYxbzCfNx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7psYxbzCfNx/video.m3u8",
+          "duration": 594,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-186",
+          "title": "Viewing Arrays and Matrices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bNXpE8sEd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bNXpE8sEd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bNXpE8sEd/video.m3u8",
+          "duration": 856,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-187",
+          "title": "Manipulation of Arrays ( Arithmetic )",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrdMNQx2qe7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrdMNQx2qe7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrdMNQx2qe7/video.m3u8",
+          "duration": 849,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-188",
+          "title": "Manipulating Arrays ( Aggregate )",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xHKpausMmg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xHKpausMmg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xHKpausMmg/video.m3u8",
+          "duration": 1035,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-189",
+          "title": "Variance and Standard Deviation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nGMEG9nPzA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nGMEG9nPzA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nGMEG9nPzA/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-190",
+          "title": "Reshaping and Transpose",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kUgX84Fq4d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kUgX84Fq4d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kUgX84Fq4d/video.m3u8",
+          "duration": 698,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-191",
+          "title": "Dot product",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ab7UNeST55h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ab7UNeST55h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ab7UNeST55h/video.m3u8",
+          "duration": 741,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-192",
+          "title": "Comparison Operator and Sorting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Uh3nuUnGmR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Uh3nuUnGmR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Uh3nuUnGmR/video.m3u8",
+          "duration": 649,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-193",
+          "title": "Image to Numpy Array",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZHgpPetBHz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZHgpPetBHz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZHgpPetBHz/video.m3u8",
+          "duration": 501,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Analysis using Pandas",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-194",
+          "title": "Pandas Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82x9cZTEZtJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82x9cZTEZtJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82x9cZTEZtJ/video.m3u8",
+          "duration": 300,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-195",
+          "title": "Series, Data Frames and CSV",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RcGPGknuxC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RcGPGknuxC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RcGPGknuxC/video.m3u8",
+          "duration": 938,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-196",
+          "title": "Describing Data with Pandas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CQjdD5CQH5Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CQjdD5CQH5Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CQjdD5CQH5Y/video.m3u8",
+          "duration": 788,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-197",
+          "title": "Selecting and Viewing Data",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTyDDhXJmTk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTyDDhXJmTk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTyDDhXJmTk/video.m3u8",
+          "duration": 1038,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-198",
+          "title": "Asking the right questions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63sKmgQXrjA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63sKmgQXrjA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63sKmgQXrjA/video.m3u8",
+          "duration": 1098,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-199",
+          "title": "Manipulating Data using Pandas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aajqUMHEJJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aajqUMHEJJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aajqUMHEJJ/video.m3u8",
+          "duration": 1006,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-200",
+          "title": "Manipulating Data with Pandas 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sDZyhBDR4p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sDZyhBDR4p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sDZyhBDR4p/video.m3u8",
+          "duration": 797,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-201",
+          "title": "Apply Function",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abykpkb9CSf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abykpkb9CSf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abykpkb9CSf/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Data Visualization using Matplotlib, Seaborn and Plotly",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-202",
+          "title": "Matplotlib Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7EATamekTN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7EATamekTN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7EATamekTN/video.m3u8",
+          "duration": 399,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-203",
+          "title": "Using Matplotlib",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XuT9tJC23ha/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XuT9tJC23ha/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XuT9tJC23ha/video.m3u8",
+          "duration": 952,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-204",
+          "title": "Matplotlib Workflow (Explicit Method)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A5bBGCNF9N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A5bBGCNF9N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A5bBGCNF9N/video.m3u8",
+          "duration": 534,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-205",
+          "title": "Scatter and Bar plot",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2QxzXKbbyt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2QxzXKbbyt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2QxzXKbbyt/video.m3u8",
+          "duration": 916,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-206",
+          "title": "Histograms and Subplots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BHr5bEqmSm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BHr5bEqmSm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BHr5bEqmSm/video.m3u8",
+          "duration": 839,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-207",
+          "title": "Subplots Alternate Method",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q757qCXbDh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q757qCXbDh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q757qCXbDh/video.m3u8",
+          "duration": 343,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-208",
+          "title": "Plotting from Pandas Series",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hegxyHa9Db/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hegxyHa9Db/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hegxyHa9Db/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-209",
+          "title": "Plotting from Pandas DataFrame",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Se9D5DHthX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Se9D5DHthX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Se9D5DHthX/video.m3u8",
+          "duration": 1020,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-210",
+          "title": "Plotting from Pandas DataFrame 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PU5FzQ4k2N/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PU5FzQ4k2N/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PU5FzQ4k2N/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-211",
+          "title": "Plotting from Pandas DataFrame 3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDgqMYZECdD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDgqMYZECdD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDgqMYZECdD/video.m3u8",
+          "duration": 523,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-212",
+          "title": "Plotting from Pandas DataFrame 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KJEfp3AcJY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KJEfp3AcJY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KJEfp3AcJY/video.m3u8",
+          "duration": 816,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-213",
+          "title": "Plotting from Pandas DataFrame 4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qn77mr2EtZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qn77mr2EtZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qn77mr2EtZ/video.m3u8",
+          "duration": 1030,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-214",
+          "title": "Plotting from Pandas DataFrame 6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg8X2m8R2UM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg8X2m8R2UM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg8X2m8R2UM/video.m3u8",
+          "duration": 1191,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-215",
+          "title": "Customizing our Plots",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bz2S6t5MfQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bz2S6t5MfQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bz2S6t5MfQ/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-216",
+          "title": "Customizing our Plots 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GzDCa3N8RY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GzDCa3N8RY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GzDCa3N8RY/video.m3u8",
+          "duration": 600,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-217",
+          "title": "Seaborn Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b6dAyDESU6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b6dAyDESU6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b6dAyDESU6/video.m3u8",
+          "duration": 493,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-218",
+          "title": "Seaborn Univariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R2sQqQskyM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R2sQqQskyM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R2sQqQskyM/video.m3u8",
+          "duration": 959,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-219",
+          "title": "Seaborn Bivariate Analysis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FFd32fbD3b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FFd32fbD3b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FFd32fbD3b/video.m3u8",
+          "duration": 1186,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-220",
+          "title": "Seaborn Plotting Relationships",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5jHUXcncu4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5jHUXcncu4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5jHUXcncu4/video.m3u8",
+          "duration": 551,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-221",
+          "title": "Plotly Express",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z45KXBdNRY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z45KXBdNRY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z45KXBdNRY/video.m3u8",
+          "duration": 1022,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Power BI",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-222",
+          "title": "Introduction to Power BI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yTPqauzMZc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yTPqauzMZc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yTPqauzMZc/video.m3u8",
+          "duration": 2749,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-223",
+          "title": "Data Transformation + Data Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8CQmQPe2TX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8CQmQPe2TX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8CQmQPe2TX/video.m3u8",
+          "duration": 1866,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-224",
+          "title": "Replace Text + Extract + Split",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dTjNBbCnBze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dTjNBbCnBze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dTjNBbCnBze/video.m3u8",
+          "duration": 1126,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-225",
+          "title": "Trim + Clean",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJqDDZDQpDM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJqDDZDQpDM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJqDDZDQpDM/video.m3u8",
+          "duration": 483,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-226",
+          "title": "Assignment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fARrQxA4Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fARrQxA4Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fARrQxA4Y/video.m3u8",
+          "duration": 1611,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-227",
+          "title": "Data Modelling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJg2hPSDY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJg2hPSDY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJg2hPSDY/video.m3u8",
+          "duration": 4103,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-228",
+          "title": "Visualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gmhmy7K4rm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gmhmy7K4rm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gmhmy7K4rm/video.m3u8",
+          "duration": 2268,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-229",
+          "title": "ETL",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BBdRTPq7hM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BBdRTPq7hM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BBdRTPq7hM/video.m3u8",
+          "duration": 732,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-230",
+          "title": "Column Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Bq8zAapUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Bq8zAapUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Bq8zAapUj/video.m3u8",
+          "duration": 764,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-231",
+          "title": "Pie Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARA5QRxzUNF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARA5QRxzUNF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARA5QRxzUNF/video.m3u8",
+          "duration": 365,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-232",
+          "title": "Line Chart",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uZ6eydpb6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uZ6eydpb6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uZ6eydpb6d/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-233",
+          "title": "Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tTcGEaFnHA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tTcGEaFnHA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tTcGEaFnHA/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-234",
+          "title": "Slicers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fFp4PkmRjF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fFp4PkmRjF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fFp4PkmRjF/video.m3u8",
+          "duration": 338,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-235",
+          "title": "Filters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjx77exqJF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjx77exqJF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xjx77exqJF/video.m3u8",
+          "duration": 420,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-236",
+          "title": "Tree Visualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C3nh6bKDGN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C3nh6bKDGN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C3nh6bKDGN/video.m3u8",
+          "duration": 318,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-237",
+          "title": "Logical DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SsH27McMs4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SsH27McMs4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SsH27McMs4/video.m3u8",
+          "duration": 1460,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-238",
+          "title": "Text DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f3nNG3Qs6EY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f3nNG3Qs6EY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f3nNG3Qs6EY/video.m3u8",
+          "duration": 683,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-239",
+          "title": "DateTime DAX",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mgYNSXnSh7M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mgYNSXnSh7M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mgYNSXnSh7M/video.m3u8",
+          "duration": 280,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-240",
+          "title": "Problem-1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7K6xJGFgk4t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7K6xJGFgk4t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7K6xJGFgk4t/video.m3u8",
+          "duration": 1402,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-241",
+          "title": "Problem-2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BfQU7md9Qh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BfQU7md9Qh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BfQU7md9Qh/video.m3u8",
+          "duration": 1204,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-242",
+          "title": "Problem-3",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ed8YbBb6sF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ed8YbBb6sF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ed8YbBb6sF/video.m3u8",
+          "duration": 590,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-243",
+          "title": "Problem-4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHy2xAax6J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHy2xAax6J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHy2xAax6J/video.m3u8",
+          "duration": 810,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-244",
+          "title": "Problem-4 Extended",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PftGHySGdx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PftGHySGdx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PftGHySGdx/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-245",
+          "title": "Problem-5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74AgzbyneXr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74AgzbyneXr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74AgzbyneXr/video.m3u8",
+          "duration": 228,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-246",
+          "title": "Problem-6",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4jSz3a7e9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4jSz3a7e9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H4jSz3a7e9/video.m3u8",
+          "duration": 309,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-247",
+          "title": "Bookmarks",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ezp2uJ4G9M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ezp2uJ4G9M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ezp2uJ4G9M/video.m3u8",
+          "duration": 581,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-248",
+          "title": "RLS",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XKxB5uNQDZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XKxB5uNQDZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XKxB5uNQDZ/video.m3u8",
+          "duration": 438,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-249",
+          "title": "Field Parameters",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U2sefHcgkQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U2sefHcgkQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U2sefHcgkQ/video.m3u8",
+          "duration": 369,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-250",
+          "title": "AI Visuals + Quick Measures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mQHtsYacxn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mQHtsYacxn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mQHtsYacxn/video.m3u8",
+          "duration": 451,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-251",
+          "title": "Folder Problem",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5resD6Pr2F6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5resD6Pr2F6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5resD6Pr2F6/video.m3u8",
+          "duration": 422,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-252",
+          "title": "SQL+PowerBI",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYGZdn4Kbb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYGZdn4Kbb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gYGZdn4Kbb/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Job Readiness & Placement Support",
+      "lectures": [
+        {
+          "id": "td-dataanalytics-253",
+          "title": "How to build a Resume",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDDs9RrfqT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDDs9RrfqT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDDs9RrfqT/video.m3u8",
+          "duration": 2746,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-254",
+          "title": "Customizing the Resume as per specific Job",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkcKHBDaBBc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkcKHBDaBBc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkcKHBDaBBc/video.m3u8",
+          "duration": 801,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-255",
+          "title": "Interview Preparation Guidelines",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BGaf6HmdC6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BGaf6HmdC6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BGaf6HmdC6/video.m3u8",
+          "duration": 2690,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-256",
+          "title": "Short Mock Interview Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q2YHkje3m3t/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q2YHkje3m3t/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q2YHkje3m3t/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-257",
+          "title": "How to Apply for Jobs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGEac8Rsfkk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGEac8Rsfkk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGEac8Rsfkk/video.m3u8",
+          "duration": 3054,
+          "type": "video"
+        },
+        {
+          "id": "td-dataanalytics-258",
+          "title": "Profile Enhancement and Upskilling",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Ht3tqa2Bj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Ht3tqa2Bj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78Ht3tqa2Bj/video.m3u8",
+          "duration": 791,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

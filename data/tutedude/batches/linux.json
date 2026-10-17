@@ -1,0 +1,2256 @@
+{
+  "platform": "TuteDude",
+  "batchId": "linux",
+  "batchSlug": "linux",
+  "batchName": "Linux",
+  "thumbnail": "https://www.tutedude.com/assets/avif/linux.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/linux",
+  "totalSections": 13,
+  "totalLectures": 235,
+  "totalNotes": 5,
+  "price": "699.00",
+  "category": "technical",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "id": "td-linux-1",
+          "title": "How to connect with mentors and Resolve doubts ",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Course Overview",
+      "lectures": [
+        {
+          "id": "td-linux-2",
+          "title": "Course Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99ssAnm7caB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99ssAnm7caB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99ssAnm7caB/video.m3u8",
+          "duration": 111,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Introduction To Linux",
+      "lectures": [
+        {
+          "id": "td-linux-3",
+          "title": "Section 1 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kxAUFtTPzr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kxAUFtTPzr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kxAUFtTPzr/video.m3u8",
+          "duration": 40,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-4",
+          "title": "Introduction To Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fXzm75E2ZD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fXzm75E2ZD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fXzm75E2ZD/video.m3u8",
+          "duration": 1045,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-5",
+          "title": "Key Functions, Linux Distributions And History",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggBt38dajm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggBt38dajm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggBt38dajm/video.m3u8",
+          "duration": 606,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-6",
+          "title": "Linux Vs Unix",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HGKXeRqRQc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HGKXeRqRQc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HGKXeRqRQc/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-7",
+          "title": "Linux Flavours",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45cF7fsbpgC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45cF7fsbpgC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45cF7fsbpgC/video.m3u8",
+          "duration": 1300,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-8",
+          "title": "Linux Flavours Tabular Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rxEzpdmcxF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rxEzpdmcxF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rxEzpdmcxF/video.m3u8",
+          "duration": 255,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-9",
+          "title": "Linux Users",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7nGSh2uCAP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7nGSh2uCAP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7nGSh2uCAP/video.m3u8",
+          "duration": 296,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-10",
+          "title": "Linux Vs Windows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHrBEfNY2Nr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHrBEfNY2Nr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHrBEfNY2Nr/video.m3u8",
+          "duration": 403,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-11",
+          "title": "Creating An Aws Account",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mj9Eyy6Spp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mj9Eyy6Spp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mj9Eyy6Spp/video.m3u8",
+          "duration": 150,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Virtualization",
+      "lectures": [
+        {
+          "id": "td-linux-12",
+          "title": "Section 2 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93yJx7ZtKCP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93yJx7ZtKCP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93yJx7ZtKCP/video.m3u8",
+          "duration": 52,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-13",
+          "title": "Virtualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KYnCtKcyZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KYnCtKcyZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KYnCtKcyZK/video.m3u8",
+          "duration": 872,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-14",
+          "title": "Virtualization Types",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hDFTXj6D9P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hDFTXj6D9P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hDFTXj6D9P/video.m3u8",
+          "duration": 927,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-15",
+          "title": "Virtual Box",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eERuDhDD4f/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eERuDhDD4f/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eERuDhDD4f/video.m3u8",
+          "duration": 524,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-16",
+          "title": "Aws Virtualization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DAdt73pxJe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DAdt73pxJe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DAdt73pxJe/video.m3u8",
+          "duration": 829,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-17",
+          "title": "Understanding Ec2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApUjH4Z5fs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApUjH4Z5fs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApUjH4Z5fs/video.m3u8",
+          "duration": 534,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-18",
+          "title": "Understanding Amis",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbjNs3UJRXZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbjNs3UJRXZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbjNs3UJRXZ/video.m3u8",
+          "duration": 274,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "System Access & File System",
+      "lectures": [
+        {
+          "id": "td-linux-19",
+          "title": "Section 3 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uyXMFYqQmE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uyXMFYqQmE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uyXMFYqQmE/video.m3u8",
+          "duration": 49,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-20",
+          "title": "File System Structure And Description",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yDKbz36GBhY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yDKbz36GBhY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yDKbz36GBhY/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-21",
+          "title": "Navigation Through Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6TTG4pXztJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6TTG4pXztJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6TTG4pXztJ/video.m3u8",
+          "duration": 216,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-22",
+          "title": "File Navigation Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZ8ZpUaM4d9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZ8ZpUaM4d9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZ8ZpUaM4d9/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-23",
+          "title": "Relative And Absolute Paths Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sU75bYqCQE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sU75bYqCQE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sU75bYqCQE/video.m3u8",
+          "duration": 146,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-24",
+          "title": "Creating Files And Directories",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/752XRqSb8BR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/752XRqSb8BR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/752XRqSb8BR/video.m3u8",
+          "duration": 201,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-25",
+          "title": "Removing Files",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M663QaqZre/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M663QaqZre/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M663QaqZre/video.m3u8",
+          "duration": 135,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-26",
+          "title": "Creating Files Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89F7uUC6t9x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89F7uUC6t9x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89F7uUC6t9x/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-27",
+          "title": "Creating / Removing Files And Directories Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHKu2BGPKb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHKu2BGPKb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHKu2BGPKb/video.m3u8",
+          "duration": 200,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-28",
+          "title": "Wildcards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nm7FaKbT6q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nm7FaKbT6q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nm7FaKbT6q/video.m3u8",
+          "duration": 185,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-29",
+          "title": "Wildcards Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHr4eTQNQnE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHr4eTQNQnE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHr4eTQNQnE/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-30",
+          "title": "Soft And Hard Links",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6p7X7rSD5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6p7X7rSD5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6p7X7rSD5/video.m3u8",
+          "duration": 65,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-31",
+          "title": "Find & Locate Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KAhBB3tb3U/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KAhBB3tb3U/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KAhBB3tb3U/video.m3u8",
+          "duration": 108,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-32",
+          "title": "Copy Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du2B6248q2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du2B6248q2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du2B6248q2/video.m3u8",
+          "duration": 117,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-33",
+          "title": "Copy Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TufFy84d8c/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TufFy84d8c/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TufFy84d8c/video.m3u8",
+          "duration": 353,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-linux-6",
+          "title": "Assignment 1",
+          "url": "https://docs.google.com/document/d/18eZd1tmUtKCaWt4kvlN6tTHukZAgCsD30L8u0NN9jxI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/18eZd1tmUtKCaWt4kvlN6tTHukZAgCsD30L8u0NN9jxI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/18eZd1tmUtKCaWt4kvlN6tTHukZAgCsD30L8u0NN9jxI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/18eZd1tmUtKCaWt4kvlN6tTHukZAgCsD30L8u0NN9jxI/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-linux-7",
+          "title": "Assignment 2",
+          "url": "https://docs.google.com/document/d/181d1mfcvJbLleXRp2i6pRDAnjusQ_8TD1IB-PTbpIYg/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/181d1mfcvJbLleXRp2i6pRDAnjusQ_8TD1IB-PTbpIYg/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/181d1mfcvJbLleXRp2i6pRDAnjusQ_8TD1IB-PTbpIYg/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/181d1mfcvJbLleXRp2i6pRDAnjusQ_8TD1IB-PTbpIYg/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-linux-8",
+          "title": "Assignment 3",
+          "url": "https://docs.google.com/document/d/1XbHiAYBQ-cBmhO_8ZSZ-lZuJfYKsIQfjThwI7Wicpyo/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/1XbHiAYBQ-cBmhO_8ZSZ-lZuJfYKsIQfjThwI7Wicpyo/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/1XbHiAYBQ-cBmhO_8ZSZ-lZuJfYKsIQfjThwI7Wicpyo/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/1XbHiAYBQ-cBmhO_8ZSZ-lZuJfYKsIQfjThwI7Wicpyo/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linux Fundamentals",
+      "lectures": [
+        {
+          "id": "td-linux-34",
+          "title": "Section 4 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5AasQQX9rb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5AasQQX9rb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5AasQQX9rb/video.m3u8",
+          "duration": 40,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-35",
+          "title": "Command Syntax",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA6D4rzbZY6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA6D4rzbZY6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA6D4rzbZY6/video.m3u8",
+          "duration": 176,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-36",
+          "title": "Command Syntax Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c7NPr5aNrr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c7NPr5aNrr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c7NPr5aNrr/video.m3u8",
+          "duration": 282,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-37",
+          "title": "User And Permission Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bjqp75bfFAB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bjqp75bfFAB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bjqp75bfFAB/video.m3u8",
+          "duration": 1017,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-38",
+          "title": "Chmod Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ptKDpNP82D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ptKDpNP82D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ptKDpNP82D/video.m3u8",
+          "duration": 813,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-39",
+          "title": "Chown Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7GEE4cZsYT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7GEE4cZsYT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7GEE4cZsYT/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-40",
+          "title": "Help Command + Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5teQ45K9qbM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5teQ45K9qbM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5teQ45K9qbM/video.m3u8",
+          "duration": 372,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-41",
+          "title": "Input And Output Redirections Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rUkyN3d9mX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rUkyN3d9mX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rUkyN3d9mX/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-42",
+          "title": "Executing Multiple Commands With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrgJuY7guu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrgJuY7guu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrgJuY7guu/video.m3u8",
+          "duration": 334,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-43",
+          "title": "Acl (Access Control List)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDn8PmYyKD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDn8PmYyKD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDn8PmYyKD/video.m3u8",
+          "duration": 94,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-44",
+          "title": "Acl Basic Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euXfB5M9qb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euXfB5M9qb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euXfB5M9qb/video.m3u8",
+          "duration": 91,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-45",
+          "title": "Acl Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CHU7XKmNq4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CHU7XKmNq4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CHU7XKmNq4/video.m3u8",
+          "duration": 242,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-46",
+          "title": "Tab Completion And Up Arrow Keys With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BaryMz7yY3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BaryMz7yY3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BaryMz7yY3/video.m3u8",
+          "duration": 469,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-47",
+          "title": "Linux Pipe With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gYQrNf56pP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gYQrNf56pP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gYQrNf56pP/video.m3u8",
+          "duration": 454,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-48",
+          "title": "Compressing & Uncompressing.Mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRZXmz3nbE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRZXmz3nbE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRZXmz3nbE/video.m3u8",
+          "duration": 201,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-49",
+          "title": "Compressing And Uncompressing Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bEZDQuaKaXj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bEZDQuaKaXj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bEZDQuaKaXj/video.m3u8",
+          "duration": 512,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-50",
+          "title": "File Display Commands With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JTaG7fTSXK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JTaG7fTSXK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JTaG7fTSXK/video.m3u8",
+          "duration": 634,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-51",
+          "title": "Diff & Cmp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BnUrhprF27/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BnUrhprF27/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BnUrhprF27/video.m3u8",
+          "duration": 119,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-52",
+          "title": "Diff And Cmp Commands Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BCyz4D7fdF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BCyz4D7fdF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BCyz4D7fdF/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-53",
+          "title": "Gzip & Gunzip Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ZH2K3e5AA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ZH2K3e5AA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ZH2K3e5AA/video.m3u8",
+          "duration": 937,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-54",
+          "title": "Filters / Text Processing Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enyCGc7bAE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enyCGc7bAE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enyCGc7bAE/video.m3u8",
+          "duration": 119,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-55",
+          "title": "Text Processing Command Cat",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dghZg2YJsjZ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dghZg2YJsjZ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dghZg2YJsjZ/video.m3u8",
+          "duration": 63,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-56",
+          "title": "Cat Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrADGXX4uJY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrADGXX4uJY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrADGXX4uJY/video.m3u8",
+          "duration": 619,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-57",
+          "title": "Text Processing Command Awk",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ7C6j7Q5ZK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ7C6j7Q5ZK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ7C6j7Q5ZK/video.m3u8",
+          "duration": 99,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-58",
+          "title": "Awk Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/862MBqbPy7B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/862MBqbPy7B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/862MBqbPy7B/video.m3u8",
+          "duration": 841,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-59",
+          "title": "Text Processing Command Grep",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6XynkPC9sh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6XynkPC9sh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6XynkPC9sh/video.m3u8",
+          "duration": 76,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-60",
+          "title": "Grep Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MXF8h3tmzh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MXF8h3tmzh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MXF8h3tmzh/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-61",
+          "title": "Text Processing Command Uniq",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jm5RG7qq2j/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jm5RG7qq2j/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jm5RG7qq2j/video.m3u8",
+          "duration": 106,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-62",
+          "title": "Uniq Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpeMzTK5K38/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpeMzTK5K38/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpeMzTK5K38/video.m3u8",
+          "duration": 360,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-63",
+          "title": "Sort Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j37Nu6qc9GU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j37Nu6qc9GU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j37Nu6qc9GU/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-64",
+          "title": "Wc Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcdqRuC9EG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcdqRuC9EG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcdqRuC9EG/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-65",
+          "title": "Truncate Command With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72TbDtZdSRK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72TbDtZdSRK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72TbDtZdSRK/video.m3u8",
+          "duration": 335,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-66",
+          "title": "File Editing",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pTAxsPk6eS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pTAxsPk6eS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pTAxsPk6eS/video.m3u8",
+          "duration": 489,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-67",
+          "title": "Vi File Editor Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U4am2XUkAP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U4am2XUkAP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U4am2XUkAP/video.m3u8",
+          "duration": 794,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "System Management",
+      "lectures": [
+        {
+          "id": "td-linux-68",
+          "title": "Section 5 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ybkqPscbFx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ybkqPscbFx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ybkqPscbFx/video.m3u8",
+          "duration": 67,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-69",
+          "title": "Stream Editor",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hMRZBTQn6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hMRZBTQn6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hMRZBTQn6/video.m3u8",
+          "duration": 68,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-70",
+          "title": "Sed Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cf6dBDZ3De/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cf6dBDZ3De/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cf6dBDZ3De/video.m3u8",
+          "duration": 419,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-71",
+          "title": "Password Aging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cndGEzXaqu/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cndGEzXaqu/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cndGEzXaqu/video.m3u8",
+          "duration": 101,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-72",
+          "title": "Password Aging Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Jbghrghbp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Jbghrghbp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Jbghrghbp/video.m3u8",
+          "duration": 351,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-73",
+          "title": "Process / Services Commands (Systemctl, Ps, Top, Kill, Crontab, At)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59PrhQX2enX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59PrhQX2enX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59PrhQX2enX/video.m3u8",
+          "duration": 821,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-74",
+          "title": "Package Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U74bpg5qMc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U74bpg5qMc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U74bpg5qMc/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-75",
+          "title": "Systemctl Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56Znys2G9tM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56Znys2G9tM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56Znys2G9tM/video.m3u8",
+          "duration": 299,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-76",
+          "title": "Ps Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SAn9RB8uu4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SAn9RB8uu4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SAn9RB8uu4/video.m3u8",
+          "duration": 152,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-77",
+          "title": "Top Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YpfAGnrq7X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YpfAGnrq7X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YpfAGnrq7X/video.m3u8",
+          "duration": 158,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-78",
+          "title": "At Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeRs7f6y9Sp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeRs7f6y9Sp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeRs7f6y9Sp/video.m3u8",
+          "duration": 411,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-79",
+          "title": "Cronjob Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QCpe2MaBFex/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QCpe2MaBFex/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QCpe2MaBFex/video.m3u8",
+          "duration": 332,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-80",
+          "title": "Changing System Hostname With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32rGZJJEQMg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32rGZJJEQMg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32rGZJJEQMg/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-81",
+          "title": "Environmental Variables In Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjeR3sEz6q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjeR3sEz6q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjeR3sEz6q/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-82",
+          "title": "Finding System Information With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NytPqf78xs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NytPqf78xs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NytPqf78xs/video.m3u8",
+          "duration": 458,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-83",
+          "title": "System Utility Commands (Date, Uptime, Hostname, Uname, Which, Cal)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7thQJEydSr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7thQJEydSr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7thQJEydSr/video.m3u8",
+          "duration": 103,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-84",
+          "title": "System Utility Commands Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuupZfhh5k/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuupZfhh5k/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuupZfhh5k/video.m3u8",
+          "duration": 167,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-85",
+          "title": "Screen Command With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TtbmrMky4k7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TtbmrMky4k7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TtbmrMky4k7/video.m3u8",
+          "duration": 251,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-86",
+          "title": "Log Monitoring With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqMyaj6PEA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqMyaj6PEA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqMyaj6PEA/video.m3u8",
+          "duration": 959,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-87",
+          "title": "Sos Report With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/467k4fsmHge/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/467k4fsmHge/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/467k4fsmHge/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-88",
+          "title": "System Maintenance Commands (Shutdown, Init, Reboot, Halt) With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqAgKFY88BR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqAgKFY88BR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqAgKFY88BR/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-89",
+          "title": "System Monitoring With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3Gug7mAe8Q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3Gug7mAe8Q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3Gug7mAe8Q/video.m3u8",
+          "duration": 1096,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-90",
+          "title": "Terminal Commands (Clear, Exit, Script) With Hands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByApBEphFjf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByApBEphFjf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByApBEphFjf/video.m3u8",
+          "duration": 205,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-91",
+          "title": "User Account Management (Who, Last, W, Finger, Id) With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72cNQckUGr7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72cNQckUGr7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72cNQckUGr7/video.m3u8",
+          "duration": 878,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-92",
+          "title": "Talking To User With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rNXHNfbsze/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rNXHNfbsze/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rNXHNfbsze/video.m3u8",
+          "duration": 482,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-93",
+          "title": "Tmux Command With Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exkZ9BenDM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exkZ9BenDM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exkZ9BenDM/video.m3u8",
+          "duration": 308,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-94",
+          "title": "Guid Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Jpb7SPem2P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Jpb7SPem2P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Jpb7SPem2P/video.m3u8",
+          "duration": 485,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-95",
+          "title": "Process Management Commands Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAS9Ujc9EJj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAS9Ujc9EJj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAS9Ujc9EJj/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-96",
+          "title": "User Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uNuxR5x3A6d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uNuxR5x3A6d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uNuxR5x3A6d/video.m3u8",
+          "duration": 229,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-97",
+          "title": "User Management Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GPhGmdbad/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GPhGmdbad/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GPhGmdbad/video.m3u8",
+          "duration": 366,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Shell Scripting",
+      "lectures": [
+        {
+          "id": "td-linux-98",
+          "title": "Section 6 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XDXUNyehqa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XDXUNyehqa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XDXUNyehqa/video.m3u8",
+          "duration": 82,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-99",
+          "title": "Introduction To Shell",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xQb89RK2he/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xQb89RK2he/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xQb89RK2he/video.m3u8",
+          "duration": 250,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-100",
+          "title": "Making Our First Shell Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ca8Bh57u6z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ca8Bh57u6z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ca8Bh57u6z/video.m3u8",
+          "duration": 375,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-101",
+          "title": "If Else Scripts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nasZRCYmeX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nasZRCYmeX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nasZRCYmeX/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-102",
+          "title": "For Loop Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDesCJZ85z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDesCJZ85z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDesCJZ85z/video.m3u8",
+          "duration": 481,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-103",
+          "title": "Do While Loop Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xbTfgBFCRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xbTfgBFCRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xbTfgBFCRg/video.m3u8",
+          "duration": 839,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-104",
+          "title": "Case Statement Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKmjbdzUt3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKmjbdzUt3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKmjbdzUt3/video.m3u8",
+          "duration": 1243,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-105",
+          "title": "Set A User Id Using Shell Script",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A96uteYmqrf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A96uteYmqrf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A96uteYmqrf/video.m3u8",
+          "duration": 259,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-106",
+          "title": "Some Commonly Used Scripts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUGQeEeGhUj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUGQeEeGhUj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUGQeEeGhUj/video.m3u8",
+          "duration": 847,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-107",
+          "title": "History Of Shell",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UA4ScfQqkN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UA4ScfQqkN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UA4ScfQqkN/video.m3u8",
+          "duration": 302,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linux Networking",
+      "lectures": [
+        {
+          "id": "td-linux-108",
+          "title": "Section 7 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QSXpUjHh59/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QSXpUjHh59/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QSXpUjHh59/video.m3u8",
+          "duration": 100,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-109",
+          "title": "Client Server Relationship",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZBJrKHggRF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZBJrKHggRF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZBJrKHggRF/video.m3u8",
+          "duration": 329,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-110",
+          "title": "Enabling Internet On Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmuQuPdmGs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmuQuPdmGs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmuQuPdmGs/video.m3u8",
+          "duration": 210,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-111",
+          "title": "Necessary Network Configurations And Internet Connectivity",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kPYcJgs7s3e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kPYcJgs7s3e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kPYcJgs7s3e/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-112",
+          "title": "Network Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccRGM77x54/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccRGM77x54/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccRGM77x54/video.m3u8",
+          "duration": 436,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-113",
+          "title": "Understanding Network On Linux Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG8sKMq5dCk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG8sKMq5dCk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG8sKMq5dCk/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-114",
+          "title": "Network Files & Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332NPaGHJS5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332NPaGHJS5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332NPaGHJS5/video.m3u8",
+          "duration": 76,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-115",
+          "title": "Network Files And Components Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fHDb7XaC7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fHDb7XaC7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fHDb7XaC7/video.m3u8",
+          "duration": 445,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-116",
+          "title": "Common Network Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44j3n6dPD9e/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44j3n6dPD9e/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44j3n6dPD9e/video.m3u8",
+          "duration": 629,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-117",
+          "title": "Common Network Commands Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pBsdNdUtqs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pBsdNdUtqs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pBsdNdUtqs/video.m3u8",
+          "duration": 844,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-118",
+          "title": "Curl & Wget",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5sC7cBk52C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5sC7cBk52C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5sC7cBk52C/video.m3u8",
+          "duration": 247,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-119",
+          "title": "Curl And Wget Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u2PsnZuNTQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u2PsnZuNTQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u2PsnZuNTQ/video.m3u8",
+          "duration": 823,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-120",
+          "title": "Nic",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98xqXrBXZ49/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98xqXrBXZ49/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98xqXrBXZ49/video.m3u8",
+          "duration": 394,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-121",
+          "title": "Nic Bonding Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FZEzGtYT7d/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FZEzGtYT7d/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FZEzGtYT7d/video.m3u8",
+          "duration": 793,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-122",
+          "title": "New Network Utilities",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBSpp5gt9M9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBSpp5gt9M9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBSpp5gt9M9/video.m3u8",
+          "duration": 657,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-123",
+          "title": "New Network Utilities Summary Table",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cFx3m7rYqR9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cFx3m7rYqR9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cFx3m7rYqR9/video.m3u8",
+          "duration": 129,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-124",
+          "title": "Ssh & Telnet",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HEp3shubzT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HEp3shubzT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HEp3shubzT/video.m3u8",
+          "duration": 183,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-125",
+          "title": "Ssh Configuration Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NYSk5tB6prX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NYSk5tB6prX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NYSk5tB6prX/video.m3u8",
+          "duration": 603,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-126",
+          "title": "Ss Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f9EqYQG93B/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f9EqYQG93B/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f9EqYQG93B/video.m3u8",
+          "duration": 181,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-127",
+          "title": "Ss Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eGs9hpj5JE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eGs9hpj5JE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eGs9hpj5JE/video.m3u8",
+          "duration": 562,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-128",
+          "title": "Curl & Ping Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bb6Nm82bKc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bb6Nm82bKc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bb6Nm82bKc/video.m3u8",
+          "duration": 165,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-129",
+          "title": "Curl Hands On.Mp4",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eyQDbsp8K9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eyQDbsp8K9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eyQDbsp8K9/video.m3u8",
+          "duration": 682,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-130",
+          "title": "Ping Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823sdSRfKR3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823sdSRfKR3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823sdSRfKR3/video.m3u8",
+          "duration": 782,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-131",
+          "title": "Ftp (File Transfer Protocol)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fC7yENfmRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fC7yENfmRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fC7yENfmRg/video.m3u8",
+          "duration": 659,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-132",
+          "title": "Ftp Server Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SqsMCAnPkP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SqsMCAnPkP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SqsMCAnPkP/video.m3u8",
+          "duration": 1288,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-133",
+          "title": "Scp Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GYSEKB6u7a/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GYSEKB6u7a/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GYSEKB6u7a/video.m3u8",
+          "duration": 189,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-134",
+          "title": "Scp Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubDDfsAQHb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubDDfsAQHb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubDDfsAQHb/video.m3u8",
+          "duration": 999,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-135",
+          "title": "Resync Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73aN7UJ523X/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73aN7UJ523X/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73aN7UJ523X/video.m3u8",
+          "duration": 202,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-136",
+          "title": "System Updates And Repos (Rpm)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATMbSpTTbCG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATMbSpTTbCG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATMbSpTTbCG/video.m3u8",
+          "duration": 112,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-137",
+          "title": "Rpm Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjSqQ7GUh8F/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjSqQ7GUh8F/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjSqQ7GUh8F/video.m3u8",
+          "duration": 830,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-138",
+          "title": "System Updates And Repos (Yum)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fBaFt6FQks/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fBaFt6FQks/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fBaFt6FQks/video.m3u8",
+          "duration": 105,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-139",
+          "title": "Yum Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBpKeNBX9z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBpKeNBX9z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBpKeNBX9z/video.m3u8",
+          "duration": 879,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-140",
+          "title": "System Updates And Repos (Dnf)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCRKA7dRhcY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCRKA7dRhcY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCRKA7dRhcY/video.m3u8",
+          "duration": 141,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-141",
+          "title": "Dnf Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGRHPTN2dHU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGRHPTN2dHU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGRHPTN2dHU/video.m3u8",
+          "duration": 1001,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-142",
+          "title": "Dnf Vs Yum",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43C3kq6DYN7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43C3kq6DYN7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43C3kq6DYN7/video.m3u8",
+          "duration": 219,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-143",
+          "title": "System Upgrade And Patch Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MnaGyrAp8q/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MnaGyrAp8q/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MnaGyrAp8q/video.m3u8",
+          "duration": 359,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-144",
+          "title": "System Upgrades And Patch Management Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/772kQfDFYn3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/772kQfDFYn3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/772kQfDFYn3/video.m3u8",
+          "duration": 1274,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-145",
+          "title": "Entire Automated Patching Script For Patch Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GrGJn5T4Fh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GrGJn5T4Fh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GrGJn5T4Fh/video.m3u8",
+          "duration": 912,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-146",
+          "title": "Local Repository",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5zFKAnXF7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5zFKAnXF7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5zFKAnXF7/video.m3u8",
+          "duration": 235,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-147",
+          "title": "Creating A Local Repository Hands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QenRqzCzp7p/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QenRqzCzp7p/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QenRqzCzp7p/video.m3u8",
+          "duration": 786,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-148",
+          "title": "Advanced Package Management (Apt-Get)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eYehp2tyyh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eYehp2tyyh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eYehp2tyyh/video.m3u8",
+          "duration": 230,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-149",
+          "title": "Apt-Get Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTRn9n6GC4G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTRn9n6GC4G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTRn9n6GC4G/video.m3u8",
+          "duration": 1079,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-150",
+          "title": "Hostname / Ip Lookup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SfFmQ8qPq6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SfFmQ8qPq6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SfFmQ8qPq6/video.m3u8",
+          "duration": 99,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-151",
+          "title": "Nslookup And Dig Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuAQRt5HecK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuAQRt5HecK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuAQRt5HecK/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-152",
+          "title": "Dns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hGNaEEZxKU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hGNaEEZxKU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hGNaEEZxKU/video.m3u8",
+          "duration": 419,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-153",
+          "title": "Download Install And Configure Dns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ju3xj2EhmY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ju3xj2EhmY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ju3xj2EhmY/video.m3u8",
+          "duration": 1264,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-154",
+          "title": "Ntp",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RgftXmc9en/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RgftXmc9en/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RgftXmc9en/video.m3u8",
+          "duration": 558,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-155",
+          "title": "Chronyd Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH6Me2aUUS2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH6Me2aUUS2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH6Me2aUUS2/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-156",
+          "title": "Nginx",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R3tGxY8hFt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R3tGxY8hFt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R3tGxY8hFt/video.m3u8",
+          "duration": 307,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-157",
+          "title": "Nginx Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RDDbjmTmBj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RDDbjmTmBj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RDDbjmTmBj/video.m3u8",
+          "duration": 713,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-158",
+          "title": "New System Utility Commands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uHCrrKMbgPc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uHCrrKMbgPc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uHCrrKMbgPc/video.m3u8",
+          "duration": 233,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-159",
+          "title": "New System Utility Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ7yNpCakS9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ7yNpCakS9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ7yNpCakS9/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-160",
+          "title": "Squid Server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EKkDMraZqZz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EKkDMraZqZz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EKkDMraZqZz/video.m3u8",
+          "duration": 368,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-161",
+          "title": "Squid Server Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CxSm6BmTag/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CxSm6BmTag/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CxSm6BmTag/video.m3u8",
+          "duration": 820,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-162",
+          "title": "Web Servers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49qaFpsfU5J/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49qaFpsfU5J/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49qaFpsfU5J/video.m3u8",
+          "duration": 649,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-163",
+          "title": "Web Server Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AMNn98EbP8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AMNn98EbP8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AMNn98EbP8/video.m3u8",
+          "duration": 1368,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-164",
+          "title": "Central Logger",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UpheSZ8F7tH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UpheSZ8F7tH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UpheSZ8F7tH/video.m3u8",
+          "duration": 718,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-165",
+          "title": "Rsyslog Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqtZqA5qsm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqtZqA5qsm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqtZqA5qsm/video.m3u8",
+          "duration": 1520,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-166",
+          "title": "Os Hardening",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNFhGUfrJeF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNFhGUfrJeF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNFhGUfrJeF/video.m3u8",
+          "duration": 390,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-167",
+          "title": "Os Hardening Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DtnpNmPJ7H/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DtnpNmPJ7H/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DtnpNmPJ7H/video.m3u8",
+          "duration": 1546,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-168",
+          "title": "Traceroute",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dMSjQr3XGz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dMSjQr3XGz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dMSjQr3XGz/video.m3u8",
+          "duration": 231,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-169",
+          "title": "Traceroute Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YUUfddcu6A/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YUUfddcu6A/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YUUfddcu6A/video.m3u8",
+          "duration": 604,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-170",
+          "title": "Tuning System",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u79p68ePhM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u79p68ePhM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u79p68ePhM/video.m3u8",
+          "duration": 525,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-171",
+          "title": "Tuning System Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5JtFgEHUtT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5JtFgEHUtT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5JtFgEHUtT/video.m3u8",
+          "duration": 323,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-172",
+          "title": "Firewall Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EpYcJsqSPt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EpYcJsqSPt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EpYcJsqSPt/video.m3u8",
+          "duration": 882,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-173",
+          "title": "Firewall Management Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkhDhDGkPk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkhDhDGkPk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkhDhDGkPk/video.m3u8",
+          "duration": 1516,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-174",
+          "title": "Docker",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XJxAhBX5G5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XJxAhBX5G5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XJxAhBX5G5/video.m3u8",
+          "duration": 879,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-175",
+          "title": "Docker Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TFUtQqQxYY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TFUtQqQxYY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TFUtQqQxYY/video.m3u8",
+          "duration": 1056,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-176",
+          "title": "Docker Application",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ykeTcrtM2h/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ykeTcrtM2h/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ykeTcrtM2h/video.m3u8",
+          "duration": 699,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-177",
+          "title": "Open Vpn",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmupgRsZsTS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmupgRsZsTS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmupgRsZsTS/video.m3u8",
+          "duration": 613,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-178",
+          "title": "Dhcp Server",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BT8PTtJ7sdm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BT8PTtJ7sdm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BT8PTtJ7sdm/video.m3u8",
+          "duration": 530,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-179",
+          "title": "Ansible",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/334sP7GCEsP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/334sP7GCEsP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/334sP7GCEsP/video.m3u8",
+          "duration": 990,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-180",
+          "title": "Nagios",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeapEDFhau9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeapEDFhau9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeapEDFhau9/video.m3u8",
+          "duration": 744,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Disk Partition",
+      "lectures": [
+        {
+          "id": "td-linux-181",
+          "title": "Section 8 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YkpXE7Xjec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YkpXE7Xjec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YkpXE7Xjec/video.m3u8",
+          "duration": 84,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-182",
+          "title": "Linux Run Levels",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Kx9EN8HUXP/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Kx9EN8HUXP/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Kx9EN8HUXP/video.m3u8",
+          "duration": 649,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-183",
+          "title": "Booting Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU2tgmMjyu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU2tgmMjyu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU2tgmMjyu9/video.m3u8",
+          "duration": 779,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-184",
+          "title": "Steps Of Booting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D4urn8NPPU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D4urn8NPPU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D4urn8NPPU/video.m3u8",
+          "duration": 709,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-185",
+          "title": "Linux Booting Process",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F5xmryNZZ2/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F5xmryNZZ2/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F5xmryNZZ2/video.m3u8",
+          "duration": 192,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-186",
+          "title": "Systemd-Analyze Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63NSZJ76Jb9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63NSZJ76Jb9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63NSZJ76Jb9/video.m3u8",
+          "duration": 159,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-187",
+          "title": "Systemd-Analyze Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cCJDxruQEbR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cCJDxruQEbR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cCJDxruQEbR/video.m3u8",
+          "duration": 1284,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-188",
+          "title": "Motd (Message Of The Day)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rSfBUMprZ3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rSfBUMprZ3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rSfBUMprZ3/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-189",
+          "title": "Motd Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7zQJ5E9qRB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7zQJ5E9qRB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7zQJ5E9qRB/video.m3u8",
+          "duration": 1445,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-190",
+          "title": "Linux Storage",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APDKuytTgzK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APDKuytTgzK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APDKuytTgzK/video.m3u8",
+          "duration": 771,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-191",
+          "title": "Disk Partition",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du3PPqSQd9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du3PPqSQd9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du3PPqSQd9/video.m3u8",
+          "duration": 632,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-192",
+          "title": "Df Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n8SnSQUYuE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n8SnSQUYuE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n8SnSQUYuE/video.m3u8",
+          "duration": 542,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-193",
+          "title": "Lvm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AHjJ5jN8ZR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AHjJ5jN8ZR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AHjJ5jN8ZR/video.m3u8",
+          "duration": 479,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-194",
+          "title": "Adding / Extending Lvm",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q8nkDa5GsM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q8nkDa5GsM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q8nkDa5GsM/video.m3u8",
+          "duration": 137,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-195",
+          "title": "Lvm Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DC4baBHpdD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DC4baBHpdD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DC4baBHpdD/video.m3u8",
+          "duration": 998,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-196",
+          "title": "Swap Space",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enUHS3pj93/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enUHS3pj93/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enUHS3pj93/video.m3u8",
+          "duration": 449,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-197",
+          "title": "Swap Hands",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qXyx5uDX9T/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qXyx5uDX9T/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qXyx5uDX9T/video.m3u8",
+          "duration": 521,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-198",
+          "title": "Xfs_Info Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34QrPCxgdAN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34QrPCxgdAN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34QrPCxgdAN/video.m3u8",
+          "duration": 427,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-199",
+          "title": "Xfs_Info Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zEhdYszC2gm/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zEhdYszC2gm/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zEhdYszC2gm/video.m3u8",
+          "duration": 645,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-200",
+          "title": "Raid",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kBp9J8ynJD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kBp9J8ynJD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kBp9J8ynJD/video.m3u8",
+          "duration": 1086,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-201",
+          "title": "Raid Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h6ujcpgMFY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h6ujcpgMFY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h6ujcpgMFY/video.m3u8",
+          "duration": 1139,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-202",
+          "title": "File System Check",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4AUB7XkMaC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4AUB7XkMaC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4AUB7XkMaC/video.m3u8",
+          "duration": 362,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-203",
+          "title": "Fsck Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4gQ3nMXDp/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4gQ3nMXDp/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4gQ3nMXDp/video.m3u8",
+          "duration": 1097,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-204",
+          "title": "System Backup And Dd Command",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtE3mXyKxUz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtE3mXyKxUz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtE3mXyKxUz/video.m3u8",
+          "duration": 616,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-205",
+          "title": "Lsblk & Dd Command Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2xGaqHJBZF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2xGaqHJBZF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2xGaqHJBZF/video.m3u8",
+          "duration": 433,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-206",
+          "title": "Nfs (Network File System)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kTEhnEpKf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kTEhnEpKf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kTEhnEpKf/video.m3u8",
+          "duration": 993,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-207",
+          "title": "Nfs Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ugeh5u9Brt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ugeh5u9Brt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ugeh5u9Brt/video.m3u8",
+          "duration": 1185,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-208",
+          "title": "Sata & Sas",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xrx6FG7fYK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xrx6FG7fYK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xrx6FG7fYK/video.m3u8",
+          "duration": 779,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-209",
+          "title": "Installing Mysql Server And Mariadb On Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sQP8UKAgPru/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sQP8UKAgPru/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sQP8UKAgPru/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-210",
+          "title": "Installing Mysql Server And Mariadb On Linux Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EnfDeETT2M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EnfDeETT2M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EnfDeETT2M/video.m3u8",
+          "duration": 638,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-211",
+          "title": "Lamp Stack",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uxgJKFPubk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uxgJKFPubk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uxgJKFPubk/video.m3u8",
+          "duration": 571,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-212",
+          "title": "Important Linux Distribution (Detailed)",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fSD6FQT53D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fSD6FQT53D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fSD6FQT53D/video.m3u8",
+          "duration": 691,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Projects",
+      "lectures": [
+        {
+          "id": "td-linux-213",
+          "title": "Section 9 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96RZJEHbZCA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96RZJEHbZCA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96RZJEHbZCA/video.m3u8",
+          "duration": 17,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-214",
+          "title": "Opening An Image File On Linux",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F7GDKb2KsU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F7GDKb2KsU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F7GDKb2KsU/video.m3u8",
+          "duration": 696,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-215",
+          "title": "Project Overview Javaappshellscript",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M9J4ZGzex9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M9J4ZGzex9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M9J4ZGzex9/video.m3u8",
+          "duration": 239,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-216",
+          "title": "Project Hands On 1",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6etXQ5JfJrh/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6etXQ5JfJrh/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6etXQ5JfJrh/video.m3u8",
+          "duration": 1422,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-217",
+          "title": "Project Hands On 2",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ydj7EkphNq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ydj7EkphNq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ydj7EkphNq/video.m3u8",
+          "duration": 441,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-218",
+          "title": "Nginx Project Hands On",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86ZA7sjTMz5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86ZA7sjTMz5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86ZA7sjTMz5/video.m3u8",
+          "duration": 1778,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "All About Resume",
+      "lectures": [
+        {
+          "id": "td-linux-219",
+          "title": "Section 10 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9geFFn6k98P/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9geFFn6k98P/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9geFFn6k98P/video.m3u8",
+          "duration": 50,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-220",
+          "title": "Resume Workshop",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Uzf34kcUKy/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Uzf34kcUKy/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Uzf34kcUKy/video.m3u8",
+          "duration": 1407,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-221",
+          "title": "How To Apply?",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nN3mJa7Ug7Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nN3mJa7Ug7Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nN3mJa7Ug7Z/video.m3u8",
+          "duration": 386,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-222",
+          "title": "Linux Administrator Duties",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XB9sSkKcFH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XB9sSkKcFH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XB9sSkKcFH/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Exam & Interview Prep",
+      "lectures": [
+        {
+          "id": "td-linux-223",
+          "title": "Section 11 Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THyMCHJ7xN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THyMCHJ7xN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THyMCHJ7xN/video.m3u8",
+          "duration": 35,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-224",
+          "title": "Easy File & Process Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JzgSffm62CM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JzgSffm62CM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JzgSffm62CM/video.m3u8",
+          "duration": 311,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-225",
+          "title": "Easy File Permissions & Searching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJfCAKZ7xa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJfCAKZ7xa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJfCAKZ7xa/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-226",
+          "title": "Easy Compression & Networking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mpxkYk885b/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mpxkYk885b/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mpxkYk885b/video.m3u8",
+          "duration": 301,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-227",
+          "title": "Easy System Info & Shortcuts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzxDJSnbMd9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzxDJSnbMd9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzxDJSnbMd9/video.m3u8",
+          "duration": 283,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-228",
+          "title": "Medium - File Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2kgbK5BSgn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2kgbK5BSgn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2kgbK5BSgn/video.m3u8",
+          "duration": 320,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-229",
+          "title": "Medium Process Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApyBnF9Yj2Y/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApyBnF9Yj2Y/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApyBnF9Yj2Y/video.m3u8",
+          "duration": 315,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-230",
+          "title": "Medium - File Permissions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/734cqHNeXu9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/734cqHNeXu9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/734cqHNeXu9/video.m3u8",
+          "duration": 268,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-231",
+          "title": "Medium - Searching",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Fnu5fXD94m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Fnu5fXD94m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Fnu5fXD94m/video.m3u8",
+          "duration": 304,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-232",
+          "title": "Medium - Compression",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N5EFC7RrTJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N5EFC7RrTJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N5EFC7RrTJ/video.m3u8",
+          "duration": 306,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-233",
+          "title": "Medium - Networking",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aeq7zbB6FcY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aeq7zbB6FcY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aeq7zbB6FcY/video.m3u8",
+          "duration": 354,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-234",
+          "title": "Medium - System Information",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r6C9p5Uu85C/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r6C9p5Uu85C/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r6C9p5Uu85C/video.m3u8",
+          "duration": 333,
+          "type": "video"
+        },
+        {
+          "id": "td-linux-235",
+          "title": "Medium - Shortcuts",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2mghu6d7rN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2mghu6d7rN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2mghu6d7rN/video.m3u8",
+          "duration": 260,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-linux-17",
+          "title": "Project 1",
+          "url": "https://docs.google.com/document/d/17Wp0Bolw-bDOo36qACzWQVUSd_0qa_CURCTp5hjAVBs/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/17Wp0Bolw-bDOo36qACzWQVUSd_0qa_CURCTp5hjAVBs/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/17Wp0Bolw-bDOo36qACzWQVUSd_0qa_CURCTp5hjAVBs/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/17Wp0Bolw-bDOo36qACzWQVUSd_0qa_CURCTp5hjAVBs/edit?usp=sharing",
+          "type": "doc"
+        },
+        {
+          "id": "td-ass-linux-18",
+          "title": "Project 2",
+          "url": "https://docs.google.com/document/d/13lHy7Fdv3xILDjKD2DGIaqjVGMV_FFZa1yNsPjWQ1cI/edit?usp=sharing",
+          "pdfUrl": "https://docs.google.com/document/d/13lHy7Fdv3xILDjKD2DGIaqjVGMV_FFZa1yNsPjWQ1cI/edit?usp=sharing",
+          "playerUrl": "https://docs.google.com/document/d/13lHy7Fdv3xILDjKD2DGIaqjVGMV_FFZa1yNsPjWQ1cI/edit?usp=sharing",
+          "downloadUrl": "https://docs.google.com/document/d/13lHy7Fdv3xILDjKD2DGIaqjVGMV_FFZa1yNsPjWQ1cI/edit?usp=sharing",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}

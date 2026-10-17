@@ -1,0 +1,1296 @@
+{
+  "platform": "TuteDude",
+  "batchId": "unrealengine",
+  "batchSlug": "unrealengine",
+  "batchName": "Unreal Engine",
+  "thumbnail": "https://www.tutedude.com/assets/avif/unrealengine.avif",
+  "portalUrl": "https://tutedude.gemtara.in/#/course/unrealengine",
+  "totalSections": 14,
+  "totalLectures": 124,
+  "totalNotes": 8,
+  "price": "699.00",
+  "category": "Software Development",
+  "updatedAt": "2026-10-17T14:51:27.189166+00:00",
+  "sections": [
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "td-unrealengine-1",
+          "title": "Introduction to Course",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AXD97YYQkA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AXD97YYQkA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AXD97YYQkA/video.m3u8",
+          "duration": 1073,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-2",
+          "title": "Game Development and UE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbNByJE4Qr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbNByJE4Qr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbNByJE4Qr/video.m3u8",
+          "duration": 2842,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-3",
+          "title": "Introduction to Unreal Engine 5 Features",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rf74Y4b4X7/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rf74Y4b4X7/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rf74Y4b4X7/video.m3u8",
+          "duration": 1841,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-4",
+          "title": "Game Development Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cfY5Mf8s2S/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cfY5Mf8s2S/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cfY5Mf8s2S/video.m3u8",
+          "duration": 2286,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-5",
+          "title": "UE Launcher",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EskrFrRhE8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EskrFrRhE8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EskrFrRhE8/video.m3u8",
+          "duration": 442,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-6",
+          "title": "Creating Project",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dQb2gsyGgX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dQb2gsyGgX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dQb2gsyGgX/video.m3u8",
+          "duration": 455,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-7",
+          "title": "Optimizing Viewport Performance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AnSCtckphB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AnSCtckphB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AnSCtckphB/video.m3u8",
+          "duration": 321,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-8",
+          "title": "Introduction for Unity Developers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdNphKNNqe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdNphKNNqe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdNphKNNqe/video.m3u8",
+          "duration": 1260,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-9",
+          "title": "Unity to UE Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YeAssYbDeJ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YeAssYbDeJ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YeAssYbDeJ/video.m3u8",
+          "duration": 722,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-10",
+          "title": "Viewport Navigation and Object Transformation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRRK7m6TTE/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRRK7m6TTE/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRRK7m6TTE/video.m3u8",
+          "duration": 872,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-11",
+          "title": "More Optimization",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDyEjQPGCM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDyEjQPGCM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDyEjQPGCM/video.m3u8",
+          "duration": 352,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-12",
+          "title": "Levels, Actors and Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHTbxFpngN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHTbxFpngN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHTbxFpngN/video.m3u8",
+          "duration": 692,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-13",
+          "title": "Actors and Outliner",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYMesaTkKKz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYMesaTkKKz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYMesaTkKKz/video.m3u8",
+          "duration": 1086,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-14",
+          "title": "Assets and Content Drawer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h74JK3PFxT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h74JK3PFxT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h74JK3PFxT/video.m3u8",
+          "duration": 607,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-15",
+          "title": "Types of Lights",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uCAS7PrDM5/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uCAS7PrDM5/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uCAS7PrDM5/video.m3u8",
+          "duration": 1235,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-16",
+          "title": "Shaders and Materials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CXG9SR4Sxb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CXG9SR4Sxb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CXG9SR4Sxb/video.m3u8",
+          "duration": 642,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-17",
+          "title": "Creating Your First Actor Blueprint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hm6MtB5RUjX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hm6MtB5RUjX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hm6MtB5RUjX/video.m3u8",
+          "duration": 837,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-18",
+          "title": "Changing Material on Actor Overlap",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ4Py8cMcrg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ4Py8cMcrg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ4Py8cMcrg/video.m3u8",
+          "duration": 762,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-2",
+          "title": "Diorama Scene and Engine Foundation",
+          "url": "https://docs.google.com/document/d/1jEZ-A_R3K4CNSQk2biIVTiVQtrervFzY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1jEZ-A_R3K4CNSQk2biIVTiVQtrervFzY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1jEZ-A_R3K4CNSQk2biIVTiVQtrervFzY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1jEZ-A_R3K4CNSQk2biIVTiVQtrervFzY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Blueprints",
+      "lectures": [
+        {
+          "id": "td-unrealengine-19",
+          "title": "Blueprints Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CB4zGFsXMf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CB4zGFsXMf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CB4zGFsXMf/video.m3u8",
+          "duration": 1717,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-20",
+          "title": "Basic Programming Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cH2TDeJbAF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cH2TDeJbAF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cH2TDeJbAF/video.m3u8",
+          "duration": 1116,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-21",
+          "title": "Introduction to Blueprint Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUuCsu98M/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUuCsu98M/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUuCsu98M/video.m3u8",
+          "duration": 1490,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-22",
+          "title": "Moving an Actor Using Event Tick in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98hQ7kJZKC9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98hQ7kJZKC9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98hQ7kJZKC9/video.m3u8",
+          "duration": 761,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-23",
+          "title": "Creating and Using Structs in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HGgxZ3fcjyX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HGgxZ3fcjyX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HGgxZ3fcjyX/video.m3u8",
+          "duration": 806,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-24",
+          "title": "Blueprint Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GrUT4AM4eQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GrUT4AM4eQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GrUT4AM4eQ/video.m3u8",
+          "duration": 1534,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-25",
+          "title": "Creating and Using Macros in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eFGGpTYutuR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eFGGpTYutuR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eFGGpTYutuR/video.m3u8",
+          "duration": 848,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-26",
+          "title": "Execution Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "duration": 2016,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-27",
+          "title": "Understanding Blueprint Loops",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CGUFuE29Nz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CGUFuE29Nz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CGUFuE29Nz/video.m3u8",
+          "duration": 1204,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-28",
+          "title": "Using Arrays in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tYtUUruEF4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tYtUUruEF4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tYtUUruEF4/video.m3u8",
+          "duration": 1395,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-29",
+          "title": "Flip Flop Node",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sFXGMzfzjnc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sFXGMzfzjnc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sFXGMzfzjnc/video.m3u8",
+          "duration": 1103,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-30",
+          "title": "OOP in UE5",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aUrMrDf7eb/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aUrMrDf7eb/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aUrMrDf7eb/video.m3u8",
+          "duration": 2636,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-31",
+          "title": "Object Class",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ufkdznBnfC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ufkdznBnfC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ufkdznBnfC/video.m3u8",
+          "duration": 605,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-32",
+          "title": "Inheritance Hierarchy in UE",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH9GBuPYNsM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH9GBuPYNsM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH9GBuPYNsM/video.m3u8",
+          "duration": 1392,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-4",
+          "title": "Modular_Gameplay_System_and_Interaction_Architecture",
+          "url": "https://docs.google.com/document/d/1rw0y56QyoBySTQb5auGSnWTHXfkMldai/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1rw0y56QyoBySTQb5auGSnWTHXfkMldai/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1rw0y56QyoBySTQb5auGSnWTHXfkMldai/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1rw0y56QyoBySTQb5auGSnWTHXfkMldai/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Technical Architecture",
+      "lectures": [
+        {
+          "id": "td-unrealengine-33",
+          "title": "Visual Scripting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NSYzzAJCRd/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NSYzzAJCRd/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NSYzzAJCRd/video.m3u8",
+          "duration": 1943,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-34",
+          "title": "Blueprint Virtual Machine and C++ Performance Comparison",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ac65MRUMdDc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ac65MRUMdDc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ac65MRUMdDc/video.m3u8",
+          "duration": 971,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-35",
+          "title": "Skeletal Meshes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "duration": 2105,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-36",
+          "title": "UObject, Actor Lifecycle, and Component Attachment",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axn9CmxrzDx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axn9CmxrzDx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axn9CmxrzDx/video.m3u8",
+          "duration": 1732,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-37",
+          "title": "Blueprint Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxUkYuQRZ4D/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxUkYuQRZ4D/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxUkYuQRZ4D/video.m3u8",
+          "duration": 1243,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-38",
+          "title": "Memory Management",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq7gBnJhyqg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq7gBnJhyqg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq7gBnJhyqg/video.m3u8",
+          "duration": 1425,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-39",
+          "title": "Execution Flow",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8",
+          "duration": 2016,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-40",
+          "title": "Events and Macros",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM62yfhf7r/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM62yfhf7r/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM62yfhf7r/video.m3u8",
+          "duration": 1419,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-41",
+          "title": "Composition and Blueprint Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8JjatE3hUa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8JjatE3hUa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8JjatE3hUa/video.m3u8",
+          "duration": 2072,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-42",
+          "title": "Understanding Animation Blueprints and Anim Graphs",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8445sxKkcsn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8445sxKkcsn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8445sxKkcsn/video.m3u8",
+          "duration": 1776,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-43",
+          "title": "UMG and Widgets",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cfhZ8P3DFRg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cfhZ8P3DFRg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cfhZ8P3DFRg/video.m3u8",
+          "duration": 1805,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-44",
+          "title": "Networking and Multiplayer",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BpPdKePPmM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BpPdKePPmM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BpPdKePPmM/video.m3u8",
+          "duration": 2082,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-45",
+          "title": "Communication Patterns",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPHDT6GSfU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPHDT6GSfU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPHDT6GSfU/video.m3u8",
+          "duration": 1897,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-46",
+          "title": "Performance and Debugging",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TZenMPgZHF/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TZenMPgZHF/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TZenMPgZHF/video.m3u8",
+          "duration": 1693,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-47",
+          "title": "Creating an Interaction System Using Casting",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQF9fjNAtQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQF9fjNAtQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQF9fjNAtQ/video.m3u8",
+          "duration": 1844,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-48",
+          "title": "Creating and Implementing Blueprint Interfaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApPRZD9XppA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApPRZD9XppA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApPRZD9XppA/video.m3u8",
+          "duration": 961,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-49",
+          "title": "Event Dispatchers",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djFH2JRZaS/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djFH2JRZaS/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djFH2JRZaS/video.m3u8",
+          "duration": 1676,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-50",
+          "title": "Blueprint Components",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2pynRESRf3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2pynRESRf3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2pynRESRf3/video.m3u8",
+          "duration": 1489,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-51",
+          "title": "Hybrid Approach",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm8zKbFkT9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm8zKbFkT9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm8zKbFkT9/video.m3u8",
+          "duration": 1513,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-52",
+          "title": "Profiling Blueprint Performance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ctRuj7ZUBx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ctRuj7ZUBx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ctRuj7ZUBx/video.m3u8",
+          "duration": 1594,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Skeletal Meshes",
+      "lectures": [
+        {
+          "id": "td-unrealengine-53",
+          "title": "Introduction to Armature",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kheSxCHNcz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kheSxCHNcz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kheSxCHNcz/video.m3u8",
+          "duration": 2034,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-54",
+          "title": "Skeletal Meshes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8",
+          "duration": 2105,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-55",
+          "title": "Practical Exploration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/csA4pYzqFX9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/csA4pYzqFX9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/csA4pYzqFX9/video.m3u8",
+          "duration": 1800,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-56",
+          "title": "Import Workflows",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXHza7k5MCs/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXHza7k5MCs/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXHza7k5MCs/video.m3u8",
+          "duration": 1325,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-57",
+          "title": "Animation Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ya3QuCtGr6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ya3QuCtGr6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ya3QuCtGr6/video.m3u8",
+          "duration": 2115,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-58",
+          "title": "Sockets and Ragdolls",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qDDNjpQmGq/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qDDNjpQmGq/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qDDNjpQmGq/video.m3u8",
+          "duration": 2320,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-7",
+          "title": "Skeletal Mesh Socket Attachment & Ragdoll System",
+          "url": "https://docs.google.com/document/d/1aAS9EebggqHANYoGgWfAyI1iBZLY3WT3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1aAS9EebggqHANYoGgWfAyI1iBZLY3WT3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1aAS9EebggqHANYoGgWfAyI1iBZLY3WT3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1aAS9EebggqHANYoGgWfAyI1iBZLY3WT3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Materials",
+      "lectures": [
+        {
+          "id": "td-unrealengine-59",
+          "title": "Color and Textures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tUMSshCgXU/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tUMSshCgXU/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tUMSshCgXU/video.m3u8",
+          "duration": 1920,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-60",
+          "title": "Rendering Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G9AJ5Bb4Sdf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G9AJ5Bb4Sdf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G9AJ5Bb4Sdf/video.m3u8",
+          "duration": 1840,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-61",
+          "title": "Shader Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tJU53YPBZk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tJU53YPBZk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tJU53YPBZk/video.m3u8",
+          "duration": 935,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-62",
+          "title": "PBR Theory",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TyaAg2qzKE3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TyaAg2qzKE3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TyaAg2qzKE3/video.m3u8",
+          "duration": 1579,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-63",
+          "title": "Texture Maps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axhru9kBguc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axhru9kBguc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axhru9kBguc/video.m3u8",
+          "duration": 1431,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-64",
+          "title": "Material Basics",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J6Yg94DjzM/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J6Yg94DjzM/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J6Yg94DjzM/video.m3u8",
+          "duration": 1709,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-65",
+          "title": "Material Instance",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hjk4U6bgAH/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hjk4U6bgAH/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hjk4U6bgAH/video.m3u8",
+          "duration": 1267,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-66",
+          "title": "PBR Textures",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35jpng6E9qB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35jpng6E9qB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35jpng6E9qB/video.m3u8",
+          "duration": 912,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-67",
+          "title": "PBR Materials",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gE6qA6cXF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gE6qA6cXF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gE6qA6cXF6/video.m3u8",
+          "duration": 1804,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-68",
+          "title": "Material Instances",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5pgNN738yY/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5pgNN738yY/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5pgNN738yY/video.m3u8",
+          "duration": 1786,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-69",
+          "title": "Material Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mt6tkFu8Ry/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mt6tkFu8Ry/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mt6tkFu8Ry/video.m3u8",
+          "duration": 1295,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-70",
+          "title": "Shading Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDcGMHCQPPj/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDcGMHCQPPj/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDcGMHCQPPj/video.m3u8",
+          "duration": 888,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-71",
+          "title": "Advanced UE Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYKXdXyEuX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYKXdXyEuX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYKXdXyEuX/video.m3u8",
+          "duration": 1821,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-9",
+          "title": "Master Material & Dynamic Parametric Instances",
+          "url": "https://docs.google.com/document/d/1LMmrVTNH0s7El9dO02nRs8laJmBv9zEp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1LMmrVTNH0s7El9dO02nRs8laJmBv9zEp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1LMmrVTNH0s7El9dO02nRs8laJmBv9zEp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1LMmrVTNH0s7El9dO02nRs8laJmBv9zEp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Lighting",
+      "lectures": [
+        {
+          "id": "td-unrealengine-72",
+          "title": "Default Sky Light",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UZmQrAbHr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UZmQrAbHr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UZmQrAbHr/video.m3u8",
+          "duration": 1535,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-73",
+          "title": "Lighting Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZdRgYKYrUn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZdRgYKYrUn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZdRgYKYrUn/video.m3u8",
+          "duration": 1575,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-11",
+          "title": "Dynamic Day-to-Night Lighting Setup",
+          "url": "https://docs.google.com/document/d/1AQaEGGahvRXYxNtgWwgvwQCRfCO8zcTU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1AQaEGGahvRXYxNtgWwgvwQCRfCO8zcTU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1AQaEGGahvRXYxNtgWwgvwQCRfCO8zcTU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1AQaEGGahvRXYxNtgWwgvwQCRfCO8zcTU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Modelling Tools",
+      "lectures": [
+        {
+          "id": "td-unrealengine-74",
+          "title": "Modelling Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7xpXjtahz/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7xpXjtahz/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7xpXjtahz/video.m3u8",
+          "duration": 868,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-75",
+          "title": "Primitive Models",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45r24mEueKA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45r24mEueKA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45r24mEueKA/video.m3u8",
+          "duration": 1535,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-76",
+          "title": "Cube Builder",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bn2MFZ2NQe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bn2MFZ2NQe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bn2MFZ2NQe/video.m3u8",
+          "duration": 1798,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-13",
+          "title": "Terrain Creation & Landscape Painting",
+          "url": "https://docs.google.com/document/d/15bH9LZSXAgNcUjjunRXc8E1sFt0P3Bnd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/15bH9LZSXAgNcUjjunRXc8E1sFt0P3Bnd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/15bH9LZSXAgNcUjjunRXc8E1sFt0P3Bnd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/15bH9LZSXAgNcUjjunRXc8E1sFt0P3Bnd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Landscaping Tools",
+      "lectures": [
+        {
+          "id": "td-unrealengine-77",
+          "title": "Landscaping Introduction",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84DNchXHjgn/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84DNchXHjgn/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84DNchXHjgn/video.m3u8",
+          "duration": 1950,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-78",
+          "title": "Importing Heightmaps",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eJNtbSN3UT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eJNtbSN3UT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eJNtbSN3UT/video.m3u8",
+          "duration": 759,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-79",
+          "title": "Painting Landscapes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjykN2U6aaB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjykN2U6aaB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjykN2U6aaB/video.m3u8",
+          "duration": 2199,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Game Audio",
+      "lectures": [
+        {
+          "id": "td-unrealengine-80",
+          "title": "Introduction to Game Audio Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHMZud73YB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHMZud73YB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHMZud73YB/video.m3u8",
+          "duration": 1800,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-81",
+          "title": "UE Audio Pipeline",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A789cPr4uek/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A789cPr4uek/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A789cPr4uek/video.m3u8",
+          "duration": 1965,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-82",
+          "title": "Introduction to MetaSounds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZkzZrqYcs8/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZkzZrqYcs8/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZkzZrqYcs8/video.m3u8",
+          "duration": 1429,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-83",
+          "title": "Spatial Audio & Sound Attenuation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FdC6NM8zar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FdC6NM8zar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FdC6NM8zar/video.m3u8",
+          "duration": 1827,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-84",
+          "title": "Adaptive Music",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4seg34JGaGQ/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4seg34JGaGQ/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4seg34JGaGQ/video.m3u8",
+          "duration": 1755,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-85",
+          "title": "Sound Classes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJT9ZfQkBt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJT9ZfQkBt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJT9ZfQkBt/video.m3u8",
+          "duration": 1414,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-86",
+          "title": "Designing Ambience and Audio Volumes",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KYsPXEp7GX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KYsPXEp7GX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KYsPXEp7GX/video.m3u8",
+          "duration": 1754,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-87",
+          "title": "Dialogue Systems",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48xmHrPyza3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48xmHrPyza3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48xmHrPyza3/video.m3u8",
+          "duration": 1612,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-88",
+          "title": "Footsteps and Physical Sounds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GtcFrACS4x/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GtcFrACS4x/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GtcFrACS4x/video.m3u8",
+          "duration": 892,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-89",
+          "title": "UI Sounds",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMR9HbcrA9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMR9HbcrA9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMR9HbcrA9/video.m3u8",
+          "duration": 1266,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Game Design",
+      "lectures": [
+        {
+          "id": "td-unrealengine-90",
+          "title": "Introduction to Game Design Principles",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9pTFtmJEf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9pTFtmJEf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9pTFtmJEf/video.m3u8",
+          "duration": 727,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-91",
+          "title": "Core Loops and Moment-to-Moment Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3BEz4Cf8yD/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3BEz4Cf8yD/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3BEz4Cf8yD/video.m3u8",
+          "duration": 1342,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-92",
+          "title": "Player Agency and Meaningful Choices",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HyhFrDFBHK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HyhFrDFBHK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HyhFrDFBHK/video.m3u8",
+          "duration": 1102,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-93",
+          "title": "Game Feel and Game Juice",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98qCk3CsePX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98qCk3CsePX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98qCk3CsePX/video.m3u8",
+          "duration": 1379,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-94",
+          "title": "Game Difficulty and the Flow State",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xFubmhxAp3/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xFubmhxAp3/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xFubmhxAp3/video.m3u8",
+          "duration": 1248,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-95",
+          "title": "Designing Difficulty Curves",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zucJJrjb3kt/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zucJJrjb3kt/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zucJJrjb3kt/video.m3u8",
+          "duration": 1220,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-96",
+          "title": "Reward Systems and Reinforcement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jDkCf9CYec/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jDkCf9CYec/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jDkCf9CYec/video.m3u8",
+          "duration": 1331,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-97",
+          "title": "Intrinsic and Extrinsic Rewards",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QzBDMkUKFG/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QzBDMkUKFG/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QzBDMkUKFG/video.m3u8",
+          "duration": 1756,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-17",
+          "title": "Immersive Dynamic Soundscape & MetaSounds",
+          "url": "https://docs.google.com/document/d/1WcnvxrGuzJdsi_N35T5sY01yJBrGP8gB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/1WcnvxrGuzJdsi_N35T5sY01yJBrGP8gB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/1WcnvxrGuzJdsi_N35T5sY01yJBrGP8gB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/1WcnvxrGuzJdsi_N35T5sY01yJBrGP8gB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "sectionName": "Implementation",
+      "lectures": [
+        {
+          "id": "td-unrealengine-98",
+          "title": "Importing Sound Waves and MetaSounds in Unreal Engine",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HQnEZ8spaX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HQnEZ8spaX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HQnEZ8spaX/video.m3u8",
+          "duration": 1454,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project 1",
+      "lectures": [
+        {
+          "id": "td-unrealengine-99",
+          "title": "Introduction to Game",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ka5c5cB4Ar/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ka5c5cB4Ar/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ka5c5cB4Ar/video.m3u8",
+          "duration": 689,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-100",
+          "title": "Project Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-101",
+          "title": "Level Blockout",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SHnzHq5FQ9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SHnzHq5FQ9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SHnzHq5FQ9/video.m3u8",
+          "duration": 1014,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-102",
+          "title": "Lighting the Level",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6NAERUmKpc/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6NAERUmKpc/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6NAERUmKpc/video.m3u8",
+          "duration": 1060,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-103",
+          "title": "Interactive Door",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92GgbatMb4G/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92GgbatMb4G/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92GgbatMb4G/video.m3u8",
+          "duration": 1550,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-104",
+          "title": "Implementing Line Trace Raycasting in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qkXxtkcmSA/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qkXxtkcmSA/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qkXxtkcmSA/video.m3u8",
+          "duration": 1454,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-105",
+          "title": "Grabbing Objects",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GphJXFh6gB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GphJXFh6gB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GphJXFh6gB/video.m3u8",
+          "duration": 1523,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-106",
+          "title": "Using Actor Tags in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyGNy7G6Tx/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyGNy7G6Tx/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyGNy7G6Tx/video.m3u8",
+          "duration": 725,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project 2",
+      "lectures": [
+        {
+          "id": "td-unrealengine-107",
+          "title": "Project Creation",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xRJBD26xGX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xRJBD26xGX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xRJBD26xGX/video.m3u8",
+          "duration": 872,
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project 3",
+      "lectures": [
+        {
+          "id": "td-unrealengine-108",
+          "title": "Project Overview",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FrcGGx6qKBC/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FrcGGx6qKBC/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FrcGGx6qKBC/video.m3u8",
+          "duration": 827,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-109",
+          "title": "Project Setup",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8",
+          "duration": 623,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-110",
+          "title": "PlayerBase Setup and Input",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pXyH9FBZBN/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pXyH9FBZBN/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pXyH9FBZBN/video.m3u8",
+          "duration": 901,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-111",
+          "title": "Basic Input",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcegu4sGF6/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcegu4sGF6/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcegu4sGF6/video.m3u8",
+          "duration": 1137,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-112",
+          "title": "Character Movement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay7RfeZZbsX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay7RfeZZbsX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay7RfeZZbsX/video.m3u8",
+          "duration": 1310,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-113",
+          "title": "Character Rotation Settings and Blueprint Comments",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cka8t4ksSe/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cka8t4ksSe/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cka8t4ksSe/video.m3u8",
+          "duration": 471,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-114",
+          "title": "Implementing Character Jumping in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/952cSYYdqG9/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/952cSYYdqG9/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/952cSYYdqG9/video.m3u8",
+          "duration": 620,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-115",
+          "title": "Implementing Walk Speed in Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyDf4QSafT/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyDf4QSafT/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyDf4QSafT/video.m3u8",
+          "duration": 1103,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-116",
+          "title": "Refactoring Sprint Logic Using Blueprint Functions",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RBy2rzhsXX/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RBy2rzhsXX/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RBy2rzhsXX/video.m3u8",
+          "duration": 1007,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-117",
+          "title": "Animation Blueprint",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cqnjPfKXbg/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cqnjPfKXbg/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cqnjPfKXbg/video.m3u8",
+          "duration": 1449,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-118",
+          "title": "Setting Up State Machines in Animation Blueprints",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u6ryxry2Uf/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u6ryxry2Uf/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u6ryxry2Uf/video.m3u8",
+          "duration": 992,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-119",
+          "title": "Creating and Setting Up Blend Spaces",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnYgtSdMxZ4/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnYgtSdMxZ4/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnYgtSdMxZ4/video.m3u8",
+          "duration": 820,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-120",
+          "title": "Configuring Blend Space Axis Values for Character Movement",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Qan7YZTFnK/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Qan7YZTFnK/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Qan7YZTFnK/video.m3u8",
+          "duration": 543,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-121",
+          "title": "Animation States",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj2952gnNfk/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj2952gnNfk/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj2952gnNfk/video.m3u8",
+          "duration": 490,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-122",
+          "title": "Game Design",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqducqNzMa/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqducqNzMa/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqducqNzMa/video.m3u8",
+          "duration": 1162,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-123",
+          "title": "Game Gyms",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APzdJH9kpEB/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APzdJH9kpEB/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APzdJH9kpEB/video.m3u8",
+          "duration": 963,
+          "type": "video"
+        },
+        {
+          "id": "td-unrealengine-124",
+          "title": "Game Gyms Exploration",
+          "streamUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCKFSCdD6Z/video.m3u8",
+          "playerUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCKFSCdD6Z/video.m3u8",
+          "downloadUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCKFSCdD6Z/video.m3u8",
+          "duration": 963,
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "td-ass-unrealengine-22",
+          "title": "Game Loop Specification & Mechanics Design",
+          "url": "https://docs.google.com/document/d/11iOO0zXIM2UXffGTk2IjXoQKjSYLd7NV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "pdfUrl": "https://docs.google.com/document/d/11iOO0zXIM2UXffGTk2IjXoQKjSYLd7NV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "playerUrl": "https://docs.google.com/document/d/11iOO0zXIM2UXffGTk2IjXoQKjSYLd7NV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "downloadUrl": "https://docs.google.com/document/d/11iOO0zXIM2UXffGTk2IjXoQKjSYLd7NV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "type": "doc"
+        }
+      ]
+    }
+  ]
+}
