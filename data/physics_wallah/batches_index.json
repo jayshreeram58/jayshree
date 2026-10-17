@@ -1,62 +1,612 @@
 [
   {
     "batchId": "698ad3519549b300a5e1cc6a",
-    "batchSlug": "arjuna-jee-2027",
+    "batchSlug": "arjuna-jee-2027-243495",
     "batchName": "Arjuna JEE 2027",
     "category": "IIT-JEE",
     "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb464a1b-1525-48df-8c4e-a7e607038bf7.jpeg",
-    "totalSections": 86,
-    "totalLectures": 845,
-    "totalNotes": 19
+    "totalSections": 180,
+    "totalLectures": 803,
+    "totalNotes": 2275
   },
   {
     "batchId": "6779345c20fa0756e4a7fd08",
-    "batchSlug": "lakshya-jee-2027",
+    "batchSlug": "lakshya-jee-2027-181537",
     "batchName": "Lakshya JEE 2027",
     "category": "IIT-JEE",
     "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/840830ff-b6f8-41c0-b969-f7f31bad92db.jpeg",
-    "totalSections": 76,
-    "totalLectures": 638,
-    "totalNotes": 19
+    "totalSections": 197,
+    "totalLectures": 606,
+    "totalNotes": 1951
   },
   {
     "batchId": "654ccf5aee945800189872dc",
-    "batchSlug": "parakram-gate-2025-computer-science-and-da",
-    "batchName": "Parakram GATE 2025 Computer Science and DA",
-    "category": "GATE",
+    "batchSlug": "batch-654ccf5aee945800189872dc",
+    "batchName": "Batch_654ccf5aee945800189872dc",
+    "category": "All India Competitive",
     "thumbnail": "https://files.catbox.moe/oqcdfv.png",
-    "totalSections": 167,
-    "totalLectures": 745,
-    "totalNotes": 68
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
   },
   {
     "batchId": "697cddabf050baa08837223e",
-    "batchSlug": "parishram-2027-class-12th",
+    "batchSlug": "parishram-2027--class-12th--570280",
     "batchName": "PARISHRAM 2027 (Class 12th)",
     "category": "SCHOOL PREPARATION",
     "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/503428a1-41c2-4251-88b3-aa816ec9cffc.png",
-    "totalSections": 77,
-    "totalLectures": 496,
-    "totalNotes": 13
+    "totalSections": 84,
+    "totalLectures": 499,
+    "totalNotes": 929
   },
   {
     "batchId": "698ad35209494b495cfcc9c4",
-    "batchSlug": "prayas-2027",
+    "batchSlug": "prayas-2027-746901",
     "batchName": "Prayas 2027",
     "category": "IIT-JEE",
     "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6a95f5ca-dd0c-47a2-b208-02c695c0f037.png",
-    "totalSections": 42,
-    "totalLectures": 327,
-    "totalNotes": 10
+    "totalSections": 104,
+    "totalLectures": 321,
+    "totalNotes": 1364
   },
   {
     "batchId": "69897f0a4c12aeb013d4ea52",
-    "batchSlug": "yakeen-2027",
+    "batchSlug": "yakeen-2027-995984",
     "batchName": "Yakeen 2027",
     "category": "NEET",
     "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ae0f6c39-5c61-443e-8645-862da0d70c41.png",
-    "totalSections": 66,
-    "totalLectures": 412,
-    "totalNotes": 14
+    "totalSections": 108,
+    "totalLectures": 413,
+    "totalNotes": 1234
+  },
+  {
+    "batchId": "6991ad489f94154c02bf305e",
+    "batchSlug": "udaan-2028--class-10th--019551",
+    "batchName": "UDAAN 2028 (Class 10th)",
+    "category": "FOUNDATION",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9c6bd137-cad9-452a-84a5-b8f50b6dbe47.PNG",
+    "totalSections": 13,
+    "totalLectures": 7,
+    "totalNotes": 86
+  },
+  {
+    "batchId": "69897f0ad7c19b7b2f7cc35f",
+    "batchSlug": "arjuna-neet-2027-014187",
+    "batchName": "Arjuna NEET 2027",
+    "category": "NEET",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3023e0cc-a2d7-40e1-bb28-6028ca813889.jpeg",
+    "totalSections": 209,
+    "totalLectures": 934,
+    "totalNotes": 2194
+  },
+  {
+    "batchId": "69a079eea01a602e8bc61b76",
+    "batchSlug": "jee-crash-course-2027-110660",
+    "batchName": "JEE Crash Course 2027",
+    "category": "For IIT-JEE Aspirants",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0c20abfa-229a-443d-9619-61994893b5b3.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "67790151518b938bc630052d",
+    "batchSlug": "udaan-2027--class-10th--075279",
+    "batchName": "Udaan 2027 (Class 10th)",
+    "category": "SCHOOL PREPARATION, FOUNDATION",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4ac61f87-cd99-45ae-b4b7-7166e797013a.png",
+    "totalSections": 69,
+    "totalLectures": 697,
+    "totalNotes": 827
+  },
+  {
+    "batchId": "699434fe5423bd3d67b049b6",
+    "batchSlug": "udaan-2-0-2027--class-10th--old--929020",
+    "batchName": "UDAAN 2.0 2027 (Class 10th)(Old)",
+    "category": "SCHOOL PREPARATION",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2b2303d1-cc89-4ceb-a29d-ef3978962a66.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0bc4339c0bd659512d3ca",
+    "batchSlug": "vidyapeeth-dropper-jee-278146",
+    "batchName": "Vidyapeeth Dropper JEE",
+    "category": "All India Competitive",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fb2ecde4-51a9-451a-9866-e49b166d03b2.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "68bfffbee313bed3a8b9ace2",
+    "batchSlug": "super-1500-gate-2028-batch----hinglish----civil-066693",
+    "batchName": "Super 1500 GATE 2028 Batch - (Hinglish) - Civil",
+    "category": "Targeted Batch For GATE Aspirants",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "69e37165f52057d1259d01c0",
+    "batchSlug": "caiib-double-increment-series-dec-2026-241172",
+    "batchName": "Caiib Double Increment Series Dec 2026",
+    "category": "Targeted batch for Caiib Aspirants",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9fd11447-603f-499b-9ea9-9ed7c881809a.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0c51e75405d36bc296ccf",
+    "batchSlug": "pathshala-dropper-jee-771574",
+    "batchName": "Pathshala Dropper JEE",
+    "category": "All India Competitive",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4921d1b9-466b-42be-9dd3-adedfa1a96e4.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0e9951460857e8620ebd0",
+    "batchSlug": "tuition-center-dropper-jee-925739",
+    "batchName": "Tuition Center Dropper JEE",
+    "category": "All India Competitive",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a4f0fa1d-df84-4104-93ba-809e6433e757.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0b8b61e017e3975e30513",
+    "batchSlug": "vidyapeeth-dropper-neet-740646",
+    "batchName": "Vidyapeeth Dropper NEET",
+    "category": "All India Competitive",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7f3b980c-83ea-4391-b834-8e57ce9a80d2.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0c84b47f579b3e40fc072",
+    "batchSlug": "pathshala-dropper-neet-375835",
+    "batchName": "Pathshala Dropper NEET",
+    "category": "All India Competitive",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dbe810d-4b25-4bf7-b049-83c6b7c96cc0.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ac0d948440ef533c70e5af9",
+    "batchSlug": "tuition-center-dropper-neet-981629",
+    "batchName": "Tuition Center Dropper NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dce09128-8158-4105-a2be-3609d519ed0c.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abb8da0f21b63ed138a8307",
+    "batchSlug": "vidyapeeth-class-9th-864459",
+    "batchName": "Vidyapeeth Class 9th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a41fff7c-be35-4023-9a34-965a21f3d5de.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abba8856d03d8cccbef6ca9",
+    "batchSlug": "pathshala-class-9th-246720",
+    "batchName": "Pathshala Class 9th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a9400751-a787-4e56-a16f-1ce5618866d4.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abb8fb2d261c0e6b5c2203a",
+    "batchSlug": "vidyapeeth-class-8th-371313",
+    "batchName": "Vidyapeeth Class 8th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e1f1ab5f-3f51-4cf9-866a-42ce58708718.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abbabd2bce20d58c0b0ca6c",
+    "batchSlug": "pathshala-class-8th-868261",
+    "batchName": "Pathshala Class 8th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/acd4c057-23b1-46c4-8e92-dec5090fb7ae.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6aba5edbc7501130b31f903a",
+    "batchSlug": "ca-inter-udesh-regular-sep-2027---auditing-and-ethics--group-2--561654",
+    "batchName": "CA Inter Udesh Regular Sep 2027 : Auditing and Ethics (Group 2)",
+    "category": "CA Intermediate",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/31be0dad-e748-4284-b168-6b14ce8332c7.png",
+    "totalSections": 3,
+    "totalLectures": 11,
+    "totalNotes": 2
+  },
+  {
+    "batchId": "6aba5fe26f509c24dfcb6f23",
+    "batchSlug": "ca-inter-udesh-regular-sep-2027---financial-management-and-strategic-management--group-2--548460",
+    "batchName": "CA Inter Udesh Regular Sep 2027 : Financial Management & Strategic Management (Group 2)",
+    "category": "CA Intermediate",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/707364ad-eb57-4df9-bd83-d9ada9d27aed.png",
+    "totalSections": 3,
+    "totalLectures": 11,
+    "totalNotes": 2
+  },
+  {
+    "batchId": "6aba5a08df7b34272063dcd0",
+    "batchSlug": "ca-inter-udesh-regular-sep-2027---gst--group-1--817764",
+    "batchName": "CA Inter Udesh Regular Sep 2027 : GST (Group 1)",
+    "category": "CA Intermediate",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3da98161-e969-4749-a3fa-627643a67b1b.png",
+    "totalSections": 3,
+    "totalLectures": 11,
+    "totalNotes": 2
+  },
+  {
+    "batchId": "69bd207a0c9b1c90b38565a5",
+    "batchSlug": "nda--ii--shaurya-2027-022366",
+    "batchName": "NDA (II) Shaurya 2027",
+    "category": "For UPSC NDA (II), 2027 Aspirants",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f6a95d49-00c3-4ceb-a177-cb6ac3fd2305.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcc6b2cd825ceb6f142809",
+    "batchSlug": "vidyapeeth-11th-jee-661271",
+    "batchName": "Vidyapeeth 11th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b10b3fd7-37e5-4fc5-bdd8-38f949e82c9e.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcce6c890e8e8f252267bc",
+    "batchSlug": "pathshala-11th-jee-361999",
+    "batchName": "Pathshala 11th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/15321743-f0ae-4405-9994-5b8d7f789c92.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcde569a79964e597b68c7",
+    "batchSlug": "tuition-center-11th-jee-939474",
+    "batchName": "Tuition Center 11th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4d699d29-66e9-4b9c-a2cd-16bc747162d1.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe12d39138f08e6fa63f3a",
+    "batchSlug": "vidyapeeth-12th-jee-434033",
+    "batchName": "Vidyapeeth 12th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a00df923-3004-4992-b2b3-9b7bb02a3cf9.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe1de13de37362619dce6d",
+    "batchSlug": "pathshala-12th-jee-701588",
+    "batchName": "Pathshala 12th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/65de1d7c-b72d-4beb-95a1-a7e6b7ed9e0b.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe222884da7be7cee570e8",
+    "batchSlug": "tuition-center-12th-jee-332604",
+    "batchName": "Tuition Center 12th JEE",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/35f9569c-4010-4274-a2ff-ee25ce822b0f.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abccad8bfb2d082b729503e",
+    "batchSlug": "vidyapeeth-11th-neet-872334",
+    "batchName": "Vidyapeeth 11th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6d2d01-4dd8-4970-8808-f0a809d4660f.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcdbca16c838fa1d2e0a99",
+    "batchSlug": "pathshala-11th-neet-844087",
+    "batchName": "Pathshala 11th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5fb5d346-7a54-4d9f-9823-c8f71c00fe33.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcdf9d79abba14fa3436f0",
+    "batchSlug": "tuition-center-11th-neet-655934",
+    "batchName": "Tuition Center 11th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fb853a31-20bb-4cba-9e5a-933de7a6a529.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe17dda5017aedad87eae9",
+    "batchSlug": "vidyapeeth-12th-neet-179095",
+    "batchName": "Vidyapeeth 12th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7ed3bcf8-1f6f-4554-81f4-3783d9301baa.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe2014c5d4bb396794ebdc",
+    "batchSlug": "pathshala-12th-neet-372600",
+    "batchName": "Pathshala 12th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e216ceff-8983-4796-9969-5690aad407fe.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abe24c40e88b57c8e3da332",
+    "batchSlug": "tuition-center-12th-neet-872030",
+    "batchName": "Tuition Center 12th NEET",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7994b93c-7f79-468b-ba85-a4e57d8c51dd.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcb082c93aa96ead61ceeb",
+    "batchSlug": "tuition-center-class-9th-556865",
+    "batchName": "Tuition Center Class 9th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d631f698-2b9d-4228-9bb2-24e1ba3c9ed3.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abb88133958698d6eb34d88",
+    "batchSlug": "vidyapeeth-class-10th-136646",
+    "batchName": "Vidyapeeth Class 10th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d7a916c-74f9-49fa-8668-b32518368072.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abb9b041de9168ffb8d465c",
+    "batchSlug": "pathshala-class-10th-075205",
+    "batchName": "Pathshala Class 10th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0a2f605-cace-4c77-ab91-a28b0b96588a.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abca502ce3267278f033b40",
+    "batchSlug": "tuition-center-class-10th-793662",
+    "batchName": "Tuition Center Class 10th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6e03a6ee-f8bb-4951-9028-834cf87f24a5.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abcb26e47014e95297cfe76",
+    "batchSlug": "tuition-center-class-8th-742758",
+    "batchName": "Tuition Center Class 8th",
+    "category": "",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b500a243-8eb9-469c-a9f6-32f4ff25fbff.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "699809c4d2863bb72ad37da9",
+    "batchSlug": "pravesh-cuet-commerce--hindi-medium--2027-592742",
+    "batchName": "Pravesh CUET Commerce (Hindi Medium) 2027",
+    "category": "Pravesh CUET Commerce 2027 (Hindi Medium)",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "699eaba1f51b58eb31e01108",
+    "batchSlug": "post-graduate-certificate-programme-in-business-analytics-and-generative-ai-536584",
+    "batchName": "Post-Graduate Certificate Programme in Business Analytics & Generative AI",
+    "category": "Learn From IIT Roorkee",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7c73ee13-2515-423a-9c95-a2dc44902d45.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "69a079ef363024f2305e51fa",
+    "batchSlug": "11th-jee-crash-course-2027-969842",
+    "batchName": "11th JEE Crash Course 2027",
+    "category": "For IIT-JEE Aspirants",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "69a079efc4fd081be69280f1",
+    "batchSlug": "neet-crash-course-2027-187057",
+    "batchName": "NEET Crash Course 2027",
+    "category": "For NEET Aspirants",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "69a079f1ac6a7b287fb30181",
+    "batchSlug": "11th-neet-crash-course-2027-900163",
+    "batchName": "11th NEET Crash Course 2027",
+    "category": "For NEET Aspirants",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6abbe81e1a9ac09de8fb1132",
+    "batchSlug": "executive-certificate-programme-in-corporate-and-business-law-496823",
+    "batchName": "Executive Certificate Programme in Corporate and Business Law",
+    "category": "Learn From IIM Bodh Gaya",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b64ee80-9d9e-4a9f-92c1-53f8b09ebc57.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "67fe33cde76aed58f90f5297",
+    "batchSlug": "executive-certificate-programme-in-corporate-and-business-law-126263",
+    "batchName": "Executive Certificate Programme in Corporate and Business Law",
+    "category": "Learn From IIM Bodh Gaya",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b64ee80-9d9e-4a9f-92c1-53f8b09ebc57.png",
+    "totalSections": 1,
+    "totalLectures": 5,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6a79837770085601bc920675",
+    "batchSlug": "baaz-jkbose-2027-class-11th---target-90-jkbose-class--10th-800895",
+    "batchName": "Baaz JKBOSE 2027 Class-11th + Target 90 JKBOSE Class- 10th",
+    "category": "Baaz JKBOSE 2027 Class-11th + Target 90 JKBOSE Class- 10th",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2a02c384-cf02-44ad-a29b-83a08074ca3b.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6a79925970085601bc927367",
+    "batchSlug": "baaz-jkbose-humanities-2027-class--11th---target-90-jkbose-class--10th-638557",
+    "batchName": "Baaz JKBOSE Humanities 2027 Class- 11th + Target 90 JKBOSE Class- 10th",
+    "category": "Baaz JKBOSE Humanities 2027 Class- 11th + Target 90 JKBOSE Class- 10th",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/62040070-7ebe-45fb-a2c3-08b5e1aa2322.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6a79925821d5235a71cbf898",
+    "batchSlug": "harmukh-jkbose-2027-class-12th---target-90-jkbose-class--11th-599181",
+    "batchName": "Harmukh JKBOSE 2027 Class-12th + Target 90 JKBOSE Class- 11th",
+    "category": "Harmukh JKBOSE 2027 Class-12th + Target 90 JKBOSE Class- 11th",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9045695b-f8c6-4111-866b-5d629847dd62.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6a79925a8bc354f7a0556469",
+    "batchSlug": "harmukh-jkbose-humanities-2027-class--12th---target-90-jkbose-humanities-class--11th-172991",
+    "batchName": "Harmukh JKBOSE Humanities 2027 Class- 12th + Target 90 JKBOSE Humanities Class- 11th",
+    "category": "Harmukh JKBOSE Humanities 2027 Class- 12th + Target 90 JKBOSE Humanities Class- 11th",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e24b0d47-a3fd-4262-9896-8280dd549803.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6a86a154bad6bc80e1acdd85",
+    "batchSlug": "pg-certificate-programme-in-ai-driven-cyber-security-andethical-hacking-947833",
+    "batchName": "PG Certificate Programme in AI-Driven Cyber Security &Ethical Hacking",
+    "category": "Learn From IIT Roorkee",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f9c48cfc-3bce-4006-ba39-a7d5d5edbf4f.jpeg",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "698ecf6a3313bf70c746a136",
+    "batchSlug": "yakeen-neet-6-0-2027-449189",
+    "batchName": "Yakeen Neet 6.0 2027",
+    "category": "For Dropper NEET Aspirants",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "6ab274fb8ce0d4fb824ffa2f",
+    "batchSlug": "class-11th-board-booster-gujarat-board-commerce-2027-652736",
+    "batchName": "Project 45 Class 11th Gujarat Board Commerce 2027",
+    "category": "Crash Course for 11th Commerce Gujarat",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bafac747-3726-4c6c-ae7c-59c256611fed.png",
+    "totalSections": 3,
+    "totalLectures": 11,
+    "totalNotes": 9
+  },
+  {
+    "batchId": "6ab3a9f1d4265e317b3b7809",
+    "batchSlug": "class-11th-board-booster-maharashtra-commerce-2027-416536",
+    "batchName": "Project 45 Class 11th Maharashtra Commerce 2027",
+    "category": "Targeted Batch for Class 11th Commerce 2027",
+    "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/db539365-9934-4b0d-9aff-e4aaf8290e9f.png",
+    "totalSections": 3,
+    "totalLectures": 8,
+    "totalNotes": 12
+  },
+  {
+    "batchId": "698494e664641d789ed625be",
+    "batchSlug": "project-45-class-11-commerce-crash-course--new--436732",
+    "batchName": "Project 45 Class 11 Commerce Crash course (NEW)",
+    "category": "Class 11th Commerce CBSE 2027",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 0,
+    "totalLectures": 0,
+    "totalNotes": 0
+  },
+  {
+    "batchId": "698494e660cb18a291d54736",
+    "batchSlug": "project-45-class-12-commerce-crash-course-563874",
+    "batchName": "Project 45 Class 12 Commerce Crash course",
+    "category": "Class 12th CBSE Commerce 2027",
+    "thumbnail": "https://files.catbox.moe/oqcdfv.png",
+    "totalSections": 1,
+    "totalLectures": 1,
+    "totalNotes": 0
   }
 ]

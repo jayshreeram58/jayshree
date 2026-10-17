@@ -461,6 +461,19 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
         if m:
             batch_id = m.group(1)
 
+    # Check for companion Class Notes / DPP PDF attached to this video lecture
+    companion_pdf = item.get("pdf_url") or item.get("source_pdf_url")
+    if not companion_pdf and schedule_id:
+        for sec in batch.get("sections", []):
+            for note in sec.get("notes", []):
+                if note.get("schedule_id") == schedule_id or (note.get("title") and item.get("title") and note.get("title") in item.get("title")):
+                    companion_pdf = note.get("url")
+                    break
+            if companion_pdf:
+                break
+
+    has_companion_pdf = bool(companion_pdf)
+
     if schedule_id and batch_id:
         stream_info = await resolve_pw_stream_url(batch_id, subject_id, schedule_id)
         if stream_info.get("success") and stream_info.get("video_url"):
@@ -474,7 +487,10 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
                 return {
                     "lecture_id": lecture_id,
                     "has_video": True,
-                    "has_pdf": False,
+                    "has_pdf": has_companion_pdf,
+                    "pdf_url": companion_pdf,
+                    "pdf_view_url": companion_pdf,
+                    "pdf_download_url": companion_pdf,
                     "stream_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
                     "playback_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
                     "youtube_video_id": yt_id,
@@ -489,7 +505,10 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
                 return {
                     "lecture_id": lecture_id,
                     "has_video": True,
-                    "has_pdf": False,
+                    "has_pdf": has_companion_pdf,
+                    "pdf_url": companion_pdf,
+                    "pdf_view_url": companion_pdf,
+                    "pdf_download_url": companion_pdf,
                     "stream_url": raw_url,
                     "playback_url": raw_url,
                     "stream_type": "dash",
@@ -504,7 +523,10 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
                 return {
                     "lecture_id": lecture_id,
                     "has_video": True,
-                    "has_pdf": False,
+                    "has_pdf": has_companion_pdf,
+                    "pdf_url": companion_pdf,
+                    "pdf_view_url": companion_pdf,
+                    "pdf_download_url": companion_pdf,
                     "stream_url": raw_url,
                     "playback_url": raw_url,
                     "stream_type": "hls",
@@ -517,7 +539,10 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
             return {
                 "lecture_id": lecture_id,
                 "has_video": True,
-                "has_pdf": False,
+                "has_pdf": has_companion_pdf,
+                "pdf_url": companion_pdf,
+                "pdf_view_url": companion_pdf,
+                "pdf_download_url": companion_pdf,
                 "stream_url": raw_url,
                 "playback_url": raw_url,
                 "stream_type": "direct",
@@ -534,7 +559,10 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
         return {
             "lecture_id": lecture_id,
             "has_video": True,
-            "has_pdf": False,
+            "has_pdf": has_companion_pdf,
+            "pdf_url": companion_pdf,
+            "pdf_view_url": companion_pdf,
+            "pdf_download_url": companion_pdf,
             "stream_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
             "playback_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
             "youtube_video_id": yt_id,

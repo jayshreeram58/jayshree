@@ -1,0 +1,769 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6991ad489f94154c02bf305e",
+  "batchSlug": "udaan-2028--class-10th--019551",
+  "batchName": "UDAAN 2028 (Class 10th)",
+  "category": "FOUNDATION",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9c6bd137-cad9-452a-84a5-b8f50b6dbe47.PNG",
+  "totalSections": 13,
+  "totalLectures": 7,
+  "totalNotes": 86,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6991ad48-1",
+          "title": "New Feature Update : Notes Feature In Video Player",
+          "url": "New Feature Update : Notes Feature In Video Player : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e728eb85c67dc44574a2&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20In%20Video%20Player",
+          "is_pdf": false,
+          "schedule_id": "6992e728eb85c67dc44574a2",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-2",
+          "title": "Important Update : Dark Mode",
+          "url": "Important Update : Dark Mode : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e78bc154bbfa73cfe6e2&topic=Important%20Update%20%3A%20Dark%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6992e78bc154bbfa73cfe6e2",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-3",
+          "title": "New Feature Update : New Quality Options in Video Player",
+          "url": "New Feature Update : New Quality Options in Video Player : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e7b8b9fe0a1ffbb11d23&topic=New%20Feature%20Update%20%3A%20New%20Quality%20Options%20in%20Video%20Player",
+          "is_pdf": false,
+          "schedule_id": "6992e7b8b9fe0a1ffbb11d23",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-4",
+          "title": "New Feature Update : Chat Template || (Video Only)",
+          "url": "New Feature Update : Chat Template || (Video Only) : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e7d7c15317537f41cd01&topic=New%20Feature%20Update%20%3A%20Chat%20Template%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6992e7d7c15317537f41cd01",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-5",
+          "title": "New Update : Study Page (App) || (Video Only)",
+          "url": "New Update : Study Page (App) || (Video Only) : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e8065e291046355f3f37&topic=New%20Update%20%3A%20Study%20Page%20(App)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6992e8065e291046355f3f37",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-6",
+          "title": "New Feature Update : Audio Mode || (Video Only)",
+          "url": "New Feature Update : Audio Mode || (Video Only) : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e82fbca8fd86a9374037&topic=New%20Feature%20Update%20%3A%20Audio%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6992e82fbca8fd86a9374037",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        },
+        {
+          "id": "pw-6991ad48-7",
+          "title": "New Study Page : KT Video || (Only Video)",
+          "url": "New Study Page : KT Video || (Only Video) : https://courseswala/play?batchId=6991ad489f94154c02bf305e&subjectId=6992e16560545d8b81ec4801&scheduleId=6992e842f6e1105d7f932fad&topic=New%20Study%20Page%20%3A%20KT%20Video%20%7C%7C%20(Only%20Video)",
+          "is_pdf": false,
+          "schedule_id": "6992e842f6e1105d7f932fad",
+          "subject_id": "6992e16560545d8b81ec4801",
+          "batch_id": "6991ad489f94154c02bf305e"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Physics",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-1",
+          "title": "Light - Reflection and Refraction  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/21bc80e0-87d5-41df-b1a9-6b0ec93a2060.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-2",
+          "title": "Human Eye and Colorful World  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e7ad40c1-d529-4d1e-93e7-28351dedd0d1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-3",
+          "title": "Electricity  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/58461342-789c-42d0-b17b-795d1b2bc5e2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-4",
+          "title": "Magnetic Effects of Electric Current  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/211a61da-30f1-48f6-90ab-420462cfc4a2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Physics",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-5",
+          "title": "Science  PYQs (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/78a27798-2844-4302-ae3f-d830098d94a6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Chemistry",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-6",
+          "title": "Chemical Reactions and Equations  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/60574e65-1789-46c9-8e61-3b373dc85be2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-7",
+          "title": "Acids, Bases and Salts  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ad105eb5-556d-4150-afdd-2e7eeafc2def.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-8",
+          "title": "Metals and Non - Metals  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4fa2754d-fde4-460a-9208-87a40506ed93.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-9",
+          "title": "Carbon and its Compounds  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ca32e656-a32f-4625-962e-6dd6b9430263.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Chemistry",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-10",
+          "title": "Science  PYQs (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e79b7b6e-93ec-4ab3-a2e0-c2c185bd267f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Biology",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-11",
+          "title": "Life Processes  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ae196bfd-0527-4d1c-a72f-780e3d341817.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-12",
+          "title": "Control and Coordination  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8b149c5f-d35c-45b3-8d43-1f22b4033ef9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-13",
+          "title": "How Do Organisms Reproduce  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ffb73d56-c1ff-4c3b-90c4-3e0535d20e91.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-14",
+          "title": "Heredity and Evolution  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/272f96c3-1f9d-4e97-a4a5-f65c5f55aa63.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-15",
+          "title": "Our Environment  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5eeb2525-1821-4a0d-9635-5727dc3995c5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Biology",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-16",
+          "title": "Science  PYQs (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f822d00e-f454-4d08-9324-82dde2f202da.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-17",
+          "title": "Real Numbers  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5c7515b9-5f8a-4100-8a07-e99a8decd381.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-18",
+          "title": "Polynomials  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/03fbdd28-41a3-422b-bf69-191bcf374eed.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-19",
+          "title": "Linear Equation in Two Variables  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e49e7b6d-d0a9-45cc-bb6a-afe633a499c6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-20",
+          "title": "Quadratic Equation  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b35b1883-2708-4e16-8497-91796ee4aece.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-21",
+          "title": "Arithmetic Progressions  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/221fb8d9-8357-4dd4-8c95-fed6cddac9e4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-22",
+          "title": "Triangles  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/09bafb73-7c29-4e96-9d4a-713b844cb1ff.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-23",
+          "title": "Coordinate Geometry  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fe7c57ab-e2e9-4e19-9788-d83fcea09a0f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-24",
+          "title": "Trigonometry  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bed17265-d1a2-4c32-89fc-ab0725a1d96d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-25",
+          "title": "Applications of Trigonometry  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/97ecb1d5-1126-450c-9b51-d37fb591955a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-26",
+          "title": "Circles  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ec4f2e1-2efa-4d3a-b1ca-5183ca65ee5a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-27",
+          "title": "Areas Related to Circles  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/98e785d0-5a0a-4541-b262-d3324816173d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-28",
+          "title": "Surface Area and Volume  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ecccb02d-821f-41c0-8c18-c8106cf2009d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-29",
+          "title": "Statistics  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9e76b397-107e-466d-84b1-30e33b730e12.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-30",
+          "title": "Probability  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5797dcac-d1e0-4008-acfd-d148d6410682.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-31",
+          "title": "Maths  PYQs (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/acb774de-63cb-4e71-96d5-57dc37b1d9ad.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "English (Language & Literature)",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-32",
+          "title": "Subject Verb Agreement_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/7fd1abc9-d1e5-4b1b-814a-28d1af6df1a5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-33",
+          "title": "THE BOOK THAT SAVED THE EARTH_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/7df92868-cec3-438f-9a58-54d6b4c2d0b2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-34",
+          "title": "Modals_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/0f1fa60f-9005-49e6-afa0-395b5e0aac43.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-35",
+          "title": "Tenses_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/122f7e72-0142-4539-afb5-10983f29fe3f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-36",
+          "title": "Reported Speech_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/3a11adaa-a134-429c-8c49-9a9f24b68174.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-37",
+          "title": "Determiners_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/a144fe4f-c32d-4754-ad49-e08aaac1900a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-38",
+          "title": "THE NECKLACE_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/20b64abc-f16d-41da-8c28-e4e185fe1ca0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-39",
+          "title": "Bholi_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/7369e85d-ecd5-4d7b-87b7-4577750707f4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-40",
+          "title": "The Making of a Scientist_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d4b68434-8b42-42bd-95d7-cf680a6044d8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-41",
+          "title": "FOOTPRINTS WITHOUT FEET_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/73aff77a-5534-4c4c-8c23-ef12e158a65e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-42",
+          "title": "The Trees_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/1705e3a0-c8a5-4b18-96ac-def202c771d1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-43",
+          "title": "Fog_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d969f06d-4d69-4099-aae5-07dd22a984a2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-44",
+          "title": "THE MIDNIGHT VISITOR_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/b04fe202-527d-4f5b-b38b-ef3c9d4e1de9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-45",
+          "title": "For Anne Gregory_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/f5698245-2301-4c9f-833d-a0344d583996.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-46",
+          "title": "The Thief Story_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/39d71691-76c5-4e92-91c7-f79ea9c247af.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-47",
+          "title": "A QUESTION OF TRUST_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/6317db5d-4777-473f-a550-b3cec7219c0f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-48",
+          "title": "A TRIUMPH OF SURGERY_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/7a60a7a3-89b8-48d3-8f75-3b6ccc7d6eef.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-49",
+          "title": "THE BALL POEM_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d8464ea7-e7f3-400a-8d28-d1b4ca2b862d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-50",
+          "title": "Amanda_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/012e35e7-d5ab-468f-bcd2-76972b5a2d6b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-51",
+          "title": "From the Diary of Anne Frank_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/8e4f2ae4-cb8b-45da-9564-5f2881ea47df.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-52",
+          "title": "Two Stories about Flying_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ca655591-82d9-4c2b-9479-5a3d4f712982.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-53",
+          "title": "GLIMPSES OF INDIA_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/879b279d-1b10-4c8b-bcea-777971176ec3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-54",
+          "title": "How to Tell Wild Animals_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/005632fb-f43a-491e-99c2-85923c56f02f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-55",
+          "title": "FIRE AND ICE_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/b0e25264-6bcc-45ef-aae8-d7141ea332cf.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-56",
+          "title": "THE PROPOSAL_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/a5c8ca52-eda2-4743-9cf4-556f14a50b73.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-57",
+          "title": "DUST OF SNOW_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/a21f85a5-ab65-4492-8a3b-24880693eba3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-58",
+          "title": "MADAM RIDES THE BUS_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/44ff5585-6e08-430c-8a79-a75558033624.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-59",
+          "title": "MIJBIL THE OTTER_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/6933319f-bfc0-4e0e-9333-a9ccca87f426.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-60",
+          "title": "A Tiger in the Zoo_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/83e15efb-8eb1-46fc-aca0-ff9c95929f8e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-61",
+          "title": "THE SERMON AT BENARES_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/32f982d6-4517-4ad1-ba26-15beb6a36759.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-62",
+          "title": "Nelson Mandela_Long walk to freedom_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/0a1beab4-db5a-4b5c-aee4-3266db9dea5b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-63",
+          "title": "A Letter to God_Short Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/4fbc98a1-084c-4037-904e-b665e679752e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "English (Language & Literature)",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-64",
+          "title": "4. ENGLISH (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d290cc86-37be-431c-a4d1-904e0c102c52.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Sst",
+      "sectionName": "Short Notes || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-65",
+          "title": "Resources and Development  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7ed18639-8712-4a3e-8d2b-2479be682309.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-66",
+          "title": "The Rise of Nationalism in Europe  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e49cbd71-ee18-496f-8670-ea80285b8f5b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-67",
+          "title": "Forest and Wildlife Resources  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d505dca3-240f-4022-ab7c-c4844972db3e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-68",
+          "title": "Power Sharing  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/35afa87d-83dd-48aa-8b58-1bf789d06bad.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-69",
+          "title": "Federalism  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f62f2ea7-dcbc-4612-8daf-65d3a4e038a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-70",
+          "title": "Development  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/69b0d734-d274-4dd7-85ca-cb5f6f5deb40.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-71",
+          "title": "Water Resources  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a69c1d1c-ea97-42f4-b526-0c27d94c46c6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-72",
+          "title": "Sectors of the Indian Economy  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/72af19c7-6ef2-4af3-a19a-996ea39a8b90.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-73",
+          "title": "Agriculture  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a70a146a-053f-49de-8748-75311420ec99.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-74",
+          "title": "Nationalism in India  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/975013b1-1b1d-497b-86f8-57b528625f9e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-75",
+          "title": "The Making of a Global World  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/44af31f1-4f65-4f0d-b4da-cf77ed8846e4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-76",
+          "title": "Print Culture and the Modern World  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0f7d2479-5079-4f6e-8e75-bcc3d65ea4e3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-77",
+          "title": "Minerals and Energy Resources  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c4329f83-53ad-4161-9a2a-0e6a60ce9f2a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-78",
+          "title": "Manufacturing Industries  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/abb147ff-4ce7-434f-897c-216cde85417f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-79",
+          "title": "The Age of Industrialisation  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/42c3c8cc-69ff-4389-b57d-06277a1bcc81.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-80",
+          "title": "Gender, Religion and Caste  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5544dbb0-6312-41da-b500-b95021952553.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-81",
+          "title": "Political Parties  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cd75d225-ac0e-4a49-aef9-c4f5f19762a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-82",
+          "title": "Lifelines of National Economy  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7443707c-b2d0-42c4-8294-19b8a7ff1f15.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-83",
+          "title": "Money and Credit  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2177b497-72f1-4ce5-9f1d-d5fed8487ae5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-84",
+          "title": "Globalisation and Indian Economy  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a53ac81b-7880-485f-abc3-f932718ec733.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6991ad48-85",
+          "title": "Outcomes of Democracy  Short Notes (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4ed0d003-7ab6-4960-a75b-506e668ae212.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Sst",
+      "sectionName": "PYQs || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6991ad48-86",
+          "title": "SST  PYQs (PDF)",
+          "url": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2d271607-bf71-48e8-9f4c-a4cbddd7ea9c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}
