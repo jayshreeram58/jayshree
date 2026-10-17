@@ -1,0 +1,56 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6683e555c72ea70018d2f127",
+  "batchSlug": "msc-data-science--online--376334",
+  "batchName": "MSC Data Science (Online)",
+  "category": "Chandigarh University (CU)",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5ce619c6-a1a0-4bc9-8cb2-3eea598637c5.png",
+  "totalSections": 1,
+  "totalLectures": 4,
+  "totalNotes": 0,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6683e555-1",
+          "title": "Advantages of Choosing an Online Degree",
+          "url": "Advantages of Choosing an Online Degree : https://courseswala/play?batchId=6683e555c72ea70018d2f127&subjectId=6683e556b5e86800173b00e7&scheduleId=687b4dda426d3f0527cf2dd2&topic=Advantages%20of%20Choosing%20an%20Online%20Degree",
+          "is_pdf": false,
+          "schedule_id": "687b4dda426d3f0527cf2dd2",
+          "subject_id": "6683e556b5e86800173b00e7",
+          "batch_id": "6683e555c72ea70018d2f127"
+        },
+        {
+          "id": "pw-6683e555-2",
+          "title": "Acceptance of Online Degree Worldwide",
+          "url": "Acceptance of Online Degree Worldwide : https://courseswala/play?batchId=6683e555c72ea70018d2f127&subjectId=6683e556b5e86800173b00e7&scheduleId=687b4d2e4df3dec2fcb089a4&topic=Acceptance%20of%20Online%20Degree%20Worldwide",
+          "is_pdf": false,
+          "schedule_id": "687b4d2e4df3dec2fcb089a4",
+          "subject_id": "6683e556b5e86800173b00e7",
+          "batch_id": "6683e555c72ea70018d2f127"
+        },
+        {
+          "id": "pw-6683e555-3",
+          "title": "Is the Academic Quality of Online Degrees Equal to Regular Ones?",
+          "url": "Is the Academic Quality of Online Degrees Equal to Regular Ones? : https://courseswala/play?batchId=6683e555c72ea70018d2f127&subjectId=6683e556b5e86800173b00e7&scheduleId=687b4db0922b1bd0201de342&topic=Is%20the%20Academic%20Quality%20of%20Online%20Degrees%20Equal%20to%20Regular%20Ones%3F",
+          "is_pdf": false,
+          "schedule_id": "687b4db0922b1bd0201de342",
+          "subject_id": "6683e556b5e86800173b00e7",
+          "batch_id": "6683e555c72ea70018d2f127"
+        },
+        {
+          "id": "pw-6683e555-4",
+          "title": "Is Online Degree Valid in Every Sector?",
+          "url": "Is Online Degree Valid in Every Sector? : https://courseswala/play?batchId=6683e555c72ea70018d2f127&subjectId=6683e556b5e86800173b00e7&scheduleId=687b4d0d369e33f20ecccc69&topic=Is%20Online%20Degree%20Valid%20in%20Every%20Sector%3F",
+          "is_pdf": false,
+          "schedule_id": "687b4d0d369e33f20ecccc69",
+          "subject_id": "6683e556b5e86800173b00e7",
+          "batch_id": "6683e555c72ea70018d2f127"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

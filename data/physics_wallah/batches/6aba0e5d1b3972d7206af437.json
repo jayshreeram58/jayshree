@@ -1,0 +1,373 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6aba0e5d1b3972d7206af437",
+  "batchSlug": "aktu-semester--iii----electronics-618711",
+  "batchName": "AKTU Semester (III) - Electronics",
+  "category": "Targeted Batch for Semester III Aspirants",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d76c7c43-d519-4319-ac89-4fb952959428.png",
+  "totalSections": 4,
+  "totalLectures": 25,
+  "totalNotes": 15,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6aba0e5d-1",
+          "title": "Demo Lecture : Measurement by Hafiz Sir",
+          "url": "Demo Lecture : Measurement by Hafiz Sir : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe6771882501754622705f&topic=Demo%20Lecture%20%3A%20Measurement%20by%20Hafiz%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abe6771882501754622705f",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-2",
+          "title": "Demo Lecture : Electronics Devices and circuit by Saket Sir",
+          "url": "Demo Lecture : Electronics Devices and circuit by Saket Sir : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe6753d1987c282dcd73c2&topic=Demo%20Lecture%20%3A%20Electronics%20Devices%20and%20circuit%20by%20Saket%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abe6753d1987c282dcd73c2",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-3",
+          "title": "Demo Lecture : Engineering Mathematics by Kavindra Krishna Sir",
+          "url": "Demo Lecture : Engineering Mathematics by Kavindra Krishna Sir : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe66d59f8621c00efa361b&topic=Demo%20Lecture%20%3A%20Engineering%20Mathematics%20by%20Kavindra%20Krishna%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abe66d59f8621c00efa361b",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-4",
+          "title": "How to find Test Paper and Answer key in the test section || (Video Only)",
+          "url": "How to find Test Paper and Answer key in the test section || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe54673c16640190bba64c&topic=How%20to%20find%20Test%20Paper%20and%20Answer%20key%20in%20the%20test%20section%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe54673c16640190bba64c",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-5",
+          "title": "New Feature Update : Notes Feature in Video Player || (Video Only)",
+          "url": "New Feature Update : Notes Feature in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe544e2b2697a498251100&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe544e2b2697a498251100",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-6",
+          "title": "New Feature Update : New Quality Options in Video Player || (Video Only)",
+          "url": "New Feature Update : New Quality Options in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe5439d1d2877d797664d1&topic=New%20Feature%20Update%20%3A%20New%20Quality%20Options%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe5439d1d2877d797664d1",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-7",
+          "title": "Important Update : Dark Mode || (Video Only)",
+          "url": "Important Update : Dark Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe5424db4aede8453061fb&topic=Important%20Update%20%3A%20Dark%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe5424db4aede8453061fb",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-8",
+          "title": "New feature update : Chat Template || (Video Only)",
+          "url": "New feature update : Chat Template || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe540d10f8d0e1f9046db9&topic=New%20feature%20update%20%3A%20Chat%20Template%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe540d10f8d0e1f9046db9",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-9",
+          "title": "New Update : Study Page (App) || (Video Only)",
+          "url": "New Update : Study Page (App) || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe53f8cf8e3adbdfad19e2&topic=New%20Update%20%3A%20Study%20Page%20(App)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe53f8cf8e3adbdfad19e2",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-10",
+          "title": "New Feature Update : Audio Mode || (Video Only)",
+          "url": "New Feature Update : Audio Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe53c935d10574305bf94e&topic=New%20Feature%20Update%20%3A%20Audio%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe53c935d10574305bf94e",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-11",
+          "title": "New Update : Study Page (Web) || (Video Only)",
+          "url": "New Update : Study Page (Web) || (Video Only) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe4cafa5017aedad897420&scheduleId=6abe53b32568847c2169b201&topic=New%20Update%20%3A%20Study%20Page%20(Web)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe53b32568847c2169b201",
+          "subject_id": "6abe4cafa5017aedad897420",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || (Only PDF)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6aba0e5d-1",
+          "title": "3rd Semester Planner (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/42d905d3-bb90-4f69-b542-cdf218031744.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Electronic Devices And Circuits",
+      "sectionName": "Semiconductor Physics",
+      "lectures": [
+        {
+          "id": "pw-6aba0e5d-12",
+          "title": "Semiconductor Physics 06: Numericals",
+          "url": "Semiconductor Physics 06: Numericals : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad380f7e5c1353e75ce2372&topic=Semiconductor%20Physics%2006%3A%20Numericals",
+          "is_pdf": false,
+          "schedule_id": "6ad380f7e5c1353e75ce2372",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-13",
+          "title": "Semiconductor Physics 05: Potential Variation in Graded Junctions & Fermi Level",
+          "url": "Semiconductor Physics 05: Potential Variation in Graded Junctions & Fermi Level : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad380d6c486499be4a39849&topic=Semiconductor%20Physics%2005%3A%20Potential%20Variation%20in%20Graded%20Junctions%20%26%20Fermi%20Level",
+          "is_pdf": false,
+          "schedule_id": "6ad380d6c486499be4a39849",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-14",
+          "title": "Semiconductor Physics 04: Continuity Equation and Injected Minority Carrier",
+          "url": "Semiconductor Physics 04: Continuity Equation and Injected Minority Carrier : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad380bb6910e2a9ef45430f&topic=Semiconductor%20Physics%2004%3A%20Continuity%20Equation%20and%20Injected%20Minority%20Carrier",
+          "is_pdf": false,
+          "schedule_id": "6ad380bb6910e2a9ef45430f",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-15",
+          "title": "Semiconductor Physics 03: Hall Effect, Conductivity Modulation, Generation & Recombination",
+          "url": "Semiconductor Physics 03: Hall Effect, Conductivity Modulation, Generation & Recombination : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad3809aadfe35e0f20538c2&topic=Semiconductor%20Physics%2003%3A%20Hall%20Effect%2C%20Conductivity%20Modulation%2C%20Generation%20%26%20Recombination",
+          "is_pdf": false,
+          "schedule_id": "6ad3809aadfe35e0f20538c2",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-16",
+          "title": "Semiconductor Physics 02: Mobility, Conductivity, Mass action law and Law of neutrality",
+          "url": "Semiconductor Physics 02: Mobility, Conductivity, Mass action law and Law of neutrality : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad38082a932a1e7e22ad83d&topic=Semiconductor%20Physics%2002%3A%20Mobility%2C%20Conductivity%2C%20Mass%20action%20law%20and%20Law%20of%20neutrality",
+          "is_pdf": false,
+          "schedule_id": "6ad38082a932a1e7e22ad83d",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-17",
+          "title": "Semiconductor Physics 01: Semiconductor Materials, Energy Bands & Types of Semiconductor",
+          "url": "Semiconductor Physics 01: Semiconductor Materials, Energy Bands & Types of Semiconductor : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad3806535807ce66bbf006d&topic=Semiconductor%20Physics%2001%3A%20Semiconductor%20Materials%2C%20Energy%20Bands%20%26%20Types%20of%20Semiconductor",
+          "is_pdf": false,
+          "schedule_id": "6ad3806535807ce66bbf006d",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6aba0e5d-2",
+          "title": "Semiconductor Physics 06 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/81bb5a6a-aa3e-40e6-96d9-143f3a73f3d9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-3",
+          "title": "Semiconductor Physics 05 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/a2f749e1-9f2d-4a69-a676-feb919338c95.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-4",
+          "title": "Semiconductor Physics 04 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/3af98a25-ed90-4bb6-a022-cc93460f5803.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-5",
+          "title": "Semiconductor Physics 03 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/24fe7965-5bae-45a6-b0ff-0ca23f0c9aec.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-6",
+          "title": "Semiconductor Physics 02 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/b853d76d-a128-49b8-b149-b97469a3f9f2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-7",
+          "title": "Semiconductor Physics 01 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/31416096-fd48-441f-999f-71a5e2e5dd17.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Electronic Devices And Circuits",
+      "sectionName": "PN Junction Diode and Special Diodes",
+      "lectures": [
+        {
+          "id": "pw-6aba0e5d-18",
+          "title": "PN Junction Diode and Special Diodes 08: Special Diodes- Solar Cell and Schottky Diode",
+          "url": "PN Junction Diode and Special Diodes 08: Special Diodes- Solar Cell and Schottky Diode : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad388e86cf8076325766708&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2008%3A%20Special%20Diodes-%20Solar%20Cell%20and%20Schottky%20Diode",
+          "is_pdf": false,
+          "schedule_id": "6ad388e86cf8076325766708",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-19",
+          "title": "PN Junction Diode and Special Diodes 07: Special Diodes- Tunnel Diode, LED, Varactor Diode, Photodiode",
+          "url": "PN Junction Diode and Special Diodes 07: Special Diodes- Tunnel Diode, LED, Varactor Diode, Photodiode : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad388a4adfe35e0f2056093&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2007%3A%20Special%20Diodes-%20Tunnel%20Diode%2C%20LED%2C%20Varactor%20Diode%2C%20Photodiode",
+          "is_pdf": false,
+          "schedule_id": "6ad388a4adfe35e0f2056093",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-20",
+          "title": "PN Junction Diode and Special Diodes 06: Zener Diode- Breakdown, Characteristics and Regulation",
+          "url": "PN Junction Diode and Special Diodes 06: Zener Diode- Breakdown, Characteristics and Regulation : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad38416adfe35e0f20545d4&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2006%3A%20Zener%20Diode-%20Breakdown%2C%20Characteristics%20and%20Regulation",
+          "is_pdf": false,
+          "schedule_id": "6ad38416adfe35e0f20545d4",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-21",
+          "title": "PN Junction Diode and Special Diodes 05: Diode Resistance and Capacitance (Transition/Diffusion)",
+          "url": "PN Junction Diode and Special Diodes 05: Diode Resistance and Capacitance (Transition/Diffusion) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad383de94c785f0c9bc47bb&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2005%3A%20Diode%20Resistance%20and%20Capacitance%20(Transition%2FDiffusion)",
+          "is_pdf": false,
+          "schedule_id": "6ad383de94c785f0c9bc47bb",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-22",
+          "title": "PN Junction Diode and Special Diodes 04: Diode Current Equation",
+          "url": "PN Junction Diode and Special Diodes 04: Diode Current Equation : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad383acad6975edca2c29c2&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2004%3A%20Diode%20Current%20Equation",
+          "is_pdf": false,
+          "schedule_id": "6ad383acad6975edca2c29c2",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-23",
+          "title": "PN Junction Diode and Special Diodes 03: Doping Profile & Width of Depletion Region (Potential Distribution)",
+          "url": "PN Junction Diode and Special Diodes 03: Doping Profile & Width of Depletion Region (Potential Distribution) : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad383710c72f42707626948&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2003%3A%20Doping%20Profile%20%26%20Width%20of%20Depletion%20Region%20(Potential%20Distribution)",
+          "is_pdf": false,
+          "schedule_id": "6ad383710c72f42707626948",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-24",
+          "title": "PN Junction Diode and Special Diodes 02: Energy Band of PN junction in Forward bias and reverse bias",
+          "url": "PN Junction Diode and Special Diodes 02: Energy Band of PN junction in Forward bias and reverse bias : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad3833aef8ad9d3da11b21e&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2002%3A%20Energy%20Band%20of%20PN%20junction%20in%20Forward%20bias%20and%20reverse%20bias",
+          "is_pdf": false,
+          "schedule_id": "6ad3833aef8ad9d3da11b21e",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        },
+        {
+          "id": "pw-6aba0e5d-25",
+          "title": "PN Junction Diode and Special Diodes 01: PN junction diode and biasing and Barrier Potential",
+          "url": "PN Junction Diode and Special Diodes 01: PN junction diode and biasing and Barrier Potential : https://courseswala/play?batchId=6aba0e5d1b3972d7206af437&subjectId=6abe56323c16640190bbb492&scheduleId=6ad38244c2fb61693d9d66ea&topic=PN%20Junction%20Diode%20and%20Special%20Diodes%2001%3A%20PN%20junction%20diode%20and%20biasing%20and%20Barrier%20Potential",
+          "is_pdf": false,
+          "schedule_id": "6ad38244c2fb61693d9d66ea",
+          "subject_id": "6abe56323c16640190bbb492",
+          "batch_id": "6aba0e5d1b3972d7206af437"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6aba0e5d-8",
+          "title": "PN Junction Diode and Special Diodes 08 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/fb20be24-6dc7-4ed0-8535-d89e7ea16ce0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-9",
+          "title": "PN Junction Diode and Special Diodes 07 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/e29b9d66-2f3b-48e9-82a3-91a72f7534fd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-10",
+          "title": "PN Junction Diode and Special Diodes 06 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ba766dea-40db-4fa2-abb9-4ec0367d1c78.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-11",
+          "title": "PN Junction Diode and Special Diodes 05 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/5f81886b-0cce-4074-b773-0d6b77dd3760.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-12",
+          "title": "PN Junction Diode and Special Diodes 04 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/68f020e7-23a6-403c-92fb-4efba9142fd9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-13",
+          "title": "PN Junction Diode and Special Diodes 03 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d391281e-de0f-4da9-bf93-57e82c4b22d0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-14",
+          "title": "PN Junction Diode and Special Diodes 02 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/d24f07b5-8b8f-4255-ac1f-805801093cca.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6aba0e5d-15",
+          "title": "PN Junction Diode and Special Diodes 01 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/5b290134-52cf-4b85-a42b-1114cee46af4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

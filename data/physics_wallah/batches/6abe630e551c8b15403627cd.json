@@ -1,0 +1,573 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6abe630e551c8b15403627cd",
+  "batchSlug": "rajasthan-judiciary-foundation-batch-2-604672",
+  "batchName": "Rajasthan Judiciary Foundation Batch 2",
+  "category": "Integrated Prelims + Mains + Interview Preparation for Rajasthan Judiciary Aspirants",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f57b6d1-1055-4b80-b514-18a167b277b9.png",
+  "totalSections": 8,
+  "totalLectures": 14,
+  "totalNotes": 54,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6abe630e-1",
+          "title": "Demo Lecture by Arjita Ma'am",
+          "url": "Demo Lecture by Arjita Ma'am : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd95345d8ccdaeeba99bd&topic=Demo%20Lecture%20by%20Arjita%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6abfd95345d8ccdaeeba99bd",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-2",
+          "title": "Demo Lecture by Karan Sir",
+          "url": "Demo Lecture by Karan Sir : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd8487b2a75ff38b6c851&topic=Demo%20Lecture%20by%20Karan%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abfd8487b2a75ff38b6c851",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-3",
+          "title": "Demo Lecture by Shrimee Ma'am",
+          "url": "Demo Lecture by Shrimee Ma'am : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd897d0f9842b16da659c&topic=Demo%20Lecture%20by%20Shrimee%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6abfd897d0f9842b16da659c",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-4",
+          "title": "Demo Lecture By Kiffi Ma'am",
+          "url": "Demo Lecture By Kiffi Ma'am : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd91f5b85b95d3be0db9e&topic=Demo%20Lecture%20By%20Kiffi%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6abfd91f5b85b95d3be0db9e",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-5",
+          "title": "Demo Lecture By Apoorva Ma'am",
+          "url": "Demo Lecture By Apoorva Ma'am : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfda2c9e0b49bb35e74104&topic=Demo%20Lecture%20By%20Apoorva%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6abfda2c9e0b49bb35e74104",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-6",
+          "title": "Demo Lecture By Sunaina Ma'am",
+          "url": "Demo Lecture By Sunaina Ma'am : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd97e82a3b40ae2366864&topic=Demo%20Lecture%20By%20Sunaina%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6abfd97e82a3b40ae2366864",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-7",
+          "title": "Demo Lecture by Atma Prakash Sir",
+          "url": "Demo Lecture by Atma Prakash Sir : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd86b8d9fdd0279b093c9&topic=Demo%20Lecture%20by%20Atma%20Prakash%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abfd86b8d9fdd0279b093c9",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-8",
+          "title": "Demo Lecture by Apurva Sharma Sir",
+          "url": "Demo Lecture by Apurva Sharma Sir : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abfd8f96bc2fc96c1bc6d63&topic=Demo%20Lecture%20by%20Apurva%20Sharma%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abfd8f96bc2fc96c1bc6d63",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-9",
+          "title": "Guidelines of Batch",
+          "url": "Guidelines of Batch : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf436fa852eadd1550e2f9&topic=Guidelines%20of%20Batch",
+          "is_pdf": false,
+          "schedule_id": "6abf436fa852eadd1550e2f9",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-10",
+          "title": "How To Get DPP's PDF?",
+          "url": "How To Get DPP's PDF? : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf4350d519212a951360c7&topic=How%20To%20Get%20DPP's%20PDF%3F",
+          "is_pdf": false,
+          "schedule_id": "6abf4350d519212a951360c7",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-11",
+          "title": "Important Update : Dark Mode",
+          "url": "Important Update : Dark Mode : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf432c63ea7d6cc4411144&topic=Important%20Update%20%3A%20Dark%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6abf432c63ea7d6cc4411144",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-12",
+          "title": "New Study Page KT Video",
+          "url": "New Study Page KT Video : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf430b1527fb56da50454a&topic=New%20Study%20Page%20KT%20Video",
+          "is_pdf": false,
+          "schedule_id": "6abf430b1527fb56da50454a",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-13",
+          "title": "New Update : Study Page (App)",
+          "url": "New Update : Study Page (App) : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf42ed5bc0557fc06abccf&topic=New%20Update%20%3A%20Study%20Page%20(App)",
+          "is_pdf": false,
+          "schedule_id": "6abf42ed5bc0557fc06abccf",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        },
+        {
+          "id": "pw-6abe630e-14",
+          "title": "How To Find Lectures?",
+          "url": "How To Find Lectures? : https://courseswala/play?batchId=6abe630e551c8b15403627cd&subjectId=6abf3fdde18e397db31b03df&scheduleId=6abf429fdc424777c16f3f9c&topic=How%20To%20Find%20Lectures%3F",
+          "is_pdf": false,
+          "schedule_id": "6abf429fdc424777c16f3f9c",
+          "subject_id": "6abf3fdde18e397db31b03df",
+          "batch_id": "6abe630e551c8b15403627cd"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-1",
+          "title": "Lecture Planner_PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7fe608b8-bfbe-4225-bddd-2d4c12c62ba6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Telegram Group Link || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-2",
+          "title": "Telegram Group Link  PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb11615b-8a0b-46b4-ba35-1f667b63e171.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Magazine",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-3",
+          "title": "Legal Pulse Monthly Magazine September 2026  Only PDF (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b8d4f367-2db9-4f09-987c-4a024b50c00f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Case Laws || English",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-4",
+          "title": "Case Laws  BNSS _ CrPC ACT_ (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9e3e580-699b-4769-95c2-d3a6f0f49b56.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-5",
+          "title": "Case Laws  ARBITRATION & NI (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d66864a7-68b0-477a-a8cc-6b32ab41fd1b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-6",
+          "title": "Case Laws   BSA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/36a2f9c8-6070-444b-b2f9-277ea39b901b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-7",
+          "title": "Case Laws Constitution (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/72a03215-e1eb-4e71-a46f-ea5d4a1d1dfb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-8",
+          "title": "Case Laws   CONTRACT ACT_SRA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/96210a37-1936-4d48-a8e8-9e86df807458.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-9",
+          "title": "Case Laws  CPC (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e4906597-7e3f-4b63-be90-d7cffbf118a7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-10",
+          "title": "Case Laws  Family Law (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ad5ff3c2-b12f-4d08-a443-c77e2a93196d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-11",
+          "title": "Case Laws   IPC_BNS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fccf748f-3e56-4328-abaf-109024f13507.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-12",
+          "title": "Case Laws  RECENT CASE LAWS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/48629e89-9144-4a56-890d-8f46b7060668.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-13",
+          "title": "Case Laws  TORT_CONSUMERPROTECTION_MVACT (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e99d656-a777-4742-9be6-ad2194421079.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-14",
+          "title": "Case Laws  TPA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0e9e6021-bfbb-4e0e-9e1e-896fd84de781.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Case Laws || Hindi",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-15",
+          "title": "Case Laws BNS_IPC-Hindi (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/94378249-3e0f-40d7-bde4-04152ba64269.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-16",
+          "title": "Case Laws  BNSS Hindi (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/74ea0084-2901-4496-8486-7b221e71df2a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-17",
+          "title": "Case Laws  BSA Hindi (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f81b89e4-b051-4efd-bff8-ece5f36a92ba.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-18",
+          "title": "Case Laws Constitution (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/194c258f-bb5e-4b36-907d-0a540607ef81.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-19",
+          "title": "Case Laws Contract_SRA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/046e1ee5-6066-4ed7-95a9-72be77bd0240.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-20",
+          "title": "Case Laws  CPC (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fbb66e45-7ff8-4878-a7ac-94ae9621ea57.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-21",
+          "title": "Case Laws Family Law (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6137bceb-fbed-4762-a26d-3ef8ccc66bab.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-22",
+          "title": "Case Laws TPA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6623a860-b72f-44b4-938f-0fd7f1a1fb94.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-23",
+          "title": "Case Law_IPC-BNS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/70f85cb8-74c3-4bbc-968f-48d6b47199cd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Handwritten Notes || English || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-24",
+          "title": "Handwritten Notes Modern History (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1c36a16a-52e3-48f6-8db1-be3e831282f6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-25",
+          "title": "Handwritten Notes  TPA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/92bc737f-4bbe-4e63-9fb0-ef7f6979a9d6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-26",
+          "title": "Handwritten Notes Specific Relief Act hwn (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d27d33f1-026b-40b3-80e2-505abad8ab54.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-27",
+          "title": "Handwritten Notes  Polity (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e63bafdb-ab15-4270-a348-66427c6c532c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-28",
+          "title": "Handwritten Notes  LAW OF TORTS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/014c0cb4-bce2-4d2f-94f7-fc961808090d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-29",
+          "title": "Handwritten Notes  Law of Contract (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/af2583aa-d7a0-43aa-9be6-bbd51019156d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-30",
+          "title": "Handwritten Notes  JURISPRUDENCE (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a92428cd-1e37-4d39-9fd7-d05308e8accd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-31",
+          "title": "Handwritten Notes  Indian Partnership Act (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/03bc7c47-9167-4cd4-b2de-bdfdcd8f6e89.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-32",
+          "title": "Handwritten Notes  Family Law (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/66d00403-b73b-4c86-a436-801091a51f54.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-33",
+          "title": "Handwritten Notes  CPC (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b6f9fb16-cc17-4d30-a30c-224664880306.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-34",
+          "title": "Handwritten Notes  COI (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/be8bafab-eca6-4f86-ae21-ca631db4bbb8-linearized.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-35",
+          "title": "Handwritten Notes  BSA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38d8f123-74ee-4976-bf16-0efc962d5736.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-36",
+          "title": "Handwritten Notes BNSS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8b2169d4-020f-44fe-9e37-855bfb33bb4d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-37",
+          "title": "Handwritten Notes  BNS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aee095d4-dd03-44b0-8cc5-fd455c87a8b9-linearized.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-38",
+          "title": "Handwritten Notes  ARBITRATION & NI (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/63e6a64e-23d7-4fba-bc39-398b6cf1e506.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-39",
+          "title": "Handwritten Notes  Limitation Act (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/528000ae-902b-4bfb-8053-d690985a06ee.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-40",
+          "title": "Handwritten Notes  Ancient and Medievel History (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56009c1d-62c1-411b-8d5f-b9afe12cd991.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Handwritten Notes || Hindi || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe630e-41",
+          "title": "Handwritten Notes  TPA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e7e9470c-7916-4ad6-a315-a696b9299bc0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-42",
+          "title": "Handwritten Notes  Torts (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55a8decd-17ea-454f-9568-31808b40c9ad.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-43",
+          "title": "Handwritten Notes  SRA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7ad4bd31-3468-4550-a0f7-1ec97e60afa2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-44",
+          "title": "Handwritten Notes  Registration (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9f11ec0d-64ed-477e-a66b-06b280032669.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-45",
+          "title": "Handwritten Notes  Partnership (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3258a80c-cce2-40a2-9023-5845afca990b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-46",
+          "title": "Handwritten Notes  Limitation (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2fb29ac2-a8bc-43a1-97a7-bc35922a6636.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-47",
+          "title": "Handwritten Notes  JURISDICTION (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9fae1e82-6683-41db-a615-dd799c75df32.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-48",
+          "title": "Handwritten Notes  Family (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e895d9b-9582-43d0-bfb0-ebfc66e8985c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-49",
+          "title": "Handwritten Notes  CPC (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1ff663e2-f241-4166-9a68-d9a9a15e8809.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-50",
+          "title": "Handwritten Notes  Contract (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08c0e177-a7ba-4597-aec7-e4bc01c14015.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-51",
+          "title": "Handwritten Notes  COI (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f5a1468-25a8-4396-b77a-ddc6911dd629.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-52",
+          "title": "Handwritten Notes  BSA (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/30e2eb42-38f4-4393-857f-b5165fe77b93.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-53",
+          "title": "Handwritten Notes  BNSS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/178e1eac-2ba5-4cf0-8cb7-13d93787de30.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe630e-54",
+          "title": "Handwritten Notes  BNS (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3c0eaa41-ee8f-46e8-9e00-fc4fe0b888a5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

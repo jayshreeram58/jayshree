@@ -1,0 +1,115 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6aba0e5bb7accb78d0222e26",
+  "batchSlug": "aktu-semester--iii----mechanical-923829",
+  "batchName": "AKTU Semester (III) - Mechanical",
+  "category": "Targeted Batch for Semester III Aspirants",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d9e1fbd-d45d-4752-ba56-0e5a0a551cd7.png",
+  "totalSections": 2,
+  "totalLectures": 9,
+  "totalNotes": 1,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6aba0e5b-1",
+          "title": "Demo Lecture : Engineering Mathematics by Kavindra Krishna Sir",
+          "url": "Demo Lecture : Engineering Mathematics by Kavindra Krishna Sir : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6ac39e4f63d860c31c84efcf&topic=Demo%20Lecture%20%3A%20Engineering%20Mathematics%20by%20Kavindra%20Krishna%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6ac39e4f63d860c31c84efcf",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-2",
+          "title": "How to find Test Paper and Answer key in the test section || (Video Only)",
+          "url": "How to find Test Paper and Answer key in the test section || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe6382760360e363c47b11&topic=How%20to%20find%20Test%20Paper%20and%20Answer%20key%20in%20the%20test%20section%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe6382760360e363c47b11",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-3",
+          "title": "New Feature Update : Notes Feature in Video Player || (Video Only)",
+          "url": "New Feature Update : Notes Feature in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe6371763eb592adb9dbfd&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe6371763eb592adb9dbfd",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-4",
+          "title": "New Feature Update : New Quality Options in Video Player || (Video Only)",
+          "url": "New Feature Update : New Quality Options in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe636009e4aad6ff80eb5d&topic=New%20Feature%20Update%20%3A%20New%20Quality%20Options%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe636009e4aad6ff80eb5d",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-5",
+          "title": "Important Update : Dark Mode || (Video Only)",
+          "url": "Important Update : Dark Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe6350b5f1bb1f2b5272d8&topic=Important%20Update%20%3A%20Dark%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe6350b5f1bb1f2b5272d8",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-6",
+          "title": "New feature update : Chat Template || (Video Only)",
+          "url": "New feature update : Chat Template || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe633d96ca8507f61dda02&topic=New%20feature%20update%20%3A%20Chat%20Template%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe633d96ca8507f61dda02",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-7",
+          "title": "New Update : Study Page (App) || (Video Only)",
+          "url": "New Update : Study Page (App) || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe632bec2eef64926db687&topic=New%20Update%20%3A%20Study%20Page%20(App)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe632bec2eef64926db687",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-8",
+          "title": "New Feature Update : Audio Mode || (Video Only)",
+          "url": "New Feature Update : Audio Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe6319f9f3d9e218bdb442&topic=New%20Feature%20Update%20%3A%20Audio%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe6319f9f3d9e218bdb442",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        },
+        {
+          "id": "pw-6aba0e5b-9",
+          "title": "New Update : Study Page (Web) || (Video Only)",
+          "url": "New Update : Study Page (Web) || (Video Only) : https://courseswala/play?batchId=6aba0e5bb7accb78d0222e26&subjectId=6abe627d763eb592adb9cc01&scheduleId=6abe630835d10574305cc476&topic=New%20Update%20%3A%20Study%20Page%20(Web)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6abe630835d10574305cc476",
+          "subject_id": "6abe627d763eb592adb9cc01",
+          "batch_id": "6aba0e5bb7accb78d0222e26"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || (PDF Only)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6aba0e5b-1",
+          "title": "3rd Semester Planner (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d3d2c965-1cf6-4611-9145-656d26cc4d92.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

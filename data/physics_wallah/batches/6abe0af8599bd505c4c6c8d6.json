@@ -1,0 +1,360 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6abe0af8599bd505c4c6c8d6",
+  "batchSlug": "bihar-b-ed--foundation-3-0-batch-2027-418724",
+  "batchName": "Bihar B.ed. Foundation 3.0 Batch 2027",
+  "category": "Bihar B.ed Foundation 3.0 Batch 2027",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b4dbda9c-d8f8-440b-8881-e25df9decad9.png",
+  "totalSections": 8,
+  "totalLectures": 23,
+  "totalNotes": 12,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6abe0af8-1",
+          "title": "Demo Lecture : Lakshay Sir || Economics",
+          "url": "Demo Lecture : Lakshay Sir || Economics : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac3650a309a5d99f641c60e&topic=Demo%20Lecture%20%3A%20Lakshay%20Sir%20%7C%7C%20Economics",
+          "is_pdf": false,
+          "schedule_id": "6ac3650a309a5d99f641c60e",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-2",
+          "title": "Demo Lecture : Lakshay Anand Sir || Polity",
+          "url": "Demo Lecture : Lakshay Anand Sir || Polity : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac36119c509b735bfcc63e7&topic=Demo%20Lecture%20%3A%20Lakshay%20Anand%20Sir%20%7C%7C%20Polity",
+          "is_pdf": false,
+          "schedule_id": "6ac36119c509b735bfcc63e7",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-3",
+          "title": "Demo Lecture : Vikrant Tyagi Sir || Geography",
+          "url": "Demo Lecture : Vikrant Tyagi Sir || Geography : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac362b6701facc29b7fd5d6&topic=Demo%20Lecture%20%3A%20Vikrant%20Tyagi%20Sir%20%7C%7C%20Geography",
+          "is_pdf": false,
+          "schedule_id": "6ac362b6701facc29b7fd5d6",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-4",
+          "title": "Demo Lecture : Sanjeet Sir || Bihar GK",
+          "url": "Demo Lecture : Sanjeet Sir || Bihar GK : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac362d7fc480b208b90bbc3&topic=Demo%20Lecture%20%3A%20Sanjeet%20Sir%20%7C%7C%20Bihar%20GK",
+          "is_pdf": false,
+          "schedule_id": "6ac362d7fc480b208b90bbc3",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-5",
+          "title": "Demo Lecture : Sanjeet Sir || Current Affairs",
+          "url": "Demo Lecture : Sanjeet Sir || Current Affairs : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac362e7be61a1f1ee82e377&topic=Demo%20Lecture%20%3A%20Sanjeet%20Sir%20%7C%7C%20Current%20Affairs",
+          "is_pdf": false,
+          "schedule_id": "6ac362e7be61a1f1ee82e377",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-6",
+          "title": "Demo Lecture : Himani Ma'am || Science",
+          "url": "Demo Lecture : Himani Ma'am || Science : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac36335d086089194eea986&topic=Demo%20Lecture%20%3A%20Himani%20Ma'am%20%7C%7C%20Science",
+          "is_pdf": false,
+          "schedule_id": "6ac36335d086089194eea986",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-7",
+          "title": "Demo Lecture : Deepak Sir || Hindi",
+          "url": "Demo Lecture : Deepak Sir || Hindi : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac36351dcfb8048dd60474d&topic=Demo%20Lecture%20%3A%20Deepak%20Sir%20%7C%7C%20Hindi",
+          "is_pdf": false,
+          "schedule_id": "6ac36351dcfb8048dd60474d",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-8",
+          "title": "Demo Lecture : Vikrant Chaudhary Sir || History",
+          "url": "Demo Lecture : Vikrant Chaudhary Sir || History : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac36364d2b3f2fc5d6f105b&topic=Demo%20Lecture%20%3A%20Vikrant%20Chaudhary%20Sir%20%7C%7C%20History",
+          "is_pdf": false,
+          "schedule_id": "6ac36364d2b3f2fc5d6f105b",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-9",
+          "title": "Demo Lecture : Rajneesh Kaur Ma'am || English",
+          "url": "Demo Lecture : Rajneesh Kaur Ma'am || English : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac36378c8aff69bf7b2e5e5&topic=Demo%20Lecture%20%3A%20Rajneesh%20Kaur%20Ma'am%20%7C%7C%20English",
+          "is_pdf": false,
+          "schedule_id": "6ac36378c8aff69bf7b2e5e5",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-10",
+          "title": "Demo Lecture : Ankit Sir || Reasoning",
+          "url": "Demo Lecture : Ankit Sir || Reasoning : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac3638a8f55e861f2f0f531&topic=Demo%20Lecture%20%3A%20Ankit%20Sir%20%7C%7C%20Reasoning",
+          "is_pdf": false,
+          "schedule_id": "6ac3638a8f55e861f2f0f531",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-11",
+          "title": "Demo lecture : Arun Kumar Sir || Static GK/Pedagogy,",
+          "url": "Demo lecture : Arun Kumar Sir || Static GK/Pedagogy, : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac363f70c0ac66763afad2b&topic=Demo%20lecture%20%3A%20Arun%20Kumar%20Sir%20%7C%7C%20Static%20GK%2FPedagogy%2C",
+          "is_pdf": false,
+          "schedule_id": "6ac363f70c0ac66763afad2b",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-12",
+          "title": "Guidelines of Batch",
+          "url": "Guidelines of Batch : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35de7d6d3c8a38c154f8e&topic=Guidelines%20of%20Batch",
+          "is_pdf": false,
+          "schedule_id": "6ac35de7d6d3c8a38c154f8e",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-13",
+          "title": "How To Give Test?",
+          "url": "How To Give Test? : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e10b2c134827808d7a2&topic=How%20To%20Give%20Test%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac35e10b2c134827808d7a2",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-14",
+          "title": "How to get DPP Quiz & DPPs PDF ?",
+          "url": "How to get DPP Quiz & DPPs PDF ? : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e22dcfb8048dd5feb80&topic=How%20to%20get%20DPP%20Quiz%20%26%20DPPs%20PDF%20%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac35e22dcfb8048dd5feb80",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-15",
+          "title": "How To Find Lectures?",
+          "url": "How To Find Lectures? : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e36e04aca949e2b8a6b&topic=How%20To%20Find%20Lectures%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac35e36e04aca949e2b8a6b",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-16",
+          "title": "New Feature Update : New Quality Options in Video Player",
+          "url": "New Feature Update : New Quality Options in Video Player : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e51309a5d99f641a2b0&topic=New%20Feature%20Update%20%3A%20New%20Quality%20Options%20in%20Video%20Player",
+          "is_pdf": false,
+          "schedule_id": "6ac35e51309a5d99f641a2b0",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-17",
+          "title": "New Update : Study Page (APP)",
+          "url": "New Update : Study Page (APP) : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e6ab1e2b410f147705f&topic=New%20Update%20%3A%20Study%20Page%20(APP)",
+          "is_pdf": false,
+          "schedule_id": "6ac35e6ab1e2b410f147705f",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-18",
+          "title": "New Update : Study Page (WEB)",
+          "url": "New Update : Study Page (WEB) : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e7f309a5d99f641a410&topic=New%20Update%20%3A%20Study%20Page%20(WEB)",
+          "is_pdf": false,
+          "schedule_id": "6ac35e7f309a5d99f641a410",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-19",
+          "title": "New Feature Update : Audio Mode",
+          "url": "New Feature Update : Audio Mode : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35e8fe2e018c0274b531d&topic=New%20Feature%20Update%20%3A%20Audio%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6ac35e8fe2e018c0274b531d",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        },
+        {
+          "id": "pw-6abe0af8-20",
+          "title": "New Feature Update : Notes Feature in Video Player",
+          "url": "New Feature Update : Notes Feature in Video Player : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac34514e57f49bbc326b89a&scheduleId=6ac35eab1a1c046bfb9a92ed&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20in%20Video%20Player",
+          "is_pdf": false,
+          "schedule_id": "6ac35eab1a1c046bfb9a92ed",
+          "subject_id": "6ac34514e57f49bbc326b89a",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Telegram Group Link || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe0af8-1",
+          "title": "Telegram Group Link PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/46a67f1d-69f1-49f1-9950-24eae4e64249.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Magazine || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe0af8-2",
+          "title": "Current Affairs Magazine  October (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/07bc9f30-271c-42f3-a82d-e8a98e88f5c8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-3",
+          "title": "Current Affairs Magazine  October (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d333428c-2f33-4b31-b852-7e594c7fba99-linearized.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-4",
+          "title": "Current Affairs Magazine September (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/409617b1-6fd8-4940-ba9d-2031e68d32f7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-5",
+          "title": "Current Affairs Magazine September (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/672b090b-f2ee-42ba-b87f-0a42c672bf31.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-6",
+          "title": "Current Affairs Magazine August (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cae0f540-20a5-4b2c-b475-aefaa96474da.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-7",
+          "title": "Current Affairs Magazine August (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0219498b-858e-4f2b-8a05-368272629623.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-8",
+          "title": "Current Affairs Magazine  July (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/be2c6267-45cd-421b-8b60-5fe4e5979732.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-9",
+          "title": "Current Affairs Magazine  July (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/92c53cb3-b3da-4423-b043-d909cfbe79db.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Starter Kit",
+      "sectionName": "Welcome Message || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe0af8-10",
+          "title": "Welcome Message PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c93f9bda-a165-4fa8-84c6-c35a76ae11d2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Starter Kit",
+      "sectionName": "Navigation Video",
+      "lectures": [
+        {
+          "id": "pw-6abe0af8-21",
+          "title": "Why to study with PW?",
+          "url": "Why to study with PW? : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac35e65f121bd5c9695e5d5&scheduleId=6ac35f711a1c046bfb9a977d&topic=Why%20to%20study%20with%20PW%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac35f711a1c046bfb9a977d",
+          "subject_id": "6ac35e65f121bd5c9695e5d5",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Starter Kit",
+      "sectionName": "Mitra",
+      "lectures": [
+        {
+          "id": "pw-6abe0af8-22",
+          "title": "Mitra",
+          "url": "Mitra : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac35e65f121bd5c9695e5d5&scheduleId=6ac35f8236a8bf77dcf41b97&topic=Mitra",
+          "is_pdf": false,
+          "schedule_id": "6ac35f8236a8bf77dcf41b97",
+          "subject_id": "6ac35e65f121bd5c9695e5d5",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Starter Kit",
+      "sectionName": "Ask Doubt",
+      "lectures": [
+        {
+          "id": "pw-6abe0af8-23",
+          "title": "Ask Doubt",
+          "url": "Ask Doubt : https://courseswala/play?batchId=6abe0af8599bd505c4c6c8d6&subjectId=6ac35e65f121bd5c9695e5d5&scheduleId=6ac35f58be61a1f1ee82c118&topic=Ask%20Doubt",
+          "is_pdf": false,
+          "schedule_id": "6ac35f58be61a1f1ee82c118",
+          "subject_id": "6ac35e65f121bd5c9695e5d5",
+          "batch_id": "6abe0af8599bd505c4c6c8d6"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Starter Kit",
+      "sectionName": "Maps || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abe0af8-11",
+          "title": "India Map PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1be4ce49-55a6-4af4-9294-b95aa95418a7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abe0af8-12",
+          "title": "World Map PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f0ef03cf-1a5c-4f68-86bf-860af2e5a0ed.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

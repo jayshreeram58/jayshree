@@ -1,0 +1,2936 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6abb705790bf9cdaa2b4fb77",
+  "batchSlug": "maharashtra-police-bharti-2026-262133",
+  "batchName": "Maharashtra Police Bharti 2026",
+  "category": "महाराष्ट्र पोलीस भरती 2026",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/796c398b-b4aa-464c-9621-31441e3fbcb9.png",
+  "totalSections": 9,
+  "totalLectures": 97,
+  "totalNotes": 283,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-1",
+          "title": "New Update : Study Page (WEB)",
+          "url": "New Update : Study Page (WEB) : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb32389d27b1e7b262cac&topic=New%20Update%20%3A%20Study%20Page%20(WEB)",
+          "is_pdf": false,
+          "schedule_id": "6abcb32389d27b1e7b262cac",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-2",
+          "title": "New Update : Study Page (APP)",
+          "url": "New Update : Study Page (APP) : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb33889d27b1e7b262d29&topic=New%20Update%20%3A%20Study%20Page%20(APP)",
+          "is_pdf": false,
+          "schedule_id": "6abcb33889d27b1e7b262d29",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-3",
+          "title": "PW Support tutorial",
+          "url": "PW Support tutorial : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb34e02f8003f84762f4e&topic=PW%20Support%20tutorial",
+          "is_pdf": false,
+          "schedule_id": "6abcb34e02f8003f84762f4e",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-4",
+          "title": "Guidelines Of Batch",
+          "url": "Guidelines Of Batch : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb364e00e96424976e3c6&topic=Guidelines%20Of%20Batch",
+          "is_pdf": false,
+          "schedule_id": "6abcb364e00e96424976e3c6",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-5",
+          "title": "Demo Lecture : Praful Sir",
+          "url": "Demo Lecture : Praful Sir : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb3a047014e95297d0484&topic=Demo%20Lecture%20%3A%20Praful%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6abcb3a047014e95297d0484",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-6",
+          "title": "डेमो लेक्चर : संतोष सर  (Arithmetic)",
+          "url": "डेमो लेक्चर : संतोष सर  (Arithmetic) : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb42ebbb63ee4a8b09eb2&topic=%E0%A4%A1%E0%A5%87%E0%A4%AE%E0%A5%8B%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0%20%3A%20%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%8B%E0%A4%B7%20%E0%A4%B8%E0%A4%B0%20%20(Arithmetic)",
+          "is_pdf": false,
+          "schedule_id": "6abcb42ebbb63ee4a8b09eb2",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-7",
+          "title": "Demo Lecture : Praful Sir (General Knowledge)",
+          "url": "Demo Lecture : Praful Sir (General Knowledge) : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ec1d5e68f254bf2b7ec&scheduleId=6abcb4498b1002cfe1ed1ca1&topic=Demo%20Lecture%20%3A%20Praful%20Sir%20(General%20Knowledge)",
+          "is_pdf": false,
+          "schedule_id": "6abcb4498b1002cfe1ed1ca1",
+          "subject_id": "6abc7ec1d5e68f254bf2b7ec",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abb7057-1",
+          "title": "Lecture Planner  PYQ Sessions (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7ce52afe-ac4c-4570-bf86-b6307fc7b411.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-2",
+          "title": "Lecture Planner  Marathi (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c5fc3a10-9303-4705-8230-c01d9ec42bd3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-3",
+          "title": "Lecture Planner  GK (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f2bab20-c485-45f7-9510-052aec8db71f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-4",
+          "title": "Lecture Planner  Arithmatic (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3dff77a1-ccc3-445f-b17c-a0e246470fa7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-5",
+          "title": "Lecture Planner  Intelligence Test (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/398dcb7a-bcc6-4fed-af2b-757fb26b5a72.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Arithmetic",
+      "sectionName": "Arithmetic",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-8",
+          "title": "Arithmetic 33 : भूमिती भाग - 2",
+          "url": "Arithmetic 33 : भूमिती भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6268115d88b0348671b4a&topic=Arithmetic%2033%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6268115d88b0348671b4a",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-9",
+          "title": "Arithmetic 32 : भूमिती भाग - 1",
+          "url": "Arithmetic 32 : भूमिती भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac62681ea18dd4974090f73&topic=Arithmetic%2032%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac62681ea18dd4974090f73",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-10",
+          "title": "Arithmetic 31 : परिमाणे",
+          "url": "Arithmetic 31 : परिमाणे : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac62681ea18dd4974090dd9&topic=Arithmetic%2031%20%3A%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%87",
+          "is_pdf": false,
+          "schedule_id": "6ac62681ea18dd4974090dd9",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-11",
+          "title": "Arithmetic 30 : सूट, कमिशन व दलाली",
+          "url": "Arithmetic 30 : सूट, कमिशन व दलाली : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6268059e1c9e02b6583e0&topic=Arithmetic%2030%20%3A%20%E0%A4%B8%E0%A5%82%E0%A4%9F%2C%20%E0%A4%95%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A4%A8%20%E0%A4%B5%20%E0%A4%A6%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A5%80",
+          "is_pdf": false,
+          "schedule_id": "6ac6268059e1c9e02b6583e0",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-12",
+          "title": "Arithmetic 29 : पाण्याची टाकी व नळ",
+          "url": "Arithmetic 29 : पाण्याची टाकी व नळ : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac62680ea18dd4974090c50&topic=Arithmetic%2029%20%3A%20%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%80%20%E0%A4%9F%E0%A4%BE%E0%A4%95%E0%A5%80%20%E0%A4%B5%20%E0%A4%A8%E0%A4%B3",
+          "is_pdf": false,
+          "schedule_id": "6ac62680ea18dd4974090c50",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-13",
+          "title": "Arithmetic 28 : काळ - काम - वेग - भाग - 2",
+          "url": "Arithmetic 28 : काळ - काम - वेग - भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267f15d88b03486719ba&topic=Arithmetic%2028%20%3A%20%E0%A4%95%E0%A4%BE%E0%A4%B3%20-%20%E0%A4%95%E0%A4%BE%E0%A4%AE%20-%20%E0%A4%B5%E0%A5%87%E0%A4%97%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267f15d88b03486719ba",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-14",
+          "title": "Arithmetic 27 : काळ - काम - वेग - भाग - 1",
+          "url": "Arithmetic 27 : काळ - काम - वेग - भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267f15d88b0348671853&topic=Arithmetic%2027%20%3A%20%E0%A4%95%E0%A4%BE%E0%A4%B3%20-%20%E0%A4%95%E0%A4%BE%E0%A4%AE%20-%20%E0%A4%B5%E0%A5%87%E0%A4%97%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267f15d88b0348671853",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-15",
+          "title": "Arithmetic 26 : वेग - वेळ - अंतर भाग - 2",
+          "url": "Arithmetic 26 : वेग - वेळ - अंतर भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267eea18dd4974090ada&topic=Arithmetic%2026%20%3A%20%E0%A4%B5%E0%A5%87%E0%A4%97%20-%20%E0%A4%B5%E0%A5%87%E0%A4%B3%20-%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267eea18dd4974090ada",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-16",
+          "title": "Arithmetic 25 : वेग - वेळ - अंतर भाग - 1",
+          "url": "Arithmetic 25 : वेग - वेळ - अंतर भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267eea18dd497409098a&topic=Arithmetic%2025%20%3A%20%E0%A4%B5%E0%A5%87%E0%A4%97%20-%20%E0%A4%B5%E0%A5%87%E0%A4%B3%20-%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267eea18dd497409098a",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-17",
+          "title": "Arithmetic 24 : गुणोत्तर व प्रमाण भाग - 2",
+          "url": "Arithmetic 24 : गुणोत्तर व प्रमाण भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267e59e1c9e02b658268&topic=Arithmetic%2024%20%3A%20%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%20%E0%A4%B5%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267e59e1c9e02b658268",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-18",
+          "title": "Arithmetic 23 : गुणोत्तर व प्रमाण भाग - 1",
+          "url": "Arithmetic 23 : गुणोत्तर व प्रमाण भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267d15d88b0348671708&topic=Arithmetic%2023%20%3A%20%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%20%E0%A4%B5%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267d15d88b0348671708",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-19",
+          "title": "Arithmetic 22 : सरळव्याज - चक्रवाढ व्याज भाग - 3",
+          "url": "Arithmetic 22 : सरळव्याज - चक्रवाढ व्याज भाग - 3 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267dea18dd4974090841&topic=Arithmetic%2022%20%3A%20%E0%A4%B8%E0%A4%B0%E0%A4%B3%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20-%20%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A2%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%203",
+          "is_pdf": false,
+          "schedule_id": "6ac6267dea18dd4974090841",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-20",
+          "title": "Arithmetic 21 : सरळव्याज - चक्रवाढ व्याज भाग - 2",
+          "url": "Arithmetic 21 : सरळव्याज - चक्रवाढ व्याज भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267cea18dd497409071e&topic=Arithmetic%2021%20%3A%20%E0%A4%B8%E0%A4%B0%E0%A4%B3%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20-%20%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A2%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267cea18dd497409071e",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-21",
+          "title": "Arithmetic 20 : सरळव्याज - चक्रवाढ व्याज भाग - 1",
+          "url": "Arithmetic 20 : सरळव्याज - चक्रवाढ व्याज भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267c15d88b03486715de&topic=Arithmetic%2020%20%3A%20%E0%A4%B8%E0%A4%B0%E0%A4%B3%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20-%20%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A2%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267c15d88b03486715de",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-22",
+          "title": "Arithmetic 19 : नफा - तोटा भाग - 2",
+          "url": "Arithmetic 19 : नफा - तोटा भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267c15d88b03486714d4&topic=Arithmetic%2019%20%3A%20%E0%A4%A8%E0%A4%AB%E0%A4%BE%20-%20%E0%A4%A4%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267c15d88b03486714d4",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-23",
+          "title": "Arithmetic 18 : नफा - तोटा भाग - 1",
+          "url": "Arithmetic 18 : नफा - तोटा भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267b15d88b03486713d9&topic=Arithmetic%2018%20%3A%20%E0%A4%A8%E0%A4%AB%E0%A4%BE%20-%20%E0%A4%A4%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267b15d88b03486713d9",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-24",
+          "title": "Arithmetic 17 : शेकडेवारी भाग - 3",
+          "url": "Arithmetic 17 : शेकडेवारी भाग - 3 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267b15d88b03486712ea&topic=Arithmetic%2017%20%3A%20%E0%A4%B6%E0%A5%87%E0%A4%95%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%203",
+          "is_pdf": false,
+          "schedule_id": "6ac6267b15d88b03486712ea",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-25",
+          "title": "Arithmetic 16 : शेकडेवारी भाग - 2",
+          "url": "Arithmetic 16 : शेकडेवारी भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267a15d88b0348671207&topic=Arithmetic%2016%20%3A%20%E0%A4%B6%E0%A5%87%E0%A4%95%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267a15d88b0348671207",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-26",
+          "title": "Arithmetic 15 : शेकडेवारी भाग - 1",
+          "url": "Arithmetic 15 : शेकडेवारी भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267a15d88b0348671131&topic=Arithmetic%2015%20%3A%20%E0%A4%B6%E0%A5%87%E0%A4%95%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6267a15d88b0348671131",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-27",
+          "title": "Arithmetic 14 : सरासरी भाग - 2",
+          "url": "Arithmetic 14 : सरासरी भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ed9c93aa96ead5fca8c&scheduleId=6ac6267915d88b0348671061&topic=Arithmetic%2014%20%3A%20%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6267915d88b0348671061",
+          "subject_id": "6abc7ed9c93aa96ead5fca8c",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-6",
+          "title": "Arithmetic 33  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d28a6d6e-1e63-4fb9-9f62-699ffb4f5c86.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-7",
+          "title": "Arithmetic 33  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cd7926da-a291-48f7-a357-145ab2c385b2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-8",
+          "title": "Arithmetic 32  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1f54ebc9-8c42-4ec2-a188-3c300aa2efd7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-9",
+          "title": "Arithmetic 32  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/afcfaa7a-a5ca-4b96-90d9-7ee3a03980ed.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-10",
+          "title": "Arithmetic 31  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da010e63-6179-40e1-8e9b-296814abc2b7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-11",
+          "title": "Arithmetic 31  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a53aba1d-ae54-497c-91e0-7aed31b9d3cb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-12",
+          "title": "Arithmetic 30  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/68c99774-222e-4423-8248-9bfb81d7d3cb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-13",
+          "title": "Arithmetic 30  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/988aa4e7-867b-4e3e-ab17-a04806cc22a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-14",
+          "title": "Arithmetic 29  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/53e3f531-31a6-418c-ab98-ea0917cc0c11.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-15",
+          "title": "Arithmetic 29  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a011875-30cb-4ebb-988c-29675ef5302d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-16",
+          "title": "Arithmetic 28  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f002ab6b-a9db-4c05-bbc1-5538bd93d729.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-17",
+          "title": "Arithmetic 28  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/953a686c-863b-4889-9540-3098ad813f4f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-18",
+          "title": "Arithmetic 27  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e8337e74-af2e-4623-b302-ca53fe2878cd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-19",
+          "title": "Arithmetic 27  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ffde9ff-aa26-46a6-be9c-d7cfc720832d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-20",
+          "title": "Arithmetic 26  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d2ab7fa4-d99b-4664-bb02-118600e592d6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-21",
+          "title": "Arithmetic 26  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7f13b766-771e-4734-a577-4e4d7a8eef18.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-22",
+          "title": "Arithmetic 25  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dce3ba4a-6bec-4a49-b0a7-36bf453c35cf.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-23",
+          "title": "Arithmetic 25  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d8d854c4-9c66-4bc5-b7fa-c889c38d9ad4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-24",
+          "title": "Arithmetic 24  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/26f2c754-ba41-42c6-8838-6486414093e1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-25",
+          "title": "Arithmetic 24  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56163c3d-06f7-4df9-94a4-2b592db6002b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-26",
+          "title": "Arithmetic 23  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e7bb66bb-af31-452b-a462-85a67cdcc866.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-27",
+          "title": "Arithmetic 23  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cef36831-900a-441b-a870-57dc404b87e5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-28",
+          "title": "Arithmetic 22  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebf6cf1-a564-41ac-bca7-4cc73764a14b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-29",
+          "title": "Arithmetic 22  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7cfa786e-cea8-4020-9671-c904d72dff2f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-30",
+          "title": "Arithmetic 21  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/01ed3b9b-a467-48ec-93b7-f9861923709b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-31",
+          "title": "Arithmetic 21  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4907a6a6-e400-4857-ad3e-4da5447880b6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-32",
+          "title": "Arithmetic 20  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6e5f3f8d-2a70-4539-ac0b-0c7fa6f68605.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-33",
+          "title": "Arithmetic 20  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b64e2ccc-3666-4b91-a738-fc6a6d6f43e3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-34",
+          "title": "Arithmetic 19 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/378e20ce-a901-4802-881d-8078d1cca6b2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-35",
+          "title": "Arithmetic 19 Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0f556dca-5a7b-40ca-8e23-6675fe1eeff6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-36",
+          "title": "Arithmetic 18  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/33b7a114-a984-45c1-be25-d9375490be5e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-37",
+          "title": "Arithmetic 18  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3e33f0b-75f1-4e36-8d85-584c89049ae1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-38",
+          "title": "Arithmetic 17  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ba86dff9-a0c8-40bd-a396-26bdcb959719.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-39",
+          "title": "Arithmetic 17  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/94c83e67-c4b6-4745-9967-132ce0332bb3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-40",
+          "title": "Arithmetic 16  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1dbd8619-7eeb-40ec-8ace-b28ba5a99fc1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-41",
+          "title": "Arithmetic 16  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0d70e25-6ef9-4ca0-9744-730915fcaf8c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-42",
+          "title": "Arithmetic 15  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/53804f88-87d0-4044-9ea7-fbe1e2ca0154.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-43",
+          "title": "Arithmetic 15  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c5a07f99-111d-476c-bb4b-6fccb11f75b9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-44",
+          "title": "Arithmetic 14  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b519e0e6-e867-472c-baf1-6172c3f945e4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-45",
+          "title": "Arithmetic 14  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b349f9c-3778-485d-bd9e-844c5b464b9c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6abb7057-46",
+          "title": "Arithmetic  DPP 33 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b1537808-272a-4750-a300-91f8d7f45fc2.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-47",
+          "title": "Arithmetic  DPP 32 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/39e623d5-e87c-4492-b1a5-1d70bd461b67.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-48",
+          "title": "Arithmetic  DPP 30 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8a588da-08bd-4383-93f8-a06839a391c0.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-49",
+          "title": "Arithmetic  DPP 29 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c4cde663-a9be-46f8-accd-c08840f73f75.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-50",
+          "title": "Arithmetic  DPP 29 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4108d656-3959-4aab-b9f8-15b5b28af9a4.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-51",
+          "title": "Arithmetic  DPP 28 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dc2b00e9-ef70-4187-823f-b414a7c36a4c.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-52",
+          "title": "Arithmetic  DPP 27 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/42bd0f10-3493-4948-9f10-1fbc4229fa84.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-53",
+          "title": "Arithmetic  DPP 26 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/333a63de-6e6c-4b37-818e-7e97927d2c50.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-54",
+          "title": "Arithmetic  DPP 25 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4466bfae-048b-47b5-a37b-24da28ce7940.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-55",
+          "title": "Arithmetic  DPP 24 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f6d9e766-722e-47e3-a92e-af4003717e0e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-56",
+          "title": "Arithmetic  DPP 23 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ecd0c634-e28f-4951-80c5-0a625d69d292.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-57",
+          "title": "Arithmetic  DPP 22 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/00682a47-06c1-4c3d-938b-0b7d0db21380.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-58",
+          "title": "Arithmetic  DPP 21 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b651b239-f870-42dd-bd43-5679c6616db8.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-59",
+          "title": "Arithmetic  DPP 20 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7388ccab-e5a2-4151-99e8-bab796dd6e6e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-60",
+          "title": "Arithmetic  DPP 19 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7c28b690-1e97-494b-ad8c-d0a4dda2b78e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-61",
+          "title": "Arithmetic  DPP 18 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce5e1912-8a9b-4b5b-925d-4770eff8c76f.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-62",
+          "title": "Arithmetic  DPP 17 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/206061aa-86e7-42ba-85f1-6acf99f5735b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-63",
+          "title": "Arithmetic  DPP 16 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bc0efe37-7fc3-4a7c-bcab-748ee343bc9b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-64",
+          "title": "Arithmetic  DPP 15 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/15a2e3d7-1919-4b1e-8df9-a04c8585e986.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-65",
+          "title": "Arithmetic  DPP 14 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/00bf012d-d5b7-4334-a72c-41bc06e74b89.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Marathi",
+      "sectionName": "Marathi",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-28",
+          "title": "Marathi 44 : PYQ || NO DPP",
+          "url": "Marathi 44 : PYQ || NO DPP : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fd6c0b5ecfa8d3fe12&topic=Marathi%2044%20%3A%20PYQ%20%7C%7C%20NO%20DPP",
+          "is_pdf": false,
+          "schedule_id": "6ac626fd6c0b5ecfa8d3fe12",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-29",
+          "title": "Marathi 43 : साहित्य (ग्रंथ - ग्रंथकार व टोपणनावे)",
+          "url": "Marathi 43 : साहित्य (ग्रंथ - ग्रंथकार व टोपणनावे) : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fc6c0b5ecfa8d3fdfd&topic=Marathi%2043%20%3A%20%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%20(%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5%20-%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%B5%20%E0%A4%9F%E0%A5%8B%E0%A4%AA%E0%A4%A3%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A5%87)",
+          "is_pdf": false,
+          "schedule_id": "6ac626fc6c0b5ecfa8d3fdfd",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-30",
+          "title": "Marathi 42 : वाक्प्रचार",
+          "url": "Marathi 42 : वाक्प्रचार : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fc6c0b5ecfa8d3fbe8&topic=Marathi%2042%20%3A%20%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9A%E0%A4%BE%E0%A4%B0",
+          "is_pdf": false,
+          "schedule_id": "6ac626fc6c0b5ecfa8d3fbe8",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-31",
+          "title": "Marathi 41 : म्हणी",
+          "url": "Marathi 41 : म्हणी : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fced0da36fadaee406&topic=Marathi%2041%20%3A%20%E0%A4%AE%E0%A5%8D%E0%A4%B9%E0%A4%A3%E0%A5%80",
+          "is_pdf": false,
+          "schedule_id": "6ac626fced0da36fadaee406",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-32",
+          "title": "Marathi 40 : शब्दसमूह व मिश्र सराव-2",
+          "url": "Marathi 40 : शब्दसमूह व मिश्र सराव-2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fb6c0b5ecfa8d3f9e3&topic=Marathi%2040%20%3A%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%B8%E0%A4%AE%E0%A5%82%E0%A4%B9%20%E0%A4%B5%20%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0%20%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%B5-2",
+          "is_pdf": false,
+          "schedule_id": "6ac626fb6c0b5ecfa8d3f9e3",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-33",
+          "title": "Marathi 39 : शब्दसमूह व मिश्र सराव",
+          "url": "Marathi 39 : शब्दसमूह व मिश्र सराव : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fbd7798e38dc6425d3&topic=Marathi%2039%20%3A%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%B8%E0%A4%AE%E0%A5%82%E0%A4%B9%20%E0%A4%B5%20%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0%20%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%B5",
+          "is_pdf": false,
+          "schedule_id": "6ac626fbd7798e38dc6425d3",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-34",
+          "title": "Marathi 38 : शब्दसमूहाबद्दल एक शब्द,समहुदर्शक शब्द",
+          "url": "Marathi 38 : शब्दसमूहाबद्दल एक शब्द,समहुदर्शक शब्द : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fad7798e38dc6423e9&topic=Marathi%2038%20%3A%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%B8%E0%A4%AE%E0%A5%82%E0%A4%B9%E0%A4%BE%E0%A4%AC%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%B2%20%E0%A4%8F%E0%A4%95%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%2C%E0%A4%B8%E0%A4%AE%E0%A4%B9%E0%A5%81%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%95%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6",
+          "is_pdf": false,
+          "schedule_id": "6ac626fad7798e38dc6423e9",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-35",
+          "title": "Marathi 37 : समानार्थी शब्द ,विरुद्धार्थी शब्द",
+          "url": "Marathi 37 : समानार्थी शब्द ,विरुद्धार्थी शब्द : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fad7798e38dc64220f&topic=Marathi%2037%20%3A%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%80%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%2C%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%80%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6",
+          "is_pdf": false,
+          "schedule_id": "6ac626fad7798e38dc64220f",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-36",
+          "title": "Marathi 36 : अशुद्ध व शुद्ध शब्द",
+          "url": "Marathi 36 : अशुद्ध व शुद्ध शब्द : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f9d7798e38dc64203e&topic=Marathi%2036%20%3A%20%E0%A4%85%E0%A4%B6%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%B5%20%E0%A4%B6%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6",
+          "is_pdf": false,
+          "schedule_id": "6ac626f9d7798e38dc64203e",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-37",
+          "title": "Marathi 35 : शब्दसिद्धी",
+          "url": "Marathi 35 : शब्दसिद्धी : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f96c0b5ecfa8d3f80c&topic=Marathi%2035%20%3A%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%80",
+          "is_pdf": false,
+          "schedule_id": "6ac626f96c0b5ecfa8d3f80c",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-38",
+          "title": "Marathi 34 : विरामचिन्हे",
+          "url": "Marathi 34 : विरामचिन्हे : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f9d7798e38dc641e71&topic=Marathi%2034%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%87",
+          "is_pdf": false,
+          "schedule_id": "6ac626f9d7798e38dc641e71",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-39",
+          "title": "Marathi 33 : अलंकारिक शब्द",
+          "url": "Marathi 33 : अलंकारिक शब्द : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f8d7798e38dc641cc2&topic=Marathi%2033%20%3A%20%E0%A4%85%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6",
+          "is_pdf": false,
+          "schedule_id": "6ac626f8d7798e38dc641cc2",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-40",
+          "title": "Marathi 32 : अलंकार भाग - 2",
+          "url": "Marathi 32 : अलंकार भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f8d7798e38dc641b24&topic=Marathi%2032%20%3A%20%E0%A4%85%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac626f8d7798e38dc641b24",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-41",
+          "title": "Marathi 31 : अलंकार भाग - 1",
+          "url": "Marathi 31 : अलंकार भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f76c0b5ecfa8d3f662&topic=Marathi%2031%20%3A%20%E0%A4%85%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac626f76c0b5ecfa8d3f662",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-42",
+          "title": "Marathi 30 : वाक्यरूपांतर",
+          "url": "Marathi 30 : वाक्यरूपांतर : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f7d7798e38dc64199a&topic=Marathi%2030%20%3A%20%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%B0",
+          "is_pdf": false,
+          "schedule_id": "6ac626f7d7798e38dc64199a",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-43",
+          "title": "Marathi 29 : वाक्यप्रकार",
+          "url": "Marathi 29 : वाक्यप्रकार : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f6d7798e38dc641823&topic=Marathi%2029%20%3A%20%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0",
+          "is_pdf": false,
+          "schedule_id": "6ac626f6d7798e38dc641823",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-44",
+          "title": "Marathi 28 : वाक्यपृथक्करण",
+          "url": "Marathi 28 : वाक्यपृथक्करण : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f66c0b5ecfa8d3f4ea&topic=Marathi%2028%20%3A%20%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%A3",
+          "is_pdf": false,
+          "schedule_id": "6ac626f66c0b5ecfa8d3f4ea",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-45",
+          "title": "Marathi 27 : समास भाग - 2",
+          "url": "Marathi 27 : समास भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f56c0b5ecfa8d3f38b&topic=Marathi%2027%20%3A%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B8%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac626f56c0b5ecfa8d3f38b",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-46",
+          "title": "Marathi 26 : समास भाग - 1",
+          "url": "Marathi 26 : समास भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f5ed0da36fadaee235&topic=Marathi%2026%20%3A%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B8%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac626f5ed0da36fadaee235",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-47",
+          "title": "Marathi 25 : प्रयोग भाग - 2",
+          "url": "Marathi 25 : प्रयोग भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626f5d7798e38dc6416b4&topic=Marathi%2025%20%3A%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac626f5d7798e38dc6416b4",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-66",
+          "title": "Marathi 44  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/24205816-2a63-491d-9477-ce77b04bfe1a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-67",
+          "title": "Marathi 44  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b9dfb90d-2ade-41c5-acf5-b0ab9a185034.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-68",
+          "title": "Marathi 43  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f29ac67e-0394-409a-8b37-21c9373fd711.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-69",
+          "title": "Marathi 43  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/92349b71-fe90-4e6c-bd6d-4d1520b5800d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-70",
+          "title": "Marathi 42  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0c97583f-d729-4056-9ed0-8efd55ae16e6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-71",
+          "title": "Marathi 42  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/48fa4e7c-e997-4665-998c-60bb67ad3d3f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-72",
+          "title": "Marathi 41  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3c9ee042-8803-4293-94d0-ab85b88539b2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-73",
+          "title": "Marathi 41  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b940e65a-c66a-45e4-8043-e3378eca5307.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-74",
+          "title": "Marathi 40  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9413985d-ebd3-42cb-b3f6-aee85981f9be.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-75",
+          "title": "Marathi 40  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8f9918a-0d23-4a81-9ef8-fb1a371e39eb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-76",
+          "title": "Marathi 39  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7a869cfe-2e3c-4d75-aa23-80e2cb2b92f7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-77",
+          "title": "Marathi 39  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dd7a6bb0-2443-41b5-9988-c2c8f61463d3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-78",
+          "title": "Marathi 38  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1b11257b-2f49-4eba-a0a0-baf7a18ed907.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-79",
+          "title": "Marathi 38  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b7736849-8c89-4ef7-909c-5f586c1b2d76.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-80",
+          "title": "Marathi 37  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8150e6f8-c909-4e20-b7eb-efc7995cc39c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-81",
+          "title": "Marathi 37  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/beeca175-eb7c-404c-b5e7-c57ec41c7943.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-82",
+          "title": "Marathi 36  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7d05740b-caf2-496d-94b8-3281de47598c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-83",
+          "title": "Marathi 36  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/26b82e54-ae40-4647-b4a4-7f61867de1aa.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-84",
+          "title": "Marathi 35  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e421d547-e56c-4e7c-b8f8-83abb979b944.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-85",
+          "title": "Marathi 35   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7e391da5-2e1e-4ae4-92c6-f3eb786a0694.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-86",
+          "title": "Marathi 34  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a2b76dbd-36d3-4cbd-8464-2ac7006239b6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-87",
+          "title": "Marathi 34  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/398f859a-776c-4f43-a990-0b21141b9666.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-88",
+          "title": "Marathi 33  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e1ae089-1e82-428f-8737-fa53074f8b08.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-89",
+          "title": "Marathi 33  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/54d001f4-9ffc-47de-b56b-66a124491914.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-90",
+          "title": "Marathi 32  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c3148c1-8a33-4390-9223-ebefc6bfecf8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-91",
+          "title": "Marathi 32  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/13a2c366-97a0-4910-b4af-3823268d17fb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-92",
+          "title": "Marathi 31  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c9ed278f-27aa-493a-8b0c-1edcca47ce79.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-93",
+          "title": "Marathi 31  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c57f1b6d-647f-4a0b-b52b-b416af7c1bad.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-94",
+          "title": "Marathi 30  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2e5eea93-6902-4b04-af21-0026739ba924.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-95",
+          "title": "Marathi 30  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fab424ff-0342-4cfe-bb4b-2b2a92a095c1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-96",
+          "title": "Marathi 29  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b4acd029-4596-4097-ad1b-7f79ff62c5e9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-97",
+          "title": "Marathi 29  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e40f2303-beb1-437d-816c-8c9cb367833c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-98",
+          "title": "Marathi 28  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a229a506-274e-4cdc-bcb2-a16bf85a509b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-99",
+          "title": "Marathi 28  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4050a299-d66a-45a6-83f4-e8383ec4f527.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-100",
+          "title": "Marathi 27  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8e10f44-5057-4bc7-9f29-0785f4cba2ea.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-101",
+          "title": "Marathi 27  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/597b379f-1551-4ac8-8a80-8a71a2337064.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-102",
+          "title": "Marathi 26  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a0c0a8d7-fc75-4625-95f5-db410b83432f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-103",
+          "title": "Marathi 26   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/63a57b5c-f762-4b87-af2b-48c1df1235e0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-104",
+          "title": "Marathi 25  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/40f4c5cf-76b6-45dd-871b-1a868ba9e041.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-105",
+          "title": "Marathi 25  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/84c7cc41-29c7-4d6d-a2a8-0ed2ea7f219e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6abb7057-106",
+          "title": "Marathi  DPP 43 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/17064ef8-6ed8-4155-bdcf-85365dc04a19.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-107",
+          "title": "Marathi DPP 42 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/053de76c-98e8-4666-8fb3-ce8d189ae056.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-108",
+          "title": "Marathi DPP 41 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/66d464b1-9e89-493b-ada5-69dbaf587e14.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-109",
+          "title": "Marathi  DPP 40 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5146b624-1e5c-48a7-9a4f-92b0997880fd.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-110",
+          "title": "Marathi  DPP 39 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dc6b9285-5490-498e-9a8b-98923f819d65.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-111",
+          "title": "Marathi  DPP 38 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/af7902e7-aead-4b78-bfb9-77cce80f6eeb.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-112",
+          "title": "Marathi  DPP 37 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cda71eb5-f396-47cb-8a98-0769bb0add45.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-113",
+          "title": "Marathi DPP 36 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/964bf1b3-6342-44b5-ad8c-70a50520637f.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-114",
+          "title": "Marathi DPP 35 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/638f418b-1025-4e81-b2d1-f8649463377e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-115",
+          "title": "Marathi DPP 34 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4228ec4e-feaa-4402-a4eb-6f7610dbd405.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-116",
+          "title": "Marathi DPP 33 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aae9708e-fed0-43ee-af5e-7daf0c8e0d7c.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-117",
+          "title": "Marathi DPP 32 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e7040d49-3568-417b-8439-a848b744c939.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-118",
+          "title": "Marathi DPP 31 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2b42c1af-1401-468c-af48-d1bdc0f42896.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-119",
+          "title": "Marathi DPP 30 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/de99b04e-bd54-46b9-9075-9e09346b8b69.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-120",
+          "title": "Marathi DPP 29 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1bf9d657-7c9a-4915-86e2-8418b19389e4.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-121",
+          "title": "Marathi DPP 28 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0632765f-2ef7-45b8-8ef7-287bf4a76767.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-122",
+          "title": "Marathi DPP 27 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e1170fc2-68ce-4528-8ed3-d693c53ad0ad.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-123",
+          "title": "Marathi DPP 26 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/12aa1304-1bcc-44dc-a12a-dea02a562842.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-124",
+          "title": "Marathi  DPP 25 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/31805faa-4ae1-46ae-b9bd-9c74bca032b7.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-125",
+          "title": "Marathi  DPP 24 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ea1da7b9-490f-4fc0-b6ba-41be5d93f851.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Marathi",
+      "sectionName": "Doubt Session",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-48",
+          "title": "Marathi 05 : Doubt Session 05",
+          "url": "Marathi 05 : Doubt Session 05 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fe6c0b5ecfa8d3fffe&topic=Marathi%2005%20%3A%20Doubt%20Session%2005",
+          "is_pdf": false,
+          "schedule_id": "6ac626fe6c0b5ecfa8d3fffe",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-49",
+          "title": "Marathi 04 : Doubt Session 04",
+          "url": "Marathi 04 : Doubt Session 04 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fe6c0b5ecfa8d3ffa1&topic=Marathi%2004%20%3A%20Doubt%20Session%2004",
+          "is_pdf": false,
+          "schedule_id": "6ac626fe6c0b5ecfa8d3ffa1",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-50",
+          "title": "Marathi 03 : Doubt Session 03",
+          "url": "Marathi 03 : Doubt Session 03 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fed7798e38dc6426f4&topic=Marathi%2003%20%3A%20Doubt%20Session%2003",
+          "is_pdf": false,
+          "schedule_id": "6ac626fed7798e38dc6426f4",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-51",
+          "title": "Marathi 02 : Doubt Session 02",
+          "url": "Marathi 02 : Doubt Session 02 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fd6c0b5ecfa8d3ff5d&topic=Marathi%2002%20%3A%20Doubt%20Session%2002",
+          "is_pdf": false,
+          "schedule_id": "6ac626fd6c0b5ecfa8d3ff5d",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-52",
+          "title": "Marathi 01 : Doubt Session 01 || Rescheduled @ 09:40 AM",
+          "url": "Marathi 01 : Doubt Session 01 || Rescheduled @ 09:40 AM : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7ef447014e95297a6b09&scheduleId=6ac626fd6c0b5ecfa8d3ff27&topic=Marathi%2001%20%3A%20Doubt%20Session%2001%20%7C%7C%20Rescheduled%20%40%2009%3A40%20AM",
+          "is_pdf": false,
+          "schedule_id": "6ac626fd6c0b5ecfa8d3ff27",
+          "subject_id": "6abc7ef447014e95297a6b09",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-126",
+          "title": "Marathi 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97bb630f-0a6f-4edf-8a3e-47868e48e8ed.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-127",
+          "title": "Marathi 05  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c54077bc-abb3-48d9-a124-539e76e554ec.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-128",
+          "title": "Marathi 04   Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d052fbf7-303c-4728-8c17-2842d164573f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-129",
+          "title": "Marathi 04  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/09225b2a-23c4-4a9b-8ec9-ade1c8c70182.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-130",
+          "title": "Marathi 03   Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/27c102b8-dc02-4f35-9072-256517f43889.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-131",
+          "title": "Marathi 03  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8a4180a0-801f-4b95-9f75-d12cbc66ead0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-132",
+          "title": "Marathi 02  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/72da1a87-f606-45c6-ba8d-cfee8d47f927.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-133",
+          "title": "Marathi 02  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0a1aa168-be65-4533-90b7-d77d6ba9d0a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-134",
+          "title": "Marathi 01  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b765ee1b-847f-4fba-af76-1fbde4f7f07b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-135",
+          "title": "Marathi 01  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c3f3405c-ac8c-411a-b805-811f2467db43.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Intelligence Test",
+      "sectionName": "Intelligence Test",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-53",
+          "title": "Intelligence Test 28 : आरशातील प्रतिमा & पाण्यातील प्रतिमा",
+          "url": "Intelligence Test 28 : आरशातील प्रतिमा & पाण्यातील प्रतिमा : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62645ea18dd497408fb56&topic=Intelligence%20Test%2028%20%3A%20%E0%A4%86%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%B2%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE%20%26%20%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%B2%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE",
+          "is_pdf": false,
+          "schedule_id": "6ac62645ea18dd497408fb56",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-54",
+          "title": "Intelligence Test 27  : नोटा - नाणी - डोके - पाय - चाके भाग",
+          "url": "Intelligence Test 27  : नोटा - नाणी - डोके - पाय - चाके भाग : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62645ea18dd497408f9ef&topic=Intelligence%20Test%2027%20%20%3A%20%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BE%20-%20%E0%A4%A8%E0%A4%BE%E0%A4%A3%E0%A5%80%20-%20%E0%A4%A1%E0%A5%8B%E0%A4%95%E0%A5%87%20-%20%E0%A4%AA%E0%A4%BE%E0%A4%AF%20-%20%E0%A4%9A%E0%A4%BE%E0%A4%95%E0%A5%87%20%E0%A4%AD%E0%A4%BE%E0%A4%97",
+          "is_pdf": false,
+          "schedule_id": "6ac62645ea18dd497408f9ef",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-55",
+          "title": "Intelligence Test 26 : हस्तांदोलन",
+          "url": "Intelligence Test 26 : हस्तांदोलन : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac626448ac200a5dc6c3e84&topic=Intelligence%20Test%2026%20%3A%20%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%A8",
+          "is_pdf": false,
+          "schedule_id": "6ac626448ac200a5dc6c3e84",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-56",
+          "title": "Intelligence Test 25  : आकृत्यांची संख्या मोजणे",
+          "url": "Intelligence Test 25  : आकृत्यांची संख्या मोजणे : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6264423627d7a98b3ea21&topic=Intelligence%20Test%2025%20%20%3A%20%E0%A4%86%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%80%20%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%AE%E0%A5%8B%E0%A4%9C%E0%A4%A3%E0%A5%87",
+          "is_pdf": false,
+          "schedule_id": "6ac6264423627d7a98b3ea21",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-57",
+          "title": "Intelligence Test 24 : वेन आकृत्या",
+          "url": "Intelligence Test 24 : वेन आकृत्या : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62643ed0da36fadaecd77&topic=Intelligence%20Test%2024%20%3A%20%E0%A4%B5%E0%A5%87%E0%A4%A8%20%E0%A4%86%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE",
+          "is_pdf": false,
+          "schedule_id": "6ac62643ed0da36fadaecd77",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-58",
+          "title": "Intelligence Test 23 : वयवारी भाग - 2",
+          "url": "Intelligence Test 23 : वयवारी भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62643ed0da36fadaecc40&topic=Intelligence%20Test%2023%20%3A%20%E0%A4%B5%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac62643ed0da36fadaecc40",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-59",
+          "title": "Intelligence Test 22 : वयवारी भाग - 1",
+          "url": "Intelligence Test 22 : वयवारी भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac626428ac200a5dc6c3d3a&topic=Intelligence%20Test%2022%20%3A%20%E0%A4%B5%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac626428ac200a5dc6c3d3a",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-60",
+          "title": "Intelligence Test 21 : घड्याळे",
+          "url": "Intelligence Test 21 : घड्याळे : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6264223627d7a98b3e8e5&topic=Intelligence%20Test%2021%20%3A%20%E0%A4%98%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B3%E0%A5%87",
+          "is_pdf": false,
+          "schedule_id": "6ac6264223627d7a98b3e8e5",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-61",
+          "title": "Intelligence Test 20 : दिनदर्शिका भाग - 2",
+          "url": "Intelligence Test 20 : दिनदर्शिका भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62642ea18dd497408f8af&topic=Intelligence%20Test%2020%20%3A%20%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac62642ea18dd497408f8af",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-62",
+          "title": "Intelligence Test 19 : दिनदर्शिका भाग - 1",
+          "url": "Intelligence Test 19 : दिनदर्शिका भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62641ea18dd497408f7a9&topic=Intelligence%20Test%2019%20%3A%20%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac62641ea18dd497408f7a9",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-63",
+          "title": "Intelligence Test 18 : बैठक व्यवस्था भाग - 2",
+          "url": "Intelligence Test 18 : बैठक व्यवस्था भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62641ea18dd497408f6ae&topic=Intelligence%20Test%2018%20%3A%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac62641ea18dd497408f6ae",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-64",
+          "title": "Intelligence Test 17 : बैठक व्यवस्था भाग - 1",
+          "url": "Intelligence Test 17 : बैठक व्यवस्था भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62640ea18dd497408f5bf&topic=Intelligence%20Test%2017%20%3A%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac62640ea18dd497408f5bf",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-65",
+          "title": "Intelligence Test 16 : तुलनेवरील आधारित प्रश्न",
+          "url": "Intelligence Test 16 : तुलनेवरील आधारित प्रश्न : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac62640ea18dd497408f4db&topic=Intelligence%20Test%2016%20%3A%20%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A5%87%E0%A4%B5%E0%A4%B0%E0%A5%80%E0%A4%B2%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8",
+          "is_pdf": false,
+          "schedule_id": "6ac62640ea18dd497408f4db",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-66",
+          "title": "Intelligence Test 15 : रांगेतील स्थान",
+          "url": "Intelligence Test 15 : रांगेतील स्थान : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263fea18dd497408f404&topic=Intelligence%20Test%2015%20%3A%20%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%A4%E0%A5%80%E0%A4%B2%20%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8",
+          "is_pdf": false,
+          "schedule_id": "6ac6263fea18dd497408f404",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-67",
+          "title": "Intelligence Test 14 : नातेसंबंध भाग - 2",
+          "url": "Intelligence Test 14 : नातेसंबंध भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263fea18dd497408f339&topic=Intelligence%20Test%2014%20%3A%20%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%87%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6263fea18dd497408f339",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-68",
+          "title": "Intelligence Test 13 : नातेसंबंध भाग - 1",
+          "url": "Intelligence Test 13 : नातेसंबंध भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263fea18dd497408f27a&topic=Intelligence%20Test%2013%20%3A%20%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%87%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6263fea18dd497408f27a",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-69",
+          "title": "Intelligence Test 12 : दिशा भाग - 2",
+          "url": "Intelligence Test 12 : दिशा भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263eed0da36fadaecb22&topic=Intelligence%20Test%2012%20%3A%20%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6263eed0da36fadaecb22",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-70",
+          "title": "Intelligence Test 11 :  दिशा भाग - 1",
+          "url": "Intelligence Test 11 :  दिशा भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263eed0da36fadaeca7b&topic=Intelligence%20Test%2011%20%3A%20%20%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6263eed0da36fadaeca7b",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-71",
+          "title": "Intelligence Test 10  : सांकेतिक भाषा भाग - 2",
+          "url": "Intelligence Test 10  : सांकेतिक भाषा भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263d8ac200a5dc6c3c4b&topic=Intelligence%20Test%2010%20%20%3A%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%A4%E0%A4%BF%E0%A4%95%20%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6263d8ac200a5dc6c3c4b",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-72",
+          "title": "Intelligence Test 09 : सांकेतिक भाषा भाग - 1",
+          "url": "Intelligence Test 09 : सांकेतिक भाषा भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f0d43168d24b4c396a5&scheduleId=6ac6263d8ac200a5dc6c3bbc&topic=Intelligence%20Test%2009%20%3A%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%A4%E0%A4%BF%E0%A4%95%20%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6263d8ac200a5dc6c3bbc",
+          "subject_id": "6abc7f0d43168d24b4c396a5",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-136",
+          "title": "Intelligence Test 28  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3721498b-f0bc-4f3b-8c29-01573b83e871.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-137",
+          "title": "Intelligence Test 28  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb4a0044-0733-4c38-b4f1-f1e5f2736c69.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-138",
+          "title": "Intelligence Test 27  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1baacb90-1123-4c5e-87df-7d5ea61579a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-139",
+          "title": "Intelligence Test 27  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f883f890-ffaa-45c8-8702-bce77248bedb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-140",
+          "title": "Intelligence Test 26  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e533055b-6622-4982-ba4f-a528c68a5f75.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-141",
+          "title": "Intelligence Test 26  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed06c812-67a3-4730-a5f1-b7847ce7edce.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-142",
+          "title": "Intelligence Test 25  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/23c203bf-666f-446a-bfbe-dad4ea845306.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-143",
+          "title": "Intelligence Test 25  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0c093659-3b3b-4995-9b73-ed5b21354262.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-144",
+          "title": "Intelligence Test 24  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b6d2d4cb-847d-45d6-be4c-72de0522ed67.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-145",
+          "title": "Intelligence Test 24  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8c8cf7d5-245a-4a83-b78a-e2c2f4636f23.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-146",
+          "title": "Intelligence Test 23  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dfadaeb0-e1c4-4e59-863e-bf873b4f0bf4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-147",
+          "title": "Intelligence Test 23  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/84a06247-9e0d-412f-8dcf-0b38fc53ca66.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-148",
+          "title": "Intelligence Test 22  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8d23ec2-5c1b-49e5-91a3-9cf311743ac3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-149",
+          "title": "Intelligence Test 22  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/49e443bd-9982-4d4b-a7f5-a96c88dacb4b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-150",
+          "title": "Intelligence Test 21  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/121a76fa-663d-4033-83c8-07a10a2afc06.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-151",
+          "title": "Intelligence Test 21  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/faa3de58-47f6-418b-8f43-f3f333e4896f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-152",
+          "title": "Intelligence Test 20  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bd93ee6c-9627-4747-ac6c-cf25028f7329.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-153",
+          "title": "Intelligence Test 20  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/83682778-181f-4b9b-8173-dbf10ec1b6f7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-154",
+          "title": "Intelligence Test 19  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b258f531-1ee4-47e0-bdb0-6c7065266fa2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-155",
+          "title": "Intelligence Test 19  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/545ff777-7372-46d7-980e-33798053028c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-156",
+          "title": "Intelligence Test 18  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/591cd189-a6bd-47d9-a516-3cedd1a1c58f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-157",
+          "title": "Intelligence Test 18  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/790fa23e-8058-4e43-bffd-2d7b244e1714.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-158",
+          "title": "Intelligence Test 17   Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f891f3b0-8b92-4d83-bc5e-82b8953194dd-small.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-159",
+          "title": "Intelligence Test 17  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d29cfa34-3243-45bf-807e-68f37dda3c36.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-160",
+          "title": "Intelligence Test 16  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d60d73be-659b-469b-b356-60ce0e84caa4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-161",
+          "title": "Intelligence Test 16   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9319fd3f-9aed-4d04-baa1-d8520d5b88c8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-162",
+          "title": "Intelligence Test 15  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3d65efe-5917-464b-92b2-c551f622edb4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-163",
+          "title": "Intelligence Test 15  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b6a51f37-5533-40d2-a5cb-54ad467aaf11.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-164",
+          "title": "Intelligence Test 14  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5f9a5917-3939-440a-9103-ab5522ac225f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-165",
+          "title": "Intelligence Test 14  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/674dccba-71e1-4184-8586-bc7f1b4fb225.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-166",
+          "title": "Intelligence Test 13  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7fbd2d9b-25f0-449e-8def-75f42d6526ab.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-167",
+          "title": "Intelligence Test 13 Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d2c468ad-aba7-4ab3-b3bd-d2cacd93c8e2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-168",
+          "title": "Intelligence Test 12  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b90ba407-7c1c-4677-b246-ba3540822399.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-169",
+          "title": "Intelligence Test 12   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e7830c02-ac6c-41d2-9f33-2f516259534a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-170",
+          "title": "Intelligence Test 11  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/47565044-4f06-4bff-bc29-93f63c758d30.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-171",
+          "title": "Intelligence Test 11  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0d2ac8f8-9539-4206-b8d5-a6be9ae0ab40.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-172",
+          "title": "Intelligence Test 10  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/99067dda-658c-4978-98db-abfd64d041bd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-173",
+          "title": "Intelligence Test 10  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8644c30c-369d-4614-a926-6a852100677a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-174",
+          "title": "Intelligence Test 09  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5db096e8-e1d7-4574-940d-22d336231876.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-175",
+          "title": "Intelligence Test 09  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/16fbdaa6-9d92-433e-8ed9-c72550fa0fb2.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6abb7057-176",
+          "title": "Intelligence Test  DPP 28 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e7459b2d-3d51-4199-8c8b-3936e8ba8a8f.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-177",
+          "title": "Intelligence Test  DPP 27 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3280cdf6-38c1-483d-af9d-75aa37c93ede.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-178",
+          "title": "Intelligence Test  DPP 26 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b3020ce-d9a8-451d-8f89-babc6cf866fb.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-179",
+          "title": "Intelligence Test  DPP 25 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e90ae0bf-526c-4984-879b-cf71204a643e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-180",
+          "title": "Intelligence Test  DPP 24 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a1e44387-c172-41c2-bc09-3ed0700ab1c8.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-181",
+          "title": "Intelligence Test  DPP 23 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f29b639f-14da-4dcf-b5d3-fd6edb7efa9e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-182",
+          "title": "Intelligence Test  DPP 22 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e4ce9e5d-a896-4806-9286-7daa3c990cbb.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-183",
+          "title": "Intelligence Test  DPP 21 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9884ca7-c691-440a-9e9c-fd41d153659c.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-184",
+          "title": "Intelligence Test  DPP 20 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/69663f5c-17e3-4e09-9b7a-a40080950d93.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-185",
+          "title": "Intelligence Test  DPP 19 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/70cbb13a-ddda-4dc4-a062-78f4a2d48b47.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-186",
+          "title": "Intelligence Test  DPP 18 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/becc7a9a-cc31-4ff1-959f-310caf9efd36.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-187",
+          "title": "Intelligence Test  DPP 17 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/854662f9-32c4-4bf6-b3a9-2eb594085ffc.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-188",
+          "title": "Intelligence Test  DPP 16 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c7f77b58-9dbe-4816-be8f-4777b0f787f1.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-189",
+          "title": "Intelligence Test  DPP 15 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d36dfba9-73bb-4793-a46d-e42d2a2d30a0.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-190",
+          "title": "Intelligence Test  DPP 14 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d6cc2c12-e97b-4e7c-a716-11a281e4284d.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-191",
+          "title": "Intelligence Test  DPP 13 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e76a7d64-443e-4e3d-a3fb-2a0925669ad9.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-192",
+          "title": "Intelligence Test  DPP 12 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/83d1b7fa-4bf2-420a-88ba-c1acf6b6b99f.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-193",
+          "title": "Intelligence Test  DPP 11 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/14671db6-3105-4b2d-8f4f-d8b93e1b84a3.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-194",
+          "title": "Intelligence Test  DPP 10 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8b98906-1601-4cb5-8e65-f14c9167e9c6.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-195",
+          "title": "Intelligence Test  DPP 09 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/73642563-efb6-4953-a032-3262acc639d2.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "General Knowledge",
+      "sectionName": "General Knowledge",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-73",
+          "title": "General Knowledge 33 : इतिहास - भाग 2",
+          "url": "General Knowledge 33 : इतिहास - भाग 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269e15d88b034867277c&topic=General%20Knowledge%2033%20%3A%20%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6269e15d88b034867277c",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-74",
+          "title": "General Knowledge 32 : इतिहास - भाग 1",
+          "url": "General Knowledge 32 : इतिहास - भाग 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269eea18dd4974091e8f&topic=General%20Knowledge%2032%20%3A%20%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6269eea18dd4974091e8f",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-75",
+          "title": "General Knowledge 31 : विज्ञान - भाग 5",
+          "url": "General Knowledge 31 : विज्ञान - भाग 5 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269dea18dd4974091cf7&topic=General%20Knowledge%2031%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%205",
+          "is_pdf": false,
+          "schedule_id": "6ac6269dea18dd4974091cf7",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-76",
+          "title": "General Knowledge 30 : विज्ञान - भाग 4",
+          "url": "General Knowledge 30 : विज्ञान - भाग 4 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269d59e1c9e02b65899c&topic=General%20Knowledge%2030%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%204",
+          "is_pdf": false,
+          "schedule_id": "6ac6269d59e1c9e02b65899c",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-77",
+          "title": "General Knowledge 29 : विज्ञान - भाग 3",
+          "url": "General Knowledge 29 : विज्ञान - भाग 3 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269d59e1c9e02b65881d&topic=General%20Knowledge%2029%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%203",
+          "is_pdf": false,
+          "schedule_id": "6ac6269d59e1c9e02b65881d",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-78",
+          "title": "General Knowledge 28 : विज्ञान - भाग 2",
+          "url": "General Knowledge 28 : विज्ञान - भाग 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269cea18dd4974091b6e&topic=General%20Knowledge%2028%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6269cea18dd4974091b6e",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-79",
+          "title": "General Knowledge 27 : विज्ञान - भाग 1",
+          "url": "General Knowledge 27 : विज्ञान - भाग 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269cea18dd4974091a06&topic=General%20Knowledge%2027%20%3A%20%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6269cea18dd4974091a06",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-80",
+          "title": "General Knowledge 26 : भारतीय अर्थव्यवस्था - भाग 5",
+          "url": "General Knowledge 26 : भारतीय अर्थव्यवस्था - भाग 5 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269bea18dd49740918a6&topic=General%20Knowledge%2026%20%3A%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%205",
+          "is_pdf": false,
+          "schedule_id": "6ac6269bea18dd49740918a6",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-81",
+          "title": "General Knowledge 25 : भारतीय अर्थव्यवस्था - भाग 4",
+          "url": "General Knowledge 25 : भारतीय अर्थव्यवस्था - भाग 4 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269bea18dd4974091752&topic=General%20Knowledge%2025%20%3A%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%204",
+          "is_pdf": false,
+          "schedule_id": "6ac6269bea18dd4974091752",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-82",
+          "title": "General Knowledge 24 : भारतीय अर्थव्यवस्था - भाग 3",
+          "url": "General Knowledge 24 : भारतीय अर्थव्यवस्था - भाग 3 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269bea18dd497409160a&topic=General%20Knowledge%2024%20%3A%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%203",
+          "is_pdf": false,
+          "schedule_id": "6ac6269bea18dd497409160a",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-83",
+          "title": "General Knowledge 23 : भारतीय अर्थव्यवस्था - भाग 2",
+          "url": "General Knowledge 23 : भारतीय अर्थव्यवस्था - भाग 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269a15d88b0348672580&topic=General%20Knowledge%2023%20%3A%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6269a15d88b0348672580",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-84",
+          "title": "General Knowledge 22 : भारतीय अर्थव्यवस्था - भाग 1",
+          "url": "General Knowledge 22 : भारतीय अर्थव्यवस्था - भाग 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269a15d88b0348672443&topic=General%20Knowledge%2022%20%3A%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%97%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6269a15d88b0348672443",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-85",
+          "title": "General Knowledge 21 : भूगोल भाग - 5",
+          "url": "General Knowledge 21 : भूगोल भाग - 5 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269915d88b0348672317&topic=General%20Knowledge%2021%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%205",
+          "is_pdf": false,
+          "schedule_id": "6ac6269915d88b0348672317",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-86",
+          "title": "General Knowledge 20 : भूगोल भाग - 4",
+          "url": "General Knowledge 20 : भूगोल भाग - 4 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac62699ea18dd49740914db&topic=General%20Knowledge%2020%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%204",
+          "is_pdf": false,
+          "schedule_id": "6ac62699ea18dd49740914db",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-87",
+          "title": "General Knowledge 19 : भूगोल भाग - 3",
+          "url": "General Knowledge 19 : भूगोल भाग - 3 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac62698ea18dd49740913ce&topic=General%20Knowledge%2019%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%203",
+          "is_pdf": false,
+          "schedule_id": "6ac62698ea18dd49740913ce",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-88",
+          "title": "General Knowledge 18 : भूगोल भाग - 2",
+          "url": "General Knowledge 18 : भूगोल भाग - 2 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269815d88b03486721de&topic=General%20Knowledge%2018%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%202",
+          "is_pdf": false,
+          "schedule_id": "6ac6269815d88b03486721de",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-89",
+          "title": "General Knowledge 17 : भूगोल भाग - 1",
+          "url": "General Knowledge 17 : भूगोल भाग - 1 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269815d88b03486720df&topic=General%20Knowledge%2017%20%3A%20%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AD%E0%A4%BE%E0%A4%97%20-%201",
+          "is_pdf": false,
+          "schedule_id": "6ac6269815d88b03486720df",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-90",
+          "title": "General Knowledge 16 :  प्रसिद्ध पुस्तके आणि साहित्य",
+          "url": "General Knowledge 16 :  प्रसिद्ध पुस्तके आणि साहित्य : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac62697ea18dd49740912c7&topic=General%20Knowledge%2016%20%3A%20%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%A3%E0%A4%BF%20%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF",
+          "is_pdf": false,
+          "schedule_id": "6ac62697ea18dd49740912c7",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-91",
+          "title": "General Knowledge 15 : पुरस्कार व सन्मान",
+          "url": "General Knowledge 15 : पुरस्कार व सन्मान : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269759e1c9e02b6586c0&topic=General%20Knowledge%2015%20%3A%20%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%B5%20%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8",
+          "is_pdf": false,
+          "schedule_id": "6ac6269759e1c9e02b6586c0",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-92",
+          "title": "General Knowledge 14 : क्रीडा व दिनविशेष",
+          "url": "General Knowledge 14 : क्रीडा व दिनविशेष : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac62696ea18dd49740911e8&topic=General%20Knowledge%2014%20%3A%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%BE%20%E0%A4%B5%20%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7",
+          "is_pdf": false,
+          "schedule_id": "6ac62696ea18dd49740911e8",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-196",
+          "title": "General Knowledge 33  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3047b17d-f6f8-45bb-a13d-ca842cc60fcb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-197",
+          "title": "General Knowledge 33  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/41ad81a9-57b2-4567-b2c7-54ff3449ccbd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-198",
+          "title": "General Knowledge 32  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fb8cd2ae-e814-469e-b9d5-8c064723dcf9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-199",
+          "title": "General Knowledge 32  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/454430bf-0d01-4f1e-98b8-d2f215f840d3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-200",
+          "title": "General Knowledge 31  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/05756962-141c-43d1-b5e5-ef70284aea2e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-201",
+          "title": "General Knowledge 31  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f0ff0b8-a9e4-4c76-b32d-56343685afec.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-202",
+          "title": "General Knowledge 30  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/808660d4-0391-4e69-9eb1-e9eb95c1b3c1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-203",
+          "title": "General Knowledge 30  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/235063a3-e637-495f-a11a-5ddc96c76624.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-204",
+          "title": "General Knowledge 29  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b402ae6-2f64-4071-91bd-d3449ad295b7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-205",
+          "title": "General Knowledge 29  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56bbf34d-2a6b-4491-a640-834ebf51022f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-206",
+          "title": "General Knowledge 28  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cc94657b-8261-4d9f-9818-90267aad97b6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-207",
+          "title": "General Knowledge 28  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1dba6080-f97e-45f4-a30d-a96ba9ac6f1c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-208",
+          "title": "General Knowledge 27  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/35ab2312-251f-49ca-bcfc-b40b88f72d3c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-209",
+          "title": "General Knowledge 27   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/79bb65c8-9313-4cd4-ba67-68f156476b2e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-210",
+          "title": "General Knowledge 26  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ec187a80-0763-4347-8688-cca9517a2be3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-211",
+          "title": "General Knowledge 26  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/044bc8df-919a-40c9-bb30-5601efb53cfc.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-212",
+          "title": "General Knowledge 25  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/27ab8e6b-78f5-4fa7-96d1-f781b133961a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-213",
+          "title": "General Knowledge 25 Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aa19e0a7-5c38-4318-acfb-cfd87292f3d9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-214",
+          "title": "General Knowledge 24  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6b2dabfa-b3d2-48d6-9e9e-9cd127e76d55.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-215",
+          "title": "General Knowledge 24  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a6f45f3c-b0cf-4a82-9ee7-c1d0891274d7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-216",
+          "title": "General Knowledge 23  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7118d1cf-ef9f-441e-953d-71002157eb7e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-217",
+          "title": "General Knowledge 23  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c044492-ffa9-450e-b7b1-1b9ff1c08c37.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-218",
+          "title": "General Knowledge 22  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/81d2f3e8-f68e-4e85-aabb-cb3f26c97d3c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-219",
+          "title": "General Knowledge 22  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/040a648c-dc15-4427-b78c-bde2ec552d2f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-220",
+          "title": "General Knowledge 21  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/85e45fae-94eb-49c5-8343-8151d87614ae.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-221",
+          "title": "General Knowledge 21  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a5a21a54-351e-4fcc-a901-8ece734119bb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-222",
+          "title": "General Knowledge 20  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cacecc5f-be08-4713-b30a-b761dc84a767.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-223",
+          "title": "General Knowledge 20  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9055ca79-34c0-4603-94a8-5a7055c61407.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-224",
+          "title": "General Knowledge 19  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/767e82a2-e161-4f9a-8260-ac0b4019e08d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-225",
+          "title": "General Knowledge 19  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/20f6e8cf-9eeb-4aca-8d40-0764f019cbb9.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-226",
+          "title": "General Knowledge 18  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/be0c4d43-fba6-4c33-ba90-4de76bf2860c.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-227",
+          "title": "General Knowledge 18   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c6fedf88-a7c1-460d-a553-463120a8d86e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-228",
+          "title": "General Knowledge 17  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6dbc3f9d-3598-4b71-8154-d378dd5390bb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-229",
+          "title": "General Knowledge 17  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1a0b6792-576b-4b25-bd57-1c8d20f7279e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-230",
+          "title": "General Knowledge 16  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8b339d6-6a9d-459f-bce1-27fa32cb88dc.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-231",
+          "title": "General Knowledge 16   Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/53d08928-cc55-4d2b-a8d4-e60848378774.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-232",
+          "title": "General Knowledge 15 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ab0fefd5-4a50-4214-be53-cc39d49fafdf.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-233",
+          "title": "General Knowledge 15  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d9b040f8-a433-4b18-9752-2b6b59297b0b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-234",
+          "title": "General Knowledge 14  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a435e447-c63a-4b54-b0c1-278999542085.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-235",
+          "title": "General Knowledge 14  Daily Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f2a87c9b-6bde-454b-8b12-4443c33fbfc5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6abb7057-236",
+          "title": "General Knowledge  DPP 33 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8285b9bc-f895-4dc4-8d2c-3e725a3948a1.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-237",
+          "title": "General Knowledge  DPP 32 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11f5a474-5282-4c6e-b825-a82047291e53.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-238",
+          "title": "General Knowledge  DPP 31 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e8c24485-4fce-48e1-bb46-b0e5ac15102b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-239",
+          "title": "General Knowledge  DPP 30 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a19ba8bb-3c2f-4d9e-9703-4ee25bbf668a.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-240",
+          "title": "General Knowledge  DPP 29 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a51ffc68-7c6f-42a0-9d8d-c98fb3bde691.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-241",
+          "title": "General Knowledge  DPP 28 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9eb8294-149c-45d6-80e5-7e480d1f1389.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-242",
+          "title": "General Knowledge  DPP 27 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c53c7a44-f81d-4285-bf1e-dbf91fee547e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-243",
+          "title": "General Knowledge  DPP 26 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e15b6c40-902b-4cd0-a486-01868b11afc3.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-244",
+          "title": "General Knowledge  DPP 25 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0708b34c-aaf4-4626-9bc5-a79bdf39d5ef.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-245",
+          "title": "General Knowledge  DPP 24 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/435217c4-41d3-4bd8-a121-257e07c7ef50.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-246",
+          "title": "General Knowledge  DPP 23 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e884bd69-5ad0-4c0f-b548-44ab33d340bf.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-247",
+          "title": "General Knowledge DPP 22 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fb0443f9-c940-48c0-ae25-1c6decfcf148.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-248",
+          "title": "General Knowledge  DPP 21 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7668a099-18e7-4327-b341-bac3a882356e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-249",
+          "title": "General Knowledge  DPP 20 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/72d54d96-b4df-48b5-a5fa-8922e5917794.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-250",
+          "title": "General Knowledge DPP 19 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cf8844cc-17a0-4192-82ac-02961c0e1641.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-251",
+          "title": "General Knowledge  DPP 18 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b8598a61-fa38-4339-8cb5-ca984c1056c1.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-252",
+          "title": "General Knowledge  DPP 17 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb8ae08e-7737-4fd0-8658-70bbcbbb630e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-253",
+          "title": "General Knowledge  DPP 16 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1fe06a70-2a11-4f1f-bf56-9e6f292c1180.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-254",
+          "title": "General Knowledge  DPP 15 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9dab2e1e-faa4-425b-9958-e4b1f8156d0d.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6abb7057-255",
+          "title": "General Knowledge  DPP 14 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aa01d619-cf88-448e-85f3-40ac0cac4f29.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "General Knowledge",
+      "sectionName": "Doubt Session",
+      "lectures": [
+        {
+          "id": "pw-6abb7057-93",
+          "title": "General Knowledge 05 : Doubt Session 05",
+          "url": "General Knowledge 05 : Doubt Session 05 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac626a0ea18dd4974092054&topic=General%20Knowledge%2005%20%3A%20Doubt%20Session%2005",
+          "is_pdf": false,
+          "schedule_id": "6ac626a0ea18dd4974092054",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-94",
+          "title": "General Knowledge 04 : Doubt Session 04",
+          "url": "General Knowledge 04 : Doubt Session 04 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac626a0ea18dd4974092006&topic=General%20Knowledge%2004%20%3A%20Doubt%20Session%2004",
+          "is_pdf": false,
+          "schedule_id": "6ac626a0ea18dd4974092006",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-95",
+          "title": "General Knowledge 03 : Doubt Session 03",
+          "url": "General Knowledge 03 : Doubt Session 03 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269fea18dd4974091fb7&topic=General%20Knowledge%2003%20%3A%20Doubt%20Session%2003",
+          "is_pdf": false,
+          "schedule_id": "6ac6269fea18dd4974091fb7",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-96",
+          "title": "General Knowledge 02 : Doubt Session 02",
+          "url": "General Knowledge 02 : Doubt Session 02 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269fea18dd4974091f77&topic=General%20Knowledge%2002%20%3A%20Doubt%20Session%2002",
+          "is_pdf": false,
+          "schedule_id": "6ac6269fea18dd4974091f77",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        },
+        {
+          "id": "pw-6abb7057-97",
+          "title": "General Knowledge 01 : Doubt Session 01",
+          "url": "General Knowledge 01 : Doubt Session 01 : https://courseswala/play?batchId=6abb705790bf9cdaa2b4fb77&subjectId=6abc7f28229311424c267125&scheduleId=6ac6269e15d88b0348672862&topic=General%20Knowledge%2001%20%3A%20Doubt%20Session%2001",
+          "is_pdf": false,
+          "schedule_id": "6ac6269e15d88b0348672862",
+          "subject_id": "6abc7f28229311424c267125",
+          "batch_id": "6abb705790bf9cdaa2b4fb77"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6abb7057-256",
+          "title": "General Knowledge 05  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d5c74670-a25d-420d-b490-93e168ac9c07.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-257",
+          "title": "General Knowledge 05  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cfc49e88-32f4-4131-97e3-88aa6d9e2ef1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-258",
+          "title": "General Knowledge 04  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/199ed179-4f75-4709-9013-863ab0882ed0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-259",
+          "title": "General Knowledge 04  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d1262024-5dca-46e4-80bd-a0a593354801.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-260",
+          "title": "General Knowledge 03   Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5c686f65-4bea-4265-b4b0-8d321c2df343.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-261",
+          "title": "General Knowledge 03  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fe087cd7-1a2e-40c3-9579-a23fa7c02b7b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-262",
+          "title": "General Knowledge 02  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7701173c-f37d-40b6-8b9c-72163021ff1b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-263",
+          "title": "General Knowledge 02  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ba6cd27-f6f3-47ca-98f6-41d0c5b601a0.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-264",
+          "title": "General Knowledge 01  Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/79835bce-ee62-40fd-a20c-4b83b17bfc36.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-265",
+          "title": "General Knowledge 01  Daily Class Notes  Doubt Session (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f6818a87-e3ec-437a-ba2c-d516d6c6cf19.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Manthan Monthly Current Affairs Magazine",
+      "sectionName": "Manthan Monthly current affairs magazine",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6abb7057-266",
+          "title": "Manthan monthly current affairs magazine  September 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/469eaef8-d1f2-4c7c-ae54-29a8ded758af.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-267",
+          "title": "Manthan monthly current affairs magazine  September 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9450044b-e1cb-44ea-a18b-dc0cfc1245a8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-268",
+          "title": "Manthan monthly current affairs magazine  August 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/104c3752-85a4-40b8-a0e9-76c3f45bbf74-small.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-269",
+          "title": "Manthan monthly current affairs magazine  August 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/47034e76-086b-4a16-a891-fe24157401fd-linearized.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-270",
+          "title": "Manthan monthly current affairs magazine  July 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5f3222fc-756b-45e6-8a6f-7237c9ab96ed-small.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-271",
+          "title": "Manthan monthly current affairs magazine  July 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3c3e255f-f6cd-4048-a260-cd0de42a20dd.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-272",
+          "title": "Manthan monthly current affairs magazine  June 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b15a19f3-feec-4d61-a0c6-64fca637a723.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-273",
+          "title": "Manthan monthly current affairs magazine  June 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/de89ff67-e438-44df-8c82-57f27348878d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-274",
+          "title": "Manthan monthly current affairs magazine  May 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c58bba6b-4636-4040-9b53-5bb05c66bcce.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-275",
+          "title": "Manthan monthly current affairs magazine  May 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/57669d8c-7ea3-4b2c-8581-a23a5499a110.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-276",
+          "title": "Manthan monthly current affairs magazine  April 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d508b14c-c359-471f-a24f-3726d4987f9e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-277",
+          "title": "Manthan monthly current affairs magazine  April 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c7819c9-59e6-46fe-83af-d2ae60708d24.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-278",
+          "title": "Manthan monthly current affairs magazine  March 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2a15e893-de63-4bc9-b596-66f17a7948ef.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-279",
+          "title": "Manthan monthly current affairs magazine  March 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f9c51e44-aee1-4696-b2a3-3c1a153352ef.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-280",
+          "title": "Manthan monthly current affairs magazine  February 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6ad7bfa7-9125-4413-8f03-b6941d188c54.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-281",
+          "title": "Manthan monthly current affairs magazine  February 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/40fc609d-829a-4759-b7a1-cf3132a977f7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-282",
+          "title": "Manthan monthly current affairs magazine  January 2026 (Marathi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/64ed54da-d1f9-4be5-af60-d9c134617ce5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6abb7057-283",
+          "title": "Manthan monthly current affairs magazine  January 2026 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/720b38a6-7a22-49da-bd81-b760e18180c8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

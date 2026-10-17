@@ -1,0 +1,188 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6ac5fde5d814ea759835c008",
+  "batchSlug": "up-judiciary-foundation-batch-2-669299",
+  "batchName": "UP Judiciary Foundation Batch 2",
+  "category": "Integrated Prelims + Mains + Interview Preparation for UP Judiciary Aspirants",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cf25a64-9bcf-490f-8a4a-01acfdb57418.png",
+  "totalSections": 4,
+  "totalLectures": 14,
+  "totalNotes": 3,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6ac5fde5-1",
+          "title": "Demo Lecture by Arjita Ma'am",
+          "url": "Demo Lecture by Arjita Ma'am : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac73858838ff178967547aa&topic=Demo%20Lecture%20by%20Arjita%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6ac73858838ff178967547aa",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-2",
+          "title": "Demo Lecture by Karan Sir",
+          "url": "Demo Lecture by Karan Sir : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac736e292f0adbaad87d0c2&topic=Demo%20Lecture%20by%20Karan%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6ac736e292f0adbaad87d0c2",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-3",
+          "title": "Demo Lecture by Shrimee Ma'am",
+          "url": "Demo Lecture by Shrimee Ma'am : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac737311ab9f59f9956b263&topic=Demo%20Lecture%20by%20Shrimee%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6ac737311ab9f59f9956b263",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-4",
+          "title": "Demo Lecture By Kiffi Ma'am",
+          "url": "Demo Lecture By Kiffi Ma'am : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac737d6cdce21415af741de&topic=Demo%20Lecture%20By%20Kiffi%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6ac737d6cdce21415af741de",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-5",
+          "title": "Demo Lecture By Apoorva Ma'am",
+          "url": "Demo Lecture By Apoorva Ma'am : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac73993a8a34e2856aa40e7&topic=Demo%20Lecture%20By%20Apoorva%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6ac73993a8a34e2856aa40e7",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-6",
+          "title": "Demo Lecture By Sunaina Ma'am",
+          "url": "Demo Lecture By Sunaina Ma'am : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac7389b977d64cf02bcdc0d&topic=Demo%20Lecture%20By%20Sunaina%20Ma'am",
+          "is_pdf": false,
+          "schedule_id": "6ac7389b977d64cf02bcdc0d",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-7",
+          "title": "Demo Lecture by Atma Prakash Sir",
+          "url": "Demo Lecture by Atma Prakash Sir : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac736baa8b5b21fe1f55d5a&topic=Demo%20Lecture%20by%20Atma%20Prakash%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6ac736baa8b5b21fe1f55d5a",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-8",
+          "title": "Demo Lecture by Apurva Sharma Sir",
+          "url": "Demo Lecture by Apurva Sharma Sir : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac737677e6c8423d3e2b5e8&topic=Demo%20Lecture%20by%20Apurva%20Sharma%20Sir",
+          "is_pdf": false,
+          "schedule_id": "6ac737677e6c8423d3e2b5e8",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-9",
+          "title": "Guidelines of Batch",
+          "url": "Guidelines of Batch : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac7306cba3d9b6ff657cae5&topic=Guidelines%20of%20Batch",
+          "is_pdf": false,
+          "schedule_id": "6ac7306cba3d9b6ff657cae5",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-10",
+          "title": "How To Get DPP's PDF?",
+          "url": "How To Get DPP's PDF? : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac73046d529599b71d6c61b&topic=How%20To%20Get%20DPP's%20PDF%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac73046d529599b71d6c61b",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-11",
+          "title": "Important Update : Dark Mode",
+          "url": "Important Update : Dark Mode : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac73019f6e12465142cc296&topic=Important%20Update%20%3A%20Dark%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6ac73019f6e12465142cc296",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-12",
+          "title": "New Study Page KT Video",
+          "url": "New Study Page KT Video : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac72febd620e333236078e1&topic=New%20Study%20Page%20KT%20Video",
+          "is_pdf": false,
+          "schedule_id": "6ac72febd620e333236078e1",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-13",
+          "title": "New Update : Study Page (App)",
+          "url": "New Update : Study Page (App) : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac72fc309b07b07f5144046&topic=New%20Update%20%3A%20Study%20Page%20(App)",
+          "is_pdf": false,
+          "schedule_id": "6ac72fc309b07b07f5144046",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        },
+        {
+          "id": "pw-6ac5fde5-14",
+          "title": "How To Find Lectures?",
+          "url": "How To Find Lectures? : https://courseswala/play?batchId=6ac5fde5d814ea759835c008&subjectId=6ac724b6c00fcacd3a8b7385&scheduleId=6ac72f6b759fcb5f6b8bc21c&topic=How%20To%20Find%20Lectures%3F",
+          "is_pdf": false,
+          "schedule_id": "6ac72f6b759fcb5f6b8bc21c",
+          "subject_id": "6ac724b6c00fcacd3a8b7385",
+          "batch_id": "6ac5fde5d814ea759835c008"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6ac5fde5-1",
+          "title": "Lecture Planner_PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a2ebdc6b-8919-4159-87a2-40756350ae8f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Telegram Group Link || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6ac5fde5-2",
+          "title": "Telegram Group Link  PDF Only (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb11615b-8a0b-46b4-ba35-1f667b63e171.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Magazine",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6ac5fde5-3",
+          "title": "Legal Pulse Monthly Magazine September 2026  Only PDF (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b8d4f367-2db9-4f09-987c-4a024b50c00f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6aae4280fe6fb3dd3354ca7c",
+  "batchSlug": "mission-paramedical-2027-up--bihar--jharkhand--342738",
+  "batchName": "Mission Paramedical 2027(UP, Bihar, Jharkhand)",
+  "category": "Paramedical",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e89b33a-411f-4e68-8cf5-4b7a17eee9c8.png",
+  "totalSections": 2,
+  "totalLectures": 6,
+  "totalNotes": 1,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6aae4280-1",
+          "title": "Guidelines of Batch",
+          "url": "Guidelines of Batch : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab1278207d50bf2333b0893&topic=Guidelines%20of%20Batch",
+          "is_pdf": false,
+          "schedule_id": "6ab1278207d50bf2333b0893",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        },
+        {
+          "id": "pw-6aae4280-2",
+          "title": "How to find lectures?",
+          "url": "How to find lectures? : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab127aacec53bcd972dad5e&topic=How%20to%20find%20lectures%3F",
+          "is_pdf": false,
+          "schedule_id": "6ab127aacec53bcd972dad5e",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        },
+        {
+          "id": "pw-6aae4280-3",
+          "title": "How to Ask relevant Doubts during Live and Recorded lectures?",
+          "url": "How to Ask relevant Doubts during Live and Recorded lectures? : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab127d00c1f719074f103d5&topic=How%20to%20Ask%20relevant%20Doubts%20during%20Live%20and%20Recorded%20lectures%3F",
+          "is_pdf": false,
+          "schedule_id": "6ab127d00c1f719074f103d5",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        },
+        {
+          "id": "pw-6aae4280-4",
+          "title": "How to give Test?",
+          "url": "How to give Test? : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab127f77d814beb3076f030&topic=How%20to%20give%20Test%3F",
+          "is_pdf": false,
+          "schedule_id": "6ab127f77d814beb3076f030",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        },
+        {
+          "id": "pw-6aae4280-5",
+          "title": "Important Update : Dark Mode",
+          "url": "Important Update : Dark Mode : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab1281e9b06ec02de6350e9&topic=Important%20Update%20%3A%20Dark%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6ab1281e9b06ec02de6350e9",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        },
+        {
+          "id": "pw-6aae4280-6",
+          "title": "How to find DHA and DHA solution?",
+          "url": "How to find DHA and DHA solution? : https://courseswala/play?batchId=6aae4280fe6fb3dd3354ca7c&subjectId=6ab1233ba9ed6e2820b69f66&scheduleId=6ab1284c5d46b5fe4a2ecbd0&topic=How%20to%20find%20DHA%20and%20DHA%20solution%3F",
+          "is_pdf": false,
+          "schedule_id": "6ab1284c5d46b5fe4a2ecbd0",
+          "subject_id": "6ab1233ba9ed6e2820b69f66",
+          "batch_id": "6aae4280fe6fb3dd3354ca7c"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "English",
+      "sectionName": "Handwritten Notes || Only PDF",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6aae4280-1",
+          "title": "Tenses  Handwritten Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/260cacd3-e7e7-453f-a28e-2061becb6c24.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    }
+  ]
+}

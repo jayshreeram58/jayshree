@@ -1,0 +1,106 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6aba0e5cb8d4b9f1acc49f49",
+  "batchSlug": "aktu-semester--iii----computer-science-566300",
+  "batchName": "AKTU Semester (III) - Computer Science",
+  "category": "Targeted Batch for Semester III Aspirants",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb0eac29-e5d2-49f5-bf2e-b6a40998465b.png",
+  "totalSections": 2,
+  "totalLectures": 8,
+  "totalNotes": 1,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || (PDF Only)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6aba0e5c-1",
+          "title": "3rd Semester Planner (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/52ea63a6-64b6-4816-b8cc-dbf108b13890.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6aba0e5c-1",
+          "title": "How to find Test Paper and Answer key in the test section || (Video Only)",
+          "url": "How to find Test Paper and Answer key in the test section || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac3961b4301df13250b8385&topic=How%20to%20find%20Test%20Paper%20and%20Answer%20key%20in%20the%20test%20section%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac3961b4301df13250b8385",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-2",
+          "title": "New Feature Update : Notes Feature in Video Player || (Video Only)",
+          "url": "New Feature Update : Notes Feature in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac39608797fe5129a66b9c7&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac39608797fe5129a66b9c7",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-3",
+          "title": "New Feature Update : New Quality Options in Video Player || (Video Only)",
+          "url": "New Feature Update : New Quality Options in Video Player || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac395eef7ab54056a4fb9f1&topic=New%20Feature%20Update%20%3A%20New%20Quality%20Options%20in%20Video%20Player%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac395eef7ab54056a4fb9f1",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-4",
+          "title": "Important Update : Dark Mode || (Video Only)",
+          "url": "Important Update : Dark Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac395cb3371c0333d36a15f&topic=Important%20Update%20%3A%20Dark%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac395cb3371c0333d36a15f",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-5",
+          "title": "New feature update : Chat Template || (Video Only)",
+          "url": "New feature update : Chat Template || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac3921db2c13482780a1683&topic=New%20feature%20update%20%3A%20Chat%20Template%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac3921db2c13482780a1683",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-6",
+          "title": "New Update : Study Page (App) || (Video Only)",
+          "url": "New Update : Study Page (App) || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac39202eb5fe48f3c73f243&topic=New%20Update%20%3A%20Study%20Page%20(App)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac39202eb5fe48f3c73f243",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-7",
+          "title": "New Feature Update : Audio Mode || (Video Only)",
+          "url": "New Feature Update : Audio Mode || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac391ebd7ccc8c14558af08&topic=New%20Feature%20Update%20%3A%20Audio%20Mode%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac391ebd7ccc8c14558af08",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        },
+        {
+          "id": "pw-6aba0e5c-8",
+          "title": "New Update : Study Page (Web) || (Video Only)",
+          "url": "New Update : Study Page (Web) || (Video Only) : https://courseswala/play?batchId=6aba0e5cb8d4b9f1acc49f49&subjectId=6ac351a6b29e8d1748f500b9&scheduleId=6ac391c23da020d2b5e80737&topic=New%20Update%20%3A%20Study%20Page%20(Web)%20%7C%7C%20(Video%20Only)",
+          "is_pdf": false,
+          "schedule_id": "6ac391c23da020d2b5e80737",
+          "subject_id": "6ac351a6b29e8d1748f500b9",
+          "batch_id": "6aba0e5cb8d4b9f1acc49f49"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}
