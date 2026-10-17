@@ -51,11 +51,14 @@ from services.apna_college_service import (
     get_apna_college_app_object,
     fetch_batches_index
 )
+from services.selection_way_service import (
+    get_selection_way_app_object
+)
 
 @router.get("")
 async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
     """Returns all active apps for the Course Wallah student dashboard."""
-    # 1. Fetch DB apps (skipping apna-college if in DB to avoid heavy 31,000+ lecture joins)
+    # 1. Fetch DB apps (skipping external high-speed service apps)
     stmt = (
         select(App)
         .options(
@@ -64,7 +67,7 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
             .selectinload(Subject.folders)
             .selectinload(Folder.lectures)
         )
-        .where(and_(App.status == "ACTIVE", App.slug != "apna-college"))
+        .where(and_(App.status == "ACTIVE", App.slug != "apna-college", App.slug != "selection-way"))
         .order_by(App.name)
     )
     res = await db.execute(stmt)
@@ -86,20 +89,31 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
         for app in apps
     ]
     
-    # 2. Add Apna College served via high-speed Serverless API service
+    # 2. Add Apna College served via high-speed service
     try:
         apna_app = await get_apna_college_app_object()
         app_results.append(apna_app)
     except Exception as e:
         logger.error("Failed to load Apna College API app: %s", e)
 
+    # 3. Add Selection Way served via high-speed service
+    try:
+        selection_app = await get_selection_way_app_object()
+        app_results.append(selection_app)
+    except Exception as e:
+        logger.error("Failed to load Selection Way API app: %s", e)
+
     return app_results
 
 @router.get("/{slug}")
 async def get_app_detail(slug: str, db: AsyncSession = Depends(get_db_dependency)):
-    # If requesting Apna College, serve instantly from Serverless API
+    # If requesting Apna College, serve instantly from high-speed service
     if slug in ("apna-college", "app_apna_college", "app_apna"):
         return await get_apna_college_app_object()
+
+    # If requesting Selection Way, serve instantly from high-speed service
+    if slug in ("selection-way", "app_selection_way", "selectionway"):
+        return await get_selection_way_app_object()
 
     stmt = (
         select(App)

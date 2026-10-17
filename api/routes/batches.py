@@ -6,9 +6,14 @@ from sqlalchemy.orm import selectinload
 from db.connection import get_db_dependency
 from db.models import Batch, Subject, Folder, Lecture, PublicationStatus
 from services.apna_college_service import (
-    fetch_batch_data,
+    fetch_batch_data as fetch_apna_batch_data,
     format_apna_batch_for_platform,
     is_apna_college_batch
+)
+from services.selection_way_service import (
+    fetch_batch_data as fetch_selection_batch_data,
+    format_selection_batch_for_platform,
+    is_selection_way_batch
 )
 
 router = APIRouter(prefix="/batches", tags=["Batches"])
@@ -19,9 +24,17 @@ async def get_batch_hierarchy(batch_id_or_slug: str, db: AsyncSession = Depends(
     Returns complete batch hierarchy: Subjects -> Folders / Units -> Lectures.
     Only PUBLISHED lectures are visible to normal students.
     """
-    # 1. Fast path for Apna College batches (served via serverless API / local bundle)
+    # 1. Fast path for Selection Way batches
     try:
-        apna_data = await fetch_batch_data(batch_id_or_slug)
+        selection_data = await fetch_selection_batch_data(batch_id_or_slug)
+        if selection_data:
+            return format_selection_batch_for_platform(selection_data)
+    except Exception as e:
+        pass
+
+    # 2. Fast path for Apna College batches
+    try:
+        apna_data = await fetch_apna_batch_data(batch_id_or_slug)
         if apna_data:
             return format_apna_batch_for_platform(apna_data)
     except Exception as e:

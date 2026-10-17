@@ -1,0 +1,31 @@
+{
+  "platform": "SelectionWay",
+  "batchId": "683def9c2f4523ef6c8b18c5",
+  "batchSlug": "defence-all-in-one-8b18c5",
+  "batchName": "Defence- all in one",
+  "thumbnail": "https://selectionwayserver.hranker.com/courses/banners/1772736297669-PHOTO-2026-03-05-10-51-37.jpg",
+  "portalUrl": "https://www.selectionway.com/courses/683def9c2f4523ef6c8b18c5",
+  "totalSections": 1,
+  "totalLectures": 1,
+  "totalNotes": 0,
+  "price": 1899,
+  "discountPrice": 9999,
+  "category": "Railway Exams",
+  "updatedAt": "2026-10-17T12:49:07.752905+00:00",
+  "sections": [
+    {
+      "sectionName": "Advance",
+      "lectures": [
+        {
+          "id": "683def9c2f4523ef6c8b18c5-1",
+          "title": "v5",
+          "streamUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b156d0663628e5205e807f/hls/master.m3u8",
+          "type": "video",
+          "playerUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b156d0663628e5205e807f/hls/master.m3u8",
+          "downloadUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b156d0663628e5205e807f/hls/master.m3u8"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}
