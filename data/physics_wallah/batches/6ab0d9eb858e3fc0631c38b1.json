@@ -1,0 +1,1234 @@
+{
+  "platform": "Physics Wallah",
+  "batchId": "6ab0d9eb858e3fc0631c38b1",
+  "batchSlug": "vajra-bihar-12th-commerce-crash-course-2027-120592",
+  "batchName": "Vajra Bihar 12th Commerce Crash Course 2027",
+  "category": "Crash Course for Bihar Board Students",
+  "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/370536f7-41d6-4814-9eed-7d6f82ab9c16.png",
+  "totalSections": 10,
+  "totalLectures": 47,
+  "totalNotes": 103,
+  "sections": [
+    {
+      "subjectName": "Notices",
+      "sectionName": "Batch Demo Videos",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-1",
+          "title": "Batch Feature : How to Ask Doubt?",
+          "url": "Batch Feature : How to Ask Doubt? : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efecb39179df969f3109&topic=Batch%20Feature%20%3A%20How%20to%20Ask%20Doubt%3F",
+          "is_pdf": false,
+          "schedule_id": "6ab4efecb39179df969f3109",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-2",
+          "title": "Important Update : How to Attempt and Submit Subjective Tests",
+          "url": "Important Update : How to Attempt and Submit Subjective Tests : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efecb39179df969f30fa&topic=Important%20Update%20%3A%20How%20to%20Attempt%20and%20Submit%20Subjective%20Tests",
+          "is_pdf": false,
+          "schedule_id": "6ab4efecb39179df969f30fa",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-3",
+          "title": "Important Update : Dark Mode",
+          "url": "Important Update : Dark Mode : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efecb39179df969f30eb&topic=Important%20Update%20%3A%20Dark%20Mode",
+          "is_pdf": false,
+          "schedule_id": "6ab4efecb39179df969f30eb",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-4",
+          "title": "Important Update : PW Web Only",
+          "url": "Important Update : PW Web Only : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efebb39179df969f30dc&topic=Important%20Update%20%3A%20PW%20Web%20Only",
+          "is_pdf": false,
+          "schedule_id": "6ab4efebb39179df969f30dc",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-5",
+          "title": "New Update : Study Page (App)",
+          "url": "New Update : Study Page (App) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efebb39179df969f30cd&topic=New%20Update%20%3A%20Study%20Page%20(App)",
+          "is_pdf": false,
+          "schedule_id": "6ab4efebb39179df969f30cd",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-6",
+          "title": "New Feature Update : Chat Template",
+          "url": "New Feature Update : Chat Template : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efebb39179df969f30be&topic=New%20Feature%20Update%20%3A%20Chat%20Template",
+          "is_pdf": false,
+          "schedule_id": "6ab4efebb39179df969f30be",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-7",
+          "title": "New Feature Update : Notes Feature in Video Player",
+          "url": "New Feature Update : Notes Feature in Video Player : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efebb39179df969f30af&topic=New%20Feature%20Update%20%3A%20Notes%20Feature%20in%20Video%20Player",
+          "is_pdf": false,
+          "schedule_id": "6ab4efebb39179df969f30af",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-8",
+          "title": "Demo Video by Ayush Sir  Business Studies (व्यवसाय अध्ययन)",
+          "url": "Demo Video by Ayush Sir  Business Studies (व्यवसाय अध्ययन) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efeab39179df969f30a1&topic=Demo%20Video%20by%20Ayush%20Sir%20%20Business%20Studies%20(%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A4%A8)",
+          "is_pdf": false,
+          "schedule_id": "6ab4efeab39179df969f30a1",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-9",
+          "title": "Demo Video by Nidhi Ma'am (English)",
+          "url": "Demo Video by Nidhi Ma'am (English) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efeab39179df969f3092&topic=Demo%20Video%20by%20Nidhi%20Ma'am%20(English)",
+          "is_pdf": false,
+          "schedule_id": "6ab4efeab39179df969f3092",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-10",
+          "title": "Demo Video by Rishabh Sir  Accountancy (लेखाशास्त्र)",
+          "url": "Demo Video by Rishabh Sir  Accountancy (लेखाशास्त्र) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efeab39179df969f3084&topic=Demo%20Video%20by%20Rishabh%20Sir%20%20Accountancy%20(%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0)",
+          "is_pdf": false,
+          "schedule_id": "6ab4efeab39179df969f3084",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-11",
+          "title": "Demo Video by Chhotu Sir Economics (अर्थशास्त्र)",
+          "url": "Demo Video by Chhotu Sir Economics (अर्थशास्त्र) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab4eead032669cef4e7a962&scheduleId=6ab4efeab39179df969f3074&topic=Demo%20Video%20by%20Chhotu%20Sir%20Economics%20(%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0)",
+          "is_pdf": false,
+          "schedule_id": "6ab4efeab39179df969f3074",
+          "subject_id": "6ab4eead032669cef4e7a962",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Lecture Planner || PDF Only",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-1",
+          "title": "Lecture Planner  Economics (अर्थशास्त्र) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b597298-c430-4e49-b294-215fc9e553ab.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-2",
+          "title": "Lecture Planner  Hindi (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6fb01448-275c-4e27-a825-6eba7de8c6fa.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-3",
+          "title": "Lecture Planner   English (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/15845133-d7ac-498b-a869-3b3047733a76.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-4",
+          "title": "Lecture Planner  Business Studies (व्यवसाय अध्ययन) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/559b6ff4-d5bf-4764-bc5b-405c056216a4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-5",
+          "title": "Lecture Planner  Accountancy (लेखाशास्त्र) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/20a6def3-ad96-406a-9238-0bcca6c485f4.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-6",
+          "title": "Lecture Planner  Maths (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ac5519a5-9b68-490b-969e-f9c755c8d313.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Notices",
+      "sectionName": "Special Offering",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-7",
+          "title": "साझेदारी फर्मों का लेखांकन- आधारभूत अवधारणाएँ 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2057b539-4e23-45fe-93ac-edfc45325a77.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-8",
+          "title": "परिचय Economics (अर्थशास्त्र)  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/558bf899-12c7-41f6-a420-6bf89af47aa1.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-9",
+          "title": "प्रबंध की प्रकृति एवं महत्व Business Studies (व्यवसाय अध्ययन)  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06978ae4-1262-4e29-ad89-fd07abb80f07.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-10",
+          "title": "Sweetest Love I Do not Goe 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/560879d8-83e1-4270-a401-5d337ab50913.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-11",
+          "title": "बातचीत 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7e71e0e8-b3ee-4cc5-9c36-26cc048b82b7.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "संबंध एवं फलन",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-12",
+          "title": "संबंध एवं फलन 05 : Binary Operations || (Recorded)",
+          "url": "संबंध एवं फलन 05 : Binary Operations || (Recorded) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad7f76c469f14caca12&topic=%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2005%20%3A%20Binary%20Operations%20%7C%7C%20(Recorded)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad7f76c469f14caca12",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-13",
+          "title": "संबंध एवं फलन 04 : Composition of Functions and Invertible Function || || (Recorded)",
+          "url": "संबंध एवं फलन 04 : Composition of Functions and Invertible Function || || (Recorded) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad3fc041ac9e8e43d4b&topic=%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2004%20%3A%20Composition%20of%20Functions%20and%20Invertible%20Function%20%7C%7C%20%7C%7C%20(Recorded)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad3fc041ac9e8e43d4b",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-14",
+          "title": "संबंध एवं फलन 03 : Introduction of Functions",
+          "url": "संबंध एवं फलन 03 : Introduction of Functions : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad29adf545916a8fdb1&topic=%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2003%20%3A%20Introduction%20of%20Functions",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad29adf545916a8fdb1",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-15",
+          "title": "संबंध एवं फलन 02 : Questions Practice of Relations",
+          "url": "संबंध एवं फलन 02 : Questions Practice of Relations : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad2f76c469f14cac7cf&topic=%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2002%20%3A%20Questions%20Practice%20of%20Relations",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad2f76c469f14cac7cf",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-16",
+          "title": "संबंध एवं फलन 01 : Introduction of Relations || NO DPP || Recorded Class",
+          "url": "संबंध एवं फलन 01 : Introduction of Relations || NO DPP || Recorded Class : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad2f76c469f14cac795&topic=%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2001%20%3A%20Introduction%20of%20Relations%20%7C%7C%20NO%20DPP%20%7C%7C%20Recorded%20Class",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad2f76c469f14cac795",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-12",
+          "title": "संबंध एवं फलन 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c58fb013-c54f-470a-8860-e1dcb08ff5bc.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-13",
+          "title": "संबंध एवं फलन 04  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ee5d62c-252b-4012-9210-dd1e0cbf299d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-14",
+          "title": "संबंध एवं फलन 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/549cf19d-3f74-4e2c-9363-5f6f4407711a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-15",
+          "title": "संबंध एवं फलन 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d1cd304f-7d6d-4b4b-ada7-fd5b09e70d54.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-16",
+          "title": "संबंध एवं फलन 01 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9b10c0ec-ab66-43d2-b044-735ec3cc4d4f.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-17",
+          "title": "संबंध एवं फलन  DPP 04 (of lec 05) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fe744570-611f-423e-a599-a9b7e9937161.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-18",
+          "title": "संबंध एवं फलन  DPP 04 (of lec 05) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6859afe6-fd44-4b4f-9c34-b7bfc94eb2d4.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-19",
+          "title": "संबंध एवं फलन  DPP 03 (of lec 04) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/00127e0d-72b4-4b15-9da6-955264959635.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-20",
+          "title": "संबंध एवं फलन  DPP 03 (of lec 04) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f2fac81d-7ad0-41b3-96d5-e5a7c77e730a.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-21",
+          "title": "संबंध एवं फलन  DPP 02 (of lec 03) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0d2347a6-0924-47ef-96a0-9ffbd1b064c4.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-22",
+          "title": "संबंध एवं फलन  DPP 02 (of lec 03) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/19b96877-51a4-4fd5-83c9-72a6f7c85a6c.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-23",
+          "title": "संबंध एवं फलन  DPP 01 (of lec 02) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/467d739e-eaec-4347-a2db-f3442c2c0a34.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-24",
+          "title": "संबंध एवं फलन  DPP 01 (of lec 02) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a5b25dbe-54a5-4a3e-a662-30918781ba9f.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "प्रतिलोम त्रिकोणमितीय फलन",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-17",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 03 : Questions practice of ITF",
+          "url": "प्रतिलोम त्रिकोणमितीय फलन 03 : Questions practice of ITF : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad3f76c469f14cac881&topic=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2003%20%3A%20Questions%20practice%20of%20ITF",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad3f76c469f14cac881",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-18",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 02 : Complete properties of ITF",
+          "url": "प्रतिलोम त्रिकोणमितीय फलन 02 : Complete properties of ITF : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad3f76c469f14cac825&topic=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2002%20%3A%20Complete%20properties%20of%20ITF",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad3f76c469f14cac825",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-19",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 01 : Basics of ITF",
+          "url": "प्रतिलोम त्रिकोणमितीय फलन 01 : Basics of ITF : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad3fc041ac9e8e43d06&topic=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%AB%E0%A4%B2%E0%A4%A8%2001%20%3A%20Basics%20of%20ITF",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad3fc041ac9e8e43d06",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-25",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c18d915-c41e-482f-a68d-0f9c50d8a048.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-26",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/af576748-6fd0-462e-9db4-26aa9f439cbb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-27",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f1e4bf8-719c-45a7-b372-eaf82836466d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-28",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 03 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b5b6edac-2373-448f-9f84-4e04867ac50b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-29",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 03 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a4c80aae-69b2-435d-b278-e776e0f5dcb1.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-30",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 02 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e888890f-9c7a-4491-aa89-e1ba26b11570.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-31",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 02 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/13c553ed-d1cb-4d4d-b9d9-3237dd1abe43.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-32",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 01 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9122dfd4-7428-40c5-bed1-0f0cdd1f3b20.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-33",
+          "title": "प्रतिलोम त्रिकोणमितीय फलन  DPP 01 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1fd6fc81-9f2f-4e3c-ad11-10dfd6967b82.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "आव्यूह",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-20",
+          "title": "आव्यूह 05 : Quesiton Practice || (NO DPP) || (Recorded)",
+          "url": "आव्यूह 05 : Quesiton Practice || (NO DPP) || (Recorded) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad5fc041ac9e8e43df1&topic=%E0%A4%86%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B9%2005%20%3A%20Quesiton%20Practice%20%7C%7C%20(NO%20DPP)%20%7C%7C%20(Recorded)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad5fc041ac9e8e43df1",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-21",
+          "title": "आव्यूह 04 : Elementary Operation (Transformation) of a Matrix",
+          "url": "आव्यूह 04 : Elementary Operation (Transformation) of a Matrix : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad4f76c469f14cac944&topic=%E0%A4%86%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B9%2004%20%3A%20Elementary%20Operation%20(Transformation)%20of%20a%20Matrix",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad4f76c469f14cac944",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-22",
+          "title": "आव्यूह 03 : Symmetric and Skew Symmetric Matrices",
+          "url": "आव्यूह 03 : Symmetric and Skew Symmetric Matrices : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad49adf545916a8fe64&topic=%E0%A4%86%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B9%2003%20%3A%20Symmetric%20and%20Skew%20Symmetric%20Matrices",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad49adf545916a8fe64",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-23",
+          "title": "आव्यूह 02 : Transpose of a Matrix",
+          "url": "आव्यूह 02 : Transpose of a Matrix : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad4f76c469f14cac8df&topic=%E0%A4%86%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B9%2002%20%3A%20Transpose%20of%20a%20Matrix",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad4f76c469f14cac8df",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-24",
+          "title": "आव्यूह 01 : Introduction of Matrices and Type of Matrices",
+          "url": "आव्यूह 01 : Introduction of Matrices and Type of Matrices : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad49adf545916a8fe05&topic=%E0%A4%86%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B9%2001%20%3A%20Introduction%20of%20Matrices%20and%20Type%20of%20Matrices",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad49adf545916a8fe05",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-34",
+          "title": "आव्यूह 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6ed5128c-c4d0-4e90-b93f-8442fcbba03d.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-35",
+          "title": "आव्यूह 04  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9f446491-f68d-4705-b070-731623d7868e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-36",
+          "title": "आव्यूह 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0e0b0ff9-2951-454b-b28d-edb91a5c2eea.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-37",
+          "title": "आव्यूह 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6650f293-aa6f-4153-a2f3-5adc0c1ad9b8.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-38",
+          "title": "आव्यूह 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8dc17246-f130-414c-9a55-afb594f9a67b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-39",
+          "title": "Matrices DPP 4 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/815a099f-746e-4c78-9ac8-e8f45e5d3d76.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-40",
+          "title": "आव्यूह  DPP 04 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/48221710-2f2f-48a8-8275-f2cdee920536.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-41",
+          "title": "आव्यूह  DPP 03 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/733592f5-c094-4de5-b32a-30166c4255a6.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-42",
+          "title": "आव्यूह  DPP 03 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cc5470f8-ac75-4b2c-987a-eacb7a2b33fa.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-43",
+          "title": "आव्यूह  DPP 02 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e5686df5-54f1-448d-8bc1-9dfc3711099c.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-44",
+          "title": "Matrices DPP 2 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b2a99b02-0c53-47c5-846e-32cf0ed809bf.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-45",
+          "title": "आव्यूह  DPP 01 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4908ead8-f383-4692-8a94-aadd1d33efa9.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-46",
+          "title": "आव्यूह  DPP 01 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aa8ee20c-cf2d-49df-afce-5b3e525d7abd.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "सारणिक",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-25",
+          "title": "सारणिक 05 : Question Practice || (NO DPP)",
+          "url": "सारणिक 05 : Question Practice || (NO DPP) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad59adf545916a8ffe8&topic=%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BF%E0%A4%95%2005%20%3A%20Question%20Practice%20%7C%7C%20(NO%20DPP)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad59adf545916a8ffe8",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-26",
+          "title": "सारणिक 03 : Properties of Determinants || (Recorded)",
+          "url": "सारणिक 03 : Properties of Determinants || (Recorded) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad59adf545916a8ff8f&topic=%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BF%E0%A4%95%2003%20%3A%20Properties%20of%20Determinants%20%7C%7C%20(Recorded)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad59adf545916a8ff8f",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-27",
+          "title": "सारणिक 04 : Applications of Determinants and Matrices",
+          "url": "सारणिक 04 : Applications of Determinants and Matrices : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad59adf545916a8ff30&topic=%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BF%E0%A4%95%2004%20%3A%20Applications%20of%20Determinants%20and%20Matrices",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad59adf545916a8ff30",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-28",
+          "title": "सारणिक 02 :  Minors and Cofactors & Adjoint and Inverse of a Matrix",
+          "url": "सारणिक 02 :  Minors and Cofactors & Adjoint and Inverse of a Matrix : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad59adf545916a8fed5&topic=%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BF%E0%A4%95%2002%20%3A%20%20Minors%20and%20Cofactors%20%26%20Adjoint%20and%20Inverse%20of%20a%20Matrix",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad59adf545916a8fed5",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-29",
+          "title": "सारणिक 01 : Introduction of Determinants & Area of Triangle",
+          "url": "सारणिक 01 : Introduction of Determinants & Area of Triangle : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad4fc041ac9e8e43db8&topic=%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%BF%E0%A4%95%2001%20%3A%20Introduction%20of%20Determinants%20%26%20Area%20of%20Triangle",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad4fc041ac9e8e43db8",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-47",
+          "title": "सारणिक 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/286d30cf-a330-412c-8759-e35339fb5274.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-48",
+          "title": "सारणिक 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f72dd5da-773a-4a24-81fb-737699484788.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-49",
+          "title": "सारणिक 04  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/317afef2-64c3-40b4-a5ee-3767c1c7f050.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-50",
+          "title": "सारणिक 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/808c496c-539e-4c44-a0b0-032914c24595.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-51",
+          "title": "सारणिक 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e76652f0-2da2-4d45-8194-59fff7e154f3.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-52",
+          "title": "Determinants DPP 3 ( HIndi ) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d562b71-b4c8-49c2-97b9-804afe190cbf.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-53",
+          "title": "Determinants DPP 3 (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d327b353-c95b-45cc-988f-93659f592715.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-54",
+          "title": "सारणिक  DPP 04 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dc328f93-55ce-46df-8f6f-dd7b4ddd4259.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-55",
+          "title": "सारणिक  DPP 04 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d4a179f-c7d6-4a29-84eb-bbe22b42950b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-56",
+          "title": "सारणिक  DPP 02 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/86137634-67a7-44dc-a45d-d66dec5d4598.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-57",
+          "title": "सारणिक  DPP 02 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bfd2a5b3-9b94-4ccd-a9f1-c7b75e6a7024.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-58",
+          "title": "सारणिक  DPP 01 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f7057b88-e647-4be4-b516-2254e6c2092e.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-59",
+          "title": "Determinants DPP 1 ( HIndi ) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fc635ab4-6403-4a4e-91a6-be28e93b0d81.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "सांतत्य तथा अवकलनीयता",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-30",
+          "title": "सांतत्य तथा अवकलनीयता 06 : Darivatives of parametric function and second order derivative || (Recorded)",
+          "url": "सांतत्य तथा अवकलनीयता 06 : Darivatives of parametric function and second order derivative || (Recorded) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad79adf545916a9015b&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2006%20%3A%20Darivatives%20of%20parametric%20function%20and%20second%20order%20derivative%20%7C%7C%20(Recorded)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad79adf545916a9015b",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-31",
+          "title": "सांतत्य तथा अवकलनीयता 05 : Derivatives of logarithm function & implicit function",
+          "url": "सांतत्य तथा अवकलनीयता 05 : Derivatives of logarithm function & implicit function : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad7f76c469f14caca84&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2005%20%3A%20Derivatives%20of%20logarithm%20function%20%26%20implicit%20function",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad7f76c469f14caca84",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-32",
+          "title": "सांतत्य तथा अवकलनीयता 04 : Derivatives of composite function and Inverse function",
+          "url": "सांतत्य तथा अवकलनीयता 04 : Derivatives of composite function and Inverse function : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad79adf545916a900d7&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2004%20%3A%20Derivatives%20of%20composite%20function%20and%20Inverse%20function",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad79adf545916a900d7",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-33",
+          "title": "सांतत्य तथा अवकलनीयता 03 : Introduction of Differentiability",
+          "url": "सांतत्य तथा अवकलनीयता 03 : Introduction of Differentiability : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad6f76c469f14cac9af&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2003%20%3A%20Introduction%20of%20Differentiability",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad6f76c469f14cac9af",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-34",
+          "title": "सांतत्य तथा अवकलनीयता 02 : Question Practice || (NO DPP)",
+          "url": "सांतत्य तथा अवकलनीयता 02 : Question Practice || (NO DPP) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad69adf545916a9007b&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2002%20%3A%20Question%20Practice%20%7C%7C%20(NO%20DPP)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad69adf545916a9007b",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-35",
+          "title": "सांतत्य तथा अवकलनीयता 01 : Introduction of Continuity",
+          "url": "सांतत्य तथा अवकलनीयता 01 : Introduction of Continuity : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad69adf545916a90047&topic=%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE%2001%20%3A%20Introduction%20of%20Continuity",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad69adf545916a90047",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-60",
+          "title": "सांतत्य तथा अवकलनीयता 06  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c03a749d-1f80-441a-b9e2-2d3af62fb6a6.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-61",
+          "title": "सांतत्य तथा अवकलनीयता 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/304eb60e-e849-47d3-aeeb-4ce271f9d3fb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-62",
+          "title": "सांतत्य तथा अवकलनीयता 04  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca9888ac-6d1f-4239-b20f-fbe913d6463b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-63",
+          "title": "सांतत्य तथा अवकलनीयता 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e401c643-f589-43ad-90d9-d11d59e885c5.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-64",
+          "title": "सांतत्य तथा अवकलनीयता 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c9e5a5f5-ffb9-4536-b49a-09d738b4dd57.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-65",
+          "title": "सांतत्य तथा अवकलनीयता 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/71296d78-515f-419b-aebc-97afd88d3d92.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-66",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 05 (of lec 06) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ffc969a9-af26-4159-98c0-a058d14f5eb9.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-67",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 05 (of lec 06) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/857d7a0f-d4f5-42f5-96a7-1d472b062195.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-68",
+          "title": "संबंध एवं फलन  DPP 04 (of lec 05) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fe744570-611f-423e-a599-a9b7e9937161.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-69",
+          "title": "संबंध एवं फलन  DPP 04 (of lec 05) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6859afe6-fd44-4b4f-9c34-b7bfc94eb2d4.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-70",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 03 (of lec 04) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9265fc90-0ab9-4d56-970a-73ca58020054.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-71",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 03 (of lec 04) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a502d8f2-2071-40bb-b960-a66aacd424e9.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-72",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 02 (of lec 03) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/561eb5c6-415e-42c8-af99-162449193b84.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-73",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 02 (of lec 03) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/86fa1a01-dc1f-4d65-a266-3f6a4c85b585.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-74",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 01 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9c7d7014-645f-4a0a-9f42-b3a2a0b464b7.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-75",
+          "title": "सांतत्य तथा अवकलनीयता  DPP 01 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0632dc6-9506-44e6-9726-91367a053285.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "अवकलज के अनुप्रयोग",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-36",
+          "title": "अवकलज के अनुप्रयोग 03 : Tangents and Normals",
+          "url": "अवकलज के अनुप्रयोग 03 : Tangents and Normals : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad8f76c469f14cacc01&topic=%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%9C%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%2003%20%3A%20Tangents%20and%20Normals",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad8f76c469f14cacc01",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-37",
+          "title": "अवकलज के अनुप्रयोग 06 : Question Practice || (NO DPP)",
+          "url": "अवकलज के अनुप्रयोग 06 : Question Practice || (NO DPP) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad8f76c469f14cacb9d&topic=%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%9C%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%2006%20%3A%20Question%20Practice%20%7C%7C%20(NO%20DPP)",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad8f76c469f14cacb9d",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-38",
+          "title": "अवकलज के अनुप्रयोग 05 : Maxima and Minima",
+          "url": "अवकलज के अनुप्रयोग 05 : Maxima and Minima : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad8f76c469f14cacb4c&topic=%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%9C%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%2005%20%3A%20Maxima%20and%20Minima",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad8f76c469f14cacb4c",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-39",
+          "title": "अवकलज के अनुप्रयोग 02 : Increasing and Decreasing Functions",
+          "url": "अवकलज के अनुप्रयोग 02 : Increasing and Decreasing Functions : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad8f76c469f14cacaf0&topic=%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%9C%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%2002%20%3A%20Increasing%20and%20Decreasing%20Functions",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad8f76c469f14cacaf0",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-40",
+          "title": "अवकलज के अनुप्रयोग 01 : Rate of Change of Quantities",
+          "url": "अवकलज के अनुप्रयोग 01 : Rate of Change of Quantities : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6acf1ad7fc041ac9e8e43e6f&topic=%E0%A4%85%E0%A4%B5%E0%A4%95%E0%A4%B2%E0%A4%9C%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%2001%20%3A%20Rate%20of%20Change%20of%20Quantities",
+          "is_pdf": false,
+          "schedule_id": "6acf1ad7fc041ac9e8e43e6f",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-76",
+          "title": "अवकलज के अनुप्रयोग 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/45660e70-272a-4628-8395-b0c242d62a2e.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-77",
+          "title": "अवकलज के अनुप्रयोग 06  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4e819985-51e1-4ff9-b679-c1fc9194c976.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-78",
+          "title": "अवकलज के अनुप्रयोग 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/210cb752-9e05-4e18-86c4-2cda655de8eb.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-79",
+          "title": "अवकलज के अनुप्रयोग 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8bb272fe-7be9-4fd2-a5a2-750ea836c041.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-80",
+          "title": "अवकलज के अनुप्रयोग 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a154eb73-fe42-4430-a560-3d478f695a19.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-81",
+          "title": "Application of Derivatives DPP 3 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdec66e-2286-4899-b6f6-d4df187b6556.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-82",
+          "title": "अवकलज के अनुप्रयोग  DPP 03 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c6787bc1-e80d-4c07-bd33-d68068ebda00.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-83",
+          "title": "अवकलज के अनुप्रयोग  DPP 04 (of lec 05) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e13f9cde-9290-450e-b9b7-03fc9e004ca1.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-84",
+          "title": "अवकलज के अनुप्रयोग  DPP 04 (of lec 05) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9e45b29-615c-4c12-adb7-3e63af0839c5.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-85",
+          "title": "अवकलज के अनुप्रयोग  DPP 02 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8377573-87ce-49c5-b185-f1b9a98f5e9b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-86",
+          "title": "अवकलज के अनुप्रयोग  DPP 02 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5439c65e-feef-43fd-b91e-a2ef6fc8d4bf.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-87",
+          "title": "अवकलज के अनुप्रयोग  DPP 01 (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/78798a30-09bc-4336-8221-9c77f53db5bd.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-88",
+          "title": "अवकलज के अनुप्रयोग  DPP 01 (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cb392c18-e0a9-4246-b721-9e71689f8a4b.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    },
+    {
+      "subjectName": "Maths",
+      "sectionName": "समाकलन",
+      "lectures": [
+        {
+          "id": "pw-6ab0d9eb-41",
+          "title": "समाकलन 07 : Question Practice || (NO DPP)",
+          "url": "समाकलन 07 : Question Practice || (NO DPP) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c4a25b673b7ae87f9d2f&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2007%20%3A%20Question%20Practice%20%7C%7C%20(NO%20DPP)",
+          "is_pdf": false,
+          "schedule_id": "6ad0c4a25b673b7ae87f9d2f",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-42",
+          "title": "समाकलन 06 : Definite Integrals & Some Properties of Definite Integral",
+          "url": "समाकलन 06 : Definite Integrals & Some Properties of Definite Integral : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c487b98723cb332c8e89&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2006%20%3A%20Definite%20Integrals%20%26%20Some%20Properties%20of%20Definite%20Integral",
+          "is_pdf": false,
+          "schedule_id": "6ad0c487b98723cb332c8e89",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-43",
+          "title": "समाकलन 05 : Integration by part",
+          "url": "समाकलन 05 : Integration by part : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c468cd09674dcb2bdaee&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2005%20%3A%20Integration%20by%20part",
+          "is_pdf": false,
+          "schedule_id": "6ad0c468cd09674dcb2bdaee",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-44",
+          "title": "समाकलन 04 : Integration by Partial Fractions",
+          "url": "समाकलन 04 : Integration by Partial Fractions : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c29b4388a4496c8a8fa1&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2004%20%3A%20Integration%20by%20Partial%20Fractions",
+          "is_pdf": false,
+          "schedule_id": "6ad0c29b4388a4496c8a8fa1",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-45",
+          "title": "समाकलन 03 : Integrals of Some Particular Functions || (NO DPP)",
+          "url": "समाकलन 03 : Integrals of Some Particular Functions || (NO DPP) : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c21de9c7fed9c3040c0d&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2003%20%3A%20Integrals%20of%20Some%20Particular%20Functions%20%7C%7C%20(NO%20DPP)",
+          "is_pdf": false,
+          "schedule_id": "6ad0c21de9c7fed9c3040c0d",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-46",
+          "title": "समाकलन 02 : Method of substitution",
+          "url": "समाकलन 02 : Method of substitution : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c1fde173ea9fcb1df8ff&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2002%20%3A%20Method%20of%20substitution",
+          "is_pdf": false,
+          "schedule_id": "6ad0c1fde173ea9fcb1df8ff",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        },
+        {
+          "id": "pw-6ab0d9eb-47",
+          "title": "समाकलन 01 : Introduction of Integrals  || (NO DPP) || Rescheduled at 7:00 pm",
+          "url": "समाकलन 01 : Introduction of Integrals  || (NO DPP) || Rescheduled at 7:00 pm : https://courseswala/play?batchId=6ab0d9eb858e3fc0631c38b1&subjectId=6ab119b230ab0a4092109a86&scheduleId=6ad0c1ce89307a71b5b244dc&topic=%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B2%E0%A4%A8%2001%20%3A%20Introduction%20of%20Integrals%20%20%7C%7C%20(NO%20DPP)%20%7C%7C%20Rescheduled%20at%207%3A00%20pm",
+          "is_pdf": false,
+          "schedule_id": "6ad0c1ce89307a71b5b244dc",
+          "subject_id": "6ab119b230ab0a4092109a86",
+          "batch_id": "6ab0d9eb858e3fc0631c38b1"
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6ab0d9eb-89",
+          "title": "समाकलन 07 : Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/08830271-407a-4ff3-b0e3-7a0017f09576.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-90",
+          "title": "समाकलन 06  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb3bcde4-2941-4b03-9d86-fdc2d15e525b.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-91",
+          "title": "समाकलन 05  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29353844-5668-46b3-a490-3f2174396956.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-92",
+          "title": "Integrals 4 Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/46e2efab-aeb2-4091-8b26-58b50471b146.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-93",
+          "title": "समाकलन 03  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b024fd2c-cf64-48af-bc6b-ade260def389.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-94",
+          "title": "समाकलन 02  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5fe4bfeb-f869-4d77-a02f-96b4e7b37892.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "note-6ab0d9eb-95",
+          "title": "समाकलन 01  Class Notes (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/81e3336a-a5fc-40b3-9be9-e1cd8a19415a.pdf",
+          "is_pdf": true,
+          "is_dpp": false
+        },
+        {
+          "id": "dpp-6ab0d9eb-96",
+          "title": "समाकलन  DPP 04 (of lec 06) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bdd5df04-c6aa-4208-bd00-70cb979e5b33.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-97",
+          "title": "समाकलन  DPP 04 (of lec 06) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0adaeaf7-7c1b-4e09-9758-fcbe1018b45a.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-98",
+          "title": "समाकलन  DPP 03 (of lec 05) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c172cced-fdf9-444a-8178-4127611d3dd7.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-99",
+          "title": "समाकलन  DPP 03 (of lec 05) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ab636646-2fc2-42f1-85d6-12d0dfd827cf.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-100",
+          "title": "समाकलन  DPP 02 (of lec 04) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/74c1344b-0b8b-462a-95ae-743e2845eb17.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-101",
+          "title": "समाकलन  DPP 02 (of lec 04) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6b68c9d7-fd2b-4ab6-93c8-942a6dcd2370.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-102",
+          "title": "समाकलन  DPP 01 (of lec 02) (Hindi) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f22296ac-5147-4a46-b6de-cf7af68e6aa8.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        },
+        {
+          "id": "dpp-6ab0d9eb-103",
+          "title": "समाकलन  DPP 01 (of lec 02) (English) (PDF)",
+          "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0fe4578-533f-4d60-91a5-87154ad67beb.pdf",
+          "is_pdf": true,
+          "is_dpp": true
+        }
+      ]
+    }
+  ]
+}
