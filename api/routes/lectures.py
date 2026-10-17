@@ -9,6 +9,7 @@ from db.models import (
     Lecture, Video, PDF, Subject, Folder, Batch,
     PublicationStatus, Playlist, PlaylistItem,
     VideoStorage, VideoStorageStatus
+)
 from services.apna_college_service import (
     get_apna_lecture_details,
     get_apna_lecture_access
