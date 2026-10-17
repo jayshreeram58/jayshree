@@ -957,32 +957,51 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
   // Filter sibling playlist to ONLY videos so PDFs don't get mixed in playlist!
   const videoPlaylist = (lecture.playlist || []).filter(item => item.has_video);
   
+  // Extract YouTube ID if stream URL is a YouTube embed or watch link
+  let effectiveYoutubeId = access.youtube_video_id || null;
+  if (!effectiveYoutubeId && access.stream_url) {
+    const ytMatch = access.stream_url.match(/(?:embed\/|v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+    if (ytMatch) {
+      effectiveYoutubeId = ytMatch[1];
+    }
+  }
+  const isFakeYtId = effectiveYoutubeId && (
+    effectiveYoutubeId.startsWith('cw_temp_') ||
+    effectiveYoutubeId.startsWith('yt_id_') ||
+    effectiveYoutubeId.startsWith('EXISTING_YT') ||
+    effectiveYoutubeId.startsWith('tg_') ||
+    effectiveYoutubeId === 'dQw4w9WgXcQ'
+  );
+  const hasYouTube = Boolean(effectiveYoutubeId && !isFakeYtId);
+
   const isTelegramStream = Boolean(
-    access.storage_provider === 'telegram' ||
-    access.storage_provider === 'telegram_stream' ||
-    (access.stream_url && access.stream_url.includes('/stream/tg/'))
+    !hasYouTube && (
+      access.storage_provider === 'telegram' ||
+      access.storage_provider === 'telegram_stream' ||
+      (access.stream_url && access.stream_url.includes('/stream/tg/'))
+    )
   );
 
   const isMediaCm = Boolean(
-    !isTelegramStream && (
+    !hasYouTube && !isTelegramStream && (
       access.storage_provider === 'media_cm' ||
       (access.playback_url && access.playback_url.includes('media.cm')) ||
       (access.embed_url && access.embed_url.includes('media.cm'))
     )
   );
   const mediaCmUrl = access.playback_url || (access.embed_url && !access.embed_url.includes('/embed-') ? access.embed_url : null) || (access.embed_url ? `https://media.cm/${access.embed_url.split('/embed-')[1]?.split('.html')[0]}` : null);
-  const isEmbed = Boolean(access.embed_url && !isMediaCm && !isTelegramStream);
+  const isEmbed = Boolean(!hasYouTube && access.embed_url && !isMediaCm && !isTelegramStream);
   const effectiveEmbedUrl = access.embed_url;
+
   const isDash = Boolean(
-    !isEmbed && !isMediaCm && (
+    !hasYouTube && !isEmbed && !isMediaCm && (
       access.stream_type === 'dash' ||
-      (access.stream_url && (access.stream_url.includes('.mpd') || access.stream_url.includes('pearl.mscilearn.in'))) ||
+      (access.stream_url && access.stream_url.includes('.mpd')) ||
       (access.clear_keys && Object.keys(access.clear_keys).length > 0)
     )
   );
-  const isDirectHls = Boolean(!isEmbed && !isMediaCm && !isTelegramStream && !isDash && access.stream_url && (access.stream_url.includes('.m3u8') || access.stream_url.endsWith('.m3u8')));
-  const isDirectVideo = Boolean(isTelegramStream || (!isEmbed && !isMediaCm && access.stream_url && !isDirectHls && !isDash));
-  const hasYouTube = Boolean(!isTelegramStream && !isEmbed && !isMediaCm && !isDirectHls && !isDirectVideo && !isDash && access.youtube_video_id && !access.youtube_video_id.startsWith('cw_temp_') && !access.youtube_video_id.startsWith('yt_id_') && !access.youtube_video_id.startsWith('EXISTING_YT') && !access.youtube_video_id.startsWith('tg_') && access.youtube_video_id !== 'dQw4w9WgXcQ');
+  const isDirectHls = Boolean(!hasYouTube && !isEmbed && !isMediaCm && !isTelegramStream && !isDash && access.stream_url && (access.stream_url.includes('.m3u8') || access.stream_url.endsWith('.m3u8')));
+  const isDirectVideo = Boolean(!hasYouTube && (isTelegramStream || (!isEmbed && !isMediaCm && access.stream_url && !isDirectHls && !isDash)));
   const detectedQuality = (access.player_config && access.player_config.quality) ? access.player_config.quality : '1080p';
 
   container.innerHTML = `
@@ -1071,7 +1090,7 @@ async function renderPlayerView(container, appSlugOrId, batchIdOrSlug, subjectId
           ` : (hasYouTube ? `
             <div class="plyr__video-embed" id="cw-plyr-element">
               <iframe
-                src="https://www.youtube-nocookie.com/embed/${access.youtube_video_id}?origin=${encodeURIComponent(window.location.origin)}&iv_load_policy=3&modestbranding=1&playsinline=1&showinfo=0&rel=0&enablejsapi=1&controls=0&disablekb=1&fs=0&widget_referrer=${encodeURIComponent(window.location.origin)}"
+                src="https://www.youtube-nocookie.com/embed/${effectiveYoutubeId}?origin=${encodeURIComponent(window.location.origin)}&iv_load_policy=3&modestbranding=1&playsinline=1&showinfo=0&rel=0&enablejsapi=1&controls=0&disablekb=1&fs=0&widget_referrer=${encodeURIComponent(window.location.origin)}"
                 allowfullscreen
                 allowtransparency
                 allow="autoplay"
@@ -1295,12 +1314,19 @@ function initPlyr(streamUrl, access = {}) {
   ];
 
   // 1. Shaka Player for DASH (.mpd), Pearl MSCILearn proxy, or ClearKey DRM
+  const isYouTube = Boolean(
+    access.stream_type === 'youtube' ||
+    access.youtube_video_id ||
+    (streamUrl && (streamUrl.includes('youtube') || streamUrl.includes('youtu.be')))
+  );
+
   const isDashStream = Boolean(
+    !isYouTube &&
     streamUrl && (
       streamUrl.includes('.mpd') ||
-      streamUrl.includes('pearl.mscilearn.in') ||
       access.stream_type === 'dash' ||
-      (access.clear_keys && Object.keys(access.clear_keys).length > 0)
+      (access.clear_keys && Object.keys(access.clear_keys).length > 0) ||
+      (streamUrl.includes('pearl.mscilearn.in') && streamUrl.includes('.mpd'))
     )
   );
 

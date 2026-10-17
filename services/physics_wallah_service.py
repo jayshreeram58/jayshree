@@ -333,19 +333,68 @@ async def get_pw_lecture_details(lecture_id: str) -> Optional[Dict[str, Any]]:
 
 
 async def resolve_pw_stream_url(batch_id: str, subject_id: Optional[str], schedule_id: str) -> Dict[str, Any]:
-    """Resolves PW video stream via StudyPika API / Pearl MSCILearn proxy."""
+    """Resolves PW video stream via direct APIs with multi-tier failover."""
     cache_key = f"{batch_id}:{schedule_id}"
     if cache_key in _STREAM_CACHE:
         return _STREAM_CACHE[cache_key]
 
-    endpoints = [
-        f"https://pw.studypika.eu.cc/api/video2?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}",
-        f"https://pw.studypika.eu.cc/api/video?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}",
-        f"https://pw.studypika.eu.cc/api/video3?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}"
-    ]
-
     async with httpx.AsyncClient(timeout=15.0) as client:
-        for ep in endpoints:
+        # Tier 1: Direct StudyPika video2 (fastest, direct JSON)
+        try:
+            ep1 = f"https://pw.studypika.eu.cc/api/video2?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}"
+            res1 = await client.get(ep1, headers={"Accept": "application/json"})
+            if res1.status_code == 200:
+                raw = res1.json()
+                data = raw.get("data")
+                if isinstance(data, str):
+                    data = decrypt_stream_payload(data)
+                elif not data and isinstance(raw, dict):
+                    data = raw
+                if data and data.get("video_url") and data.get("video_url") != "404":
+                    result = {
+                        "video_url": data["video_url"],
+                        "clear_keys": data.get("clearKeys") or {},
+                        "success": True,
+                        "proxy_provider": "pearl.mscilearn.in"
+                    }
+                    _STREAM_CACHE[cache_key] = result
+                    return result
+        except Exception as e:
+            logger.warning(f"[PW_RESOLVE_WARN] Tier 1 failed: {e}")
+
+        # Tier 2: Direct Spark MSCILearn upstream with Bearer Token
+        try:
+            tok_res = await client.get("https://pw.studypika.eu.cc/api/token", timeout=5.0)
+            if tok_res.status_code == 200:
+                tok = tok_res.json().get("token")
+                if tok:
+                    spark_url = f"https://spark.mscilearn.in/api/video2?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}"
+                    spark_res = await client.get(spark_url, headers={"Authorization": f"Bearer {tok}", "Accept": "application/json"}, timeout=10.0)
+                    if spark_res.status_code == 200:
+                        raw = spark_res.json()
+                        data = raw.get("data")
+                        if isinstance(data, str):
+                            data = decrypt_stream_payload(data)
+                        elif not data and isinstance(raw, dict):
+                            data = raw
+                        if data and data.get("video_url") and data.get("video_url") != "404":
+                            result = {
+                                "video_url": data["video_url"],
+                                "clear_keys": data.get("clearKeys") or {},
+                                "success": True,
+                                "proxy_provider": "spark.mscilearn.in"
+                            }
+                            _STREAM_CACHE[cache_key] = result
+                            return result
+        except Exception as e:
+            logger.warning(f"[PW_RESOLVE_WARN] Tier 2 Spark failed: {e}")
+
+        # Tier 3: Secondary endpoints (/video and /video3)
+        secondary_endpoints = [
+            f"https://pw.studypika.eu.cc/api/video?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}",
+            f"https://pw.studypika.eu.cc/api/video3?batchId={batch_id}&subjectId={subject_id or ''}&scheduleId={schedule_id}"
+        ]
+        for ep in secondary_endpoints:
             try:
                 res = await client.get(ep, headers={"Accept": "application/json"})
                 if res.status_code == 200:
@@ -355,7 +404,6 @@ async def resolve_pw_stream_url(batch_id: str, subject_id: Optional[str], schedu
                         data = decrypt_stream_payload(data)
                     elif not data and isinstance(raw, dict):
                         data = raw
-
                     if data and data.get("video_url") and data.get("video_url") != "404":
                         result = {
                             "video_url": data["video_url"],
@@ -366,7 +414,7 @@ async def resolve_pw_stream_url(batch_id: str, subject_id: Optional[str], schedu
                         _STREAM_CACHE[cache_key] = result
                         return result
             except Exception as e:
-                logger.warning(f"[PW_RESOLVE_WARN] Endpoint {ep} failed: {e}")
+                logger.warning(f"[PW_RESOLVE_WARN] Secondary endpoint {ep} failed: {e}")
 
     return {
         "success": False,
@@ -377,7 +425,7 @@ async def resolve_pw_stream_url(batch_id: str, subject_id: Optional[str], schedu
 
 
 async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
-    """Resolves direct playable stream credentials with zero-token friction."""
+    """Resolves direct playable stream credentials with zero-token friction and precise format detection."""
     result = _find_batch_for_lecture(lecture_id)
     if not result:
         return None
@@ -416,26 +464,92 @@ async def get_pw_lecture_access(lecture_id: str) -> Optional[Dict[str, Any]]:
     if schedule_id and batch_id:
         stream_info = await resolve_pw_stream_url(batch_id, subject_id, schedule_id)
         if stream_info.get("success") and stream_info.get("video_url"):
+            raw_url = stream_info["video_url"]
+            clear_keys = stream_info.get("clear_keys") or {}
+
+            # 1. YouTube Stream (Embed, nocookie, or direct video ID)
+            yt_match = re.search(r"(?:embed/|v=|youtu\.be/)([a-zA-Z0-9_-]{11})", raw_url)
+            if yt_match or "youtube" in raw_url or "youtu.be" in raw_url:
+                yt_id = yt_match.group(1) if yt_match else "rZoFqSetuvY"
+                return {
+                    "lecture_id": lecture_id,
+                    "has_video": True,
+                    "has_pdf": False,
+                    "stream_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
+                    "playback_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
+                    "youtube_video_id": yt_id,
+                    "stream_type": "youtube",
+                    "clear_keys": {},
+                    "storage_provider": "youtube",
+                    "playback_mode": "plyr_youtube"
+                }
+
+            # 2. DASH DRM / Non-DRM Stream (.mpd or clearKeys present)
+            if ".mpd" in raw_url or bool(clear_keys):
+                return {
+                    "lecture_id": lecture_id,
+                    "has_video": True,
+                    "has_pdf": False,
+                    "stream_url": raw_url,
+                    "playback_url": raw_url,
+                    "stream_type": "dash",
+                    "clear_keys": clear_keys,
+                    "storage_provider": "pearl_mscilearn",
+                    "proxy_domain": "pearl.mscilearn.in",
+                    "playback_mode": "shaka"
+                }
+
+            # 3. HLS Stream (.m3u8)
+            if ".m3u8" in raw_url:
+                return {
+                    "lecture_id": lecture_id,
+                    "has_video": True,
+                    "has_pdf": False,
+                    "stream_url": raw_url,
+                    "playback_url": raw_url,
+                    "stream_type": "hls",
+                    "clear_keys": {},
+                    "storage_provider": "hls_stream",
+                    "playback_mode": "hls"
+                }
+
+            # 4. Direct MP4
             return {
                 "lecture_id": lecture_id,
                 "has_video": True,
                 "has_pdf": False,
-                "stream_url": stream_info["video_url"],
-                "playback_url": stream_info["video_url"],
-                "stream_type": "dash",
-                "clear_keys": stream_info.get("clear_keys", {}),
-                "storage_provider": "pearl_mscilearn",
-                "proxy_domain": "pearl.mscilearn.in",
-                "playback_mode": "shaka"
+                "stream_url": raw_url,
+                "playback_url": raw_url,
+                "stream_type": "direct",
+                "clear_keys": {},
+                "storage_provider": "direct_video",
+                "playback_mode": "native"
             }
 
     # Fallback to direct URL if resolution returned 404
+    clean_url = "https://" + url.split("https://")[-1] if "https://" in url else url
+    yt_fallback = re.search(r"(?:embed/|v=|youtu\.be/)([a-zA-Z0-9_-]{11})", clean_url)
+    if yt_fallback:
+        yt_id = yt_fallback.group(1)
+        return {
+            "lecture_id": lecture_id,
+            "has_video": True,
+            "has_pdf": False,
+            "stream_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
+            "playback_url": f"https://www.youtube-nocookie.com/embed/{yt_id}",
+            "youtube_video_id": yt_id,
+            "stream_type": "youtube",
+            "clear_keys": {},
+            "storage_provider": "youtube",
+            "playback_mode": "plyr_youtube"
+        }
+
     return {
         "lecture_id": lecture_id,
         "has_video": True,
         "has_pdf": False,
-        "stream_url": item.get("url"),
-        "playback_url": item.get("url"),
+        "stream_url": clean_url,
+        "playback_url": clean_url,
         "stream_type": "embed",
         "storage_provider": "courseswala",
         "playback_mode": "browser"
