@@ -4466,6 +4466,516 @@ body.theme-light .guidance-hint-item {
   }
 }
 
+/* ==============================================================================
+   COMPREHENSIVE MOBILE RESPONSIVE ENGINE (PHONE & TABLET ULTRA-COMFORT)
+   Website, Video Player Cinema, and Edge-to-Edge PDF Viewer
+   ============================================================================== */
+
+/* Base Mobile & Touch Reset */
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button, a, .tab-pill-btn, .btn-pdf-ctrl, .player-quality-pill, .player-speed-pill {
+  touch-action: manipulation;
+}
+
+/* PDF Swipe Cue Pill */
+.cw-pdf-swipe-hint {
+  display: none;
+  position: absolute;
+  bottom: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 23, 42, 0.94);
+  border: 1px solid rgba(99, 102, 241, 0.45);
+  color: #F8FAFC;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 7px 16px;
+  border-radius: 999px;
+  pointer-events: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6), 0 0 12px rgba(99, 102, 241, 0.3);
+  z-index: 100;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .cw-pdf-swipe-hint {
+    display: block;
+    animation: fadeSwipeHint 4.2s forwards;
+  }
+}
+
+@keyframes fadeSwipeHint {
+  0% { opacity: 0; transform: translate(-50%, 12px); }
+  15% { opacity: 1; transform: translate(-50%, 0); }
+  75% { opacity: 1; transform: translate(-50%, 0); }
+  100% { opacity: 0; transform: translate(-50%, -10px); visibility: hidden; }
+}
+
+/* ------------------------------------------------------------------------------
+   TABLET & MOBILE SCREENS (<= 768px)
+   ------------------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  /* Layout & Navigation */
+  .main-wrapper {
+    min-width: 0;
+    overflow-x: hidden;
+  }
+
+  .top-header {
+    height: 60px;
+    padding: 0 16px;
+  }
+
+  .page-content {
+    padding: 16px 14px;
+  }
+
+  /* Grid Layouts Adaptations */
+  .apps-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 14px;
+  }
+
+  .batches-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+  }
+
+  .subjects-modern-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .videos-cards-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+  }
+
+  /* Banner & Hero Cards */
+  .promo-banner {
+    padding: 18px 16px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+  }
+
+  .promo-title {
+    font-size: 18px;
+    line-height: 1.35;
+  }
+
+  .btn-promo-action {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    min-height: 44px;
+  }
+
+  /* Subject Content View */
+  .subject-hero-card {
+    padding: 18px 16px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+  }
+
+  .subject-hero-title {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+
+  .subject-tab-pills-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .sub-filter-pill {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 10px 8px;
+    min-height: 42px;
+  }
+
+  .note-pdf-card {
+    padding: 16px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+  }
+
+  .note-card-actions {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .btn-note-view, .btn-note-download {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    min-height: 42px;
+  }
+
+  /* Video Player Cinema Studio */
+  .as-player-card {
+    padding: 16px 12px;
+    border-radius: 18px;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+
+  .as-player-title {
+    font-size: 18px;
+    line-height: 1.35;
+    word-break: break-word;
+  }
+
+  .as-video-tablet-frame {
+    border-radius: 16px;
+    padding: 6px;
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.7);
+  }
+
+  .as-video-inner-wrap {
+    border-radius: 12px;
+  }
+
+  .as-video-inner-wrap iframe,
+  .as-video-inner-wrap video,
+  .vcdn-iframe-player,
+  .plyr {
+    width: 100% !important;
+    height: 100% !important;
+    min-height: unset !important;
+  }
+
+  /* Player Quick Quality & Speed Tray */
+  .player-quick-bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 10px 12px;
+    border-radius: 14px;
+    overflow: hidden;
+  }
+
+  .player-quick-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+
+  .player-quick-group::-webkit-scrollbar {
+    display: none;
+  }
+
+  .player-quick-label {
+    flex-shrink: 0;
+    font-size: 11px;
+    padding-right: 2px;
+  }
+
+  .player-quality-pill, .player-speed-pill {
+    flex-shrink: 0;
+    padding: 7px 12px;
+    font-size: 12px;
+    min-height: 38px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Sibling Prev/Next Navigation (Thumb Friendly Full Width) */
+  .player-prev-next-row {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+
+  .btn-nav-lecture {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 12px 14px;
+    min-height: 48px;
+    font-size: 13px;
+    border-radius: 12px;
+    white-space: normal;
+    line-height: 1.35;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Attached Notes Banner */
+  .player-attached-note-banner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .attached-note-actions {
+    width: 100%;
+  }
+
+  .btn-attached-view {
+    width: 100%;
+    justify-content: center;
+    min-height: 44px;
+  }
+
+  /* Unit Chips */
+  .unit-lectures-chips-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .unit-lec-chip {
+    padding: 12px 14px;
+    min-height: 46px;
+  }
+
+  /* Promo Card */
+  .as-promo-banner-card {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+    padding: 16px;
+  }
+
+  .btn-as-promo-action {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    min-height: 44px;
+  }
+
+  /* ==============================================================================
+     FULL-VIEWPORT EDGE-TO-EDGE PDF VIEWER FOR MOBILE/TABLET
+     ============================================================================== */
+  .cw-pdf-modal-overlay {
+    padding: 0 !important;
+    background: rgba(5, 8, 17, 0.98) !important;
+    backdrop-filter: none !important;
+  }
+
+  .cw-pdf-modal-card {
+    width: 100vw !important;
+    max-width: 100vw !important;
+    height: 100vh !important;
+    height: 100dvh !important;
+    max-height: 100dvh !important;
+    border-radius: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .cw-pdf-header {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 10px 14px !important;
+    gap: 8px !important;
+    background: #0B0F19 !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+
+  .cw-pdf-title-wrap {
+    order: 1 !important;
+    max-width: calc(100% - 44px) !important;
+    flex: 1 1 auto !important;
+  }
+
+  .cw-pdf-title {
+    font-size: 13.5px !important;
+    line-height: 1.3 !important;
+  }
+
+  .btn-pdf-close {
+    order: 2 !important;
+    font-size: 26px !important;
+    min-width: 38px !important;
+    min-height: 38px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 2px 6px !important;
+    margin-left: auto !important;
+  }
+
+  .cw-pdf-controls {
+    order: 3 !important;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    gap: 4px !important;
+    padding-top: 6px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+  }
+
+  .btn-pdf-ctrl {
+    padding: 8px 10px !important;
+    font-size: 12px !important;
+    min-height: 38px !important;
+    border-radius: 8px !important;
+    flex: 1 !important;
+    text-align: center !important;
+    justify-content: center !important;
+    display: inline-flex !important;
+    align-items: center !important;
+  }
+
+  .btn-pdf-zoom {
+    flex: 0 0 38px !important;
+    max-width: 38px !important;
+  }
+
+  .pdf-page-display {
+    font-size: 12.5px !important;
+    padding: 0 6px !important;
+    white-space: nowrap !important;
+    font-weight: 700 !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .cw-pdf-canvas-container {
+    padding: 8px 4px !important;
+    overflow: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    background: #050811 !important;
+    position: relative !important;
+  }
+
+  #cw-pdf-canvas {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.6) !important;
+  }
+}
+
+/* ------------------------------------------------------------------------------
+   COMPACT SMARTPHONES (<= 480px / 360px)
+   ------------------------------------------------------------------------------ */
+@media (max-width: 480px) {
+  .top-header {
+    height: 56px;
+    padding: 0 10px;
+  }
+
+  .header-left {
+    gap: 8px;
+  }
+
+  .header-left .title-text {
+    max-width: 85px;
+    font-size: 10.5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .header-right {
+    gap: 6px;
+  }
+
+  .header-contact-btn {
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header-contact-btn span {
+    display: none;
+  }
+
+  .streak-badge {
+    padding: 4px 7px;
+    font-size: 11px;
+    gap: 3px;
+  }
+
+  .dev-profile-pill {
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .dev-profile-pill .dev-badge-name {
+    display: none;
+  }
+
+  .btn-icon-pill {
+    width: 36px;
+    height: 36px;
+  }
+
+  .page-content {
+    padding: 12px 10px;
+  }
+
+  .apps-grid, .batches-grid, .videos-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .batch-actions-row {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .as-player-card {
+    padding: 12px 8px;
+    border-radius: 14px;
+    gap: 12px;
+  }
+
+  .as-player-title {
+    font-size: 15.5px;
+  }
+
+  .as-video-tablet-frame {
+    padding: 3px;
+    border-radius: 10px;
+  }
+
+  .as-video-inner-wrap {
+    border-radius: 8px;
+  }
+
+  .note-card-actions {
+    grid-template-columns: 1fr;
+  }
+}
+
+
 
 
 

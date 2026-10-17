@@ -1393,7 +1393,10 @@ function showAnnouncementModal(batchName) {
 // IN-APP PDF READER MODAL (PDF.js Clean Canvas Renderer)
 let currentPdfDoc = null;
 let currentPdfPage = 1;
-let currentPdfScale = 1.2;
+let currentPdfScale = 1.0;
+let currentRenderTask = null;
+let touchStartX = 0;
+let touchStartY = 0;
 
 async function openPdfModal(pdfUrl, title) {
   let modal = document.getElementById('cw-pdf-modal');
@@ -1403,6 +1406,9 @@ async function openPdfModal(pdfUrl, title) {
     modal.className = 'cw-pdf-modal-overlay';
     document.body.appendChild(modal);
   }
+
+  // Reset to auto-fit scale for mobile & desktop
+  currentPdfScale = 1.0;
 
   // Resolve binary content URL or proxy if external CDN
   let binaryPdfUrl = pdfUrl;
@@ -1423,16 +1429,17 @@ async function openPdfModal(pdfUrl, title) {
         </div>
         <div class="cw-pdf-controls">
           <button class="btn-pdf-ctrl" onclick="changePdfPage(-1)" title="Previous Page">&larr; Prev</button>
-          <span class="pdf-page-display" id="pdf-page-num">Page <strong id="pdf-current-page">1</strong> of <span id="pdf-total-pages">1</span></span>
+          <span class="pdf-page-display" id="pdf-page-num"><strong id="pdf-current-page">1</strong> / <span id="pdf-total-pages">1</span></span>
           <button class="btn-pdf-ctrl" onclick="changePdfPage(1)" title="Next Page">Next &rarr;</button>
-          <button class="btn-pdf-ctrl" onclick="zoomPdf(0.2)" title="Zoom In">🔍 +</button>
-          <button class="btn-pdf-ctrl" onclick="zoomPdf(-0.2)" title="Zoom Out">🔍 -</button>
-          <button class="btn-pdf-close" onclick="closePdfModal()" title="Close Viewer">&times;</button>
+          <button class="btn-pdf-ctrl btn-pdf-zoom" onclick="zoomPdf(-0.2)" title="Zoom Out">🔍 &minus;</button>
+          <button class="btn-pdf-ctrl btn-pdf-zoom" onclick="zoomPdf(0.2)" title="Zoom In">🔍 +</button>
         </div>
+        <button class="btn-pdf-close" onclick="closePdfModal()" title="Close Viewer">&times;</button>
       </div>
       <div class="cw-pdf-canvas-container" id="cw-pdf-container">
         <div class="spinner" id="pdf-loading-spinner" style="margin: 40px auto;"></div>
         <canvas id="cw-pdf-canvas" style="display:none;"></canvas>
+        <div class="cw-pdf-swipe-hint" id="cw-pdf-swipe-hint">👈 Swipe left/right to flip pages 👉</div>
       </div>
     </div>
   `;
@@ -1444,6 +1451,32 @@ async function openPdfModal(pdfUrl, title) {
   modal.onclick = (e) => {
     if (e.target === modal) closePdfModal();
   };
+
+  // Touch swipe gesture on mobile container for page flipping
+  const container = document.getElementById('cw-pdf-container');
+  if (container) {
+    container.addEventListener('touchstart', (e) => {
+      if (e.touches && e.touches.length === 1) {
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    container.addEventListener('touchend', (e) => {
+      if (e.changedTouches && e.changedTouches.length === 1) {
+        const diffX = e.changedTouches[0].clientX - touchStartX;
+        const diffY = e.changedTouches[0].clientY - touchStartY;
+        // Dominant horizontal swipe > 45px switches page
+        if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 45) {
+          if (diffX < 0) {
+            changePdfPage(1); // Swipe left = Next
+          } else {
+            changePdfPage(-1); // Swipe right = Prev
+          }
+        }
+      }
+    }, { passive: true });
+  }
 
   try {
     if (typeof pdfjsLib !== 'undefined') {
@@ -1465,26 +1498,24 @@ async function openPdfModal(pdfUrl, title) {
     }
   } catch (err) {
     console.debug('PDF.js canvas renderer fallback:', err);
-    const container = document.getElementById('cw-pdf-container');
-    if (container) {
-      container.innerHTML = `
-        <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:400px; padding:30px; text-align:center;">
-          <div style="font-size:48px; margin-bottom:16px;">📄</div>
-          <h3 style="color:#F8FAFC; margin-bottom:8px;">Document In-App Reader</h3>
-          <p style="color:#94A3B8; margin-bottom:20px; max-width:440px;">If this document preview is unavailable on your device, you can view or download it directly.</p>
-          <div style="display:flex; gap:12px; margin-bottom:20px;">
-            <a href="${binaryPdfUrl}" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:10px 22px; background:#6366F1; color:#fff; border-radius:8px; font-weight:600; font-size:14px; box-shadow: 0 4px 14px rgba(99,102,241,0.4);">
+    const containerEl = document.getElementById('cw-pdf-container');
+    if (containerEl) {
+      containerEl.innerHTML = `
+        <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:400px; padding:20px; text-align:center; width:100%;">
+          <div style="font-size:48px; margin-bottom:14px;">📄</div>
+          <h3 style="color:#F8FAFC; margin-bottom:8px; font-size:18px;">Document In-App Reader</h3>
+          <p style="color:#94A3B8; margin-bottom:18px; max-width:440px; font-size:13px; line-height:1.5;">If this document preview is unavailable on your device, you can view or download it directly.</p>
+          <div style="display:flex; gap:12px; margin-bottom:16px;">
+            <a href="${binaryPdfUrl}" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:10px 20px; background:#6366F1; color:#fff; border-radius:10px; font-weight:700; font-size:13.5px; box-shadow: 0 4px 14px rgba(99,102,241,0.4);">
               <span>Open Document Directly ↗</span>
             </a>
           </div>
-          <iframe src="${binaryPdfUrl}" style="width:100%; height:60vh; border:none; border-radius:12px; background:#0F172A;"></iframe>
+          <iframe src="${binaryPdfUrl}" style="width:100%; height:65vh; border:none; border-radius:12px; background:#0F172A;"></iframe>
         </div>
       `;
     }
   }
 }
-
-let currentRenderTask = null;
 
 async function renderPdfPage(num) {
   if (!currentPdfDoc) return;
@@ -1495,15 +1526,36 @@ async function renderPdfPage(num) {
     }
     const page = await currentPdfDoc.getPage(num);
     const canvas = document.getElementById('cw-pdf-canvas');
+    const container = document.getElementById('cw-pdf-container');
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
-    const viewport = page.getViewport({ scale: currentPdfScale });
 
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
+    // Auto-fit to mobile / tablet container width
+    const baseViewport = page.getViewport({ scale: 1.0 });
+    let effectiveScale = currentPdfScale;
+    
+    if (container) {
+      const isMobile = window.innerWidth <= 768;
+      const pad = isMobile ? 12 : 36;
+      const availableWidth = Math.max(container.clientWidth - pad, 280);
+      const fitScale = (availableWidth / baseViewport.width);
+      effectiveScale = fitScale * currentPdfScale;
+    }
+
+    const viewport = page.getViewport({ scale: effectiveScale });
+
+    // Crisp Retina & High-DPI Display output
+    const pixelRatio = Math.min(window.devicePixelRatio || 1, 2.5);
+    canvas.width = Math.floor(viewport.width * pixelRatio);
+    canvas.height = Math.floor(viewport.height * pixelRatio);
+    canvas.style.width = Math.floor(viewport.width) + "px";
+    canvas.style.height = Math.floor(viewport.height) + "px";
+
+    const transform = pixelRatio !== 1 ? [pixelRatio, 0, 0, pixelRatio, 0, 0] : null;
 
     const renderContext = {
       canvasContext: ctx,
+      transform: transform,
       viewport: viewport
     };
     currentRenderTask = page.render(renderContext);
@@ -1529,8 +1581,9 @@ function changePdfPage(delta) {
 }
 
 function zoomPdf(delta) {
-  currentPdfScale = Math.max(0.6, Math.min(2.5, currentPdfScale + delta));
+  currentPdfScale = Math.max(0.7, Math.min(3.0, currentPdfScale + delta));
   renderPdfPage(currentPdfPage);
+  showToast(`🔍 Zoom: ${Math.round(currentPdfScale * 100)}%`);
 }
 
 function closePdfModal() {
