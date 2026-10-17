@@ -1,7 +1,10 @@
+import logging
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select
+from sqlalchemy import select, and_
 from sqlalchemy.orm import selectinload
+
+logger = logging.getLogger(__name__)
 
 from db.connection import get_db_dependency
 from db.models import App, Batch, Subject, Folder, Lecture, PublicationStatus
@@ -44,9 +47,15 @@ def extract_batch_stats(b: Batch):
         "total_subjects": len(b.subjects) if b.subjects else 0
     }
 
+from services.apna_college_service import (
+    get_apna_college_app_object,
+    fetch_batches_index
+)
+
 @router.get("")
 async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
     """Returns all active apps for the Course Wallah student dashboard."""
+    # 1. Fetch DB apps (skipping apna-college if in DB to avoid heavy 31,000+ lecture joins)
     stmt = (
         select(App)
         .options(
@@ -55,12 +64,13 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
             .selectinload(Subject.folders)
             .selectinload(Folder.lectures)
         )
-        .where(App.status == "ACTIVE")
+        .where(and_(App.status == "ACTIVE", App.slug != "apna-college"))
         .order_by(App.name)
     )
     res = await db.execute(stmt)
     apps = res.scalars().all()
-    return [
+    
+    app_results = [
         {
             "id": app.id,
             "name": app.name,
@@ -75,9 +85,22 @@ async def list_apps(db: AsyncSession = Depends(get_db_dependency)):
         }
         for app in apps
     ]
+    
+    # 2. Add Apna College served via high-speed Serverless API service
+    try:
+        apna_app = await get_apna_college_app_object()
+        app_results.append(apna_app)
+    except Exception as e:
+        logger.error("Failed to load Apna College API app: %s", e)
+
+    return app_results
 
 @router.get("/{slug}")
 async def get_app_detail(slug: str, db: AsyncSession = Depends(get_db_dependency)):
+    # If requesting Apna College, serve instantly from Serverless API
+    if slug in ("apna-college", "app_apna_college", "app_apna"):
+        return await get_apna_college_app_object()
+
     stmt = (
         select(App)
         .options(
@@ -104,3 +127,4 @@ async def get_app_detail(slug: str, db: AsyncSession = Depends(get_db_dependency
             for b in app.batches if b.status == "ACTIVE"
         ]
     }
+

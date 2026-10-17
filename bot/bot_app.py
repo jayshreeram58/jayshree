@@ -64,6 +64,8 @@ async def start_bot():
             BotCommand("id", "Show your Telegram ID"),
             BotCommand("stop", "Stop active task safely"),
             BotCommand("admin", "Open complete admin dashboard"),
+            BotCommand("apps", "Manage Apps, Names, Icons & Thumbnails"),
+            BotCommand("editapp", "Edit App details & Batch thumbnails"),
             BotCommand("batch", "Open Batch Uploader"),
             BotCommand("uploadbatch", "Start TXT batch upload wizard"),
             BotCommand("batchstatus", "Show current batch processing status"),

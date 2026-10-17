@@ -1,0 +1,4401 @@
+{
+  "platform": "ApnaCollege",
+  "batchId": "cpp-dsa",
+  "batchName": "C++ DSA",
+  "thumbnail": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/77762a4186facc042a8aae0c392a9558.png",
+  "portalUrl": "https://www.apnacollege.in/courses/cpp-dsa",
+  "totalSections": 58,
+  "totalLectures": 594,
+  "totalNotes": 73,
+  "updatedAt": "2026-10-17T09:59:16.795516+00:00",
+  "sections": [
+    {
+      "sectionName": "Welcome to C++ DSA Batch!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "cpp-dsa-1",
+          "title": "Fill Your Details",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Welcome PDF.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Join Community!",
+      "lectures": [
+        {
+          "id": "cpp-dsa-3",
+          "title": "How to verify on Discord?",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=663124662ff8b086dc0415d5Unit",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-2",
+          "title": "Telegram Link Cpp DSA",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Telegram Link Cpp DSA.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Live Sessions",
+      "lectures": [
+        {
+          "id": "cpp-dsa-4",
+          "title": "Orientation Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc01806eb13c2b5824841ec035b65de2e5a45d22.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-5",
+          "title": "Extra Live Session 1",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66235c9c98e393cc1c0363dcUnit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-6",
+          "title": "Extra Live Session 2",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66260c8d0b51ac4233086395Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-7",
+          "title": "Extra Live Session 3",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=6628928ea20c708959079da6Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-8",
+          "title": "Linkedin Mentorship Session (with Aman Sir)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=662cc6c0fd8532e45100c1e9Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-9",
+          "title": "Coding Platforms Mentorship Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66434b424a324488930ebc78Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-10",
+          "title": "Projects Mentorship Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=665893163a85c8f66405f075Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-15",
+          "title": "Resume Building Mentorship Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa094a54569258688cb32bf4432cb0502e8ad6a4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-16",
+          "title": "Aman Sir's session for 1st year",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=668bb45f9ada155b650ac646Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-17",
+          "title": "Off-Campus Mentorship Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66a103f71d30c07d970baf44Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-19",
+          "title": "Special Mentorship Session by Aman Sir",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=6703fee91d65f96b6f08a916Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-20",
+          "title": "Placement & Internships Season 2025-26",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=68a44879965ff319950f66a5Unit",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-11",
+          "title": "Helpful Projects (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Helpful Projects (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-12",
+          "title": "DBMS Notes",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DBMS_Notes (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-13",
+          "title": "Operating System Notes",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operating System Notes (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-14",
+          "title": "Computer Networking Notes",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Computer Networking Notes for Tech Placements.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-18",
+          "title": "Aptitude Preparation Sheet",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Quantitative Aptitude new.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Course Introduction",
+      "lectures": [
+        {
+          "id": "cpp-dsa-21",
+          "title": "Message from the Teacher",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47119fcbac3fc922d0142cd46394f54a586847a6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-22",
+          "title": "Placements & Internships",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ab4824c9adee7cc28fb350e4fa896675d82f21f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-23",
+          "title": "About the Lectures",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0bf7592124aa2a0b4c79e7d47b14685da54d361f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-24",
+          "title": "Pre-requisites",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f06e4d57abc96ecd9e4201bea29e61fc505ff7f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-25",
+          "title": "What to Install?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/221e094c76d01d2803ad399e60d4c13ba15c1f79.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Installation Resources",
+      "lectures": [
+        {
+          "id": "cpp-dsa-27",
+          "title": "Using Replit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca6b273462b947aebcfa7f355dfc4487a17b5b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-28",
+          "title": "For Mac Users - Setting up C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1e558103448044c87fd308acbd0b208b350f1159.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-29",
+          "title": "Using VS Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b1a98fbb3c829696bd0a6c451a5286c10864d897.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-26",
+          "title": "1-Installation Guide Cpp",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Installation Guide Cpp.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flowcharts & Pseudocode",
+      "lectures": [
+        {
+          "id": "cpp-dsa-30",
+          "title": "What are Flowcharts?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6613a8cbdc9413dc6b1df953fe03fe9c117c43f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-31",
+          "title": "Components of Flowchart",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/52a09e19212d31f48e781c9964bec06fbc18dd4a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-32",
+          "title": "Sum of 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c636d157e5abd18e1c8df879f1398cd0f7364ce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-33",
+          "title": "Calculate Simple Interest",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b4857a1c24da926e1a55d5a94b842e30f8c8f81.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-34",
+          "title": "Max of 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1e86c6808b163eca3d30884142fdba580bf8e7a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-35",
+          "title": "Print N Natural Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bfc2393f7b01535f925d2e3271fa329455b874e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-36",
+          "title": "Sum of N Natural Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d7c327f2d45b7e0cc36ec6d24345be0c21fe8c0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-37",
+          "title": "FlowchartQs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/FlowchartQs.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-38",
+          "title": "Flowchart_Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Flowchart_Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Variables & Data Types",
+      "lectures": [
+        {
+          "id": "cpp-dsa-39",
+          "title": "Boilerplate Code in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4606e3758ea1ba39ccf53752eead8e43131fc218.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-40",
+          "title": "How does code run?",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66224def84ed88a1b403c1f6Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-41",
+          "title": "Preprocessor Directive",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ec15c55617eb484805208b7cd014cd489875e35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-42",
+          "title": "Main Function in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5199971c32967166c956f91ce02cdadff5c1d498.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-43",
+          "title": "What is Namespace?",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66224e7871c66b421e00bb67Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-44",
+          "title": "Output in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf54686bf84d3f37410257109f2cf9f6ed0a963f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-45",
+          "title": "Print the Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c27f78c56a2df7a6105ecaeb2e9b227b6c707f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-46",
+          "title": "Variables in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c998f30fc50085aabe3bb99cfbd34f948d3863c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-47",
+          "title": "Naming Conventions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f60ca722f6036a5d05f8de52c107244969f16bf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-48",
+          "title": "Identify Valid Names",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/976ee19f8f0e5d2aafb72d7d3eb91986200c53e9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-49",
+          "title": "Data Types in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/46e9063d295b0d89f614b8bcc06cd81d42618b34.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-50",
+          "title": "Comments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ff491916ea332ebe7d1970f777a94632663e91e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-51",
+          "title": "Input in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea22ae867e0cbe75b11372095cca0284c2a78280.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-52",
+          "title": "Print Average Marks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bb7c4ba7cd95e5e7aaf7ededb10939ec7c07c910.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-53",
+          "title": "Variables_DataTypes Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables_DataTypes Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-54",
+          "title": "Variables_DataTypes Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables_DataTypes Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Operators",
+      "lectures": [
+        {
+          "id": "cpp-dsa-55",
+          "title": "Constants",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e38b511a9fee37b030b1c9468daa9d3235ca0420.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-56",
+          "title": "Implicit Type Conversion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/22b26cb51fee1f1fe27e9171605790ba6f445b95.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-57",
+          "title": "Explicit Typecasting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d06e9514eccd56c66cf5c902c73abb0c94f52502.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-58",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-59",
+          "title": "Arithmetic Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cafe91bbda7546b1b7f6979c09057d422dc73aec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-60",
+          "title": "Unary Arithmetic Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/646d6aef3ed52870769284fb36e668e8045e9dd7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-61",
+          "title": "Assignment Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7575e64f32d4704cf5d297316aaeeb38734d9186.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-62",
+          "title": "Relational Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c2170741c73854fd981fe7b3b814dc82a5334ee2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-63",
+          "title": "Logical Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54779bc4ef8eae45fa02b34d9e0d9a25514c406f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-64",
+          "title": "1-Operators Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Operators Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-65",
+          "title": "Operators_Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operators_Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Conditional Statements",
+      "lectures": [
+        {
+          "id": "cpp-dsa-66",
+          "title": "If else Statements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/760e4e1f424a39ab49ffbfa8b39cf856454480be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-67",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-68",
+          "title": "Else if Statements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a84b0e4730db8be7afb0917a909b51ac2fc4bc6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-69",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-70",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-71",
+          "title": "Ternary Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b447483b54fefbe94cc8447b4d6996a454c67964.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-72",
+          "title": "Switch Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f7927fe4e79f2debbd138b19e9fcc943330ef59.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-73",
+          "title": "Build a Calculator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/31924f934c48ca415d7b70b7c661dad6b81627b9.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-74",
+          "title": "Conditionals Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditionals Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-75",
+          "title": "Conditionals Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditionals Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Loops",
+      "lectures": [
+        {
+          "id": "cpp-dsa-76",
+          "title": "for Loop (in Detail)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a5bad4d3116b6c06c498d825452ed301be273af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-77",
+          "title": "Print \"apna college\"",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d975b89625c09a91fccfa2ad723bd29bd51587f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-78",
+          "title": "Print N Natural Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bfc2393f7b01535f925d2e3271fa329455b874e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-79",
+          "title": "Sum of N Natural Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d7c327f2d45b7e0cc36ec6d24345be0c21fe8c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-80",
+          "title": "while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/770fcd0e3cd0070c58f4f04597166138a4c229e8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-81",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-82",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-83",
+          "title": "do while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a4498b08adb3175d95f06f4659c1f2ada8dd145.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-84",
+          "title": "break Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f91af189fe3dc57e7ca2d0f307d972e56348ba25.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-85",
+          "title": "Practice Qs (break)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81a0de81829a50517b464d024d112c5a5ebed154.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-86",
+          "title": "continue Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bb1f4a1654252575a769536da671b9ffc744be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-87",
+          "title": "Practice Qs (continue)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/82141070a0d9c7126b297f7db62f7dd7060a3ab5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-88",
+          "title": "Check for Prime",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ef6d1f020f158ee58188880285587676fa595dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-89",
+          "title": "Check for Prime (Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f869576aabec8ab1c3588fd3c82c4ce4b502d48.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-90",
+          "title": "1-Loops Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Loops Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-91",
+          "title": "Loops Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Loops Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Patterns",
+      "lectures": [
+        {
+          "id": "cpp-dsa-92",
+          "title": "Nested Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f517e42ade95304dc577b19e8eb98283d84c14c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-93",
+          "title": "Nested Loops (Dry Run)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/188838172f7b48c710b0b8bce09be5eb28823259.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-94",
+          "title": "Star Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8de5378ffddeafd49ac44397842e43cc1bdbcec8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-95",
+          "title": "Inverted Star Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a0e627075da1d29c3182400bf67aab2e918c511.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-96",
+          "title": "Half Pyramid Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7236dd3a5a388e9620e1ed5a14571145f9a997e6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-97",
+          "title": "Character Pyramid Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45ac8f6171273022a567a5d489082d3ead70abfa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-98",
+          "title": "Hollow Rectangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33cea28e9969d0eabf2fb9c2d56699f3795c9c39.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-99",
+          "title": "Inverted & Rotated Half-Pyramid Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/61e908b9cb40143766dce9545160c0efcf9f4296.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-100",
+          "title": "Floyd's Triangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe5e1c09fe1f5d64a6d2dea86aebf16fec190d8b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-101",
+          "title": "Diamond Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5148cfc25da8bbe35ddab9fbdced44c07086c107.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-102",
+          "title": "Butterfly Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64a927ffc27aaf17de3000b5a79bbd181694c0f6.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-103",
+          "title": "pattern slides cpp",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/pattern slides cpp.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-104",
+          "title": "Patterns Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Patterns Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-105",
+          "title": "Patterns Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Patterns Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions",
+      "lectures": [
+        {
+          "id": "cpp-dsa-106",
+          "title": "What are Functions?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9afb28e4d5375c765d9f0c5b947b631f75986a35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-107",
+          "title": "Forward Declaration",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d12d7e7d7e8e5ceb04a2a194b5ea126b64b8676a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-108",
+          "title": "Syntax with Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c4c2e0ebd2d5beeb02b380a6548dbd8cbd951709.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-109",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-110",
+          "title": "Practice Qs (Factorial)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f920e9ba4a72610d6085cc0bdf68338a3d7f0898.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-111",
+          "title": "Function call in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea1abb4ccfe0a0ad93419bce5cca1005b3ebe052.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-112",
+          "title": "Scope (Local & Global)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/62cf9ed3d291d857404c0e3d77509d9946f884f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-113",
+          "title": "Practice Qs (Prime Number)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf9b6ad2576186ea33c3e75a89bb5014e0e91b30.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-114",
+          "title": "Practice Qs (Binomial Coefficient)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12495105aac455e9e059c51f11a04a7f02a5a104.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-115",
+          "title": "Function Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/828976d4e5a66c744f8f962eb00f58cef1b4fa6b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-116",
+          "title": "Practice Qs (Primes in Range)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b9320814419337364de67c2606c359e4a788dbc7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-117",
+          "title": "1-Functions Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Functions Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-118",
+          "title": "Functions Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Functions Ans.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-119",
+          "title": "MCQ Test Link",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Test.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Number System",
+      "lectures": [
+        {
+          "id": "cpp-dsa-120",
+          "title": "What is Binary Number System?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/836e0dc40e68b0a2f67b4b05969fdf0d14d83618.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-121",
+          "title": "Convert Binary to Decimal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/628a5b93103f885beed431e2e75f6d7afc742e98.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-122",
+          "title": "Convert Decimal to Binary",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b738b50a3415aa7cadb4ccd16367adb3f190d7e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-123",
+          "title": "Question (Decimal to Binary)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/704d7824cc8a4658735839e34121f10f0ac7bc74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-124",
+          "title": "Common Numbers in Binary",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/486bbdf834362aa9a8533dc6910d8956b4a1862e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-125",
+          "title": "Data Type Modifiers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9563d4336e08898be35513f606f979e0dc3467c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-126",
+          "title": "Binary to Decimal (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2449c999bed2f69a9cfad63ee583d15d13c6ad65.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-127",
+          "title": "Decimal to Binary (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/05bbfb30b499210d862e6f2269be827bf79ae026.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-128",
+          "title": "Binary Numbers Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Numbers Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-129",
+          "title": "Binary Numbers Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Numbers Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction to Pointers",
+      "lectures": [
+        {
+          "id": "cpp-dsa-130",
+          "title": "Basic Concepts of Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ffebca91c0d94c2ddc25d2980287b04422e19398.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-131",
+          "title": "AddressOf (&) Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e600d92622ff26979dff05453c2c4d3660c9257.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-132",
+          "title": "What are Pointers?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/976d12f6f22697ae09e6d3f1bbd18d0f12c59a1f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-133",
+          "title": "Dereference Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/916df522b6a441a013732c795e9025d753e593b2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-134",
+          "title": "Null Pointers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0acb82e8905929fb3bdec71774c38c38e5ca1616.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-135",
+          "title": "Passing Arguments (Value vs Reference)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8253d6b87bfd20cf20fa746c717a078ddeb8bdd2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-136",
+          "title": "Reference Variables",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0e5751977873fb7f1422e00ae2923258dcbe39f6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-137",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-138",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-139",
+          "title": "Pointers Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Pointers Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-140",
+          "title": "Pointers Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Pointers Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Arrays (Part I)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-141",
+          "title": "Basics of Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ef562607ca5e81a4d6c320a87d8caf215c6d957.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-142",
+          "title": "Creating an Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a52b71327db3b7a394ac8a496027e74b9ecb590.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-143",
+          "title": "Output & Input Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/255feedc12f5f7719b891bb106a39886fd84f6e8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-144",
+          "title": "Find Largest in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cf688b102b47dc3e2476c14aa1bf672410c57e57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-145",
+          "title": "Arrays are passed by Reference",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5c0088be8caab449ce5abcd0c52cfb423ab91e94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-147",
+          "title": "Linear Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acf0606cd339750c93d55e7c9945cc451a121a6d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-148",
+          "title": "Reverse an Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ebf50539e0c63c104b55cc039daa34c7b8a3c25.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-149",
+          "title": "Binary Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e35f2e7d15e6b3819d28e31c551bfc7a20fa55a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-150",
+          "title": "Binary Search Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f41809619f4f6240f319f2eb6bf97ba6969a619a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-151",
+          "title": "Binary Search (Time Complexity)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c34ed9e0957df9b672905488b49a4fac24e336e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-152",
+          "title": "Array Pointer",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a4d77f5e73be486f637198218b4c004c5e46fe6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-153",
+          "title": "Pointer Arithmetic 1",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c9e7785d31e1a8fd664f73121057c2d930b1fb57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-154",
+          "title": "Pointer Arithmetic 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a124d009af38c65a21b4d4c083a24d94e08a33c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-155",
+          "title": "Pointer Arithmetic 3",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5452e3806280f5f5917e599c9fcf1afbf154d8c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-156",
+          "title": "Pointer Arithmetic 4",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e74e736867fb6f3e6496742ffb5c0f330be369d4.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-146",
+          "title": "Space and Time Complexity",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Space and Time Complexity.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Arrays (Part II)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-157",
+          "title": "Print Subarrays",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=663c889aefe43d02460875f6Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-158",
+          "title": "Max Sum Subarray (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0936c7b0fcc0daade7dd226b77b6ad0dcb23698.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-159",
+          "title": "Max Sum Subarray (Slightly Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/294a30e6965b193801dcc193a4f790954ec264df.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-160",
+          "title": "Kadane's Algorithm for Max Sum Subarray",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5fe4158ffec9dc26fef3690299200eb5d1f78eda.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-161",
+          "title": "Buy & Sell Stocks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16e0793225ef7f1f4577b333d1923d462bf69e50.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-162",
+          "title": "Buy & Sell Stocks (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/970bc56620feedb8aa41cbbb814126aef12e9cd5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-163",
+          "title": "Trapping Rainwater",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d69ce137411be3e1c1f3bff46a3f6e90350d9119.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-164",
+          "title": "Trapping Rainwater (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/526367d0956f7edc3cec29c1958214bd19226155.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-165",
+          "title": "Arrays_Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays_Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-166",
+          "title": "Arrays Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Basic Sorting Algorithms",
+      "lectures": [
+        {
+          "id": "cpp-dsa-167",
+          "title": "Bubble Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f064edbe6f97842853feb35773ac0b6e75e728c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-168",
+          "title": "Bubble Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/595316e75d882973db2f6b8f3fa3e42854f6e4ec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-169",
+          "title": "Selection Sort",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=663f6d739261c19e2d00c495Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-170",
+          "title": "Selection Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01734c362f672a73f2d9ea9bfbd438abbf1a9333.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-171",
+          "title": "Insertion Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6f8152a8f298eba7bc66fd44f5b152fb6f63a89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-172",
+          "title": "Insertion Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f184866509ac2f5bc6ea6310292e5171cd4f011b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-173",
+          "title": "Counting Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0d48d0466cd25f0d282ce7886633b30177aded05.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-174",
+          "title": "Counting Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a039cf32447a01655d42717b9a4911b7b424bbe0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-175",
+          "title": "In-built Sort in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/40baa66d1cd18ae2f98543b962b9610d3a2052a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-176",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-177",
+          "title": "Sorting_Algos Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Sorting_Algos Questions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "2D Arrays",
+      "lectures": [
+        {
+          "id": "cpp-dsa-178",
+          "title": "Introduction to 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce42ed0267f6e13f4eb58be619c1e23958d5f2c2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-179",
+          "title": "Input & Output a 2D Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b71f2d7ab8eeac0447d79d47a7e2c05e21f8129d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-180",
+          "title": "2D Arrays in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81d5f3e9de4a6399642c76c8700f2289d763cb9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-181",
+          "title": "Spiral Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27597ab2dca3d08ede9a5504e57e480388c9baf4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-182",
+          "title": "Spiral Matrix (Code)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=664459e7257e8e4ac8043545Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-183",
+          "title": "Diagonal Sum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/986cfd4e2c6f896cadaa37db7b87d2b93fdc4ab3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-184",
+          "title": "Diagonal Sum (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/384c19e476b0a63a6ca61bb0e43334932d2d56bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-185",
+          "title": "Search in Sorted Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f44c32fcc143f818fa48b22d627bf65ce581e89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-186",
+          "title": "Search in Sorted Matrix (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/62c185737b5e2f16668343fd103bc8d2c9ead697.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-187",
+          "title": "Matrix Pointers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/60121e75c5443a22f4be3b4d49f6a25235316a5c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-188",
+          "title": "Matrix Pointers in Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48d4429a8d48ccf407593e295fe29f411088a4e4.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-189",
+          "title": "1-2D Arrays Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-2D Arrays Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-190",
+          "title": "2D Arrays Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2D Arrays Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Char Arrays & Strings",
+      "lectures": [
+        {
+          "id": "cpp-dsa-191",
+          "title": "Revisit Char Data Type",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/edba99c72b61b2030114b62530e41b6df731ea06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-192",
+          "title": "Character Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f3accd08f798811894dec6b59fb187f59bebcdfb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-193",
+          "title": "Input Char Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e7bc45a89209a09a6dea2861a10385d38b9b5b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-194",
+          "title": "Convert to UpperCase",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0e907ffc1777b74c68dea3885e63ad325183ef45.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-195",
+          "title": "Reverse a Char Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/80d8738871ec811035db7945b8779afc40e5faed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-196",
+          "title": "Valid Palindrome",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/685c7b4aef1fe45671ba04886369e0834ac6bc1a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-197",
+          "title": "cstring Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/376bf4a92bfd65f0eacb9994be9455ebaba33e7c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-198",
+          "title": "OOPs Intro (for Strings)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/50d68a2104c43d997e928b86b50ab7f9526d20fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-199",
+          "title": "C++ Strings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c40f14c8e0edfcd9ae178e578557a4bf86deff01.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-200",
+          "title": "for each Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f2f75e2e930b9bf88bb8c9dada4f4f1946e3b9c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-201",
+          "title": "String Member Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/82a1409b0f07828aadca70b35edbcfaa063fb93c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-202",
+          "title": "Valid Anagram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45ca1195400f48a053ac17b8864d43ac55bcad0f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-203",
+          "title": "Valid Anagram (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba9c3d668ed8031c6c6bd313680cd3650700a518.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-204",
+          "title": "String_Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/String_Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-205",
+          "title": "Strings Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Strings Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Vectors",
+      "lectures": [
+        {
+          "id": "cpp-dsa-206",
+          "title": "Creating a Dynamic Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c81c9e03aa0052c2b7d4bd35e513dc7042bff7c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-207",
+          "title": "Dynamic Memory Allocation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0b77092e9872099efe6d7485303a7a45ebdc4b9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-208",
+          "title": "Static v/s Dynamic Allocation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8f7fa3e9c40a6dd22b15d7b3d713b8a175804a93.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-209",
+          "title": "Memory Leak",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5b9a6783134c2d0f5093639c09a106a07dbc926a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-210",
+          "title": "2D Dynamic Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/49240d973433f948fa1b0b551450b4d16063d853.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-211",
+          "title": "What is STL?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/617fceeb6fc29e30285079f5e65548dd895eb34e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-212",
+          "title": "Vector Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da9fa157cb0a87a27e7812002c48a1b121e13a75.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-213",
+          "title": "Vector Implementation in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6524a96f2b524652f27172579f791892de17f70d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-214",
+          "title": "Pair Sum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f538c1dde45623ba2076d3ddb126c947cbca18d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-215",
+          "title": "2D Vectors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/93550b29f321d9ae260923ab2ded13b5ce68eaa3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-216",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-217",
+          "title": "Vectors Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Vectors Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-218",
+          "title": "Vectors Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Vectors Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bit Manipulation",
+      "lectures": [
+        {
+          "id": "cpp-dsa-219",
+          "title": "Bitwise Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6fdcfefe2536d826e02363ce9ed569bebf134ee.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-220",
+          "title": "One's Complement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcb628abeb6678694f76a529ce04fff7d7da28d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-221",
+          "title": "Bitwise Shift Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b4e5e34ebfbf075a2e1096d2ca867063a8e90f96.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-222",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-223",
+          "title": "Check if Odd or Even",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bddd6f4ff31362bc51961b3771284bd1dc2738a4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-224",
+          "title": "Get ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64f2bc01530d92349e863fdd7c3c33bfbd52cde7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-225",
+          "title": "Set ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2bb2e786a11083b0737707bf7466afbc82e074b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-226",
+          "title": "Clear ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/faccdefd6fed0978f7ab28d5a8c474901cbc3c26.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-227",
+          "title": "Check for Power of 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ee2c3ad80ae575b9f472e5667f25a21dc8ea20ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-228",
+          "title": "Update ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e62e943c6ccd1cf4c5d1f79d66415e9442803802.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-229",
+          "title": "Clear Last i Bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16ee7c09081a03c30e34f19724f01c42bd115816.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-230",
+          "title": "Count Set Bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33783c6773f2030f80dddca41a8dbb3229c79117.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-231",
+          "title": "Fast Exponentiation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/34b90f50409740da5ad5f9e73cec91f644b7b3d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-232",
+          "title": "Fast Exponentiation (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/032abd3cf695fd8b34a88273c01101d1b44f2e94.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-233",
+          "title": "1-Bit Manipulation Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Bit Manipulation Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-234",
+          "title": "Bit Manipulation Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bit Manipulation Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "OOPS (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-235",
+          "title": "Classes & Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9cb5c513fdc510ca78251b17d2c25d9e853b4315.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-236",
+          "title": "Access Modifiers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/91700414dcb9eee949c9c34011868d9576d0d559.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-237",
+          "title": "Getters & Setters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca3d368bd49a8149e44b10926ea4f0076101ae0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-238",
+          "title": "Encapsulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bcd30754ae03ed5c84ac38c99c63946379c4a89a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-239",
+          "title": "Constructor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff1cb2dbe7cd72db99b05a1405158c35add5ce3e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-240",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-241",
+          "title": "Copy Constructor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/74dd3cc21e4887bcb5f14171e684ba9221788708.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-242",
+          "title": "Shallow & Deep Copy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25c8892d610b15ccaa587a849f694e673ebd0d29.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-243",
+          "title": "Destructor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf2b237b8fb482a92abc1cdf3942768a2a3415e7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-244",
+          "title": "Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2918c6feec47ca65c390d0f5af2a51d227ba4ccf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-245",
+          "title": "Mode of Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/416e13d2fbddcb615bf7850c0da610eb29704f64.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-246",
+          "title": "Single Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0af232726d6238c30fbeda579d62763bdd02dd95.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-247",
+          "title": "Multi-level Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3e79d0042dc7369f894014ea7e7aa8154135a271.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-248",
+          "title": "Multiple Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3220d9fc51b6632d518d5c1ba555aebd1ed0828f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-249",
+          "title": "Hierarchical & Hybrid Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3feee89fc60299681274e0f5bedd9413621c72fc.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "OOPS (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-250",
+          "title": "Polymorphism",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89f0d118079e81fdac2ebb2aa31cf22df0e92f01.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-251",
+          "title": "Function Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/828976d4e5a66c744f8f962eb00f58cef1b4fa6b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-252",
+          "title": "Operator Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dc2b1886397d885a9ed28fdc5cfa35cd8176d44.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-253",
+          "title": "Function Overriding",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3a2b82d7e5c5e8c204f7774bb49cdb47d1b0c9af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-254",
+          "title": "Virtual Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f70eaeacbee21fc9cc7ca9f591bce43b6cbd39e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-255",
+          "title": "Abstraction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a023d0a77416284d02c32aa4c9c0b777032637ab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-256",
+          "title": "Pure Virtual Function",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06597029787b1ed8e86421052f4ca634fba9d2e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-257",
+          "title": "Static Keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d60150f8465bf2ac1bd7443ad29a7ee652cd2ea5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-258",
+          "title": "Static Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ed66d53fa159b06fc37cd9795d221cb7250b0ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-259",
+          "title": "Friend Functions & Class",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fd4c30a07306dede4afa957deee6dcdef006ad95.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-260",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-261",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-262",
+          "title": "1-OOPS Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-OOPS Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-263",
+          "title": "OOPS Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Ans.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-264",
+          "title": "Extra Practice Qs (Free)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Object Oriented Programming.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Recursion (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-265",
+          "title": "What is Recursion?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c591aecfee92d276bf7c9d7a3f8aad6f626670e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-266",
+          "title": "Dive Deep into Recursion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ae45c024f2304660252d5068655e47effade4507.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-267",
+          "title": "Recursion in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d5ecde73b5259f1e977a30f6f63b9f08a0302c58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-268",
+          "title": "Numbers in Decreasing Order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a7dd597f5860000750ab8bf4d001a8a38a743d6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-269",
+          "title": "Dry Run with Call Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5d345a389a1dd814890654804e7e71e800b40a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-270",
+          "title": "Stack Overflow",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/15884af27c4af1a7b8f2bc5808b6bd19d1b85292.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-271",
+          "title": "Sum of N Natural Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d7c327f2d45b7e0cc36ec6d24345be0c21fe8c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-272",
+          "title": "Nth Fibonacci",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c09940fcc5757e8d05b24fe52edbf249f42dda44.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-273",
+          "title": "Nth Fibonacci (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4fc759e70fadc878c222bda8be24ad0b975a3a8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-274",
+          "title": "Check if Array Sorted",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9168dcfef4b3029b7f5a033752ab27524380d523.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-275",
+          "title": "First Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c1f4d7ce6bdf1b0152d9f084f7e3bfae4e516b3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-276",
+          "title": "Last Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9116c7aef21d2aaad0e5e1f7851b880343e3e0c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-277",
+          "title": "Print X to the power N",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdcada58a08ae04798baba308c270025ab6d8c8f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-278",
+          "title": "X to the power N (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4338b795192b01567d2d161cefa48d670bbd420c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recursion (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-279",
+          "title": "Tiling Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16ee8482dd8d102f0eb5915ca86152d3ad94876d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-280",
+          "title": "Tiling Problem (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06ab164bc2c44aae24f4dcc53e87650a6cd12b00.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-281",
+          "title": "Remove Duplicates in String",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=6659a92e4c130574990835e5Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-282",
+          "title": "Remove Duplicates (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26869de1c542fde3a5e29d9415bd5b3a639a3e83.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-283",
+          "title": "Friends Pairing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f10a89ff1df03b9a4d9a56e97c91bec92b7c536e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-284",
+          "title": "Friends Pairing (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f440274694ee3372c30742520ec0fb2a7b6cc0ac.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-285",
+          "title": "Binary Strings Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4f1cfd87bd7045f8daac1fe54686c9c809dbd31f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-286",
+          "title": "Binary Strings (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fd833dcae8c7d14ec7c9a8338610afafe682c025.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-287",
+          "title": "Binary Strings (Dry Run)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47872244d3ca7f4af2a9997113ca79361b4cc11c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-288",
+          "title": "Recursion Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion Qs.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-289",
+          "title": "Recursion Ans",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Divide & Conquer",
+      "lectures": [
+        {
+          "id": "cpp-dsa-290",
+          "title": "Merge Sort Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/225e9cbc75c606a40efdd92b9545bffdf4ff57ab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-291",
+          "title": "Merge / Combine Step",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ab1f22ebf4364ea25ad087cd248898bc68918fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-292",
+          "title": "Merge Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e0f0e59d7bc7ce611b950cdb08d60585a7d64f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-293",
+          "title": "Merge Sort (Summary)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/51d7daf57569434589bade9554c132cff0a5c936.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-294",
+          "title": "Quick Sort Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4d7e921f8439e51752767ca7ddc508fb8fa3ec9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-295",
+          "title": "Quick Sort (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bc29d5aa642a0d76d900d277d950437ae55b0262.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-296",
+          "title": "Worst Case Time Complexity - Quick Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0699d755803fa29b3e0e2127ebd450a0f809eb8c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-297",
+          "title": "Search in Rotated Sorted Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0f12c21b751e43d240bf2b06f05a5fca31040dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-298",
+          "title": "Rotated Sorted (Pseudocode)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/30e7c0fb7b23ce34ba467751a5788ac54e771cb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-299",
+          "title": "Rotated Sorted (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55cca41f2c7fac85afaf39f54784d0dab4ddf7c8.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-300",
+          "title": "DivideAndConquer Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DivideAndConquer Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-301",
+          "title": "DivideAndConquer Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DivideAndConquer Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Time & Space Complexity (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-302",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-303",
+          "title": "What is Time Complexity?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b605f01ad32bdcade5fa8fe800e1323b1d772b10.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-304",
+          "title": "Constant Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54ef170c3f46f4e806b65711ae74c07359b200d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-305",
+          "title": "Big O Notation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdcfeda89c7035b48c89f9e621e15b0375b97ca8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-306",
+          "title": "Big O from Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a6eb765ebed5a77ca142e02068cef024b243ab7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-307",
+          "title": "Big O Math Formula (Optional)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94784afd3f7dbba3784077c0e03b1d63ab1b53ca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-308",
+          "title": "Other Notations",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=665efe9bf2465a06250400c5Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-309",
+          "title": "What is Space Complexity?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8e116459144a3e831c8e24ce6586ea93a9942d0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-310",
+          "title": "Common Time Complexities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c25928000d2447a28d0a1e574c7aebb81c766745.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-311",
+          "title": "Constant & Linear TC",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08d89cba2cf686156f3003cc6428c51e4d8305b2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-312",
+          "title": "Quadratic TC",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/24105bf35bdea423ab6229bddf0a8cf33b98b584.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-313",
+          "title": "Practice Qs 1",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/74785ec599ab710863dd5f67c88f8582cf639cbf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-314",
+          "title": "Practice Qs 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e69724bec886a744516485698c809ae267f157b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-315",
+          "title": "Practice Qs 3",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e71ea590f308cc2a7cb64ce790245861d4f11548.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-316",
+          "title": "Bubble Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26a6b038cceefce5f5b3c62a109e7355b01eeed3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-318",
+          "title": "Logarithmic TC (Binary Search Analysis)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/66483f85ed3f0ec3007498b16a75bc85509abe55.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-319",
+          "title": "O(n) vs O(logn) - Linear vs Log",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c423ab3872cb5ebf47988a6fd0f5ec7f01f9de79.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-317",
+          "title": "Understanding Log",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Understanding Log.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Time & Space Complexity (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-320",
+          "title": "Recursion Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/41f4177ee4b6f3b90834a85d3d6301b6efedbc1f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-321",
+          "title": "Recursive Sum of N Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa92432f3ee373bf9ecdcdb8522881c5aca5e618.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-322",
+          "title": "Recursive Factorial of N",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a9a714c243550642873360980e66ffa8eac9de9c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-323",
+          "title": "Recursive Nth Fibonacci",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6d8a9daf5a129e0c9b02a0fb2c8be34d073cde5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-325",
+          "title": "Merge Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5127309301fbfce2ceecff89fefce6377c230ce3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-326",
+          "title": "Power Function Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a59872d00146a3577090249c438a999f6c777c08.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-327",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-328",
+          "title": "How to approach Coding Qs?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7f4ff2d69c8c37b02e1bb4f1f6d81f944fd2a11f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-324",
+          "title": "Masters Theorem",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Masters Theorem.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-329",
+          "title": "1-TIME COMPLEXITY Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-TIME COMPLEXITY Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-330",
+          "title": "1-TIME COMPLEXITY Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-TIME COMPLEXITY Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backtracking",
+      "lectures": [
+        {
+          "id": "cpp-dsa-331",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-332",
+          "title": "Backtracking on Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4032bc04ff683f5180a25a775b889d3b6c70e8d6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-333",
+          "title": "Find Subsets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bc7ffa405d53b60eb99566d73c9cdd350a14dd7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-334",
+          "title": "Find Subsets (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4840ee6878e06351f251bab4d2917d58510f2058.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-335",
+          "title": "Find Permutations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ccb2c475ff58c4273a39152297bf04fe163ff57e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-336",
+          "title": "Find Permutations (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d8b53e3a10aa5e025cda7847ed1ef55cd35eca7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-337",
+          "title": "N Queens Qs Discussion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d37b968b97af2b25a2b7fda9a8911d8da5c3c5ad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-338",
+          "title": "N Queens (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e1d3b63640ffcbd8dc1df33ef70e63ca6609aa7f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-339",
+          "title": "isSafe in N Queens (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fdb523dbff29c99c60c5eccde30fd0f2f2d6cd5f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-340",
+          "title": "N Queens (Time Complexity)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/874bead371637ea4a3d547559f27d3964b0dd717.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-341",
+          "title": "N Queens Variations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/309a14a65ba8b3598e5d752e3f4deda088473c61.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-342",
+          "title": "Grid Ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36d92bb9b9a8fb0a0c82eb0dec5cc6b248848193.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-343",
+          "title": "Grid Ways (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a5e249a9d501993d3ef7cb5b95e67f1b3f75b6a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-344",
+          "title": "Grid Ways (Dry Run)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4fc47b864e413de5ed93951c9a89a3c2d55bf27e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-345",
+          "title": "Grid Ways (Time Complexity)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2eb3a50023a2a0d6395e7387a8015721b69d1f56.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-346",
+          "title": "Grid Ways (Optimization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/240072713cdd39fe0d80d8736d5923d08b41896f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-347",
+          "title": "Sudoku Solver",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1539062f333fad5889c8520620c34610228eade0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-348",
+          "title": "Sudoku Solver (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdc4efe1bbb05bec416be7a714cbb575ded3eff0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-349",
+          "title": "isSafe in Sudoku Solver",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9960bfc3af4c69bb2146740e0f35f0392f90653b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-350",
+          "title": "BACKTRACKING_Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BACKTRACKING_Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-351",
+          "title": "Backtracking Solutions_Cpp",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Backtracking Solutions_Cpp.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linked List (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-352",
+          "title": "Introduction to Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/895f498dd114dfa5b93005498f4ab34c4e3ef386.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-353",
+          "title": "LL Implementation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5028eb4c3de7d9270d66c2d9985ab82abe95781b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-354",
+          "title": "Push Front in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1bdaf0a96275b04e1f28e770d12e6474513eac12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-355",
+          "title": "Push Back in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4c94ead049c986d4d04d5269148509c4de8c41cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-356",
+          "title": "Print LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/24a5ad4679f6620594d5d83e30a4ef1a23a89622.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-357",
+          "title": "Insert in Middle of a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdb80163c4dd94fa50e43d1c0e25b42b9affb571.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-358",
+          "title": "Deleting the Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/054d2f77d6bf7d986377d94738ffda51051fd843.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-359",
+          "title": "Pop Front in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38b73b244e464c8c04d74a93e3e25f7498e31715.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-360",
+          "title": "Pop Back in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4c65722d343dc2fb028bfa345983b229afb1d3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-361",
+          "title": "Iterative Search in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/189108bd14fa4a7dd995b500108003de4b402f05.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-362",
+          "title": "Recursive Search in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76eaf421ea5aac297fc2abeba161ed079275d8e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-363",
+          "title": "Reverse a Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6ec7f68180669900872ae19b6491921ea5c666be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-364",
+          "title": "Find & Remove Nth Node from End",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9cb4e572ccc7f8cecf48f6d05d0e70e158f619e4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-365",
+          "title": "Find & Remove Nth (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3054141e8f86383e9e917648f29ec985aa3ed218.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-366",
+          "title": "Self_Practice_Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Self_Practice_Qs.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linked List (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-367",
+          "title": "Detect Cycle in a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eaf2092314fc7c514df599c11250478dfa31fce8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-368",
+          "title": "Detect a Cycle (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55512651120e5bbb34caf00d9787f0002590ce06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-369",
+          "title": "Removing Cycle in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a77ad7a8f50b6c3b5ac69dbd61931410b530e1bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-370",
+          "title": "Removing Cycle (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43fb490e592185656cf21d3def24ac0a3d10680c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-371",
+          "title": "Removing Cycle (Math Proof)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/354b8c66c9712474259faa31c54905a3cb855850.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-372",
+          "title": "List in STL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e7e8d972f6bfd967be64cb306fed532dc8bb209f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-373",
+          "title": "Merge Sort on a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2436309f6fadd03908db3ce7a49dd78fa4323414.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-374",
+          "title": "Merge Sort (Split At Mid)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c5e6f1f38489597bbbc28209b2dc45add84a542a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-375",
+          "title": "Merging 2 Sorted Lists",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e54c7493bc51aa623e272b7c38948c1a515c557a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-376",
+          "title": "Zig Zag Linked List",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=666c37a46fbcfd288006cff5Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-377",
+          "title": "Zig Zag LL (Alternate Merging)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/285a4e4ed74bc14bbeb6b1f3d9fe0c1435cf694b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-378",
+          "title": "Doubly Linked List (Push Front)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c84eaf18975ea235766f717e592a0ed1b9b88327.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-379",
+          "title": "Doubly Linked List (Pop Front)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e7367be131bfb010dd5c7395f85a899264841a1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-380",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Linked List Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-381",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/LinkedList Solutions_Cpp.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Stacks (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-382",
+          "title": "Introduction to Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8f7840cd0220003b18223f8129c120ee9a5ed030.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-383",
+          "title": "Stack using Vector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f55f174133a9316ce96bf7153a5aeb233451bb11.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-384",
+          "title": "Stack using Vector & Class Template",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8a5dde161a22ef0510f968b2d6822e2ae1f43d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-385",
+          "title": "Stack using LinkedList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c4222267f632789d9379cb2cc5f8cd8ec09ca9c4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-386",
+          "title": "Stack in STL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8d7943858c045d5a35fd392498dbd80a6cf39bde.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-387",
+          "title": "Push at Bottom of Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d5d8ea0b79e97c21869a63577a133c03ea504d0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-388",
+          "title": "Push at Bottom (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff71045ec8aa3649768edfc8e04eb8e46e0ced29.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-389",
+          "title": "Reverse a String using Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a3a1d702d77b57a5db2d67f680c641929869b981.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-390",
+          "title": "Reverse a Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36e4c28da6e6811ad5cbaac50b7b6f19f5d6442f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-391",
+          "title": "Stock Span",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/23fd7eab15e14594c6090d66461b85a1b8b0f0d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-392",
+          "title": "Stock Span (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da7b749b87992cb38528e7f705126e535f36f666.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-393",
+          "title": "Stock Span (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3322aeb29174fdb0fb2682fe39345ad8557a6e90.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stacks (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-394",
+          "title": "Next Greater Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa37995c0d93bac82d58586dcae6673fff2cf7d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-395",
+          "title": "Next Greater Element (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89740fffb7b2b0d6e8416fcf4d3b6665aa791141.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-396",
+          "title": "Valid Parentheses",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63ae8ffc21f2a73b783c8f81ff3f5c354c81f790.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-397",
+          "title": "Valid Parentheses (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10075f7c865925f99ec857efc6f7a590526920d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-398",
+          "title": "Duplicate Parentheses",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=667131b6b5060a1f720a8cc5Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-399",
+          "title": "Duplicate Parentheses (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d0767f62f19fa815245bc3927c3b17b3eb432d56.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-400",
+          "title": "Max Area in Histogram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c410dd135cb0573810dc8578fad6dcb01429f35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-401",
+          "title": "Max Area in Histogram (nextSmaller Logic)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2bc6b5fafb05a34aa459a504498552b3047cbed6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-402",
+          "title": "Max Area in Histogram (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f1bbccffc1df4cf3f1cac95c4d57c7110d950036.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-403",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stacks Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-404",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stacks Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Queue",
+      "lectures": [
+        {
+          "id": "cpp-dsa-405",
+          "title": "Queue Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c4a32677a861750a18e513e51894ad62a3773caf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-406",
+          "title": "Implementation using LinkedList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/62f3ef9524debcbfa0c5d237df55767a708725e1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-407",
+          "title": "Circular Queue using Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afa95716273034dfe492a0f628e2b93989d1b706.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-408",
+          "title": "Queue in STL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0718b5b08b7d5844bad20cf6de05bfdf21ade0cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-409",
+          "title": "Queue using 2 Stacks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/720988d30f5da030622df1fc70990a7214d23639.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-410",
+          "title": "Stack using 2 Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/018d333e6dbe215b86a54625bb05ff433c31f0d1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-411",
+          "title": "First non-repeating letter",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1efb0d945e9a9fde728c8a26fdd60c5760186f13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-412",
+          "title": "First non-repeating letter (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03dd3e72602fba85c3132f78c88a38bfdc0a7c95.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-413",
+          "title": "Interleave 2 Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/92c87a101512a9508096feb93b642471edf2cd3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-414",
+          "title": "Interleave 2 Queues (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9431f7f70be6ff5e0f2128c8dbfae47a0466eb79.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-415",
+          "title": "Queue Reversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7a79ecc3bde0270087428510d6e60d488a965d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-416",
+          "title": "Double Ended Queue",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/efdfe75f0488cc471c09ff79dc02fe3e29581bed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-417",
+          "title": "Queue using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aee8d0c1de900f634238fcb355aafa8245a89357.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-418",
+          "title": "Stack using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf315b7cdd31851e69ad49be92a72d45af41d7d3.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-419",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Queue Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-420",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Queue Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Greedy Algorithms",
+      "lectures": [
+        {
+          "id": "cpp-dsa-421",
+          "title": "Greedy Approach Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9648b1f32d7678c4df9fb00ea5c544f0d21b411e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-422",
+          "title": "Activity Selection Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/abcc85874839a5eb11bd2c9bd25c480493c60677.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-423",
+          "title": "Activity Selection (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/574ec1f16188f5dd8b8049b965e84dabfa00d86c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-424",
+          "title": "Activity Selection (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5905e7e8e29c3488ac14a4383ee198be88cd3a79.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-425",
+          "title": "Activity Selection (Proof)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be6794526294e411e327a5cb6fca5b8de58e66d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-426",
+          "title": "Pairs in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7adcc0c69799c1a884ce7370d231d8d574149ea3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-427",
+          "title": "Fractional Knapsack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b7aa2b614bba0e1248f779be67e9167351d90e8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-428",
+          "title": "Fractional Knapsack (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/05014840873651564c91ad11b933788d3704238c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-429",
+          "title": "Min Absolute Difference of Pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b8ab665ea6b84eaee5356512a64e02b82cdb46fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-430",
+          "title": "Max Chain Length",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/02a7f7b1b930aaf651a0833f40eae260f50f04b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-431",
+          "title": "Max Chain Length (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/603f9e5bc2a36b166f523392f0c6993671201e23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-432",
+          "title": "Indian Coins",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d5d639e1e8d738b2f33d4e9834f56136379c016.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-433",
+          "title": "Indian Coins (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa5ac7ac29e9ca95d2884b21674089d511e564aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-434",
+          "title": "Job Sequencing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a40ffb79ad3c29bd6a9aaf8d8ccb0140c3fe3627.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-435",
+          "title": "Job Sequencing Variation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc207c42d49abef65417db0d0b6f8a5990bebec0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-436",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Greedy Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-437",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Greedy Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Trees (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-438",
+          "title": "Binary Trees Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94956e716c32392668ea217d5e28b735d99d848f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-439",
+          "title": "Levels & Subtrees",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba2cac9e071fb45e9ebbe6f346529cf7f5bd9115.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-440",
+          "title": "Practice Quiz",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1e70a3e4a8a5532b70764fa1b62e068f1c8734e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-441",
+          "title": "Build Tree from Preorder",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ec0503ea99d45c820d74b628f6ccef7a8ea15ba5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-442",
+          "title": "Preorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e9b584646c931faa567f0f708ae609dfc1dae0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-443",
+          "title": "Inorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0c219ef1f5cfa89c2993e04b6a6659a8301fca5d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-444",
+          "title": "Postorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dd6553852fc681b849899778905868a17ff3854.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-445",
+          "title": "Level Order Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afd0adb2e5711020a584cb91d3ef3dbd2794d9f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-446",
+          "title": "Height of Binary Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9433c4b6c54fba220fa55360208602d574f38097.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-447",
+          "title": "Height of BT (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/151a2da23374512a0b72570667e6dc1dd6c29419.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-448",
+          "title": "Count of Nodes in BT",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b1afa3d6513fe3a6e932c18ce092e39fe18750db.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-449",
+          "title": "Sum of Nodes in BT",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3653181825b8f055c1ee14021bf256eeea6a3b4f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-450",
+          "title": "Diameter of a Tree ( Approach 1 )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43c6b2c916d2c6cb6510a8f309e33aa6248e3157.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-451",
+          "title": "Diameter of a Tree ( Code )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58992cd4d41c281d6a4413259bf3ae52d436ac9b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-452",
+          "title": "Diameter of a Tree ( Approach 2 )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/05851e97358b14d682054a443b9a9025f8621a20.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-453",
+          "title": "Diameter of a Tree ( Code 2 )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eedc2f3fa21ffd354a9d65afbec2400310e11de9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-454",
+          "title": "Subtree of another Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5b3b9de87f5c8e912b11f8d9f207f8a27176ce6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-455",
+          "title": "Subtree of another Tree (isIdentical)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f0159a2b3ec042a7b3cd971dc93e407b776cfc9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-456",
+          "title": "Map in C++",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cfb9b7b76cc0ab084153ef3d24ee5ff80937f72d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-457",
+          "title": "Top View of a Tree (Horizontal Distance)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0d712028ee09589659e0ec69d9b3ecbf7f886037.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-458",
+          "title": "Top View of a Tree ( Approach )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c35c4e0342cb38f835d15cc8a2f43e925854fdc0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-459",
+          "title": "Top View of a Tree ( Code )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2d3d7d342397aaef053b5f52ebdb7334ebc3ded.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part 3)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-460",
+          "title": "Kth Level of a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ca98a8576ff9d0df129136956287f805593084b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-461",
+          "title": "Lowest Common Ancestor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/550690644277a3e3311f4d595d4b708c697d292f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-462",
+          "title": "Lowest Common Ancestor (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aae16708645b4171031a9776cbb197393c887565.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-463",
+          "title": "LCA (Approach 2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ed7407b1a47cd73838bf52a2e71b99b8c05c65a8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-464",
+          "title": "LCA (Approach 2) Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c1f2579aee5343fe56403ba86ae4630916b7a996.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-465",
+          "title": "Min Distance between Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb56e24017266d54c22e0899e2d1853e2b8e5862.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-466",
+          "title": "Kth Ancestor of a Node",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/281e75024d78aec351025710576104a19f3dfd43.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-467",
+          "title": "Kth Ancestor (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe041d4a7ef4b3a9961d145f7839b6597a3bc794.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-468",
+          "title": "Transform to Sum Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b7e2e8fd6081b1b2ef969741f602dc8df6f3d7b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-469",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Trees Questions updated.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-470",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Trees Ans.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "BST (Part1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-471",
+          "title": "BST Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dc6de736f5938627126c00799e485a38f569207f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-472",
+          "title": "Search in BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/671314f1b641dc5221a83b8c2e70dc79b7c0d393.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-473",
+          "title": "Insert & Build a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a5d3e5cfffcf03cd62f4df55ce1af194a020418.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-474",
+          "title": "Search in BST (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/40ed03cd067bc6175699be92ec611fa3f96a4217.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-475",
+          "title": "Delete a Node in BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7ba10db092223f49dbcd12aafdf0abc2b9bfaefb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-476",
+          "title": "Inorder Successor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ad9d0b58ef1d4f17bf79096e405cda7f524e1157.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-477",
+          "title": "Delete a Node (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fd34b19ffec2476eb7eeaad94fbca7effb7916da.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-478",
+          "title": "Print in Range",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b917d41ed8b7980b889b430822157b0fddcb6c40.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-479",
+          "title": "Root to Leaf Path",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3d9d704327af3db60acfb331eace058ac140a65.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-480",
+          "title": "Validate BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/02b312463b3ee5d1bd2ec8c429520214ef15982b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-481",
+          "title": "Validate BST (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d426f904e49eae8d2493e88f91f456dcead60dc6.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "BST (Part2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-482",
+          "title": "Sorted Array to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d27e2cb3e8481be92844dbac06eaf5340ccc7983.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-483",
+          "title": "Sorted Array to Balanced BST (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0693a026b347c50c2bb200f42c50ffa77b2a8bfb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-484",
+          "title": "BST to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1ddff1c31215eba7a55a2c0beb608ae1b1a84f1c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-485",
+          "title": "BST to Balanced BST (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b1950ef30d4ffa4758a709e09a96dac16d9adb18.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-486",
+          "title": "Largest BST in BT",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8535abd9a2d4f1ef5df8126a6ba8f62c4f6eefe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-487",
+          "title": "Largest BST in BT (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/92017e58b829cc85b78ec1118bd291cd3ed9ea17.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-488",
+          "title": "Merge 2 BSTs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/809e5d83838ecdb7ee081e5013578959e56b54e2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-489",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Questions Cpp.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-490",
+          "title": "Assignment Solutions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Ans Cpp.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "cpp-dsa-491",
+          "title": "Self Practice Activity",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Self Practice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Heaps (Part1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-492",
+          "title": "Heaps & Priority Queue (Introduction)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/439d5ec28f0bacb51101ac1592752ea940d076d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-493",
+          "title": "PQ in C++ STL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a83225c68ee97e79bd0d53bc85b37e81cf1f702c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-494",
+          "title": "What are Heaps?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/28311673fa6500378614b8864af968e136fe0bbf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-495",
+          "title": "Building Heaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/809c95764229ff525266ed1075194162ddf23f2f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-496",
+          "title": "Push in Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0668baeb6f7792fefa7f6e6225063ba30b53e2be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-497",
+          "title": "Push in Heap (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f6139819e86530e822b5e37815657085f5a672f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-498",
+          "title": "Pop in Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b8aa9b0e2f26eb62d2bcb4c82b2fe3dd36f54b7e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-499",
+          "title": "Pop in Heap (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ada4b0b641d6a1a621df3b7b810b2495f949125.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-500",
+          "title": "Pop in Heap (Dry Run)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8e6812785c44e680e3c43e3c7d86c92527ef34b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-501",
+          "title": "PQ for Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bb4d3c039aa52918c0623468c4acdc44211d3db.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-502",
+          "title": "PQ for Pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04b31ca3d589a79dcd0f6430eb70f64c0133ba46.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Heaps (Part2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-503",
+          "title": "Heap Sort (Building maxHeap)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5f5945eddeb3c56edf88d3e4c5f909225838d6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-504",
+          "title": "Heap Sort (Sorting)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=668c16486a595ebe36038b88Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-505",
+          "title": "Nearby Cars",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/70ff02f8b6939d32989b523fa4c771cef22448cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-506",
+          "title": "Nearby Cars (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6587db46270eca25caf051aca318487e6282a0a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-507",
+          "title": "Connect N Ropes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c09d79f67f3827d5c2466017ddd818420aa4160b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-508",
+          "title": "Connect N Ropes (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7541fc8cc115db13b46697177f4f61d8ad5244fa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-509",
+          "title": "Weakest Soldier",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1289e2f0882f60aaf62b34fa25aa831c9d426ef5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-510",
+          "title": "Weakest Soldier (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/265a46d0e8551e015f6ee2c72e4ba12e5f0038f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-511",
+          "title": "Sliding Window Maximum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1df9cc1e6253127846bdb314301027b575769c37.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-512",
+          "title": "Sliding Window Maximum (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4d8202368abe33e733480cb77356f9b30359cf1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-513",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Heaps Questions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hashing (Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-514",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-515",
+          "title": "Hash Table Data Structure",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21d27235a21d738a87620dd3d76e02685a0bcca9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-516",
+          "title": "Hashing (Hash Function)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1cb6ef24cf2453b60bff3d8822d7282a34fbbc13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-517",
+          "title": "Collisions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff569be5035fe7da0dff7d514f24a3d5f3fa6006.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-518",
+          "title": "Building Hash Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/79a767177363ee57b8043e60768508977ba937de.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-519",
+          "title": "Insert in Hash Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/efd1a7950c3244cece2570f1e333cae7c8337cfc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-520",
+          "title": "Rehashing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8826a90b033f9c94effb465c3a56cd6df2859e90.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-521",
+          "title": "Search in Hash Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bfdb883ac4b0794a8f393c9aece480dfd9a9d79c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-522",
+          "title": "STL Containers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3fd347ba0a70286f13df4dc6453d12fb40702f20.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-523",
+          "title": "Unordered Maps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/940011014bc3dd67b4b4df0daf860c11d2736501.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-524",
+          "title": "Maps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7d9906d990fd052c205573334461520cfbce8f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-525",
+          "title": "Unordered Sets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa2e6daf708f28a3cca1cab23fd0dc33612960bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-526",
+          "title": "Sets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b12301795d7452fbbd76c2b6d6327404ff1f0c8.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Hashing (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-527",
+          "title": "Majority Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5b259cf85f34ec5b0ac53670aa96cf2236903a18.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-528",
+          "title": "Majority Element (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4fb0799d7901e162501a7f7ca0f9cb6cf21d479.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-529",
+          "title": "Valid Anagram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45ca1195400f48a053ac17b8864d43ac55bcad0f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-530",
+          "title": "Valid Anagram (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba9c3d668ed8031c6c6bd313680cd3650700a518.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-531",
+          "title": "Count Distinct",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a41f129700fd23cf28cbfc4da8e7d5f94fbda57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-532",
+          "title": "Union & Intersection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01f290cbdeab500b4fe096bc768b221f6db70cf7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-533",
+          "title": "Itinerary from Tickets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e9cbed1478c293a6996e2dfa81a2725a48d8fe2c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-534",
+          "title": "Itinerary from Tickets (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/501d6d6c00ecc15734cc60945f1a8df9e4b1c0f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-535",
+          "title": "Zero Sum Largest Subarray",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06fce0657ee164fbc4f2b0c456e142a1c56a2aec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-536",
+          "title": "Zero Sum Largest Subarray (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6dcc50fbb7e183b2e7d8b6a3d788dff6c838a59a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-537",
+          "title": "K Sum Subarray Count",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c75adb4d76705dd9b71118b9477a5f1c1f1241c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-538",
+          "title": "K Sum Subarray Count (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8d97756fa5e52664f2f478b87ea1adb6d0a7d36d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-539",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Hashing Questions final.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tries",
+      "lectures": [
+        {
+          "id": "cpp-dsa-540",
+          "title": "Tries Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bd6dbb49fc1b24f5e26f860170dd931523040d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-541",
+          "title": "Search in Trie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c6bce8ffa59ebc528292139fc880e99041f873d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-542",
+          "title": "Building a Trie DS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0d073bc5463a8b1fd938c7c525b513999872edad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-543",
+          "title": "Insert in Trie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7f442fbb7766f7ee91cfe6016301949880c34546.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-544",
+          "title": "Search in Trie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c6bce8ffa59ebc528292139fc880e99041f873d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-545",
+          "title": "Word Break Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/67aca5a8d9bd4dd90d629f000c2f8e7a0a4ac789.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-546",
+          "title": "Word Break (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a458392f9e51b12c469cd7ae92772e2f332272ad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-547",
+          "title": "Prefix Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e68fcb0a113abf9e096eff8e4a7f548250d05bd2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-548",
+          "title": "Prefix (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9b24a1489902467f14da27b2e3b58ab4ad2db108.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-549",
+          "title": "StartsWith Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ad312fa534a1b1bf5aac1bb0e869e4d5d89fb9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-550",
+          "title": "Count Unique Substrings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2745b681f31fc9e758e914f0bd75a6d7b03ae232.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-551",
+          "title": "Count Unique Substrings (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/921a31b8c047d41290c7b7562aad0b9f3684bef8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-552",
+          "title": "Longest Word with all Prefix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b2256e44ca954efe5018c592861c1590abb10815.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-553",
+          "title": "Longest Word (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58f41e601d1e62e3fd8546d57a85505281ec8230.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-554",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Tries Questions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs (Part1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-555",
+          "title": "Introduction to Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bb2a1bacdebf3775b90b48c04622234871a088c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-556",
+          "title": "Types of Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4c8d82f5f497a788492131c661e5c8e532f47b24.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-557",
+          "title": "Graph using Adjacency List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10eac69cfa847a7a81cb1acae26beb44041a869a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-558",
+          "title": "Graph using Adjacency Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/740ecb95c8b81939b27da91d6a45f075639f36e3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-559",
+          "title": "Edge List & Implicit Graph",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1dc563a62aa650f459a9542abba4bb7e2f9806c2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-560",
+          "title": "Building a Graph (Adjacency List)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47d9a2e5501284c29e530e493bf755180b0849f0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-561",
+          "title": "Breadth First Traversal (BFS)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=669bd2f14142c79cbc0247a5Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-562",
+          "title": "BFS Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bcb056e723d13a512aa717ecf3c8962d820cd75.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-563",
+          "title": "Depth First Traversal (DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a2a876ad9cacde3595cdda88eb4bca38a5e33fca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-564",
+          "title": "DFS Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59c80b378e0144fbcfe374cfd91674a2fdfaa60d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-565",
+          "title": "Has Path Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/783ff5b4aaef41eafc353fb722b10c9bc932cf4e.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graph (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-566",
+          "title": "Disconnected Components",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d595c8d5ff8d5cacfe3094deb3d9359e0897ca4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-567",
+          "title": "Cycle in Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/404f7742c48c34956f7d978a6354a28002c5c18d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-568",
+          "title": "Cycle Detection (Undirected)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4187cb3311883c07a5d370caed76398d4d82299c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-569",
+          "title": "Cycle Detection Code (Undirected)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ff44f0b1aafb7d46e753c97e238295a440f0130.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-570",
+          "title": "Undirected approach for Directed",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/17593d39675da888ee09ccee253b343240f33357.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-571",
+          "title": "Cycle Detection (Directed)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/731e77c0e763c874b08216207f0d7c2648828fa4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-572",
+          "title": "Cycle Detection Code (Directed)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4e851278d571e68372283e6ef43693a9bd16045.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-573",
+          "title": "Cycle Detection Dry Run (Directed)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/804510ff112e8d42cb2af3347929f9b880e8e943.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-574",
+          "title": "Bipartite Graph",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f4c3d8d525fb6af518ae4739c51cc391a503f6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-575",
+          "title": "Bipartite Graph (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6070f23bf3c8d935faf076f35110d0e40d0633e3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-576",
+          "title": "Bipartite Graph (Approach 2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c360bb7c7cf82a5557bd58241ea5df5a966a3fe7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-577",
+          "title": "All Paths Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4496ce0e8402b87ce68b81c7f441c3d744168817.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part 3)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-578",
+          "title": "What is Topological Sorting?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bc0a5060b11efa46df36212b033d92567025b6f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-579",
+          "title": "Topological Sorting (DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12de2b2b3971f4edb34f959d378548fc14f3789d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-580",
+          "title": "Topological Sorting Code (DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f32d4fe19243a277a88fe6d23e78fed8c94e1f9a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-581",
+          "title": "Course Schedule I",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/987ecc453e594003d4c8b5fb9f4f37ab358207ef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-582",
+          "title": "Course Schedule II",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a55432e277c10ac813892aae65f26f86c8289c8f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-583",
+          "title": "Kahn's Algorithm (Indegree)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59cd1f631ea74abed3689736f5205b00063be710.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-584",
+          "title": "Topoplogical Sorting (Kahn's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e2389059063245dd1c83e63b6dd00b6524dbf644.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-585",
+          "title": "Kahn's Algorithm Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4413123028c30d859437e5cecf628f40d76ebe2a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-586",
+          "title": "Kahn's Algo for Cycle Detection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c6e34fa0528d486c97d8d8354c4aa4b6b86d4b12.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part 4)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-587",
+          "title": "Dijkstra's Algorithm (Edge Relaxation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47453607f14e1ef74e98985a080da7ba66341bec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-588",
+          "title": "Dijkstra's Algorithm (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/651f1dff0413c112666d6739d0b7ff2972fc9719.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-589",
+          "title": "Dijkstra's Algorithm (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ccf453ce5de2f6767c5ab8e0a8598a811739666.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-590",
+          "title": "BellmanFord Algorithm (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc8ea2d0ef21ed584232464422f2c103ec07c93d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-591",
+          "title": "BellmanFord Algorithm (Code)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66a4fa2a2e3da909f501f3d6Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-592",
+          "title": "What is MST?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a86a87340ddeef87a0e14176b62f0b8f7805260a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-593",
+          "title": "Prim's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d70a83634dbe21c9fd1c19a4d9531d070158772.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-594",
+          "title": "Prim's Algorithm (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7119ae3275208ee11eb55aae33b9bf88cf6bce01.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-595",
+          "title": "Min Cost to Connect Points",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66a4fa4c7a751a448800a9e5Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part 5)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-596",
+          "title": "Cheapest Flights within K Stops",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66a79d465dc2f537ec060b35Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-597",
+          "title": "Cheapest Flights (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/249e53bc9272bfc04251300a3e6d5131c0760762.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-598",
+          "title": "Disjoint Set (Union Find)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66a79d5aea2002065c024206Unit",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-599",
+          "title": "Disjoint Set (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27fdcc0ee6f38b37dc8f8c7ccce31fa8fb1a010f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-600",
+          "title": "Kruskal's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b7d043046bac35ce2451c8677568a24f8940d41.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-601",
+          "title": "Kruskal's Algorithm (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/499f8145ed93959d47ad1db6f23dda2612356687.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-602",
+          "title": "Flood Fill Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16bf607cc03fa919334581c5bb7e706ffed88100.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-603",
+          "title": "Flood Fill (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2dafef68c793f3bbedab45f8857feeb477cc33fa.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-604",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graphs Questions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Dynamic Programming (DP Part 1)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-605",
+          "title": "DP Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/869c2637991522fd3b37e9bf9f57a04e7df47048.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-606",
+          "title": "DP using Fibonacci Concept",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ae08d5884fa838f3e593ea86e7b20602baad7b17.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-607",
+          "title": "What is DP?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f49a710b8992dbe34cb98f32725ac2a4f0475e3c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-608",
+          "title": "Fibonacci using Tabulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ae878e7cb79fd397fe20c35cc6d80216330cc17e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-609",
+          "title": "Types of DP",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c89b7f1908f220a0a8c7e009bece6d2721341f89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-610",
+          "title": "Important DP Concepts",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca8600ba39ecc3f416dd8428e3d7e803f11992c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-611",
+          "title": "Climbing Stairs (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/320a7764a2ce2b698ba02260d45bdb209876f7a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-612",
+          "title": "Climbing Stairs (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7eca828085bbd3abde9f8f1f8d775a55231a95d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-613",
+          "title": "Climbing Stairs (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/20a772fe5144ae43c2fed9fbff3de97a0602a8d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-614",
+          "title": "Variation of Climbing Stairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e9519ad28eb3aaf79abc7db0316fed4f4ce5ab24.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part 2)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-615",
+          "title": "Knapsack Problems",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/895fabcdade463c9b04c626616249b583626a317.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-616",
+          "title": "0-1 Knapsack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7df44fc2348b4f40eff12257b65e584a07bedcc4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-617",
+          "title": "0-1 Knapsack (Recursion Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dda180371c1756b37290b83f616f67adbc2ccee7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-618",
+          "title": "0-1 Knapsack (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d321b57375373f181166d08cf0c8957cf2aa1b0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-619",
+          "title": "0-1 Knapsack (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/556e72bbcde38b59fdde22df93080af90e5763b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-620",
+          "title": "Target Sum Subset",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c891c5f9e9d1fd0d9cfe2b12841de348f1c29494.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-621",
+          "title": "Unbounded Knapsack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/605143d9e031dc7705217c8f82e1a7a7add3cf8f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part 3)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-622",
+          "title": "Coin Change Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4668584e815bd2acac201fdb91b7c3889eacb421.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-623",
+          "title": "Coin Change (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7278f655794ec8591dafdca2d7844bef37e961c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-624",
+          "title": "Rod Cutting Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/915c5b88c88270743841fe9d85ad996f8732160b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-625",
+          "title": "Rod Cutting (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a57c1e48a49d1e74a9008bca272a447ffb9422fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-626",
+          "title": "Longest Common Subsequence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5afd411a235e4b1dcf59d07cc8eb753f42a1970c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-627",
+          "title": "LCS (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7ac2d876104203f62afff5e5af710ad13122dea3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-628",
+          "title": "LCS (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf66f7d243b88aef7baae37279f667ec1d0508a6.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part 4)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-629",
+          "title": "Longest Common Substring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/372af7da9058539ed12e2bc84206c63ccbc45a2c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-630",
+          "title": "Longest Common Substring (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/489089364e26886930de0db1571775bb4e47410f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-631",
+          "title": "Longest Increasing Subsequence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e4b5822aa18ae6104494f1db8b607f11391e50fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-632",
+          "title": "Longest Increasing Subsequence (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f493912b154b3efd0d992f1e9aab27b8d5acac14.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-633",
+          "title": "Edit Distance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12528061d8fddc0285b1d5a833502b3600f803ee.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-634",
+          "title": "Edit Distance (Code)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66bb7110ac8776cc6908eea5Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part 5)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-635",
+          "title": "WildCard Matching",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5a50b5562ca2e1c08a3402edf491137f608ac3d9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-636",
+          "title": "WildCard Matching (Bottom Up)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/954cb032e6795bb4a6ea3baf5c4e3a0c98c6eafb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-637",
+          "title": "Catalan's Number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55d1bfb25c134c9805745f8186d5f0ea4f4adc6b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-638",
+          "title": "Nth Catalan (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21919fd9bc2f1472b091555d22d11d50de6531ff.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-639",
+          "title": "Nth Catalan (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85d6b413098d020bcb24bdf61478fe6daf593384.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-640",
+          "title": "Nth Catalan (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c86c9897969421e84d9835dd9ecff4caacfc8383.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-641",
+          "title": "Count BSTs from Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/28837b194d5553bd69492eb9d64a392402773e8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-642",
+          "title": "Mountain Ranges",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e4024252762ea7286a46a6d3f1b509a1e7df39a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-643",
+          "title": "Catalan's Variations & Applications",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/catalan.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "DP (Part 6)",
+      "lectures": [
+        {
+          "id": "cpp-dsa-644",
+          "title": "Matrix Concepts (Basic Math)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b9e2dbe28a4dd63988069504724d50245de8b61b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-645",
+          "title": "Matrix Chain Multiplication",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ccd725f46664b8696f1635fd23586c52c41eb07.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-646",
+          "title": "MCM (with Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a3556efaffbeb1451ad1d8b4d5a5a4c4c6781319.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-647",
+          "title": "MCM Code (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03f5976c09ee2775d730b4206ce2925ed27bcf0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-648",
+          "title": "MCM (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ed9809c4f1e1dd9d7878833d4e69a5eb0354e23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-649",
+          "title": "MCM (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fed1af6682e276d5ada82e9936fedc8f166b0803.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-650",
+          "title": "MCM Code (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c4bd7e9b0daff9c415570ff06446dc76fb4ce88e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-651",
+          "title": "Minimum Partitioning",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1251b89eef3a074abce2d411d27f494d5b7dbd0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-652",
+          "title": "Minimum Partitioning (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d1b64e7e6cf7b8be37cc4fe8fc0b460499de70e1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "cpp-dsa-653",
+          "title": "Assignment Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-DP Questions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Segment Trees",
+      "lectures": [
+        {
+          "id": "cpp-dsa-654",
+          "title": "Segment Trees Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c82d00ef3b0430c8bf8003271d42aede13547691.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-655",
+          "title": "Meaning & Count of Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5d095998806dfdcb9d927b2c041964a5c56488a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-656",
+          "title": "Creating Segment Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df62f8b33a7a6a751a07dca6b29a53ed1e32988f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-657",
+          "title": "Creating Segment Tree (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/908a7c470c15abf17381b35b07c6a05dbc314d77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-658",
+          "title": "Creating Segment Tree (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc14819c94e0720bb6b62d64afe90caffd6e8405.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-659",
+          "title": "Queries on Segment Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab86290117e4d53dd808f08efda0d2a9691e802a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-660",
+          "title": "Queries on Segment Tree (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/83485fabe8ff647cc231a7abfd88c548ce7248c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-661",
+          "title": "Update on Segment Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/248e1bdcec446ee21311c6c6a133e8b96f2903e1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-662",
+          "title": "Update on Segment Tree (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76764d3059972c2dbd129e9bfefb0741fd058f6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-663",
+          "title": "Range Max ST (Creation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dc2cc8aa4b1a7d6cb90dbfeeb10c96dd245899fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-664",
+          "title": "Range Max ST (Query)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08781d5ec0a7a384bf0078d52c6414d3d5e267ba.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-665",
+          "title": "Range Max ST (Update)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bd366d2dd709868394d7afca4cf265c93a51c788.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "cpp-dsa-666",
+          "title": "Range Min (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df16bb3f250272b1082c0502acfaa3571423a39d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Certificate",
+      "lectures": [
+        {
+          "id": "cpp-dsa-667",
+          "title": "Certificate of Completion (certificateCompletion_v2)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=cpp-dsa&unit=66d2d5b500dd6c2835085f47Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

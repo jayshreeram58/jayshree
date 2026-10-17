@@ -1,0 +1,4185 @@
+{
+  "platform": "ApnaCollege",
+  "batchId": "alpha-plus-5",
+  "batchName": "Alpha Plus Batch 5.0",
+  "thumbnail": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/6ecac0dd0801f9bf7884636227047c3b.jpg",
+  "portalUrl": "https://www.apnacollege.in/courses/alpha-plus-5",
+  "totalSections": 56,
+  "totalLectures": 560,
+  "totalNotes": 74,
+  "updatedAt": "2026-10-17T09:59:16.747284+00:00",
+  "sections": [
+    {
+      "sectionName": "Welcome to Alpha Plus 5.0!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "alpha-plus-5-1",
+          "title": "Curriculum",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Alpha Curriculum-2.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-2",
+          "title": "Fill Your Details",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Welcome PDF AlphaPlus5.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Important - Join Telegram!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "alpha-plus-5-3",
+          "title": "Telegram Channel Link",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Telegram Link AlphaPlus5 Java.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Mentorship Session",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-4",
+          "title": "Orientation Session (18th March)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67ecd625843310c7430a5029Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-5",
+          "title": "Linkedin Mentorship Session by Aman Sir",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa5413d970042ae7f536acb70b9447203dc4ac00.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-6",
+          "title": "Mentorship Session (Coding Platforms)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67f16563a27656da0b0e1a97Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-7",
+          "title": "Resume Building Mentorship Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa094a54569258688cb32bf4432cb0502e8ad6a4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-8",
+          "title": "Placement & Internships Season 2025-26",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68a447eaf7a15bd03606a576Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-9",
+          "title": "GSoC Mentorship Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68dbe58bf3baa274ca0f357fUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-10",
+          "title": "Mentorship Session on Off-campus placement/Internships",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68ecb8e14bceb15cfd012f46Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Live Practice Sessions",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-11",
+          "title": "Practice Session 1",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebd8Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-12",
+          "title": "Practice Session 2",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebd9Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-13",
+          "title": "Practice Session 3",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebdaUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-14",
+          "title": "Practice Session 4",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebdbUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-15",
+          "title": "Practice Session 5",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebdcUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-16",
+          "title": "Practice Session 6",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebddUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-17",
+          "title": "Practice Session 7",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebdeUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-18",
+          "title": "Practice Session 8",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebdfUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-19",
+          "title": "Practice Session 9",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe0Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-20",
+          "title": "Practice Session 10",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe1Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-21",
+          "title": "Practice Session 11",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe2Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-22",
+          "title": "Practice Session 12",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe3Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-23",
+          "title": "Practice Session 13",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe4Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-24",
+          "title": "Practice Session 14",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe5Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-25",
+          "title": "Practice Session 15",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe6Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-26",
+          "title": "Practice Session 16",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe7Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-27",
+          "title": "Practice Session 17",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe8Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-28",
+          "title": "Practice Session 18",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebe9Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-29",
+          "title": "Practice Session 19",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebeaUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-30",
+          "title": "Practice Session 20",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebebUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-31",
+          "title": "Practice Session 21",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebecUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-32",
+          "title": "Practice Session 22",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebedUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-33",
+          "title": "Practice Session 23",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebeeUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-34",
+          "title": "Practice Session 24",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebefUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-35",
+          "title": "Practice Session 25",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebf0Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-36",
+          "title": "Practice Session 26",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebf1Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-37",
+          "title": "Practice Session 27",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebf2Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-38",
+          "title": "Practice Session 28",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2383d83df779410aebf3Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-39",
+          "title": "Practice Session 29",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf4Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-40",
+          "title": "Practice Session 30",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf5Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-41",
+          "title": "Practice Session 31",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf6Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-42",
+          "title": "Practice Session 32",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf7Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-43",
+          "title": "Practice Session 33",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf8Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-44",
+          "title": "Practice Session 34",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebf9Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-45",
+          "title": "Practice Session 35",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebfaUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-46",
+          "title": "Practice Session 36",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebfbUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-47",
+          "title": "Practice Session 37",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebfcUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-48",
+          "title": "Practice Session 38",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebfdUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-49",
+          "title": "Practice Session 39",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebfeUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-50",
+          "title": "Practice Session 40",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aebffUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-51",
+          "title": "Practice Session 41",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aec00Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-52",
+          "title": "Practice Session 42",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aec01Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-53",
+          "title": "Practice Session 43",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aec02Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-54",
+          "title": "Practice Session 44",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d2384d83df779410aec03Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-55",
+          "title": "Practice Session 45",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=685d4ea3c972516fab0f4c26Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-56",
+          "title": "Practice Session 46",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=6863e46f70c14f58820faaf5Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-57",
+          "title": "Practice Session 47",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=686b7d5d95b75f35060a5ceaUnit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Course Introduction",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-58",
+          "title": "Path to Placement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9efd31098827c085c6870ce43558f9b228b1b163.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-59",
+          "title": "What will you learn?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdf4a637adf45239d78bcdceff77d1d1ccb02f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-60",
+          "title": "Prerequisites",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c994b1eeb0111ae8ca263e042e8e1a8cce0a0ace.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prerequisites - Installation Resources",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-61",
+          "title": "What to Install? (on your laptop/computer)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/95abd837dae5e1d563d5cb3e0add70babb799b28.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-62",
+          "title": "Installation Resources",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Installation Resources.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flowcharts & Pseudocodes",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-63",
+          "title": "What are Flowcharts?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6613a8cbdc9413dc6b1df953fe03fe9c117c43f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-64",
+          "title": "Flowchart Components",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6db84cc293418429cacd6e143558df910e6e5a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-65",
+          "title": "Sum of 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c636d157e5abd18e1c8df879f1398cd0f7364ce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-66",
+          "title": "Calculate Simple Interest",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b4857a1c24da926e1a55d5a94b842e30f8c8f81.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-67",
+          "title": "Max of 3 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/897b5ec10279b063e9fc3ab7716d75869b7da8d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-68",
+          "title": "Find if a Number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a05eef0018259cc7dba581f3376df614a92ab58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-69",
+          "title": "Sum of first N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa072ffea92b5c2626f1fe006495c87851c9d6e9.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-70",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Question File (3).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-71",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Solution File (3).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Variables & Data Types",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-72",
+          "title": "Creating a Java File",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/958d99865cbdc421f5f8775e30dda34e80a7f2bd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-73",
+          "title": "Boilerplate Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cac0ddbbed75a73566c8f0f6b4ef89430db74476.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-74",
+          "title": "Output in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ddbe789d8e72c60b6a001a4234bfb4e5eb089df7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-75",
+          "title": "Print a Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a655e04c389e884dc7943eecf8e7fddf401be1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-76",
+          "title": "Variables in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d5669236c21deecd020ff8161691b88d796ff709.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-77",
+          "title": "Data Types in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/631a54b3e330d2674ad214df4f59427a7baf03b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-78",
+          "title": "Sum of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7c4c8707d6e7aa2980835bc187f4bddb8521882.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-79",
+          "title": "Comments in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f11b4b94e5719c40723c766c06fce9c0c52f322.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-80",
+          "title": "Input in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c8b2d3520a1954fe7d25e2ad04704582295bd2e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-81",
+          "title": "Sum of a & b (Input from User)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0479c71455a3184fbfdc865c6935bf45e0d77105.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-82",
+          "title": "Product of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76f05bacbbb57d99c467f05d358310004a165ffb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-83",
+          "title": "Area of a Circle",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e247611ec7a42c6fcfe7e80c95cf595d60ef2c5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-84",
+          "title": "Type Conversion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/92b49a09810e55c77a026b4325cdfcc7557ee59a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-85",
+          "title": "Type Casting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/230f9e30a982884bfdd18d87ecaa6a82c47585fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-86",
+          "title": "Type Promotion in Expression",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0ff4c12eb10276ae9fc5f046a057c024f348b98.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-87",
+          "title": "How does Java code run?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/277b06e7df27cf5caf58f615bc2e936e801affd0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-88",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-89",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Operators",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-90",
+          "title": "Types of Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b694d4fff5981b354f7e54c88b52cc542b979a77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-91",
+          "title": "Arithmetic Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cafe91bbda7546b1b7f6979c09057d422dc73aec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-92",
+          "title": "Unary Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44254573c360e7f14fbba5fe5a8a5877adc9f968.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-93",
+          "title": "Relational Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c2170741c73854fd981fe7b3b814dc82a5334ee2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-94",
+          "title": "Logical Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54779bc4ef8eae45fa02b34d9e0d9a25514c406f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-95",
+          "title": "Assignment Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7575e64f32d4704cf5d297316aaeeb38734d9186.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-97",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operators Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-98",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operators Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Operators > Reading Material",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "alpha-plus-5-96",
+          "title": "Operator Precedence",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operator Precedence_V1.1.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Conditional Statements",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-99",
+          "title": "if else",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5e525ac21b2287cd1cbbdedd3e7a03922a8c431f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-100",
+          "title": "Print the largest of 2 numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9bc764433f4bf6a24466c15a66f1cf75b5cbd4dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-101",
+          "title": "Print if number is Odd or Even",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8459f22be754ac7456d4e8faba7f683ad9e43e06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-102",
+          "title": "else if",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ba8b2125e1152e79d647e83ad217ec6095e0d23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-103",
+          "title": "Income Tax Calculator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/69a32b4424cb051a677409876487f03f614414c1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-104",
+          "title": "Print the largest of 3 numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b80a7dfc8e1b47ba7df9c1a480678e1a29397989.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-105",
+          "title": "Ternary Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b447483b54fefbe94cc8447b4d6996a454c67964.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-106",
+          "title": "Check if a student will Pass or Fail",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3b4068feec95377eb92fe36b431dcca487651009.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-107",
+          "title": "Switch statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f7927fe4e79f2debbd138b19e9fcc943330ef59.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-108",
+          "title": "Calculator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aafbdd9f7240ee853a68dddf85e62e0dfc7f26b5.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-109",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditional Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-110",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditional Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Loops (Flow Control)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-111",
+          "title": "Loops Basics",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/307a3660b9a60d93e79a09b27d1b5e63d025ccc3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-112",
+          "title": "while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/770fcd0e3cd0070c58f4f04597166138a4c229e8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-113",
+          "title": "Print numbers from 1 to 10",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d1e021d421240b5b0d31dfc13164bfa0fd159f0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-114",
+          "title": "Print numbers from 1 to n",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67d985fb6fb17f8cdd03bf9eUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-115",
+          "title": "Sum of first N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa072ffea92b5c2626f1fe006495c87851c9d6e9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-116",
+          "title": "for Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e43d6b3981e0872b23b196e780d8dbe98230f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-117",
+          "title": "Print Square pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e757cb4a7fbd48975355246323e235d0c800a405.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-118",
+          "title": "Print reverse of a number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f3ef28e6dc8e0bb9f33e9b6c0ef1808ba3eff61.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-119",
+          "title": "Reverse the given number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/23fd4568a84a4803e350eb6ed83c91fde453c522.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-120",
+          "title": "do while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a4498b08adb3175d95f06f4659c1f2ada8dd145.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-121",
+          "title": "Break statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f91af189fe3dc57e7ca2d0f307d972e56348ba25.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-122",
+          "title": "Question - break keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e9e7d546471fa77a03a61e4c537d5860df69be5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-123",
+          "title": "Continue statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bb1f4a1654252575a769536da671b9ffc744be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-124",
+          "title": "Question - continue keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ce254063704730f99e252cb3dba38821554419b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-125",
+          "title": "Check if a number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2158c9a0fe004de02841ad49f47333d92cf7ea26.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-126",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Loops Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-127",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Loops Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Patterns (Part I)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-128",
+          "title": "Intro to Nested Loops (Star Pattern)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ec824da6ccaec94c40c663ce3110262382a5338.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-129",
+          "title": "Inverted Star Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a0e627075da1d29c3182400bf67aab2e918c511.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-130",
+          "title": "Half Pyramid Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7236dd3a5a388e9620e1ed5a14571145f9a997e6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-131",
+          "title": "Character Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8af32c8788eb787c1d0e41e07c855e8a5db5d93b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-132",
+          "title": "Special Note",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5d1bcce28d345ae84d1e155ca2163086d850292.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-133",
+          "title": "Looking Forward - Advanced Patterns",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2-Advanced Patterns Note.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions & Methods",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-134",
+          "title": "Introduction to Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4440a14ecefcbbd2049b845595068c68e14c77e6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-135",
+          "title": "Syntax - Function Code Demo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bac4ba6eff1fad8bbdd002e7796ec0da308353.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-136",
+          "title": "Syntax with Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c4c2e0ebd2d5beeb02b380a6548dbd8cbd951709.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-137",
+          "title": "Parameters v/s Arguments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5182c56a3a96c78e2da906339b0217f2e609aead.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-138",
+          "title": "What happens in memory? (Call Stack)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/364380f03d4ac44fd8ca5fa852e13d94a30663d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-139",
+          "title": "Call by Value (in Java)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43d4a5086347a329a3f72c3776224d89fa265a5c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-140",
+          "title": "Product of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76f05bacbbb57d99c467f05d358310004a165ffb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-141",
+          "title": "Find Factorial",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e34b4e8e4bf9c1adc17db2a617fc7707b1d0010d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-142",
+          "title": "Find Binomial Coefficient",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dbaa1ae1061f08247785b2b8ab4a7c487bc713d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-143",
+          "title": "Inbuilt v/s User defined Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d05125f8fee5dc4d5f3ff26f8ba8fdfc6ba157b5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-144",
+          "title": "Function Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/828976d4e5a66c744f8f962eb00f58cef1b4fa6b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-145",
+          "title": "Overloading using Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/226156af2ff77caf26f3124ca759fa1f3c3c76f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-146",
+          "title": "Overloading using Data Types",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/929c0f8c20374f060aaec240cd3cf259bb44cadf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-147",
+          "title": "Check if a number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2158c9a0fe004de02841ad49f47333d92cf7ea26.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-148",
+          "title": "Check Prime (Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a58c2f0dcf02e27afd987cd99afb5b09ce74c9fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-149",
+          "title": "Primes in Range",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ebb0d576077f33a134c794419580274dda3bd0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-150",
+          "title": "Binary to Decimal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d5185ed88ad6c2315d120de3389fc24654939ee1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-151",
+          "title": "Code - Binary to Decimal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c90aee64f0174025503649730ac4eb823c88a0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-152",
+          "title": "Decimal to Binary",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67d985fb6fb17f8cdd03bfc4Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-153",
+          "title": "Code - Decimal to Binary",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8199c0a459a99e61f918e4e4865829af0c48bf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-154",
+          "title": "Method Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e6e56a8039885def33b38668553c48c96be960af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-155",
+          "title": "Block Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/deba4327a758713331e347813b915c51b465410c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-156",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Functions Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-157",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Functions Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Patterns (Part II) - Advanced",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-158",
+          "title": "Hollow Rectangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33cea28e9969d0eabf2fb9c2d56699f3795c9c39.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-159",
+          "title": "Dry Run - Hollow Rectangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/989face68fac9f2a1c5684ee9016aa49081aa3ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-160",
+          "title": "Inverted & Rotated Half Pyramid",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3b01e9926ab62eb3f28451332e2397ccdb86e92a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-161",
+          "title": "Inverted Half Pyramid Pattern with Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/31a5c3ec1dfcf3d7186b463a32a9c6e7006f45f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-162",
+          "title": "Floyd's Triangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe5e1c09fe1f5d64a6d2dea86aebf16fec190d8b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-163",
+          "title": "0-1 Triangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5bde05c9db54f4731a56b3829a7c8cb3281d0a8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-164",
+          "title": "Butterfly Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64a927ffc27aaf17de3000b5a79bbd181694c0f6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-165",
+          "title": "Butterfly Pattern Code (explanation continued as well)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b3bf2da50104b06a43bd3476e12ac5dd1515b516.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-166",
+          "title": "Solid Rhombus Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b2382f91d7b8e62fc839e0b6fcebf9025e46519f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-167",
+          "title": "Hollow Rhombus Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d983185e9a95f00636874895a6a6b6d2d1fbb70.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-168",
+          "title": "Diamond Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5148cfc25da8bbe35ddab9fbdced44c07086c107.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ARRAYS (Part I)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-169",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-170",
+          "title": "Arrays - Creation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9375ffcf3086337ca8260946f15a7a7a385a360c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-171",
+          "title": "Arrays - Input, Output & Update",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26dbc584423b8e7ef20c794694402fe1eb19ebb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-172",
+          "title": "Arrays as Function Arguments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5af1f25fed0fd934001c1edc4039086379bec8e8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-174",
+          "title": "Linear Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acf0606cd339750c93d55e7c9945cc451a121a6d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-175",
+          "title": "Largest in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6d54e138c7ba73e1790fb1931cd21930fb4ff59.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-176",
+          "title": "Binary Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e35f2e7d15e6b3819d28e31c551bfc7a20fa55a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-177",
+          "title": "Binary Search Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f41809619f4f6240f319f2eb6bf97ba6969a619a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-178",
+          "title": "Reverse an Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ebf50539e0c63c104b55cc039daa34c7b8a3c25.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-179",
+          "title": "Pairs in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e7985b9126404e1f6218b2ac2776f99364615c35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-180",
+          "title": "Print Subarrays",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67d985fc6fb17f8cdd03bfe0Unit",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-173",
+          "title": "Space & Time Complexity (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Space & Time Complexity (1) (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "ARRAYS (Part II)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-181",
+          "title": "Max Subarray Sum - I (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c478654cd2b9b73628ffef1dc5afd4d2d2c39ba3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-182",
+          "title": "Max Subarray Sum - II (Prefix Sum)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6aa14197d5f28dda1b9ac65dff58ccf161be8724.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-183",
+          "title": "Max Subarray Sum - III (Kadane's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94a68640b92fd15608d2abec7089ec1627aac613.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-184",
+          "title": "Trapping Rainwater",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d69ce137411be3e1c1f3bff46a3f6e90350d9119.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-185",
+          "title": "Trapping Rainwater - Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ab85fad182530e902c729352967b368b33faf35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-186",
+          "title": "Best Time to Buy & Sell Stock",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/83f5fdce053f270c741c16f4bde4dc0445c9730a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-187",
+          "title": "Assignment Questions (Arrays)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays - Assignment_Type.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-188",
+          "title": "Assignment Codes (Arrays)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays - Solution (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Basic Sorting Algorithms",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-189",
+          "title": "What is sorting?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/620283278366c24fc59322a8a855b51c8b574f0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-190",
+          "title": "Bubble Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f064edbe6f97842853feb35773ac0b6e75e728c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-191",
+          "title": "Bubble Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3fa87eb86a3a696a40353595e8f40a9a49fb2150.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-192",
+          "title": "Selection Sort",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67d985fc6fb17f8cdd03bfecUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-193",
+          "title": "Selection Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1cfd1e10602c19249216051b802635ba89c8ce80.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-194",
+          "title": "Insertion Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6f8152a8f298eba7bc66fd44f5b152fb6f63a89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-195",
+          "title": "Insertion Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8fd6a25c40b7e904dcb34b24ba9cbcd651317c3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-196",
+          "title": "Inbuilt Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/51a26b679ad47e6cabd7fd4cec7b1f74cc2a6b97.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-197",
+          "title": "Counting Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0d48d0466cd25f0d282ce7886633b30177aded05.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-198",
+          "title": "Counting Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bbbd52f3db106b69669aa036e3e9018e16134e47.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-199",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Basic Sorting Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-200",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Basic Sorting Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "2D Arrays",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-201",
+          "title": "Introduction to 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce42ed0267f6e13f4eb58be619c1e23958d5f2c2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-202",
+          "title": "Real life examples",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b38efae71d3f7eb42884e524efed8a6e50b7e4e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-203",
+          "title": "Representation of 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a0f5460905d37ef85fa30600a37fac84c45f6949.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-204",
+          "title": "Creation of 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a1e77997a7fdc8e80d13b323893fc0d1f3fc82f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-205",
+          "title": "2D Arrays in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81d5f3e9de4a6399642c76c8700f2289d763cb9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-206",
+          "title": "Spiral Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27597ab2dca3d08ede9a5504e57e480388c9baf4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-207",
+          "title": "Spiral Matrix Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/de878539c9cfb82207fd631fd497b39154ae1c15.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-208",
+          "title": "Diagonal Sum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/986cfd4e2c6f896cadaa37db7b87d2b93fdc4ab3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-209",
+          "title": "Search in Sorted Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f44c32fcc143f818fa48b22d627bf65ce581e89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-210",
+          "title": "Search in Sorted Matrix Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ed132798b461d869c75b2f92aa4da90f2fb988d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-211",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2D Arrays Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-212",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2D Arrays Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Strings",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-213",
+          "title": "What are Strings?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4a1a9c9eeb47cd00dbd8633c0b942ebfd880148b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-214",
+          "title": "Input/Output",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/160540742cf78147349c14a5ebecaf55d680dcd5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-215",
+          "title": "String Length",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/630bafbbe3dd33bfd0e96e7edc553c8e2b8f9a5b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-216",
+          "title": "String Concatenate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a124f72c8dc47047a17cb9740decbb441207106.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-217",
+          "title": "String charAt Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58b06f36bfc2e7733988fdc9fe8c6bb4860b9a22.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-218",
+          "title": "Check if a String is Palindrome",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a5abf20ae8e0f36f23cee5d9b285413c93de9fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-219",
+          "title": "Question - Shortest Path",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/702ff758b040fa5dccf90a4176835289e602f118.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-220",
+          "title": "String Functions - compare",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acc052f4ce409ffeba4169f8888b7752b723139e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-221",
+          "title": "String Functions - substring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45bfd0f7d8901b8990354543773be68c058764d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-222",
+          "title": "Print Largest String",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f339d0bc143f218343153059a4d3b8e53b7177dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-223",
+          "title": "Why Strings are Immutable?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/561f7296996749a9bbcaba13cc8e668331af3f57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-224",
+          "title": "StringBuilder",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8875888a8979acba9cfd89d2dc7d580984661f15.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-225",
+          "title": "Convert Letters to Uppercase",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3525484a6b0105e24b840b8e87bba2a5125874c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-226",
+          "title": "String Compression",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c09644d79180ed429ae08a297a9613e278e0899.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-227",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Strings Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-228",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Strings Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bit Manipulation",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-229",
+          "title": "Introduction to Bit Manipulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f6016995fff2bf8fab179e0304d28df66f0e002.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-230",
+          "title": "Binary Number System",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c5f5f0fa5951ed32fadf450b0813951aa73a478c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-231",
+          "title": "Bitwise Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6fdcfefe2536d826e02363ce9ed569bebf134ee.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-232",
+          "title": "Binary AND",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f508a165ceb108219fcf7aa906251ba1d5535dd6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-233",
+          "title": "Binary OR",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43986e8cc051c94192fbce0a80ff86daab8ff354.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-234",
+          "title": "Binary XOR",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e0db92d29843a0467c571022d238f65515f316b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-235",
+          "title": "Binary 1's Complement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81a63a1f6924583a9d84fb184a24f7a77e2dd69a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-236",
+          "title": "Binary Left Shift",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd57dda96756a703b5d64948118f6a6d9904a05e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-237",
+          "title": "Binary Right Shift",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ae0a9676ed29be5f3ddc05ff796661e790b4263.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-238",
+          "title": "Check if Odd or Even",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bddd6f4ff31362bc51961b3771284bd1dc2738a4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-239",
+          "title": "Get ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64f2bc01530d92349e863fdd7c3c33bfbd52cde7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-240",
+          "title": "Set ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2bb2e786a11083b0737707bf7466afbc82e074b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-241",
+          "title": "Clear ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/faccdefd6fed0978f7ab28d5a8c474901cbc3c26.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-242",
+          "title": "Update ith bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e62e943c6ccd1cf4c5d1f79d66415e9442803802.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-243",
+          "title": "Clear last i bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16ee7c09081a03c30e34f19724f01c42bd115816.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-244",
+          "title": "Clear range of bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25549ca4b2efe1d0e2f40fc0834a6d84baba1b48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-245",
+          "title": "Check if a number is power of 2 or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3815d229c4fcd17fd46f2d9b01aa90c217d9ebd1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-246",
+          "title": "Count set bits in a number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea7f4e75ee7d5ac3a9c205db063b12d647b5f16c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-247",
+          "title": "Fast Exponentiation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/34b90f50409740da5ad5f9e73cec91f644b7b3d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-248",
+          "title": "Fast Exponentiation Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/83873e47d322d414f978577ac5f10dbcf964ca46.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-249",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bit Manipulation Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-250",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bit Manipulation Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Object Oriented Programming (OOPs)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-251",
+          "title": "Classes & Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9cb5c513fdc510ca78251b17d2c25d9e853b4315.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-252",
+          "title": "Access Modifiers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/91700414dcb9eee949c9c34011868d9576d0d559.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-253",
+          "title": "Getters & Setters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca3d368bd49a8149e44b10926ea4f0076101ae0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-254",
+          "title": "Encapsulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bcd30754ae03ed5c84ac38c99c63946379c4a89a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-255",
+          "title": "Constructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9a957639942f90169cc351fd767eb639fe925f63.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-256",
+          "title": "Type of Constructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d2c1124a42a43d09ccf6cef1ac1ef19485142c4d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-257",
+          "title": "Copy Constructor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/74dd3cc21e4887bcb5f14171e684ba9221788708.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-258",
+          "title": "Shallow & Deep Copy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25c8892d610b15ccaa587a849f694e673ebd0d29.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-259",
+          "title": "Destructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/722927c4705e8f0115e83357a5a2a886467f45ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-260",
+          "title": "Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2918c6feec47ca65c390d0f5af2a51d227ba4ccf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-261",
+          "title": "Single level Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04b5c3fb5329ae4680319dd24b4ebb52ec0dfbc5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-262",
+          "title": "Multi level Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d24e7ad4619822c808ecdb2edad9a836e56bf5dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-263",
+          "title": "Hierarchial Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2b51c51d7dc469709516be136a46f1a96cdc8020.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-264",
+          "title": "Hybrid Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06870d64254c9d564ee80160170dba95b57eba13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-265",
+          "title": "Polymorphism",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89f0d118079e81fdac2ebb2aa31cf22df0e92f01.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-266",
+          "title": "Method Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/17a3de447c0177344e899a208f6d31cd4149cd48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-267",
+          "title": "Method Overriding",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/242d8cc1a16ba1144fd3cdfd1e0871493609cd63.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-268",
+          "title": "Packages in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d74ea424dba517f12c2b3bb4b424cfe0077f8295.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-269",
+          "title": "Abstraction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a023d0a77416284d02c32aa4c9c0b777032637ab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-270",
+          "title": "Abstract Classes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f955193f96b56356281b8fd99c74383caf2b3c3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-271",
+          "title": "Interfaces",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3694e72e2c057e5f48f16f0b8a59a42a97392da7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-272",
+          "title": "Static keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d60150f8465bf2ac1bd7443ad29a7ee652cd2ea5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-273",
+          "title": "Super keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38fdd07efec49c7bb7103e97b103cb8ffcb48747.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-274",
+          "title": "Solved Questions Practice",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/00b234df690939e86cac7fa3e46e9a5411a4c49d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-275",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-276",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Recursion Basics (Part 1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-277",
+          "title": "What is Recursion?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c591aecfee92d276bf7c9d7a3f8aad6f626670e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-278",
+          "title": "Print numbers in decreasing order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a512f304c6f1c62f9374244a794d04727c3d1fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-279",
+          "title": "Stack overflow",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/15884af27c4af1a7b8f2bc5808b6bd19d1b85292.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-280",
+          "title": "Print numbers in increasing order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b9e9e4826bff0d20a8bb0d84ac3239a6bf3d126.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-281",
+          "title": "Find Factorial of N",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e4724da0276e23011fc907527d77c1f79a03388.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-282",
+          "title": "Print sum of N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/240a07a01e5b509a9816150bf24f0df269e7c5be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-283",
+          "title": "Print Nth Fibonacci number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3a87857714dd982593268712e989fa40fdf57b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-284",
+          "title": "Check if array is sorted or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb8dbaec77ae2cb3c061dc40b5145b314d8433af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-285",
+          "title": "First Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c1f4d7ce6bdf1b0152d9f084f7e3bfae4e516b3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-286",
+          "title": "Last Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9116c7aef21d2aaad0e5e1f7851b880343e3e0c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-287",
+          "title": "Print x to the power n",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdcada58a08ae04798baba308c270025ab6d8c8f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-288",
+          "title": "Print x to the power n (Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b02f5bdbd6aab86db0d45bc743d1403a4438f111.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recursion Basics (Part 2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-289",
+          "title": "Tiling Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16ee8482dd8d102f0eb5915ca86152d3ad94876d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-290",
+          "title": "Tiling Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d60e5595dc946a23f21f933bcc98640602de7dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-291",
+          "title": "Remove Duplicates in a String",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce29e0f0fd5eb26aa03f15240d503894ca7c7f78.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-292",
+          "title": "Friends Pairing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f10a89ff1df03b9a4d9a56e97c91bec92b7c536e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-293",
+          "title": "Binary Strings Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4f1cfd87bd7045f8daac1fe54686c9c809dbd31f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-294",
+          "title": "Binary Strings Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdb3394c3ae818772e5c781b575770bcead14e94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-295",
+          "title": "Stack Analysis - Binary Strings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eac6f62efd47c845060f5702bd8532d2bb6b692d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-296",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion (Basics) Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-297",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion (Basics) Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Divide & Conquer",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-298",
+          "title": "What is Divide & Conquer?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38bbcf74d4762746d981df9fccef6e8ebf5969fa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-299",
+          "title": "Merge Sort (Basic + Space Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dc72a194fac140ca5a88821e28b11760eb58c1a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-300",
+          "title": "Merge Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f77c7e64d31bf54f66a11404e0aad0f643e874a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-301",
+          "title": "Quick Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/651afafa767da543d1a3cb1dc3da4cd58d06df0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-302",
+          "title": "Quick Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6efbffe0d11d527e69edf232e2948f258f173ab2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-303",
+          "title": "Worst Case in Quick Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bfe791ef1e1f8c1bf8c40c2cc2d6c11976882fbe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-304",
+          "title": "Sorted & Rotated Array Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01acdd1e53c62bbb3497871cfd1a8f6cb2a3c5f1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-305",
+          "title": "Sorted & Rotated Array Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/781fc0ca054052d4c02c4936288dace826bd0937.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-306",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Divide & Conquer Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-307",
+          "title": "Solutions to Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Divide & Conquer Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Time & Space Complexity",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-308",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-309",
+          "title": "What is Time Complexity?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b605f01ad32bdcade5fa8fe800e1323b1d772b10.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-310",
+          "title": "Constant Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54ef170c3f46f4e806b65711ae74c07359b200d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-311",
+          "title": "Big O Notation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdcfeda89c7035b48c89f9e621e15b0375b97ca8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-312",
+          "title": "Big Omega & Theta Notation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6229fdb772b991b20d79fa94f2c3976babea6e1a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-313",
+          "title": "Common Complexities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7695de05260922b73c05995493c84d926bcfaa2b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-314",
+          "title": "Space Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ae4393d2d65bf9384732ac4454c493b30105d7dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-315",
+          "title": "Simple Loop Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fbc223960b250cd7097cf7987b4877d2ee058092.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-316",
+          "title": "Nested Loop 1 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a721384f880c5f85c33b8da943960e4ddfbba8b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-317",
+          "title": "Nested Loop 2 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/365a05c8f598503780b021881240678bf687d511.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-318",
+          "title": "Nested Loop 3 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e574779287adf970e47792f9916f295e9e7114cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-319",
+          "title": "Bubble Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26a6b038cceefce5f5b3c62a109e7355b01eeed3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-320",
+          "title": "Binary Search Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33796c4f158ae9272ace230829b29483274c9525.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-321",
+          "title": "Recursive Complexity Analysis (Factorial)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdb2f51bacd826f698a4885e7fbb92ae5cf88f4b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-322",
+          "title": "Sum of N numbers Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c91b7c307adf2c3fe6905835da9b7c1d7bd121cc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-323",
+          "title": "Fibonacci Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/565e0908ca30ec5072443ab7cd7ecfd4ff4fb165.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-324",
+          "title": "Merge Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5127309301fbfce2ceecff89fefce6377c230ce3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-325",
+          "title": "Recurrence Relation - Merge Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2187f0490612e8b39b28aa9da46abb512425f79b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-326",
+          "title": "Power Function I - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/49e3fffc542341ef84ddcc74aa9bce297da78e88.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-327",
+          "title": "Power Function II - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c065bdc0c280333c80efba7cd2f540fb947c2fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-328",
+          "title": "Power Function III - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2342cbc219917d568ecbee44be8e0e091613e02.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-329",
+          "title": "How to approach Coding Questions?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f485c0f03359e4ca33b85812236663a24b579ddf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-330",
+          "title": "Master's Theorem (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/3-Masters Theorem.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-331",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/TIME COMPLEXITY Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-332",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/TIME COMPLEXITY Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backtracking",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-333",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-334",
+          "title": "Types of Backtracking",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d2c752f59318a7dcf013d72247f33926d0638723.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-335",
+          "title": "Backtracking on Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4032bc04ff683f5180a25a775b889d3b6c70e8d6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-336",
+          "title": "Find Subsets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bc7ffa405d53b60eb99566d73c9cdd350a14dd7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-337",
+          "title": "Find Subsets Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/176d7a005f3bcd7d950103a2e68d0aaa1959798d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-338",
+          "title": "Find Permutations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ccb2c475ff58c4273a39152297bf04fe163ff57e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-339",
+          "title": "Find Permutations Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10ee6cc4d8f8dde7408db024f2b590d24bc0b30b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-340",
+          "title": "N Queens - all ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25982c66d0fb4890636e0b72837445ca527e6409.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-341",
+          "title": "N Queens - Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/243c0ff3a244af386f8df9fbfb38d3baa7ec487a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-342",
+          "title": "N Queens - count ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d412ad11fad17cf22d92bd8142b2f87f15e36918.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-343",
+          "title": "N Queens - print one solution",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcecc4bb77f12e828bc0e7c2941b4257894a0ff6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-344",
+          "title": "Grid Ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36d92bb9b9a8fb0a0c82eb0dec5cc6b248848193.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-345",
+          "title": "Grid Ways Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2acb9f5fa7066ea94fca26c995660541f2ef9674.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-346",
+          "title": "Grid Ways Trick",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c8c6259c8934b6b308c9494707781429ac2e6250.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-347",
+          "title": "Sudoku",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/edc84a127fe2b204261289d8d0021fd9111e828b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-348",
+          "title": "Sudoku Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6d331d9a67153eeb10615b5f9777ae0622aae1ff.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-349",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BACKTRACKING Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-350",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BACKTRACKING Solutions (2).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "ArrayLists",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-351",
+          "title": "Introduction to ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8348f777e27938853641da84060fa208fe834f1f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-352",
+          "title": "Operations on ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fe128be73cb1175a03c328c4891927cd3926e0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-353",
+          "title": "Size of ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a233795f4d5b195fa0e4adf43f532d9fb73f790.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-354",
+          "title": "Print Reverse",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7959b5abb337cdbce7b620206ea7b5a94bc9892a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-355",
+          "title": "Find Maximum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4938138d421ca4d4423ef1309dcd67a8efa0c81f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-356",
+          "title": "Swap 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/baa31e08dd7c2c17165343e4c805a7418cd2f0cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-357",
+          "title": "Sorting an ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ccb01993aae513d9334d707dc3936e20c7f027dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-358",
+          "title": "ArrayList (Implementation in Java)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d1fa24e49391b1099bdc0ed3261b8b33a9ec6465.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-359",
+          "title": "Multi-dimensional ArrayLists",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89cde4d4bcec508ece71100154cc9f43bfaf9d1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-360",
+          "title": "Container with Most Water (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8f608cdd0bf4ccbe2d5663f7d83c2e3053222783.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-361",
+          "title": "Container with Most Water (2 Pointer Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f04273d083a9201dc4965685934fd16d04397f45.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-362",
+          "title": "Container wMW v/s Trapping Rainwater",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fbe4c98b1282def066c7489599fc7bb8b3fac2f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-363",
+          "title": "Pair Sum - 1 (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be5d7e0e3ce7bcf3c620246310d513288c6a901e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-364",
+          "title": "Pair Sum - 1 (2 Pointer Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9451f684b751e1b983a827dbcc8b827d435cc971.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-365",
+          "title": "Pair Sum - 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a435a439f2a0ac57fe733b183d254cf2d99948e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-366",
+          "title": "Pair Sum - 2 (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c83c5e065f1374ec54de50bb13a0fb08defa34b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-367",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/ArrayList Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-368",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/ArrayList Solutions (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linked Lists (Part 1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-369",
+          "title": "Introduction to Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/895f498dd114dfa5b93005498f4ab34c4e3ef386.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-370",
+          "title": "Head & Tail in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a07b53e1e3d6341fba82308ba1c0414f2c271f5e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-371",
+          "title": "Add First in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a3a9919afd7f90488b7ee4d789c62ac5b627817.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-372",
+          "title": "Add Last in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f76978e114c7f8adc01d6883ad32b542e8c0c19.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-373",
+          "title": "Print a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f7f4f11ae34a852a1b62d1a86a151537a8a59a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-374",
+          "title": "Add in the Middle of LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f59830f276e4bc936f5cd6176f93a97b5ee1660c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-375",
+          "title": "Size of a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d7816edc7d1f4a5119f34c999a632882d3cdb77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-376",
+          "title": "Remove First in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11f8d4160f4306513d11f418fcd22036d3a58cea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-377",
+          "title": "Remove Last in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1885428702fcb9b898a052b5345462bafddb4ab9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-378",
+          "title": "Iterative Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/050c625403aa92fce6b724efa1588c4b31be8c9b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-379",
+          "title": "Recursive Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f3eebe994f17f75fee42a4c132633d4ae749c7b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-380",
+          "title": "Reverse a Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6ec7f68180669900872ae19b6491921ea5c666be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-381",
+          "title": "Find and Remove Nth Node from End",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f6192b86a070341fc61771c7e7bad67ad8ea11fa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-382",
+          "title": "Check if LL is Palindrome",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/402a9c1baa4a60fa49d7a41ff7e42904954f829c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-383",
+          "title": "Check if LL is Palindrome (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0469feaeac9205d8e3e73ecbb7db27223ed8b251.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linked Lists (Part 2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-384",
+          "title": "Detecting Cycle in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d623254e8f483743409b22fbaceeb0f12ca9a862.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-385",
+          "title": "Detecting Cycle Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8eef4cadf24e1e2efb4565b9dafec003ce2dd70.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-386",
+          "title": "Removing Cycle in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a77ad7a8f50b6c3b5ac69dbd61931410b530e1bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-387",
+          "title": "Removing Cycle Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f53061806560fcbe602b5aa4893784e1d952cbea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-388",
+          "title": "Removing Cycle Explanation (Math)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/829d08827ee4e31169e8ff876f70ecfbe4c81134.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-389",
+          "title": "Java Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e6e1b2f833404820f016ccc12844aacf2cc17d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-390",
+          "title": "LL in Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f58cae952ef428c941c910c2558983c5ff490cbf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-391",
+          "title": "Merge Sort on LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/70b0117eb47bee548140a902a6c0c19fa549eea9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-392",
+          "title": "Merge Sort on LL (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5fe77452aac0ae4e162b3d32e23c677f8e11f381.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-393",
+          "title": "Zig Zag Linked List",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=67fbc710aa4c80aeeb0fc2a8Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-394",
+          "title": "Zig Zag LL Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/245b5120bda10417d8dda9ce7d29274d26cf00a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-395",
+          "title": "Doubly LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c06b415f29d94f836f6a6a1448c9ea4a66a4686c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-396",
+          "title": "Reverse a Doubly LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4869832fc427159e14fe222a1660e77d144fb5bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-397",
+          "title": "Circular LL (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85ff2a597937ac2733332e3bb6669c4b20cb4459.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-398",
+          "title": "Circular Linked List (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Circular LInked List.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-399",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Linked List Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-400",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Linked List Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Stacks (Part 1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-401",
+          "title": "Stack Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2efb2e7f9a0ebc52ef3890b2a10af93619fd232b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-402",
+          "title": "Stack using ArrayList",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68161ecefdd81342e502b335Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-403",
+          "title": "Stack using Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/87b41f2bba9f8c710b7a07f4d8871393c6154626.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-404",
+          "title": "Stack using Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6283f163ddc0c56899d81fb46acdde2f73da6298.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-405",
+          "title": "Push at Bottom of Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d5d8ea0b79e97c21869a63577a133c03ea504d0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-406",
+          "title": "Reverse a String using a Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cf711cf3eff18fca3bb23f404a813ae5263e230c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-407",
+          "title": "Reverse a Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36e4c28da6e6811ad5cbaac50b7b6f19f5d6442f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-408",
+          "title": "Stock Span Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e213b4c29537e41f491d00e81b5dc59906f18172.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-409",
+          "title": "Next greater element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa37995c0d93bac82d58586dcae6673fff2cf7d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-410",
+          "title": "Next greater element Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/79fe1f542a4cce7f85100e832834931885badd1b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stacks (Part 2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-411",
+          "title": "Valid Parentheses",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63ae8ffc21f2a73b783c8f81ff3f5c354c81f790.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-412",
+          "title": "Valid Parentheses Code",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68161ecefdd81342e502b33fUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-413",
+          "title": "Duplicate Parentheses",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68161ecefdd81342e502b340Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-414",
+          "title": "Duplicate Parentheses Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4edac272ed2ab92753fbeaff6c416e01fd77f0b1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-415",
+          "title": "Maximum Rectangular Area in Histogram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/056377a5faaff9428b917f6497dd19b9e316b35c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-416",
+          "title": "Max Rectangular Area in Histogram (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/abc267517b6545dfeb73d63fe3b1471d79ecfe12.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-417",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stack Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-418",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stack Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Queues",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-419",
+          "title": "Introduction to Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c9194a48afad60c613029444df718f60b3fdbaeb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-420",
+          "title": "Queues using Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4305dd0ac9a6e155b973e5823a648e9977da7059.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-421",
+          "title": "Circular Queue using Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e86bc9ef5b2d4dfada8a9212078dcf89ccd946d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-422",
+          "title": "Queue using LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59ea5093120743d324eab3b865ddc136fb2227aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-423",
+          "title": "Queue using JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fd85299686bf0b6eb2d1628b2ff3d4bd6dbac47.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-424",
+          "title": "Queue using Two Stacks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bcd0238cd828d4274d9942ddfab630214d391e14.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-425",
+          "title": "Stack using 2 Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/018d333e6dbe215b86a54625bb05ff433c31f0d1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-426",
+          "title": "First Non-Repeating Letter",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1efb0d945e9a9fde728c8a26fdd60c5760186f13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-427",
+          "title": "Interleave two halves of a Queue",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12c00ff01c83ba6e03cdaabc9dfaafcecdd394ca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-428",
+          "title": "Queue Reversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7a79ecc3bde0270087428510d6e60d488a965d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-429",
+          "title": "Deque (Double Ended Queue)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ffe7219280dd67a67e17a59d86766b3e93406aef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-430",
+          "title": "Deque in JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2dd73ceeef2ff238bfc4e605ce362a572d96e07e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-431",
+          "title": "Implement Stack using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc0dfd58bf88ed86eeda3f4c09133a2269eac623.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-432",
+          "title": "Implement Queue using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0a9f9456582031e18d752a2aea152202565ab4d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-433",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Queue Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-434",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Queue Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Greedy Algorithms",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-435",
+          "title": "Introduction to Greedy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0845806efacfa260c5cf223861b8faf8dd818a3c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-436",
+          "title": "Activity Selection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afa487644c13232fc93317024d2ab990651424ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-437",
+          "title": "Activity Selection Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4a7d9208f08717ae99c47cf63c8ed506c90de79b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-438",
+          "title": "Activity Selection Explanation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5a65b376d8ff4f564461276c1b5421760a8417d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-439",
+          "title": "Fractional Knapsack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b7aa2b614bba0e1248f779be67e9167351d90e8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-440",
+          "title": "Fractional Knapsack Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fba9943be134d23e0b39b2ecca9b0e52755d774d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-441",
+          "title": "Minimum Sum absolute difference pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21796beb0e9b011b45362854c0019b1650005e82.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-442",
+          "title": "Maximum length chain of pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/78b74b46b28b529694bc7f9a7c18db304aeca51d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-443",
+          "title": "Indian Coins",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d5d639e1e8d738b2f33d4e9834f56136379c016.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-444",
+          "title": "Job Sequencing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a40ffb79ad3c29bd6a9aaf8d8ccb0140c3fe3627.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-445",
+          "title": "Chocola Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/658c26a74a2251103eceb249d5b7fcd0ead616bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-446",
+          "title": "Chocola Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/deef3967dd352818218f6267d2edff183cf2b841.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-447",
+          "title": "Comparators in Java (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Comparators in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-448",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Greedy Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-449",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Greedy Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Trees (Part1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-450",
+          "title": "Introduction to Binary Trees",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8f4b7896bb48c4c14a6106745a0d43172fea532.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-451",
+          "title": "Levels & Sub-trees in a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/987a7f7bc1f883cc7b1ffc86fa50db3e6de55b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-452",
+          "title": "Pop Quiz",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d8b0975aa17a3c4f0ec6a0db2e698a017211e09e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-453",
+          "title": "Build Tree Preorder",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce61857d633216701fed0e809354f2a0a1930143.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-454",
+          "title": "Build Tree Preorder Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f335a1edbc8b24937b9a1cacf90558d00d45fa24.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-455",
+          "title": "Preorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e9b584646c931faa567f0f708ae609dfc1dae0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-456",
+          "title": "Inorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0c219ef1f5cfa89c2993e04b6a6659a8301fca5d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-457",
+          "title": "Postorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dd6553852fc681b849899778905868a17ff3854.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-458",
+          "title": "Level order Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afd0adb2e5711020a584cb91d3ef3dbd2794d9f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-459",
+          "title": "Height of a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/657bd0f1feb94310a7caeff780ad2944a7f8670e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-460",
+          "title": "Count of Nodes of a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/66382d5017e90ffc1d4435a1ef258f9df8b24ae1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-461",
+          "title": "Sum of Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/218d1b43f71657281ed359e905263734757772d2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-462",
+          "title": "Diameter of a Tree (Approach1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be097957ef806045adb149047147b041cc6211a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-463",
+          "title": "Diameter of a Tree (Approach2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f53ed8b3c847723e65e10f3ae80467a4d9c82900.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-464",
+          "title": "Subtree of another tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5b3b9de87f5c8e912b11f8d9f207f8a27176ce6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-465",
+          "title": "Subtree of another tree Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd6f11de6092f1b9f351b2c2c8f8cb8d2fb55853.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-466",
+          "title": "Top View of a Tree (Basics)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ecebdfd68a65f290180030f44214141a9c8a8e6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-467",
+          "title": "Top View of a Tree (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be2e815b04bbbe93f921d0281475d8385e472820.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-468",
+          "title": "Top View of a Tree (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a3ce953fc94be94225792bf661e27f772b6eeca.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part3)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-469",
+          "title": "Kth Level",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0376a2986e90067ed7d9c7450e19553bdeed334f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-470",
+          "title": "Lowest Common Ancestor (Approach1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08f66fbc1c5d0787960ce3de3aa1bf8af5631265.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-471",
+          "title": "Lowest Common Ancestor (Approach2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2dddebd8ea86ddbc11bedeb74aff5c131e1f415b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-472",
+          "title": "Minimum Distance between 2 Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a4431cbce8979558821d5a87e9aa5e3ef1b7f25f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-473",
+          "title": "Kth ancestor of Node",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=68161ecefdd81342e502b37cUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-474",
+          "title": "Transform to Sum Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b7e2e8fd6081b1b2ef969741f602dc8df6f3d7b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-475",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Tree Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-476",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Tree Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Search Trees(Part1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-477",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-478",
+          "title": "Concept of Search in BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11eac8bcb89b6e870dcd680f432ef93175332477.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-479",
+          "title": "Build a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eed715ee91ce6525d313515a21318a3abdb3c745.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-480",
+          "title": "Search in a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ffd0bd326601629460af7a58d162ec916cbd899.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-481",
+          "title": "Delete a Node",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d477df5c049a4a3c0a7caecf66cb8c7a0bdd46bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-482",
+          "title": "Print in Range",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b917d41ed8b7980b889b430822157b0fddcb6c40.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-483",
+          "title": "Root to Leaf Path",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3d9d704327af3db60acfb331eace058ac140a65.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-484",
+          "title": "Validate BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/02b312463b3ee5d1bd2ec8c429520214ef15982b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-485",
+          "title": "Mirror a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b0135e5604a3510422a77fe6274caf6e79d0b4c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Search Trees (Part2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-486",
+          "title": "Sorted Array to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d27e2cb3e8481be92844dbac06eaf5340ccc7983.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-487",
+          "title": "Convert BST to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7e70b05c5f0e930fffc4ce44678b7e762c29b03a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-488",
+          "title": "Size of Largest BST in BT",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8ca57fa1db45aedd1083d1a2c10df21d31caba3a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-489",
+          "title": "Size of Largest BST in BT (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b7bc88ddbccc3a7e04cca9f3e35ce5778bd14a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-490",
+          "title": "AVL Trees",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b5258cf071be8c21c5aa68c20b4a0e1f7c784339.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-491",
+          "title": "AVL Trees (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/AVL Trees in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-492",
+          "title": "Red Black Trees (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Red Black Trees in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-493",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Questions (2).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-494",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Heaps",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-495",
+          "title": "Introduction to Priority Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06fd1853d4544dcaedfb58413b7606c5696fec94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-496",
+          "title": "PQ in JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/caa0df4ed51d80de3da03f2b61d45aa34e422c07.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-497",
+          "title": "PQ for Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bb4d3c039aa52918c0623468c4acdc44211d3db.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-498",
+          "title": "Introduction to Heaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d58a03c2f19c5bfccbf223fd9bf1b7a398b17e85.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-499",
+          "title": "Heap Implementation (using CBT)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a5f216ca7be9d8404060d1c6e650014a346907d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-500",
+          "title": "Insert in Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e77eaa9720d04d0b68733b0926871314e2465dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-501",
+          "title": "Peek from Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4a11ca92d1b42288e02a34be69b09293e7be20b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-502",
+          "title": "Remove from Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d01e818026553f082b5f650b1cee027816d976f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-503",
+          "title": "Heap Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12d58eebcede6808f50f34c795e4f3d121d71fef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-504",
+          "title": "Nearby Cars",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/70ff02f8b6939d32989b523fa4c771cef22448cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-505",
+          "title": "Connect N Ropes with Minimum Cost",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/30818306031f3e5dc387174f1ffaf098d883ed8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-506",
+          "title": "Weakest Soldier",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1289e2f0882f60aaf62b34fa25aa831c9d426ef5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-507",
+          "title": "Sliding Window Maximum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1df9cc1e6253127846bdb314301027b575769c37.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-508",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Heap Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-509",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Heap Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hashing",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-510",
+          "title": "Hashing Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ee69e6b401fe1b93d9912fbed0e6f9c07ed5080.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-511",
+          "title": "HashMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55a8206c7abe12e012c56ae6f17e21322b75c70c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-512",
+          "title": "HashMap Operations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/86652074a97d3ebf2f2c7f4706c31106eeeb3552.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-513",
+          "title": "Iteration on HashMaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5e39b1c58fb29528fd591298888b91737a2e4217.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-514",
+          "title": "HashMap Implementation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f71da03f340f17ae8e2bac49542a03cbef453041.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-516",
+          "title": "HashMap Implementation Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/56903129af33331ddd8bfdcc5da4e593dd02787d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-517",
+          "title": "Special Note",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5d1bcce28d345ae84d1e155ca2163086d850292.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-518",
+          "title": "LinkedHashMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c038a0350dbe6c4789b037f97061ff1c33cac264.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-519",
+          "title": "TreeMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e979fc129a3f841b26d12c7c8c90152ad13efb04.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-521",
+          "title": "Majority Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5b259cf85f34ec5b0ac53670aa96cf2236903a18.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-522",
+          "title": "Valid Anagram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45ca1195400f48a053ac17b8864d43ac55bcad0f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-523",
+          "title": "HashSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acdf2ff48224170a04be832e9e6666404076dcd7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-524",
+          "title": "Iteration on HashSets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d0b7db71fba3231549b8131b79a4a50663a29d9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-525",
+          "title": "LinkedHashSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4e8c55fcf8e9237c6bf7d8c26e3f032d28211a9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-526",
+          "title": "TreeSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cfc6dec278f60107da0de6300c7fdba13ab4df58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-527",
+          "title": "Count Distinct Elements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c2c85fb912439106b1715712b1109a25f326729.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-528",
+          "title": "Union & Intersection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01f290cbdeab500b4fe096bc768b221f6db70cf7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-529",
+          "title": "Find Itinerary for Tickets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c9a254026e665c64bc18d08697256705501d9e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-530",
+          "title": "Largest Subarray with Sum 0",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12c13151db5cc9a4550295d946f7c63a4cbac818.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-531",
+          "title": "Subarray Sum Equal to K",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/355dc62e7ab7c5d5b3e47cea993e3e009fd3e3a2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-515",
+          "title": "Update in Code",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Note.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-520",
+          "title": "Comparison Table",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Table.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-532",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Hashing Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-533",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Hashing Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tries",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-534",
+          "title": "Tries Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bd6dbb49fc1b24f5e26f860170dd931523040d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-535",
+          "title": "What is a Trie?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48ac44321ba5f7e426c1c460cf1593fab84dbb49.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-536",
+          "title": "Creating a Trie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63aff77565a3ff216206b67f7100cd29c10b6df7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-537",
+          "title": "Insertion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bff186cc6caa003adafcc60b466ccd54291ef87a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-538",
+          "title": "Searching",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6fecbb65aa43b0ec22f2d5b2e07e8348eeb2eb7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-539",
+          "title": "Word Break Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/67aca5a8d9bd4dd90d629f000c2f8e7a0a4ac789.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-540",
+          "title": "Prefix Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e68fcb0a113abf9e096eff8e4a7f548250d05bd2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-541",
+          "title": "startsWith Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ad312fa534a1b1bf5aac1bb0e869e4d5d89fb9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-542",
+          "title": "Unique Substrings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/09b5e9c980ab09f4f5b478a2ed39546698fa4891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-543",
+          "title": "Longest Word with all Prefixes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f102aa6966042548d7e5fed2e64465df39eee6b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-544",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Tries Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-545",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Tries Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs (Part1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-546",
+          "title": "Introduction to Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bb2a1bacdebf3775b90b48c04622234871a088c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-547",
+          "title": "Types of Graphs (Based on Edge)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5276adb476fcfb6bc9afa8f99705d5105b2e970b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-548",
+          "title": "Graph Representations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab4a56725208702b7ca7d90bbf3f6a4e722febf6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-549",
+          "title": "Graph Applications",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9275d46b350d15647ef91e8d78cf162c3c887cad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-550",
+          "title": "Creating a Graph (Adjacency List)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a01a4d72ca242ac4681b797dcd919a1157d1fd77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-551",
+          "title": "BFS (Breadth First Search)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f40136d5712d7a79f3d91c2e50e93e9e1943361.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-552",
+          "title": "DFS (Depth First Search)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff0b8a852e3f29598e507a82b1a7873fe6bb5270.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-553",
+          "title": "Has Path? (using DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a292a2e63974e398498279efd88e07e54b76abcf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-554",
+          "title": "Connected Components",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58ec88dc22e59b91189e9c3dd7b5a6e82b82de37.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-555",
+          "title": "Cycle in Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/404f7742c48c34956f7d978a6354a28002c5c18d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-556",
+          "title": "Cycle Detection (Undirected Graph) - DFS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f0219fd9134a98e09a77195fd7c7aff54f23d344.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-557",
+          "title": "Bipartite Graph",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f4c3d8d525fb6af518ae4739c51cc391a503f6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-558",
+          "title": "Cycle Detection (Directed graph) - DFS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fb6ae102d78d495330ea6e1fa394c1b66e0b2a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-559",
+          "title": "Extra Read",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/950796fb21b90a69a379a3056a9aad2b4e3ea7e0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-560",
+          "title": "Topological Sorting (using DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dd176b62f477446d6bffefe8f4b7982310de46a0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part3)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-561",
+          "title": "Topological Sort using BFS (Kahn's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e069d72921ee0772b42dd96528c5c5a3ca80ede4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-562",
+          "title": "Topological Sort using BFS (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6073e6a5ed2c67deff6f822b8c248419088ee891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-563",
+          "title": "All Paths from Source to Target",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8100bf36bf8b6286e0a79ba17bc4e9fe8a682d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-564",
+          "title": "Dijkstra's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/391f467134d0ad13095cfec0bbfc7597a638b164.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-565",
+          "title": "Dijkstra's Algorithm (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ccf453ce5de2f6767c5ab8e0a8598a811739666.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-566",
+          "title": "Practice Qs (Set1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-1 Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-567",
+          "title": "Solutions for Practice Qs (Set1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-1 Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs (Part4)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-568",
+          "title": "Bellman Ford Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/142e3f650a4978458ab019a880940464ef4ad259.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-569",
+          "title": "Bellman Ford (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59dc1675d398ad3aff3020a5d52783fe52e71a58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-570",
+          "title": "What is MST?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a86a87340ddeef87a0e14176b62f0b8f7805260a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-571",
+          "title": "Prim's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d70a83634dbe21c9fd1c19a4d9531d070158772.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-572",
+          "title": "Prim's Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a1c0ae00f6a56e7e271e65bb6e705dcf5bdd4ff.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graph (Part5)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-573",
+          "title": "Cheapest Flights within K Stops",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=683b06596ee457faf30bc06fUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-574",
+          "title": "Cheapest Flights within K Stops (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89028983b356e3941ce79c1e3f7dab45cf74dbbc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-575",
+          "title": "Connecting Cities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8df4bf2d299c7259200af342fd996695c99485cc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-576",
+          "title": "Connecting Cities (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f35098e55c0233a912a101ac83688ec6c1d938b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-577",
+          "title": "Disjoint Set Union",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0b6ef4d77302de4deaaf7e9a92380fdd975f083.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-578",
+          "title": "Kruskal's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b7d043046bac35ce2451c8677568a24f8940d41.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-579",
+          "title": "Flood Fill Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16bf607cc03fa919334581c5bb7e706ffed88100.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-580",
+          "title": "Tarjan's Algorithm (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Articulation Point.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-581",
+          "title": "Floyd Warshall Algorithm (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Floyd Warshall Algorithm.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-582",
+          "title": "Practice Qs (Set2)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graoh-02 Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-583",
+          "title": "Solutions for Practice Qs (Set2)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-02 Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs - Supplemental",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-584",
+          "title": "Strongly Connected Components (Kosaraju's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54a7508a2490c892f56993c268b5e41a1fa431ce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-585",
+          "title": "Bridge in Graph (Tarjan's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4cf774a9cdf43d8601cea642463bae215f2eb147.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-586",
+          "title": "Articulation Point (Tarjan's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcc272cdeaeac2fb07842343546cff89c300cb77.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part1)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-587",
+          "title": "Introduction to DP",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5e69e80984072b16bca4bdbb91ab035ce9965bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-588",
+          "title": "What is DP? (Definition)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/28f801ee80574b72a1d25072e45cbeef09a5b2b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-589",
+          "title": "Ways of DP",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c2d30043cfdb323b10e18e4189e695de6729fc9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-590",
+          "title": "7 Important Concepts",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33a6ce22879b4613235071eb2352f9c7f7392549.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-591",
+          "title": "Climbing Stairs (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/320a7764a2ce2b698ba02260d45bdb209876f7a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-592",
+          "title": "Climbing Stairs (Memoization DP)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba1bbd8ee616a6b8a22fb186eb4b6fc4a6a47a94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-593",
+          "title": "Climbing Stairs Variation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3eb1d1022fafe2d8bd9712e16365d2d8f05c146.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-594",
+          "title": "Climbing Stairs (Tabulation DP)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8476269792a8e7a55cc8cb594f080daaa1cd195c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part2)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-595",
+          "title": "Types of Knapsack problems",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/88b2110046512ceabb87b4b6162992214715367e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-596",
+          "title": "0-1 Knapsack (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca4b45d367e1b9eadbec004536b4a8c61f56c6d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-597",
+          "title": "0-1 Knapsack (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d321b57375373f181166d08cf0c8957cf2aa1b0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-598",
+          "title": "0-1 Knapsack (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/556e72bbcde38b59fdde22df93080af90e5763b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-599",
+          "title": "Target Sum Subset (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/46a8c3e22637aef9b1a9f436803fd73a0154fb1a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-600",
+          "title": "Target Sum Subset (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/207c698ac09b2d98037c59ce3e511f33782d3a00.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-601",
+          "title": "Unbounded Knapsack (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21e0c4f6aca666f807a43a1e485bea2ceb17a31f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part3)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-602",
+          "title": "Coin Change (Live Class)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bad6f7a7072d9b27192fe84cee0e82a9264e3f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-603",
+          "title": "Rod Cutting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d43feb2cb338d97061e4c116286a50a3f293df8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-604",
+          "title": "Longest Common Subsequence (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f787466c2ab04c84fa5e007f512a62abd9e5d56c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-605",
+          "title": "LCS (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7ac2d876104203f62afff5e5af710ad13122dea3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-606",
+          "title": "LCS (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf66f7d243b88aef7baae37279f667ec1d0508a6.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part4)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-607",
+          "title": "Longest Common Substring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/372af7da9058539ed12e2bc84206c63ccbc45a2c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-608",
+          "title": "Longest Increasing Subsequence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e4b5822aa18ae6104494f1db8b607f11391e50fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-609",
+          "title": "Edit Distance (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab379bb78c8f90ba4746286500aef185195fa08c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-610",
+          "title": "Edit Distance (Code)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=683b065a6ee457faf30bc094Unit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-611",
+          "title": "String Conversion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/228c9f33cee62336bf5dbedf1a6e93b17062058e.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part5)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-612",
+          "title": "Wildcard Matching - Hard (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a0f1826d607224ab3c6a4ec6b0a2cabc2f2719a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-613",
+          "title": "Wildcard Matching (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ece9bf21c647adf6b4a5a6f35c582ed9e4b000cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-614",
+          "title": "Catalan's Number (Recursion + Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4adf6b17a3c2a4bed97cc2c5cba3349a9d94cdde.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-615",
+          "title": "Catalan's Number (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04c37124286daa7735f01497bf4d75a08b5be4f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-616",
+          "title": "Count BSTs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10763c88756042f44270aa3f3b1c1c8f912d3db2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-617",
+          "title": "Mountain Ranges",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e4024252762ea7286a46a6d3f1b509a1e7df39a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part6)",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-618",
+          "title": "Basics of Matrices (Math)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dab9dbc56f6c98e4b83365037d14f02398209b12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-619",
+          "title": "Matrix Chain Multiplication (Recursion)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=683b065a6ee457faf30bc09dUnit",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-620",
+          "title": "MCM (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ed9809c4f1e1dd9d7878833d4e69a5eb0354e23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-621",
+          "title": "MCM (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fed1af6682e276d5ada82e9936fedc8f166b0803.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-622",
+          "title": "Minimum Partitioning",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1251b89eef3a074abce2d411d27f494d5b7dbd0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-623",
+          "title": "Minimum Array Jumps (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0aba1bc33822a5c5cd449b23b022638ed8eaf717.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-624",
+          "title": "Minimum Array Jumps (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/653515b677edfaca9ebc1c6e850f2e1ed644d250.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "alpha-plus-5-625",
+          "title": "Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DP Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "alpha-plus-5-626",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DP Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Segment Trees",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-627",
+          "title": "Segment Trees Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c82d00ef3b0430c8bf8003271d42aede13547691.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-628",
+          "title": "Count & Meaning of Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7e6a23e7f4cc3836aba1288b7f020dada17180f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-629",
+          "title": "Creation of ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9545c28861743a44679f340e104b21a42b55b711.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-630",
+          "title": "Queries on ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f16db18805709440b7c371bbf58c4141b7e104b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-631",
+          "title": "Update on ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0a26d6ff086dc9e3013224b4f407a9e7cc4aab0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-632",
+          "title": "Max/Min Segment Tree (Creation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/703276b16c847cf66d87fd9d22296f21ff79e7d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "alpha-plus-5-633",
+          "title": "Max/Min Segment Tree (Query/Update)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=683b065a6ee457faf30bc0abUnit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Certificate of Completion",
+      "lectures": [
+        {
+          "id": "alpha-plus-5-634",
+          "title": "Certificate of Completion (certificateCompletion_v2)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=alpha-plus-5&unit=683b065a6ee457faf30bc0adUnit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

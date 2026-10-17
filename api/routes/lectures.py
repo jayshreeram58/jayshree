@@ -10,11 +10,23 @@ from db.models import (
     PublicationStatus, Playlist, PlaylistItem,
     VideoStorage, VideoStorageStatus
 )
+from services.apna_college_service import (
+    get_apna_lecture_details,
+    get_apna_lecture_access
+)
 
 router = APIRouter(prefix="/lectures", tags=["Lectures"])
 
 @router.get("/{lecture_id}")
 async def get_lecture_details(lecture_id: str, db: AsyncSession = Depends(get_db_dependency)):
+    # 1. Fast check for Apna College lectures (served from serverless API / local bundle)
+    try:
+        apna_lec = await get_apna_lecture_details(lecture_id)
+        if apna_lec:
+            return apna_lec
+    except Exception:
+        pass
+
     stmt = (
         select(Lecture)
         .options(
@@ -89,6 +101,14 @@ async def get_lecture_playback_access(lecture_id: str, db: AsyncSession = Depend
     Returns secure video playback access parameters for Course Wallah custom player.
     Never exposes internal tokens or storage credentials.
     """
+    # 1. Fast check for Apna College playback access
+    try:
+        apna_access = await get_apna_lecture_access(lecture_id)
+        if apna_access:
+            return apna_access
+    except Exception:
+        pass
+
     stmt = (
         select(Lecture)
         .options(

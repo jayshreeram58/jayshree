@@ -1,0 +1,5237 @@
+{
+  "platform": "ApnaCollege",
+  "batchId": "delta-5",
+  "batchName": "Delta 5.0",
+  "thumbnail": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/baa2f0a94a964dc64393d902a7a2bdef.jpg",
+  "portalUrl": "https://www.apnacollege.in/courses/delta-5",
+  "totalSections": 76,
+  "totalLectures": 731,
+  "totalNotes": 59,
+  "updatedAt": "2026-10-17T09:59:16.813827+00:00",
+  "sections": [
+    {
+      "sectionName": "Welcome Deltaits!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "delta-5-1",
+          "title": "delta batch-3",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/delta batch-3.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-2",
+          "title": "Welcome PDF Delta5",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Welcome PDF Delta5.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Telegram Link",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "delta-5-3",
+          "title": "1-Telegram Link Delta5",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Telegram Link Delta5.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Live Sessions (Recordings)",
+      "lectures": [
+        {
+          "id": "delta-5-4",
+          "title": "Orientation Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66b65bf3cc91c47679064866Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-6",
+          "title": "LinkedIn Profile Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66bf35d569dd4eac4c02c225Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-8",
+          "title": "CSS Practice Quiz Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66c4c4aecf78d6f2750fe377Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-9",
+          "title": "Resume Building Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66f04320a48636b36006b715Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-10",
+          "title": "GSoC - 2025 Live Mentorship Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66ff85291c7f75dcbb01f395Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-12",
+          "title": "Special Mentorship Session by Aman Sir",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6703fcfde73fb1ddba04816dUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-13",
+          "title": "Off campus Placement/Internships Session",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=675d5c24d6219f4cde08a265Unit",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-5",
+          "title": "Delta ORIENTATION",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Delta ORIENTATION.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-7",
+          "title": "Linkedin Session Aman Sir",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Linkedin Session Aman Sir.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-11",
+          "title": "GSoC - Proposal (Draft)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/GSOC Proposal.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Introduction",
+      "lectures": [
+        {
+          "id": "delta-5-14",
+          "title": "Welcome to Delta!",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/661a595ae578c296799c54d097cb19f69a766d9f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-15",
+          "title": "What is the Internet?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/249ef7a9be31ccb91f5ac5d2c98f942d49f6d46f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-16",
+          "title": "What is Web Development?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f46f98d69cfd4514aec48dc79ba6d7a47ef866ab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-17",
+          "title": "What will we learn?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e86b222b277cc72981c8fc1b592ee36b42f7df4c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prerequisites",
+      "lectures": [
+        {
+          "id": "delta-5-18",
+          "title": "Prerequisites",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c994b1eeb0111ae8ca263e042e8e1a8cce0a0ace.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-19",
+          "title": "1-Installation Guide",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-Installation Guide.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "HTML (Level 1) - Part A",
+      "lectures": [
+        {
+          "id": "delta-5-20",
+          "title": "Introduction to HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/412a9e22b5772201d0340d54f88613220333fb5d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-21",
+          "title": "HTML Elements & Tags",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd2b09138a118fa18a91dfd0685fe52964bbe9bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-22",
+          "title": "Hello World",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/07665907760150e4f483fc2f11d15e1e8e0b1e6e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-23",
+          "title": "Paragraph Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/15ba79251d1cf3c913d135b9f14922a6ace14ff2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-24",
+          "title": "Heading Elements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea6ec0bfe01dcf4c27a3083ff05e967d11105ce0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-25",
+          "title": "Practice Qs (Level1A)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f8bfcb336a1eb01d71317f944b9b0d07361bf16.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-26",
+          "title": "Boilerplate Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cac0ddbbed75a73566c8f0f6b4ef89430db74476.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "HTML (Level 1) - Part B",
+      "lectures": [
+        {
+          "id": "delta-5-27",
+          "title": "Lists in HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f9558799af6dd5226b98f5d9c7758575eea2c6cd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-28",
+          "title": "Attributes in HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e75adc50958b5b4229b92edf8cf60de5d991f7a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-29",
+          "title": "Anchor Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0714ff1450c2447d207d172406774f5e9c02bdc1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-30",
+          "title": "Image Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/69361c9c59a1e55d1a0125ddb592df78da35a0f1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-31",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-32",
+          "title": "More HTML Tags",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1326d0effb1c9f0f8234c27b9379de0352b78b47.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-33",
+          "title": "Comments in HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6ed58caf4a272ead571b6ce86ff0d2cf78ed6e44.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-34",
+          "title": "Is HTML Case Sensitive?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94bfaa50e24636c45e1827f5b096b4136fef251e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-35",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-36",
+          "title": "HTML (Level 1) Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML (Level 1) Qs.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-37",
+          "title": "HTML Level1 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML Level1 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "HTML (Level 2)",
+      "lectures": [
+        {
+          "id": "delta-5-38",
+          "title": "Inline v/s Block",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/621ac84c202c7a7106b1569a89b4b6ac2f0aa8af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-39",
+          "title": "Div Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b91de49992e84c50152c80517ecb4865d3553695.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-40",
+          "title": "Span Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45b6759da2041110e9d9b09a7194690d55cb0704.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-41",
+          "title": "Hr Tag",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5e62f9d9f2cea2e81eca7c58188ff0a9141e3974.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-42",
+          "title": "Sup & Sub Tags",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c33caf105871b421ba255ba9d88818cd5c14baf1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-43",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-44",
+          "title": "Semantic Markup",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a25822f488b7993016519654be36caaa2b904ef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-45",
+          "title": "Semantic Tags",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b3864f73aedb8e0781a428e51f037c77a6464be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-46",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-47",
+          "title": "HTML Entities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7529bd44575fe860273da616ba5dfe10fdff0192.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-48",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-49",
+          "title": "Emmets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d051d1b26efb404ee74699232f25393270eb7071.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-50",
+          "title": "Further Understanding HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acea4dc68537331c6675a07a9c14d6ffcd999527.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-51",
+          "title": "HTML Level 2 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML Level 2 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-52",
+          "title": "HTML Level 2 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML Level 2 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "HTML (Level 3)",
+      "lectures": [
+        {
+          "id": "delta-5-53",
+          "title": "Tables in HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a45fb2117404047c0c53e344b9a7e87efd9f01e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-54",
+          "title": "Semantics in Tables",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/980475976c6b21b218375777ba4ce41dbc3408fc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-55",
+          "title": "Colspan & Rowspan Attributes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2d914f119db969aacbd72b98652e54ba6d1b13a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-56",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-57",
+          "title": "Forms in HTML",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4496e95acab8218c9e0be13e0d8b43d615877f80.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-58",
+          "title": "Input - Form Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12cab8aa0e67b561628321ea1a025ff713066d0d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-59",
+          "title": "Placeholders & Labels",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2edba33562c00d26845afaf9c9520ac0f4dcc879.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-60",
+          "title": "Button Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4529d538b96a1aab904901c564758dbe5d9f0973.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-61",
+          "title": "Name Attribute",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c9ed42a3662a42e2fd71a754e372265c6babe45.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-62",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-63",
+          "title": "Checkbox - Input Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/19db41656f11b998ba66f949d34b7e2408707e06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-64",
+          "title": "Radio - Input Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/32d2b9a1887aad45958ed84f273e958b3989de57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-65",
+          "title": "Select - Input Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11ed91a00524ebf069c183c4c238233db93b935a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-66",
+          "title": "Range - Input Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c96cf33c93eca4f00dde2875c07cd18dd1b02357.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-67",
+          "title": "Text Area",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9d6e56a5bb74c4c7abc88e822c751e9c372137a9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-68",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-69",
+          "title": "HTML Level 3 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML Level 3 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-70",
+          "title": "HTML Level 3 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/HTML Level 3 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Getting Started",
+      "lectures": [
+        {
+          "id": "delta-5-71",
+          "title": "What is CSS?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/641e77c1939fb7518702ccef4d671bcd3526216d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-72",
+          "title": "Basic CSS Format",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f56a1c344158f528651e85237b6e8d6636c4c04e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-73",
+          "title": "Including CSS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e03880c13f17bdc8dff9c072b3b282a3c573f43a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-74",
+          "title": "Color Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3c6368201d48457e1e63bf969a871d2844e0c088.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-75",
+          "title": "Background Color Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8bc7430f1fc48b8815b6d0d21f5b0c82b3baba9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-76",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-77",
+          "title": "Color Systems (Name & RGB)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/18cac411c426b9cd0701aa40446afbdb846e4b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-78",
+          "title": "Hex Codes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a26d6b840d182a42c4e1d3d86a842d6f45a6f6fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-79",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-80",
+          "title": "Text Align Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0982fc8582be30ea5a6bfb3bb9372581312d9910.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-81",
+          "title": "Font Weight & Text Decoration",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a04b2698d298ab3237cd172c70e24007824f0c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-82",
+          "title": "Line Height & Letter Spacing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8e77248067fc4c35cd11d400f3f8605ef75fa12e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-83",
+          "title": "Units in CSS (Pixel)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01fcf336f84c32e8f6f9ae23f803b376e073cb66.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-84",
+          "title": "Font Family",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4de64447f89cff74ec2aebbbf59b32fc68efd07d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-85",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-86",
+          "title": "CSS Part1 (Qs) (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part1 (Qs) (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-87",
+          "title": "CSS Part 1 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 1 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Part 2",
+      "lectures": [
+        {
+          "id": "delta-5-89",
+          "title": "How to download?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ec8dc3bc915826bb717c834670c3fbc2abcfc935.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-90",
+          "title": "Universal Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5a2a9cae1030315ab50215ceacdc88c29a491b33.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-91",
+          "title": "Element Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a6cbb0a1b501313b3a707d8abc9c46edca8d027c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-92",
+          "title": "Id Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/346661cc9936ed35b56d5743bd0a748359c9919d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-93",
+          "title": "Class Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c6aa67aa2cf4b31262d5a5514713494bcc1345b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-94",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-95",
+          "title": "Descendant Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ed8b070a91c908740556ea2dc64a600543b2b67.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-96",
+          "title": "Sibling Combinator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c5fdffa54325913b89d7154adc41463b31feae9f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-97",
+          "title": "Child Combinator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/745a8b6bf92775389be842f73133bdbc223d40a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-98",
+          "title": "Attribute Selector",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/07cd239832cf3ad9d31c8b39c574f604b97bcf45.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-99",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-100",
+          "title": "Pseudo Class",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/97fefd1bdc734e9afa4f0e51dacceddc395253b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-101",
+          "title": "Pseudo Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/53eafcabc307b20eeee14199c3311d19bf17cc31.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-102",
+          "title": "Cascading & Specificity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/90e86b890fa1e5d89dad37985dd3812dbee4e352.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-103",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-104",
+          "title": "!important in CSS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff229159f66c3d91bbd941001b25e1b342588f2f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-105",
+          "title": "Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2918c6feec47ca65c390d0f5af2a51d227ba4ccf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-88",
+          "title": "Download Starter HTML",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Download Starter HTML.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-106",
+          "title": "CSS Part2 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part2 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-107",
+          "title": "CSS Part 2 (Ans) (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 2 (Ans) (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Part 3",
+      "lectures": [
+        {
+          "id": "delta-5-109",
+          "title": "Box Model",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/629da7c1a28ffd20213132ae865b8cd7ade4fb3f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-110",
+          "title": "Height & Width",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f360b49722c19944de2d241e3ebe596cd0576f21.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-111",
+          "title": "Border",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03fb20b1862b57c14114ff962bb852024c282736.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-112",
+          "title": "Border Radius",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0fec17f54d530e3971365634d567b765595b0821.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-113",
+          "title": "Padding Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8d762012e4693a6a0eee5f42aa2ec40362e350e7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-114",
+          "title": "Margin Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b00a93641a46b141c52555c68f2069e3221a0c7e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-115",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-116",
+          "title": "Display Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f942980c93287c930897ccc211369fc65326636b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-118",
+          "title": "Inline-Block",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66b73db19a09c558510e0a74Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-119",
+          "title": "Relative Units (Percentage)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/02d52f3b798e735b7be33a1e8c2d0a5388ec21ad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-120",
+          "title": "Em & Rem in Units",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c7b73a2bded80aa13aafcb7b64cf2700f8d76f98.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-108",
+          "title": "Download Starter HTML (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Download Starter HTML (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-117",
+          "title": "Conclusion (Inline & Block)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conclusion (Inline & Block).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-121",
+          "title": "CSS Part3 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part3 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-122",
+          "title": "CSS Part 3 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 3 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Part 4",
+      "lectures": [
+        {
+          "id": "delta-5-123",
+          "title": "Alpha & Opacity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0d24a91e7732938f085251babd9af1839cca1a8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-124",
+          "title": "Transitions in CSS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6227a35545956095718f49fbf2faad61dc553278.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-125",
+          "title": "Transform - Rotate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b98c2fcb52ad512aaac19180c09263615112eae0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-126",
+          "title": "Tranform - Scale",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a385333768b938d01442bf08ab0f53ae1836059b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-127",
+          "title": "Transform - Translate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/84bdb6b0ee52599023283f47edb9ab654f7049a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-128",
+          "title": "Transform - Skew",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc7f7775f5394dc939de8074fde8ee2aaa2bca39.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-129",
+          "title": "Box Shadow",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a09dc7235149e6f4cb4958f6cf42df158486df1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-130",
+          "title": "Background Image",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fdfee667f6504877960ef650d7e24ed2605fc6e5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-131",
+          "title": "Card Hover Effect",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66b73db29a09c558510e0a81Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-132",
+          "title": "Position Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7e2aad2949771ce720ebff4dea8bc2e66a3869e6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-133",
+          "title": "Simple Smiley Face",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da45e2410a13c06cb914a7023298b52fe09dad3f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-134",
+          "title": "CSS Part4 (Qs) (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part4 (Qs) (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-135",
+          "title": "CSS Part 4 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 4 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Part 5",
+      "lectures": [
+        {
+          "id": "delta-5-136",
+          "title": "What is Flexbox?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f41e2e0edbf778f8f3ff2b29d6d099e956bde465.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-137",
+          "title": "Display Flex",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b83124c8444f88b4e926b313be61c336c9fa3d8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-138",
+          "title": "Flex Direction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/93fe66654b2a9510ae3ae1b1fdd8588d701171ec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-139",
+          "title": "Justify Content",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f7932271535054117b3ca577916d354c4e80d7f0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-140",
+          "title": "Flex Wrap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/65c7658e4f32e3e94deb5bc24b26dde6c47df567.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-141",
+          "title": "Align Items",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/902f2c086aa7e4ead81f1df84627e2c42235b9d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-142",
+          "title": "Align Content",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/65bfff8460ea6453b70fb48a1f269fcb8991aae6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-143",
+          "title": "Align Self",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2fd72200161899c392af2c64b905b9ad10c36515.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-144",
+          "title": "Flex Sizing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5030996e605c3a504ac665748db9f906cfe5280c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-145",
+          "title": "Flex Shorthand",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c66de59ee2879a9247ee6f09c0500c1434e8e616.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-146",
+          "title": "CSS Part5(Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part5(Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-147",
+          "title": "CSS Part 5 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 5 (Ans).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-148",
+          "title": "Flowchart-1-2 2",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Flowchart-1-2 2.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "CSS - Part 6",
+      "lectures": [
+        {
+          "id": "delta-5-149",
+          "title": "What is Grid?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12b5851cba16c373af15102be326d91f6eb8d175.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-150",
+          "title": "Grid Model",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63720160bf7352656e40ba1b41d8763f9984b4d1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-151",
+          "title": "Grid Template",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b859906b01fa4ffc1fa5a0e32c6726cc4f001316.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-152",
+          "title": "Grid Template (repeat)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/757506e5e9028b66a9c17cf7b59ae49e7f7db35b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-153",
+          "title": "Grid Gaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cbf92039abac2fce9ddefe616302c25dd7097f25.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-154",
+          "title": "Grid Columns",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df527c48b5828237a2551dd481d17f488cccdef2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-155",
+          "title": "Grid Rows",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b61853241b3c19764342d3948b8c3bcc86006fa2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-156",
+          "title": "Grid Properties",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c88fe43bfc35256494c4db2f76273c58cc24e02.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-157",
+          "title": "Animation in CSS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f9fbf95ff1b537520ec404ca6348666a5b0bc34d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-158",
+          "title": "Animation Shorthand",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/056869be63d7c3348aa1c3e7a5756d36a6c4362a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-159",
+          "title": "% in Animation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a998e11c370dc628f57acd303450d8ee84c21d5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-160",
+          "title": "Media Queries",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ceb9cab0530dde7aa7f78722b39350c7f1448363.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-161",
+          "title": "Media Queries (Orientation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08c1c58fd3dec73c7ef4482ddb6a403dea9af7f2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-162",
+          "title": "Pet Adoption Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab1cdf720eafa5a59a3f0f4b6fa1b2bc5364c680.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-164",
+          "title": "z-index",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94843b48001e505be55786e2f566b1f9e1988084.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-163",
+          "title": "Download Starter HTML (2)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Download Starter HTML (2).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-165",
+          "title": "CSS Part6 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part6 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-166",
+          "title": "CSS Part 6 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/CSS Part 6 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Mini Project (CSS)",
+      "lectures": [
+        {
+          "id": "delta-5-167",
+          "title": "Color Theory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c1d9feccd6bfc0aa197e026123e5d6f807d8bb3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-168",
+          "title": "Typography",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2b948264d8d40d329a78cb9a96a6430e1ee76890.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-169",
+          "title": "Google Fonts",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc7e44cb9be138245aa35471367a5ae5f050a69e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-170",
+          "title": "Icons",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/476f064d875e33c12a4d75c34609e1621f343730.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-172",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-173",
+          "title": "Setting Style",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4d7af9521e6e738953efd59bb4bdd65d8b1dc0ff.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-174",
+          "title": "Sidebar Menu",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45d9d92b0b61d15ee987d629f7cb2ecb6395dd84.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-175",
+          "title": "Hover Changes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/13cc3ba1bfdc2dd7be4b62ea2f3fc7a556a753a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-176",
+          "title": "Configuring Checkbox",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c45e332bdf26f17f012eaf61f4f00f3d32015cb5.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-171",
+          "title": "Download Starter HTML (3)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Download Starter HTML (3).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bootstrap",
+      "lectures": [
+        {
+          "id": "delta-5-177",
+          "title": "What is Bootstrap?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1bd6a3dbd811269cb0492723c61861006d49a82a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-178",
+          "title": "Using Bootstrap",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66c5f5ad636fabcd1e0fc81eUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-179",
+          "title": "Container (Layout)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/702ea5ec1fb239efbca43fcd5d9a1d3b77c041ef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-180",
+          "title": "Button (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6bd9913327ef8f472174daec422188f837f8cd1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-181",
+          "title": "Badge (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ebd26e69f14a7c56b011c700071b4775d53b78d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-182",
+          "title": "Alert (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd882d45ac50690c16470de23a02a164271bff6a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-183",
+          "title": "Button Group (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bfe5ce854dda26fbbd64f3e9655049bf75dff79c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-184",
+          "title": "Navbar (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38c2bd0b0188bbbdf2d6424a0533602e2cd37e5c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-185",
+          "title": "Card (Component)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b1e7ec4c0d68ed9d29d6d8542ba519d62f286012.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-186",
+          "title": "Grid (Layout)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4aa0af79f5edcae9daedbd3bcd3068d75e066dc1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-187",
+          "title": "Grid (Vertical Alignment)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5edb5f6a0e3152df8499b36c46d08c1cd114299.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-188",
+          "title": "Form Controls in Bootstrap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fda0a7510f53b1908c81ee5ef9d818253e2e009f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-189",
+          "title": "Select in Form",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f71fda7d41a9bb07815cbadffbab9117e85f7e5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-190",
+          "title": "Checkbox & Radio in Form",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/35cfdeeaeed2d61fa68f639c9a66bd3e0277825c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-191",
+          "title": "Form Layout",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/414ef0552df1a5019fa84be3890a682e61ca8d82.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-192",
+          "title": "Bootstrap (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bootstrap (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-193",
+          "title": "Bootstrap (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bootstrap (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project (CSS)",
+      "lectures": [
+        {
+          "id": "delta-5-195",
+          "title": "Setting up",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04bc90ab67eb1e3a5ed64e35e6fc66bf46fb5792.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-196",
+          "title": "Basics",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/235a437b13b0f64f216ee07cb2d26a8ed3d8448d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-197",
+          "title": "Layout",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bef89a056b6401ec209acc9db7bf37a21e7e8d31.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-198",
+          "title": "Sidebar (Nav)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0565324ea17a28e9f2f43927ba545aeb4f6b7cc1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-199",
+          "title": "Sidebar (Library)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/62bbd45b5cb0986aeb64c9b4e0f5ed12d10808a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-200",
+          "title": "Library Boxes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/22e1660d2310cc0ddee85a2669d5f3d096595a99.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-201",
+          "title": "Sticky Nav",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c7a5a5347913391d2114b4af5a99e5b073ca17c5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-202",
+          "title": "Cards",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ba82f2aa574bb6cfeadd541a474c04d2f7d05c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-203",
+          "title": "Footer Line",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7f1d31184a83d8ae6b17892a8fbfc149b3e01d16.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-204",
+          "title": "Setting up Player",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/32927ead548b91f1c768abb492a7cd0be8384d29.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-205",
+          "title": "Player Controls",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bc92f231c5cecc19a0d4a338dda6b9d4690b357.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-206",
+          "title": "Playback Bar",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66c5f5af636fabcd1e0fc83aUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-207",
+          "title": "Tailwind CSS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/39d123fb9fc3f825d49ac34edf7f3cfa8241850f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-194",
+          "title": "Download Starter HTML (4)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Download Starter HTML (4).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 1)",
+      "lectures": [
+        {
+          "id": "delta-5-208",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-209",
+          "title": "Using the Console",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/80236c010442680ca8d288edf1ca7ee7c0d62357.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-210",
+          "title": "What is a Variable?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d9b9eed4b7cdf8c679f135777d238f1c6a53ca6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-211",
+          "title": "Data Types in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b164f01fca036fd99102cbf9660a3793d5b14464.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-212",
+          "title": "Numbers in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e23caf08ced35ade1a70660dc6b0a3e33396f068.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-213",
+          "title": "Operations in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c88ea7023436aaf40e521958fa947087c6bccd1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-214",
+          "title": "NaN in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/96ed9f92a5aafe77e41f7655bbbf8e1e7870f71d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-215",
+          "title": "Operator Precedence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ad13b32bb579067c303a500487a030687eb5d9fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-216",
+          "title": "let, const & var Keywords",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4cc30dfb84dcedad9251ac8a621c18589709ace6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-217",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-218",
+          "title": "Assignment Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7575e64f32d4704cf5d297316aaeeb38734d9186.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-219",
+          "title": "Unary Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44254573c360e7f14fbba5fe5a8a5877adc9f968.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-220",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-221",
+          "title": "Identifier Rules",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4efd37b39153d7af960a9c04dbf5bbf7b274edea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-222",
+          "title": "Boolean in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a7240b644e2d799fe5855b2010c2f378ee8bbb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-223",
+          "title": "What is TypeScript?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e23aeb36990b3ee32af74da57ebb207fffe13f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-224",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-225",
+          "title": "String in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f59ef30a413866ee8965b63caf5946804a50300.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-226",
+          "title": "String Indices",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a035743c1ab02014d2c3e9bd467f5191761d7527.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-227",
+          "title": "null & undefined in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b0ad8eef70cc1f9873497d0c361bcbe4e38124c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-228",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JavaScript (Part 2)",
+      "lectures": [
+        {
+          "id": "delta-5-229",
+          "title": "console.log( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e374192de33809cf618fcdd8309fd056bcba5196.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-230",
+          "title": "Linking JS File",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/551e9809e277ceb4c1e087c28f03b35311abf287.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-231",
+          "title": "Template Literals",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76fc24a4e3bbfd33980c7e4f331d3fa59b4f1c74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-232",
+          "title": "Operators in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5fcefed4b0612f2626ea8ad82b2c4e7bef45bae9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-233",
+          "title": "Comparison Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/faeabb4393343fa4c0d80097e464605c5e075293.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-234",
+          "title": "Comparison for Non-numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/77e33ac7b46c1daf4c15123e815c663a38619987.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-235",
+          "title": "Conditional Statements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b39f85b74e58a7d723b2680ab6158718517f235f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-236",
+          "title": "if Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcfa22e04650636d681aef93b72be6a9c1894ae0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-237",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-238",
+          "title": "else if Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/696916b7c583648d7c5f98b8578f81592aca0a35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-239",
+          "title": "else Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/feb10bd2d7c9ab40cfc668017d5260bd73b872f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-240",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-241",
+          "title": "Nested if-else",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94c2df486239b61dc017c10036631feec58c85ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-242",
+          "title": "Logical Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54779bc4ef8eae45fa02b34d9e0d9a25514c406f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-243",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-244",
+          "title": "truthy & falsy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/91f7bc0fbdb93def56d7f3e97fe502ffeb46554f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-245",
+          "title": "Switch Statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f7927fe4e79f2debbd138b19e9fcc943330ef59.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-246",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-247",
+          "title": "Alerts & Prompts",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d0c0d355c7fbd6db2da44836d4d827ee6069f41.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-248",
+          "title": "JS Part2 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part2 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-249",
+          "title": "JS Part 2 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 2 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 3)",
+      "lectures": [
+        {
+          "id": "delta-5-250",
+          "title": "String Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/97082ccf3ac6f3bc7199835841a1f7f1dc9d8d31.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-251",
+          "title": "Trim Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bc3efb7c3237575de79391464802551ee72f6e31.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-252",
+          "title": "Strings are Immutable in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4d8fdd2fb6a75b9cf171fa4af5ad2f9cf651cb1c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-253",
+          "title": "ToUpperCase and ToLowerCase",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/229021d901fd5da64b0bd9e395e7c3292ce35506.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-254",
+          "title": "Methods with Arguments - indexOf",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bb9d2187439dc927d8d7a9fae3965939fd788a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-255",
+          "title": "Method Chaining",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a0c6e9bbbffcd09a5feaf3d51cae9f2bd4395e0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-256",
+          "title": "Slice Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7f07fad4f32b25807c6752a2e4b3703e7d1c082b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-257",
+          "title": "Replace & Repeat Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e1a0b0cd9633db1842e14845a8c38e1bc265794d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-258",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-259",
+          "title": "Array (Data Structure)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8590256fd6ecedc9191ede541cd9d927a44feff1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-260",
+          "title": "Visualizing Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a8d45c6417d1559c304bf41746575235e220524.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-261",
+          "title": "Creating Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ea352b2853795693bde5c2bc3ea0720cc1c5d35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-262",
+          "title": "Arrays are Mutable",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e723a7ff3d2c653ba45ab82db772b7c243bb9bdf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-263",
+          "title": "Array Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b18b14a1b28171b597aee63ebe45beee8b5edf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-264",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-265",
+          "title": "indexOf & includes Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6cbcefd6abfffd7de332e8baf160c322d2e69841.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-266",
+          "title": "Concatenation & Reverse",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c28792a3b9888b961b3a4fd5675a47964f831b5d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-267",
+          "title": "Slice in Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c82ae381ec0482b42ebbbfe6d8b390171d52b722.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-268",
+          "title": "Splice in Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/13189e8dfb2fc7a7762ac10bfdd004d029df62ba.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-269",
+          "title": "Sort in Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/46c89b6c508a36262088e853a643cbd1c61e8f2b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-270",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-271",
+          "title": "Arrays References",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ab72fc446ab355780cd3dabedd5b5c21983da34.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-272",
+          "title": "Constant Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1de29cb12d3296fb98639325a0d6a113d731b7dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-273",
+          "title": "Nested Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d045407d313e84d7262a95b74e2175ecf61fbf19.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-274",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-275",
+          "title": "JS Part3 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part3 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-276",
+          "title": "JS Part 3 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 3 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 4)",
+      "lectures": [
+        {
+          "id": "delta-5-277",
+          "title": "for Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/898e0ab54f73e70b8e5ba28fa36bb27bbded5d22.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-278",
+          "title": "Dry Run",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/de512dcbc913fbc122ad13c14031dfa5d6e07d86.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-279",
+          "title": "Print Odd Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b15b0804f0a29eaab2a82b1fa07c1fe38206e17b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-280",
+          "title": "Print Even Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f07c98d3e93bdd0c07d3e2b952b5df6f8935f51.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-281",
+          "title": "Infinite Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a04688c285bc329ef503c9e9193ce444a0dbce8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-282",
+          "title": "Print Multiplication Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3720408f16bf93af4f4bb70c7c5855618fb54131.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-283",
+          "title": "Nested for Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c76f6c4e6124c6f2314da7675226894912e1e48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-284",
+          "title": "while Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/31f6f67d72cef24aa1f565ed2a5d399455302ed2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-285",
+          "title": "Favorite Movie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8125b4117cf4be6495ede9a13a7035c674d83d12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-286",
+          "title": "break Keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ed3143935e2cdd56ff961ad5844e0d4a2237cfb3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-287",
+          "title": "Loops with Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca185baf8b850164152ad203ec1b099f8b192426.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-288",
+          "title": "Loops with Nested Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7045189ed5fd0c704873b9f108c56a8ded0928c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-289",
+          "title": "for-of Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b2eca2c32a7505d9072eada8e8fc653125096b55.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-290",
+          "title": "Nested for-of Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/152ca8cb7b21cf1db3837092ba6a07bce25c4886.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-291",
+          "title": "Todo App (only JS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b19775eaba0347820b3dd73ad91ed72e67366249.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-292",
+          "title": "JS Part 4 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 4 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-293",
+          "title": "JS Part 4 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 4 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 5)",
+      "lectures": [
+        {
+          "id": "delta-5-294",
+          "title": "Object Literals",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/42da2f402308b7f773c02f3b2d9fc0aa2fed45ba.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-295",
+          "title": "Creating Object Literals",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/673dd251cc45995e8d1810d8e537b793451d264b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-296",
+          "title": "Creating a Post",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc34b6536c37f9f3db8a1895c4c150ed8639bdd8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-297",
+          "title": "Get Values",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/78746578b012c90a3056814b9f3d5cdf008d0c94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-298",
+          "title": "Conversion in Get Values",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9fb909eb73776500ec6bcde460ae144a87efceb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-299",
+          "title": "Add / Update Values",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f5250f3a424f75b0be33d73d50b6b9396ea3f9e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-300",
+          "title": "Nested Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64be1c2c0d379ed8aa6e42e25f91263649f8cd10.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-301",
+          "title": "Array of Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a1c4ddcebc5e6ef7898995576ae5f0ef20e8320.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-302",
+          "title": "Math Object",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c78ed9104d575980d6d92c0254d52aa855f66c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-303",
+          "title": "Random Integers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b8325237a2cc299519770cd3f4448dba1916e827.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-304",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-305",
+          "title": "Guessing Game",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5807d904c1df23fa9c53dff7fcd948b5075a9e6b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-306",
+          "title": "JS Part 5 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 5 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-307",
+          "title": "JS Part 5 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 5 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 6)",
+      "lectures": [
+        {
+          "id": "delta-5-308",
+          "title": "What are functions?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9afb28e4d5375c765d9f0c5b947b631f75986a35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-309",
+          "title": "Practice Qs1",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dcf31a09db1755c641c0c71d725ef0fee36f6618.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-310",
+          "title": "Practice Qs 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e69724bec886a744516485698c809ae267f157b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-311",
+          "title": "Functions with Arguments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a6467288a2d074c4ab853daf0813c9e2e320165.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-312",
+          "title": "Practice Qs 3",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e71ea590f308cc2a7cb64ce790245861d4f11548.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-313",
+          "title": "Practice Qs 4",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bb631cd6907632753813ae1807ac5639a30d40d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-314",
+          "title": "return Keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6782ac77773cd983370401dcb292c9062b7f979f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-315",
+          "title": "Practice Qs 5",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/264e22cb3959b1e6496c20021c1f75cdac76fca0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-316",
+          "title": "Practice Qs 6",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c2a5506e389659735565b95d309a495f8d0aa28.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-317",
+          "title": "What is Scope?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/34c8de9673af26ea9fb82a32889ee1a94698cc38.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-318",
+          "title": "Block Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/deba4327a758713331e347813b915c51b465410c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-319",
+          "title": "Lexical Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a51dc55a75ac4dc89ad5f70087d613132d762bf2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-320",
+          "title": "Practice Qs 7",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43ac5edd3a0feab57e9fac44bff78acef1a01e06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-321",
+          "title": "Functions Expressions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89c4955b073c693feab593a6952e54b4a6be8fc6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-322",
+          "title": "Higher Order Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2506e65a47ac5bba5531b8150293fd39d840e133.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-323",
+          "title": "Higher Order Functions (Returns)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bc60a74ade7f16688a925beca0c19797d9438d1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-324",
+          "title": "Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/831ce3301ec3fae09abc7dd4cd358762b2939ebe.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-325",
+          "title": "1-JS Part 6 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/1-JS Part 6 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-326",
+          "title": "JS Part 6 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 6 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 7)",
+      "lectures": [
+        {
+          "id": "delta-5-327",
+          "title": "'this' in JavaScript",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f496e16de83165712e32e0e284240b71a02818a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-328",
+          "title": "Try & Catch",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cface943c43a09ae9c2b6d383f017c8726239db5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-329",
+          "title": "Arrow Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/73907e9b2359f0302edc09776c8b3d51196fdd8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-330",
+          "title": "Implicit Return in Arrow Functions",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66da982944e2bafcec0d3668Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-331",
+          "title": "Set TimeOut Function",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/687742d259a3d7b6c4488225469b4c2b0ec5591e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-332",
+          "title": "Set Interval Function",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1100cd630e75ddb33bd4e57bfed9f8782cec54c5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-333",
+          "title": "this with Arrow Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d1548e5adc27088879e34d48399a5403592e7236.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-334",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-335",
+          "title": "JS Part 7 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 7 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-336",
+          "title": "JS Part 7 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 7 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 8)",
+      "lectures": [
+        {
+          "id": "delta-5-337",
+          "title": "Array Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b18b14a1b28171b597aee63ebe45beee8b5edf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-338",
+          "title": "Map & Filter",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03268b312d690d5113a8cc4ff15e39c7186d2144.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-339",
+          "title": "Every & Sum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/993cf68ae9e19c425a716ccf0ecb402d6b0a4470.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-340",
+          "title": "Reduce Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d084443ff82379d5d6c4ae6ad7724d2ac8ed2ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-341",
+          "title": "Maximum in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0453eb81afc3cb8e91dca1f1cb3d8cd377e08a78.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-342",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-343",
+          "title": "Default Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1bcb2249c17cedbeeaa1f090b74187a5f9ed5d2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-344",
+          "title": "Spread",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf879a527af1323a4322697bd493664f9b944769.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-345",
+          "title": "Spread (Array Literals)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b31a3fb1762d7dfb81455bb6510117854b3cc93c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-346",
+          "title": "Spread (Object Literals)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/274ce9a86d3fca2c54ddb90622e35a718856acf3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-347",
+          "title": "Rest",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0bfbd6c0955d1e66c3200df87e22353876e1bf04.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-348",
+          "title": "Destructuring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b62940d6a8d22f4affa313d3779a3ca80d07d133.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-349",
+          "title": "Destructuring (Objects)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/becb3b91265a64c6f23fc23803e911cc419215fd.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-350",
+          "title": "JS Part 8 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 8 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-351",
+          "title": "JS Part 8 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 8 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 9)",
+      "lectures": [
+        {
+          "id": "delta-5-352",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/392b9870b6566ced07ed6dd1c653a64e7ce86de7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-353",
+          "title": "What is DOM?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a1af25ec40f1109586f383f889ee075c985987f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-354",
+          "title": "Download Starter Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bb8d8979779faa4462cbf6e8e992ab15daba10e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-356",
+          "title": "Selecting Element by ID",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a2feae6c7d15eef3794bb6ba68bd4146b0f59d7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-357",
+          "title": "Selecting Elements by Class Name",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dfa1335f86c70c567667899450f784266326f76b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-358",
+          "title": "Selecting Elements by Tag Name",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/abfc86804ab183a8e0d6b67583b1ae53cdd45623.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-359",
+          "title": "Query Selectors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4afd9cf783029d14c889c243763ac07f35635ce1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-360",
+          "title": "Setting Content in Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9e6ca561003065f5f5c42194fa5235270bfb67e0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-361",
+          "title": "Manipulating Attributes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5ad6c7192b1fa4d42791fca33af85cb55e9dfc0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-362",
+          "title": "Manipulating Style (with style attribute)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da884c5bf9b4a434b7edbaf6218b742cfb5a80fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-363",
+          "title": "classList Property",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/879901a2b90bc10c077f59ffe384614347498aba.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-364",
+          "title": "Navigation on Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba3b824de6ebf2a474468ac082ebb2641f03d7dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-365",
+          "title": "Adding Elements on Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df3c39747903e54f75404729bba07aeb52afd3d0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-366",
+          "title": "Removing Elements from Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc59b763de3288d2ec483f8bc89e84b1ca94f938.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-367",
+          "title": "Practice Qs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5f6c8857e74aeec5179b0dbddac61f712b0b2c7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-355",
+          "title": "Untitled document (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Untitled document (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-368",
+          "title": "JS Part 9 (Qs) (1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 9 (Qs) (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-369",
+          "title": "JS Part 9 (Ans)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 9 (Ans).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Part 10)",
+      "lectures": [
+        {
+          "id": "delta-5-370",
+          "title": "DOM Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ab61006ff97fda429f404ac8bb2cccaa01f26b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-371",
+          "title": "Mouse/ Pointer Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f425eda1a4022b5025d42e0dfef2120b8edbe8c6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-372",
+          "title": "Event Listeners",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d47bda664a4bee95d75dc9f1906b0ef1c6a4ed86.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-373",
+          "title": "Activity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03b9ad45a9bacb4f99ad83d83c6b0306e5d68c43.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-374",
+          "title": "Event Listeners for Elements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5c08f88bb8935b0f2b1b419f670ef0e66d1fb297.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-375",
+          "title": "this in Event Listeners",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1b5bb1dab6b4fb2ea2a01fe5bded74b43b70900e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-376",
+          "title": "Keyboard Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b2f8e1ef1ddf1b50a63678c81d4627ecf6365d8a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-377",
+          "title": "Form Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47a6ac1c77cdb64a3007c772d50af1b6d6a5f5a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-378",
+          "title": "Extracting Form Data",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a333804c85b0e97b64bde68476a54bc91ecac44e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-379",
+          "title": "More Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0c9057e94c809d8224b38a5253cd2463bc3d0dd9.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-380",
+          "title": "JS Part 10 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS Part 10 (Qs).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "JavaScript (Mini-Project)",
+      "lectures": [
+        {
+          "id": "delta-5-381",
+          "title": "Event Bubbling",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/09e4265c2c70215967cebc214e698a2931571a11.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-382",
+          "title": "Building Todo with DOM",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b8463611401e94280d56eecd01487087924c8289.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-383",
+          "title": "Event Delegation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81f2c5dbf08d82067165dd8dacbe60e27f26754e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-384",
+          "title": "JavaScript (Mini-Project) Resource (youtube)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66da982d44e2bafcec0d369eUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-385",
+          "title": "Setting up Project",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/231f87d1e2c915300e10420cbcbde3a712e910e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-386",
+          "title": "Start Game",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/430f413186ec87c428dd12c51cba35b92f5fce3d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-387",
+          "title": "Flash Buttons & Level Up",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c54eb1a3122ab67a915d69ba8dbff4b964824f5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-388",
+          "title": "Button Event Listeners",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f97eee09b5ac452374d2c3b132451ea36ecbfdf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-389",
+          "title": "Matching Sequence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb39a8629d24f5537fe388e8e3c83a9e115fb29a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-390",
+          "title": "Reset Game",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/75369096ae9dc871b00d8c3b9e6e557fc44b6194.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-391",
+          "title": "Display Score",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/681f91bc2fe3fb10b317dd0e5072a328e8c9bd15.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JavaScript (Part 11)",
+      "lectures": [
+        {
+          "id": "delta-5-392",
+          "title": "JS Call Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a1926a027a0e67a928c6863cf0894bf5c55a1fb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-393",
+          "title": "Visualizing the Call stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/50b50651d1dd1c75133238b6f9977cfa9207d03c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-394",
+          "title": "Breakpoints",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0193403dac9b24f75bf945c71ae54b6d35280398.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-395",
+          "title": "JS is Single Threaded",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa7aeaa0b1da77ff25de3710cb0f0b27c5a8494c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-396",
+          "title": "Callback Hell",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/908fb72f0dd21d799c965bd531f23d9053a7d3e1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-397",
+          "title": "Setting up for Promises",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/731a663d124e52edaa9a5223d2fc73848ef28e4e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-398",
+          "title": "Refactoring with Promises",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b5dfb9b23afc63599133ffb012beafe2cd12df29.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-399",
+          "title": "then( ) and catch( ) methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5c88e56726f071b45f50757ef3a202ef582be117.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-400",
+          "title": "Promise chaining",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d145cf5ccd9f7b21e667a0cd4bd946cdae524c8a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-401",
+          "title": "Results & Errors in Promises",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27544eef88731f12cefd4ab2fcecc750a18a98b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-402",
+          "title": "Refactoring old code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/011c7cea03664b03cf2bcf111e5bdeb2b38bd27b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JavaScript (Part 12)",
+      "lectures": [
+        {
+          "id": "delta-5-403",
+          "title": "async Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/914ffad29e90eda2a30da41f8e209e3069e5645c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-404",
+          "title": "await Keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/128e1dcb42e256bb2c0676dd09b215104ba681e1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-405",
+          "title": "Handing Rejections",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/921581c34056d7b84a314a260c2c5047075dca96.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-406",
+          "title": "What is an API?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89345bc2fed0e8c491fd3b0dcd1e718b53951d8a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-407",
+          "title": "Accessing some APIs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a24b615033b26805411fb10f5beb3d8629d13db.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-408",
+          "title": "What is JSON?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f84d42eff6eb9597478a3ef9649cf45645eaf27.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-409",
+          "title": "Accessing JSON data",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/463fb7a3a81f6ed99f78fd0f4f8249a08483bf9b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-410",
+          "title": "API Testing Tools",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/23322b8d956739fbcc29b8d97734248ab25eb6bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-411",
+          "title": "What is Ajax?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/47e731f778e084aa1602077f4e7cf232ad7cb8a1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-412",
+          "title": "Https Verbs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36e5699ca1992429af66619f0d1335a21f7962c1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-413",
+          "title": "Status Codes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dbdc837bbe767af867ba3f0420bca624873acfe3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-414",
+          "title": "Adding Information in URLs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/66fb8c3e7a71d3b6641c47da767bcc5daf1403f2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-415",
+          "title": "Https Headers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e04aed6e108fd3ba5b7ded957054b4ce94408b47.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-416",
+          "title": "Our First API request",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4224dc279c4f84f7934575422c6cffca98432558.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-417",
+          "title": "Using Fetch with async-await",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b5965e8ce8d95a3ccf43c9d16e91f06d23513d1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "JavaScript (Part 13)",
+      "lectures": [
+        {
+          "id": "delta-5-418",
+          "title": "Using Axios",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/72a4cd58198c5018d3c7b57a26b02711d41f795c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-419",
+          "title": "DogPictures API",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4445129685886335c9ca90fe69b8765f47b1e017.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-420",
+          "title": "Sending Headers with API requests",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/15eeac491716dc8f60073b150c087b556e956de9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-421",
+          "title": "Activity using Query Strings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3412e49f866b7ef2c5a1f332dbf74718f3b99b84.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-422",
+          "title": "Free APIs for Project",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Free APIs for Project.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Terminal",
+      "lectures": [
+        {
+          "id": "delta-5-423",
+          "title": "What is the Terminal?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5dd3bcffb21dc678ab735f41b97b9deb2b0bfaa8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-424",
+          "title": "Different Terms related to Terminal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55776e1ab64e0190f5cf077eebc56eb1d64b39d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-425",
+          "title": "(Window Users Only) Installing Git Bash",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c20c44f436b8741b257fa3d50a70020d24c0cf0d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-426",
+          "title": "Basic Commands",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa7211e43c815cb055e47Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-427",
+          "title": "Navigation Commands",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16322c543684e92376fe05504159e05fa80c6504.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-428",
+          "title": "Paths in Navigation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2fbd2ca7102a27c67ee90158802bd0f81fd0ba0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-429",
+          "title": "Making Directories",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b10c01dcf81e0f195ff9eb868c9dd01bd1adcdc5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-430",
+          "title": "What are Flags?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48d05227e3a105b96a5f45ce7da2e12b69281b2e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-431",
+          "title": "Touch Command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/feaa0f6426f0a558bff7cb85136c6c9ed7f44891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-432",
+          "title": "Deleting Files & Folders",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cce64ccfd42ba303e2f3f0f7a79deb20689147cf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Git & Github",
+      "lectures": [
+        {
+          "id": "delta-5-433",
+          "title": "What is Git & Github?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/39e6cc8f1ee982b10f3db9dc32ee6cdc0221f7b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-434",
+          "title": "Creating a Github Account",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0b57eda0c6a00762073ae0b3d402b07ca1efac97.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-435",
+          "title": "Using Github",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c5f7a1e1d0a077bb9910142bb1d42fb4fe503aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-436",
+          "title": "Using Git",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d1323ce044909cad723035f9b7fbce425f69ed13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-437",
+          "title": "Configuring Git",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b8f411bfb99eedea97037d6a79d082d4bbfbe7a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-438",
+          "title": "Git with VSCode",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/502547ae0d7908b8d06adf23fe47b9f2f0520607.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-439",
+          "title": "Clone command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f3546f7de6d00e003e89ee116a5ef0586327511.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-440",
+          "title": "Status command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da59c01c5c81746cdd7c5be94bf5767a808a6ee1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-441",
+          "title": "Add & Commit Commands",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5dde079a12521ac0e1beecd9cb57acf30f13d89a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-442",
+          "title": "Push command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c183e584da9d1219c3a7ed0b1ac80ffae36756ab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-443",
+          "title": "Init Command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d809f65223c8bfaac6e62a2012201b41b72f0b1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-444",
+          "title": "Pushing Local repo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fb7d14bb94405b1598ef62396985c026ec10ac7e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-445",
+          "title": "Workflow",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aed207b1096e6bbdad93b79f7cbb1c069849ca1d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-446",
+          "title": "Git branches",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b7a3ba0bf1de2918d447fe0786217e8d0398c2f2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-447",
+          "title": "Branch Commands",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3884740fbb4592ec4926733ff369f6e59febb3ff.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-448",
+          "title": "Merging Branches",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7e433474f438e9725ef619d0f093532094f87264.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-449",
+          "title": "Pull command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bfdc35e32871e44a94fa4d860143cfb9b96c250e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-450",
+          "title": "Merge Conflicts",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa7301e43c815cb055e5fUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-451",
+          "title": "Fixing Mistakes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab465343abe3304242fbf303a91d6cb062e8a35e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-452",
+          "title": "What is Forking?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/80a238e1c1276dbc7a09a9ebd3a5e036a428ecf2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backend 1 (Node.js)",
+      "lectures": [
+        {
+          "id": "delta-5-453",
+          "title": "What is node.js?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c252955f5f63e010b5acbb97108b42512dc6f2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-454",
+          "title": "Node Installation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6d69d7715eb6a1a039bb9f875c40efab1c9d611.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-456",
+          "title": "Node REPL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c703c2af4225179e3c250faa1bdd46849762c05.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-457",
+          "title": "Node Files",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/270186ad1cd89a0aea9f22d6654e10ad99e23f27.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-458",
+          "title": "Process in Node",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7a77518923545544062bdc66267fd5c0837f807.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-459",
+          "title": "Export in Files",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/de598c5abe1bebd4bd84a7b64a58ce3af07dba51.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-460",
+          "title": "Export in Directories",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/88d480cff0a4f80b77d526940cb9ba289bb9fa7a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-461",
+          "title": "What is npm?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5b066400f21381fc27d133a0747ed94e13e1302.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-462",
+          "title": "Installing Packages",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27a461ca57ff0d7f4f719bf26dfb3c6901b2223b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-463",
+          "title": "package.json",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f238cb39153d4ed71209e30da49bf84d9c064c13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-464",
+          "title": "Local v/s Global Installation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0e9d534b5b98ac05b341c65254d8817e9793ba5e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-465",
+          "title": "import modules",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c657a586b330b300aa1993b6b9d4037dcac57ea6.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-455",
+          "title": "Node Installation",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Node Installation.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backend 2 (Node > Express)",
+      "lectures": [
+        {
+          "id": "delta-5-466",
+          "title": "What is Express?",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa7641e43c815cb055e6fUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-467",
+          "title": "Getting started with Express",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa7641e43c815cb055e70Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-468",
+          "title": "Handling requests",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f436764ff2ae787dfee6bc2b7129f37767ac060d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-469",
+          "title": "Sending a Response",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/676d0d4cc9c0f145ebafa43bea8640307688082b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-470",
+          "title": "Routing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a0de8fcbf4527918e65a8abf776729254239777.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-471",
+          "title": "Installing Nodemon",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/22a715753e512891b950380134807fdbf3542677.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-472",
+          "title": "Path Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b47cd8aec90ebd638a2e8da77a537b4b8c511e23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-473",
+          "title": "Query Strings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/485e850bc71a3dcd138f83bfa99182e5091d8dc3.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backend 3 (Node > EJS)",
+      "lectures": [
+        {
+          "id": "delta-5-474",
+          "title": "What is Templating?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd88e74faac6e39d21ee17bc78eb7f4a9d6c09ff.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-475",
+          "title": "Using EJS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/215d95e64015f55b936fd4205109dba74612045f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-476",
+          "title": "Views Directory",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa7651e43c815cb055e79Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-477",
+          "title": "Interpolation Syntax",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a2adef67a120385ac623de0a1a9bd73961ca023.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-478",
+          "title": "Passing data to EJS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/90bc31fdadc45095f2c8e5295b994c1684b9b075.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-479",
+          "title": "Instagram EJS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/05570dbb0b1d6ec6f799c17c7e93a043c5e316eb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-480",
+          "title": "Conditional Statements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b39f85b74e58a7d723b2680ab6158718517f235f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-481",
+          "title": "Loops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ef1eb5836268b591868663a8d772cfaa528b2e48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-483",
+          "title": "Instagram Page with EJS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e749bb0abb3a32342fa017a0746eba92d9eba535.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-484",
+          "title": "Serving Static Files",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54ab3591370277603c1687374da8b7b68619b877.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-485",
+          "title": "Includes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b249a46d91a763c9cb7f5597f0374011ae03e088.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-482",
+          "title": "Git Cheatsheet",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Git Cheatsheet.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Miscellaneous",
+      "lectures": [
+        {
+          "id": "delta-5-486",
+          "title": "GET & POST Request",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c776df300f48ac60a0d38d320debbdae75e99765.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-487",
+          "title": "Handling POST requests",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9a301e207ef7d8d6491c595d3081485413b714aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-488",
+          "title": "Revisiting JS (OOPS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/22e50d8c05292785406e24bf2aaa89e0dec38f19.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-489",
+          "title": "Object Prototypes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/de467ab158bf221090b59644f99f2a590b72d615.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-490",
+          "title": "Factory Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3c392bf08cd9db5bd61de6342405d5a616c9a5d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-491",
+          "title": "New Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bbab08d70b0a49655a1db186bd4b988bc34443b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-492",
+          "title": "Classes in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e82411e93381b58de1e8aa6d43835203fd0b545.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-493",
+          "title": "Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2918c6feec47ca65c390d0f5af2a51d227ba4ccf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-494",
+          "title": "JS OOPS 11 (Qs)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/JS OOPS 11 (Qs).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "delta-5-750",
+          "title": "Homework Activity",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/React Activity.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backend 4 (REST)",
+      "lectures": [
+        {
+          "id": "delta-5-495",
+          "title": "What is REST?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7885bc4e556096810c05c3af08d9ca2f7779c9e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-496",
+          "title": "CRUD Operations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e98c2fe3d264be367f84ca70628e9d2a92e9b86d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-497",
+          "title": "Creating RESTful APIs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04f3b5d8627beed61ed6742a2f512234e6baa7c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-498",
+          "title": "Index Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d35ccce8250c9f43a7407ae1e8306dabb2a521ac.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-499",
+          "title": "Create & New Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c9f115ae838879fa7c0d1026ae47bff73a3fdcdb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-500",
+          "title": "Redirect",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e496260c52249ef5be64c9780aa37e021faf242c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-501",
+          "title": "Show Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b25bcbec8dcc70787574ff3d6086947b91b22445.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-502",
+          "title": "Creating Ids (UUID)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44c85f0ec9d2ddc2cbe2ee85b14c24e1ad040790.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-503",
+          "title": "Update Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ed399b64bc0a72dc4bfd336474f1fc598b8cf2a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-504",
+          "title": "Edit Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8787f91144d3a8302e22d96a4da1473c84992b2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-505",
+          "title": "Destroy Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5333e31a5d2a716a8dcdb78c0d3eb54f18ad4c09.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Starting with SQL",
+      "lectures": [
+        {
+          "id": "delta-5-506",
+          "title": "What is a Database?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cb59cb54dc748661b94a8526173c0cc8b26eb4b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-507",
+          "title": "SQL v/s NoSQL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1988d7e379ee66f72a27e01e979eda4748cfcd55.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-508",
+          "title": "What is SQL?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2bd8c6e492ce88362533e495ae6490cfef08a3c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-509",
+          "title": "What is a Table?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4231224ac74d7f3f2bb90e475217af1c2cced8a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-510",
+          "title": "(For Windows) Installation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ad9731c8b5f3747ff6e33228fde6902396dbdd9a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-511",
+          "title": "(For Mac) Installation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/84a471205e84b48fd7de9625ebdf547ddac590dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-512",
+          "title": "Our First Database",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7e40e714f44b0f6f927883d80b3cf5f80ea93d88.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-513",
+          "title": "Our First Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85864a90541102ad56ae9903e9b1115260ac2d02.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-514",
+          "title": "Database Queries",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/23f70bbd3b4f64c300f707dbe21c48b60b6a8b18.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-515",
+          "title": "CREATE Table",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=66faa78e1e43c815cb055ea0Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-516",
+          "title": "What are Constraints?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/86e9b0efee77f175c24235ef1f6341989b6971c6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-517",
+          "title": "Key Constraints",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0968a7436e3a0884e44ef7241383c99ddba4c801.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-518",
+          "title": "Primary & Foreign Keys",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/099a021d7b0aba5eaa5ff3b452ac536e1a8ebe9f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-519",
+          "title": "INSERT into Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94b60d70af3fdd896c70e03f6fa57553c220ce65.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-520",
+          "title": "SELECT Command",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/17c7611a2a231ddfb9979f69d58ff7ff21438e95.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "SQL (Part 2)",
+      "lectures": [
+        {
+          "id": "delta-5-521",
+          "title": "Where Clause",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce4fc85401ff50f8d033ab652ce4d9c0749212c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-522",
+          "title": "Operators in Where",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba774c6f607368d6964cd574131adc9c05ad66fc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-523",
+          "title": "Frequently Used Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0be389be59d3b3361d79480daa840bbe14aeefb4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-524",
+          "title": "Limit Clause",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25a1bd43d6ddb6d61ed9f0b70dffcb921d504706.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-525",
+          "title": "Order By Clause",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/28606a19556113fcd5e380d0ae49387063fa01ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-526",
+          "title": "Aggregate Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea88f9bfb8e8eadf4187d9eb5f5356a8883626b2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-527",
+          "title": "Group By Clause",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ecde2331d1c5d50ea908a0fb43562cbf9cedfe3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-528",
+          "title": "Having Clause",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8230e38e578b42f308040e93fa0fecbcd43b83f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-529",
+          "title": "General Order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/194625a616e1fd254cb05eac930331e6f4fb5910.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-530",
+          "title": "UPDATE Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f153b17d1f930bd5ae33d82972808c77a4521d7c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-531",
+          "title": "DELETE Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bb5efb791bfa27f145c85008c661cfd0e87ef26f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-532",
+          "title": "ALTER Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36becf9ec450b10b0104c2677c732fbb3bf9943b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-533",
+          "title": "TRUNCATE Table",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/025a97b09a55ed2da698e18daab751ca711ffa16.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-534",
+          "title": "Practice Qs1",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dcf31a09db1755c641c0c71d725ef0fee36f6618.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-535",
+          "title": "Practice Qs2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f0d19e859ca70984bc950e1337c19c285a80c298.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backend 5 (Node with SQL)",
+      "lectures": [
+        {
+          "id": "delta-5-536",
+          "title": "Using Faker",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f8bbe41bd440afd50e7f43a6439290a1b2e1adc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-537",
+          "title": "MySQL Package",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/90418474d5dbddc54e7e6440fe7813384cea8e27.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-538",
+          "title": "Using SQL from CLI",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc37667dda1a1d560d625ef061034323e229f9a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-539",
+          "title": "CREATE Table user",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/116d64ec57a8304d630de282766cf1cc76501489.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-540",
+          "title": "INSERT INTO user",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/84850497c29de9fdedf88b0cd5f180d1cc9a17a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-541",
+          "title": "Insert in Bulk",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a0e248e5b5aca831e522b5d3fc13a9b56da124c3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-542",
+          "title": "Routing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8a0de8fcbf4527918e65a8abf776729254239777.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-543",
+          "title": "Home Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c49e5ccb9e9a7cab5ad641657ca8b9a2d13e686.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-544",
+          "title": "Add Template",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/29865e054dce59c601c7ad8c8a370142693779b6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-545",
+          "title": "Show Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b25bcbec8dcc70787574ff3d6086947b91b22445.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-546",
+          "title": "Edit Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8787f91144d3a8302e22d96a4da1473c84992b2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-547",
+          "title": "Update Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ed399b64bc0a72dc4bfd336474f1fc598b8cf2a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Installation of MongoDb",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "delta-5-548",
+          "title": "Installation Resources",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/MongoDB Installation.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "MongoDB (Part 1)",
+      "lectures": [
+        {
+          "id": "delta-5-549",
+          "title": "The Mongo Shell",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc40ca2b998cd1a995bb4ff6087e7db637541786.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-550",
+          "title": "How we store data? (BSON)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d27ce781d288617937fec8be2aad7996401e15a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-551",
+          "title": "Document & Collection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08b73160fce952e3be3930fc2db5c9f22e61a99f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-552",
+          "title": "INSERT in DB (InsertOne)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e113d9d0e5810f91bd3fba5b12ca0cd3f31d7791.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-553",
+          "title": "INSERT in DB (InsertMany)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b353bfc16739aab2e762a3b8e75406bf83182c36.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-554",
+          "title": "FIND in DB",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a61d24182aeb8a8e3fb995151af3314f0a95603a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-555",
+          "title": "Query Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0340b515656545f12bc8aaf865b4338ee340aced.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-556",
+          "title": "UPDATE in DB",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c95963d9c63f64cc0bb3b55ebecc165e4c7925d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-557",
+          "title": "Nesting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f6d3f3fd84f01dddcf9dd2f03aacfb43604de15.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-558",
+          "title": "DELETE in DB",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/357fd2eda757c109544f6eaa555e4292cc9a0f33.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MongoDB (Part 2)",
+      "lectures": [
+        {
+          "id": "delta-5-559",
+          "title": "What is mongoose?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85964ee0bd6d69d19ffd1512dcc79b020161613b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-560",
+          "title": "Installation & Setup",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1e5e56cc8b1ec491b24958533c0834a1ffdfb369.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-561",
+          "title": "Schema",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/86c27506bee9d16192f28e0572c778e44e534591.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-562",
+          "title": "Models",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4c60b42b910c6ef6df540a7a04b5f516c50224ae.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-563",
+          "title": "Insert in Mongoose",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6831ea3f511dfd1d398601dca0c15e5ee3491855.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-564",
+          "title": "Insert Multiple",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/daac5285b7204614e0aee498e47ac2099fe57e24.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-565",
+          "title": "Find in Mongoose",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf180ca77139087660122e63a8e9426e79c3fc6f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-566",
+          "title": "Update in Mongoose",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3b615ade78a057533f60664433617153e89c36cd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-567",
+          "title": "FindAndUpdate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/759acb8f209a4dcbae2fbdf7f369844f6168fb0d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-568",
+          "title": "Delete in Mongoose",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8081d0339b6f837873ffd2c80f168bf864a9191b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-569",
+          "title": "Schema Validations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0484e3ea60bbed8e4a39602638f3db395dd743a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-570",
+          "title": "SchemaType Options",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/178e916afbf6d4c7ecdf802945585fc88ec5f1df.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-571",
+          "title": "Validation in Updation & Errors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/49048f55f3c39930c230ea39f57fadcc42cf4067.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "MongoDB with Express",
+      "lectures": [
+        {
+          "id": "delta-5-572",
+          "title": "Basic Set Up",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8ded1839fa6b51b858f3888b7782881f7d48358b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-573",
+          "title": "Creating our Model (Chat)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/88a4cb1e8f6edb0ec83588bd14aeedb5207e75c5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-574",
+          "title": "Initialize Database",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e8c95c231207f7c527967bd84d3ba73fa12a16fc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-575",
+          "title": "Index Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d35ccce8250c9f43a7407ae1e8306dabb2a521ac.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-576",
+          "title": "New Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/907b632cd9ba66f8bcb25a88b249810bc6663ef7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-577",
+          "title": "Create Route",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395b4c764ca4230ca7f1Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-578",
+          "title": "Using Date",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8d43c14682e15969fa152e129db0897754488a67.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-579",
+          "title": "Edit Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8787f91144d3a8302e22d96a4da1473c84992b2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-580",
+          "title": "Update Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ed399b64bc0a72dc4bfd336474f1fc598b8cf2a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-581",
+          "title": "Destroy Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5333e31a5d2a716a8dcdb78c0d3eb54f18ad4c09.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 1 (Part a)",
+      "lectures": [
+        {
+          "id": "delta-5-582",
+          "title": "Basic Set up",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8ded1839fa6b51b858f3888b7782881f7d48358b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-583",
+          "title": "Listing Model",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85732cbd754b54d96c1c81b1c053d03cc85c6b46.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-585",
+          "title": "Initialize Database",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e8c95c231207f7c527967bd84d3ba73fa12a16fc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-586",
+          "title": "Index Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d35ccce8250c9f43a7407ae1e8306dabb2a521ac.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-587",
+          "title": "READ (Show Route)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/41bfdaae5314c38e6a5f6bba4db2647a4a392034.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-588",
+          "title": "CREATE (New & Create Route)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0897721354af7240041ca692eb5c6f366ef35c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-589",
+          "title": "UPDATE (Edit & Update Route)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b72f67e5c8016f609995e698231d9cdf48e8bb7d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-590",
+          "title": "DELETE (Delete Route)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5321a6b95dbcb3ec0fae16ab743cbedd17191bd7.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "delta-5-584",
+          "title": "Sample Data for DB",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/MajorProject.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Project - Phase 1 (Part b)",
+      "lectures": [
+        {
+          "id": "delta-5-591",
+          "title": "Creating Boilerplate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b31a10053662c68730a0ecaafe4979d2dd777969.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-592",
+          "title": "Navbar",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2acbc7c3eb6a65a9a6c13d7e2e34d345de702e4b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-593",
+          "title": "Footer",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/438f7bb286fa04f31a3e19e355d3aae4902e80f5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-594",
+          "title": "Styling Index",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6fff4b97353f405bcacd382a3984c53198b8f777.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-595",
+          "title": "Styling New Listing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6064b8b953f40937e4dc944da8cc4b01184d89b0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-596",
+          "title": "Styling Edit Listing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fb0ae4b4b172089c21d529829243c74cccb1f4d6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-597",
+          "title": "Styling Show Listing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ebb501025494af59306574a63e6de5a1f52388c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backend 6 (Middlewares)",
+      "lectures": [
+        {
+          "id": "delta-5-598",
+          "title": "What are Middlewares?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e400697898c538f031a63ab6fb8bc46f5242896a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-599",
+          "title": "Our 1st Middleware",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/92086e9433e4d9f706985beab0e0f187b709db9d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-600",
+          "title": "Using next( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8667f3031dca041959351eaba67c6d12e38772a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-601",
+          "title": "Creating Utility Middleware",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3cb191795746fdec266e414cc0a3a85b33a60496.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-602",
+          "title": "Exploring app.use( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f9eb4d2e0f5041e283babc5cb2f5d1fda3adfea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-603",
+          "title": "API Token as Query String",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/569a9e7e0b5d6efc4d2e8af5a7ebf77161362025.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-604",
+          "title": "Passing multiple Middlewares",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c27b475a9f5354791c693f61d41e5526ed5b2fc7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-605",
+          "title": "Error Handling (Express Default)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/822cc0840af594d3748c6fd1a67e6401094e363b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Backend 7 (Errors)",
+      "lectures": [
+        {
+          "id": "delta-5-606",
+          "title": "Error Handling Middleware",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f46a7758460fb34835d8f7ff0c8f1631bafd2c08.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-607",
+          "title": "Custom Error Class",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/24d0054668dd1f6bb55b718f72926ac172c18154.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-608",
+          "title": "Default Status & Message",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/550a1b5798781d6f78d944dfcb10db6a956bf527.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-609",
+          "title": "Activity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03b9ad45a9bacb4f99ad83d83c6b0306e5d68c43.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-610",
+          "title": "Handling Async Errors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/74d209a9d2ec00b6fc4f7a7988847916587561cc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-611",
+          "title": "Using try-catch",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/948dc309dab1d66a5a2f794c5739b08857e71a7b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-612",
+          "title": "Using wrapAsync",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d072f82411d24b9204e70c0c4caaa13772957f26.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-613",
+          "title": "Mongoose Errors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c9acac38b44a3ca64a6dac8e01f96b977ce13a5.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 1 (Part c)",
+      "lectures": [
+        {
+          "id": "delta-5-614",
+          "title": "Client-Side Validation (Form)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e7237d90a3f249e96464790cf7396aed46c0c342.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-615",
+          "title": "Success & Failure Text",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/754e3f0ce5128d93874faf33f545388e5b42be42.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-616",
+          "title": "Custom Error Handling",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8060fcd56edd6bd6af752cfe33986933381634e9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-617",
+          "title": "Add wrapAsync",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/75d59ef0ee542f798aed3db103c424ba5147428b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-618",
+          "title": "Add ExpressError",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a0b49ed5cdfbce8c1caa202f64b1b7b4f05590ef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-619",
+          "title": "Error.ejs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/30b15d8af25d29d8e1ca38a83f3430b80f58a45c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-620",
+          "title": "Validation for Schema",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4d72dcc9a6d713d762cdcd0378c667a268391cd0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-621",
+          "title": "Validation for Schema (Middleware)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/68e2727c24cf506981e71ad4cff829e8a6674054.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Database Relationships",
+      "lectures": [
+        {
+          "id": "delta-5-622",
+          "title": "SQL Relationships (One to One)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc6aa5f37eccbaf76b4c9f62f5941925539bc1de.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-623",
+          "title": "SQL Relationships (One to Many & Many to Many)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d5b5cff6561e98b972abfc67cecdce4fe86a22a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-624",
+          "title": "One to Few (in Detail)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/953b4db84ac5ed1e77625120167d928a835ed333.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-625",
+          "title": "One to Few (Implementation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ec12bf26c6818b41cd1b24c1a83a600a158195f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-626",
+          "title": "One to Many (in Detail)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cfb70bdbe1cf55b358ae468695c332f3ed61ce12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-627",
+          "title": "One to Many (Implementation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fd43b904901a0008582650135c6fa9dacc950e70.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-628",
+          "title": "using Populate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c489da2ba9a2c6ad775f0b1d4f8f7e4a0651152d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-629",
+          "title": "One to Squillions (in Detail)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6d9c2291890841f2b770c4d660d7cd62fabc97cf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-630",
+          "title": "Reading Docs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/918c7ec54992ca7b728f22c1bce33278a005ece1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part a)",
+      "lectures": [
+        {
+          "id": "delta-5-631",
+          "title": "Handling Deletion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/32a7faf5bfb7a09cfa167b4e8b3f30716eda7822.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-632",
+          "title": "Mongoose Middlewares",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3902a8ed19845353bf62cd6f99727eb2ec3d23f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-633",
+          "title": "Creating Review Model",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b98cf4106bb8cfda8c507a166ba4bd1b1cb9f5db.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-634",
+          "title": "Create Reviews (Step 1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9d2c8a510d107708ced5c70293e2671db645fca7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-635",
+          "title": "Create Reviews (Step 2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a0ccb75d3ac9534b5758f16a58ee92b0889f81e9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-636",
+          "title": "Validation for Reviews",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/05ba86161c9d69fe80ff31b392895c1dd7b8ec96.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-637",
+          "title": "Render Reviews",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16825abc6f2d62dd707b80db741a2d66937649bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-638",
+          "title": "Styling Reviews",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/24dcfabc6cfdc8e6fffa1c177ee41842cc42ee2c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-639",
+          "title": "Deleting Reviews",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e06b55d94289b92a3c2aa2e4e4082fa399a8c11.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part a) > Handling",
+      "lectures": [
+        {
+          "id": "delta-5-640",
+          "title": "Delete Listing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7a7dae93d3807d5aeaea96f36aa93f87212e679.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part b)",
+      "lectures": [
+        {
+          "id": "delta-5-641",
+          "title": "What is Express Router",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3432e4e794cb4748a55ab58b6ce47d91af941b03.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-642",
+          "title": "Using Express Router",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5016c0bef8266ae1ebcf8ddd2f522fb00748a056.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-643",
+          "title": "Restructuring Listings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d457db8cef0fbadb7e05fdd66c8db88f18fcb89.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-644",
+          "title": "Restructuring Reviews",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4fc6e6e27cc3c86d2efbe0d55a0bf99d784436e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-645",
+          "title": "Web Cookies",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e4d94e7003fea649cac8ee9ab35ce96d813ad233.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-646",
+          "title": "Sending Cookies",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6ecd950ec2e7505b383e6d2ce1853cc511079f74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-647",
+          "title": "Cookie Parser",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e1d0b6726f775019a4eb1de831fa13a34822abce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-648",
+          "title": "Signed Cookies",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/24fdc323a72872a3454c6dedd6abfd9e338f90f1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part c)",
+      "lectures": [
+        {
+          "id": "delta-5-649",
+          "title": "What is State?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5eec92606cfa6b16899b21f1372412f7e39b7f8f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-650",
+          "title": "Express Sessions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/15e0d7d9d53d76cff7154f7acf1505f244dcd7c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-651",
+          "title": "Exploring Session Options",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26480592a0b2c1f36d890258f0ec11e0fb09cad3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-652",
+          "title": "Storing & Using Session Info",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5de5d9a732325a72e55fb38d29cb4dde9eb08291.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-653",
+          "title": "Using connect-flash",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/baa4f3e2075d3dbc9c552e1de723be94bb462aef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-654",
+          "title": "Using res.locals",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0da62a7e8746868f3cefb4499875a93815fecab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-655",
+          "title": "Implement Sessions in Project",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/16fe5b61bbdf27249170c052e4c20e2518f1aa79.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-656",
+          "title": "Cookie in SessionOptions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1b756b7aa90863efa55299e74f146c0792fd7ad2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-657",
+          "title": "Implement Flash in Project",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a941a932551eb9b8a95105dde6cdcde4f081fc8c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-658",
+          "title": "Flash Success Includes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/72dceec45e96648dbb04ee808eed108f96f04d35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-659",
+          "title": "Flash Failure Includes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d8de893fea85d7086c933da393a03f3cd67c7f83.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part d)",
+      "lectures": [
+        {
+          "id": "delta-5-660",
+          "title": "Authentication v/s Authorization",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ec60f7ebdca1dabf3de5060a71178c6eefc5f261.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-661",
+          "title": "How are passwords stored?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9434b6aafc13e70886bca5b442e67df37a7795c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-662",
+          "title": "What is Hashing?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3c84c9517ba05beebdac5ed2db7f300ac44c96f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-663",
+          "title": "What is Salting?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1b2c29901cddd48bf1241d010b5ce7313ee19b01.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-664",
+          "title": "Passport - Getting started",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/93827e06c05d16d8770292e08df3e67a8bbe6c44.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-665",
+          "title": "User Model",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7caf35304726086cd851a2752133571710428505.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-666",
+          "title": "Configuring Strategy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b93db32493d94cfb773acb1f19d7114a6fa5256d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-667",
+          "title": "Demo User",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/116b459c8d4f0191be73e4aa6f4d06b5ad20cb27.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-668",
+          "title": "SignUp User - GET",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/96954972cd820ce6c6b773d83a5515065095bb57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-669",
+          "title": "SignUp User - POST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63e0afd13803ff6ec624ea670e125213e612a8a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-670",
+          "title": "Login User",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5472d93d2aa0132bf8d517da60f8473742624531.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 2 (Part e)",
+      "lectures": [
+        {
+          "id": "delta-5-671",
+          "title": "Connecting Login Route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/72722e595a3e8e21012dbe8c8f6f87ae83251dab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-672",
+          "title": "LogOut User",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5a1f80593628b9f8bc8f8ebdb4769097cdb99d74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-673",
+          "title": "Add Styling",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5ddc1452d9aa4527819fa65c5fbe7ddd5dba21e3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-674",
+          "title": "Login after SignUp",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f3e70fc61df80cd797ffa9cefe98b012d29ca027.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-675",
+          "title": "post-Login Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/484cc634ef96ecefd832d8b088ce6c01971ca37d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-676",
+          "title": "Listing Owner",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d3bacf2ec35581de171c1f542d957ede6f6c077.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-677",
+          "title": "Starting with Authorization",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/87892a6a7c879d8c635f8a0705d7b3c589dcd6d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-678",
+          "title": "Authorization for /listings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/636b7366f9f7da28e58c1f5f1f8d2a453d19be0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-679",
+          "title": "Authorization for  /reviews (part1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21cc757656b4aa8ba94a3154b8b5adb69bfc7b76.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-680",
+          "title": "Authorization for /reviews (part2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f425a4d0e815fdd17ab6ecd78c29812352cebec0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 3 (Part a)",
+      "lectures": [
+        {
+          "id": "delta-5-681",
+          "title": "MVC - Model, View, Controller",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/350c63dfa76a273c34e4fc63bfee39aa12d7d169.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-682",
+          "title": "MVC for Listings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/35e7ef7e091321cdfbd4531f7d1f7598b4ac8fab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-683",
+          "title": "MVC for Reviews & Users",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcf16feab55cd5cdc4cccbd1e37a4a813d6ece7d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-684",
+          "title": "Router.route",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48a669ada1797d5835d4f20811eca27005f5e532.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-685",
+          "title": "Re-style Ratings",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca85dUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-686",
+          "title": "Image Upload",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f796ed89406767fa4f7aa047732f18876399443.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-687",
+          "title": "Manipulating Form",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0b34d022011f5d31cb33466d1db0a718c235ebb1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-688",
+          "title": "Cloud Setup",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b19af4c8e42ea0e3546a38adef286b4cb9d08f0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-689",
+          "title": "Store Files",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3a5ceb802dbf9045ffa59ccdeaf1ef5915023597.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-690",
+          "title": "Save Link in Mongo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/36d1c5f47c514d01988d1eba5ed6fe70556e060a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-691",
+          "title": "Display Image",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/071a67c100ec864258484dad006a3de8870ded82.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 3 (Part b)",
+      "lectures": [
+        {
+          "id": "delta-5-692",
+          "title": "Edit Listing Image",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c3c1b78927f083a26b1f7440e7863fd8a59d0bd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-693",
+          "title": "Image Preview for Edit Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d3bf0d753b66f55a2ffaa2c76b053da776fc125d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-694",
+          "title": "Getting Started with Maps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e07880b58420684fd4487f0d8f7e2a5289936d27.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-695",
+          "title": "Our First Map",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55ebdf6ba5c040062323c43ed184b1e36eab97d9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-696",
+          "title": "Geocoding",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8b7792ef2de2962572988f89a74a4e1a802a6b5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-697",
+          "title": "Storing Coordinates",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5ea5508c1645be659e9eb194360722247fb54065.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-698",
+          "title": "Map Marker",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43fb3d52edfe9fecd9fb39d4d52dd410da162159.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-699",
+          "title": "Map Popup",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9add851598b3101935f0ff06c9e8d613adb512d4.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 3 (Part c)",
+      "lectures": [
+        {
+          "id": "delta-5-700",
+          "title": "Fixing Home Page",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/42dc7ab1995abb75c89c72e542f8fd933d71a74a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-701",
+          "title": "Add UI for Filters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bbfc689a1993ce1dc8e30569b4a837b1bd544f5c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-702",
+          "title": "Add UI for Tax Switch",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/903053478d65d33c5094388039f1de1888bc4516.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-703",
+          "title": "Making Tax Switch Functional",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/95836bc3ed62f6a89e18fd291e4f3efbe681b2d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-704",
+          "title": "Add UI for Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4440ef72786b1a2e8bbe906a395584746c6d8c40.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Project - Phase 3 (Part d)",
+      "lectures": [
+        {
+          "id": "delta-5-705",
+          "title": "Using Mongo Atlas",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06cc42c9cb4def378569c0f4835d6da7ce408c6e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-706",
+          "title": "Mongo Session Store",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fda5cb739dcebf327b5f49cb16725858d7373a64.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-707",
+          "title": "Deployment with Render",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ad167217783295466453e4507e5f7cb136fd896a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-708",
+          "title": "Push code to Github",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/963871bdea78f4aab5f1187ae86ccfe4dd902e2f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-709",
+          "title": "Connect Render with Github",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ed126824488f301a58d9ae6f91f55108001c8e5d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-710",
+          "title": "Create New Service",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/414593d7aa1ec42d6a104429265a1d04fe3ea844.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 1)",
+      "lectures": [
+        {
+          "id": "delta-5-711",
+          "title": "What is React?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c46bdcff887574c87c7d763ee81b00f246661ca2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-712",
+          "title": "What is JSX?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5b03b91a58848384d51c0cf031d28a4eb01b3fe5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-713",
+          "title": "Set up Local Environment",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5f577783540eb0e4c1ecf398302dc567879002a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-714",
+          "title": "Understanding our App",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c029bb660492d10bb582e3e89fac95b70540dac.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-715",
+          "title": "Re-write App",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9b414b01cc0aed180646b1e851ebb7be80a733dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-716",
+          "title": "Our 1st Component",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5bda1140dff54a8a8db1e970141329de4ac1f377.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-717",
+          "title": "Import-Export",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a9b44489969c740ebd26fb8219df30ba737ed988.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-718",
+          "title": "Writing Markup in JSX",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7b1d603eea5f2ae91177307894954d54365ca54c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-719",
+          "title": "React Fragment",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11ffc440c16441b86cd86a0699ff547379123a4e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-720",
+          "title": "JSX with Curly Braces",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c25f848924983f17ce6c4118bcf29dea246b1bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-721",
+          "title": "Structuring Components",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca881Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-722",
+          "title": "Style Components",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca882Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 2)",
+      "lectures": [
+        {
+          "id": "delta-5-723",
+          "title": "React Props",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e36c0826d5f308651a35536dbed578bec107725f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-724",
+          "title": "Passing Arrays to Props",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/07eca2ddc0c4ee5600fa9d179a8b8f34d4e669b7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-725",
+          "title": "Rendering Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5ccdd97727a5137fab0366b13914dd9479047dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-726",
+          "title": "Conditionals",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/769dea33213b61a8de87f9b3ec9ffacf0281067b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-727",
+          "title": "Dynamic Component Styling",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1da3d00a42d556852f90fb744212a727820f2ac6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-728",
+          "title": "Activity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/03b9ad45a9bacb4f99ad83d83c6b0306e5d68c43.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-729",
+          "title": "Install React Developer Tools",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4e2f7b4ec24d0ef57299d2c107d25aa61fa3846.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 2) > Activity",
+      "lectures": [
+        {
+          "id": "delta-5-730",
+          "title": "Amazon Cards",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/180d8fbac90e49e0b5efec1f1ee646b67caa4247.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 3)",
+      "lectures": [
+        {
+          "id": "delta-5-731",
+          "title": "Handling Click Events",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca88bUnit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-732",
+          "title": "Handling Non-Click Events",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/71a3a11d29ecd7f2d3f515b9ce3352f0fca58c20.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-733",
+          "title": "Event Object",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a7bf130e690247ba6e55e55dc1e8ad66aaac105.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-734",
+          "title": "State in React",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9345c649f97a807a24c4c0eed382469bf167c14e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-735",
+          "title": "Hooks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5a74635af1403013f47c1ed4de6f3bcec9eb70d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-736",
+          "title": "useState( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b376c9ca638c4959986b83c39c400985602c2c2a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-738",
+          "title": "Closure in JS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f067c0472e4293f29df27511187fc2b593cd1cb4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-740",
+          "title": "Callback in Set State Function",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca894Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-741",
+          "title": "More about State",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0127e40ef1fe1c418e710dea326fa9620e0f111d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 3) > Activity",
+      "lectures": [
+        {
+          "id": "delta-5-737",
+          "title": "Create LikeButton",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/31fadd6f797aede425b77b25c1e502ca79045332.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 3) > Re-render",
+      "lectures": [
+        {
+          "id": "delta-5-739",
+          "title": "How does it work?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c131e2b179b8f9ac12e992ce4f430cfed6f1e882.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 4)",
+      "lectures": [
+        {
+          "id": "delta-5-742",
+          "title": "Objects & State",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/383e5b002c08a8740394d238ca8b04fa301cf836.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-743",
+          "title": "Arrays & State",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d526944d2e290b07eaec34f14501723d3445f51.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-745",
+          "title": "Unique Key for List Items",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3b43348a44f90436caa493a8f948309842340b0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-746",
+          "title": "Deleting from Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/64e252fad6701cbbb55cbeb75b7c53323e0e2201.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-747",
+          "title": "Update All in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f7acbcd4c3a2a6200f80d6e32d82528a97a2243.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-748",
+          "title": "Update One in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7b6c4157f3fb09d7b09c9a5e22f4ad429f76c633.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-749",
+          "title": "Add a \"Mark as Done\" Feature to Todo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5c0a8cfbf72b8c9fdabbac59b99f713727b9c1f1.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 4) > Activity",
+      "lectures": [
+        {
+          "id": "delta-5-744",
+          "title": "Create a Todo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4809c8b70990c7b901a7b2e2bb7aa06352db5f92.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 5)",
+      "lectures": [
+        {
+          "id": "delta-5-751",
+          "title": "Todo Solution - Mark as Done Feature",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc941aee0a0d336b994879a882cbe370ffd5a3dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-752",
+          "title": "Lottery Game (Part a)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/35329059be01212060b2ccc0f5695f3f96557dce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-753",
+          "title": "Lottery Game (Part b)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca8a1Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-754",
+          "title": "Changes to Lottery Game",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/883a5175dc34a9d7159fb95d1d758814de695d3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-755",
+          "title": "Component Types",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/80708d189243d0da992b050e3f5d6e20e591fcc5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-756",
+          "title": "Ticket Component",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f835ee158aea5a6107e3478d0b8a67b1e1f5e1c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-757",
+          "title": "Lottery Component",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a41426838c034c39ce61c4dde90fded307de9d33.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-758",
+          "title": "Functions as Props",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/27c2ff37593ad7a41741aee429909c78e5b31806.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Part 6)",
+      "lectures": [
+        {
+          "id": "delta-5-759",
+          "title": "Forms in React",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9d7785fab69188e9548a96a39ffaa2ea226ff1a9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-760",
+          "title": "Labels in React",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e67225722fe244dd7e536128c6b11f546db3d3ca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-761",
+          "title": "Handling Multiple Inputs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/778bdd7c832bd2bae2a967296bd389e222910a2d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-762",
+          "title": "Comments Form",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fd1316906c39c890544d77a1a337f1713332fdd5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-763",
+          "title": "Show Comments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/160c783ce15552f7e7e21f4929d336076b85fd6e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-764",
+          "title": "Validations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/91fa20d910a61a5cfb1ad792cbbac837aadf0de5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-765",
+          "title": "useEffect( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cce4e064216d5291010e9221b6ef1fb1d420d606.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-766",
+          "title": "Dependencies in useEffect( )",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5def4273b0ea49db9be08284c97f626749859e03.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-767",
+          "title": "Use Cases",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/74b1240a0e94b2b2bc6781ec55dd4f8581aa99ae.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "React (Major-Project)",
+      "lectures": [
+        {
+          "id": "delta-5-768",
+          "title": "Material UI",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/232ab7a3e0dea5d7dd33d9233583299dc76c6563.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-769",
+          "title": "Building Search Box",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2bb9f83128642547ade763e872fa7497d817cd50.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-770",
+          "title": "Using Weather API",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/13e66ecf7c33e2c3d14342708a82210922bfe869.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-771",
+          "title": "Building Info Box",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395c4c764ca4230ca8b3Unit",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-772",
+          "title": "Weather App Component",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6014e6e9fd5a225320fbf49294758a558c1bdd2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-773",
+          "title": "Added Feature",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5ecbfe34a7e60e155ca9e877bd21e2b7ce544ffe.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Tailwind",
+      "lectures": [
+        {
+          "id": "delta-5-774",
+          "title": "Introduction to Tailwind",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a113969889479dead068f12c48ec85b2a0b4c70d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-775",
+          "title": "Tailwind CLI",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d90ec9318a160a8e5bfb8e6062a400728aea108b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-776",
+          "title": "Typography & Styling",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/17d76974da14197621f0534317f8e015676469bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-777",
+          "title": "Colors & Spacing",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2341c5f3995a8953f54935f39c056bd5962972be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-778",
+          "title": "Breakpoints in Tailwind",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5700dbd8b8006040567fe146b8a28c0636e6ca9b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-779",
+          "title": "Apply Directive",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/505378bb0b33aafbc5019ae584cbfa64e3d845bd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-780",
+          "title": "Design a Card in Tailwind",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0079af17d25e68b00d627a1baaca8568ae0bff3.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Supplement > Redux & Redux Toolkit",
+      "lectures": [
+        {
+          "id": "delta-5-781",
+          "title": "What is Redux?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9272bc89d9446a839518f0a66b190cebbd9e9693.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-782",
+          "title": "Understanding Terms",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/67c5f54302ad7ea559c07b3dec0f86724e20fa38.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-783",
+          "title": "Setup Project",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/971c31a76de95327cd1042a04b95da0addffc076.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-784",
+          "title": "Configuring Store",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5584d63c0ca9a3accbbaa1ae876cfae29862bcbf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-785",
+          "title": "Deciding Actions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b33844009f8681465d0ed1e1574df1bcdbedfb50.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-786",
+          "title": "Creating Reducers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b029b2271c7eeea0a8d568cf45a6cf4b4c46db08.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-787",
+          "title": "Todo Component (Provider & useSelector)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/72c5fefe46c8776b1e058a32ac92df888d69e404.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-788",
+          "title": "AddTodo (Dispatching Actions)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca331c12d88776caefd9e1fc3d6ed9d2eb65a916.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "delta-5-789",
+          "title": "Delete Todo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/00caa01154ec370e3a617e9f5fb7a2c669fe365a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Certificate of Completion",
+      "lectures": [
+        {
+          "id": "delta-5-790",
+          "title": "Certificate of Completion (certificateCompletion_v2)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=delta-5&unit=6716395d4c764ca4230ca8c7Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

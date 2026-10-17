@@ -218,7 +218,10 @@ class BatchWizardManager:
                 InlineKeyboardButton("📋 Batch Jobs", callback_data="admin:jobs")
             ],
             [
-                InlineKeyboardButton("🎬 YouTube Accounts", callback_data="admin:youtube_accounts"),
+                InlineKeyboardButton("📱 Manage Apps & Batches", callback_data="manage:apps_list"),
+                InlineKeyboardButton("🎬 YouTube Accounts", callback_data="admin:youtube_accounts")
+            ],
+            [
                 InlineKeyboardButton("📜 Logs", callback_data="admin:logs")
             ],
             [

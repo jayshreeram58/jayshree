@@ -1,6 +1,7 @@
 import os
 import re
 import time
+import uuid
 import logging
 import asyncio
 import urllib.parse
@@ -24,7 +25,7 @@ from config.settings import (
 )
 from db.connection import get_db_session
 from db.repository import ContentRepository, slugify
-from db.models import JobStatus, PublicationStatus, VideoStorageStatus, VideoStorage
+from db.models import JobStatus, PublicationStatus, VideoStorageStatus, VideoStorage, App, Batch
 from parsers.indexer import TxtIndexer, NormalizedBatchTree
 from engines.job_engine import ContentProcessingEngine, BatchJobController
 from engines.youtube_account_manager import YouTubeAccountManager
@@ -52,6 +53,9 @@ _yt_oauth_pending_sessions: Dict[int, Dict[str, Any]] = {}
 
 # State tracking for users in interactive storage channel configuration
 _waiting_for_channel_id: Dict[int, bool] = {}
+
+# State tracking for interactive App & Batch editing
+_app_manage_state: Dict[int, Dict[str, Any]] = {}
 
 
 async def publish_video_to_telegram_stream_and_db(
@@ -428,6 +432,126 @@ async def run_init_animation(message: Message) -> bool:
         except Exception:
             pass
     return True
+
+
+def render_apps_manage_list(apps: List[App]) -> Tuple[str, InlineKeyboardMarkup]:
+    text = (
+        "📱 <b>COURSE WALLAH — APP & BATCH MANAGER</b>\n"
+        "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+        f"Found <b>{len(apps)}</b> active learning platform(s) in your portal.\n\n"
+        "👉 <i>Select an App below to change its Name, Icon, Description, or edit Batches & Thumbnails:</i>"
+    )
+    rows = []
+    for a in apps:
+        b_count = len(a.batches) if a.batches else 0
+        rows.append([InlineKeyboardButton(f"📱 {a.name} ({b_count} Batches)", callback_data=f"manage:app:{a.id}")])
+
+    rows.append([InlineKeyboardButton("➕ Create New App", callback_data="wizard:step_create_app")])
+    rows.append([
+        InlineKeyboardButton("👑 Admin Panel", callback_data="admin:dashboard"),
+        InlineKeyboardButton("❌ Close", callback_data="admin:close")
+    ])
+    return text, InlineKeyboardMarkup(rows)
+
+
+def render_app_manage_detail(app: App) -> Tuple[str, InlineKeyboardMarkup]:
+    b_count = len(app.batches) if app.batches else 0
+    icon_str = f"<code>{app.icon_url}</code>" if app.icon_url else "<i>Default / None</i>"
+    desc_str = f"<i>{app.description}</i>" if app.description else "<i>No description set</i>"
+    text = (
+        f"📱 <b>APP MANAGEMENT: {app.name}</b>\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+        f"🏷️ <b>Name:</b> <b>{app.name}</b>\n"
+        f"🔗 <b>Slug:</b> <code>{app.slug}</code>\n"
+        f"🖼️ <b>Icon URL:</b> {icon_str}\n"
+        f"📝 <b>Description:</b> {desc_str}\n"
+        f"📦 <b>Total Batches:</b> <b>{b_count}</b>\n"
+        f"🟢 <b>Status:</b> {app.status}\n\n"
+        f"👇 <i>Choose an action to update this App or edit batch thumbnails:</i>"
+    )
+    buttons = [
+        [
+            InlineKeyboardButton("✏️ Rename App", callback_data=f"manage:rename_app:{app.id}"),
+            InlineKeyboardButton("🖼️ Change Icon", callback_data=f"manage:icon_app:{app.id}")
+        ],
+        [
+            InlineKeyboardButton("📝 Edit Description", callback_data=f"manage:desc_app:{app.id}"),
+            InlineKeyboardButton(f"📚 View Batches ({b_count})", callback_data=f"manage:batches:{app.id}:0")
+        ],
+        [
+            InlineKeyboardButton("⬅️ Back to All Apps", callback_data="manage:apps_list"),
+            InlineKeyboardButton("👑 Admin Panel", callback_data="admin:dashboard")
+        ]
+    ]
+    return text, InlineKeyboardMarkup(buttons)
+
+
+def render_batches_manage_list(app: App, batches: List[Batch], page: int = 0, per_page: int = 8) -> Tuple[str, InlineKeyboardMarkup]:
+    total_batches = len(batches)
+    total_pages = max(1, (total_batches + per_page - 1) // per_page)
+    page = max(0, min(page, total_pages - 1))
+
+    start_idx = page * per_page
+    end_idx = min(start_idx + per_page, total_batches)
+    page_batches = batches[start_idx:end_idx]
+
+    text = (
+        f"📚 <b>BATCHES FOR: {app.name}</b>\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+        f"Showing {start_idx + 1}–{end_idx} of <b>{total_batches}</b> batch(es) (Page {page + 1}/{total_pages}).\n\n"
+        f"👉 <i>Click on any batch to change its Thumbnail photo, Name, or Category:</i>"
+    )
+    rows = []
+    for b in page_batches:
+        thumb_indicator = "🖼️" if b.thumbnail_url else "📁"
+        title = b.name[:36] + ("..." if len(b.name) > 36 else "")
+        rows.append([InlineKeyboardButton(f"{thumb_indicator} {title}", callback_data=f"manage:batch:{b.id}")])
+
+    nav_row = []
+    if page > 0:
+        nav_row.append(InlineKeyboardButton("⬅️ Prev", callback_data=f"manage:batches:{app.id}:{page - 1}"))
+    nav_row.append(InlineKeyboardButton(f"📄 {page + 1}/{total_pages}", callback_data=f"manage:batches:{app.id}:{page}"))
+    if page < total_pages - 1:
+        nav_row.append(InlineKeyboardButton("Next ➡️", callback_data=f"manage:batches:{app.id}:{page + 1}"))
+    if nav_row:
+        rows.append(nav_row)
+
+    rows.append([
+        InlineKeyboardButton(f"⬅️ Back to {app.name[:18]}", callback_data=f"manage:app:{app.id}"),
+        InlineKeyboardButton("📱 All Apps", callback_data="manage:apps_list")
+    ])
+    return text, InlineKeyboardMarkup(rows)
+
+
+def render_batch_manage_detail(app: App, batch: Batch) -> Tuple[str, InlineKeyboardMarkup]:
+    thumb_str = f"<code>{batch.thumbnail_url}</code>" if batch.thumbnail_url else "<i>No custom thumbnail (using default)</i>"
+    cat_str = batch.category or "General"
+    sub_count = len(batch.subjects) if batch.subjects else 0
+    text = (
+        f"📦 <b>BATCH MANAGEMENT</b>\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+        f"📱 <b>App:</b> <b>{app.name}</b>\n"
+        f"🏷️ <b>Batch Name:</b> <b>{batch.name}</b>\n"
+        f"🗂️ <b>Category:</b> <b>{cat_str}</b>\n"
+        f"🖼️ <b>Thumbnail URL:</b>\n{thumb_str}\n"
+        f"📚 <b>Subjects:</b> {sub_count}\n"
+        f"🎬 <b>Preferred Quality:</b> {batch.video_quality_preference or '1080p'}\n\n"
+        f"👇 <i>Choose an action to customize this batch:</i>"
+    )
+    buttons = [
+        [
+            InlineKeyboardButton("🖼️ Set / Change Thumbnail", callback_data=f"manage:thumb_batch:{batch.id}"),
+            InlineKeyboardButton("✏️ Rename Batch", callback_data=f"manage:rename_batch:{batch.id}")
+        ],
+        [
+            InlineKeyboardButton("🏷️ Change Category", callback_data=f"manage:cat_batch:{batch.id}"),
+            InlineKeyboardButton("⬅️ Back to Batches", callback_data=f"manage:batches:{app.id}:0")
+        ],
+        [
+            InlineKeyboardButton(f"📱 Back to {app.name[:20]}", callback_data=f"manage:app:{app.id}")
+        ]
+    ]
+    return text, InlineKeyboardMarkup(buttons)
 
 
 def register_handlers(app: Client):
@@ -1451,6 +1575,191 @@ def register_handlers(app: Client):
         except Exception as exc:
             logger.exception("Error in /admin command: %s", exc)
             await message.reply_text("❌ Failed to open admin dashboard.")
+
+    # ==========================================
+    # 4B. COMMANDS: /APPS, /EDITAPP, /MANAGEAPPS
+    # ==========================================
+    async def render_apps_list(client: Client, chat_id: int, message_id: Optional[int] = None):
+        async with get_db_session() as session:
+            from sqlalchemy import select
+            from sqlalchemy.orm import selectinload
+            res = await session.execute(select(App).options(selectinload(App.batches)).order_by(App.name))
+            apps = res.scalars().all()
+
+        text = (
+            "📱 <b>COURSE WALLAH — APPS & PLATFORMS MANAGER</b>\n"
+            "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+            "Select an application below to edit its name, icon/image, description, or manage its batches & thumbnails:\n\n"
+            f"• <b>Total Platforms Registered:</b> {len(apps)}\n"
+        )
+        buttons = []
+        for a in apps:
+            b_count = len(a.batches) if a.batches else 0
+            buttons.append([InlineKeyboardButton(f"📱 {a.name} ({b_count} Batches)", callback_data=f"manage:app:{a.id}")])
+
+        buttons.append([InlineKeyboardButton("👑 Admin Panel", callback_data="admin:dashboard"), InlineKeyboardButton("❌ Close", callback_data="admin:close")])
+        markup = InlineKeyboardMarkup(buttons)
+        if message_id:
+            try:
+                await client.edit_message_text(chat_id, message_id, text, reply_markup=markup)
+                return
+            except Exception:
+                pass
+        await client.send_message(chat_id, text, reply_markup=markup)
+
+    async def render_app_detail(client: Client, chat_id: int, app_id: str, message_id: Optional[int] = None):
+        async with get_db_session() as session:
+            from sqlalchemy import select
+            from sqlalchemy.orm import selectinload
+            res = await session.execute(select(App).options(selectinload(App.batches)).where(App.id == app_id))
+            app_obj = res.scalar_one_or_none()
+            if not app_obj:
+                await client.send_message(chat_id, "❌ App not found.")
+                return
+
+        batches_count = len(app_obj.batches) if app_obj.batches else 0
+        icon_preview = f"\n🖼 <b>Icon URL:</b> <code>{app_obj.icon_url}</code>" if app_obj.icon_url else "\n🖼 <b>Icon:</b> <i>Default Logo</i>"
+        desc_preview = f"\n📝 <b>Description:</b> {app_obj.description}" if app_obj.description else ""
+
+        text = (
+            f"📱 <b>APP PROFILE: {app_obj.name}</b>\n"
+            f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+            f"• <b>App ID:</b> <code>{app_obj.id}</code>\n"
+            f"• <b>Slug:</b> <code>{app_obj.slug}</code>\n"
+            f"• <b>Status:</b> {app_obj.status or 'ACTIVE'}\n"
+            f"• <b>Total Batches:</b> {batches_count}"
+            f"{icon_preview}"
+            f"{desc_preview}\n\n"
+            f"<i>Select an option below to update this app or customize batch thumbnails:</i>"
+        )
+
+        markup = InlineKeyboardMarkup([
+            [
+                InlineKeyboardButton("✏️ Rename App", callback_data=f"manage:rename_app:{app_obj.id}"),
+                InlineKeyboardButton("🖼 Change Icon / Image", callback_data=f"manage:icon_app:{app_obj.id}")
+            ],
+            [
+                InlineKeyboardButton("📝 Edit Description", callback_data=f"manage:desc_app:{app_obj.id}"),
+                InlineKeyboardButton(f"📦 Manage Batches ({batches_count})", callback_data=f"manage:batches:{app_obj.id}:0")
+            ],
+            [
+                InlineKeyboardButton("⬅️ Back to Apps List", callback_data="manage:apps_list")
+            ]
+        ])
+
+        if message_id:
+            try:
+                await client.edit_message_text(chat_id, message_id, text, reply_markup=markup)
+                return
+            except Exception:
+                pass
+        await client.send_message(chat_id, text, reply_markup=markup)
+
+    async def render_batches_list(client: Client, chat_id: int, app_id: str, page: int = 0, message_id: Optional[int] = None):
+        PAGE_SIZE = 8
+        async with get_db_session() as session:
+            from sqlalchemy import select
+            res = await session.execute(select(App).where(App.id == app_id))
+            app_obj = res.scalar_one_or_none()
+            if not app_obj:
+                await client.send_message(chat_id, "❌ App not found.")
+                return
+
+            b_res = await session.execute(select(Batch).where(Batch.app_id == app_id).order_by(Batch.name))
+            batches = b_res.scalars().all()
+
+        total_batches = len(batches)
+        total_pages = max(1, (total_batches + PAGE_SIZE - 1) // PAGE_SIZE)
+        page = max(0, min(page, total_pages - 1))
+
+        start = page * PAGE_SIZE
+        page_batches = batches[start:start + PAGE_SIZE]
+
+        text = (
+            f"📦 <b>BATCHES FOR: {app_obj.name}</b>\n"
+            f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+            f"Page {page + 1} of {total_pages} (Total: {total_batches} batches)\n\n"
+            f"<i>Tap any batch to view details or change its thumbnail image:</i>\n"
+        )
+
+        buttons = []
+        for b in page_batches:
+            buttons.append([InlineKeyboardButton(f"📦 {b.name[:38]}", callback_data=f"manage:batch:{b.id}:{app_id}")])
+
+        nav_row = []
+        if page > 0:
+            nav_row.append(InlineKeyboardButton("⬅️ Prev", callback_data=f"manage:batches:{app_id}:{page - 1}"))
+        if page < total_pages - 1:
+            nav_row.append(InlineKeyboardButton("Next ➡️", callback_data=f"manage:batches:{app_id}:{page + 1}"))
+
+        if nav_row:
+            buttons.append(nav_row)
+
+        buttons.append([InlineKeyboardButton("⬅️ Back to App Details", callback_data=f"manage:app:{app_id}")])
+        markup = InlineKeyboardMarkup(buttons)
+
+        if message_id:
+            try:
+                await client.edit_message_text(chat_id, message_id, text, reply_markup=markup)
+                return
+            except Exception:
+                pass
+        await client.send_message(chat_id, text, reply_markup=markup)
+
+    async def render_batch_detail(client: Client, chat_id: int, batch_id: str, app_id: str, message_id: Optional[int] = None):
+        async with get_db_session() as session:
+            from sqlalchemy import select
+            res = await session.execute(select(Batch).where(Batch.id == batch_id))
+            batch = res.scalar_one_or_none()
+            if not batch:
+                await client.send_message(chat_id, "❌ Batch not found.")
+                return
+
+        thumb_preview = f"\n🖼 <b>Thumbnail:</b> <code>{batch.thumbnail_url}</code>" if batch.thumbnail_url else "\n🖼 <b>Thumbnail:</b> <i>None</i>"
+
+        text = (
+            f"📦 <b>BATCH DETAILS: {batch.name}</b>\n"
+            f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+            f"• <b>Batch ID:</b> <code>{batch.id}</code>\n"
+            f"• <b>Slug:</b> <code>{batch.slug}</code>\n"
+            f"• <b>Category:</b> {batch.category or 'General'}\n"
+            f"• <b>Branch:</b> {batch.branch or 'N/A'}\n"
+            f"• <b>Year:</b> {batch.academic_year or '2025-2026'}\n"
+            f"• <b>Status:</b> {batch.status or 'ACTIVE'}"
+            f"{thumb_preview}\n\n"
+            f"<i>Select an option below to change the batch thumbnail or rename it:</i>"
+        )
+
+        markup = InlineKeyboardMarkup([
+            [
+                InlineKeyboardButton("🖼 Change Batch Thumbnail", callback_data=f"manage:thumb_batch:{batch.id}:{app_id}"),
+                InlineKeyboardButton("✏️ Rename Batch", callback_data=f"manage:rename_batch:{batch.id}:{app_id}")
+            ],
+            [
+                InlineKeyboardButton("🏷 Change Category", callback_data=f"manage:cat_batch:{batch.id}:{app_id}"),
+                InlineKeyboardButton("⬅️ Back to Batches", callback_data=f"manage:batches:{app_id}:0")
+            ]
+        ])
+
+        if message_id:
+            try:
+                await client.edit_message_text(chat_id, message_id, text, reply_markup=markup)
+                return
+            except Exception:
+                pass
+        await client.send_message(chat_id, text, reply_markup=markup)
+
+    @app.on_message(filters.command(["apps", "editapp", "manageapps"]) & filters.private)
+    async def cmd_manage_apps(client: Client, message: Message):
+        try:
+            user_id = message.from_user.id if message.from_user else 0
+            if not is_admin(user_id):
+                await message.reply_text("⛔ <b>ADMIN ONLY</b>")
+                return
+            await render_apps_list(client, message.chat.id, None)
+        except Exception as exc:
+            logger.exception("Error in /apps command: %s", exc)
+            await message.reply_text("❌ Failed to open Apps Manager.")
 
     # ==========================================
     # 5. COMMANDS: /BATCH & /UPLOADBATCH
@@ -2477,6 +2786,67 @@ def register_handlers(app: Client):
                 )
                 return
 
+        # 3. Check if user is in interactive App / Batch management mode
+        if user_id in _app_manage_state:
+            manage_task = _app_manage_state.pop(user_id)
+            action = manage_task.get("action")
+            app_id = manage_task.get("app_id")
+            batch_id = manage_task.get("batch_id")
+
+            if action == "RENAME_APP":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_app(app_id, name=text)
+                    await session.commit()
+                await message.reply_text(f"✅ App name successfully updated to <b>{text}</b>!")
+                await render_app_detail(client, message.chat.id, app_id, None)
+                return
+
+            elif action == "EDIT_APP_DESC":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_app(app_id, description=text)
+                    await session.commit()
+                await message.reply_text("✅ App description updated successfully!")
+                await render_app_detail(client, message.chat.id, app_id, None)
+                return
+
+            elif action == "SET_APP_ICON":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_app(app_id, icon_url=text)
+                    await session.commit()
+                await message.reply_text(f"✅ App icon/image updated successfully!\n<code>{text}</code>")
+                await render_app_detail(client, message.chat.id, app_id, None)
+                return
+
+            elif action == "RENAME_BATCH":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_batch(batch_id, name=text)
+                    await session.commit()
+                await message.reply_text(f"✅ Batch renamed to <b>{text}</b>!")
+                await render_batch_detail(client, message.chat.id, batch_id, app_id, None)
+                return
+
+            elif action == "SET_BATCH_CAT":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_batch(batch_id, category=text)
+                    await session.commit()
+                await message.reply_text(f"✅ Batch category updated to <b>{text}</b>!")
+                await render_batch_detail(client, message.chat.id, batch_id, app_id, None)
+                return
+
+            elif action == "SET_BATCH_THUMB":
+                async with get_db_session() as session:
+                    repo = ContentRepository(session)
+                    await repo.update_batch(batch_id, thumbnail_url=text)
+                    await session.commit()
+                await message.reply_text(f"✅ Batch thumbnail URL updated!\n<code>{text}</code>")
+                await render_batch_detail(client, message.chat.id, batch_id, app_id, None)
+                return
+
         state = BatchWizardManager.get_session(processing_engine.bot_id, user_id)
         if not state or not state.text_input_prompt:
             return
@@ -2605,6 +2975,57 @@ def register_handlers(app: Client):
         except Exception as exc:
             logger.exception("Error processing wizard text input: %s", exc)
             await message.reply_text("❌ Error processing input. Please try again.")
+
+    # ==========================================
+    # 8.5 PHOTO INPUT LISTENER (FOR APP ICON & BATCH THUMBNAIL UPLOADS)
+    # ==========================================
+    @app.on_message(filters.photo & filters.private)
+    async def handle_photo_inputs(client: Client, message: Message):
+        user_id = message.from_user.id if message.from_user else 0
+        if not is_admin(user_id):
+            return
+
+        if user_id in _app_manage_state:
+            manage_task = _app_manage_state.pop(user_id)
+            action = manage_task.get("action")
+            app_id = manage_task.get("app_id")
+            batch_id = manage_task.get("batch_id")
+
+            wait_msg = await message.reply_text("⏳ <i>Downloading photo and saving to website assets...</i>")
+
+            from config.settings import BASE_DIR
+            uploads_dir = BASE_DIR / "web" / "public" / "uploads"
+            uploads_dir.mkdir(parents=True, exist_ok=True)
+
+            photo_filename = f"img_{uuid.uuid4().hex[:12]}.jpg"
+            target_path = uploads_dir / photo_filename
+
+            try:
+                await message.download(file_name=str(target_path))
+                relative_url = f"/uploads/{photo_filename}"
+
+                if action == "SET_APP_ICON":
+                    async with get_db_session() as session:
+                        repo = ContentRepository(session)
+                        await repo.update_app(app_id, icon_url=relative_url)
+                        await session.commit()
+                    await wait_msg.edit_text(f"🎉 <b>APP ICON UPDATED!</b>\n\nPhoto saved and set as App icon:\n<code>{relative_url}</code>")
+                    await render_app_detail(client, message.chat.id, app_id, None)
+                    return
+                elif action == "SET_BATCH_THUMB":
+                    async with get_db_session() as session:
+                        repo = ContentRepository(session)
+                        await repo.update_batch(batch_id, thumbnail_url=relative_url)
+                        await session.commit()
+                    await wait_msg.edit_text(f"🎉 <b>BATCH THUMBNAIL UPDATED!</b>\n\nPhoto saved and set as Batch thumbnail:\n<code>{relative_url}</code>")
+                    await render_batch_detail(client, message.chat.id, batch_id, app_id, None)
+                    return
+            except Exception as dl_err:
+                logger.exception("Failed to download image: %s", dl_err)
+                await wait_msg.edit_text(f"❌ Failed to download photo: {dl_err}")
+                return
+
+        await message.reply_text("📸 Photo received! If you want to use this as an App Icon or Batch Thumbnail, use /apps to select the App or Batch first.")
 
     # ==========================================
     # 9. CENTRAL CALLBACK QUERY ROUTER (STRICT ADMIN AUTH)
@@ -2922,6 +3343,120 @@ def register_handlers(app: Client):
             if data == "admin:close":
                 await callback.answer()
                 await callback.message.delete()
+                return
+
+            # ----------------------------------------------------
+            # APP & BATCH MANAGEMENT CALLBACKS
+            # ----------------------------------------------------
+            if data == "manage:apps_list":
+                await callback.answer()
+                await render_apps_list(client, callback.message.chat.id, callback.message.id)
+                return
+
+            if data.startswith("manage:app:"):
+                app_id = data.split("manage:app:")[1]
+                await callback.answer()
+                await render_app_detail(client, callback.message.chat.id, app_id, callback.message.id)
+                return
+
+            if data.startswith("manage:batches:"):
+                parts = data.split("manage:batches:")[1].split(":")
+                app_id = parts[0]
+                page = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 0
+                await callback.answer()
+                await render_batches_list(client, callback.message.chat.id, app_id, page, callback.message.id)
+                return
+
+            if data.startswith("manage:batch:"):
+                parts = data.split("manage:batch:")[1].split(":")
+                batch_id = parts[0]
+                app_id = parts[1] if len(parts) > 1 else ""
+                await callback.answer()
+                await render_batch_detail(client, callback.message.chat.id, batch_id, app_id, callback.message.id)
+                return
+
+            if data.startswith("manage:rename_app:"):
+                app_id = data.split("manage:rename_app:")[1]
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "RENAME_APP", "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:app:{app_id}")]])
+                await callback.message.edit_text(
+                    "✏️ <b>RENAME APP</b>\n\n"
+                    "Please reply with the <b>New Name</b> for this App:",
+                    reply_markup=markup
+                )
+                return
+
+            if data.startswith("manage:icon_app:"):
+                app_id = data.split("manage:icon_app:")[1]
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "SET_APP_ICON", "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:app:{app_id}")]])
+                await callback.message.edit_text(
+                    "🖼️ <b>CHANGE APP ICON / IMAGE</b>\n\n"
+                    "Please send a <b>photo directly</b> in Telegram or reply with a <b>public image URL</b> for this App icon:",
+                    reply_markup=markup
+                )
+                return
+
+            if data.startswith("manage:desc_app:"):
+                app_id = data.split("manage:desc_app:")[1]
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "EDIT_APP_DESC", "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:app:{app_id}")]])
+                await callback.message.edit_text(
+                    "📝 <b>EDIT APP DESCRIPTION</b>\n\n"
+                    "Please reply with the <b>New Description</b> for this App:",
+                    reply_markup=markup
+                )
+                return
+
+            if data.startswith("manage:thumb_batch:"):
+                parts = data.split("manage:thumb_batch:")[1].split(":")
+                batch_id = parts[0]
+                app_id = parts[1] if len(parts) > 1 else ""
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "SET_BATCH_THUMB", "batch_id": batch_id, "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:batch:{batch_id}:{app_id}")]])
+                await callback.message.edit_text(
+                    "🖼️ <b>CHANGE BATCH THUMBNAIL</b>\n\n"
+                    "Please send a <b>photo directly</b> in Telegram or reply with a <b>public image URL</b> (JPG/PNG/WebP) for this batch thumbnail:",
+                    reply_markup=markup
+                )
+                return
+
+            if data.startswith("manage:rename_batch:"):
+                parts = data.split("manage:rename_batch:")[1].split(":")
+                batch_id = parts[0]
+                app_id = parts[1] if len(parts) > 1 else ""
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "RENAME_BATCH", "batch_id": batch_id, "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:batch:{batch_id}:{app_id}")]])
+                await callback.message.edit_text(
+                    "✏️ <b>RENAME BATCH</b>\n\n"
+                    "Please reply with the <b>New Name</b> for this batch:",
+                    reply_markup=markup
+                )
+                return
+
+            if data.startswith("manage:cat_batch:"):
+                parts = data.split("manage:cat_batch:")[1].split(":")
+                batch_id = parts[0]
+                app_id = parts[1] if len(parts) > 1 else ""
+                await callback.answer()
+                _app_manage_state[user_id] = {"action": "SET_BATCH_CAT", "batch_id": batch_id, "app_id": app_id}
+                markup = InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cancel", callback_data=f"manage:batch:{batch_id}:{app_id}")]])
+                await callback.message.edit_text(
+                    "🏷️ <b>CHANGE BATCH CATEGORY</b>\n\n"
+                    "Please reply with the <b>New Category</b> (e.g. Engineering, Railway, UPSC, SSC, Web Development):",
+                    reply_markup=markup
+                )
+                return
+
+            if data == "manage:cancel":
+                await callback.answer()
+                _app_manage_state.pop(user_id, None)
+                await render_apps_list(client, callback.message.chat.id, callback.message.id)
                 return
 
             # ----------------------------------------------------

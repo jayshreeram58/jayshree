@@ -1,0 +1,4210 @@
+{
+  "platform": "ApnaCollege",
+  "batchId": "sigma-11",
+  "batchName": "Sigma 11.0",
+  "thumbnail": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/a592a05df20f1e645643849fea5e7ff6.jpg",
+  "portalUrl": "https://www.apnacollege.in/courses/sigma-11",
+  "totalSections": 57,
+  "totalLectures": 557,
+  "totalNotes": 80,
+  "updatedAt": "2026-10-17T09:59:16.931504+00:00",
+  "sections": [
+    {
+      "sectionName": "Welcome to Sigma 11.0!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "sigma-11-1",
+          "title": "Curriculum",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Sigma11 Curriculum Feb26.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-2",
+          "title": "Fill your details",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Welcome PDF Sigma11.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Important - Join Telegram!",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "sigma-11-3",
+          "title": "Telegram Channel Link",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Telegram Link Sigma11.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Core Subjects (Study Material)",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "sigma-11-4",
+          "title": "Object Oriented Programming",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Notes.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-5",
+          "title": "Database Management System",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DBMS Notes.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-6",
+          "title": "Computer Networking",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Computer Networks Notes.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-7",
+          "title": "Operating System",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operating System Notes.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Live Session (Recordings)",
+      "lectures": [
+        {
+          "id": "sigma-11-9",
+          "title": "Orientation Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc01806eb13c2b5824841ec035b65de2e5a45d22.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-10",
+          "title": "Live Session (Notes & Platforms)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da7fc5aeceae9e273c45d3c3a1d520d2b4f88087.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-11",
+          "title": "LinkedIn Mentorship Session by Aman Sir",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fa5413d970042ae7f536acb70b9447203dc4ac00.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-13",
+          "title": "GSoC Mentorship Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff94ff6240681f126e7aade449fbbbfc9d4d4180.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-14",
+          "title": "Resume Building Mentorship Session",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa094a54569258688cb32bf4432cb0502e8ad6a4.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-8",
+          "title": "Link to Orientation Session",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Orientation Session Sigma11.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-12",
+          "title": "Feedback form for GSoC Session",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/GSoC Mentorship session_ Feedback form.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Practice Session (Recordings)",
+      "lectures": [
+        {
+          "id": "sigma-11-15",
+          "title": "Practice Session 1",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/502dd27118882d97cab56c7963fb9fe2c98c6a12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-16",
+          "title": "Practice Session 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0c75fadd5917f9f75b3da283b2ce9c4bbb7edaf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-17",
+          "title": "Practice Session 3",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c19959bd74c6ee41f27c2cd8ae0922c4474fb477.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-18",
+          "title": "Practice Session 4",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5c9fd721049f76f816e62a27ddd194bebecc30e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-19",
+          "title": "Practice Session 5",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7fe62f4d375374b6cb27204c0da7ec8c41b983d1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-20",
+          "title": "Practice Session 6",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a4af79115c9e55f63ab0964178278e2bd24f0923.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-21",
+          "title": "Practice Session 7",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e98628ec60c66226754dd7e1631d03dbd4c5c6ec.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-22",
+          "title": "Practice Session 8",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f427f9631fb0ed3d7013612d0d6595d5ffc3133a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-23",
+          "title": "Practice Session 9",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e17ddda7654c5f2315b60b882fb95da67e6273e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-24",
+          "title": "Practice Session 10",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a188d2a46f6732418fae35c5c4b8649b72c1b0eb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-25",
+          "title": "Practice Session 11",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e4d6763ec8573f59dfd9c294898d273f634db3c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-26",
+          "title": "Practice Session 12",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/649f712f4935b7e2eb4beca3b44af5b45d0b85b5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-27",
+          "title": "Practice Session 13",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f3aa9d0373f5facef8b0951da58667334834f208.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-28",
+          "title": "Practice Session 14",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/617134f4d2ea42c179ae8b1e25f55d4e8fa5a8a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-29",
+          "title": "Practice Session 15",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f3aa9d0373f5facef8b0951da58667334834f208.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-30",
+          "title": "Practice Session 16",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/af59d711fea074caac6eda3292f29b6fe1c3e02e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-31",
+          "title": "Practice Session 17",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/68cf1649c67bcd8a5ce90851f45e77d0bda2c33c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-32",
+          "title": "Practice Session 18",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2bfcb607139b7b228208e0eead91b8b22c156fa8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-33",
+          "title": "Practice Session 19",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/846927ecc6beba76112cc34aaa37ec190cc3aff6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-34",
+          "title": "Practice Session 20",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e061120e10cc1c271c4e17d43ecfe0878ef88417.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-35",
+          "title": "Practice Session 21",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/34c8c1549fe6d3d4fab48594035eca7639c65a37.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-36",
+          "title": "Practice Session 22",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdca89f1ac5edd7f7ed35b3701d5bfe594872305.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-37",
+          "title": "Practice Session 23",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8075011bc02de7308d2a1b96dfa04d85cc0841d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-38",
+          "title": "Practice Session 24",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab50974907af4cc475adff30d15248206098b6c6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-39",
+          "title": "Practice Session 25",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e6ec8945ad34a3941d0038a65ab4c7ad1d517b61.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-40",
+          "title": "Practice Session 26",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8734cb3b0c27b2b1619bd0f12a51ec834df9f90b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-41",
+          "title": "Practice Session 27",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc4dbddacf1daf841931865ec6a906e97b23d20f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-42",
+          "title": "Practice Session 28",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5ecb7962c5f11dcc278da826843c9da5a9901628.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-43",
+          "title": "Practice Session 29",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3bd124ae7ab5b6e2993b39894e3e38629b2b3896.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-44",
+          "title": "Practice Session 30",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df449d7e2657bb456edd02b411fe1e6496bef36b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-45",
+          "title": "Practice Session 31",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/785ead1ae65d8aacc743cb024c6e596cdb41cce2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-46",
+          "title": "Practice Session 32",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0a93356bc7a7c8cfdce9b4f02d8feb291a7109b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-47",
+          "title": "Practice Session 33",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/149fbe8970d6208a7b0fbbe6e245e7252700b501.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-48",
+          "title": "Practice Session 34",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fef1fcc78f5a7ef8b8e554f475bf1bf8dc43fe8e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-49",
+          "title": "Practice Session 35",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b1e8569657f0d197a19db2c11a748f06d9067854.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-50",
+          "title": "Practice Session 36",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f197163d9992aa3513e1e6b333d5e75e06e755a7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-51",
+          "title": "Practice Session 37",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5733f04a89fa0f1bf55b829d3cb841167ad9bab7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-52",
+          "title": "Practice Session 38",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4538279bc07a684fa51db4ebcc89be8559b47258.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-53",
+          "title": "Practice Session 39",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/df65a2e6ff8ca29c3985ff4a46f3cd5bfd0d2ce5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-54",
+          "title": "Practice Session 40",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f875e5d08fe0d2917a6c7bdd39390649c5e0a777.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-55",
+          "title": "Practice Session 41",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/20ff601a29661552d52dafb937e1644528acde49.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-56",
+          "title": "Practice Session 42",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89153584b7d2507bdf5c40be536b99100f7f7b02.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-57",
+          "title": "Practice Session 43",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c3fbb0d4e21a61ef74019b76bac10894c8a8a4d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-58",
+          "title": "Practice Session 44",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/122e15eac6b9221810691b271594b8c6488713f8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-59",
+          "title": "Practice Session 45",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a7db1c69bc121195e488a287f2262599713f13e.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Course Introduction",
+      "lectures": [
+        {
+          "id": "sigma-11-60",
+          "title": "Path to Placement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9efd31098827c085c6870ce43558f9b228b1b163.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-61",
+          "title": "What will you learn?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdf4a637adf45239d78bcdceff77d1d1ccb02f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-62",
+          "title": "Prerequisites",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f7e785d8b18d434943852e298a0799ffece2a28e.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Prerequisites - Installation Resources",
+      "lectures": [
+        {
+          "id": "sigma-11-63",
+          "title": "What to Install? (on your laptop/computer)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/95abd837dae5e1d563d5cb3e0add70babb799b28.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-64",
+          "title": "Installation Resources",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Installation Resources.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Flowcharts & Pseudocodes",
+      "lectures": [
+        {
+          "id": "sigma-11-65",
+          "title": "What are Flowcharts?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8e8a13152b4497a2f44955319c798de257ad8f0c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-66",
+          "title": "Flowchart Components",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6db84cc293418429cacd6e143558df910e6e5a0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-67",
+          "title": "Sum of 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/73627ce514fbc289a5a56a057c2cd28ccc3c5ebd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-68",
+          "title": "Calculate Simple Interest",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b464488c702e04ed583c5a7fb4b5626cbef45791.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-69",
+          "title": "Max of 3 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/897b5ec10279b063e9fc3ab7716d75869b7da8d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-70",
+          "title": "Find if a Number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a05eef0018259cc7dba581f3376df614a92ab58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-71",
+          "title": "Sum of first N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa072ffea92b5c2626f1fe006495c87851c9d6e9.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-72",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Question File (3).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-73",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Solution File (3).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Variables & Data Types",
+      "lectures": [
+        {
+          "id": "sigma-11-74",
+          "title": "Creating a Java File",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/958d99865cbdc421f5f8775e30dda34e80a7f2bd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-75",
+          "title": "Boilerplate Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f5c46d1e44af4e1f3ea6362e4c5de348e7260ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-76",
+          "title": "Output in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ddbe789d8e72c60b6a001a4234bfb4e5eb089df7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-77",
+          "title": "Print a Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a655e04c389e884dc7943eecf8e7fddf401be1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-78",
+          "title": "Variables in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d5669236c21deecd020ff8161691b88d796ff709.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-79",
+          "title": "Data Types in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/631a54b3e330d2674ad214df4f59427a7baf03b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-80",
+          "title": "Sum of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a7c4c8707d6e7aa2980835bc187f4bddb8521882.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-81",
+          "title": "Comments in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1f11b4b94e5719c40723c766c06fce9c0c52f322.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-82",
+          "title": "Input in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c8b2d3520a1954fe7d25e2ad04704582295bd2e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-83",
+          "title": "Sum of a & b (Input from User)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0479c71455a3184fbfdc865c6935bf45e0d77105.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-84",
+          "title": "Product of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/76f05bacbbb57d99c467f05d358310004a165ffb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-85",
+          "title": "Area of a Circle",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e247611ec7a42c6fcfe7e80c95cf595d60ef2c5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-86",
+          "title": "Type Conversion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/92b49a09810e55c77a026b4325cdfcc7557ee59a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-87",
+          "title": "Type Casting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/230f9e30a982884bfdd18d87ecaa6a82c47585fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-88",
+          "title": "Type Promotion in Expression",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0ff4c12eb10276ae9fc5f046a057c024f348b98.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-89",
+          "title": "How does Java code run?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/277b06e7df27cf5caf58f615bc2e936e801affd0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-90",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-91",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Variables Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Operators",
+      "lectures": [
+        {
+          "id": "sigma-11-92",
+          "title": "Types of Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b694d4fff5981b354f7e54c88b52cc542b979a77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-93",
+          "title": "Arithmetic Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e4334196b7e65710d294b7052109ff4d34fcd1c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-94",
+          "title": "Unary Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a77a2f10c54625181b8dcdff937ed462fa4c89cd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-95",
+          "title": "Relational Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c3e96a9d2fa7e6241e518cba0a09aeded0214a58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-96",
+          "title": "Logical Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33f1cddbaf801bdb6676c6150408c4fd9f170e3f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-97",
+          "title": "Assignment Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33f31ee6910d67edd78ac15ee30d350fc92c2102.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-99",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operators Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-100",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operators Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Operators > Reading Material",
+      "lectures": [],
+      "notes": [
+        {
+          "id": "sigma-11-98",
+          "title": "Operator Precedence",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Operator Precedence_V1.1.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Conditional Statements",
+      "lectures": [
+        {
+          "id": "sigma-11-101",
+          "title": "if else",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5e525ac21b2287cd1cbbdedd3e7a03922a8c431f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-102",
+          "title": "Print the largest of 2 numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9bc764433f4bf6a24466c15a66f1cf75b5cbd4dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-103",
+          "title": "Print if number is Odd or Even",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8459f22be754ac7456d4e8faba7f683ad9e43e06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-104",
+          "title": "else if",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ba8b2125e1152e79d647e83ad217ec6095e0d23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-105",
+          "title": "Income Tax Calculator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/69a32b4424cb051a677409876487f03f614414c1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-106",
+          "title": "Print the largest of 3 numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b80a7dfc8e1b47ba7df9c1a480678e1a29397989.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-107",
+          "title": "Ternary Operator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dcfe6ecdd7d3b2f9cbaca197d616fe9f24ec9248.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-108",
+          "title": "Check if a student will Pass or Fail",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3b4068feec95377eb92fe36b431dcca487651009.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-109",
+          "title": "Switch statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3a543afc6ed02ba6b22d89c87c534fd004d37b5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-110",
+          "title": "Calculator",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aafbdd9f7240ee853a68dddf85e62e0dfc7f26b5.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-111",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditional Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-112",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Conditional Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Loops (Flow Control)",
+      "lectures": [
+        {
+          "id": "sigma-11-113",
+          "title": "Loops Basics",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/307a3660b9a60d93e79a09b27d1b5e63d025ccc3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-114",
+          "title": "while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e58ec18a2e0619bbd684757420d33b48306bcc4e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-115",
+          "title": "Print numbers from 1 to 10",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d1e021d421240b5b0d31dfc13164bfa0fd159f0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-116",
+          "title": "Print numbers from 1 to n",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69874a8798081f3a400174f7Unit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-117",
+          "title": "Sum of first N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3063a73ea881784df502019bf868e439bfc5af3b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-118",
+          "title": "for Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e43d6b3981e0872b23b196e780d8dbe98230f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-119",
+          "title": "Print Square pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e757cb4a7fbd48975355246323e235d0c800a405.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-120",
+          "title": "Print reverse of a number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f3ef28e6dc8e0bb9f33e9b6c0ef1808ba3eff61.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-121",
+          "title": "Reverse the given number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/23fd4568a84a4803e350eb6ed83c91fde453c522.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-122",
+          "title": "do while Loop",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3d1dac5368da8bde8579b8b425f683376980d696.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-123",
+          "title": "Break statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc5c9bcf79561f2444ae90ccfe077d19e3ef2730.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-124",
+          "title": "Question - break keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e9e7d546471fa77a03a61e4c537d5860df69be5a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-125",
+          "title": "Continue statement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5dd83832a564a487c68255e220082c05a5938906.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-126",
+          "title": "Question - continue keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9ce254063704730f99e252cb3dba38821554419b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-127",
+          "title": "Check if a number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2158c9a0fe004de02841ad49f47333d92cf7ea26.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-128",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Loops Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-129",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Loops Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Patterns (Part I)",
+      "lectures": [
+        {
+          "id": "sigma-11-130",
+          "title": "Intro to Nested Loops (Star Pattern)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ec824da6ccaec94c40c663ce3110262382a5338.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-131",
+          "title": "Inverted Star Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7ecd3dd738d016dd6190cc0fbd194be155b7e8c4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-132",
+          "title": "Half Pyramid Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2d5d00e6b65be2905dc28cbb00ae223088ad042d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-133",
+          "title": "Character Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8af32c8788eb787c1d0e41e07c855e8a5db5d93b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-134",
+          "title": "Special Note",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5d1bcce28d345ae84d1e155ca2163086d850292.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-135",
+          "title": "Looking Forward - Advanced Patterns",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2-Advanced Patterns Note.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Functions & Methods",
+      "lectures": [
+        {
+          "id": "sigma-11-136",
+          "title": "Introduction to Functions",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4440a14ecefcbbd2049b845595068c68e14c77e6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-137",
+          "title": "Syntax - Function Code Demo",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/44bac4ba6eff1fad8bbdd002e7796ec0da308353.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-138",
+          "title": "Syntax with Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6437bd205143b54a248f800fd7db3ec3c953126.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-139",
+          "title": "Parameters v/s Arguments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5182c56a3a96c78e2da906339b0217f2e609aead.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-140",
+          "title": "What happens in memory? (Call Stack)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/364380f03d4ac44fd8ca5fa852e13d94a30663d8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-141",
+          "title": "Call by Value (in Java)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43d4a5086347a329a3f72c3776224d89fa265a5c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-142",
+          "title": "Product of a & b",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1e2c299bcfd40b8d328c1a9a9940b17185e728aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-143",
+          "title": "Find Factorial",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e34b4e8e4bf9c1adc17db2a617fc7707b1d0010d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-144",
+          "title": "Find Binomial Coefficient",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dbaa1ae1061f08247785b2b8ab4a7c487bc713d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-145",
+          "title": "Inbuilt v/s User defined Methods",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d05125f8fee5dc4d5f3ff26f8ba8fdfc6ba157b5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-146",
+          "title": "Function Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e82550d808ae163e3201318d8a951db4f039303a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-147",
+          "title": "Overloading using Parameters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/226156af2ff77caf26f3124ca759fa1f3c3c76f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-148",
+          "title": "Overloading using Data Types",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/929c0f8c20374f060aaec240cd3cf259bb44cadf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-149",
+          "title": "Check if a number is Prime or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fb0673129fc0c4046d4c60a243dc8742a4958bab.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-150",
+          "title": "Check Prime (Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a58c2f0dcf02e27afd987cd99afb5b09ce74c9fd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-151",
+          "title": "Primes in Range",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ebb0d576077f33a134c794419580274dda3bd0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-152",
+          "title": "Binary to Decimal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d5185ed88ad6c2315d120de3389fc24654939ee1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-153",
+          "title": "Code - Binary to Decimal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6c90aee64f0174025503649730ac4eb823c88a0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-154",
+          "title": "Decimal to Binary",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69874a8898081f3a4001751dUnit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-155",
+          "title": "Code - Decimal to Binary",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8199c0a459a99e61f918e4e4865829af0c48bf8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-156",
+          "title": "Method Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e6e56a8039885def33b38668553c48c96be960af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-157",
+          "title": "Block Scope",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a58de6f6e927c95fb648d17c510c5c83d22ab20.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-158",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Functions Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-159",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Functions Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Patterns (Part II) - Advanced",
+      "lectures": [
+        {
+          "id": "sigma-11-160",
+          "title": "Hollow Rectangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bb7b71212499586bcfedcc69c8ff7933e51682b8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-161",
+          "title": "Dry Run - Hollow Rectangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/989face68fac9f2a1c5684ee9016aa49081aa3ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-162",
+          "title": "Inverted & Rotated Half Pyramid",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3b01e9926ab62eb3f28451332e2397ccdb86e92a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-163",
+          "title": "Inverted Half Pyramid Pattern with Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/31a5c3ec1dfcf3d7186b463a32a9c6e7006f45f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-164",
+          "title": "Floyd's Triangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a6b968032d2bd0a83a9c32a321996136a11b8390.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-165",
+          "title": "0-1 Triangle Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5bde05c9db54f4731a56b3829a7c8cb3281d0a8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-166",
+          "title": "Butterfly Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/02e841b2d963bca2b880ee0a13bba124728c9913.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-167",
+          "title": "Butterfly Pattern Code (explanation continued as well)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b3bf2da50104b06a43bd3476e12ac5dd1515b516.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-168",
+          "title": "Solid Rhombus Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b2382f91d7b8e62fc839e0b6fcebf9025e46519f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-169",
+          "title": "Hollow Rhombus Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d983185e9a95f00636874895a6a6b6d2d1fbb70.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-170",
+          "title": "Diamond Pattern",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce15e24cf9afdec448a0ba868ff3d8ba0f9f2ff3.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "ARRAYS (Part I)",
+      "lectures": [
+        {
+          "id": "sigma-11-171",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b47c392dea31cd3cf61539f860faca07b3450db0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-172",
+          "title": "Arrays - Creation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9375ffcf3086337ca8260946f15a7a7a385a360c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-173",
+          "title": "Arrays - Input, Output & Update",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/26dbc584423b8e7ef20c794694402fe1eb19ebb6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-174",
+          "title": "Arrays as Function Arguments",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5af1f25fed0fd934001c1edc4039086379bec8e8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-176",
+          "title": "Linear Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2b3c768edfc03e3716fff334a6c6f04388fa9576.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-177",
+          "title": "Largest in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d6d54e138c7ba73e1790fb1931cd21930fb4ff59.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-178",
+          "title": "Binary Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a336d21d0df2087d9f550d6df462198e77abad53.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-179",
+          "title": "Binary Search Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f982392aa09408b413e4f820c46672ee5ef57d56.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-180",
+          "title": "Reverse an Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/785b518d6f70c96d64f2422fcd13bf9ac6b16e65.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-181",
+          "title": "Pairs in Array",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e7985b9126404e1f6218b2ac2776f99364615c35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-182",
+          "title": "Print Subarrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/065c8d5d557f1b394e63e76bc5fb50a97fd86782.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-175",
+          "title": "Space & Time Complexity (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Space & Time Complexity (1) (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "ARRAYS (Part II)",
+      "lectures": [
+        {
+          "id": "sigma-11-183",
+          "title": "Max Subarray Sum - I (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c478654cd2b9b73628ffef1dc5afd4d2d2c39ba3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-184",
+          "title": "Max Subarray Sum - II (Prefix Sum)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6aa14197d5f28dda1b9ac65dff58ccf161be8724.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-185",
+          "title": "Max Subarray Sum - III (Kadane's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94a68640b92fd15608d2abec7089ec1627aac613.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-186",
+          "title": "Trapping Rainwater",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7572e52186eb59c45f645d5d6603561e8d8056ba.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-187",
+          "title": "Trapping Rainwater - Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ab85fad182530e902c729352967b368b33faf35.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-188",
+          "title": "Best Time to Buy & Sell Stock",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/83f5fdce053f270c741c16f4bde4dc0445c9730a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-189",
+          "title": "Assignment Questions (Arrays)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays - Assignment_Type.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-190",
+          "title": "Assignment Codes (Arrays)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Arrays - Solution (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Basic Sorting Algorithms",
+      "lectures": [
+        {
+          "id": "sigma-11-191",
+          "title": "What is sorting?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/620283278366c24fc59322a8a855b51c8b574f0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-192",
+          "title": "Bubble Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b4cc47e5a2ace5c68737a96fc529804b81994ca2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-193",
+          "title": "Bubble Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3fa87eb86a3a696a40353595e8f40a9a49fb2150.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-194",
+          "title": "Selection Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6333c42523110309e1f0b6235e4b312213001c6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-195",
+          "title": "Selection Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1cfd1e10602c19249216051b802635ba89c8ce80.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-196",
+          "title": "Insertion Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/067577d1013f87a998108763b1b22679ba17a319.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-197",
+          "title": "Insertion Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8fd6a25c40b7e904dcb34b24ba9cbcd651317c3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-198",
+          "title": "Inbuilt Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/51a26b679ad47e6cabd7fd4cec7b1f74cc2a6b97.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-199",
+          "title": "Counting Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a5e8f70b4f2bb4cff115a58a9de556452fb41cc1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-200",
+          "title": "Counting Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bbbd52f3db106b69669aa036e3e9018e16134e47.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-201",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Basic Sorting Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-202",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Basic Sorting Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "2D Arrays",
+      "lectures": [
+        {
+          "id": "sigma-11-203",
+          "title": "Introduction to 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/88d843db1762289f3b9c6ef9bd62c17b27baffe6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-204",
+          "title": "Real life examples",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b38efae71d3f7eb42884e524efed8a6e50b7e4e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-205",
+          "title": "Representation of 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a0f5460905d37ef85fa30600a37fac84c45f6949.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-206",
+          "title": "Creation of 2D Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a1e77997a7fdc8e80d13b323893fc0d1f3fc82f4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-207",
+          "title": "2D Arrays in Memory",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4d1c9a3feedaf5dbd88c09b40b6046d28266650c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-208",
+          "title": "Spiral Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7a9fbdbbd0892fe14e851a6167f475a6dcd1a90.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-209",
+          "title": "Spiral Matrix Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/de878539c9cfb82207fd631fd497b39154ae1c15.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-210",
+          "title": "Diagonal Sum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d874c56bbcd54a17808798a81377714d6dbbe020.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-211",
+          "title": "Search in Sorted Matrix",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe19ab1ffe88d1c1ee791226366281746d5f30c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-212",
+          "title": "Search in Sorted Matrix Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3ed132798b461d869c75b2f92aa4da90f2fb988d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-213",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2D Arrays Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-214",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/2D Arrays Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Strings",
+      "lectures": [
+        {
+          "id": "sigma-11-215",
+          "title": "What are Strings?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4a1a9c9eeb47cd00dbd8633c0b942ebfd880148b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-216",
+          "title": "Input/Output",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/160540742cf78147349c14a5ebecaf55d680dcd5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-217",
+          "title": "String Length",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/630bafbbe3dd33bfd0e96e7edc553c8e2b8f9a5b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-218",
+          "title": "String Concatenate",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1a124f72c8dc47047a17cb9740decbb441207106.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-219",
+          "title": "String charAt Method",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58b06f36bfc2e7733988fdc9fe8c6bb4860b9a22.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-220",
+          "title": "Check if a String is Palindrome",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a5abf20ae8e0f36f23cee5d9b285413c93de9fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-221",
+          "title": "Question - Shortest Path",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/702ff758b040fa5dccf90a4176835289e602f118.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-222",
+          "title": "String Functions - compare",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acc052f4ce409ffeba4169f8888b7752b723139e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-223",
+          "title": "String Functions - substring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/45bfd0f7d8901b8990354543773be68c058764d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-224",
+          "title": "Print Largest String",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f339d0bc143f218343153059a4d3b8e53b7177dc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-225",
+          "title": "Why Strings are Immutable?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/561f7296996749a9bbcaba13cc8e668331af3f57.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-226",
+          "title": "StringBuilder",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8875888a8979acba9cfd89d2dc7d580984661f15.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-227",
+          "title": "Convert Letters to Uppercase",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3525484a6b0105e24b840b8e87bba2a5125874c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-228",
+          "title": "String Compression",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c09644d79180ed429ae08a297a9613e278e0899.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-229",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Strings Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-230",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Strings Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Bit Manipulation",
+      "lectures": [
+        {
+          "id": "sigma-11-231",
+          "title": "Introduction to Bit Manipulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3f6016995fff2bf8fab179e0304d28df66f0e002.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-232",
+          "title": "Binary Number System",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c5f5f0fa5951ed32fadf450b0813951aa73a478c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-233",
+          "title": "Bitwise Operators",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/46a6f042adc23213b99c44c1e5ba3ab6b3d5d4c0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-234",
+          "title": "Binary AND",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f508a165ceb108219fcf7aa906251ba1d5535dd6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-235",
+          "title": "Binary OR",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/43986e8cc051c94192fbce0a80ff86daab8ff354.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-236",
+          "title": "Binary XOR",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e0db92d29843a0467c571022d238f65515f316b9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-237",
+          "title": "Binary 1's Complement",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/81a63a1f6924583a9d84fb184a24f7a77e2dd69a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-238",
+          "title": "Binary Left Shift",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd57dda96756a703b5d64948118f6a6d9904a05e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-239",
+          "title": "Binary Right Shift",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0ae0a9676ed29be5f3ddc05ff796661e790b4263.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-240",
+          "title": "Check if Odd or Even",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f4559940e406417ed9ed999849a9ad6c424233d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-241",
+          "title": "Get ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d79b1559afab9d2f8c4204be748613b54eb715e3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-242",
+          "title": "Set ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e0b3f68b1db047b3b1256a777dc78d99a4c025bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-243",
+          "title": "Clear ith Bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3287f5f044d51e18a6eedaffd4fdd64f7b9b9a80.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-244",
+          "title": "Update ith bit",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ec7535fdb5c09ab89f493d4c4dd1520759d4b1c8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-245",
+          "title": "Clear last i bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9dbd90b820654f58229b77eeff1279ad5de5fcd4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-246",
+          "title": "Clear range of bits",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25549ca4b2efe1d0e2f40fc0834a6d84baba1b48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-247",
+          "title": "Check if a number is power of 2 or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3815d229c4fcd17fd46f2d9b01aa90c217d9ebd1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-248",
+          "title": "Count set bits in a number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ea7f4e75ee7d5ac3a9c205db063b12d647b5f16c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-249",
+          "title": "Fast Exponentiation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb90c345dea8a28eecc28bc8191efbdcf87b90bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-250",
+          "title": "Fast Exponentiation Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/83873e47d322d414f978577ac5f10dbcf964ca46.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-251",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bit Manipulation Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-252",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Bit Manipulation Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Object Oriented Programming (OOPs)",
+      "lectures": [
+        {
+          "id": "sigma-11-253",
+          "title": "Classes & Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/daf926191141e4c7ce745caf5c32e5419e4ba3e3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-254",
+          "title": "Access Modifiers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1bc6d2c03156cb0e5f078d76df25c45170ec4223.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-255",
+          "title": "Getters & Setters",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a213edd82f6346ec4f28e0340d426991b1a6d49.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-256",
+          "title": "Encapsulation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba4a0dcea021b573c2dfa6c19caedd773ee52165.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-257",
+          "title": "Constructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9a957639942f90169cc351fd767eb639fe925f63.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-258",
+          "title": "Type of Constructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d2c1124a42a43d09ccf6cef1ac1ef19485142c4d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-259",
+          "title": "Copy Constructor",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/98dcac61377d9e1e04d8207b68756c6e4217f99c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-260",
+          "title": "Shallow & Deep Copy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/451e929adddbb099afe055e48381b900d210c6a6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-261",
+          "title": "Destructors",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/722927c4705e8f0115e83357a5a2a886467f45ed.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-262",
+          "title": "Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/510c448567669cbab367ce0e8d37545d64ccbf98.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-263",
+          "title": "Single level Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04b5c3fb5329ae4680319dd24b4ebb52ec0dfbc5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-264",
+          "title": "Multi level Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d24e7ad4619822c808ecdb2edad9a836e56bf5dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-265",
+          "title": "Hierarchial Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2b51c51d7dc469709516be136a46f1a96cdc8020.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-266",
+          "title": "Hybrid Inheritance",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06870d64254c9d564ee80160170dba95b57eba13.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-267",
+          "title": "Polymorphism",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e58444fe22b0c7f0777bde0b19fc18f8cfedb57e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-268",
+          "title": "Method Overloading",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/17a3de447c0177344e899a208f6d31cd4149cd48.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-269",
+          "title": "Method Overriding",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/242d8cc1a16ba1144fd3cdfd1e0871493609cd63.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-270",
+          "title": "Packages in Java",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d74ea424dba517f12c2b3bb4b424cfe0077f8295.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-271",
+          "title": "Abstraction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a979f4c9c33fff8b226d81fe5fc3865977713b2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-272",
+          "title": "Abstract Classes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f955193f96b56356281b8fd99c74383caf2b3c3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-273",
+          "title": "Interfaces",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3694e72e2c057e5f48f16f0b8a59a42a97392da7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-274",
+          "title": "Static keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afb42729ceb646af12a2fb3bc774453c2a6eb3f7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-275",
+          "title": "Super keyword",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38fdd07efec49c7bb7103e97b103cb8ffcb48747.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-276",
+          "title": "Solved Questions Practice",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/00b234df690939e86cac7fa3e46e9a5411a4c49d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-277",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-278",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/OOPS Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Recursion Basics (Part 1)",
+      "lectures": [
+        {
+          "id": "sigma-11-279",
+          "title": "What is Recursion?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c811514d7c35a520e768cdf077298f334b43abe4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-280",
+          "title": "Print numbers in decreasing order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a512f304c6f1c62f9374244a794d04727c3d1fe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-281",
+          "title": "Stack overflow",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d41f9c9f1800259199fb8252e44b58ec6c51069d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-282",
+          "title": "Print numbers in increasing order",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6b9e9e4826bff0d20a8bb0d84ac3239a6bf3d126.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-283",
+          "title": "Find Factorial of N",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e4724da0276e23011fc907527d77c1f79a03388.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-284",
+          "title": "Print sum of N natural numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/240a07a01e5b509a9816150bf24f0df269e7c5be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-285",
+          "title": "Print Nth Fibonacci number",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/3a87857714dd982593268712e989fa40fdf57b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-286",
+          "title": "Check if array is sorted or not",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb8dbaec77ae2cb3c061dc40b5145b314d8433af.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-287",
+          "title": "First Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/946dde7aa3786da3f23f8419eb357ab3e3e6c2e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-288",
+          "title": "Last Occurrence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/479dd1b3fe13882a0528ea8671474a751e235571.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-289",
+          "title": "Print x to the power n",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c1e458c30179a42300aa80fe4b9e6fdd21084f6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-290",
+          "title": "Print x to the power n (Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b02f5bdbd6aab86db0d45bc743d1403a4438f111.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Recursion Basics (Part 2)",
+      "lectures": [
+        {
+          "id": "sigma-11-291",
+          "title": "Tiling Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a63f9171b1af6f9b56632b910973e715c4546c0a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-292",
+          "title": "Tiling Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d60e5595dc946a23f21f933bcc98640602de7dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-293",
+          "title": "Remove Duplicates in a String",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce29e0f0fd5eb26aa03f15240d503894ca7c7f78.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-294",
+          "title": "Friends Pairing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e770c17f5d2c6f63ef12e789e2e6c92db21e8f90.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-295",
+          "title": "Binary Strings Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4f75516016f00e93b9b85ae63179fdcea422c478.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-296",
+          "title": "Binary Strings Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdb3394c3ae818772e5c781b575770bcead14e94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-297",
+          "title": "Stack Analysis - Binary Strings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eac6f62efd47c845060f5702bd8532d2bb6b692d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-298",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion (Basics) Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-299",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Recursion (Basics) Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Divide & Conquer",
+      "lectures": [
+        {
+          "id": "sigma-11-300",
+          "title": "What is Divide & Conquer?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/38bbcf74d4762746d981df9fccef6e8ebf5969fa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-301",
+          "title": "Merge Sort (Basic + Space Optimized)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dc72a194fac140ca5a88821e28b11760eb58c1a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-302",
+          "title": "Merge Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0f77c7e64d31bf54f66a11404e0aad0f643e874a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-303",
+          "title": "Quick Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/651afafa767da543d1a3cb1dc3da4cd58d06df0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-304",
+          "title": "Quick Sort Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6efbffe0d11d527e69edf232e2948f258f173ab2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-305",
+          "title": "Worst Case in Quick Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bfe791ef1e1f8c1bf8c40c2cc2d6c11976882fbe.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-306",
+          "title": "Sorted & Rotated Array Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/01acdd1e53c62bbb3497871cfd1a8f6cb2a3c5f1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-307",
+          "title": "Sorted & Rotated Array Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/781fc0ca054052d4c02c4936288dace826bd0937.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-308",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Divide & Conquer Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-309",
+          "title": "Solutions to Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Divide & Conquer Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Time & Space Complexity",
+      "lectures": [
+        {
+          "id": "sigma-11-310",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/567d090dc34cc1a6e822c14853d7ad37212431ad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-311",
+          "title": "What is Time Complexity?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/99faf5d4f31bd935bf55ff13007c57ca12b48944.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-312",
+          "title": "Constant Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8c7d1b474496ae67827aaf71112d76325c3dc975.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-313",
+          "title": "Big O Notation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/036f92f04adf786f0e847f25f268fb72963bf518.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-314",
+          "title": "Big Omega & Theta Notation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6229fdb772b991b20d79fa94f2c3976babea6e1a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-315",
+          "title": "Common Complexities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7695de05260922b73c05995493c84d926bcfaa2b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-316",
+          "title": "Space Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ae4393d2d65bf9384732ac4454c493b30105d7dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-317",
+          "title": "Simple Loop Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fbc223960b250cd7097cf7987b4877d2ee058092.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-318",
+          "title": "Nested Loop 1 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a721384f880c5f85c33b8da943960e4ddfbba8b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-319",
+          "title": "Nested Loop 2 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/365a05c8f598503780b021881240678bf687d511.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-320",
+          "title": "Nested Loop 3 Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e574779287adf970e47792f9916f295e9e7114cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-321",
+          "title": "Bubble Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e9513cccb9c2bae2f0d30cb7a5f04b5e22f6e058.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-322",
+          "title": "Binary Search Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33796c4f158ae9272ace230829b29483274c9525.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-323",
+          "title": "Recursive Complexity Analysis (Factorial)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdb2f51bacd826f698a4885e7fbb92ae5cf88f4b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-324",
+          "title": "Sum of N numbers Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c91b7c307adf2c3fe6905835da9b7c1d7bd121cc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-325",
+          "title": "Fibonacci Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/565e0908ca30ec5072443ab7cd7ecfd4ff4fb165.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-326",
+          "title": "Merge Sort Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a55f53bbfbad6bb9593e8d7b31b6bf11daaa945.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-327",
+          "title": "Recurrence Relation - Merge Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2187f0490612e8b39b28aa9da46abb512425f79b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-328",
+          "title": "Power Function I - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/49e3fffc542341ef84ddcc74aa9bce297da78e88.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-329",
+          "title": "Power Function II - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c065bdc0c280333c80efba7cd2f540fb947c2fb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-330",
+          "title": "Power Function III - Analysis",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f2342cbc219917d568ecbee44be8e0e091613e02.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-331",
+          "title": "How to approach Coding Questions?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f485c0f03359e4ca33b85812236663a24b579ddf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-332",
+          "title": "Master's Theorem (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/3-Masters Theorem.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-333",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/TIME COMPLEXITY Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-334",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/TIME COMPLEXITY Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Backtracking",
+      "lectures": [
+        {
+          "id": "sigma-11-335",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/da0407f73e936307d1a4c112d1f15bc639bcb6be.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-336",
+          "title": "Types of Backtracking",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d2c752f59318a7dcf013d72247f33926d0638723.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-337",
+          "title": "Backtracking on Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4032bc04ff683f5180a25a775b889d3b6c70e8d6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-338",
+          "title": "Find Subsets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bd2c656fc7ed2bddb78738ba271375b0e9c5b20c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-339",
+          "title": "Find Subsets Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/176d7a005f3bcd7d950103a2e68d0aaa1959798d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-340",
+          "title": "Find Permutations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9d02ef906138820913eb7f2e0f1f3589742b95dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-341",
+          "title": "Find Permutations Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10ee6cc4d8f8dde7408db024f2b590d24bc0b30b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-342",
+          "title": "N Queens - all ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/25982c66d0fb4890636e0b72837445ca527e6409.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-343",
+          "title": "N Queens - Time Complexity",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/243c0ff3a244af386f8df9fbfb38d3baa7ec487a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-344",
+          "title": "N Queens - count ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d412ad11fad17cf22d92bd8142b2f87f15e36918.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-345",
+          "title": "N Queens - print one solution",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcecc4bb77f12e828bc0e7c2941b4257894a0ff6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-346",
+          "title": "Grid Ways",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f900662a2666c7d243740a952e23269914b48c6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-347",
+          "title": "Grid Ways Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2acb9f5fa7066ea94fca26c995660541f2ef9674.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-348",
+          "title": "Grid Ways Trick",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c8c6259c8934b6b308c9494707781429ac2e6250.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-349",
+          "title": "Sudoku",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/edc84a127fe2b204261289d8d0021fd9111e828b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-350",
+          "title": "Sudoku Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6d331d9a67153eeb10615b5f9777ae0622aae1ff.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-351",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BACKTRACKING Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-352",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BACKTRACKING Solutions (2).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "ArrayLists",
+      "lectures": [
+        {
+          "id": "sigma-11-353",
+          "title": "Introduction to ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8348f777e27938853641da84060fa208fe834f1f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-354",
+          "title": "Operations on ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fe128be73cb1175a03c328c4891927cd3926e0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-355",
+          "title": "Size of ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2a233795f4d5b195fa0e4adf43f532d9fb73f790.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-356",
+          "title": "Print Reverse",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7959b5abb337cdbce7b620206ea7b5a94bc9892a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-357",
+          "title": "Find Maximum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4938138d421ca4d4423ef1309dcd67a8efa0c81f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-358",
+          "title": "Swap 2 Numbers",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/baa31e08dd7c2c17165343e4c805a7418cd2f0cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-359",
+          "title": "Sorting an ArrayList",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ccb01993aae513d9334d707dc3936e20c7f027dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-360",
+          "title": "ArrayList (Implementation in Java)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d1fa24e49391b1099bdc0ed3261b8b33a9ec6465.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-361",
+          "title": "Multi-dimensional ArrayLists",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89cde4d4bcec508ece71100154cc9f43bfaf9d1e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-362",
+          "title": "Container with Most Water (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8f608cdd0bf4ccbe2d5663f7d83c2e3053222783.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-363",
+          "title": "Container with Most Water (2 Pointer Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f04273d083a9201dc4965685934fd16d04397f45.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-364",
+          "title": "Container wMW v/s Trapping Rainwater",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fbe4c98b1282def066c7489599fc7bb8b3fac2f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-365",
+          "title": "Pair Sum - 1 (Brute Force)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be5d7e0e3ce7bcf3c620246310d513288c6a901e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-366",
+          "title": "Pair Sum - 1 (2 Pointer Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9451f684b751e1b983a827dbcc8b827d435cc971.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-367",
+          "title": "Pair Sum - 2",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a435a439f2a0ac57fe733b183d254cf2d99948e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-368",
+          "title": "Pair Sum - 2 (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c83c5e065f1374ec54de50bb13a0fb08defa34b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-369",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/ArrayList Questions (1).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-370",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/ArrayList Solutions (1).pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Linked Lists (Part 1)",
+      "lectures": [
+        {
+          "id": "sigma-11-371",
+          "title": "Introduction to Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d42d60f29eb1e957c5aaba59fdd7de485f6d8154.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-372",
+          "title": "Head & Tail in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a07b53e1e3d6341fba82308ba1c0414f2c271f5e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-373",
+          "title": "Add First in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a3a9919afd7f90488b7ee4d789c62ac5b627817.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-374",
+          "title": "Add Last in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f76978e114c7f8adc01d6883ad32b542e8c0c19.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-375",
+          "title": "Print a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f7f4f11ae34a852a1b62d1a86a151537a8a59a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-376",
+          "title": "Add in the Middle of LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f59830f276e4bc936f5cd6176f93a97b5ee1660c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-377",
+          "title": "Size of a LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5d7816edc7d1f4a5119f34c999a632882d3cdb77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-378",
+          "title": "Remove First in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11f8d4160f4306513d11f418fcd22036d3a58cea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-379",
+          "title": "Remove Last in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1885428702fcb9b898a052b5345462bafddb4ab9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-380",
+          "title": "Iterative Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/050c625403aa92fce6b724efa1588c4b31be8c9b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-381",
+          "title": "Recursive Search",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6f3eebe994f17f75fee42a4c132633d4ae749c7b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-382",
+          "title": "Reverse a Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0d226ca6a7618adabf0e23d1980253dc8b408ebc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-383",
+          "title": "Find and Remove Nth Node from End",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f6192b86a070341fc61771c7e7bad67ad8ea11fa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-384",
+          "title": "Check if LL is Palindrome",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/402a9c1baa4a60fa49d7a41ff7e42904954f829c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-385",
+          "title": "Check if LL is Palindrome (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0469feaeac9205d8e3e73ecbb7db27223ed8b251.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Linked Lists (Part 2)",
+      "lectures": [
+        {
+          "id": "sigma-11-386",
+          "title": "Detecting Cycle in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d623254e8f483743409b22fbaceeb0f12ca9a862.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-387",
+          "title": "Detecting Cycle Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8eef4cadf24e1e2efb4565b9dafec003ce2dd70.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-388",
+          "title": "Removing Cycle in LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/871e689e164b0320a832cc40f1c0298d65fd0c7f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-389",
+          "title": "Removing Cycle Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f53061806560fcbe602b5aa4893784e1d952cbea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-390",
+          "title": "Removing Cycle Explanation (Math)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/829d08827ee4e31169e8ff876f70ecfbe4c81134.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-391",
+          "title": "Java Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6e6e1b2f833404820f016ccc12844aacf2cc17d3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-392",
+          "title": "LL in Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f58cae952ef428c941c910c2558983c5ff490cbf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-393",
+          "title": "Merge Sort on LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/70b0117eb47bee548140a902a6c0c19fa549eea9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-394",
+          "title": "Merge Sort on LL (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5fe77452aac0ae4e162b3d32e23c677f8e11f381.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-395",
+          "title": "Zig Zag Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/814c8b5203419e1619e62b3c4c7cf55f29f81c0b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-396",
+          "title": "Zig Zag LL Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/245b5120bda10417d8dda9ce7d29274d26cf00a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-397",
+          "title": "Doubly LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c06b415f29d94f836f6a6a1448c9ea4a66a4686c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-398",
+          "title": "Reverse a Doubly LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4869832fc427159e14fe222a1660e77d144fb5bc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-399",
+          "title": "Circular LL (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/85ff2a597937ac2733332e3bb6669c4b20cb4459.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-400",
+          "title": "Circular Linked List (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Circular LInked List.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-401",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Linked List Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-402",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Linked List Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Stacks (Part 1)",
+      "lectures": [
+        {
+          "id": "sigma-11-403",
+          "title": "Stack Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2efb2e7f9a0ebc52ef3890b2a10af93619fd232b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-404",
+          "title": "Stack using ArrayList",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69b8143bf546e51b07089277Unit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-405",
+          "title": "Stack using Linked List",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/87b41f2bba9f8c710b7a07f4d8871393c6154626.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-406",
+          "title": "Stack using Collections Framework",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6283f163ddc0c56899d81fb46acdde2f73da6298.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-407",
+          "title": "Push at Bottom of Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d2e98f320e98f1d3c1dac0f480e06b0a207723c7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-408",
+          "title": "Reverse a String using a Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cf711cf3eff18fca3bb23f404a813ae5263e230c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-409",
+          "title": "Reverse a Stack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7e65845093514e2f19a0cbf60b9bc418034b1ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-410",
+          "title": "Stock Span Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e213b4c29537e41f491d00e81b5dc59906f18172.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-411",
+          "title": "Next greater element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a2030b84162aa248176effe566c8102a0af3ee3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-412",
+          "title": "Next greater element Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/79fe1f542a4cce7f85100e832834931885badd1b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Stacks (Part 2)",
+      "lectures": [
+        {
+          "id": "sigma-11-413",
+          "title": "Valid Parentheses",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d60cb482429de28ac4e57d1c14faccf0047e0757.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-414",
+          "title": "Valid Parentheses Code",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69b8143bf546e51b07089281Unit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-415",
+          "title": "Duplicate Parentheses",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e884b69edfa70dd642c8f863d7738d38d523a8e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-416",
+          "title": "Duplicate Parentheses Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4edac272ed2ab92753fbeaff6c416e01fd77f0b1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-417",
+          "title": "Maximum Rectangular Area in Histogram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/056377a5faaff9428b917f6497dd19b9e316b35c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-418",
+          "title": "Max Rectangular Area in Histogram (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/abc267517b6545dfeb73d63fe3b1471d79ecfe12.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-419",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stack Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-420",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Stack Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Queues",
+      "lectures": [
+        {
+          "id": "sigma-11-421",
+          "title": "Introduction to Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c9194a48afad60c613029444df718f60b3fdbaeb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-422",
+          "title": "Queues using Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4305dd0ac9a6e155b973e5823a648e9977da7059.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-423",
+          "title": "Circular Queue using Arrays",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e86bc9ef5b2d4dfada8a9212078dcf89ccd946d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-424",
+          "title": "Queue using LL",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59ea5093120743d324eab3b865ddc136fb2227aa.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-425",
+          "title": "Queue using JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fd85299686bf0b6eb2d1628b2ff3d4bd6dbac47.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-426",
+          "title": "Queue using Two Stacks",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bcd0238cd828d4274d9942ddfab630214d391e14.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-427",
+          "title": "Stack using 2 Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8b394a5d3ca68d30b3dc9a7f0209ddbdc17bab90.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-428",
+          "title": "First Non-Repeating Letter",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe63e4ec9fbac0018176d3450343ae8bb2465e91.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-429",
+          "title": "Interleave two halves of a Queue",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12c00ff01c83ba6e03cdaabc9dfaafcecdd394ca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-430",
+          "title": "Queue Reversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f967bba4ef341e7d0105e9e93098624e5e5e2a52.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-431",
+          "title": "Deque (Double Ended Queue)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ffe7219280dd67a67e17a59d86766b3e93406aef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-432",
+          "title": "Deque in JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2dd73ceeef2ff238bfc4e605ce362a572d96e07e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-433",
+          "title": "Implement Stack using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc0dfd58bf88ed86eeda3f4c09133a2269eac623.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-434",
+          "title": "Implement Queue using Deque",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0a9f9456582031e18d752a2aea152202565ab4d.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-435",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Queue Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-436",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Queue Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Greedy Algorithms",
+      "lectures": [
+        {
+          "id": "sigma-11-437",
+          "title": "Introduction to Greedy",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0845806efacfa260c5cf223861b8faf8dd818a3c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-438",
+          "title": "Activity Selection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/afa487644c13232fc93317024d2ab990651424ea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-439",
+          "title": "Activity Selection Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4a7d9208f08717ae99c47cf63c8ed506c90de79b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-440",
+          "title": "Activity Selection Explanation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e5a65b376d8ff4f564461276c1b5421760a8417d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-441",
+          "title": "Fractional Knapsack",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c714833ab1941a6ff35899aaa3436e803a09644d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-442",
+          "title": "Fractional Knapsack Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fba9943be134d23e0b39b2ecca9b0e52755d774d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-443",
+          "title": "Minimum Sum absolute difference pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21796beb0e9b011b45362854c0019b1650005e82.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-444",
+          "title": "Maximum length chain of pairs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/78b74b46b28b529694bc7f9a7c18db304aeca51d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-445",
+          "title": "Indian Coins",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c58377297da81dc534a4880228b51daf710da2e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-446",
+          "title": "Job Sequencing Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/804c546d2a73a312a7b042aaf728dfd395f1a28c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-447",
+          "title": "Chocola Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/658c26a74a2251103eceb249d5b7fcd0ead616bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-448",
+          "title": "Chocola Problem Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/deef3967dd352818218f6267d2edff183cf2b841.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-449",
+          "title": "Comparators in Java (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Comparators in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-450",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Greedy Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-451",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Greedy Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Trees (Part1)",
+      "lectures": [
+        {
+          "id": "sigma-11-452",
+          "title": "Introduction to Binary Trees",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a8f4b7896bb48c4c14a6106745a0d43172fea532.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-453",
+          "title": "Levels & Sub-trees in a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/987a7f7bc1f883cc7b1ffc86fa50db3e6de55b74.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-454",
+          "title": "Pop Quiz",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d8b0975aa17a3c4f0ec6a0db2e698a017211e09e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-455",
+          "title": "Build Tree Preorder",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ce61857d633216701fed0e809354f2a0a1930143.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-456",
+          "title": "Build Tree Preorder Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f335a1edbc8b24937b9a1cacf90558d00d45fa24.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-457",
+          "title": "Preorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f04ad9d62ea010c263f64cdac36d0a75fe1f8f10.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-458",
+          "title": "Inorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d210e324bca319667ba01dc2693fd07a95741d8b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-459",
+          "title": "Postorder Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7cc658f1ad6fa5b7b4992ca239ef4a5975c5bcb3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-460",
+          "title": "Level order Traversal",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e096f63fd1ece4f13280db4c93abfa7997e52a91.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-461",
+          "title": "Height of a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/657bd0f1feb94310a7caeff780ad2944a7f8670e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-462",
+          "title": "Count of Nodes of a Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/66382d5017e90ffc1d4435a1ef258f9df8b24ae1.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-463",
+          "title": "Sum of Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/218d1b43f71657281ed359e905263734757772d2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part2)",
+      "lectures": [
+        {
+          "id": "sigma-11-464",
+          "title": "Diameter of a Tree (Approach1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be097957ef806045adb149047147b041cc6211a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-465",
+          "title": "Diameter of a Tree (Approach2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f53ed8b3c847723e65e10f3ae80467a4d9c82900.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-466",
+          "title": "Subtree of another tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fc15cf16c609093d252addce3767a334ee63475f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-467",
+          "title": "Subtree of another tree Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cd6f11de6092f1b9f351b2c2c8f8cb8d2fb55853.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-468",
+          "title": "Top View of a Tree (Basics)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ecebdfd68a65f290180030f44214141a9c8a8e6c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-469",
+          "title": "Top View of a Tree (Approach)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/be2e815b04bbbe93f921d0281475d8385e472820.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-470",
+          "title": "Top View of a Tree (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a3ce953fc94be94225792bf661e27f772b6eeca.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Trees (Part3)",
+      "lectures": [
+        {
+          "id": "sigma-11-471",
+          "title": "Kth Level",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0376a2986e90067ed7d9c7450e19553bdeed334f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-472",
+          "title": "Lowest Common Ancestor (Approach1)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/08f66fbc1c5d0787960ce3de3aa1bf8af5631265.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-473",
+          "title": "Lowest Common Ancestor (Approach2)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2dddebd8ea86ddbc11bedeb74aff5c131e1f415b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-474",
+          "title": "Minimum Distance between 2 Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a4431cbce8979558821d5a87e9aa5e3ef1b7f25f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-475",
+          "title": "Kth ancestor of Node",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69b8143cf546e51b070892beUnit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-476",
+          "title": "Transform to Sum Tree",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bf687d0c9e986ee401eda5b55711d48c7b15b876.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-477",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Tree Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-478",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Binary Tree Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Binary Search Trees(Part1)",
+      "lectures": [
+        {
+          "id": "sigma-11-479",
+          "title": "Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1404a256dd3bae762889b9073210f13d4c502e05.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-480",
+          "title": "Concept of Search in BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/11eac8bcb89b6e870dcd680f432ef93175332477.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-481",
+          "title": "Build a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eed715ee91ce6525d313515a21318a3abdb3c745.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-482",
+          "title": "Search in a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2ffd0bd326601629460af7a58d162ec916cbd899.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-483",
+          "title": "Delete a Node",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d477df5c049a4a3c0a7caecf66cb8c7a0bdd46bb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-484",
+          "title": "Print in Range",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7803a7b3d0c231e12f9e9c9b55fa6c5ed73c4bea.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-485",
+          "title": "Root to Leaf Path",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bdde710fba72b819771da3490e493249a5e3c69b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-486",
+          "title": "Validate BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dd6c18f4683e46d1f7c2526c0ba0972775a00d23.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-487",
+          "title": "Mirror a BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b0135e5604a3510422a77fe6274caf6e79d0b4c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Binary Search Trees (Part2)",
+      "lectures": [
+        {
+          "id": "sigma-11-488",
+          "title": "Sorted Array to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a4f4421de5e2c22cb77d773588825dbab9664cbb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-489",
+          "title": "Convert BST to Balanced BST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7e70b05c5f0e930fffc4ce44678b7e762c29b03a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-490",
+          "title": "Size of Largest BST in BT",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8ca57fa1db45aedd1083d1a2c10df21d31caba3a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-491",
+          "title": "Size of Largest BST in BT (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4b7bc88ddbccc3a7e04cca9f3e35ce5778bd14a3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-492",
+          "title": "Merge 2 BSTs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/94d0074f0639bd20aed3a30a7817ef06d8382668.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-493",
+          "title": "AVL Trees",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b5258cf071be8c21c5aa68c20b4a0e1f7c784339.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-494",
+          "title": "AVL Trees (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/AVL Trees in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-495",
+          "title": "Red Black Trees (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Red Black Trees in Java.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-496",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Questions (2).pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-497",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/BST Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Heaps",
+      "lectures": [
+        {
+          "id": "sigma-11-498",
+          "title": "Introduction to Priority Queues",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/06fd1853d4544dcaedfb58413b7606c5696fec94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-499",
+          "title": "PQ in JCF",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/caa0df4ed51d80de3da03f2b61d45aa34e422c07.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-500",
+          "title": "PQ for Objects",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e07be1bd9f54a2ac9bea4e8c169590d0cfc4994f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-501",
+          "title": "Introduction to Heaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d58a03c2f19c5bfccbf223fd9bf1b7a398b17e85.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-502",
+          "title": "Heap Implementation (using CBT)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7a5f216ca7be9d8404060d1c6e650014a346907d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-503",
+          "title": "Insert in Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4e77eaa9720d04d0b68733b0926871314e2465dd.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-504",
+          "title": "Peek from Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d4a11ca92d1b42288e02a34be69b09293e7be20b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-505",
+          "title": "Remove from Heap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d01e818026553f082b5f650b1cee027816d976f9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-506",
+          "title": "Heap Sort",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12d58eebcede6808f50f34c795e4f3d121d71fef.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-507",
+          "title": "Nearby Cars",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c37d31dada66c33d5cf1d657125fe29483a7be3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-508",
+          "title": "Connect N Ropes with Minimum Cost",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/30818306031f3e5dc387174f1ffaf098d883ed8d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-509",
+          "title": "Weakest Soldier",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7be8ed0774158150b2745e251fc0ff9b26e0b044.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-510",
+          "title": "Sliding Window Maximum",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/eb7b1d4e1843a033fa5dd50d34aa6328082d9c8c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-511",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Heap Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-512",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Heap Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Hashing",
+      "lectures": [
+        {
+          "id": "sigma-11-513",
+          "title": "Hashing Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4ee69e6b401fe1b93d9912fbed0e6f9c07ed5080.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-514",
+          "title": "HashMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/55a8206c7abe12e012c56ae6f17e21322b75c70c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-515",
+          "title": "HashMap Operations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/86652074a97d3ebf2f2c7f4706c31106eeeb3552.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-516",
+          "title": "Iteration on HashMaps",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5e39b1c58fb29528fd591298888b91737a2e4217.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-517",
+          "title": "HashMap Implementation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f71da03f340f17ae8e2bac49542a03cbef453041.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-519",
+          "title": "HashMap Implementation Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/56903129af33331ddd8bfdcc5da4e593dd02787d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-520",
+          "title": "Special Note",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a6894a0ca568da43eef5acb67aae77b2177babb8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-521",
+          "title": "LinkedHashMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c038a0350dbe6c4789b037f97061ff1c33cac264.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-522",
+          "title": "TreeMap",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e979fc129a3f841b26d12c7c8c90152ad13efb04.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-524",
+          "title": "Majority Element",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c18b5bdb62f0218d64fb54fbb487d8111a536b0e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-525",
+          "title": "Valid Anagram",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9f303dcdcf4882026bfddf7af7bc26fa2687f82a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-526",
+          "title": "HashSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/acdf2ff48224170a04be832e9e6666404076dcd7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-527",
+          "title": "Iteration on HashSets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1d0b7db71fba3231549b8131b79a4a50663a29d9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-528",
+          "title": "LinkedHashSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f4e8c55fcf8e9237c6bf7d8c26e3f032d28211a9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-529",
+          "title": "TreeSet",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cfc6dec278f60107da0de6300c7fdba13ab4df58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-530",
+          "title": "Count Distinct Elements",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7c2c85fb912439106b1715712b1109a25f326729.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-531",
+          "title": "Union & Intersection",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e80ac63386c69aa1b464a0b7f934c1ef4c657e16.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-532",
+          "title": "Find Itinerary for Tickets",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9c9a254026e665c64bc18d08697256705501d9e2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-533",
+          "title": "Largest Subarray with Sum 0",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/12c13151db5cc9a4550295d946f7c63a4cbac818.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-534",
+          "title": "Subarray Sum Equal to K",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/355dc62e7ab7c5d5b3e47cea993e3e009fd3e3a2.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-518",
+          "title": "Update in Code",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Note.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-523",
+          "title": "Comparison Table",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Table.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-535",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Hashing Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-536",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Hashing Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Tries",
+      "lectures": [
+        {
+          "id": "sigma-11-537",
+          "title": "Tries Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fe05d39575812195ab5e8e653ac660f6e70839c9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-538",
+          "title": "What is a Trie?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48ac44321ba5f7e426c1c460cf1593fab84dbb49.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-539",
+          "title": "Creating a Trie",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/63aff77565a3ff216206b67f7100cd29c10b6df7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-540",
+          "title": "Insertion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bff186cc6caa003adafcc60b466ccd54291ef87a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-541",
+          "title": "Searching",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b6fecbb65aa43b0ec22f2d5b2e07e8348eeb2eb7.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-542",
+          "title": "Word Break Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/69f3da852df0f07297dce92ca406e8e1cf9ddb06.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-543",
+          "title": "Prefix Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7fdcc87dd155bc22519beec5f3403e4440d44870.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-544",
+          "title": "startsWith Problem",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/48c70956755c2a459bc70eb74f3bf268419ace4d.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-545",
+          "title": "Unique Substrings",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/09b5e9c980ab09f4f5b478a2ed39546698fa4891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-546",
+          "title": "Longest Word with all Prefixes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f102aa6966042548d7e5fed2e64465df39eee6b.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-547",
+          "title": "Practice Questions",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Tries Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-548",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Tries Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs (Part1)",
+      "lectures": [
+        {
+          "id": "sigma-11-549",
+          "title": "Introduction to Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/946304a3c129be47658df6736127ce2a5778e6a5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-550",
+          "title": "Types of Graphs (Based on Edge)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5276adb476fcfb6bc9afa8f99705d5105b2e970b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-551",
+          "title": "Graph Representations",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab4a56725208702b7ca7d90bbf3f6a4e722febf6.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-552",
+          "title": "Graph Applications",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9275d46b350d15647ef91e8d78cf162c3c887cad.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-553",
+          "title": "Creating a Graph (Adjacency List)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a01a4d72ca242ac4681b797dcd919a1157d1fd77.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-554",
+          "title": "BFS (Breadth First Search)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2f40136d5712d7a79f3d91c2e50e93e9e1943361.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-555",
+          "title": "DFS (Depth First Search)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ff0b8a852e3f29598e507a82b1a7873fe6bb5270.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-556",
+          "title": "Has Path? (using DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a292a2e63974e398498279efd88e07e54b76abcf.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part2)",
+      "lectures": [
+        {
+          "id": "sigma-11-557",
+          "title": "Connected Components",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/58ec88dc22e59b91189e9c3dd7b5a6e82b82de37.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-558",
+          "title": "Cycle in Graphs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b99068679aab39ec73efb1a901380f38579e7b3e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-559",
+          "title": "Cycle Detection (Undirected Graph) - DFS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f0219fd9134a98e09a77195fd7c7aff54f23d344.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-560",
+          "title": "Bipartite Graph",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/50b1fbf8516d39f8164a7efe70e918818f3705b3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-561",
+          "title": "Cycle Detection (Directed graph) - DFS",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1fb6ae102d78d495330ea6e1fa394c1b66e0b2a2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-562",
+          "title": "Extra Read",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/950796fb21b90a69a379a3056a9aad2b4e3ea7e0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-563",
+          "title": "Topological Sorting (using DFS)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dd176b62f477446d6bffefe8f4b7982310de46a0.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graphs (Part3)",
+      "lectures": [
+        {
+          "id": "sigma-11-564",
+          "title": "Topological Sort using BFS (Kahn's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e069d72921ee0772b42dd96528c5c5a3ca80ede4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-565",
+          "title": "Topological Sort using BFS (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6073e6a5ed2c67deff6f822b8c248419088ee891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-566",
+          "title": "All Paths from Source to Target",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f8100bf36bf8b6286e0a79ba17bc4e9fe8a682d2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-567",
+          "title": "Dijkstra's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/391f467134d0ad13095cfec0bbfc7597a638b164.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-568",
+          "title": "Dijkstra's Algorithm (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2c7dc0bf852a72831ff33c1201991b0bfae4b814.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-569",
+          "title": "Practice Qs (Set1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-1 Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-570",
+          "title": "Solutions for Practice Qs (Set1)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-1 Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs (Part4)",
+      "lectures": [
+        {
+          "id": "sigma-11-571",
+          "title": "Bellman Ford Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/142e3f650a4978458ab019a880940464ef4ad259.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-572",
+          "title": "Bellman Ford (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/59dc1675d398ad3aff3020a5d52783fe52e71a58.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-573",
+          "title": "What is MST?",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2be168f46baefdbd2a898ecc9efe3c1b9ca76f04.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-574",
+          "title": "Prim's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/32b5a3f92797bc5d2f3d3a1e91596144cd792fe8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-575",
+          "title": "Prim's Code",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6a1c0ae00f6a56e7e271e65bb6e705dcf5bdd4ff.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Graph (Part5)",
+      "lectures": [
+        {
+          "id": "sigma-11-576",
+          "title": "Cheapest Flights within K Stops",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0916d539eff71afd6f3f3219f571670e5bb79de9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-577",
+          "title": "Cheapest Flights within K Stops (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/89028983b356e3941ce79c1e3f7dab45cf74dbbc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-578",
+          "title": "Connecting Cities",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8df4bf2d299c7259200af342fd996695c99485cc.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-579",
+          "title": "Connecting Cities (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f35098e55c0233a912a101ac83688ec6c1d938b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-580",
+          "title": "Disjoint Set Union",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/c0b6ef4d77302de4deaaf7e9a92380fdd975f083.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-581",
+          "title": "Kruskal's Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/150bc98497087e8b4988408c5e58c8cbfa17b283.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-582",
+          "title": "Flood Fill Algorithm",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/6baef25d57d5d25694ad475ad513e98a600266da.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-583",
+          "title": "Tarjan's Algorithm (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Articulation Point.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-584",
+          "title": "Floyd Warshall Algorithm (Reading Material)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Floyd Warshall Algorithm.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-585",
+          "title": "Practice Qs (Set2)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graoh-02 Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-586",
+          "title": "Solutions for Practice Qs (Set2)",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/Graph-02 Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Graphs - Supplemental",
+      "lectures": [
+        {
+          "id": "sigma-11-587",
+          "title": "Strongly Connected Components (Kosaraju's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/54a7508a2490c892f56993c268b5e41a1fa431ce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-588",
+          "title": "Bridge in Graph (Tarjan's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4cf774a9cdf43d8601cea642463bae215f2eb147.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-589",
+          "title": "Articulation Point (Tarjan's Algorithm)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcc272cdeaeac2fb07842343546cff89c300cb77.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part1)",
+      "lectures": [
+        {
+          "id": "sigma-11-590",
+          "title": "Introduction to DP",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f5e69e80984072b16bca4bdbb91ab035ce9965bf.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-591",
+          "title": "What is DP? (Definition)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/28f801ee80574b72a1d25072e45cbeef09a5b2b4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-592",
+          "title": "Ways of DP",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/1c2d30043cfdb323b10e18e4189e695de6729fc9.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-593",
+          "title": "7 Important Concepts",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/33a6ce22879b4613235071eb2352f9c7f7392549.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-594",
+          "title": "Climbing Stairs (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cc28de62c311fe9a5b8a5a5a87e0b05764e86432.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-595",
+          "title": "Climbing Stairs (Memoization DP)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ba1bbd8ee616a6b8a22fb186eb4b6fc4a6a47a94.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-596",
+          "title": "Climbing Stairs Variation",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/e3eb1d1022fafe2d8bd9712e16365d2d8f05c146.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-597",
+          "title": "Climbing Stairs (Tabulation DP)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/8476269792a8e7a55cc8cb594f080daaa1cd195c.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part2)",
+      "lectures": [
+        {
+          "id": "sigma-11-598",
+          "title": "Types of Knapsack problems",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/88b2110046512ceabb87b4b6162992214715367e.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-599",
+          "title": "0-1 Knapsack (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ca4b45d367e1b9eadbec004536b4a8c61f56c6d5.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-600",
+          "title": "0-1 Knapsack (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/aa1b25efd1fba3f3db522aa8800e603bea252849.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-601",
+          "title": "0-1 Knapsack (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/db79015f0ca97130b87fbfd88bc373c86e3a60d0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-602",
+          "title": "Target Sum Subset (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/46a8c3e22637aef9b1a9f436803fd73a0154fb1a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-603",
+          "title": "Target Sum Subset (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/207c698ac09b2d98037c59ce3e511f33782d3a00.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-604",
+          "title": "Unbounded Knapsack (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/21e0c4f6aca666f807a43a1e485bea2ceb17a31f.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part3)",
+      "lectures": [
+        {
+          "id": "sigma-11-605",
+          "title": "Coin Change (Live Class)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/bad6f7a7072d9b27192fe84cee0e82a9264e3f62.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-606",
+          "title": "Rod Cutting",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/7d43feb2cb338d97061e4c116286a50a3f293df8.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-607",
+          "title": "Longest Common Subsequence (Recursion)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f787466c2ab04c84fa5e007f512a62abd9e5d56c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-608",
+          "title": "LCS (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/a85a799146ca06aba96dcc057d78689d40fb8bce.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-609",
+          "title": "LCS (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/f37e27346e4213c343f8c88f2f01c9656066291a.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part4)",
+      "lectures": [
+        {
+          "id": "sigma-11-610",
+          "title": "Longest Common Substring",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2e9b7967123e07dbd3f4d8e00275e48f73f92239.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-611",
+          "title": "Longest Increasing Subsequence",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/cdeb3ce23bfe8898e5e51aba14904cdd151de17b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-612",
+          "title": "Edit Distance (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ab379bb78c8f90ba4746286500aef185195fa08c.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-613",
+          "title": "Edit Distance (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/864a097aa8c2d5ed350df1524091f9cd3fc10891.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-614",
+          "title": "String Conversion",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/228c9f33cee62336bf5dbedf1a6e93b17062058e.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part5)",
+      "lectures": [
+        {
+          "id": "sigma-11-615",
+          "title": "Wildcard Matching - Hard (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0a0f1826d607224ab3c6a4ec6b0a2cabc2f2719a.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-616",
+          "title": "Wildcard Matching (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/ece9bf21c647adf6b4a5a6f35c582ed9e4b000cb.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-617",
+          "title": "Catalan's Number (Recursion + Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/4adf6b17a3c2a4bed97cc2c5cba3349a9d94cdde.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-618",
+          "title": "Catalan's Number (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/04c37124286daa7735f01497bf4d75a08b5be4f3.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-619",
+          "title": "Count BSTs",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/10763c88756042f44270aa3f3b1c1c8f912d3db2.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-620",
+          "title": "Mountain Ranges",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/022a3de5a218d352862b2ebadca5ba91f9bbb7b3.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "DP (Part6)",
+      "lectures": [
+        {
+          "id": "sigma-11-621",
+          "title": "Basics of Matrices (Math)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/dab9dbc56f6c98e4b83365037d14f02398209b12.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-622",
+          "title": "Matrix Chain Multiplication (Recursion)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69f2144896005a6ab20776e4Unit",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-623",
+          "title": "MCM (Memoization)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/2cf892571a40bdcda5b15883fd7244cabd2f52ca.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-624",
+          "title": "MCM (Tabulation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fed1af6682e276d5ada82e9936fedc8f166b0803.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-625",
+          "title": "Minimum Partitioning",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/fcc786da566cce8159ceea16b0da476d84275a96.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-626",
+          "title": "Minimum Array Jumps (Explanation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/0aba1bc33822a5c5cd449b23b022638ed8eaf717.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-627",
+          "title": "Minimum Array Jumps (Code)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/653515b677edfaca9ebc1c6e850f2e1ed644d250.m3u8",
+          "type": "video"
+        }
+      ],
+      "notes": [
+        {
+          "id": "sigma-11-628",
+          "title": "Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DP Questions.pdf",
+          "type": "pdf"
+        },
+        {
+          "id": "sigma-11-629",
+          "title": "Solutions for Practice Qs",
+          "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=h3x6FoChnPw4mTf8dEc9ZnN3abxN8Kk7H7Qt7l5P&file=pdf/DP Solutions.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "sectionName": "Segment Trees",
+      "lectures": [
+        {
+          "id": "sigma-11-630",
+          "title": "Segment Trees Introduction",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f4f13bfa8bbd317c814e0b1f780731da2c6e588.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-631",
+          "title": "Count & Meaning of Nodes",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/d7e6a23e7f4cc3836aba1288b7f020dada17180f.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-632",
+          "title": "Creation of ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/9545c28861743a44679f340e104b21a42b55b711.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-633",
+          "title": "Queries on ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/5f16db18805709440b7c371bbf58c4141b7e104b.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-634",
+          "title": "Update on ST",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/b0a26d6ff086dc9e3013224b4f407a9e7cc4aab0.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-635",
+          "title": "Max/Min Segment Tree (Creation)",
+          "streamUrl": "https://embed-ssl.wistia.com/deliveries/703276b16c847cf66d87fd9d22296f21ff79e7d4.m3u8",
+          "type": "video"
+        },
+        {
+          "id": "sigma-11-636",
+          "title": "Max/Min Segment Tree (Query/Update)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69f2144896005a6ab20776f2Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "sectionName": "Certificate of Completion",
+      "lectures": [
+        {
+          "id": "sigma-11-637",
+          "title": "Certificate of Completion (certificateCompletion_v2)",
+          "streamUrl": "https://www.apnacollege.in/path-player?courseid=sigma-11&unit=69f2144996005a6ab20776f4Unit",
+          "type": "video"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}
